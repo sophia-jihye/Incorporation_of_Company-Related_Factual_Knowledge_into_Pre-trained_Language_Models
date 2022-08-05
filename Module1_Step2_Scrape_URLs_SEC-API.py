@@ -5,6 +5,7 @@ from sec_api import FullTextSearchApi
 
 root_dir = '/media/dmlab/My Passport/DATA/ComBERT/data'
 company_info_filepath = os.path.join(root_dir, 'company_info_sec_cik_mapper_12057_20220802.csv')
+
 save_filepath_format = os.path.join(root_dir, 'urls_2016_by_sec_api_FullTextSearchApi_with_cik_of_sec_cik_mapper_{}.csv')
 
 api_key_filepath = 'API_Key.txt'
@@ -49,7 +50,7 @@ if __name__ == '__main__':
     print('Created {}'.format(save_filepath))
     
     err_filepath_format = os.path.join(root_dir, 'error_{}.csv')
-    if len(err_df) > 0:
+    if len(err_records) > 0:
         err_df = pd.DataFrame(err_records, columns=['CIK', 'start_date', 'end_date', 'Exception'])
         err_filepath = err_filepath_format.format(len(err_df))
         err_df.to_csv(err_filepath, index=False)
