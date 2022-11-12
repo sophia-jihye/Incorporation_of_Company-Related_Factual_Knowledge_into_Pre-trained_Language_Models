@@ -1,5 +1,4 @@
-# ComBERT
-Company Knowledge-Enhanced BERT
+# Incorporation of Company-related Factual Knowledge into Pretrained Language Models for Stock-related Spam Tweet Filtering
 
 ## Citation
 ```
