@@ -4,10 +4,10 @@ import pandas as pd
 import numpy as np
 import torch, os
 
-def train(model, train_dataset, val_dataset, save_dir):
+def train(model, train_dataset, val_dataset, save_dir, num_train_epochs=3):
     training_args = TrainingArguments(
         output_dir=save_dir,
-        num_train_epochs=3,
+        num_train_epochs=num_train_epochs,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
         warmup_steps=500,
@@ -34,6 +34,6 @@ def inference(model, input_ids, attention_mask):
     with torch.no_grad():
         try: outputs = model(input_ids, attention_mask=attention_mask, return_dict=True)
         except: return None
-    logits = outputs['logits'].detach().cpu().numpy()
-    predicted_label = np.argmax(logits)
-    return predicted_label
+    logits = outputs['logits']
+    predicted_label = torch.argmax(logits)
+    return predicted_label.item()
