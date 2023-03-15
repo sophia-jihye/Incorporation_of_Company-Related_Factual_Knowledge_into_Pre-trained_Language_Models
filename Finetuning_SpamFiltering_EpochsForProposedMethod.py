@@ -71,7 +71,7 @@ if __name__ == '__main__':
     train_seed_nums = [1,2] # [0,1,2]
     for train_seed_num in train_seed_nums:
         train_filepaths_ = sorted(glob(os.path.join(root_dir, 'data_finetuning_spamFiltering', 'train_seed_{}'.format(train_seed_num), 'train_*.csv')))
-        train_filepaths = glob_re(r'.*(400|500|600|700|800|900|1000|2000).*\.csv', train_filepaths_)
+        train_filepaths = glob_re(r'.*(_400.csv|_500.csv|_600.csv|_700.csv|_800.csv|_900.csv|_1000.csv|_2000.csv)', train_filepaths_)
         for train_filepath in train_filepaths:
             source_df = do_prepare_data(relabel_dict, train_filepath)
             train_df = source_df.iloc[:int(len(source_df)*0.8)]
