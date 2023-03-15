@@ -10,7 +10,7 @@ from transformers_helper import load_tokenizer_and_model
 from CustomDataset import CustomDataset, encode_for_inference
 import finetuning_classification, reports
 
-num_train_epochs = 3 # Parameter
+num_train_epochs = 6 # Parameter
 
 root_dir = '/home/jihyeparkk/DATA/ComBERT' 
 model_save_dir = os.path.join(root_dir, 'temp')
@@ -68,7 +68,7 @@ if __name__ == '__main__':
     
     save_dir_format = os.path.join(root_dir, 'results_spamFiltering', '{}_epoch{}_seed{}')
     
-    train_seed_nums = [1,2] # [0,1,2]
+    train_seed_nums = [0,1,2]
     for train_seed_num in train_seed_nums:
         train_filepaths_ = sorted(glob(os.path.join(root_dir, 'data_finetuning_spamFiltering', 'train_seed_{}'.format(train_seed_num), 'train_*.csv')))
         train_filepaths = glob_re(r'.*(_400.csv|_500.csv|_600.csv|_700.csv|_800.csv|_900.csv|_1000.csv|_2000.csv)', train_filepaths_)
