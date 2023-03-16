@@ -851,7 +851,7 @@ class DataCollatorForWholeWordMask(DataCollatorForLanguageModeling):
     produce an output that is roughly equivalent to [`.DataCollatorForLanguageModeling`].
     </Tip>"""
     
-    def __init__(self, tokenizer, mlm, mlm_probability, company_names, is_masking_company_name_first):
+    def __init__(self, tokenizer, mlm, mlm_probability, company_names):
         tokenizer = tokenizer
         mlm = mlm
         mlm_probability =   mlm_probability
@@ -864,7 +864,6 @@ class DataCollatorForWholeWordMask(DataCollatorForLanguageModeling):
         self.company_names = company_names
         print('Preparing company_name_to_tokens..')
         self.company_name_to_tokens = {company_name:tokenizer.convert_ids_to_tokens(tokenizer(company_name)['input_ids'])[1:-1] for company_name in company_names}
-        self.is_masking_company_name_first = is_masking_company_name_first
 
         
     def torch_call(self, examples: List[Union[List[int], Any, Dict[str, Any]]]) -> Dict[str, Any]:
@@ -989,9 +988,6 @@ class DataCollatorForWholeWordMask(DataCollatorForLanguageModeling):
         # 셔플링된 기업명 토큰 그룹이 앞에, 셔플링된 개별 토큰들이 뒤에.
         # masking 우선순위는 기업명 토큰이 더 높도록 처리함
         cand_indexes = grouped_indices + cand_indexes
-        
-        if not self.is_masking_company_name_first:
-            random.shuffle(cand_indexes) # 셔플링
         
         # [CLS] 포함, masking할 수 있는 최대 토큰 수
         num_to_predict = min(max_predictions, max(1, int(round(len(input_tokens) * self.mlm_probability))))

@@ -3,14 +3,17 @@ from glob import glob
 from tqdm import tqdm 
 tqdm.pandas()
 import pandas as pd
-import os, torch, copy, shutil, re
+import os, torch, copy, shutil, re, argparse
 import numpy as np
 
 from transformers_helper import load_tokenizer_and_model
 from CustomDataset import CustomDataset, encode_for_inference
 import finetuning_classification, reports
 
-num_train_epochs = 6 # Parameter
+parser = argparse.ArgumentParser()
+parser.add_argument('--epoch', type=int, default=1, help='')
+args = parser.parse_args()
+num_train_epochs = args.epoch
 
 root_dir = '/home/jihyeparkk/DATA/ComBERT' 
 model_save_dir = os.path.join(root_dir, 'temp')
@@ -91,6 +94,6 @@ if __name__ == '__main__':
                 start_test(device, model_save_dir, test_df, save_dir, \
                            postfix='train_{}'.format(os.path.basename(train_filepath.split('_')[-1].replace('.csv',''))))
 
-                # 메모리 확보를 위해 한번 프로세싱이 끝난 폴더는 삭제
+                # To save memory, delete the finetuned model in `temp` directory once model training is finished
                 try: shutil.rmtree(model_save_dir)
                 except OSError as e: print("Error: %s - %s." % (e.filename, e.strerror))

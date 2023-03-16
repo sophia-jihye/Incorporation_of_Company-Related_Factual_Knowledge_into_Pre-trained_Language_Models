@@ -1,9 +1,12 @@
 from transformers import TrainingArguments, Trainer
 from transformers import DataCollatorForLanguageModeling
+from transformers import DataCollatorForWholeWordMask
 
-from custom_data_collator import DataCollatorForWholeWordMask
+from custom_data_collator import DataCollatorForWholeWordMask as DataCollatorForCompanyNameMask
 
-def train(tokenizer, model, dataset, save_dir, company_names=None, is_masking_company_name_first=None):
+company_filepath = os.path.join('/home/jihyeparkk/DATA/ComBERT', 'data', 'company_info_sec_cik_mapper_12057_20220802.csv')
+
+def train(tokenizer, model, dataset, save_dir, method_name='CM'):
     mlm_prob=0.15
     model.train()
     
@@ -15,14 +18,19 @@ def train(tokenizer, model, dataset, save_dir, company_names=None, is_masking_co
         save_total_limit = 1,
     )
     
-    if company_names is None:
-        print('company_names is None')
+    if method_name == 'CM':
+        company_names = [item.lower() for item in list(pd.read_csv(company_filepath).Name.unique())]
+        print('[Company name Masking] Number of company names:', len(company_names))
+        data_collator = DataCollatorForCompanyNameMask(tokenizer=tokenizer, mlm=True, mlm_probability=mlm_prob, company_names=company_names)
+    
+    elif method_name == 'SM':
+        print('[Subword Masking]')
         data_collator = DataCollatorForLanguageModeling(tokenizer = tokenizer, mlm = True, mlm_probability = mlm_prob)
-    else:
-        print('Number of company names:', len(company_names))
-        data_collator = DataCollatorForWholeWordMask(tokenizer=tokenizer, mlm=True, mlm_probability=mlm_prob, \
-                             company_names=company_names, is_masking_company_name_first=is_masking_company_name_first)
-
+    
+    elif method_name == 'WWM':
+        print('[Whole Word Masking]')
+        data_collator = DataCollatorForWholeWordMask(tokenizer = tokenizer, mlm = True, mlm_probability = mlm_prob)
+    
     trainer = Trainer(
         model = model,
         args = training_args,
