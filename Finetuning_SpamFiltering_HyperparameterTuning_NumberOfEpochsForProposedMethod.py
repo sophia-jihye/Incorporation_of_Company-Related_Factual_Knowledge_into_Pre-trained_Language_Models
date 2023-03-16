@@ -16,7 +16,7 @@ args = parser.parse_args()
 num_train_epochs = args.epoch
 
 root_dir = '/home/jihyeparkk/DATA/ComBERT' 
-model_save_dir = os.path.join(root_dir, 'temp')
+model_save_dir = os.path.join(root_dir, 'temp{}'.format(num_train_epochs))
 
 model_name_or_dirs = []
 model_name_or_dirs.extend(sorted(glob(os.path.join(root_dir, 'models_post-trained', '*_CM'))))
