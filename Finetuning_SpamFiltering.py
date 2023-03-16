@@ -12,14 +12,19 @@ import finetuning_classification, reports
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--epoch', type=int, default=5, help='[Hyperparameter tuning] Number of epochs')
+parser.add_argument('--method', type=str, default='CM', help='CM: Company name Masking; SM: Subword Masking; WWM: Whole Word Masking; NoPT: No Post-training')
 args = parser.parse_args()
 num_train_epochs = args.epoch
+method_name = args.method
 
 root_dir = '/home/jihyeparkk/DATA/ComBERT' 
 model_save_dir = os.path.join(root_dir, 'temp{}'.format(num_train_epochs))
 
-model_name_or_dirs = []
-model_name_or_dirs.extend(sorted(glob(os.path.join(root_dir, 'models_post-trained', '*_CM'))))
+if method_name == 'NoPT':
+    model_name_or_dirs = ['ProsusAI/finbert', 'bert-base-uncased', 'nlpaueb/sec-bert-base', 'yiyanghkust/finbert-pretrain']
+    model_name_alias_dict = {'ProsusAI/finbert': 'Araci_NoPT', 'bert-base-uncased': 'BERT_NoPT', 'nlpaueb/sec-bert-base': 'SECBERT_NoPT', 'yiyanghkust/finbert-pretrain': 'Yang_NoPT'}
+else:
+    model_name_or_dirs = sorted(glob(os.path.join(root_dir, 'models_post-trained', '*_{}'.format(method_name))))
 
 test_filepath = os.path.join(root_dir, 'data_finetuning_spamFiltering', 'test_10000.csv')
 
@@ -83,7 +88,10 @@ if __name__ == '__main__':
             train_labels, val_labels = train_df['label'].values, val_df['label'].values
 
             for model_name_or_dir in model_name_or_dirs:
-                save_dir = save_dir_format.format(os.path.basename(model_name_or_dir), num_train_epochs, train_seed_num)
+                if method_name == 'NoPT':
+                    save_dir = save_dir_format.format(model_name_alias_dict[model_name_or_dir], num_train_epochs, train_seed_num)
+                else:
+                    save_dir = save_dir_format.format(os.path.basename(model_name_or_dir), num_train_epochs, train_seed_num)
                 if not os.path.exists(save_dir): os.makedirs(save_dir)
 
                 start_finetuning(model_name_or_dir, num_classes, train_texts, train_labels, val_texts, val_labels, model_save_dir, num_train_epochs)
