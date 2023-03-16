@@ -11,7 +11,7 @@ from CustomDataset import CustomDataset, encode_for_inference
 import finetuning_classification, reports
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--epoch', type=int, default=1, help='')
+parser.add_argument('--epoch', type=int, default=5, help='[Hyperparameter tuning] Number of epochs')
 args = parser.parse_args()
 num_train_epochs = args.epoch
 
