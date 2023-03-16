@@ -1,3 +1,4 @@
+import os
 from transformers import TrainingArguments, Trainer
 from transformers import DataCollatorForLanguageModeling
 from transformers import DataCollatorForWholeWordMask
@@ -13,7 +14,7 @@ def train(tokenizer, model, dataset, save_dir, method_name='CM'):
     training_args = TrainingArguments(
         output_dir = save_dir,
         num_train_epochs = 5,   
-        per_device_train_batch_size = 4,
+        per_device_train_batch_size = 8,
         save_steps = 10000,
         save_total_limit = 1,
     )
