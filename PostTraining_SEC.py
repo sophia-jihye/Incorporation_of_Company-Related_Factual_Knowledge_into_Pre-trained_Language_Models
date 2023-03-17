@@ -7,9 +7,13 @@ from transformers_helper import load_tokenizer_and_model
 import post_training_mlm
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--method', type=str, default='CM', help='CM: Company name Masking; SM: Subword Masking; WWM: Whole Word Masking')
+parser.add_argument('--method', type=str, default='WWM', help='CM: Company name Masking; SM: Subword Masking; WWM: Whole Word Masking')
+parser.add_argument('--model', type=str, default='Yang', help='Yang: yiyanghkust/finbert-pretrain; Araci: ProsusAI/finbert; BERT: bert-base-uncased; SECBERT: nlpaueb/sec-bert-base')
 args = parser.parse_args()
 method_name = args.method
+alias_model_name = args.model
+
+model_name_dict = {'Yang': 'yiyanghkust/finbert-pretrain', 'Araci': 'ProsusAI/finbert', 'BERT': 'bert-base-uncased', 'SECBERT': 'nlpaueb/sec-bert-base'}
 
 root_dir = '/home/jihyeparkk/DATA/ComBERT'
 post_filepath = os.path.join(root_dir, 'data_postTraining', 'post_item1_converted_subnames_to_fullname_sentences_with_fullname.txt') 
@@ -29,12 +33,11 @@ def start_post_train(model_name_or_dir, post_filepath, save_dir, method_name):
     post_training_mlm.train(tokenizer, model, dataset, save_dir, method_name)
 
 if __name__ == '__main__':
-    
-    for model_name_or_dir, alias_model_name in [('ProsusAI/finbert', 'Araci'), ('bert-base-uncased', 'BERT'), \
-                                                ('nlpaueb/sec-bert-base', 'SECBERT'), ('yiyanghkust/finbert-pretrain', 'Yang')]:
-        start = time.time()
-        save_dir = save_dir_format.format(alias_model_name, method_name)
-        if not os.path.exists(save_dir): os.makedirs(save_dir)
 
-        start_post_train(model_name_or_dir, post_filepath, save_dir, method_name)
-        record_elasped_time(start, os.path.join(save_dir, 'elapsed-time.log'))
+    start = time.time()
+    model_name_or_dir = model_name_dict[alias_model_name]
+    save_dir = save_dir_format.format(alias_model_name, method_name)
+    if not os.path.exists(save_dir): os.makedirs(save_dir)
+
+    start_post_train(model_name_or_dir, post_filepath, save_dir, method_name)
+    record_elasped_time(start, os.path.join(save_dir, 'elapsed-time.log'))
