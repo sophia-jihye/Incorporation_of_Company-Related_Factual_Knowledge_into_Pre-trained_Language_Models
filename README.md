@@ -5,13 +5,21 @@
 In preparation
 ```
 
-## Setup
+## Setup 
+### `conda` environment
 ```bash
 conda create --name transformers python=3.7
 conda activate transformers
-conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia # nvidia-smi로 CUDA 버전 확인 후 진행할 것
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia 
 pip install transformers scikit-learn pandas tqdm matplotlib seaborn ipython nltk
 ```
+
+### using `pip`
+```bash
+pip3 install torch torchvision torchaudio
+pip install transformers scikit-learn pandas tqdm matplotlib seaborn ipython nltk
+```
+
 
 ## Dataset for post-training (Form 10-Ks)
 
