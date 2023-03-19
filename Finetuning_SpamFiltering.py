@@ -11,22 +11,29 @@ from CustomDataset import CustomDataset, encode_for_inference
 import finetuning_classification, reports
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--epoch', type=int, default=5, help='[Hyperparameter tuning] Number of epochs')
-parser.add_argument('--method', type=str, default='CM', help='CM: Company name Masking; SM: Subword Masking; WWM: Whole Word Masking; NoPT: No Post-training')
+parser.add_argument('--epoch', type=int, required=True, help='[Hyperparameter tuning] Number of epochs')
+parser.add_argument('--resource', type=str, required=True, help='low: Fine-tuning data sizes are [50, 100, 200, 300, 400]; rich: Fine-tuning data sizes are [500, 600, 700, 800, 900, 1000, 2000]')
+parser.add_argument('--test_company', type=str, required=True, help='y: test_containing_company_name_1000.csv; n: test_without_company_name_1000.csv')
+parser.add_argument('--method', type=str, required=True, help='CM: Company name Masking; SM: Subword Masking; WWM: Whole Word Masking; NoPT: No Post-training')
 args = parser.parse_args()
 num_train_epochs = args.epoch
 method_name = args.method
+test_company = args.test_company
+resource_setting = args.resource
 
 root_dir = '/home/jihyeparkk/DATA/ComBERT' 
-model_save_dir = os.path.join(root_dir, 'temp{}'.format(num_train_epochs))
+if test_company == 'y':
+    test_filepath = os.path.join(root_dir, 'data_finetuning_spamFiltering', 'test_containing_company_name_1000.csv')
+elif test_company == 'n':
+    test_filepath = os.path.join(root_dir, 'data_finetuning_spamFiltering', 'test_without_company_name_1000.csv')
+
+model_save_dir = os.path.join(root_dir, 'temp{}{}{}'.format(num_train_epochs, method_name, test_company))
 
 if method_name == 'NoPT':
     model_name_or_dirs = ['ProsusAI/finbert', 'bert-base-uncased', 'nlpaueb/sec-bert-base', 'yiyanghkust/finbert-pretrain']
     model_name_alias_dict = {'ProsusAI/finbert': 'Araci_NoPT', 'bert-base-uncased': 'BERT_NoPT', 'nlpaueb/sec-bert-base': 'SECBERT_NoPT', 'yiyanghkust/finbert-pretrain': 'Yang_NoPT'}
 else:
     model_name_or_dirs = sorted(glob(os.path.join(root_dir, 'models_post-trained', '*_{}'.format(method_name))))
-
-test_filepath = os.path.join(root_dir, 'data_finetuning_spamFiltering', 'test_10000.csv')
 
 def glob_re(pattern, strings):
     return list(filter(re.compile(pattern).match, strings))
@@ -74,12 +81,17 @@ if __name__ == '__main__':
     relabel_dict = {'human':0, 'bot':1}
     num_classes = len(relabel_dict)    
     
-    save_dir_format = os.path.join(root_dir, 'results_spamFiltering', '{}_epoch{}_seed{}')
+    save_dir_format = os.path.join(root_dir, 'results_spamFiltering', 'testCompanyName={}_{}_epoch{}_seed{}')
     
-    train_seed_nums = [0,1,2]
+    train_seed_nums = [0,1,2,3,4]
     for train_seed_num in train_seed_nums:
         train_filepaths_ = sorted(glob(os.path.join(root_dir, 'data_finetuning_spamFiltering', 'train_seed_{}'.format(train_seed_num), 'train_*.csv')))
-        train_filepaths = glob_re(r'.*(_400.csv|_500.csv|_600.csv|_700.csv|_800.csv|_900.csv|_1000.csv|_2000.csv)', train_filepaths_)
+        
+        if resource_setting == 'low':
+            train_filepaths = glob_re(r'.*(_50.csv|_100.csv|_200.csv|_300.csv|_400.csv)', train_filepaths_)
+        elif resource_setting == 'rich':
+            train_filepaths = glob_re(r'.*(_500.csv|_600.csv|_700.csv|_800.csv|_900.csv|_1000.csv|_2000.csv)', train_filepaths_)
+        
         for train_filepath in train_filepaths:
             source_df = do_prepare_data(relabel_dict, train_filepath)
             train_df = source_df.iloc[:int(len(source_df)*0.8)]
@@ -89,9 +101,9 @@ if __name__ == '__main__':
 
             for model_name_or_dir in model_name_or_dirs:
                 if method_name == 'NoPT':
-                    save_dir = save_dir_format.format(model_name_alias_dict[model_name_or_dir], num_train_epochs, train_seed_num)
+                    save_dir = save_dir_format.format(test_company, model_name_alias_dict[model_name_or_dir], num_train_epochs, train_seed_num)
                 else:
-                    save_dir = save_dir_format.format(os.path.basename(model_name_or_dir), num_train_epochs, train_seed_num)
+                    save_dir = save_dir_format.format(test_company, os.path.basename(model_name_or_dir), num_train_epochs, train_seed_num)
                 if not os.path.exists(save_dir): os.makedirs(save_dir)
 
                 start_finetuning(model_name_or_dir, num_classes, train_texts, train_labels, val_texts, val_labels, model_save_dir, num_train_epochs)
