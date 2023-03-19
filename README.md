@@ -25,7 +25,7 @@ pip install transformers scikit-learn pandas tqdm matplotlib seaborn ipython nlt
 
 ### Python packages
 You can download the 3,990 item 1 sections used in the experiment <a href="https://drive.google.com/drive/folders/1wDletufalrRncQEQxRgCQlqyoMWGg8x3?usp=sharing">here</a>.
-- The dataset includes item 1 sections published in 10-K filings in 2016 only. No other years are included.
+- The dataset contains the Item 1 section of the 10-K filings published in 2016. No other years are included.
 - We report that we used <a href="https://sec-api.io">SEC-API.io</a> for scraping Form 10-Ks and extracting item 1 sections.
 
 
