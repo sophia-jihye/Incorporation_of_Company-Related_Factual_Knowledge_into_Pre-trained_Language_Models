@@ -5,7 +5,7 @@
 In preparation
 ```
 
-## Setup 
+## Environment 
 ### `conda` environment
 ```bash
 conda create --name transformers python=3.7
@@ -20,6 +20,14 @@ pip3 install torch torchvision torchaudio
 pip install transformers scikit-learn pandas tqdm matplotlib seaborn ipython nltk
 ```
 
+## Base models
+* SEC-BERT
+	- Alias in this repository: `SECBERT`
+	- Loukas, L., Fergadiotis, M., Chalkidis, I., Spyropoulou, E., Malakasiotis, P., Androutsopoulos, I., & Paliouras, G. (2022). FiNER: Financial numeric entity recognition for XBRL tagging. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1) (pp. 4419–4431).
+* Huang et al.'s FinBERT
+	- Alias in this repository: `Yang`
+	- Huang, A. H., Wang, H., & Yang, Y. (2022). FinBERT: A large language model for extracting information from financial text. Contemporary Accounting Research, 00 , 1–36.
+	- Yang, Y., UY, M. C. S., & Huang, A. (2020). Finbert: A pretrained language model for financial communications. arXiv:2006.08097.
 
 ## Dataset for post-training (Form 10-Ks)
 
