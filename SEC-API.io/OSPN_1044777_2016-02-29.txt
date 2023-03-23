@@ -1,0 +1,474 @@
+ Item 1 - Business 
+
+VASCO Data Security International, Inc. was incorporated in the State of Delaware in 1997 and is the successor to VASCO Corp., a Delaware corporation. Our principal executive offices are located at 1901 South Meyers Road, Suite 210, Oakbrook Terrace, Illinois 60181; the telephone number at that address is 630 932 8844. Our international headquarters in Europe is located at World-Wide Business Center, Balz-Zimmermannstrasse 7, CH-8152, Glattbrugg, Switzerland; the phone number at this location is +41 43 555 3500. Our principal operations offices in Europe are located at Koningin Astridlaan 164, B-1780 Wemmel, Belgium and the telephone number at that address is +32 2 609 9700. Unless otherwise noted, references in this Annual Report on Form 10-K to &#147;VASCO&#148;, &#147;company&#148;, &#147;we&#148;, &#147;our&#148;, and &#147;us&#148; refer to VASCO Data Security International, Inc. and its subsidiaries. 
+
+Additional information on the company, our products and services and our results, including the company&#146;s annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed with the Securities and Exchange Commission (the &#147;SEC&#148;) are available, free of charge, on our website at https://www.vasco.com. You may also read and copy any materials we file with the SEC at the SEC&#146;s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Our reports are filed electronically with the SEC and are also available on the SEC&#146;s website (http://www.sec.gov). 
+
+General 
+
+VASCO is an IT security company that designs, develops and markets security and business enablement solutions that secure and manage access to digital assets, and protect and facilitate transactions online, via mobile devices, and in-person. VASCO is a world leader in providing two-factor authentication and electronic signature solutions to financial institutions. VASCO solutions secure access to data, assets, and applications for global enterprises; provide tools for application developers to easily integrate security functions into their web-based and mobile applications; and facilitate digital transactions involving the signing, sending and managing of documents. Our core technology, two-factor authentication (also known as 2FA) strengthens the process of verifying the identity of users by means of a combination of two different components. These components may consist of something that the user knows, such as a username, and another item that the user possesses, such as a VASCO hardware or software authenticator that generates a one-time password (OTP). Two-factor authentication is a type of multi-factor authentication. 
+
+VASCO&#146;s security solutions include both open standards-based and proprietary solutions, some of which are patented products and services used for authentication, electronically signing transactions and documents, and identity management in Business-to-Business (&#147;B2B&#148;), Business-to-Employee (&#147;B2E&#148;) and Business-to-Consumer (&#147;B2C&#148;) environments. 
+
+Historically, we have focused on two target market segments, the banking and/or financial services market (which we refer to as the &#147;Banking Market&#148; or &#147;Banking&#148;) and the enterprise and application security market (which we refer to as the &#147;Enterprise and Application Security Market&#148; or &#147;Enterprise and Application Security&#148;). Our target markets include, but are not limited to, applications where individuals access assets and information, and conduct transactions that have value. 
+
+In this increasingly connected world, online and mobile application owners and users benefit from our expertise in two-factor authentication, transaction signing, and application security. Our convenient and proven security solutions enable trusted interactions between businesses, employees, and consumers across a variety of online and mobile platforms. 
+
+&#160; 
+
+In order to grow in this rapidly evolving market, VASCO has developed a growth strategy. Our strategy includes the following: 
+
+&#160;
+
+&#160; &#149; &#160; Bringing the next generation of authentication and electronic signature technologies to our customers to coincide with their business needs and refresh cycles; 
+
+&#160;
+
+&#160; &#149; &#160; Driving increased demand for our products in new applications and new markets; 
+
+&#160;
+
+&#160; &#149; &#160; Continuing to expand our client base in vertical market segments beyond our core business; and 
+
+&#160;
+
+&#160; &#149; &#160; Acquiring technology companies that expand our technology portfolio or our customer base and allow us to achieve our business objectives. 
+
+Our newest product offerings enhance our library of mobile application security modules, add risk-based anti-fraud solutions, and deliver broad-based signature capabilities that enable secure and simple digitized business transactions. 
+
+The number of people using the internet via computers, tablets, and smartphones continues to grow at a rapid pace. Consumers are embracing online and mobile transactions and banking in ever-increasing numbers. Organizations of all types have an increasing number of employees and business partners accessing protected resources from remote locations. New business paradigms such as these introduce new security risks for all participants, especially banks, merchants, and online service providers. Large and powerful criminal hacking organizations are launching more sophisticated hacking attacks with greater frequency. The criminal activities of private and state-sponsored hacking organizations has driven an increased need for security solutions and the expansion of regulations requiring organizations to improve their security measures to protect against hacking attacks and breaches. Several governments worldwide have recognized the risk associated with using fixed passwords for internet applications and have issued specific rules requiring two-factor authentication for online banking security. We anticipate that this trend may continue and that governments in other countries could prepare similar guidance or rules in order to protect their citizens&#146; online assets. 
+
+Our Background 
+
+Our predecessor company, VASCO Corp., entered the data security business in 1991 through the acquisition of a controlling interest in ThumbScan, Inc., which we renamed as VASCO Data Security, Inc. 
+
+In 1996, we expanded our computer security business by acquiring Lintel Security NV/SA, a Belgian corporation, which included assets associated with the development of security tokens and security technologies for personal computers and computer networks. Also in 1996, we acquired Digipass NV/SA, a Belgian corporation, which was also a developer of security tokens and security technologies and whose name we changed to VASCO Data Security NV/SA in 1997. 
+
+In 1997, VASCO Data Security International, Inc. was incorporated and in 1998, we completed a registered exchange offer with the holders of the outstanding securities of VASCO Corp. 
+
+In December 2006, we opened our international headquarters in Zurich, Switzerland. In 2007, we established wholly owned sales subsidiaries in Brazil and Japan. 
+
+In 2008 and 2009, we established wholly-owned sales subsidiaries in Mumbai, India and Bahrain, respectively. 
+
+In 2011, we completed the establishment of our wholly-owned sales subsidiary in China and received our trade license for a new subsidiary in Dubai, United Arab Emirates. 
+
+Since the 1998 exchange offer, we have engaged in eleven acquisitions and one disposition. 
+
+&#160; 
+
+In May 2013, we acquired Cronto Limited (&#147;Cronto&#148;), a provider of secure visual transaction authentication solutions for online banking. Cronto&#146;s patented solution offers a robust, yet simple way to assure that a financial transaction has not been compromised, or &#147;hacked.&#148; The Cronto solution has been integrated into VACMAN Controller and IDENTIKEY Server, VASCO&#146;s security platforms that support VASCO&#146;s entire family of strong authentication and e-signature products. 
+
+In May 2014, we acquired Risk IDS, a provider of risk-based authentication solutions to the global banking community. The platform is designed to evaluate the profile of the user requesting access to the system to determine the risk profile associated with the transaction. It features a real-time analysis engine that uses rules and statistical techniques to improve real-time fraud detection. The Risk IDS solution is being integrated into our family of strong authentication and e-signature products. 
+
+In November 2015, we acquired Silanis Technology Inc., a leading provider of Electronic Signature (e-signature) and digital transaction solutions used to sign, send and manage documents. Silanis&#146; eSignLive&#153; platform is trusted by some of the largest banks, insurers and government agencies. 
+
+Our Approach 
+
+We believe that security solutions for authentication, electronic signature, and identity management that protect access to financial accounts and internal and cloud applications as well as the integrity of transactions, must be broad in scope and address all of the critical aspects of data security. The market requirements for security continue to evolve and we are responding by expanding our solutions beyond traditional authentication to include more channels such as mobile and ATM security. We believe that effective security solutions must address and assimilate issues relating to the following: 
+
+&#160;
+
+&#160; &#149; &#160; Speed and ease of implementation, use, and administration; 
+
+&#160;
+
+&#160; &#149; &#160; Reliability; 
+
+&#160;
+
+&#160; &#149; &#160; Interoperability within diverse applications on-premises and in the cloud; 
+
+&#160;
+
+&#160; &#149; &#160; Scalability; and 
+
+&#160;
+
+&#160; &#149; &#160; Overall cost of ownership. 
+
+Accordingly, we have adopted the following approach to data security in designing our products: 
+
+&#160;
+
+&#160; &#149; &#160; Where appropriate, we incorporate industry-accepted, open and non-proprietary protocols. This permits interoperability between our products and multiple platforms, products, and applications widely in use. 
+
+&#160;
+
+&#160; &#149; &#160; We minimize the effort required for implementation and integration with existing legacy applications and infrastructure. 
+
+&#160;
+
+&#160; &#149; &#160; We try to offer a more attractive total cost of ownership than competing products and services. 
+
+&#160;
+
+&#160; &#149; &#160; We support a wide variety of devices used to gain access to applications through the internet including personal computers, smart phones, tablets, and other personal devices. 
+
+&#160;
+
+&#160; &#149; &#160; We develop products that are designed to provide a balance between ease of use and the strength of the underlying authentication technology used. Our single sign-on product allows users to access multiple applications using one credential. Some of our client products use quick-response (&#147;QR&#148;) codes that allow a user to minimize key strokes by optically scanning a QR code that may be encrypted, thus increasing the strength of the security being used. 
+
+&#160;
+
+&#160; &#149; &#160; We provide multiple choices to our customers for hardware and software solutions. By using our anti-fraud platform, customers can deploy two-factor authentication quickly. As a result of this 
+
+&#160; 
+
+&#160; approach, we believe that we are a leading provider of two-factor authentication, electronic signature, and identity management solutions that can help reduce customers&#146; losses to fraud and hacking, and help facilitate transactions. 
+
+Our Products and Services 
+
+Authentication and anti-fraud solutions, our primary product offerings, provide a flexible and affordable means of authenticating users to networks and to web-based and mobile applications. Our authentication products calculate dynamic passwords, also known as one-time passwords (&#147;OTP&#148;), that authenticate users logging onto networks or other applications. In addition, our products can be used to enable electronic signatures to protect electronic transactions and the integrity of the contents of such transactions. 
+
+Multi-factor authentication consists of several factors: 
+
+&#160;
+
+&#160; &#149; &#160; What the user knows (such as a username or a PIN code); 
+
+&#160;
+
+&#160; &#149; &#160; What the user has (such as a DIGIPASS hardware or software authenticator); and 
+
+&#160;
+
+&#160; &#149; &#160; Who the user is (a biometric or behavioral characteristic of the user). 
+
+Using our solutions, to enter a remote system, access protected applications, or electronically sign a transaction, the user needs the following: 
+
+&#160;
+
+&#160; &#149; &#160; Knowledge of either a username or a PIN code; and 
+
+&#160;
+
+&#160; &#149; &#160; An authenticator, either a DIGIPASS hardware authenticator or a DIGIPASS software authenticator downloaded onto existing compatible device. 
+
+Both factors help ensure that the correct person is being granted access to an application, protected data, or signing a transaction, instead of a hacker. This helps reduce fraud and protect valuable assets. 
+
+VASCO&#146;s primary product and service lines include Host System products, which are typically a component of an organization&#146;s IT infrastructure, and Client Authenticators, which are devices used by end users for authentication. 
+
+Host System products: 
+
+&#160;
+
+&#160; &#149; &#160; VACMAN Controller: Core host system software authentication platform, combining all technologies on one unique platform; 
+
+&#160;
+
+&#160; &#149; &#160; IDENTIKEY Authentication Server: Software that adds full server functionality to the VACMAN core authentication platform; 
+
+&#160;
+
+&#160; &#149; &#160; Cloud Services: Authentication and digital signature software services for web and mobile application developers run on VASCO&#146;s servers. This includes our DIGIPASS as a Service solution for cloud-based authentication services primarily for enterprise customers and our MYDIGIPASS solution for end user authentication in the cloud. 
+
+Client Authenticator Products: 
+
+&#160;
+
+&#160; &#149; &#160; DIGIPASS Hardware Authenticators: A broad family of multi-application hardware authenticators in a variety of form factors and feature sets to meet the diverse security needs of clients across multiple vertical markets. The hardware form factors include one-button, e-signature, card reader, PKI, and Bluetooth-enabled devices. 
+
+&#160;
+
+&#160; &#149; &#160; DIGIPASS Software Authenticators: These are authenticators that run on existing non-VASCO devices, such as PCs, mobile phones, tablets, etc. Built around our cornerstone DIGIPASS API, 
+
+&#160; 
+
+&#160; software authenticators include DIGIPASS for Apps (a library of security APIs for mobile applications) and DIGIPASS for Mobile (a security application for mobile devices). 
+
+VASCO offers additional product and service lines including three categories of solutions; Developer Tools, which are typically used by organizations developing mobile applications, Risk Analysis Products, used to identify and mitigate the risk of fraud, and e-signature solutions used to sign, send, and mange documents. 
+
+Developer Tools: 
+
+&#160;
+
+&#160; &#149; &#160; In addition to being a client authentication device when downloaded onto a mobile device, DIGIPASS for Apps is also a comprehensive software development kit (&#147;SDK&#148;) that allows software developers to quickly and easily integrate application security elements and other security features into mobile applications. 
+
+Risk Analysis Products: 
+
+&#160;
+
+&#160; &#149; &#160; IDENTIKEY Risk Manager (IRM) is a comprehensive anti-fraud solution designed to help improve the manner and speed at which organizations detect fraud across multiple channels, enabling a proactive approach to fraud prevention, while at the same time making the experience as painless as possible end users. 
+
+Electronic Signature Products: 
+
+&#160;
+
+&#160; &#149; &#160; eSignLive is an electronic signature (e-signature) product that enables digital transactions by facilitating the signing, sending, and management of documents. eSignLive enables organizations to digitize business processes and conduct secure enterprise transactions that touch the customer. eSignLive delivers e-signature solutions to organizations of all sizes, including banks, credit unions, insurers, pharmaceutical companies and government agencies. Built on a single SaaS platform that can be deployed in the cloud or on-premises, eSignLive provides highly tailored e-signing experiences and strong legal protection and regulatory compliance. 
+
+We offer our Host System products in one of two models, an on-premises model or an in-the-cloud services model: 
+
+&#160;
+
+&#160; 1. Our on-premises model, which is our traditional approach to the market, allows a customer to license our host system software for installation on their on-premises systems in their applications. Similarly, our customers purchase or license hardware or software authenticators that are distributed to the users of their systems or applications. Our on-premises model is ideally suited to instances where the application owner needs to control all critical aspects of security, which is often the case where there is either a high transaction value or a high frequency of use. Under our traditional approach, the client devices can generally only be used with one host system application. &#160; 
+
+Banking 
+
+&#160;
+
+Enterprise VPN Access 
+
+&#160;
+
+Enterprise Single Sign-on 
+
+&#160;
+
+&#160;
+
+&#160; 2. Our in-the-cloud services model includes two product offerings that use the same operational platform: &#160;
+
+&#160; a) DIGIPASS as a Service (&#147;DPaaS&#148;) is our cloud-based service offering that was announced in October 2010 with a focus on the needs of customers in the Enterprise and Application Security market. By using our DPaaS authentication platform, business customers can deploy 
+
+&#160; 
+
+&#160; two-factor authentication more quickly and incur less upfront costs when compared to an on-premises solution. DPaaS is targeted towards B2B and B2E applications (e.g., employees of companies logging into third party applications operated in the cloud or accessing corporate data and resources stored in the cloud). &#160;
+
+&#160; b) MYDIGIPASS (&#147;MDP&#148;) is our cloud-based service offering that was announced in April 2012 with a focus on the needs of B2B and B2C. MDP facilitates password management while adding an additional level of security to the login procedure. By using our MDP platform, consumers using B2C applications have convenient access to these applications with increased security. The MDP platform may also provide benefits for eGovernment and eID applications by providing authentication for citizens that are accessing government applications online. MYDIGIPASS Security in the Cloud 
+
+&#160;
+
+Electronic Signature Products 
+
+Our eSignLive e-signature solution provides features that we believe are unique and provide a competitive advantage to us. This includes both on-premises or in the cloud implementation, full white-labeling capabilities, and an active audit trail that satisfies compliance and evidentiary requirements, depicted in the graphic below. 
+
+&#160;
+
+&#160; 
+
+Detailed Product Descriptions 
+
+VACMAN Controller 
+
+The VACMAN product line incorporates a range of strong authentication utilities and solutions designed to allow organizations to add DIGIPASS strong authentication into their existing networks and applications. 
+
+In order to provide the greatest flexibility, without compromising functionality or security, VACMAN solutions are designed to integrate with most popular hardware and software. Once integrated, the VACMAN components become largely transparent to the users, minimizing rollout and support issues. 
+
+VACMAN is the backbone of VASCO&#146;s product strategy towards the banking and e-commerce markets. VACMAN encompasses all four authentication technologies (passwords, dynamic password technologies, certificates, and biometrics) and allows our customers to use any combination of those technologies simultaneously. VACMAN is natively embedded in or compatible with the solutions of over 100 VASCO solution partners. 
+
+Designed by specialists in system access security, VACMAN makes it easy to administer a high level of access control and allows our customers to match the level of authentication security used with their perceived risk for each user of their application. Our customer simply adds a field to his or her existing user database, describing the authentication technology used and, if applicable, the unique DIGIPASS assigned to the end user of their application. VACMAN takes it from there, automatically authenticating the logon request using the security sequence the user specifies, whether it&#146;s a one-time password using either response-only or a challenge/response authentication scheme or an electronic signature. 
+
+VACMAN allows the user the freedom to provide secure remote access to virtually any type of application. VACMAN is a library requiring only a few days to implement in most systems and supports all DIGIPASS functionality. Once linked to an application, VACMAN automatically handles login requests from any user authorized to have a DIGIPASS. 
+
+IDENTIKEY Authentication Server 
+
+IDENTIKEY Authentication Server is an off-the-shelf centralized authentication server that supports the deployment, use, and administration of DIGIPASS strong user authentication. IDENTIKEY is based on VASCO&#146;s core VACMAN technology. 
+
+IDENTIKEY Authentication Server is available in a Banking Edition and three versions for the Enterprise and Application Security market that can be easily upgraded. 
+
+The Banking Edition provides robust protection against man-in-the-middle (MITM) attacks, the highest security, and verified fit into existing PCI-DSS environments without reducing compliancy. This version includes: 
+
+&#160;
+
+&#160; &#149; &#160; RADIUS functionality; 
+
+&#160;
+
+&#160; &#149; &#160; Web filter support for access to in-house applications (OWA, RDWA, CWI, Receiver); 
+
+&#160;
+
+&#160; &#149; &#160; Two-Factor Authentication for protection of access to internet banking applications; 
+
+&#160;
+
+&#160; &#149; &#160; e-signature for validation of financial transactions; and 
+
+&#160;
+
+&#160; &#149; &#160; Licenses for up to seven servers. 
+
+The three versions available to the Enterprise and Application Security market include: 
+
+&#160;
+
+&#160; &#149; &#160; The Standard Edition includes Remote Authentication Dial In User Service (&#147;RADIUS&#148;) functionality for a single licensed server. It targets small and medium-sized business (&#147;SMB&#148;) wanting to secure their remote access infrastructure at the lowest total cost of ownership. 
+
+&#160; 
+
+&#160; &#149; &#160; The Gold Edition offers web filters to secure Outlook Web Access (&#147;OWA&#148;) and Citrix Web Interface (&#147;CWI&#148;), additional to the RADIUS support. This version includes licenses for a primary and a back-up server. It is an ideal solution for SMBs that want to offer more functionality and assure availability for their employees. 
+
+&#160;
+
+&#160; &#149; &#160; The Enterprise Edition is our most comprehensive solution, offering: 
+
+&#160;
+
+&#160; &#149; &#160; RADIUS for remote access to the corporate network; 
+
+&#160;
+
+&#160; &#149; &#160; Web filter support for access to in-house applications (OWA, CWI); 
+
+&#160;
+
+&#160; &#149; &#160; Simple Object Access Protocol (&#147;SOAP&#148;) for protection of internet based business applications (e.g. portals, extranet, e-commerce websites, partner services, etc.); and 
+
+&#160;
+
+&#160; &#149; &#160; Licenses for up to seven servers. 
+
+The Enterprise Edition is the optimum solution for SMBs that want to secure more than remote access by using the same DIGIPASS device to secure additional applications at little to no extra cost. It also addresses the need of large enterprises to set up a pool of replication servers to share the authentication load and assure high-availability, especially when securing an increased number of customers and partners who use web-hosted applications. 
+
+IDENTIKEY Appliance and IDENTIKEY Virtual Appliance 
+
+IDENTIKEY Appliance is a standalone authentication solution that offers strong two-factor authentication for remote access to a corporate network or to web-based in-house business applications. It comes in a standard 19 inch rack mountable &#147;slim fit&#148; design. The appliance verifies DIGIPASS/IDENTIKEY authentication requests from RADIUS clients and web filters and can easily be integrated with any infrastructure. It features a web-based administration interface as well as an auditing and reporting console. 
+
+IDENTIKEY Virtual Appliance is a virtualized authentication appliance that secures remote access to corporate networks and web-based applications. 
+
+IDENTIKEY Federation Server 
+
+IDENTIKEY Federation Server is a server appliance that provides an identity and access management platform. It is used to validate user credentials across multiple applications and disparate networks. The solution validates users and creates an identity ticket enabling web single sign-on for different applications across organizational boundaries. IDENTIKEY Federation Server works as an Identity Provider within the local organization, but can also delegate authentication requests (for unknown users) to other Identity Providers. In a Federated Model, IDENTIKEY Federation Server not only delegates but also receives authentication requests from other Identity Providers, when local users want to access applications from other organizations within the same federated infrastructure. 
+
+Cloud Services (DPaaS and MDP) 
+
+In October of 2010, we launched our DIGIPASS as a Service security platform. Our initial DPaaS offering was directed at providing two-factor authentication for B2B and B2E applications. B2B applications are applications between two organizations that have an on-going relationship of some type. An example could be a manufacturer that has a web site through which a customer regularly purchases its products. VASCO&#146;s DPaaS platform could be used to authenticate the purchaser to prevent fraudulent activities. B2E applications are applications which have been outsourced by an organization. These could be sales reporting and forecasting applications, payroll and 401(k) plan administration applications, human resource applications, etc. that are operated in the cloud. 
+
+We launched MYDIGIPASS (&#147;MDP&#148;) in April 2012. MDP is directed at the B2B and B2C market. Our goal is to have the user securely access multiple applications with only one DIGIPASS. We believe that with this approach, we can bring the security of multifactor authentication to a large number of online applications. 
+
+&#160; 
+
+The combination of our core business line and service offering brings a large number of online applications within VASCO&#146;s reach. While revenues generated from MDP to date have been minimal, we believe MDP has potential for future growth as it will make authentication more affordable and readily available to users and applications markets. We believe that this combination provides VASCO with a viable position in the market, giving us the opportunity to target web application owners and offer their end users convenience and security. 
+
+DIGIPASS Hardware Authenticators 
+
+We offer a wide variety of DIGIPASS authenticators, each of which has its own distinct characteristics to meet the needs of our customers. All models of the DIGIPASS family are designed to work together so that our customers can switch their users&#146; devices without requiring any changes to their existing infrastructure. Our hardware DIGIPASS models range from simple one-button devices to devices that include more secure technologies, such as PKI. 
+
+With the acquisition of Cronto, VASCO has also added visual cryptography to its product portfolio. Sensitive transaction data are captured in a cryptogram that consists of a matrix of colored dots. By scanning the image with a hardware or software authenticator, the data contained in the cryptogram is decrypted and the transaction details are presented to the user for verification providing a highly secure method of visual transaction signing with maximum user convenience. 
+
+During 2014, we launched Bluetooth-enabled authentication and digital signature solutions that bring our high level of security to the increasing number of users of tablets and smart phones that have no USB port. VASCO&#146;s Bluetooth Smart devices create an immediate virtual secure connection between the authenticator and the mobile device using a Bluetooth Smart connection. 
+
+Many DIGIPASS authenticators also combine the benefits of traditional password authenticators (authentication and digital signatures) with smart card readers. Together, they bring portability to smart cards and allow the use of secure time-based algorithms. 
+
+DIGIPASS hardware technology is designed to support authentication and digital signatures for applications running on desktop PCs, laptops, tablets, and smart phones. 
+
+DIGIPASS Software Authenticators 
+
+Our DIGIPASS Software authenticators are designed to provide our customers with increased security for access to their networks and applications without having to carry a standalone hardware device. 
+
+Many of our DIGIPASS Software authenticator models also balance the need for stronger mobile application security with the demands for user convenience by delivering comprehensive, built-in security for mobile applications, combined with a frictionless, &#147;hands-free&#148; authentication and e-signing experience for mobile users. 
+
+DIGIPASS for Apps is a software development kit that contains a library of APIs (application programming interface) that allows application developers to add important security features to their mobile applications such as secure storage, secure communication channel, secure provisioning, device binding capabilities, jailbreak detection, rootkit detection, geolocation, IP address detection, and other security features. DIGIPASS for Mobile offers a similar set of security features as a downloadable mobile application. 
+
+Developer Tools: 
+
+In addition to serving as a software authenticator, DIGIPASS for Apps is a comprehensive software development kit (SDK) that allows application developers to natively integrate application security such as two-factor authentication and electronic signing into mobile applications. Through a complete library of APIs, application developers can extend and strengthen application security, deliver enhanced convenience to their application users, and streamline application deployment and lifecycle management processes. 
+
+&#160; 
+
+Risk Analysis Products: 
+
+IDENTIKEY Risk Manager (IRM) is a comprehensive anti-fraud solution designed to help banks and other users improve the manner and speed of detecting fraud across multiple channels. It enables banks and financial institutions to take a proactive approach to fraud prevention, while at the same time making the experience frictionless for their end users. IRM uses analytic techniques such as Neural Network implementations to score real-time transaction activity. Cross-channel prebuilt rules complement this score and allow fraud experts to make decisions on alerts or link to automated business processes such as Step-Up Authentication. This solution may be implemented in combination with our DIGIPASS for Apps to provide end-to-end trust with minimal impact on the end user experience. These products are targeted at banks, transaction processors, and ATM operations. 
+
+eSignLive e-signature: 
+
+eSignLive supports a broad range of e-signature requirements from the simple to the complex, and from the occasional electronic contract to processing tens of thousands of transactions. eSignLive&#146;s unified platform provides multiple deployment options including public cloud, private cloud, or on-premises, without compromising on security or functionality. Customers can fully customize the e-signature end-user experience to reinforce their brand for a seamless signing experience. 
+
+eSignLive is a well-established solution with successful deployments across web, call center and retail channels. It offers an optimal e-signing experience across multiple devices&#151;laptop, mobile phone, or tablet&#151;contributing to high levels of user adoption and satisfaction. Each step of the e-signature workflow may be customized, from authentication to e-document distribution, to ensure a high level of signer satisfaction across multiple channels. 
+
+eSignLive provides the most comprehensive and secure electronic evidence for the strongest legal protection by capturing both document and process-level evidence. This reduces the time and cost of gathering evidence and demonstrating legal and regulatory compliance. 
+
+Intellectual Property and Proprietary Rights and Licenses 
+
+We rely on a combination of patent, copyright, trademark, design and trade secret laws, as well as employee and third-party non-disclosure agreements to protect our proprietary rights. In particular, we hold several patents in the U.S. and in other countries, which cover multiple aspects of our technology. These patents expire between 2021 and 2034. In addition to the issued patents, we also have several patent applications pending in the U.S., Europe and other countries. The majority of our issued and pending patents cover our DIGIPASS family and other authentication related technology. We believe these patents to be valuable property rights and we rely on the strength of our patents and on trade secret law to protect our proprietary technology. We furthermore have registrations for most of our trademarks in most of the markets where we sell the corresponding products and services and registrations of the designs of many of our hardware products primarily in the EU and China. To the extent that we believe our intellectual property rights are being infringed upon, we intend to assert vigorously our intellectual property rights, including but not limited to, pursuing all available legal remedies. 
+
+Research and Development 
+
+Our research and development efforts historically have been, and will continue to be, concentrated on product enhancement, new technology development, and related new product introductions. We employ a team of full-time engineers and, from time to time, also engage independent engineering firms to conduct non-strategic research and development efforts on our behalf. For fiscal years ended December 31, 2015, 2014, and 2013, we incurred expenses of $18.5 million, $19.5 million, and $21.3 million, respectively, for research and development. 
+
+&#160; 
+
+Production 
+
+Our security hardware DIGIPASS products are manufactured by third party manufacturers pursuant to purchase orders that we issue. Our hardware DIGIPASS products are made primarily from commercially available electronic components purchased globally. Our software products, including software versions of our DIGIPASS products, are produced in-house. 
+
+Hardware DIGIPASS products utilize commercially available programmable microprocessors purchased from several suppliers. The microprocessors are the most important components of our security authenticators that are not commodity items readily available on the open market. Some microprocessors are single sourced. Orders of microprocessors generally require a lead-time of 12-16 weeks. We attempt to maintain a sufficient inventory of all parts to handle short-term increases in orders. 
+
+Large orders that would significantly deplete our inventory are typically required to be placed with more than twelve weeks of lead-time, allowing us to make appropriate arrangements with our suppliers. During 2013, we purchased a multi-year supply of certain microprocessors scheduled to be discontinued by a manufacturer. Since this time, we have reengineered most products that were impacted to use other processors with the exception of some products for which we believe our processor inventory is still adequate. 
+
+We purchase microprocessors and arrange for shipment to third parties for assembly and testing in accordance with our design specifications. The majority of our DIGIPASS products are manufactured by four independent vendors domiciled in Hong Kong and Macau with production facilities in mainland China. Purchases from these companies are made on a volume purchase order basis. Equipment designed to test product at the point of assembly is supplied by VASCO. We maintain a local team in China who conduct daily quality control and weekly quality assurance procedures. Periodic visits are conducted by our personnel for purposes of quality management, assembly process review, and supplier relations. 
+
+Competition 
+
+The market for computer and network security solutions is very competitive and, like most technology-driven markets, is subject to rapid change and constantly evolving products and services. Our main competitors are Gemalto and RSA Security, a subsidiary of EMC Corporation. There are many other companies, such as Kobil Systems, SafeNet (acquired by Gemalto in 2014), Symantec, and Entrust that offer competing authentication hardware, software and services that range from simple locking mechanisms to sophisticated encryption technologies. Certain mobile device manufacturers and financial institutions have developed proprietary electronic transaction security solutions. We face additional competition from many small authentication solution providers many offering new technologies and niche solutions such as biometric or behavioral analysis. We believe competition is likely to intensify as a result of increasing demand for security products fueled by an increase in publicized sophisticated hacking attacks and increased use of mobile payments. 
+
+We believe that the principal competitive factors affecting the market for computer and network security products include the strength and effectiveness of the solution, technical features, ease of use, quality/reliability, customer service and support, name recognition, customer base, distribution channels, and the total cost of ownership of the authentication solution. Although we believe that our products currently compete favorably with respect to such factors, other than name recognition in certain markets, there can be no assurance that we can maintain our competitive position against current and potential competitors, especially those with significantly greater financial, marketing, service, support, technical, and other competitive resources. 
+
+Some of our present and potential competitors have significantly greater financial, technical, marketing, purchasing, and other resources than we do, and as a result, may be able to respond more quickly to new or emerging technologies and changes in customer requirements, or to devote greater resources to the development, promotion and sale of products, or to deliver competitive products at a lower end-user price. 
+
+&#160; 
+
+Current and potential competitors have established or may establish cooperative relationships among themselves or with third parties to increase the ability of their products to address the needs of our prospective customers. It is possible that new competitors or alliances may emerge and rapidly acquire significant market share. Accordingly, we have forged, and will continue to forge, our own partnerships to offer a broader range of products and capabilities to the market. 
+
+Our products are designed to allow authorized users access to a computing environment or application, in some cases using patented technology, as a replacement for or supplement to a static password. Although certain of our security token technologies are patented, there are other organizations that offer token-type password generators incorporating challenge-response or response-only approaches that employ different technological solutions and compete with us for market share. 
+
+Sales and Marketing 
+
+Our security solutions are sold worldwide through our direct sales force, as well as through distributors, resellers and systems integrators. Our traditional security solutions are sold through our direct sales force, as well as through approximately 52 distributors, their reseller networks and systems integrators. A sales staff of 93 coordinates our sales activity through both our sales channels and those of our strategic partners making direct sales calls either alone or with the sales personnel of our partners. Our sales staff also provides product education seminars to sales and technical personnel of vendors and distributors with whom we have working relationships and to potential end-users of our products. 
+
+VASCO secures and trains its channel. Over 1,200 staff members of our channel partners have become VASCO certified. 
+
+Our sales force is able to offer each customer a choice of an on-site implementation using our traditional on-premises model or a cloud implementation using our services platform. 
+
+Our DPaaS solution is sold primarily by our direct sales force calling on Enterprise and Application Security customers. 
+
+Our MDP solution is also sold primarily by our direct sales force and marketed to application owners. We will work with the application owners to develop marketing programs that will encourage users of the application to access that application through our services platform. 
+
+Part of our expanded selling effort includes approaching our existing strategic partners to find additional applications for our security products. In addition, our marketing plan calls for the identification of new business opportunities that may require enhanced security over the transmission of electronic data or transactions where we do not currently market our products. Our efforts also include various activities to increase market awareness of the MDP/DPaaS solutions as well as preparation and dissemination of white papers explaining how our security products can add value or otherwise be beneficial. 
+
+Customers and Markets 
+
+Customers for our products include some of the world&#146;s most recognized names: HSBC, Rabobank, Belfius, Sumitomo Mitsui Banking Corporation, BNP-Paribas Fortis, Swedbank, The Bank of Tokyo-Mitsubishi, Citibank, and Commonwealth Bank of Australia 
+
+Our top 10 customers contributed 50%, 46%, and 40%, in 2015, 2014, and 2013, respectively, of total worldwide revenue. In 2015 and 2014, Rabobank contributed 30% and 12% of our worldwide revenue, respectively. In addition, in 2014, and 2013, HSBC contributed approximately 11% and 18%, of our worldwide revenue, respectively. 
+
+&#160; 
+
+A significant portion of our sales is denominated in foreign currencies and changes in exchange rates impact results of operations. To mitigate exposure to risks associated with fluctuations in currency exchange rates, we attempt to denominate an amount of billings in a currency such that it would provide a hedge against operating expenses being incurred in that currency. For additional information regarding how currency fluctuations can affect our business, please refer to &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; and &#147;Quantitative and Qualitative Disclosures about Market Risk.&#148; 
+
+We experience seasonality in our business. Historically, these seasonal trends are most notable in the summer months, particularly in Europe, when many businesses defer purchase decisions; however, the timing of any one or more large orders may temper or offset this seasonality. 
+
+We organize our sales group and report our results in two vertical markets: 
+
+&#160;
+
+&#160; &#149; &#160; Banking, which includes Financial Institutions: Traditionally our largest market where we believe that there are substantial opportunities for future growth. 
+
+&#160;
+
+&#160; &#149; &#160; Enterprise and Application Security: A significant market that includes: 
+
+&#160;
+
+&#160; &#045; &#160; Businesses seeking secure internal and remote network access: We sell to this market primarily through distributors and resellers. Our strategy is to leverage products developed for the Banking market by selling them to businesses. We believe that our strength in this segment is largely related to selling remote access products to both SME (small and medium enterprises) as well as large corporations. 
+
+&#160;
+
+&#160; &#045; &#160; Other application-specific markets: Our products are being used in a significant number of applications and we believe that we will be able to identify and leverage our knowledge with those applications to increase our penetration in the more promising markets. 
+
+&#160;
+
+&#160; &#045; &#160; E-commerce: Both business-to-business and business-to-consumer e-commerce are becoming ever more important for us. 
+
+&#160;
+
+&#160; &#045; &#160; E-government: Our revenue in this market is still small, but we are ready to take advantage of the market&#146;s evolution. 
+
+Our channel partners are critical to our success in selling to businesses in the Enterprise and Application Security markets. We serve this market primarily via our two-tier indirect sales channel. We invest in and support our channel with marketing and public relations actions. Distributors and resellers get the tools they need to be successful, such as campaigns, case studies, marketing funds and more. We train employees of our resellers and distributors on-site and in our offices. In addition, we have developed online video training software that allows us to cost effectively provide training worldwide. 
+
+We expect that sales into the application security market, other than businesses, will be on a direct sale basis. We plan to add sales and marketing staff to help increase revenues from each of these targeted areas. 
+
+Backlog 
+
+Our backlog at December 31, 2015 was approximately $51 million compared to $113 million at December 31, 2014 and $42 million at December 31, 2013. We anticipate that substantially all of the backlog at the end of 2015 will be shipped in 2016. We do not believe that the specific amount of backlog at any point in time is indicative of the trends in our markets or the expected results of our business. Given the large size of orders, the backlog number can change significantly with the receipt of a new order or modification of an existing order. 
+
+&#160; 
+
+Financial Information Relating to Foreign and Domestic Operations 
+
+For financial information regarding VASCO, see our Consolidated Financial Statements and the related Notes, which are included in this Annual Report on Form 10-K. We have a single reportable segment for all our products and operations. See Note 12 in the Notes to Consolidated Financial Statements for a breakdown of revenue and long-lived assets between U.S. and foreign operations. 
+
+Employees 
+
+As of December 31, 2015, we had 545 total employees, which included 520 full-time employees. Of the total employees, 389 were employed in VASCO&#146;s authentication and anti-fraud business, and 156 were employed by our 2015 acquisition, Silanis Technology Inc. Of the total employees, 319 in EMEA (Europe, the Middle East and Africa), 51 were located in the U.S., 138 in Canada, 29 in the Asia Pacific Rim (including Australia, India, Japan and Central Asia), and 4 in Latin America. Of the total employees, 259 were involved in sales, marketing, operations and customer support, 209 in research and development and 77 in general and administration. 
+

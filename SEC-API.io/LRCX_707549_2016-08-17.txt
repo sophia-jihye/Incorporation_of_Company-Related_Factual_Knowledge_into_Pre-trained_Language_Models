@@ -1,0 +1,562 @@
+ Item 1. 
+
+Business 
+
+Incorporated in 1980, Lam Research Corporation (&#8220;Lam Research,&#8221; &#8220;Lam,&#8221; &#8220;we,&#8221; &#8220;our,&#8221; or the &#8220;Company&#8221;) is a Delaware corporation, headquartered in Fremont, California. We maintain a network of facilities throughout Asia, Europe, and the United States in order to meet the needs of our dynamic customer base. 
+
+Additional information about Lam Research is available on our website at www.lamresearch.com. The content on any website referred to in this Form 10-K is not a part of or incorporated by reference in this Form 10-K unless expressly noted. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 3 
+
+&#32; 
+
+Our Annual Report on Form 10-K, Quarterly Reports on Forms 10-Q, Current Reports on Forms 8-K, and any amendments to those reports are available on our website as soon as reasonably practical after we file them with or furnish them to the SEC and are also available online at the SEC&#8217;s website at www.sec.gov. 
+
+The Lam Research logo, Lam Research, and all product and service names used in this report are either registered trademarks or trademarks of Lam Research Corporation or its subsidiaries in the United States and/or other countries. All other marks mentioned herein are the property of their respective holders. 
+
+We are a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry. We design, manufacture, market, refurbish, and service semiconductor processing systems that are used in the fabrication of integrated circuits (&#8220;ICs&#8221;). Our market-leading products are designed to help our customers build smaller, faster, more powerful, and more power-efficient devices that are used in a variety of electronic products, including mobile phones, wearables, tablets, computers, automotive devices, storage devices, and networking equipment. 
+
+Our customer base includes leading semiconductor memory, foundry, and integrated device manufacturers (&#8220;IDMs&#8221;) that make products such as NAND, DRAM memory, and logic devices. Semiconductor manufacturing, our customers&#8217; business, involves the complete fabrication of multiple dies or ICs on a wafer. This involves the repetition of a set of core processes and can require hundreds of individual steps. On a silicon wafer, a tiny, intricate pattern is precisely replicated across the wafer surface to create identical miniature devices, where features can be 1,000 times smaller than a grain of sand. Fabricating these devices requires highly sophisticated process technologies and precision control at the atomic scale. Along with meeting technical requirements, wafer processing equipment must deliver high productivity and be cost-effective. 
+
+We leverage our expertise in semiconductor device processing to develop technology and/or productivity solutions that typically benefit our customers through lower defect rates, enhanced yields, faster processing time, and reduced cost as well as by facilitating their ability to meet more stringent performance and design standards. We offer a broad portfolio of complementary products that are used in several areas of the semiconductor manufacturing process flow, including thin film deposition, plasma etch, and single-wafer clean. These processes, which are repeated numerous times during the wafer fabrication cycle, are utilized to manufacture every type of semiconductor device. 
+
+Our products are used primarily in front-end wafer processing, which involves the steps that create the active components of a device (transistor, capacitor) and their wiring (interconnect). Market demand for IC designs is driving the development of and migration to fabrication strategies such as three-dimensional (&#8220;3D&#8221;) architectures and multiple patterning. We also address processes for back-end wafer-level packaging (&#8220;WLP&#8221;), which is an alternative to traditional wire bonding and can offer a smaller form factor, increased interconnect speed and bandwidth, and lower power consumption, among other benefits. In addition, our products are well-suited for related markets that rely on semiconductor processes and require production-proven manufacturing capability, such as micro-electromechanical systems (&#8220;MEMS&#8221;). 
+
+Our high-productivity thin film deposition systems form a device&#8217;s sub-microscopic layers of conducting (metal) or insulating (dielectric) materials. We are the market leader in plasma etch, a highly critical process step that selectively removes materials from the wafer to create the features and patterns of a device. Our wet spin clean and plasma-based bevel clean products remove particles, residues and film from the wafer surface before or after adjacent processes. 
+
+Our Customer Support Business Group (&#8220;CSBG&#8221;) provides products and services to maximize installed equipment performance and operational efficiency. We offer a broad range of services to deliver value throughout the lifecycle of our equipment, including customer service, spares, upgrades, and refurbishment of our deposition, etch, and clean products. Many of the technical advances that we introduce in our newest products are also available as upgrades, which provide customers with a cost-effective strategy for extending the performance and capabilities of their existing wafer fabrication lines. CSBG also offers refurbished and newly built previous-generation (legacy) equipment for those applications that do not require the most advanced wafer processing capability. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 4 
+
+&#32; 
+
+Products 
+
+Thin Film Deposition 
+
+In leading-edge semiconductor designs, metal deposition processes face significant scaling and integration challenges. For advanced copper interconnect structures, challenges for electrochemical deposition (&#8220;ECD&#8221;) include providing complete, void-free fill of high aspect ratio (&#8220;HAR&#8221;) structures with low defectivity and high productivity. Electroplating of copper and other metals is also used for through-silicon via (&#8220;TSV&#8221;) and WLP applications, such as forming conductive bumps and redistribution layers (&#8220;RDLs&#8221;). These applications require excellent within-wafer uniformity at high plating rates, minimal defects, and cost competitiveness. For tungsten chemical vapor deposition (&#8220;CVD&#8221;) / atomic layer deposition (&#8220;ALD&#8221;) processes, key requirements are minimizing contact resistance to meet lower power consumption requirements and achieving void-free fill for narrow nanoscale structures. In addition, good barrier step coverage at reduced thicknesses relative to physical vapor deposition/CVD barrier films is also needed to improve contact fill and reduce resistivity. 
+
+In dielectric deposition, high-productivity, high-quality films are needed for a number of critical process steps. For example, atomic layer deposition is required for front-end-of-line (&#8220;FEOL&#8221;) transistor structures and back-end-of-line (&#8220;BEOL&#8221;) self-aligned multiple patterning schemes to deposit highly conformal and uniform films. Plasma-enhanced CVD (&#8220;PECVD&#8221;) is used to deposit multiple dielectric films, including the alternating mold stack layers used in 3D NAND memory. This application requires excellent thickness uniformity along with exceptional stress control. For gapfill deposition, achieving defect-free fills while maintaining high throughput is essential. Preferred approaches are to use high-density plasma CVD (&#8220;HDP-CVD&#8221;) either as a complete gapfill solution or as a cap over other gapfill technologies to enhance process control and mitigate integration risks. Lastly, innovative post-deposition film treatments such as ultraviolet thermal processing (&#8220;UVTP&#8221;) are being used to improve low-k film integrity and increase strain in nitride layers for improved device performance. 
+
+Copper Metal Films &#8212; SABRE&#174; Product Family 
+
+The SABRE ECD product family is the industry&#8217;s leading system for copper damascene manufacturing. Electrofill&#174; technology is designed to provide high-throughput, void-free fill with superior defect density performance for advanced technology nodes. SABRE chemistry packages provide leading-edge fill performance for low defectivity, wide process window, and high rates of bottom-up growth to fill the most challenging HAR features. System capabilities include deposition of copper directly on various liner materials, important for next-generation metallization schemes. The number of yielding ICs per wafer is optimized by increasing the usable die area through process edge exclusion engineering. Applications include copper deposition for both advanced logic and memory interconnect. We also offer the SABRE 3D system to address TSV and WLP applications, such as copper pillar, RDL, high-density fanout, underbump metallization, bumping, and microbumps used in post-TSV processing. 
+
+Tungsten Metal Films &#8212; ALTUS&#174; Product Family 
+
+Our ALTUS systems deposit highly conformal atomic layer films for advanced tungsten metallization applications. The patented Multi-Station Sequential Deposition (&#8220;MSSD&#8221;) architecture enables a nucleation layer to be formed using Pulsed Nucleation Layer (&#8220;PNL&#8221;) technology and bulk CVD fill to be performed in the same chamber (&#8220;in situ&#8221;). PNL, our ALD technology, is used in the deposition of tungsten nitride films to achieve high step coverage with reduced thickness relative to conventional barrier films. PNL is also used to reduce thickness and alter CVD bulk fill grain growth, lowering the overall resistivity of thin tungsten films. The advanced ExtremeFill CVD tungsten technology provides extendibility to fill the most challenging structures at advanced technology nodes. Applications include tungsten plug and via fill, 3D NAND wordlines, low-stress composite interconnects, and tungsten nitride barrier for via and contact metallization. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 5 
+
+&#32; 
+
+PECVD Dielectric Films &#8212; VECTOR&#174; Product Family 
+
+The VECTOR family of PECVD and ALD systems delivers advanced thin film quality, wafer-to-wafer uniformity, productivity, and low cost of ownership. The MSSD architecture combines the required film performance with both sequential and parallel processing to provide flexibility for a range of applications. VECTOR products include specialized systems for logic and memory applications with multiple platform options. VECTOR Express offers a small footprint with four processing stations. VECTOR Excel is a modular tool for advanced technology nodes where pre-and-post film deposition treatments are needed. VECTOR Extreme accommodates up to 12 processing stations for high-throughput applications. VECTOR Q accommodates up to 16 processing stations for depositing multi-stack films. Applications include deposition of oxides, nitrides, and carbides for hardmasks, multiple patterning films, anti-reflective layers, multi-layer stack films, and diffusion barriers. 
+
+Gapfill Dielectric Films &#8212; SPEED&#174; Product Family 
+
+The SPEED HDP-CVD products are designed to provide void-free gapfill of high-quality dielectric films with superior throughput and reliability. The unique source design provides for particle performance, while the ability to customize the deposition and in situ etching profile ensures across-wafer thickness and gapfill uniformity. Together, the chamber and plasma source designs allow large batch sizes between cleans and faster cleans to deliver superior throughput. Broad process flexibility is available on the same platform, without requiring major hardware changes. Applications include shallow trench isolation (&#8220;STI&#8221;), pre-metal dielectrics, inter-layer dielectrics, inter-metal dielectrics, and passivation layers. 
+
+Film Treatment &#8212; SOLA&#174; Product Family 
+
+The SOLA UVTP product family is used for treatment of BEOL low-k dielectric films and FEOL silicon nitride strained films. The systems incorporate a proprietary treatment process that modifies the physical characteristics of a previously deposited film through exposure to ultraviolet light, gases and vapors, and heat. The Multi-Station Sequential Processing (&#8220;MSSP&#8221;) architecture allows independent control of temperature, wavelength, and intensity at each station of the wafer path. We believe this enables delivery of best-in-class film properties, within-wafer and wafer-to-wafer uniformity, and productivity. 
+
+Plasma Etch 
+
+As the semiconductor industry continues to improve device performance and shrink critical feature sizes, plasma etch faces multiple challenges. These include processing smaller features, new materials, new transistor structures, increasingly complex film stacks, and ever higher aspect ratio structures. For conductor etch, requirements include delivering atomic-scale control for etching FinFET/3D gate transistors, multi&#8211;film stacks for high-k/metal gate structures, and multiple patterning structures. Dielectric etch processes must be able to maintain etch profiles on increasingly HAR structures such as in 3D NAND devices, etch new multi-layer photoresist materials and amorphous carbon hardmasks, and avoid damaging fragile low-k materials. In emerging 3D ICs, TSVs are now used to provide interconnect capability for die-to-die and wafer-to-wafer stacking. Critical factors for TSV are etching a variety of materials in situ, as well as being able to use both conventional and special techniques for deep silicon etching. For all etch processes, it is important to provide excellent profile control and across-wafer uniformity while maintaining high productivity and cost efficiency. 
+
+Conductor Etch &#8212; Kiyo&#174; Product Family, Versys&#174; Metal Product Family 
+
+The Kiyo product family is designed to deliver high-performance, high-productivity, low-risk solutions for conductor etch applications. Uniformity, uniformity control, and repeatability are enabled by a symmetrical chamber design, electrostatic chuck technology, and independent tuning features. The Kiyo products deliver high productivity with low defectivity on multi-film stacks, enabled by in situ etch capability, continuous plasma, and advanced Waferless Autoclean technology. To address technology inflections in patterning, the Kiyo family offers state-of-the-art technology with the Hydra patterning system; this capacity enables within wafer uniformity for FEOL/BEOL process modules in 3D NAND, DRAM and logic devices. In addition, Kiyo systems can be configured to perform atomic layer etching (&#8220;ALE&#8221;), which delivers atomic-scale variability control to enable next-generation wafer processing. Applications include FinFET gate, fin definition, STI, high-k/metal gate and multiple patterning. The Versys metal product family provides a flexible platform for BEOL metal etch processes. Symmetrical chamber design and independent tuning features provide critical dimension, profile uniformity, and uniformity control for metal hardmask applications. The products&#8217; proprietary chamber cleaning technology 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 6 
+
+&#32; 
+
+ensures high availability, high yield, and exceptional process repeatability for BEOL processing. Applications include metal hardmask, multiple patterning, high-density aluminum line, and aluminum pad. 
+
+Dielectric Etch &#8212; Flex TM &#32;Product Family 
+
+The Flex product family offers differentiated technologies and application-focused capabilities for critical dielectric etch applications. Uniformity, repeatability, and tunability are enabled by a multi-frequency, small-volume, confined plasma design. The systems deliver high productivity with low defectivity, enabled by in situ multi-step etch and continuous plasma capability. Low-risk, cost-effective upgrades provide evolutionary product transitions that extend product life and maximize return on investment. Applications include low-k and ultra low-k dual damascene, mask open, and high aspect ratio applications for DRAM capacitor cell, 3D NAND hole, trench, and contact. In addition, Flex systems can be configured to perform ALE, which delivers atomic-scale variability control to enable next-generation wafer processing for applications such as self-aligned contacts. 
+
+TSV Etch &#8212; Syndion&#174; Product Family 
+
+Based on our production-proven conductor etch products, the Syndion TSV etch family provides low-risk, flexible solutions to address multiple TSV etch applications. The Syndion products provide a low cost of ownership due to high etch rates, excellent repeatability, and in situ etching of multiple materials in the TSV stack (silicon, dielectrics, conducting films). The systems support both conventional single-step etch and rapidly alternating process (&#8220;RAP&#8221;). High process flexibility, superior profile control, and excellent uniformity enable successful TSV implementation for a variety of complementary metal-oxide-semiconductor 3D IC and image sensor applications. 
+
+Single-Wafer Clean 
+
+Wafer cleaning is a critical function that must be repeated many times during the semiconductor manufacturing process, from device fabrication through packaging. As device geometries shrink and new materials are introduced, the number of cleaning steps continues to grow. Furthermore, each step has different selectivity and defectivity requirements that add to manufacturing complexity. For next-generation devices, fragile structures need to be cleaned without causing damage. In addition, cleaning steps that target the bevel region can help eliminate the potential source of yield-limiting defects at the wafer&#8217;s edge, in order to increase the number of good die at the wafer&#8217;s edge and improve yield. 
+
+Wet Clean &#8212; EOS&#174;, Da Vinci&#174;, DV-Prime&#174;, SP Series 
+
+The single-wafer spin technology pioneered the industry transition from batch to single-wafer wet processing. These production-proven spin wet clean systems provide the productivity and flexibility needed for both high-volume manufacturing and leading-edge development across multiple technology nodes and for all device types. The products deliver process uniformity across the wafer, wafer-to-wafer, and lot-to-lot. Proprietary technologies enhance damage-free particle removal and enable wafer drying without pattern collapse or watermarks. Offering the latest in dilute chemistry and solvent systems, the products meet defectivity and material integrity requirements. Applications include particle, polymer, and residue removal; photoresist removal; and wafer backside/bevel cleaning and film removal. Our wet clean systems are also used for multiple wet etch and clean applications for WLP, including silicon substrate thinning, wafer stress relief, underbump metallization etch, and photoresist removal. 
+
+Plasma Bevel Clean &#8212; Coronus&#174; Product Family 
+
+The Coronus plasma-based bevel clean products enhance die yield by removing particles, residues and unwanted films from the wafer&#8217;s edge that can impact the device area. The system combines the ability of plasma to selectively remove a wide variety of materials with a proprietary confinement technology that protects the die area. High system uptime and throughput, excellent process repeatability, and efficient in situ removal of multi-material film stacks and residues ensure high productivity for increased wafer output. Applications include post-etch, pre- and post-deposition, pre-lithography, and metal film removal to prevent arcing during plasma etch or deposition steps. It is also a cost-effective bevel clean product that removes carbon-rich residues and films. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 7 
+
+&#32; 
+
+Legacy Products 
+
+For applications that do not require the most advanced wafer processing capability, semiconductor manufacturers can benefit from the proven performance of previous-generation products to increase their production capacity at a reduced economic investment. Purchasing through an original equipment manufacturer (&#8220;OEM&#8221;) like us minimizes the risks of unexpected costs and unpredictable time to production that are typically associated with used systems purchases. To meet semiconductor manufacturers&#8217; needs for high-performance, maximum-predictability, and low-risk equipment, we provide refurbished and newly built legacy products. Our products also provide production-worthy, cost-effective solutions for the MEMS and light emitting diode (&#8220;LED&#8221;) markets. 
+
+Products Table 
+
+Market 
+
+&#160; 
+
+Process/Application 
+
+&#160; 
+
+Technology 
+
+&#160; 
+
+Products 
+
+Thin Film Deposition 
+
+&#160; 
+
+Metal Films 
+
+&#160; 
+
+ECD (Copper &#38; Other) 
+
+&#160; 
+
+CVD, ALD (Tungsten) 
+
+&#160; 
+
+SABRE&#174; family 
+
+&#160; 
+
+ALTUS&#174; family 
+
+&#160; 
+
+&#160; 
+
+&#160; Dielectric Films 
+
+&#160; 
+
+PECVD, ALD 
+
+&#160; 
+
+Gapfill HDP-CVD 
+
+&#160; 
+
+VECTOR&#174; family 
+
+&#160; 
+
+SPEED&#174; family 
+
+&#160; 
+
+&#160; 
+
+Film Treatment 
+
+&#160; 
+
+UVTP 
+
+&#160; 
+
+SOLA&#174; family 
+
+Plasma Etch 
+
+&#160; 
+
+Conductor Etch 
+
+&#160; 
+
+Reactive Ion Etch 
+
+&#160; 
+
+Kiyo&#174; family, 
+
+Versys&#174; Metal family 
+
+&#160; 
+
+&#160; 
+
+Dielectric Etch 
+
+&#160; 
+
+Reactive Ion Etch 
+
+&#160; 
+
+Flex TM family 
+
+&#160; 
+
+&#160; 
+
+&#160; TSV Etch 
+
+&#160; 
+
+&#160; Deep Reactive Ion Etch 
+
+&#160; 
+
+Syndion&#174; family 
+
+Single-Wafer Clean 
+
+&#160; 
+
+Wafer Cleaning 
+
+&#160; 
+
+Wet Clean 
+
+&#160; 
+
+EOS&#174;, DV-Prime&#174;, 
+
+Da Vinci&#174;, SP Series 
+
+&#160; 
+
+&#160; 
+
+Bevel Cleaning 
+
+&#160; 
+
+Dry Plasma Clean 
+
+&#160; 
+
+&#160; Coronus&#174; family 
+
+Fiscal Periods Presented 
+
+All references to fiscal years apply to our fiscal years, which ended June 26, 2016 , June 28, 2015 , and June 29, 2014 . 
+
+Research and Development 
+
+The market for semiconductor capital equipment is characterized by rapid technological change and product innovation. Our ability to achieve and maintain our competitive advantage depends in part on our continued and timely development of new products and enhancements to existing products. Accordingly, we devote a significant portion of our personnel and financial resources to research and development (&#8220;R&#38;D&#8221;) programs and seek to maintain close and responsive relationships with our customers and suppliers. 
+
+Our R&#38;D expenses during fiscal years 2016 , 2015 , and 2014 &#32;were $913.7 million , $825.2 million , and $ 716.5 million , respectively. The majority of R&#38;D spending over the past three years has been targeted at deposition, etch, single-wafer clean, and other semiconductor manufacturing products. We believe current challenges for customers at various points in the semiconductor manufacturing process present opportunities for us. 
+
+We expect to continue to make substantial investments in R&#38;D to meet our customers&#8217; product needs, support our growth strategy, and enhance our competitive position. 
+
+Marketing, Sales, and Service 
+
+Our marketing, sales, and service efforts are focused on building long-term relationships with our customers and targeting product and service solutions designed to meet their needs. These efforts are supported by a team of product marketing and sales professionals as well as equipment and process engineers who work closely with individual customers to develop solutions for their wafer processing needs. We maintain ongoing service relationships with our customers and have an extensive network of service engineers in place throughout the United States, Europe, Taiwan, Korea, Japan, China, and Southeast Asia. We believe that comprehensive 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 8 
+
+&#32; 
+
+support programs and close working relationships with customers are essential to maintaining high customer satisfaction and our competitiveness in the marketplace. 
+
+We provide standard warranties for our systems. The warranty provides that systems will be free from defects in material and workmanship and will conform to agreed-upon specifications. The warranty is limited to repair of the defect or replacement with new or like-new equivalent goods and is valid when the buyer provides prompt notification within the warranty period of the claimed defect or non-conformity and also makes the items available for inspection and repair. We also offer extended warranty packages to our customers to purchase as desired. 
+
+International Sales 
+
+A significant portion of our sales and operations occur outside the United States and, therefore, may be subject to certain risks, including but not limited to tariffs and other barriers, difficulties in staffing and managing non-U.S. operations, adverse tax consequences, foreign currency exchange rate fluctuations, changes in currency controls, compliance with U.S. and international laws and regulations, including U.S. export restrictions, and economic and political conditions. Any of these factors may have a material adverse effect on our business, financial position, and results of operations and cash flows. For geographical reporting, revenue is attributed to the geographic location in which the customers&#8217; facilities are located. Revenue by region was as follows: 
+
+&#160; 
+
+Year Ended 
+
+&#160; 
+
+June 26, 2016 
+
+&#160; 
+
+June 28, 2015 
+
+&#160; 
+
+June 29, 2014 
+
+&#160; 
+
+(in thousands) 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Taiwan 
+
+$ 
+
+1,485,037 
+
+&#160; 
+
+$ 
+
+1,084,239 
+
+&#160; 
+
+$ 
+
+1,049,214 
+
+Korea 
+
+1,057,331 
+
+&#160; 
+
+1,406,617 
+
+&#160; 
+
+1,127,406 
+
+China 
+
+1,039,951 
+
+&#160; 
+
+661,094 
+
+&#160; 
+
+623,408 
+
+Japan 
+
+983,821 
+
+&#160; 
+
+623,575 
+
+&#160; 
+
+634,131 
+
+Southeast Asia 
+
+605,236 
+
+&#160; 
+
+278,350 
+
+&#160; 
+
+247,398 
+
+United States 
+
+495,123 
+
+&#160; 
+
+890,891 
+
+&#160; 
+
+622,022 
+
+Europe 
+
+219,394 
+
+&#160; 
+
+314,546 
+
+&#160; 
+
+303,730 
+
+Total revenue 
+
+$ 
+
+5,885,893 
+
+$ 
+
+5,259,312 
+
+$ 
+
+4,607,309 
+
+Long-Lived Assets 
+
+Refer to Note 18 of our Consolidated Financial Statements, included in Item 8 of this report, for information concerning the geographic locations of long-lived assets. 
+
+Customers 
+
+Our customers include all of the world&#8217;s leading semiconductor manufacturers. Customers continue to establish joint ventures, alliances and licensing arrangements which have the potential to positively or negatively impact our competitive position and market opportunities. Customers accounting for greater than 10% of total revenues in fiscal year 2016 included Micron Technology, Inc.; Samsung Electronics Company, Ltd.; SK Hynix Inc.; and Taiwan Semiconductor Manufacturing Company, Ltd. Customers accounting for greater than 10% of total revenues in fiscal year 2015 included Micron Technology, Inc.; Samsung Electronics Company, Ltd.; and Taiwan Semiconductor Manufacturing Company, Ltd. Customers accounting for greater than 10% of total revenues in fiscal year 2014 included Samsung Electronics Company, Ltd.; SK Hynix Inc.; and Taiwan Semiconductor Manufacturing Company, Ltd. 
+
+A material reduction in orders from our customers could adversely affect our results of operations and projected financial condition. Our business depends upon the expenditures of semiconductor manufacturers. Semiconductor manufacturers&#8217; businesses, in turn, depend on many factors, including their economic capability, the current and anticipated market demand for ICs and the availability of equipment capacity to support that demand. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 9 
+
+&#32; 
+
+Backlog 
+
+In general, we schedule production of our systems based upon our customers&#8217; delivery requirements and forecasts. In order for a system to be included in our backlog, the following conditions must be met: 1) we have received a written customer request that has been accepted, 2) we have an agreement on prices and product specifications, and 3) there is a scheduled shipment within the next 12 months. In order for spares and services to be included in our backlog, the following conditions must be met: 1) we have received a written customer request that has been accepted and 2) delivery of products or provision of services is anticipated within the next 12 months. Where specific spare parts and customer service purchase contracts do not contain discrete delivery dates, we use volume estimates at the contract price and over the contract period, not to exceed 12 months, in calculating backlog amounts. Our policy is to revise our backlog for order cancellations and to make adjustments to reflect, among other things, changes in spares volume estimates and customer delivery date changes. As of June 26, 2016 &#32;and June 28, 2015 , our backlog was $1,371 million &#32;and $880 million , respectively. Generally, orders for our products and services are subject to cancellation by our customers with limited penalties. Because some orders are received and shipped in the same quarter and because customers may change delivery dates and cancel orders, our backlog at any particular date is not necessarily indicative of business volumes or actual revenue levels for succeeding periods. 
+
+Manufacturing 
+
+Our manufacturing operations mainly consist of assembling and testing components, sub-assemblies, and modules that are then integrated into finished systems prior to shipment to or at the location of our customers. Most of the assembly and testing of our products is conducted in cleanroom environments. 
+
+We have agreements with third parties to outsource certain aspects of our manufacturing, production warehousing, and logistics functions. We believe that these outsourcing contracts provide us more flexibility to scale our operations up or down in a timely and cost effective manner, enabling us to respond quickly to any changes in our business. We believe that we have selected reputable providers and have secured their performance on terms documented in written contracts. However, it is possible that one or more of these providers could fail to perform as we expect, and such failure could have an adverse impact on our business and have a negative effect on our operating results and financial condition. Overall, we believe we have effective mechanisms to manage risks associated with our outsourcing relationships. Refer to Note 15 of our Consolidated Financial Statements, included in Item 8 of this report, for further information concerning our outsourcing commitments. 
+
+Certain components and sub-assemblies that we include in our products may only be obtained from a single supplier. We believe that, in many cases, we could obtain and qualify alternative sources to supply these products. Nevertheless, any prolonged inability to obtain these components could have an adverse effect on our operating results and could unfavorably impact our customer relationships. 
+
+Environmental Matters 
+
+We are subject to a variety of governmental regulations related to the management of hazardous materials that we use in our business operations. We are currently not aware of any pending notices of violations, fines, lawsuits, or investigations arising from environmental matters that would have a material effect on our business. We believe that we are generally in compliance with these regulations and that we have obtained (or will obtain or are otherwise addressing) all necessary environmental permits to conduct our business. Nevertheless, the failure to comply with present or future regulations could result in fines being imposed on us, require us to suspend production or cease operations or cause our customers to not accept our products. These regulations could require us to alter our current operations, to acquire significant additional equipment, or to incur substantial other expenses to comply with environmental regulations. Our failure to control the use, sale, transport, or disposal of hazardous substances could subject us to future liabilities. 
+
+Employees 
+
+As of August 10, 2016, we had approximately 7,500 regular employees globally. Although we have employment-related agreements with a number of key employees, these agreements do not guarantee continued service. Each of our employees is required to comply with our policies relating to maintaining the confidentiality of our non-public information. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 10 
+
+&#32; 
+
+In the semiconductor and semiconductor equipment industries, competition for highly skilled employees is intense. Our future success depends, to a significant extent, upon our continued ability to attract and retain qualified employees, particularly in the R&#38;D and customer support functions. 
+
+Competition 
+
+The semiconductor capital equipment industry is characterized by rapid change and is highly competitive throughout the world. To compete effectively, we invest significant financial resources to continue to strengthen and enhance our product and services portfolio and to maintain customer service and support locations globally. Semiconductor manufacturers evaluate capital equipment suppliers in many areas, including, but not limited to, process performance, productivity, defect control, customer support, and overall cost of ownership, which can be affected by many factors such as equipment design, reliability, software advancements, and similar factors. Our ability to succeed in the marketplace depends upon our ability to maintain existing products and introduce product enhancements and new products that meet customer requirements on a timely basis. In addition, semiconductor manufacturers must make a substantial investment to qualify and integrate new capital equipment into semiconductor production lines. As a result, once a semiconductor manufacturer has selected a particular supplier&#8217;s equipment and qualified it for production, the manufacturer generally maintains that selection for that specific production application and technology node as long as the supplier&#8217;s products demonstrate performance to specification in the installed base. Accordingly, we may experience difficulty in selling to a given customer if that customer has qualified a competitor&#8217;s equipment. We must also continue to meet the expectations of our installed base of customers through the delivery of high-quality and cost-efficient spare parts in the presence of competition from third-party spare parts providers. 
+
+We face significant competition with all of our products and services. Our primary competitor in the tungsten CVD, PECVD, HDP-CVD, ECD and PVD markets, is Applied Materials, Inc. In the PECVD market, in addition to Applied Materials, Inc., we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Tokyo Electron, Ltd. and Applied Materials, Inc. Our primary competitors in the single-wafer wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. 
+
+Certain of our existing and potential competitors have substantially greater financial resources and larger engineering, manufacturing, marketing, and customer service and support organizations than we do. In addition, we face competition from a number of emerging companies in the industry. We expect our competitors to continue to improve the design and performance of their current products and processes, to introduce new products and processes with enhanced price/performance characteristics and to provide more comprehensive offerings of products. If our competitors make acquisitions or enter into strategic relationships with leading semiconductor manufacturers, or other entities, covering products similar to those we sell, our ability to sell our products to those customers could be adversely affected. There can be no assurance that we will continue to compete successfully in the future. 
+
+Patents and Licenses 
+
+Our policy is to seek patents on inventions relating to new or enhanced products and processes developed as part of our ongoing research, engineering, manufacturing, and support activities. We currently hold a number of United States and foreign patents covering various aspects of our products and processes. We believe that the duration of our patents generally exceeds the useful life of the technologies and processes disclosed and claimed in them. Our patents, which cover material aspects of our past and present core products, have current durations ranging from approximately one to twenty years. We believe that, although the patents we own and may obtain in the future will be of value, they alone will not determine our success. Our success depends principally upon our research and development, engineering, marketing, support, and delivery skills. However, in the absence of patent protection, we may be vulnerable to competitors who attempt to imitate our products, manufacturing techniques, and processes. In addition, other companies and inventors may receive patents that contain claims applicable or similar to our products and processes. The sale of products covered by patents of others could require licenses that may not be available on terms acceptable to us, or at all. For further discussion of legal matters, see Item 3, &#8220;Legal Proceedings,&#8221; of this report. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 11 
+
+&#32; 
+
+EXECUTIVE OFFICERS OF THE COMPANY 
+
+As of August 16, 2016, the executive officers of Lam Research were as follows: 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Title 
+
+Martin B. Anstice 
+
+&#160; 
+
+&#160; 
+
+President and Chief Executive Officer 
+
+Timothy M. Archer 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Operating Officer 
+
+Douglas R. Bettinger 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Chief Financial Officer and Chief Accounting Officer 
+
+Richard A. Gottscho 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Global Products Group 
+
+Sarah A. O&#8217;Dowd 
+
+&#160; 
+
+&#160; 
+
+Senior Vice President, Chief Legal Officer and Secretary 
+
+Martin B. Anstice has been our President and Chief Executive Officer since January 2012. Mr. Anstice joined us in April 2001 as Senior Director, Operations Controller; was promoted to the position of Managing Director and Corporate Controller in May 2002; and was promoted to Group Vice President and Chief Financial Officer in June 2004. He was appointed Executive Vice President and Chief Operating Officer in September 2008 and President in December 2010. Prior to joining us, he held various finance positions from 1988 to 1999 at Raychem Corporation, a global materials science company. Subsequent to the acquisition of Raychem by Tyco International, a global provider of engineered electronic components, network solutions and wireless systems, he assumed responsibility for supporting mergers and acquisitions activities of Tyco Electronics. Mr. Anstice is an Associate member of the Institute of Chartered Management Accountants in the United Kingdom. 
+
+Timothy M. Archer joined us in June 2012 as our Executive Vice President, Chief Operating Officer. Prior to joining us, he spent 18 years at Novellus Systems in various technology development and business leadership roles, including most recently as Chief Operating Officer from January 2011 to June 2012, Executive Vice President Worldwide Sales, Marketing, and Customer Satisfaction from September 2009 to January 2011, and Executive Vice President of the PECVD and Electrofill Business Units from November 2008 to September 2009. His tenure at Novellus Systems also included assignments as Senior Director of Technology for Novellus Systems Japan from 1999 to 2001 and Senior Director of Technology for the Electrofill Business Unit from April 2001 to April 2002. He started his career in 1989 at Tektronix where he was responsible for process development for high-speed bipolar ICs. Mr. Archer completed the Program for Management Development at Harvard Graduate School of Business and holds a B.S. degree in Applied Physics from the California Institute of Technology. 
+
+Doug Bettinger is our Executive Vice President and Chief Financial Officer with responsibility for finance, tax, treasury, information technology and investor relations. Prior to joining the company in 2013, Mr. Bettinger served as Senior Vice President and Chief Financial Officer of Avago Technologies from 2008 to 2013. From 2007 to 2008, he served as Vice President of finance and corporate controller at Xilinx, Inc., and from 2004 to 2007, he was Chief Financial Officer at 24/7 Customer, a privately held company. Mr. Bettinger worked at Intel Corporation from 1993 to 2004, where he held several senior-level finance positions, including corporate planning and reporting controller and Malaysia site operations controller. Mr. Bettinger earned a M.B.A. in finance from the University of Michigan and has a B.S. degree in economics from the University of Wisconsin in Madison. 
+
+Richard A. Gottscho is our Executive Vice President, Global Products Group, a position he has held since August 2010. Prior to that time, he had been Group Vice President and General Manager, Etch Businesses since March 2007. He joined us in January 1996 and has served at various Director and Vice President levels in support of etch products, CVD products, and corporate research. Prior to joining us, he was a member of Bell Laboratories for 15 years where he started his career working in plasma processing. During his tenure at Bell, he headed research departments in electronics materials, electronics packaging, and flat panel displays. He is the author of numerous papers, patents, and lectures in plasma processing and process control. He is a recipient of the American Vacuum Society&#8217;s Peter Mark Memorial Award and Plasma Science and Technology Division Prize, the Gaseous Electronics Conference Foundation Lecturer, the Dry Process Symposium Nishizawa Award, and the Tegal Thinker Award. He is a fellow of the American Physical and American Vacuum Societies and has served on numerous editorial boards of refereed technical publications and program committees for major conferences in plasma science and engineering, and was vice-chair of a National Research Council study on plasma science in the 1980s. In 2016, Dr. Gottscho was elected to the U.S. National Academy of Engineering. Dr. Gottscho earned Ph.D. and B.S. degrees in physical chemistry from the Massachusetts Institute of Technology and Pennsylvania State University, respectively. 
+
+Continues on next page 
+
+Lam Research Corporation 2016 10-K &#32; 12 
+
+&#32; 
+
+Sarah A. O&#8217;Dowd is our Senior Vice President, Chief Legal Officer and Secretary. She joined us in September 2008 as Group Vice President and Chief Legal Officer, responsible for general legal matters, intellectual property and ethics and compliance. In addition to her Legal function, in April 2009 she was appointed Vice President of Human Resources and served in this dual capacity from April 2009 through May 2012. Prior to joining us, she was Vice President and General Counsel for FibroGen, Inc. from February 2007 until September 2008. Until February 2007, Ms. O&#8217;Dowd was a shareholder in the law firm of Heller Ehrman LLP for more than 20 years, practicing in the areas of corporate securities, governance and mergers and acquisitions for a variety of clients, principally publicly traded high technology companies. She served in a variety of leadership and management roles at Heller Ehrman, including Managing Partner of the Silicon Valley and San Diego offices, member of the firm&#8217;s Policy Committee and, as head of the firm&#8217;s business practice groups, a member of the firm&#8217;s Executive Committee. Ms. O&#8217;Dowd earned her J.D. and M.A. in communications from Stanford Law School and Stanford University, respectively, and her B.A. degree in mathematics from Immaculata College. 
+

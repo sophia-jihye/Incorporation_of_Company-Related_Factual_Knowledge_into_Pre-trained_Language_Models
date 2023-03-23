@@ -1,0 +1,522 @@
+ Item 1. 
+
+Business
+
+Unless we state otherwise or the context otherwise requires, the terms &#8220;Paycom,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; and the &#8220;Company&#8221; refer, prior to the 2014 Reorganization discussed in Part II, Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8212;The 2014 Reorganization,&#8221; to Paycom Payroll Holdings, LLC (&#8220;Holdings&#8221;), Holdings&#8217; consolidated subsidiaries and solely with respect to the financial statements and related notes thereto, WCAS Paycom Holdings, Inc. (&#8220;WCAS Holdings&#8221;), and, as of and after the 2014 Reorganization, to Paycom Software, Inc. (&#8220;Software&#8221;), a Delaware corporation formed in anticipation of our initial public offering, and Software&#8217;s consolidated subsidiaries, including Holdings. Accordingly, all financial and other information herein relating to periods prior to the 2014 Reorganization is that of, or derived from, Holdings. For additional information concerning the 2014 Reorganization, see Part II, Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8212;The 2014 Reorganization,&#8221; which description is hereby incorporated by reference.
+
+Overview
+
+We are a leading provider of a comprehensive, cloud-based HCM software solution delivered as SaaS. We provide functionality and data analytics that businesses need to manage the complete employment life cycle from recruitment to retirement. Our solution requires virtually no customization and is based on a core system of record maintained in a single database for all HCM functions, including talent acquisition, time and labor management, payroll, talent management and human resources (&#8220;HR&#8221;) management applications. Our user-friendly software allows for easy adoption of our solution by employees, enabling self-management of their HCM activities in the cloud, which reduces the administrative burden on employers and increases employee productivity.
+
+Organizations need sophisticated, flexible and intuitive applications that can quickly adapt to their evolving HCM requirements, streamline their HR processes and systems and enable them to control costs. We believe that the HCM needs of most organizations are currently served either by multiple providers that partner in an attempt to replicate a comprehensive product or by legacy providers offering outdated on-premise products. These approaches often result in challenges with system integration, low scalability, high costs, extended delivery times and large up-front capital requirements.
+
+&#160;
+
+Because our solution was developed in-house and is based on a single platform, there is no need to integrate, update or access multiple databases, which are common issues with competitor offerings that use multiple third-party system s in order to link together their HCM offerings. Additionally, our solution maintains data integrity for accurate, actionable and real-time analytics and business intelligence and helps clients minimize the risk of compliance errors due to inaccurate or mi ssing information. We deliver feature-rich applications while maintaining excellence in information security and quality management standards as evidenced by our International Organization for Standardization (&#8220;ISO&#8221;) certifications. 
+
+We sell our solution directly through our internally trained, client-focused and highly skilled sales force based in offices across the United States. As a part of our client retention effort, a specialist within a dedicated team is assigned to each client to provide industry-leading, personalized service. We have over 15,000 clients, none of which constituted more than one-half of one percent of our revenues for the year ended December 31, 2015. We believe that as a result of our focus on client retention, we enjoy high client satisfaction as evidenced by an average annual revenue retention rate of 91% from existing clients for the three years ended December 31, 2015. We believe our revenue retention rate understates our client loyalty because this rate also includes former clients that were acquired or otherwise ceased operations.
+
+We were founded in 1998. Since our founding, we have focused on providing an innovative SaaS HCM solution. As of December 31, 2015, we had 1,461 employees across the United States. For the years ended December 31, 2015, 2014 and 2013, our revenues were $224.7 million, $150.9 million and $107.6 million, respectively, representing year-over-year growth in revenues of approximately 49% and 40%, respectively. We currently derive the majority of our revenues from payroll processing. We are able to determine revenues from payroll processing because all of our clients are required to utilize our payroll application in order to access our other applications. We generally do not separately track our revenues across our other applications because we often sell applications in various groupings and configurations for a single price. We realized net income of $20.9 million, $5.7 million and $0.6 million for the years ended December 31, 2015, 2014 and 2013, respectively.
+
+Industry Background
+
+Large Market Opportunity for HCM Technologies
+
+According to the International Data Corporation (&#8220;IDC&#8221;), the U.S. market for HCM applications is comprised of software that automates business processes covering the entire span of an employee&#8217;s relationship with his or her employer. IDC estimates that the U.S. market for HCM applications (excluding payroll services) will total $7.8 billion in 2016. These applications include maintenance of HR records, recruiting applications, performance management, time and labor management tracking, compliance, compensation management and other HR functions. According to IDC, the U.S. market for payroll services will be an estimated $17.2 billion in 2016. The payroll services market includes transactional activities associated with paying employees, maintaining accounting records and administrating payroll taxes while payroll accounting applications offer the functionality to effectively track these various payments and transfers.
+
+Economic and Technological Trends Are Driving Demand for HCM Solutions
+
+Organizations operating in today&#8217;s global economy are continually under pressure to reduce operating costs in order to maintain or improve their competitive positions. One tactic used by organizations is to utilize information technology (&#8220;IT&#8221;) provided by external resources in order to automate internal processes, reduce internal administrative burdens and more effectively manage capital expenditures and labor costs. As a result, businesses are increasingly making the strategic decision to leverage HCM technologies in order to improve the effectiveness and efficiency of their internal HR and accounting functions and capture opportunities for cost savings.
+
+Organizations are also managing internal costs and administrative burdens by transitioning technological assets from on-premise to the cloud. By shifting HR systems to the cloud, businesses seek to avoid the difficulties associated with maintaining software and security updates, and storage needs as well as other maintenance issues. The rise of cloud computing has supported the SaaS delivery model. According to IDC, the global SaaS market is projected to grow from $42.9 billion in 2014 to $90.2 billion in 2019, at a compound annual growth rate (&#8220;CAGR&#8221;) of 16%.
+
+We believe that businesses increasingly view data concerning their human capital as a critical strategic resource that can result in more informed decision-making concerning employee recruitment, retention and compensation. This revolution in data analytics and its extension to HR functions has increased the number of employees within an organization that can benefit from, and who regularly interface with, information technologies. As a result, organizations seek intuitive technologies that do not require extensive technological credentials to be effectively utilized. The user experience of business applications is changing to emulate the consumer experience as HR buyers increasingly seek applications that are intuitive and available anywhere on any web-enabled device.
+
+&#160;
+
+Incumbent HCM Products Struggle To Meet the Needs of Businesses 
+
+We believe that a majority of businesses and organizations in the United States are using multiple HCM systems from more than one vendor, thereby impeding their ability to share data across these systems. Several incumbent payroll and HCM vendors offer product sets that consist of separate systems that require integration. In certain cases, this disparate product offering across several vendors is the result of several acquisitions which often leads to a loosely coupled product set that is marked by significant architectural differences and weak data integration. We believe that this type of offering increases the risk of user or system error and reduces overall effectiveness.
+
+A comprehensive HCM solution leverages the same data, process and workflow management, security model, reporting and analytics tools, and user portals to provide a uniform user experience. We believe that significant analytical power remains trapped within the data that organizations are accessing across multiple applications and databases but are unable to analyze in a unified context.
+
+We believe that vendors who pursue market segmentation strategies based on organization size or industry create difficulties for clients who grow, either in size or industry scope, beyond the confines of those vendors&#8217; offerings. A scalable HCM solution based on a core system of record allows for an organization to grow in size and scope without transitioning to a new user interface or back-end database.
+
+The Paycom Solution
+
+We offer an end-to-end SaaS HCM solution that provides our clients and their employees with immediate access to accurate and secure information and analytics 24 hours a day, seven days a week from any location. We believe that our solution delivers the following benefits:
+
+Comprehensive HCM Solution
+
+Our solution offers functionality that manages the entire employment life cycle for employers and employees, from recruitment to retirement. Our user-friendly applications streamline client processes and provide clients and their employees with the ability to directly access and manage administrative processes, including applications that identify candidates, onboard employees, manage time and labor, administer payroll deductions and benefits, manage performance, off board employees and administer post-termination health benefits such as COBRA. The widespread employee usage of our applications helps further integrate our solution into the administrative processes of our clients. Our solution also has the advantage of being built in-house by our highly trained and skilled team of software developers, thereby minimizing data integrity issues across applications.
+
+Core System of Record
+
+Our solution is based on a core system of record that contains payroll and HR information in one convenient database, thereby reducing costs and eliminating the need for multiple software products and vendors and the maintenance of employee data in numerous databases. This core system of record enables our clients to input employee data one time and enjoy seamless functionality across our applications. When a revision is made to the file of an employee, all appropriate personnel have access to the change in real time. In addition, our core system of record helps clients minimize the risk of compliance errors due to inaccurate or missing information that results from maintaining multiple databases. Through accurate tracking and management of employee payroll and other HR data, such information can be compiled for comprehensive and consistent reporting for our clients.
+
+Data Analytics
+
+Our solution allows clients to analyze accurate employee information to make business decisions based upon actionable, real-time, point-and-click analytics provided through our client dashboard. This functionality helps our clients operate with a more complete and accurate picture of their organization as our solution&#8217;s embedded analytics capture the content and context of everyday business events, facilitating fast and informed decision-making from any location. The employees of our clients also benefit from our analytics platform as they are able to model in real-time the impact of their HCM decisions on their compensation, benefits and rewards.
+
+&#160;
+
+Personalized Support Provided by Trained Personnel 
+
+Our applications are supported by one-on-one personal assistance from trained specialists. Services specialists are assigned to specific clients and are trained across all of our applications, ensuring they provide comprehensive, expert-level service. Our client service is ISO 9001:2008 certified on the basis of its quality and consistency. We strive to provide our clients with high levels of service and support to ensure their continued use of our solution for all of their HCM needs. We have maintained high client satisfaction, as evidenced by an average annual revenue retention rate of 91% from existing clients for the three years ended December 31, 2015.
+
+Software-as-a-Service Delivery Model
+
+Our SaaS delivery model allows clients with geographically dispersed and mobile workforces to operate more efficiently, and allows these clients to implement, access and use our client-oriented Internet solution on demand and remotely through standard web browsers, smart phones, tablets and other web-enabled devices. Our SaaS solution reduces the time, risk, headcount and costs associated with installing and maintaining applications for on premise products within the IT infrastructure of our clients.
+
+Secure Cloud-Based Architecture
+
+Our cloud-based architecture allows our solution to be implemented remotely with minimal client interaction. Updates such as software enhancements and newly developed applications can be deployed without client interaction, disruption or involvement, allowing our clients to make a smaller investment in hardware, personnel, implementation time and consulting. Additionally, we own and maintain all of the infrastructure technology to host our solution and to maximize system availability for clients. Our focus and investment in technology and data security has been recognized with ISO/IEC 27001:2013 certified security standards that provide our clients with a &#8220;best-in-class&#8221; level of data security.
+
+Scalability to Grow with our Clients
+
+Our solution is highly scalable. We serve a diversified client base ranging in size from one to approximately 8,000 employees. We calculate the number of clients&#8217; employees based on parent company grouping. Our clients are able to use the same solution while their businesses grow by deploying applications as-needed in real-time. Pricing is determined by employee headcount and the number of applications utilized, enabling our clients to align HCM spending with their evolving HCM needs as compared to traditional HCM products that require clients to migrate to new software as they grow but retain fixed costs even if the client shrinks in size.
+
+Efficient and Productive Research and Development
+
+We believe that we benefit from a competitive advantage with our research and development investments, people and processes. Early investments in our proprietary, cloud-based architecture enable us to develop and deploy applications in a timely and cost-effective manner. We have also chosen to base our research and development team in Oklahoma and Texas, which we believe provides us with high-quality talent at a lower cost compared to other locations in the United States with a need for technology talent. These strategic decisions have enabled us to have a highly productive research and development function while our research and development expenses grew 99%, 102% and 31% from the comparable year period, for 2015, 2014 and 2013, respectively.
+
+Our Strategy for Growth
+
+Our strategy is to continue to establish our solution as the HCM industry standard. To accomplish this, we intend to:
+
+Increase Our Presence in Existing Markets
+
+Although we have clients in all 50 states, we believe a significant opportunity exists to expand our presence within markets where we currently have a sales office. We have a sales office in 32 of the 50 largest metropolitan statistical areas (&#8220;MSAs&#8221;) in the United States based on July 2014 U.S. Census Bureau estimates, five of which are served by multiple sales teams. We believe that the 50 largest MSAs in the United States could collectively support at least 90 additional sales teams. Each sales office is typically staffed with one sales team, with each team comprised of a sales manager and approximately six to nine other sales professionals. We plan to increase our presence in existing markets by adding sales offices and increasing the number of our sales teams to further penetrate and effectively capture these markets.
+
+&#160;
+
+Expand Into Additional Markets 
+
+We plan to continue expanding our sales capability by opening sales offices in certain metropolitan areas where we currently have no sales teams. Since September 2012, we have opened new sales offices in Baltimore, Brooklyn, Chicago, Cincinnati, Cleveland, Detroit, Indianapolis, Kansas City, Minneapolis, Nashville, New York, Pasadena, Philadelphia, Pittsburgh, Portland, Sacramento, San Antonio, San Francisco, San Jose, Seattle, and Stamford. We intend to open 10 to 14 additional sales offices over the next two years, as well as potentially expand over the longer term into international markets.
+
+We have historically selected new locations based on potential client and employee demographics as well as business density. Our property management team handles the non-personnel aspects of new office openings, from securing an office lease through establishing information security infrastructure and procedures for the prospective office location. When opening a new sales office, we typically relocate a proven sales manager from an existing territory who then recruits a team of high performing sales representatives. It typically takes a new sales office 24 months to reach maturity. 
+
+Enlarge our Existing Client Relationships
+
+We dedicate our resources to helping our clients facilitate their goals, whether through helping them execute better hiring decisions, manage compensation more effectively or simply operate more efficiently. We believe a significant growth opportunity exists in selling additional applications to our current clients. Many clients have subsequently deployed additional applications as they recognize the benefits of our comprehensive solution. As we extend and enhance the functionality of our solution, we will continue to invest in initiatives to increase the adoption of our solution and maintain our high levels of client satisfaction.
+
+Target Larger Clients
+
+The average size of our clients has grown significantly as we have organically grown our operations and increased the number of applications we offer. Based on our total revenues, we have grown at an approximately 41% CAGR from January 1, 2011 through December 31, 2015. Our solution requires no adjustment to serve larger clients. We believe larger employers represent a substantial opportunity to increase the number of clients and to increase our revenue per client, with limited incremental cost to us. To further capitalize on this opportunity, we intend to target larger businesses opportunistically where our current sales model is effective.
+
+Maintain Our Leadership in Innovation by Strengthening and Extending our Solution
+
+Our ability to develop and deploy new applications and updates rapidly and cost-effectively has been integral to the results that we have achieved to date. We intend to continue extending the functionality and range of our solution in the future. Our development efforts are performed exclusively in-house and are heavily based upon proactive research and client input. In the near-term, we intend to focus our investments on further developing applications within our higher margin HR and talent management applications. Over the long term, we intend to increase our investment in the development of new applications that are responsive to the needs of our clients, which are garnered through ongoing client interaction and collaboration.
+
+Our Applications
+
+Our HCM solution offers a full suite of applications that generally fall within the following categories: talent acquisition, time and labor management, payroll, talent management and HR management.
+
+Talent Acquisition
+
+&#160;
+
+&#160;
+
+Applicant Tracking. Our applicant tracking application simplifies the recruiting processes needed to hire the most qualified employees. By using our all-in-one system, our clients can move candidates from the application process through new employee on-boarding without re-keying data. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Candidate Tracker . Our candidate tracker application enables recruiters to track and stay connected to potential talent through an online database of top candidates. This application helps clients fill future positions faster without the cost of professional recruiting firms. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Background Checks. Our background check application helps to ensure that prospective new hires are qualified candidates. We provide clients with the tools for authorizing background checks, creating pre-adverse and adverse action letters and securely storing results as required by the Fair Credit Reporting Act. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+On-Boarding . Our on-boarding application streamlines the hiring and termination processes for employees of our clients by creating online checklists of tasks to be assigned to an employee or group of employees. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+E-Verify &#174; . Our E-Verify &#174; application automates employment verification and reduces our clients&#8217; exposure to audits and penalties that could result from I-9 violations. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Tax Credit Services. Our tax credit services application helps employers process and calculate the available federal tax credits associated with hiring employees who meet various qualifications. 
+
+Time and Labor Management
+
+&#160;
+
+&#160;
+
+Time and Attendance . Our time and attendance application allows our clients to accurately and efficiently manage when, where and how employees report their hours worked. Clients can apply customized rules, use batch editing and use timecard management tools to manage complex time and attendance needs. Our web time clocks feature allows employees to clock in and out online, which automatically updates the payroll application when approved, eliminating the need to manually calculate timesheets and rekey information into payroll systems. We also offer several different types of hardware terminals that are ideal for single or multi-clock environments. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Scheduling/Schedule Exchange . Our scheduling application helps managers with employee scheduling through automated functionality that provides for a seamless workflow with the payroll and time and attendance applications. Our schedule exchange application allows employees and managers access to their schedules at any time and employees can approve, decline or swap their schedules and see what shifts are available for pickup. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Time-Off Requests . Our time-off requests application automates and standardizes the time off request procedure and helps employers remain effectively staffed. Managers can view an online time-off calendar to easily monitor and approve or deny time-off requests. Our employee self-service tool allows employees to view the time-off they have available, submit requests and view blackout dates, the status of requests and any manager comments. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Labor Allocation. Our labor allocation application simplifies the process of setting up and tracking employee hours based on the job the employee is working. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Labor Management Reports/Push Reporting . Our labor management reports application helps clients get up-to-the-minute reports on the information they need to better manage their labor force, such as overtime and labor distribution. Our push reporting application also gives clients the ability to set up recurring reports and to schedule them to be run automatically and sent to users on either a daily, weekly, monthly, quarterly or yearly basis. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Geofencing/Geotracking. Enhancing our time-and-attendance solution, Paycom&#8217;s geofencing and geotracking location-based technology assist our clients in managing the whereabouts of employees while on the job. Geofencing allows employers to establish geographical boundaries within which their employees are authorized to clock in and out when using Paycom&#8217;s Web Time Clock on smartphones, tablets or other electronic devices. Once enabled, this time-theft-combatting tool supersedes IP address restrictions, meaning the system first checks for authorized geographical locations, rather than authorized IP addresses. In addition, the geotracking tool empowers clients to track employees&#8217; geographical locations upon clocking in and out. The coordinates collected by the application can be entered into and viewed on a Google&#174; display map. 
+
+&#160;
+
+Payroll 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Payroll and Tax Management. Our payroll application is the foundation of our solution and all of our clients are required to utilize this application in order to access our other applications. Our payroll application is automatically updated with changes in employee information and offers other time saving functionality such as batch editing and effective dating. The application can be accessed at any time to make changes, run payroll and generate custom reports. We also help our clients by handling their payroll taxes and deposits, regulatory correspondence, amendments, and penalty and interest disputes. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Paycom Pay. Our Paycom Pay application eliminates the tedious job of check reconciliation by issuing checks to our clients&#8217; employees that clear from a Paycom bank account, which helps clients eliminate potential liability and simplifies the reconciliation process. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Expense Management . Our expense management application eliminates the manual, paper-based processes associated with employee expense reimbursement and allows employers to control and monitor expenses by setting clearly defined rules and parameters for employee reimbursement. Employees can upload receipts when submitting their expenses and access an expense dashboard where they can view the status of their submitted expenses. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Garnishment Management . Our garnishment management application allows us to handle communications with garnishment payees and agencies and to calculate and track garnishment payments. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+GL Concierge. Our GL Concierge application offers organizations more control and transparency into their payroll general ledger and gives finance professionals intuitive reporting, enriched audit trails, customizable file layouts and real-time alerts. Clients of all sizes can utilize a wide variety of general ledger maps along with an action-item alert system that improves the dynamics of their daily operations. 
+
+Talent Management
+
+&#160;
+
+&#160;
+
+Employee Self-Service. Our employee self-service application improves employee engagement by empowering our clients&#8217; employees to self-manage certain transactions, obtain quick answers to frequent payroll and HR questions, access their pay history and view performance goals and reviews and total compensation reports to review their compensation and benefits package. Benefits information and paid time off accruals also give employees the ability to make informed decisions regarding their benefit selections and time-off requests. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Compensation Budgeting . Our compensation budgeting application provides compensation and performance information in one system, giving clients with valuable workforce insight to help manage and formulate salary budgets and helping establish merit-based compensation increases. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Performance Management . Our performance management application allows for standardized positions across a company with set pay grades and performance goals. It also helps streamline the performance review process with online facilitation of the review process. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Executive Dashboard . Our executive dashboard offers powerful workforce insight for executives to access information on demand in a variety of report formats. Because we offer an all-in-one solution in a single database, the comprehensive report data provides the workforce intelligence needed to drive human capital decisions at an executive level. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Paycom Learning . Our learning management application formalizes and standardizes our clients&#8217; training processes. Employers can create customized content utilizing videos, presentations, quizzes and surveys. It provides our clients&#8217; employees &#8220;anytime, anywhere&#8221; access to a central knowledge base where the employee can access content, share expertise and measure his or her professional development progress. Our clients can track the activity and success of their training programs with pre-defined reports and an analytics dashboard. 
+
+&#160;
+
+HR Management 
+
+&#160;
+
+&#160;
+
+Document and Task Management. Our document and task management application manages employee files, including the ability to have employees digitally sign and view company documents. We securely store client records to meet retention requirements and protect documents from unauthorized access and other disasters that can threaten businesses. In addition, clients can assign checklists to employees for the completion of certain tasks associated with processes such as on-boarding and off-boarding. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Government and Compliance . Our government and compliance application helps clients reduce exposure to violations, audits and penalties with respect to the employment laws impacting their business, such as the Family Medical Leave Act, Equal Employment Opportunity Commission and other state and federal regulations. A single database keeps our clients&#8217; employee data consistent and enhances reporting capabilities by providing better accuracy and real-time insight. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Benefits Administration/Benefits to Carrier . Our benefits administration application allows clients to customize benefit plan setup, deduction amounts, enrollment dates and new-hire waiting periods. Employers are provided census and reconciliation reports to ensure they do not overpay for benefits, can update deduction amounts for all employees or groups of employees at once and automatically updates all insurance carriers for any changes. This application also provides employees with online enrollment and helps educate them and drive informed enrollment decisions for greater employee satisfaction. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+COBRA Administration . Our COBRA administration application protects employers from COBRA violations and their associated fines and penalties by automatically initiating compliance measures with the entry of qualifying events into the application. This application also tracks important dates, collects and remits premiums and reports on all COBRA activity. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Personnel Action Forms . Our personnel action forms application helps our clients reduce the amount of time and paperwork required with employee changes such as pay rate, position and title changes by allowing managers to complete and approve online personnel action forms. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Surveys . Our surveys application allows clients to create employee surveys to help identify and resolve workplace matters that otherwise may remain undisclosed. Clients can analyze results by the demographics of the workforce and compare how results change over time. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Enhanced ACA. Our Affordable Care Act (&#8220;ACA&#8221;) application provides clients with continued access to an ACA dashboard that tracks employee count, employee status, health care plan affordability and ACA periods all from one convenient location and enables Paycom to file IRS Forms 1094/1095-B or &#8211;C. Clients utilizing this application also have access to additional real-time compliance reports and alerts. 
+
+Our Clients
+
+We serve a diverse client base in terms of size and industry. We have over 15,000 clients, or approximately 9,000 clients based on parent company grouping, none of which constituted more than one-half of one percent of our revenues for the year ended December 31, 2015. We stored data for more than 2.1 million persons employed by our clients during the year ended December 31, 2015.
+
+Many of our clients that are small to mid-sized companies can typically make the decision to adopt our solution more quickly than larger companies, which we believe results in a shorter sales cycle and more closely corresponds to our target sales cycle of 30 to 90 days. As a result of the nature and size of our clientele, we maintain a diversified client base and very low revenue concentration among our clients. We believe, however, that larger employers represent a substantial opportunity to increase the number of clients and to increase our revenue per client with limited incremental cost. As we attract clients at the higher end of our target client size range, we may face longer sales cycles and less predictability in completing some of our sales.
+
+Competition
+
+The market for HCM solutions is rapidly evolving, highly competitive and subject to changing technology, shifting client needs and frequent introduction of new products and services. Our competitors range from small, regional firms to large, well-established international firms with multiple product offerings.
+
+&#160;
+
+We compete with firms that provide HCM solutions by various means. Many providers continue to deliver legacy enterprise software, but as demand for greater flexibility and a ccess to information grows, we believe there will be increased competition in the delivery of HCM cloud-based solutions by other SaaS providers. Our competitors offer HCM solutions that may overlap with one, several or all categories of applications offere d by our solution. Our talent acquisition and talent management applications compete primarily with Cornerstone OnDemand, Inc., Oracle Corporation, SAP SE and Workday, Inc. Our payroll applications, including payroll processing, compete primarily with Auto matic Data Processing, Inc. (&#8220;ADP&#8221;), Ceridian HCM , Inc. (&#8220;Ceridian&#8221;) , Concur Technologies, Inc., Intuit Inc., Paychex, Inc., Paylocity Holding Corporation and The Ultimate Software Group, Inc. Our HR management applications compete primarily with ADP, Ceri dian, Oracle Corporation, Paychex, Inc., Paylocity Holding Corporation, SAP SE , and Workday, Inc. Our time and labor management applications compete primarily with ADP, Ceridian, Paylocity Holding Corporation and The Ultimate Software Group, Inc. Our large r competitors compete with us across multiple segments. In addition, our HCM solution continues to face competition from in-house payroll and HR systems and departments as well as HR systems and software sold by third-party vendors. 
+
+Competition in the HCM solutions market is primarily based on service responsiveness, product quality and reputation, breadth of service and application offering and price. The importance of these factors depends on the size of the business. Price tends to be the most important factor of competition for smaller businesses with fewer employees while the scope of features and customization is more important to larger businesses. We believe that our SaaS delivery model allows us to be most competitive in the HCM solutions market across this spectrum.
+
+Sales and Marketing
+
+We sell our solution exclusively through our captive sales force, substantially all of whom have a four-year college degree. We typically recruit sales candidates who have sales experience in non-HCM industries or, with respect to candidates recruited directly from colleges and universities, who have demonstrated an aptitude for sales. Our sales force is comprised of inside sales and field sales personnel, who are organized geographically, and client relations representatives (&#8220;CRRs&#8221;), who sell additional applications to existing clients. We have 42 sales teams located in 24 states and plan to open additional sales offices to further expand our presence in the U.S. market.
+
+We provide our sales force with an intensive four-week training course that includes at least one week of training at our headquarters in Oklahoma City. Our unique training program includes instruction in accounting, business metrics, application features and tax matters relevant to our target market and we believe it fosters loyalty and helps maintain our corporate culture. Our training continues for our sales force through weekly in-office strategy sessions and leadership development training. Executive sales representatives are also required to attend in-person quarterly conferences to share best practices and receive legal and business updates.
+
+When a new client processes with us for an entire month, our sales representative receives a commission based upon annualized new recurring revenues. This commission is only paid once per new customer. Executive sales representatives receive a higher commission rate and base salary based upon both current year and life-to-date realized sales, respectively.
+
+We generate client leads, accelerate sales opportunities and build brand awareness through our marketing programs that target senior finance and HR executives, technology professionals and senior business leaders of companies that perform HCM functions in-house or outsource these functions to one of our competitors. Our marketing programs include:
+
+&#160;
+
+&#183; 
+
+Direct mail campaigns, email campaigns, personalized URLs, industry-specific print advertising and tradeshow exhibiting; 
+
+&#160;
+
+&#183; 
+
+Search engine marketing methods that include site optimization and pay-per-click searches; and 
+
+&#160;
+
+&#183; 
+
+Webinars, white papers and infographics. 
+
+Our CRRs are focused on expanding the number of applications our clients purchase from us by introducing them to additional applications. Our CRRs call upon select clients periodically and are paid a non-recurring commission on any additional sales they generate.
+
+Technology, Operations and Security
+
+Technology
+
+Our multi-tenant architecture enables us to deliver our solution across our client base with a single instance of our solution, while securely partitioning access to our clients&#8217; respective application data. Because a single version of our solution is developed, 
+
+&#160;
+
+supported and deployed across all of our clients, updates are delivered to all of our clients at the same time, making it easier to scale our solution as the number of our clients and their employee headcount increases. 
+
+We maintain diverse load-balanced Internet lines serviced by multiple networks to provide our clients continuous access to our solution and their stored data. We back up our client data at regular intervals utilizing live replication, snapshots and cold archive methods of backup and manually monitor backup success and failure regularly. Our server cluster and database servers have redundant &#8220;hot swappable&#8221; disks to ensure continuous service in the event of a disk failure.
+
+Operations
+
+We physically host our solution for our clients in two secure data center facilities located in Oklahoma and Texas. All of our critical systems are fully redundant and backed-up in real-time to these facilities. Physical security includes ID-oriented access control, alarm systems and manned 24 hour a day camera monitoring by our security guards. Server facilities also have environmental monitoring and extensive environmental controls such as heat and fire protection, moisture, temperature, and humidity sensors, backup power supply and exterior reinforced concrete walls.
+
+Security
+
+We maintain a formal and comprehensive security program designed to ensure the confidentiality, integrity and availability of our clients&#8217; data. During the regular course of business, we receive client data through our online system that we in turn process, record and store following ISO/IEC 270001:2013 certified controls and procedures. All communications with our servers that might contain sensitive information are encrypted before they leave the network and our servers are configured to only allow high-grade encryption algorithms.
+
+We strictly regulate and limit all access to servers and networks at each of our facilities. Local network access is restricted by our authenticated server, using access control lists and remote network access is restricted by a firewall, which provides no accessible route from external networks to systems within our local network. We also employ network and host intrusion detection and prevention sensors throughout our infrastructure, systems that monitor and alert on insecure installations of third-party applications, a full system for managing and installing patches for those applications and highly restricted access to the Internet for anyone who has access to client data. Our information security department regularly performs penetration testing and we retain a third-party penetration testing company to conduct penetration tests and periodic audits to identify and remediate any issues.
+
+Our applications are secured using multiple libraries and secure coding practices. Our IT infrastructure is secured and monitored using a number of best practices and tools at multiple layers of the physical and logical network. This security is also continually monitored by our information security department. All of our operations employees work in either our Oklahoma or Texas locations and are not permitted to work remotely.
+
+Software Development
+
+Our application development team works closely with our clients to improve and enhance our application offerings and develop new applications. Our application development process consists of a focused innovation and development timeframe in order to deliver well-developed applications and enhancements desired by our clients. A key element of our development process is the one-on-one personal interaction between clients and our CRRs through which our clients suggest new applications and features.
+
+We develop our solution from the &#8220;ground up&#8221; with our internal development and engineering teams. Our development and engineering teams and our employees conceive of new applications and enhancements, review requests, schedule development in order of priority and subsequently develop the applications or enhancements. Our new applications and enhancements are independently reviewed by the quality assurance team, in accordance with our software development process, before being fully implemented. Any enhancements to our applications are released on a monthly scheduled release date to coordinate the communication and release to our clients.
+
+Capitalized development expenses, which include compensation for employees directly associated with development projects, were $4.3 million, $2.2 million and $1.2 million for the years ended December 31, 2015, 2014 and 2013, respectively.
+
+Client Service
+
+We are committed to providing industry-leading, client-centered service. For this reason, we assign each client a specialist within a dedicated team. This one-on-one service is a key part of our client service model and helps to ensure that we are delivering an 
+
+&#160;
+
+industry-leading sol ution and maintaining high client satisfaction. The primary elements of our client service model include the following: 
+
+Streamlined Setup and Onboarding
+
+After a client elects to deploy our solution, that client goes through our onboarding process with assistance from a team of new client setup specialists and the sales professional responsible for obtaining the client&#8217;s business. This team works closely with the client until the client is capable of managing our solution independently, at which time it is transferred to our dedicated services specialists.
+
+Dedicated Service Specialists
+
+After completing the onboarding process, each client is assigned to a services specialist within a dedicated team. Clients can then contact their dedicated services specialist or a team member if any issues or questions arise. These specialists provide personalized service with actual knowledge of the clients&#8217; business needs. When appropriate, client questions can be elevated to the specialists with the appropriate application, regulatory or tax expertise. In addition, our CRRs proactively contact our clients to ensure satisfaction with our solution and introduce additional applications.
+
+Expert Level Service
+
+Our client specialists are trained across all of our applications to ensure that they can provide comprehensive, expert-level service. Our client service is ISO 9001:2008 certified and helps support a high client retention rate.
+
+Regulatory and Certifications
+
+We are subject to varying degrees of regulations in each of the jurisdictions in which we provide services. Local laws and regulations, and their interpretation and enforcement, differ significantly among those jurisdictions. These regulations and laws cover, among others, information disclosure.
+
+Personal privacy has become a significant issue in the United States and in other countries. The regulatory framework for privacy issues worldwide is rapidly evolving and is likely to remain uncertain for the foreseeable future. Many federal, state and foreign government bodies and agencies have adopted or are considering adopting laws and regulations affecting or regarding the collection, use and disclosure of personal information. In the United States, these include, for example, rules and regulations promulgated under the authority of the Federal Trade Commission, the Health Insurance Portability and Accountability Act of 1996, the Family Medical Leave Act of 1993, the ACA and state breach notification laws.
+
+We voluntarily obtain third party security examinations relating to security and data privacy in accordance with Statement on Standards for Attestation Engagements (&#8220;SSAE&#8221;), No. 16, Reporting on Controls at a Service Organization. Our SSAE examination is conducted every six months by an independent third party auditor, and addresses, among other areas, our physical and environmental safeguards for production data centers, data availability and integrity procedures, change management procedures and logical security procedures.
+
+In January 2014, we renewed a certification based on ISO/IEC 27001:2013 criteria, a security standard for Information Security Management Systems published by ISO covering our production, quality assurance and implementation environments. This independent assessment of our conformity to the ISO 27001 standard includes assessing security risks, designing and implementing comprehensive security controls and adopting an information security management process to meet security needs on an ongoing basis. The certification is valid until February 2017, with continuing assessments taking place annually.
+
+In March 2014, we renewed a certification based on ISO/IEC 9001:2008 criteria, a standard for the implementation of quality management processes published by ISO, covering our activities required to create and deliver our solution. This independent assessment of our conformity to the ISO 9001 standard includes assessing the design and implementation of quality objectives to meet delivery standards on an ongoing basis. The certification is valid until April 2017, with continuing assessments taking place annually.
+
+Intellectual Property
+
+We rely on a combination of copyrights, trademarks, service marks, trade secret laws and contractual restrictions to establish and protect our intellectual property rights. We also have a number of registered and unregistered trademarks and will continue to evaluate the registration of additional trademarks as appropriate. We do not have any patents or patent applications pending.
+
+&#160;
+
+Seasonality 
+
+Our revenues are seasonal in nature. Recurring revenues include revenues relating to the annual processing of payroll forms, such as Form W-2 and Form 1099, and revenues from processing unscheduled payroll runs (such as bonuses) for our clients. Because payroll forms are typically processed in the first quarter of the year, first quarter revenue and margins are generally higher than in subsequent quarters. We anticipate that, commencing in 2016, first quarter revenues will also exhibit a stronger seasonal pattern as a result of the enactment of the ACA, which requires clients to file Forms 1094 and 1095 in the first quarter. In addition, we often experience increased revenue during the fourth quarter due to unscheduled payroll runs for our clients that occur before the end of the year. We believe this seasonality is driven by several factors, most notably the number of our clients that use our payroll application, as compared to the other applications that we offer. 
+
+Employees
+
+Our ability to recruit and retain qualified employees is critical to our continued success. We invest heavily in our training and leadership development programs to encourage the development and promotion of our employees. As of December 31, 2015, we employed 1,461 people. None of our employees were covered by collective bargaining agreements. 
+
+Facilities
+
+Our corporate headquarters is located in Oklahoma City, Oklahoma on a 170,000 square foot corporate campus that includes a disaster recovery site located in Oklahoma City. We own over 30 acres in Oklahoma City upon which our facilities are located. We also operate fully redundant data centers located at our corporate headquarters in Oklahoma and at an 18,727 square foot operations center that we lease in Dallas, Texas.
+
+We also lease offices in Arizona, California, Colorado, Connecticut, Florida, Georgia, Illinois, Indiana, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Jersey, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas, Virginia and Washington. We believe that these facilities are suitable for our current operations and upon the expiration of the terms of the leases we believe we could renew these leases or find suitable space elsewhere on acceptable terms.
+
+Segment Information
+
+We operate in a single operating segment and a single reporting segment. Operating segments are defined as components of an enterprise about which separate financial information is regularly evaluated by the chief operating decision maker function (which is fulfilled by our chief executive officer) in deciding how to allocate resources and in assessing performance. Our chief executive officer allocates resources and assesses performance based upon financial information at the consolidated level. Since we operate in one operating segment, all required financial segment information is presented in the consolidated financial statements.
+
+Available Information
+
+Our Internet address is www.paycom.com and our investor relations website is located at investors.paycom.com. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports can be found on our Investor Relations website, free of charge. These reports are also electronically filed with (or furnished to) the SEC. Information contained on our websites is not incorporated by reference into this Annual Report on Form 10-K. The SEC maintains a public website, www.sec.gov, which includes information about and the filings of issuers that file electronically with the SEC.
+
+Additionally, the information that we file with the SEC may be read at the SEC&#8217;s Public Reference Room at 100 F Street NE, Washington, DC 20549. Information about the SEC&#8217;s Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330.
+
+&#160;
+

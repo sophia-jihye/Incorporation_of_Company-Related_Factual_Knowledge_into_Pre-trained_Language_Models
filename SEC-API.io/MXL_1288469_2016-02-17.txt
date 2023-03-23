@@ -1,0 +1,282 @@
+ ITEM 1. 
+
+BUSINESS 
+
+Corporate Information 
+
+We incorporated in the State of Delaware in September 2003. Our executive offices are located at 5966 La Place Court, Suite 100, Carlsbad, California 92008, and our telephone number is (760) 692-0711. In this Form 10-K, unless the context otherwise requires, the &#8220;Company,&#8221; &#8220;we,&#8221; &#8220;us&#8221; and &#8220;our&#8221; refer to MaxLinear, Inc. and its wholly owned subsidiaries. Our website address is www.maxlinear.com. The contents of our website are not incorporated by reference into this Form 10-K. We provide free of charge through a link on our website access to our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, as well as amendments to those reports, as soon as reasonably practical after the reports are electronically filed with, or furnished to, the Securities and Exchange Commission, or SEC. Refer to Intellectual Property Rights &#32;section below for a list of our trademarks and trade names. All other trademarks and trade names appearing in this Form 10-K are the property of their respective owners. 
+
+Overview 
+
+&#160; 
+
+We are a provider of radio frequency, or RF, and mixed-signal integrated circuits for cable and satellite broadband communications, the connected home, and for data center, metro, and long-haul fiber networks. Our high performance RF receiver products capture and process digital and analog broadband signals to be decoded for various applications. These products include both RF receivers and RF receiver systems-on-chip (SoCs), which incorporate our highly integrated radio system architecture and the functionality necessary to receive and demodulate broadband signals, and physical medium devices that provide a constant current source, current-to-voltage regulation, and data alignment and retiming functionality in optical interconnect applications. Through our acquisition of Entropic Communications, Inc., or Entropic, in April of 2015, we provide semiconductor solutions for the connected home, ranging from MoCA&#174; (Multimedia over Coax Alliance) solutions that transform how traditional HDTV broadcast and Internet Protocol- (IP) based streaming video content is seamlessly, reliably, and securely delivered, processed, and distributed into and throughout the home, to digital set-top box (STB) components and system solutions for the global satellite, terrestrial, cable and IP television (IPTV) markets. Our products enable the distribution and display of broadband video and data content in a wide range of electronic devices, including Pay-TV operator set-top boxes and voice and data gateways, hybrid analog and digital televisions, Direct Broadcast Satellite outdoor units, and optical modules for data center, metro, and long-haul transport network applications. 
+
+We combine our high performance RF and mixed-signal semiconductor design skills with our expertise in digital communications systems, software and embedded systems to provide highly integrated semiconductor devices that are manufactured using a range of semiconductor manufacturing processes, including low-cost complementary metal oxide semiconductor, or CMOS, process technology, Silicon Germanium, Gallium Arsenide, BiCMOS and Indium Phosphide process technologies due to our acquisitions of Physpeed and Entropic. Our ability to design analog and mixed-signal circuits in CMOS allows us to efficiently combine analog and digital signal processing functionality in the same integrated circuit. As a result, our 
+
+RF receivers and RF receiver SoCs have high levels of functional integration and performance, small silicon die size and low power consumption. Moreover, our proprietary CMOS-based radio system architecture provides to our customers the benefits of superior RF system performance, shorter design cycles, significant design flexibility and low system cost across a wide range of broadband communications applications. It is our intention to drive future optical interconnect products to CMOS versus existing Silicon Germanium BiCMOS and Indium Phosphide process technology designs. 
+
+We sell our products to original equipment manufacturers, or OEMs, module makers and original design manufacturers, or ODMs. During 2015 , we sold our products to more than 179 &#32;end customers. For the year ended December 31, 2015 , our net revenue was $300.4 million &#32;as compared to $133.1 million &#32;in the year ended December 31, 2014 . 
+
+Recent Developments 
+
+On April 30, 2015, we completed its acquisition of Entropic Communications, Inc., or Entropic. Pursuant to the terms of the merger agreement dated as of February 3, 2015, by and among the Company, Entropic, and two wholly-owned subsidiaries of the Company, all of the Entropic outstanding shares were converted into the right to receive consideration consisting of cash and shares of our Class A common stock. We paid an aggregate of $111.1 million and issued an aggregate of 20.4 million shares of our Class A common stock to the stockholders of Entropic. In addition, we assumed all outstanding Entropic stock options and unvested restricted stock units that were held by continuing service providers (as defined in the merger agreement). We used Entropic&#8217;s cash and cash equivalents to fund a significant portion of the cash portion of the merger consideration and, to a lesser extent, our own cash and cash equivalents. 
+
+As a result of the acquisition, we believe we have benefited from the economies of scale across engineering and supply chain operations, as well as from elimination of redundancy across engineering, sales, and general and administrative functions. Entropic had been recognized for pioneering the MoCA&#174; (Multimedia over Coax Alliance) home networking standard and inventing Direct Broadcast Satellite outdoor unit, or DBS ODU, solutions which consist of band translation switch, or BTS, and channel stacking switch, or CSS, products which simplify the installation required to support simultaneous reception of multiple channels from multiple satellites over a single cable. We believe the acquisition of Entropic added significant scale to our analog/mixed-signal business and expanded our addressable market and enhanced the strategic value of the Company&#8217;s offerings to broadband and access partners, OEM customers, and service providers. For a discussion of specific risks and uncertainties that could affect our ability to achieve these and other strategic objectives of the acquisition, please refer to Part I, Item 1A, &#8220;Risk Factors&#8221; under the subsection captioned &#8220;Risks Relating to the Proposed Acquisition of Entropic.&#8221; 
+
+Industry Background 
+
+Technological advances in the broadband data, broadcast TV, voice, and wired and wireless data markets are driving dramatic changes in the way consumers access the internet and experience multimedia content. These advances include the ongoing worldwide conversion from analog to digital television broadcasting; the increasing availability of high-speed broadband and wireless data connectivity; the resolution transitions from standard-definition, to high-definition to ultra-high-definition/4K video television; the proliferation of multi-channel digital video recording, or DVR; the proliferation of multimedia content being both accessible and stored in the cloud through cable, satellite and telecommunications carrier services. As a result, system designers are adding enhanced multimedia functionality to set-top boxes and digital televisions, and expanding voice, video and data access functions and capabilities to home broadband gateways and mobile devices, which in turn is creating demand for higher speed optical interconnects in data center, metro, and long-haul transport network applications. We believe that several trends, across multiple target markets, are creating revenue opportunities for providers of RF and analog/mixed-signal solutions. These trends include the following: 
+
+&#8226; 
+
+Service Provider/Operator: &#32;Competing cable, satellite, and other broadband service providers differentiate their services by providing consumers with bundled video, voice, and broadband data access, referred to as triple-play services. These services include advanced features such as; channel guide information, video-on-demand, multi-channel digital video recording, or DVR, and picture-in-picture viewing. Many set-top boxes, including those used for triple-play services, now enable consumers to simultaneously access, and manage multimedia content from multiple locations in the same house. These advanced features require either a home gateway or a set-top box to simultaneously receive, demodulate, and decode multiple signals spread across several channels of frequency bandwidth. Traditional architectures would require that each simultaneously accessed signal require a dedicated RF receiver. In these emerging home gateway or media servers, where content may be delivered using internet protocol or IP, there may be &#8220;thin or remote clients&#8221; that may not have traditional TV tuners, but necessarily include a broadband RF receiver such as MoCA or WiFi. This greatly increases the number of RF receivers required to be deployed in each set-top box. In addition, in order to deliver increasing data bandwidth to 
+
+the home, cable MSOs have deployed DOCSIS 3.0 equipment and services, which enable channel bonding, or the concurrent reception of multiple channels, resulting in higher aggregate &#8220;sum of the channels&#8221; bandwidth available to DOCSIS 3.0 cable subscribers. 
+
+&#8226; 
+
+Infrastructure and Non-Operator Terrestrial: &#32;Growth in data traffic generated from smartphones and tablets, over-the-top, or OTT, streaming video, cloud computing and data analytics in hyper-scale data centers is creating demand for higher speed interconnect products addressing enterprise and telecommunications infrastructure market applications. These solutions provide the interconnect function between the top-of-rack to the core-router within a datacenter, and the metro and long haul connections within a service provider network. Datacenter links are consistently increasing in performance/speed and are currently changing from 1Gbps to 10Gbps on the servers and from 10/40Gbps to 100Gbps on the routers and switches, and we believe that over the next several years they will likely migrate to 400Gbps. In the markets for non-operator terrestrial solutions, consumers are utilizing a broad array of consumer electronic devices beyond the television, such as personal computers, netbooks, tablets, and mobile phones to access broadcast television and other multimedia content. Specifically, with the increased popularity of accessing multimedia content over-the-top, or OTT, via broadband-enabled streaming services, consumers are increasingly augmenting these OTT multimedia content services with local free-to-air broadcast programming. Consumers can access these terrestrial broadcasts through set-top boxes containing terrestrial RF receiver solutions. 
+
+As a result of these trends, RF and analog/mixed signal receiver technology is being deployed in a variety of devices for the terrestrial, cable, satellite, datacenter, and metro and long-haul telecom transport network markets. The proliferation of applications with advanced features has led to an increase in the number of devices with multiple RF receivers and RF receiver SoCs. RF receivers incorporate RF, digital and analog signal processing functions. 
+
+Challenges Faced by Providers of Systems and RF Receivers and Optical Interconnects 
+
+The stringent performance requirements of broadband communications and optical interconnect applications and the distinct technological challenges associated with the terrestrial, cable, satellite, datacenter, and metro and long-haul telecom transport markets present significant obstacles to service providers and system designers. In particular, designing and implementing RF receivers to capture broadcast digital television signals is extremely challenging due in part to the wide frequency band across which broadcast digital television signals are transmitted. As compared to other digital radio technologies, such as those found in cellular, WiFi and Bluetooth applications, television signals that are broadcast over air, on cable, and by satellite are acquired over a much wider frequency band and encounter many more sources of interference. As a result, traditionally, design and implementation of these RF receivers have been accomplished using conventional radio system architectures that employ multiple discrete components and are fabricated using expensive special purpose semiconductor manufacturing processes, such as silicon germanium, gallium arsenide, and special purpose CMOS-based RF process technologies. 
+
+The core challenges of capturing and processing high quality broadband communications signals are common to the terrestrial, cable, and satellite markets. These challenges include: 
+
+&#8226; 
+
+Design Challenges of Receiving Multiple RF Signals. &#32;System designers and service providers across various markets seek to enhance consumer appeal through the addition of new features in their products. Incorporating more than one channel of RF reception in an electronic device enables many of these features and advanced applications that are rapidly becoming a part of the standard offering from device makers and service providers. For example, in the cable set-top box market, it is necessary to support the simultaneous reception of multiple channels for voice, video and data applications in many system designs. In order to meet such requirements, OEMs must employ either multiple narrow or wideband RF receivers or Full Spectrum Capture (FSC TM ) receiver SoCs in their system design. Each additional RF receiver poses new challenges to the system designer, such as increased design complexity, overall cost, circuit board space, power consumption and heat dissipation. In addition, a high level of integration in multiple-receiver designs is necessary to combat the reliability and signal interference issues arising from the close proximity of sensitive RF elements. 
+
+&#8226; 
+
+Signal Clarity Performance Requirements. &#32;Television reception requires a robust and clear signal to provide an adequate user experience. One of the core attributes of system performance is signal clarity, often measured by the signal-to-noise ratio parameter, which measures the strength of the desired signal relative to the combined noise and undesired signal strength in the same channel. Television reception requires an RF receiver that has a wide dynamic range and the ability to isolate the desired signal from the undesired signals, which include the noise 
+
+generated by extraneous radio waves and interferers produced by home networking systems such as wireless local area network, or WLAN, and Bluetooth. Traditional RF receiver implementations utilized expensive discrete components, such as band-pass filters, resonance elements and varactor diodes to meet the stringent requirements imposed by broadband television reception. In high speed mobile environments, a method known as diversity combining of radio signals, in which the desired signal is captured using multiple RF receivers and reconstructed into a single signal, has been employed to improve the signal-to-noise ratio. Diversity combining of radio signals requires substantial RF, digital signal processing and software expertise. Both the traditional broadband reception and diversity combining of RF signals in mobile environments are difficult to implement and pose challenges to RF receiver providers. 
+
+&#8226; 
+
+Multiple Standards. Worldwide, there are several regional standards for the transmission and reception of broadband analog and digital TV signals. Technical performance, feature requirements and the predominance of a particular means of TV transmission vary regionally. Further, each major geographic region has adopted its own TV standard for cable, terrestrial, and satellite transmissions, such as DVB-T/T2/C/C2/S/S2, ATSC, NTSC, ISDB-T, PAL, SECAM, DTMB, CMMB, etc. As a result of these multiple standards, there are region-specific RF receiver requirements and implementations, which make global standards compliance extremely challenging. Many system designers prefer a multiple standards and protocol compliant solution that was previously not possible. Providers of RF receivers face the design challenge of providing this flexibility to the system designer without any increase in power consumption, or any loss of performance quality or competitiveness. 
+
+&#8226; 
+
+Power Consumption. Power consumption is an important consideration for consumers and a critical design specification for system designers. For example, in battery-operated devices such as netbooks and notebooks, and voice-enabled cable modems, long battery life is a differentiating device attribute. In addition, government sponsored programs, such as Energy Star in the U.S., induce consumers to purchase more energy efficient products. For example, in September 2009, the U.S. Environmental Protection Agency announced that Energy Star compliant televisions would be required to be 40% more energy efficient than their noncompliant counterparts. The addition of one or more RF receivers to a system in order to enable digital TV functionality significantly increases the overall power consumption imposing severe platform level design constraints on multiple channel receiver systems. In fact, in some multiple receiver system designs, a majority of the system&#8217;s overall power consumption is attributable to the RF receiver and related components. Providers of RF receivers and RF receiver SoCs are confronted with the design challenge of lowering power consumption while maintaining or improving device performance. 
+
+&#8226; 
+
+Size. The size of electronic components, such as RF receivers, is a key consideration for system designers and service providers. Given the proliferation of the number of RF receivers in broadband service provider video and data gateways market, size can be a determining factor for whether or not a particular component, such as an RF receiver is designed into the product. In the television market, as system designers create thinner flat-screen displays, the size of RF receivers is becoming a significant consideration, especially when multiple RF receivers are incorporated in a single system. 
+
+The challenges of processing high-speed optical interconnect signals for datacenter, metro and long-haul telecommunications transport markets include: 
+
+&#8226; 
+
+Optical Fiber Channel Impairments . The optical properties of the fiber material results in impairments to the optical signal that is being propagated across the fiber. These impairments include loss of light intensity, modal, chromatic and polarization dispersion as the light propagates through the fiber. These impairments result in degradation of signal integrity which contributes to effective reduction in data throughput. 
+
+&#8226; 
+
+Optical Device Technology . The state-of-art in optical device technology today lags the speeds contemplated for data traffic within cloud data centers and transport links between telecom data centers. So, there are severe physical limits to the conversion of electrical signals to optical signals and vice versa at extremely high speeds. These limitations arise from bandwidth, nonlinearities, and noise properties in lasers, modulators, and photo detectors. 
+
+&#8226; 
+
+Form Factor. &#32;The form factor of the face plates in server, storage, switch, and networking racks in data centers limits the capacity to dissipate heat generated by electrical and optical devices inside the transceivers to which optical fibers are connected. As data rates increase dramatically, the physical form of the face plates and connectors does not scale to cope with accompanying increase in power density. 
+
+Our RF Receiver Solution 
+
+We are a provider of integrated, radio-frequency and mixed-signal integrated circuits for broadband communications and data center, metro, and long-haul transport network applications. Our products enable the display of broadband video and data content in a wide range of electronic devices, including cable and terrestrial and satellite set-top boxes, DOCSIS data and voice gateways, hybrid analog and digital televisions, satellite low-noise blocker transponders or outdoor units and optical modules for data center, metro, and long-haul transport network applications. 
+
+We combine our high performance analog and mixed-signal semiconductor design skills with our expertise in digital communications systems, software and embedded systems to develop RF receivers and RF receiver SoCs. We integrate our RF receivers with digital demodulation and other communications functions in standard CMOS process technology. Our solutions have the following key features: 
+
+&#8226; 
+
+Proprietary Radio Architecture. Digital signal processing is at the core of our RF receivers and RF receiver SoCs. Using our proprietary CMOS-based radio architecture, we leverage both analog and digital signal processing to improve system performance across multiple products. The partitioning of the signal processing in the chip between analog and digital domains is designed to deliver high performance, small die size and low power for a given application. Moreover, our architecture is implemented in standard CMOS process technology, which enables us to realize the integration benefits of analog and digital circuits on the same integrated circuit. This allows us to predictably scale the on-chip digital circuits in successive advanced CMOS process technology nodes. Our solutions have been designed into products in markets with extremely stringent specifications for quality, performance and reliability, such as the television and automotive markets. We believe that our success in these markets demonstrates that our solution can be implemented successfully across multiple markets and applications. 
+
+&#8226; 
+
+High Signal Clarity Performance. &#32;We design our RF receivers and RF receiver SoCs to provide high signal clarity performance regardless of the application in which they are employed. For example, in the set-top box market, we deploy our core RF and mixed-signal CMOS process technology platform and radio system architecture to overcome the interference from in-home networks that can degrade cable broadband signals. We believe that signal clarity is more critical in television compared to other communications applications such as voice and data, because signal loss and interference have a more adverse impact on the end user experience. 
+
+&#8226; 
+
+Highly Integrated. Our products integrate on a single chip the functionality associated with traditional analog and digital integrated circuits and other expensive discrete components. This high level of integration has the cost benefits associated with smaller silicon die area, fewer external components and lower power. Our CMOS-based RF receiver SoC eliminates analog interface circuit blocks and external components situated at the interface between discrete analog and digital demodulator chips and reduces the cost associated with multiple integrated circuit packages and related test costs. We are also able to integrate multiple RF receivers along with a demodulator onto a single die to create application-specific configurations for our customers. Thus, our highly integrated solution reduces the technical difficulties associated with overcoming the undesired interactions between multiple discrete analog and digital integrated circuits comprising a single system. Our solutions reduce the technical burden on system designers in deploying enhanced television functionality in their products. 
+
+&#8226; 
+
+Low Power. Our products enable our customers to reduce power consumption in consumer electronic devices without compromising the stringent performance requirements of applications such as broadcast television. In addition, our products enable our customers to decrease overall system costs by reducing the power consumption and heat dissipation requirements in their systems. For example, in cable boxes supporting voice applications, low power consumption may enable a reduction in the number of batteries or battery capacity required to support standby and lifeline telephony. In certain set-top boxes, reduced overall power consumption may allow system designers to eliminate one or more cooling fans required to dissipate the heat generated by high power c on sumption. The benefits of low power consumption increase with the number of RF receivers included in a system. 
+
+&#8226; 
+
+Scalable Platform. &#32;Our product families share a highly modular, core radio system architecture, which enables us to offer RF receiver and RF receiver SoC solutions that meet the requirements of a wide variety of geographies, broadcast standards and applications. This is in contrast to legacy solutions that require significant customization to conform to regional standards, technical performance and feature requirements. Moreover, by leveraging our flexible core architecture platform, our integrated circuit solutions can be deployed across multiple device 
+
+categories. As a result, our customers can minimize the design resources required to develop applications for multiple target markets. In addition, our engineering resources can be deployed more efficiently to design products for larger addressable markets. We believe that our core technology platform also can be applied to other communications markets with similar performance requirements. 
+
+&#8226; 
+
+Space Efficient Solution . Our highly integrated CMOS-based RF receivers and RF receiver SoCs have an extremely small silicon die size, require minimal external components and consume very little power. Our unique radio architecture, more specifically our Full-Spectrum Capture&#8482; technology, not only enables us to integrate multiple RF receivers in a chip, but also results in a reduction in the incremental power and die area required per each additional channel of reception. This enables our customers to design multi-receiver applications, such as cable modems and set-top boxes, in an extremely small form factor. In addition, our products are easily adapted to space-constrained devices such as flat screen televisions, netbooks, and laptops. 
+
+Our Strategy 
+
+Our objective is to be the leading provider of mixed-signal RF receivers and RF receiver SoCs for broadband video and data communications, datacenter, and metro and long-haul telecom transport market applications and, in the future, to leverage this core competency to expand into other communications markets with similar performance requirements. The key elements of our strategy are: 
+
+&#8226; 
+
+Extend Technology Leadership in RF Receivers and RF Receiver + Demodulator SoCs. We believe that our success has been, and will continue to be, largely attributable to our RF and mixed-signal design capability, as well as advanced digital design, which we leverage to develop high-performance, low-cost semiconductor solutions for broadband communications applications. The broadband RF receiver market presents significant opportunities for innovation through the further integration of RF and mixed-signal functionality with digital signal processing capability in CMOS process technology. By doing so, we will be able to deliver products with lower power consumption, superior performance and increased cost benefits to system designers and service providers. We believe that our core competencies and design expertise in this market will enable us to acquire more customers and design wins over time. We will continue to invest in this capability and strive to be an innovation leader in this market. 
+
+&#8226; 
+
+Leverage and Expand our Existing Customer Base. We target customers who are leaders in their respective markets. We intend to continue to focus on sales to customers who are leaders in our current target markets, and to build on our relationships with these leading customers to define and enhance our product roadmap. By solving the specific problems faced by our customers, we can minimize the risks associated with our customers&#8217; adoption of our new integrated circuit products, and reduce the length of time from the start of product design to customer revenue. Further, our engagements with market leaders will enable us to participate in emerging technology trends and new industry standards. 
+
+&#8226; 
+
+Target Additional High-Growth Markets. &#32;Our core competency is in RF analog and mixed-signal integrated circuit design in CMOS process technology for broadband communications applications. Several of the technological challenges involved in developing RF solutions for video broadcasting and broadband reception are common to a majority of broadband communication markets. We intend to leverage our core competency in developing highly integrated RF receiver and RF receiver SoCs in standard CMOS process technology to address additional markets within broadband communications, communications infrastructure, and connectivity markets that we believe offer profitable high growth potential. 
+
+&#8226; 
+
+Expand Global Presence. Due to the global nature of our supply chain and customer locations, we intend to continue to expand our sales, design and technical support organization both in the United States and overseas. In particular, we expect to increase the number of employees in Asia, Europe and the United States to provide regional support to our increasing base of customers. We believe that our customers will increasingly expect this kind of local capability and support. 
+
+&#8226; 
+
+Attract and Retain Top Talent. We are committed to recruiting and retaining highly talented personnel with proven expertise in the design, development, marketing and sales of communications integrated circuits. We believe that we have assembled a high-quality team in all the areas of expertise required at a semiconductor communications company. We provide an attractive work environment for all of our employees. We believe that our ability to attract the best engineers is a critical component of our future growth and success in our chosen markets. 
+
+Products 
+
+Our products are integrated into a wide range of electronic devices, including cable and terrestrial and satellite set-top boxes, DOCSIS data and voice gateways, hybrid analog and digital televisions, satellite low-noise blocker transponders or outdoor units and physical medium devices that go into optical modules for data center, metro, and long-haul transport network applications. 
+
+We provide our customers with guidelines, known as reference designs, so that they can efficiently use our products in their product designs. We currently provide the following types of semiconductors: 
+
+&#8226; 
+
+RF Receivers. These semiconductor products combine RF receiver technology that traditionally required multiple external discrete components, such as very high frequency, or VHF, and ultra-high frequency, or UHF, tracking filters, surface acoustic wave, or SAW, filters, intermediate-frequency, or IF, amplifiers, low noise amplifiers and transformers. All of these external components have been either eliminated or integrated into a single semiconductor produced entirely in standard CMOS process technology. 
+
+&#8226; 
+
+RF Receiver SoCs. These semiconductor products combine the functionality of RF receivers, and demodulators in a single chip. In some configurations, these products may incorporate multiple RF receivers and single or multiple demodulators in a single chip to provide application or market specific solutions to customers. 
+
+&#8226; 
+
+Laser Modulator Drivers. These semiconductor products reside in optical modules and provide a constant current source that delivers exactly the current to the laser diode that it needs to operate for a particular application 
+
+&#8226; 
+
+Transimpedance Amplifiers. These semiconductor products reside in optical modules and provide current-to-voltage conversion, converting the low-level current of a sensor to a voltage. 
+
+&#8226; 
+
+Clock and Data Recovery Circuits. These semiconductor products generate a clock from an approximate frequency reference, and then phase-aligns to the transitions in the data stream with a phase-locked loop, or PLL. &#32; 
+
+Customers 
+
+We sell our products, directly and indirectly, to original equipment manufacturers, or OEMs, module makers and original design manufacturers, or ODMs, and refer to these as our end customers. By providing a highly integrated reference design solution that our customers can incorporate in their products with minimal modifications, we enable our customers to design cost-effective high performance digital RF receiver and RF receiver SoC solutions rapidly. In the year ended December 31, 2015 , we sold our products to more than 179 &#32;end customers. A significant but declining portion of our sales to these and other customers are through distributors based in Asia, and we do not consider distributors as our end customers, despite selling the products to and being paid by the distributors. 
+
+A significant portion of our net revenue has historically been generated by a limited number of customers. In the years ended December 31, 2015 , 2014 &#32;and 2013 , ten customers accounted for approximately 76% , 67% and 72% of our net revenue, respectively. In the years ended December 31, 2015 , 2014 &#32;and 2013 , Arris Group, Inc., or Arris, represented 28% , 31% and 28% of revenue. Sales to Arris as a percentage of revenue include sales to Motorola Home, which was acquired by Arris in April 2013, for the years ended December 31, 2015 , 2014 &#32;and 2013 . In the year ended December 31, 2015 , Cisco Systems, Inc., or Cisco, represented 13% &#32;of revenue. In November 2015, Technicolor completed its purchase of Cisco&#8217;s connected devices business. The revenue percentage did not include the 1% revenue percentage for Technicolor. 
+
+Products shipped to Asia accounted for 91% , 94% and 93% of our net revenue in the years ended December 31, 2015 , 2014 &#32;and 2013 , respectively. Products shipped to Japan accounted for 1% , 7% and 9% of our net revenue in the years ended December 31, 2015 , 2014 &#32;and 2013 , respectively. Products shipped to China and Taiwan accounted for 77% &#32;and 8% , respectively, of our net revenue in the year ended December 31, 2015 . Products shipped to China and Taiwan accounted for 71% and 6%, respectively, of our net revenue in the year ended December 31, 2014 . Products shipped to China and Taiwan accounted for 68% and 8%, respectively, of our net revenue in the year ended December 31, 2013 . Although a large percentage of our products are shipped to Asia, we believe that a significant number of the systems designed by these customers and incorporating our semiconductor products are then sold outside Asia. For example, we believe revenue generated from sales of our digital terrestrial set-top box products during the years ended December 31, 2015 , 2014 &#32;and 2013 &#32;related principally to sales to Asian set-top box manufacturers delivering products into Europe, Middle East, and Africa, or EMEA, markets. Similarly, revenue generated from sales of our cable modem products during the years ended December 31, 2015 , 2014 &#32;and 2013 &#32;related principally to sales to Asian ODM&#8217;s and contract manufacturers delivering products into European and North American 
+
+markets. To date, all of our sales have been denominated in United States dollars. See Note 11 to our consolidated financial statements, included in Part IV, Item 15 of this Report for a discussion of total revenue by geographical region for 2015 , 2014 &#32;and 2013 . 
+
+Sales and Marketing 
+
+We sell our products worldwide through multiple channels, using our direct sales force, third party sales representatives, and a network of domestic and international distributors. We have direct sales personnel covering the United States, Europe and Asia, and operate customer engineering support offices in Carlsbad, Irvine, and San Jose in California; Atlanta in Georgia; Tokyo in Japan; Shanghai and Shenzhen in China; Hsinchu in Taiwan; Seoul in South Korea; and Bangalore, India. We also employ a staff of field applications engineers to provide direct engineering support locally to some of our customers. 
+
+Our distributors are independent entities that assist us in identifying and servicing customers in a particular territory, usually on a non-exclusive basis. Sales through distributors accounted for approximately 13% , 28% and 29% of our net revenue in the years ended December 31, 2015 , 2014 &#32;and 2013 , respectively. 
+
+Our sales cycles typically require a significant amount of time and a substantial expenditure of resources before we can realize revenue from the sale of products, if any. Our typical sales cycle consists of a multi-month sales and development process involving our customers&#8217; system designers and management. The typical time from early engagement by our sales force to actual product introduction runs from nine to twelve months for the consumer market, to as much as 18 to 24 months for the cable and satellite markets. If successful, this process culminates in a customer&#8217;s decision to use our products in its system, which we refer to as a design-win. Volume production may begin within three to nine months after a design-win, depending on the complexity of our customer&#8217;s product and other factors upon which we may have little or no influence. Once our products have been incorporated into a customer&#8217;s design, they are likely to be used for the life cycle of the customer&#8217;s product. Thus, a design-win may result in an extended period of revenue generation. Conversely, a design-loss to our competitors, may adversely impact our financial results for an extended period of time. 
+
+We generally receive purchase orders from our customers approximately six to twenty-four weeks prior to the scheduled product delivery date. These purchase orders may be cancelled without charge upon notification, so long as notification is received within an agreed period of time in advance of the delivery date. Because of the scheduling requirements of our foundries and assembly and test contractors, we generally provide our contractors production forecasts and place firm orders for products with our suppliers, up to twenty-four weeks prior to the anticipated delivery date, often without a purchase order from our own customers. Our standard warranty provides that products containing defects in materials, workmanship or product performance may be returned for a refund of the purchase price or for replacement, at our discretion. 
+
+Manufacturing 
+
+We use third-party foundries and assembly and test contractors to manufacture, assemble and test our semiconductor products. This outsourced manufacturing approach allows us to focus our resources on the design, sale and marketing of our products. Our engineers work closely with our foundries and other contractors to increase yield, lower manufacturing costs and improve product quality. 
+
+Wafer Fabrication. We utilize an increasing range of process technologies to manufacture our products, from standard CMOS to more exotic processes including SiGe and GaAs. Within this range of processes, we use a variety of process technology nodes ranging from 0.18&#181; down to 28 nanometer. We depend on independent silicon foundry manufacturers to support our wafer fabrication requirements. Our key foundry partners include United Microelectronics Corporation or UMC in Taiwan and Singapore, Taiwan Semiconductor Manufacturing Corporation or TSMC in Taiwan, Semiconductor Manufacturing International Corporation or SMIC in China, Global Foundries Inc. in Singapore, Silterra Malaysia Sdn. Bhd. in Malaysia, Tower-Jazz in Newport Beach California, and WIN Semiconductor in Taiwan. 
+
+Assembly/packaging and Test. Upon completion of the silicon processing at the foundry, we forward the finished silicon wafers to independent assembly/packaging and test service subcontractors. The majority of our assembly/packaging and test requirements are supported by the following independent subcontractors: Advanced Semiconductor Engineering or ASE in Taiwan (assembly/packaging and test), Giga Solution Technology Co. Ltd. in Taiwan (test only), Amkor Technology in Korea, Philippines, and China (assembly/packaging and test), United Test and Assembly Center or UTAC Holdings Ltd. in Singapore and China (assembly/packaging and test), King Yuan Electronics Co. Ltd. or KYEC in Taiwan (test only), SIGURD Microelectronics Corp. in Taiwan (test only), Siliconware Precision Industries Co. Ltd. or SPIL in Taiwan (assembly/packaging only) and Unisem (M) Berhad in China (assembly/packaging only). 
+
+Quality Assurance. We have implemented significant quality assurance procedures to assure high levels of product quality for our customers. We closely monitor the work-in-progress information and production records maintained by our suppliers, and communicate with our third-party contractors to assure high levels of product quality and an efficient manufacturing time cycle. Upon successful completion of the quality assurance procedures, all of our products are stored and shipped to our customers or distributors directly from our third-party contractors in accordance with our shipping instructions. &#32; 
+
+Research and Development 
+
+We believe that our future success depends on our ability to both improve our existing products and to develop new products for both existing and new markets. We direct our research and development efforts largely to the development of new high performance, mixed-signal semiconductor solutions for broadband communications, datacenter, and metro and long-haul telecommunications transport market applications. We target applications that require stringent overall system performance and low power consumption. As new and challenging communication applications proliferate, we believe that many of these applications may benefit from our SoC solutions combining analog and mixed-signal processing with digital signal processing functions. We have assembled a team of highly skilled semiconductor and embedded software design engineers with expertise in broadband RF and mixed-signal integrated circuit design, digital signal processing, communications systems and SoC design. As of December 31, 2015 , we had approximately 345 &#32;employees in our research and development group. Our engineering design teams are located in Carlsbad, Irvine, Camarillo and San Jose in California; Atlanta in Georgia; Shenzhen in China; and Bangalore in India. Our research and development expense was $85.4 million , $56.6 million &#32;and $53.1 million &#32;in 2015 , 2014 &#32;and 2013 , respectively. 
+
+Competition 
+
+We compete with both established and development-stage semiconductor companies that design, manufacture and market analog and mixed-signal broadband RF receiver and optical interconnect products. Our competitors include companies with much longer operating histories, greater name recognition, access to larger customer bases and substantially greater financial, technical and operational resources. In addition, our industry is experiencing substantial consolidation. As a result, our competitors are increasingly large multi-national semi-conductor companies with substantial market influence. Our competitors may develop products that are similar or superior to ours. We consider our primary competitors to be companies with a proven track record of supporting market leaders and the technical capability to develop and bring to market competing broadband RF receiver and RF receiver SoC and optical interconnect products. Our primary competitors include NXP B.V. in cable and terrestrial TV markets, Silicon Laboratories in terrestrial TV markets, RDA Microelectronics and Rafael Microelectronics, Inc. in TV and terrestrial set-top-box markets, Broadcom Corporation in terrestrial, cable, and satellite markets. Competitors we face in our development initiatives targeting datacenter, and metro and long-haul telecommunications transport applications include Inphi, M/A-COM, Semtech, Qorvo, Broadcom, and Microsemi amongst others. In addition, it is quite likely that a number of other public and private companies, including some of our customers and semiconductor platform partners, could be developing competing products for broadband communications, datacenter, and metro and long-haul telecommunications transport applications. 
+
+The market for analog and mixed-signal semiconductor products is highly competitive, and we believe that it will grow more competitive as a result of continued technological advances. We believe that the principal competitive factors in our markets include the following: 
+
+&#8226; 
+
+product performance; 
+
+&#8226; 
+
+features and functionality; 
+
+&#8226; 
+
+energy efficiency; 
+
+&#8226; 
+
+size; 
+
+&#8226; 
+
+ease of system design; 
+
+&#8226; 
+
+customer support; 
+
+&#8226; 
+
+product roadmap; 
+
+&#8226; 
+
+reputation; 
+
+&#8226; 
+
+reliability; and 
+
+&#8226; 
+
+price. 
+
+We believe that we compete favorably as measured against each of these criteria. However, our ability to compete in the future will depend upon the successful design, development and marketing of compelling RF and mixed-signal semiconductor integrated solutions for high growth communications markets. In addition, our competitive position will depend on our ability to continue to attract and retain talent while protecting our intellectual property. 
+
+Intellectual Property Rights 
+
+Our success and ability to compete depend, in part, upon our ability to establish and adequately protect our proprietary technology and confidential information. To protect our technology and confidential information, we rely on a combination of intellectual property rights, including patents, trade secrets, copyrights and trademarks. We also protect our proprietary technology and confidential information through the use of internal and external controls, including contractual protections with employees, contractors, business partners, consultants and advisors. Protecting mask works, or the &#8220;topography&#8221; or semiconductor material designs, of our integrated circuit products is of particular importance to our business and we seek to prevent or limit the ability of others to copy, reproduce or distribute our mask works. 
+
+We have 662 issued patents and 327 patent applications pending in the United States. We also have 262 issued foreign patents and 147 other pending foreign patent applications, based on our issued patents and pending patent applications in the United States. Of the total 924 domestic and foreign issued patents, 753 are related to Entropic and 171 are related to Maxlinear. Of the total 474 domestic and foreign pending patents, 204 are related to Entropic and 270 are related to Maxlinear. 
+
+We are the owner of twelve trademarks (&#8220;MxL,&#8221; &#8220;MxLWare,&#8221; &#8220;Full-Spectrum Capture, &#8220;FSC,&#8221; &#8220;Full Spectrum Transceiver,&#8221; &#8220;Full-Spectrum Transceiver,&#8221; &#8220;FST,&#8221; &#8220;C.LINK,&#8221; &#8220;ENTROPIC,&#8221; &#8220;ENTROPIC and Design,&#8221; ENTROPIC BUILT-IN and Design,&#8221; and &#8220;ENTROPIC COMMUNICATIONS and Design&#8221;) that have been registered and/or published for opposition in the United States. We also own foreign counterparts (including eight foreign registrations) of certain of these registered trademarks in Argentina, Brazil, Chile, China, the EU, Israel, India, Japan, Korea and Taiwan. We also claim common law rights in certain other trademarks that are not registered. 
+
+We may not gain any competitive advantages from our patents and other intellectual property rights. Our existing and future patents may be circumvented, designed around, blocked or challenged as to inventorship, ownership, scope, validity or enforceability. It is possible that we may be provided with information in the future that could negatively affect the scope or enforceability of either our present or future patents. Furthermore, our pending and future patent applications may or may not be granted under the scope of the claims originally submitted in our patent applications. The scope of the claims submitted or granted may or may not be sufficiently broad to protect our proprietary technologies. Moreover, we have adopted a strategy of seeking limited patent protection with respect to the technologies used in or relating to our products. 
+
+We are a party to a number of license agreements for various technologies, such as a license agreement with Intel Corporation relating to demodulator technologies that are licensed specifically for use in our products for cable set-top boxes. The agreement was originally entered into with Texas Instruments but was subsequently assigned to Intel Corporation as part of Intel Corporation&#8217;s acquisition of Texas Instruments&#8217; cable modem product line in 2010. The license agreement with Intel Corporation has a perpetual term, but Intel Corporation may terminate the agreement for any uncured material breach or in the event of bankruptcy. If the agreement is terminated, we would not be able to manufacture or sell products that contain the demodulator technology licensed from Intel Corporation, and there would be a delay in the shipment of our products containing the technology until we found a replacement for the demodulator technology in the marketplace on commercially reasonable terms or we developed the demodulator technology itself. We believe we could find a substitute for the currently licensed demodulator technology in the marketplace on commercially reasonable terms or develop the demodulator technology ourselves. In either case, obtaining new licenses or replacing existing technology could have a material adverse effect on our business, as described in &#8220;Risk Factors&#8212;Risks Related to Our Business&#8212;We utilize a significant amount of intellectual property in our business. If we are unable to protect our intellectual property, our business could be adversely affected.&#8221; 
+
+The semiconductor industry is characterized by frequent litigation and other vigorous offensive and protective enforcement actions over rights to intellectual property. Moreover, there are numerous patents in the semiconductor industry, and new patents are being granted rapidly worldwide. Our competitors may obtain patents that block or limit our ability to develop new technology and/or improve our existing products. If our products were found to infringe any patents or other intellectual property rights held by third parties, we could be prevented from selling our products or be subject to litigation fees, statutory fines and/or other significant expenses. We may be required to initiate litigation in order to enforce any patents issued to us, or to determine the scope or validity of a third-party&#8217;s patent or other proprietary rights. We may in the future be 
+
+contacted by third parties suggesting that we seek a license to intellectual property rights that they may believe we are infringing. In addition, in the future, we may be subject to lawsuits by third parties seeking to enforce their own intellectual property rights, as described in &#8220;Risk Factors&#8212;Risks Related to Our Business&#8212;We recently settled and are currently a party to intellectual property litigation and may face additional claims of intellectual property infringement. Current litigation and any future litigation could be time-consuming, costly to defend or settle and result in the loss of significant rights&#8221; and in &#8220;Item 3&#8212;Legal Proceedings.&#8221; 
+
+Employees 
+
+As of December 31, 2015 , we had approximately 500 &#32;employees, including 345 &#32;in research and development, 69 &#32;in sales and marketing, 19 &#32;in operations and semiconductor technology and 67 &#32;in administration. None of our employees is represented by a labor organization or under any collective bargaining arrangement, and we have never had a work stoppage. We consider our employee relations to be good. 
+
+Backlog 
+
+Our sales are made primarily pursuant to standard purchase orders. Because industry practice allows customers to reschedule, or in some cases, cancel orders on relatively short notice, we do not believe that backlog is a good indicator of our future sales. 
+
+Geographic Information 
+
+During our last three years, substantially all of our revenue was generated from products shipped to China, Japan and Taiwan, and substantially all of our long-lived assets are located within the United States. 
+
+Seasonality 
+
+The semiconductor industry is highly cyclical and is characterized by constant and rapid technological change, rapid product obsolescence and price erosion, evolving technical standards, short product life cycles and wide fluctuations in product supply and demand. From time to time, these and other factors, together with changes in general economic conditions, cause significant upturns and downturns in the industry, and in our business in particular. 
+
+In addition, our operating results are subject to substantial quarterly and annual fluctuations due to a number of factors, such as the demand for semiconductor solutions for broadband communications applications, the timing of receipt, reduction or cancellation of significant orders, the gain or loss of significant customers, market acceptance of our products and our customers&#8217; products, our ability to timely develop, introduce and market new products and technologies, the availability and cost of products from our suppliers, new product and technology introductions by competitors, intellectual property disputes and the timing and extent of product development costs. 
+

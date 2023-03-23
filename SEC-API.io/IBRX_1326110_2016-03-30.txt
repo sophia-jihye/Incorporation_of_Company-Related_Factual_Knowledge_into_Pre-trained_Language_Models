@@ -1,0 +1,1496 @@
+ Item 1. Business
+
+Overview
+
+We are a pioneering clinical-stage immunotherapy company focused on harnessing the power of the innate immune system by using the natural killer cell to treat cancer, infectious diseases and inflammatory diseases. Natural killer, or NK, cells are the body&#8217;s first line of defense due to their innate ability to rapidly seek and destroy abnormal cells, such as cancer or virally-infected cells, without prior exposure or activation by other support molecules required to activate adaptive immune cells such as T-cells.
+
+We believe that our proprietary NK cell line, coupled with our planned integrated discovery ecosystem, positions us to implement precision cancer medicine by leveraging the advances that have evolved during the past decade and addressing newly discovered challenges of cancer. Cancer is only recently understood to be a complex of rare diseases, with hundreds of patient-specific, cancer-promoting mutated proteins, some known and many more unknown called neoepitopes. Identifying and targeting these mutated proteins is our strategy to overcome the challenges of cancer in the era of genomics, transcriptomics and immuno-oncology. We believe neoepitopes, which are newly discovered antigens selectively expressed on the cancer cells and not on the essential normal tissue, represent large untapped targeting opportunities for immune effector cells such as our activated NK cells.
+
+Multiple Modes of Tumor Cell Killing . Our immuno-oncology NK platform has multiple modes to potentially induce cell death against the tumor or infected cell by: (1) direct killing by binding to stress ligands expressed by the diseased cell with the release of toxic granules directly into the tumor cell; (2) antibody mediated killing by binding to antibodies administered in combination and enhancing the cancer killing effect of the administered antibody, enabling targeted cell killing through antibody dependent cellular cytotoxicity, or ADCC; and (3) target activated killing by binding to known or newly discovered tumor-specific antigens expressed on the surface of tumor cells and inducing cell death by the release of toxic granules directly into the tumor cell and by the release of cytokines and chemokines which recruit additional innate and adaptive immune responses, including the recruitment of cytotoxic T-cells. 
+
+Our targeted therapeutic areas include: (1) cancer, focusing on bulky hematological cancers and solid tumors as well as cancer stem cells, (2) infectious diseases, including viral, fungal and bacterial infections, and (3) inflammatory diseases, ranging from rare inherited diseases to more prevalent autoimmune disorders.
+
+Our Integrated Discovery Ecosystem for Precision Medicine . In order to effectively target newly discovered neoepitopes, we plan to integrate the following ecosystem to help drive the development of genetically modified NK cells anticipated to be directed against these cancer-promoting mutated proteins: (1) a high-speed supercomputing infrastructure to help identify both known antigens on the surface of tumor cells and neoepitopes in clinical patients suffering from cancer, in a timely manner and at large scale; (2) a next-generation genomic and transcriptomic sequencing infrastructure to identify the expression of the neoepitopes on the surface of the tumor cell, GPS Cancer developed by our affiliate entity NantOmics; (3) delivering the neoepitope via an adenoviral vector developed by an affiliate entity to induce IgG1 in-vivo production and ADCC activity by our High Affinity NK Cell (haNK) (4) a diverse library of human antibodies from which to interrogate and extract an antibody matching the neoepitope; and (5) an aNK and haNK cell potentially capable of being produced as a scalable cell-based &#8220;off-the-shelf&#8221; therapy without the need for patient compatibility matching. We expect to regularly add newly discovered neoepitopes from our discovery engine, and we believe the thousands of newly discovered antigens selectively expressed on the cancer cells and not on the essential normal tissue will provide us with the ability to create new and targeted libraries of antibodies to be potentially delivered as living drugs for metastatic cancer cells and cancer stem cells. 
+
+Direct Killing: aNK Platform . We have developed a unique NK cell which we believe is capable of being produced as a cell-based &#8220;off-the-shelf&#8221; therapy, with killing potential for cancer and virally-infected cells. Unlike normal NK cells, our NK cells do not express inhibitory receptors, which diseased cells often utilize to turn off the killing function of NK cells. We have developed a unique activated NK, or aNK, cell which lacks these inhibitory receptors but retains activation receptors that enable selective targeting and killing of diseased cells. The killing mechanism of our aNK cells is increased compared to normal NK cells by virtue of delivering a larger payload of compounds responsible for the direct killing of diseased cells. We believe our aNK cells can be grown at commercial scale as an on demand, living drug using our proprietary manufacturing and distribution processes. 
+
+Safety studies of aNK cells in multiple phase I clinical trials have been conducted in a variety of bulky hematological cancers and solid tumors, enrolling over 40 patients to date, with encouraging evidence of single-agent activity and a durable remission, including complete responses in liquid tumors. Based on these clinical trials, we plan to develop the therapeutic applications of this aNK platform through molecular engineering of our aNK cells designed to leverage the multiple modes of killing available to aNKs, including antibody-mediated killing, our haNK platform, and antigen targeted killing, our taNK platform, described below.
+
+Antibody-Mediated Killing: haNK Platform . We have genetically modified our aNK cells to incorporate high-affinity CD16 receptors, which bind to antibodies. These high-affinity NK, or haNK, cells are designed to directly bind to antibodies, such as Herceptin, Erbitux and Rituxan and may be able to enhance the cancer killing effect of these therapeutic antibodies by facilitating targeted cell killing through ADCC. Antibodies are prevalently used to treat cancer and generate over $50.0 billion in reported annual sales. We believe, based on currently available information, that only approximately 10% to 20% of the addressable patient population for antibody therapies carries high-affinity CD16 receptors. This implies that our haNK product candidates may have significant market potential as a combination therapy to potentially address a large number of patients who have poor responses to antibody products. Furthermore we plan to initiate combination therapy trials utilizing adenoviral vector platforms developed by an affiliate entity to deliver tumor associated antigens as well as neoepitopes to induce in-vivo production of IgG1 and maximize ADCC killing utilizing our haNK platform. We have advanced our haNK platform to maximize production via the successful development of a high affinity CD16 IL-2 independent cell line. A GMP master cell bank of such a line has been successfully established in the last quarter. 
+
+Target Activated Killing: taNK Platform. We have genetically modified our aNKs to incorporate chimeric antigen receptors, or CARs, to target specific antigens on the surface of abnormal cells. These target activated Natural Killer, or taNK, cells are designed to directly bind to tumor-specific antigens in bulky hematological cancers and solid tumors and induce cell death by the release of toxic granules directly into the tumor cell and by the release of cytokines and chemokine&#8217;s which recruit additional innate and adaptive immune responses, including the recruitment of cytotoxic T-cells. These tumor-specific antigens can be divided into the following four classes, which can be targeted by our taNK platform: (1) checkpoint inhibitors expressed on the surface of tumor cells such as PD-L1; (2) well-established tumor surface antigens such as HER2 and CD19; (3) newly discovered neoepitopes; and (4) novel surface receptors associated with cancer stem cells. In the last 6 months the HER2.taNK has passed several regulatory milestones in Europe and we anticipate initiation of phase I/II clinical trials in glioblastoma and HER2 positive breast cancer in late 2016 to early 2017. 
+
+Potential Advantages of our aNK Platform over T-Cell and Other Current Immunotherapies 
+
+The immune system has two components: innate immune cells, such as NK cells, which are always switched on to attack diseased cells, and adaptive immune cells, such as T-cells, which are mobilized to mount a delayed response. Our proprietary aNK platform is specifically designed to potentially address many of the limitations associated with current adaptive autologous cellular immunotherapies. We believe key limitations of adaptive autologous immunotherapy are the need to retrieve non-compromised immune cells from a cancer patient and the requirement for a complex and costly manufacturing process to develop the therapy. As a consequence of this need to harvest active T-cells, current phase I clinical trials for autologous CAR-T cell therapies in large part enroll patients from highly selected, earlier-stage disease in bulky hematological cancers. In contrast, our allogeneic, &#8220;off-the-shelf&#8221; NK cells do not rely on the patient&#8217;s own immune system, which is often compromised, to achieve their therapeutic effect.
+
+&#160;
+
+&#183; 
+
+Innate immune response. aNK cells are always activated and can naturally detect and rapidly destroy a wide variety of diseased cells without prior exposure to pathogens, antigens or activation by stimulatory molecules. In contrast, the adaptive immune system requires co-stimulation for activation, resulting in delayed killing. 
+
+&#160;
+
+&#183; 
+
+Promotion of adaptive immune response . aNK cells stimulate the adaptive component of the immune system by producing chemokines and other molecules that activate and recruit adaptive immune cells, including T-cells, to attack the diseased cells. 
+
+&#160;
+
+&#183; 
+
+Enhancement of ADCC effect with high-affinity NK (haNK) cells. Our haNK product candidates may have significant market potential as a combination therapy with approved monoclonal antibodies (mAbs) targeting tumor associated antigens as well as neoepitope induced antibodies, potentially addressing a large number of patients who have poor responses to antibody products. 
+
+&#160;
+
+&#183; 
+
+Wide therapeutic potential across multiple tumor types and even late-stage disease. In preclinical studies and phase I safety clinical trials to date, aNK cells have demonstrated activity in a spectrum of cancers, including bulky hematological cancers and solid tumors, even in late-stage cancer patients who have failed multiple rounds of chemotherapy, radiation and stem cell transplantation. 
+
+&#160;
+
+&#183; 
+
+Ability to attack cancer stem cells . aNK and haNK cells have been shown in preclinical studies to attack cancer stem cells, which are resistant to conventional chemotherapy. 
+
+&#160;
+
+&#183; 
+
+Application in diseases beyond cancer . We believe aNK cells have the potential to treat diseases beyond cancer such as infectious and inflammatory diseases because of the inherent ability of NK cells to kill virally infected and abnormal cells. Preclinical studies in Ebola virus demonstrate this capability. 
+
+&#160;
+
+&#183; 
+
+Well tolerated . aNK cells are hypo-immunogenic and have shown no dose limiting toxicities in over 40 patients who have received therapy to date, even when some patients received as many as 18 infusions of aNK cells over six cycles. In contrast, phase I clinical trials of CAR-T cell therapy have experienced challenges, such as reports of severe adverse toxicities of cytokine release syndrome and neurotoxicity in a number of patients. 
+
+&#160;
+
+&#183; 
+
+Ease of administration . aNK cells may be administrable in outpatient facilities, offering physicians the flexibility to titrate and re-dose therapy based on patient tolerability and need. In contrast, CAR-T cell therapy is a complex and costly procedure, at times requiring hospitalization, pre-conditioning and intensive care unit admission following severe adverse toxicities associated with cytokine release syndrome. 
+
+&#160;
+
+&#183; 
+
+Virtually universal patient compatibility . aNK cells do not require patient-donor matching or a minimum level of patient immuno-competence. 
+
+&#160;
+
+&#183; 
+
+Low-cost, efficient and scalable manufacturing. aNK and haNK cells have the potential to be expanded on a large scale and readily supplied on demand from what we believe is the world&#8217;s only current good manufacturing practices, or cGMP, compliant NK cell bank, a proprietary asset of our company. 
+
+Clinical Trials to Date. aNK cells have been evaluated as a monotherapy in over 40 patients to date in four phase I and one phase 2 trial (Merkel cell carcinoma ) clinical trials. Unlike many cell-based adaptive immunotherapy clinical trials, pre-conditioning agents such as IL-2 were not administered to enhance therapeutic effect and all patients in the aNK phase I clinical trials had very advanced cancer having failed multiple rounds of standard chemotherapy, radiation and even stem cell transplantation and were not preselected. The safety profile showed minimal adverse effects, and no dose limiting toxicities even when some patients received as many as 18 infusions of our aNK cells over six cycles. Infusions of aNK cells up to 1x10 10 cells/m 2 were well tolerated. Even in these late-stage patients refractory to standard therapy, encouraging evidence of activity in cancers, including bulky hematological cancers and solid tumors , was observed, including some patients with durable remission. One patient with Hodgkin&#8217;s lymphoma has had a sustained complete response for more than five years post treatment. Activity was also noted in bulky hematological cancers with stable disease and partial responses in patients with diffuse large B cell lymphoma and with multiple myeloma, with durable stabilization of disease for over two years in a patient with diffuse large B cell lymphoma. In solid tumors, encouraging responses were seen in patients with advanced lung cancer who failed surgery, radiation and chemotherapy, with three out of four patients demonstrating partial response or stable disease. In patients with metastatic renal cell carcinoma, or RCC, who failed standard therapy, including surgery, radiation and chemotherapy, stable disease and partial responses were noted in five out of 11 patients who received doses ranging from 1x10 8 to 1x10 9 aNK cells. 
+
+Product Candidate Pipeline. We plan to use these phase I clinical trials of aNK cells conducted to date to serve as the foundation to our development strategy, along our three distinct modes of tumor cell killing, each with its own attributes, targeted therapeutic areas and pipeline. The excellent safety profile and demonstrated biological activity of our aNK cells make them ideal candidates for combination strategies, which we will pursue. 
+
+Direct Killing. Our aNK cells have activation receptors that naturally bind to stress-induced proteins. They possess a unique property in that they lack viral binding CD16 receptors and therefore are resistant to viral attack. We are developing our aNK product candidates for the treatment of virally-induced cancers such as polyoma virus induced Merkel Cell Carcinoma (MCC), Human Papilloma Virus (HPV) induced cervical and head and neck cancers as well as infectious diseases such as Ebola and other serious viral, fungal and bacterial infections. We have initiated a phase II clinical trial for our aNK product candidate in MCC. Data derived from treating the first 3 subjects demonstrates again indication-specific safety and encouraging signs of biological activity as a monotherapy. Additionally, we intend to pursue combination therapies with low-dose metronomic cytotoxic agents and radiation therapy which we believe would augment the ability of our aNK cells to attack the cancer cells through multiple combined points of attack. 
+
+Antibody-Mediated Killing. Our haNK cells are genetically engineered to over-express high-affinity CD16 receptors, designed to enhance the therapeutic efficacy of antibodies through ADCC. We intend to develop our haNK product candidates as combination therapies with widely-used FDA-approved antibody products such as Herceptin, Erbitux, Unituxin and Rituxan, in addition to combining haNK with avelumab (anti-PD-L1) and an IL-15 super-agonist in studies at the National Cancer Institute (NCI), under a Cooperative Research and Development Agreement (CRADA) agreement. The latter trial is expected to enroll patients at the NCI early in 2017. 
+
+We believe that our haNK product candidates will enable us to address larger markets and earlier stages of cancer therapy. Our haNK cells are currently being used in lot-release quality control testing of commercial antibody products by a growing number of biopharmaceutical companies. As these companies develop and launch their antibody products, we intend to leverage the development performed by these biopharmaceutical companies who have licensed our haNK cells for non-therapeutic use by initiating studies of our haNK product candidates in combination with these antibodies, with the goal of the combination potentially enhancing the activity of these antibodies in patients with low affinity CD16 receptors. This is evidenced by a small subgroup of subjects (&#60;10%) with naturally occurring high-affinity variants of the CD16 receptor experiencing significantly increased benefit through therapy with the aforementioned approved antibody products. We believe this enhanced efficacy provides a rationale for studying haNK combinations with these new antibodies, whether during the development phase or after commercial launch by the biopharmaceutical company. We plan to accelerate clinical development of our aNK and haNK product candidates by entering into phase II and phase II/III clinical trials with our product candidates in combination with marketed drugs.
+
+Furthermore we plan to initiate combination therapy trials utilizing adenoviral vector platforms developed by an affiliate entity to deliver tumor associated antigens as well as neoepitopes to induce in-vivo production of IgG1 and maximize ADCC killing utilizing our haNK platform. We have advanced our haNK platform to maximize production via the successful development of a high affinity CD16 IL-2 independent cell line. A GMP master cell bank of such a line has been successfully established in the last quarter.
+
+Target Activated Killing . Our taNK cells are genetically engineered to directly bind to tumor surface antigens by incorporating CARs to target specific antigens on the surface of abnormal cells. Our taNK cells are designed to directly bind to tumor-specific antigens in multiple bulky hematological cancers and solid tumors and induce cell death by the release of toxic granules directly into the tumor cell, by the release of cytokines and chemokines which recruit additional innate and adaptive immune responses and by the recruitment of cytotoxic T-cells. We intend to target the four classes of tumor specific antigens: (1) checkpoint inhibitors expressed on the surface of tumor cells such as PD-L1; (2) well-established tumor surface antigens such as HER2 and CD19; (3) newly discovered neoepitopes; and (4) novel surface receptors associated with cancer stem cells. We believe our taNK product candidates may be able to treat patients with bulky hematological cancers and solid tumors, areas in which other cell-based immunotherapies, such as CAR-T cell therapies, have been challenged. We plan to initiate phase I/II clinical trials for our HER2.taNK product candidate for breast cancer and HER2 positive Glioblastoma by late 2016 or early 2017. 
+
+&#160;
+
+&#160;
+
+Experienced Management Team
+
+Since the founding of our company in 2002, we have assembled a team of proven, experienced and visionary leaders in biotechnology. Our team is led by Patrick Soon-Shiong, M.D., FRCS (C), FACS, our Chairman and Chief Executive Officer. Dr. Soon-Shiong was first introduced to us in 2006 when our technology was at a very early stage of development and he provided us with advice and scientific development strategies, including demonstration of activity in the clinical setting following radiation of the cells and demonstration of safety and activity following multiple infusions in patients with both solid and liquid tumors at the end stage of disease. Dr. Soon-Shiong made an equity investment in our company in December 2014 and joined as our Chief Medical Officer in January 2015 and became our Chairman and Chief Executive Officer in March 2015. Dr. Soon-Shiong, a renowned surgeon and scientist, has pioneered novel therapies for both diabetes and cancer, published over 100 scientific papers in the United States, and was issued over 170 worldwide patents on groundbreaking advancements spanning myriad fields. He performed the first encapsulated islet stem cell transplant in a diabetic patient in the United States. He invented, developed and launched the first nanoparticle delivery system of human albumin, Abraxane, now approved for metastatic breast, lung and pancreatic cancer and is expected to achieve sales of greater than $1.0 billion in 2015. Dr. Soon-Shiong was founder, Chairman and CEO of American Pharmaceutical Partners (sold to Fresenius SE for $5.7 billion in 2008), Abraxis BioScience (sold to Celgene Corporation for $3.7 billion in 2010) and NantWorks, an ecosystem of companies to create a transformative global health information and next generation pharmaceutical development network. 
+
+Barry Simon, M.D., our President and Chief Operating Officer, who was our Chief Executive Officer from 2007 until March 2015, brings decades of drug development and executive leadership experience from Roche Labs., F. Hoffmann-La Roche, Connetics Corp. and Immunomedics.
+
+In 2015, the company recruited seasoned executives to lead manufacturing, clinical development, regulatory affairs, medical affairs, and quality control and continues to build the management and manufacturing infrastructure. 
+
+Vision and Mission Statement
+
+Our vision is to be the premier immunotherapy company harnessing the power of the innate immune system and the NK cell to pioneer precision medicine in the treatment of cancer, infectious diseases and inflammatory diseases. Our mission is to leverage an integrated and extensive genomics and transcriptomics discovery engine to identify antibodies targeted to newly discovered neoepitopes and to mobilize the human immune system of cancer patients to kill tumor cells and facilitate long-term remission. We expect to regularly add newly discovered neoepitopes from our discovery engine, and we believe the thousands of newly discovered antigens selectively expressed on the cancer cells and not on the essential normal tissue will provide us with the ability to continue to create new and targeted libraries of antibodies to be potentially delivered as living drugs for metastatic cancer cells and cancer stem cells. By combining the natural killer cell with technologies that activate all elements of the immune system including the dendritic cell, T-cell, and B-cell, our goal is to drive long-lasting remission in patients with cancer. 
+
+Our Strategy
+
+Our goal is to become the leader in the field of immunotherapy by changing the paradigm of care to precision medicine through harnessing the power of the innate immune system, the natural killer cell and activate the entire ecosystem of immune cells, to treat cancer, infectious diseases and inflammatory diseases. The key elements of our strategy include:
+
+&#160;
+
+&#183; 
+
+Utilize the multiple modes of killing by innate immune therapy. We plan to pursue a comprehensive clinical development plan designed to maximize the commercial potential and clinical knowledge of our aNK cells and the role of innate and adaptive immunotherapy as the backbone in the treatment of cancer, as monotherapy and in combination with chemotherapy, radiation and surgical therapies. We intend to pursue accelerated regulatory approval pathways and seek indications to attempt to obtain orphan drug status and breakthrough therapy designation, where appropriate, as well as pursue large market opportunities in many solid tumors. 
+
+&#160;
+
+&#183; 
+
+aNK. Our initial aNK product candidates will focus on diseases with viral etiologies given that aNK cells already possess multiple activating receptors that detect stress antigens associated with viral infections. We also intend to pursue combination opportunities with therapeutics having synergistic mechanisms of action, such as in combination with cytotoxic agents such as paclitaxel and 5FU administered at low-dose. 
+
+&#160;
+
+&#183; 
+
+haNK. Our haNK product candidates will aim to leverage the large addressable market of already approved monoclonal antibodies, such as Herceptin, Erbitux and Rituxan, in the treatment of multiple tumors. Antibodies are prevalently used and generate over $50.0 billion in global annual sales. We believe, based on currently available information, that only approximately 10% to 20% of the addressable patient population for antibody therapies carries high-affinity CD16 receptors. We expect to address the approximately 80% to 90% of patients who are receiving these antibodies but have developed resistance and may benefit from our high-affinity CD16 aNK administered in combination. We anticipate several IND submissions for clinical trials with our haNK product candidate in combination with different monoclonal antibodies in 2016 and 2017, as well as combinations with adenoviral vector systems developed by an affiliate entity to drive in-vivo IgG1 production. 
+
+&#160;
+
+&#183; 
+
+taNK. Our taNK product candidates will aim to address well-established tumor surface antigens, such as HER2. We believe our taNK product candidates may be able to treat patients with bulky hematological cancers and solid tumors, areas in which other cell-based immunotherapies, such as CAR-T cell therapies, have been challenged. We plan to initiate phase I/II clinical trials for our HER2.taNK product candidate for HER2 positive breast cancer and Glioblastoma in Q1 2017. 
+
+&#160;
+
+&#183; 
+
+Leverage our integrated discovery engine to discover neoepitopes . Through our strategic collaborations with affiliates of NantWorks, we plan to identify both known antigens on the surface of patient tumor cells and identify the surface expression of neoepitopes from clinical samples and interrogate antibody libraries to identify antibodies that are matches for these neoepitopes. Through our cohesive and expansive discovery engine, we plan to identify such antibodies to target newly discovered neoepitopes, thereby driving the development of our product candidate pipeline and establishing just-in-time precision medicine. We expect to regularly add newly discovered neoepitopes from our discovery engine. We believe the thousands of newly discovered antigens, selectively expressed on the cancer cells and not on the essential normal tissue, will provide us with the ability to create new and targeted libraries of antibodies to be potentially delivered as living drugs for metastatic cancer cells and cancer stem cells. 
+
+&#160;
+
+&#183; 
+
+Pursue opportunities with adenoviral vector and cytokine combination partnerships to induce in-vivo production of antibodies and ADCC killing. We plan to initiate combination therapy trials utilizing adenoviral vector platforms and combinations with novel cytokines to deliver tumor associated antigens as well as neoepitopes to induce in-vivo production of IgG1 and maximize ADCC killing utilizing our haNK platform. We have advanced our haNK platform to maximize production via the successful development of a high affinity CD16 IL-2 independent cell line. A GMP master cell bank of such a line has been successfully established in the last quarter. 
+
+&#160;
+
+&#183; 
+
+Pursue opportunities with pharmaceutical companies for commercially approved antibodies and select late-stage antibodies in development. Numerous biopharmaceutical companies have previously licensed our haNK cells for non-therapeutic use in order to select and validate their antibodies for development. A growing number of these biopharmaceutical companies have also used our haNK cells as a lot release quality control test for their therapeutic antibodies. As a result of these prior non-clinical collaborations for assay testing, we plan to leverage the development performed by these biopharmaceutical companies for therapeutic purposes by initiating studies of our haNK product candidates, with the combination potentially enhancing the activity of these antibodies in patients with low affinity CD16 receptors. We believe this potential for enhanced efficacy provides a rationale for studying haNK combinations with these new antibodies, whether during the development phase or after commercial launch by the biopharmaceutical company. 
+
+&#160;
+
+&#183; 
+
+Accelerate clinical development of aNK and haNK by entering into phase II and phase II/III clinical trials with our product candidates in combination with marketed drugs and select late-stage product candidates. A large number of monoclonal antibodies and chemotherapy drugs are being marketed for multiple indications. Published data show these antibodies generally have enhanced activity in patients with high-affinity NK cells. Published data also show that chemotherapy agents such as 5FU, cyclophosphamide and paclitaxel, when administered in low doses, generally enhance the immune system. We plan to accelerate clinical development of our haNK product candidates by entering into investigator-initiated and company-sponsored phase II and phase II/III clinical trials of our haNK product candidates administered in combination with commercially approved antibodies and select late-stage antibodies in development. We also plan to accelerate clinical development of our aNK product candidates by entering into investigator-initiated and company-sponsored phase II and phase II/III clinical trials of our aNK product candidates administered in combination with approved chemotherapy agents. We believe this approach may accelerate the development and potential commercialization of our product pipeline. 
+
+&#160;
+
+&#183; 
+
+Establish low-cost, scalable manufacturing capabilities to support late-stage clinical trials and global commercialization . We believe our aNK cells offer a unique advantage of a simplified, on-demand manufacturing process that is relatively easy to scale. We are building a state-of-the-art, cell-based manufacturing facility with the capacity to support large-scale clinical trials and commercialization. We are developing novel manufacturing methods, both in equipment utilizing state-of-the-art optics and proprietary media, designed to maximize the attributes of our NK platform. 
+
+&#160;
+
+&#183; 
+
+Extend our NK platform to address diseases beyond cancer. We believe our aNK cells have the potential to treat diseases beyond cancer such as infectious and inflammatory diseases because of the inherent role of NK cells to kill virally infected and abnormal cells. Preclinical studies in Ebola virus demonstrate this capability. In addition to Ebola, we plan to investigate and develop our aNK cells for the treatment of HIV, tuberculosis and influenza, among others. 
+
+Our aNK Platform as the Foundation for our haNK and taNK Product Candidates 
+
+Based on the unique characteristics of NK cells described above, we are aiming to expand the potential therapeutic applications of our aNK platform through molecular engineering of our aNK cells designed to leverage the multiple modes of killing available to aNKs, including antibody-mediated killing, our haNK platform, and antigen targeted killing, our taNK platform, described below.
+
+&#160;
+
+&#160;
+
+Antibody-Mediated Killing: haNK Platform. As shown below, we have genetically modified our aNK cells to incorporate high-affinity CD16 receptors, which bind to antibodies. These haNK cells are designed to directly bind to concurrently administered antibodies such as Herceptin, Erbitux and Rituxan to potentially enhance the cancer killing effect of the antibody, enabling enhanced targeted cell killing through ADCC. 
+
+&#160;
+
+&#160;
+
+Target Activated Killing: taNK Platform. As shown below, we have genetically modified our aNK cells to incorporate chimeric antigen receptors, or CARs, to target specific antigens on the surface of abnormal cells. These taNK cells are designed to directly bind to tumor-specific antigens in multiple bulky hematological cancers and solid tumors and induce cell death by the release of toxic granules directly into the tumor cell, by the release of cytokines and chemokines which recruit additional innate and adaptive immune responses and by the recruitment of cytotoxic T-cells. These tumor-specific antigens can be divided into the following four classes, which can be targeted by our taNK platform: (1) checkpoint inhibitors expressed on the surface of tumor cells such as PD-L1; (2) well-established tumor surface antigens such as HER2 and CD19; (3) neoepitopes; and (4) novel surface receptors associated with cancer stem cells. 
+
+&#160;
+
+&#160;
+
+aNK 
+
+Safety studies of our aNK cells in multiple phase I clinical trials have been conducted in a variety of advanced hematological cancers and solid tumor types in more than 40 patients to date, with encouraging evidence of single-agent biological activity and a durable remission. 
+
+aNK Results from the American Society of Hematology conference, December, 2015 1 
+
+Twelve patients with relapsed/refractory hematological malignancies who relapsed after undergoing stem cell transplantation were enrolled in this dose escalation study with aNK monotherapy. The number of cycles of aNK administered ranged from 1-6, with four patients having a response to therapy: #1 (mixed- transient) #3 (CR-alive 8 years post therapy), #5 (clinical-transient) and #6 (mixed-transient). Toxicities were minimal and infrequent with some patients experiencing grade I fever, chills, fatigue, blurry vision and nausea, with only one grade II toxicity event (fever &#38; chills), which occurred during an aNK infusion (Figure 1).
+
+&#160;
+
+&#160;
+
+1 &#160; 
+
+&#8220;NK-92 Therapy Is Well Tolerated, Has Minimal Toxicity and Shows Efficacy in a phase I Trial of Patients with Relapsed/Refractory Hematological Malignancies Relapsing after Autologous Stem Cell Transplantation&#8221; ASH 2015, Williams, et. al.
+
+Cytokine release was not triggered by aNK infusions in a subset of evaluated patients, through a transient rise in TGF-&#946; for patient #3 was noted below in figure 2. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Based on these clinical trials, we plan to develop the therapeutic applications of this aNK platform through molecular engineering of our aNK cells designed to leverage the multiple modes of killing available to aNKs including antibody-mediated killing, our haNK platform, and antigen targeted killing, our taNK platform, as shown in the image below. 
+
+&#160;
+
+&#160;
+
+Our aNK, haNK and taNK Development Strategy and Product Candidate Pipeline
+
+&#160;
+
+Our aNK, haNK and taNK Development Strategy
+
+Within each aNK, haNK and taNK family of product candidates, we are developing a product candidate pipeline strategy designed to utilize aNK as the platform and accelerate haNK and taNK development based on safety, dosing regimens and manufacturing capabilities established in phase I clinical trials of aNK to date. We plan to advance a broad pipeline of aNK, haNK and taNK product candidates to potentially address a wide spectrum of diseases ranging from orphan diseases to more prevalent indications.
+
+aNK and haNK Accelerated Development Strategy
+
+&#160;
+
+&#183; 
+
+Antibody combinations. We plan to accelerate our aNK and haNK programs by pursuing opportunities with pharmaceutical companies for commercially approved antibodies and select late-stage antibodies in development. Numerous biopharmaceutical companies have licensed our haNK cells for non-therapeutic use in order to select and validate their monoclonal antibodies for development. Certain biopharmaceutical companies have also used our haNK cells as a lot release quality control test for their therapeutic antibodies, as well as a method to select antibodies to develop which elicit an enhanced ADCC effect. Consequently, we plan to leverage the development performed by these biopharmaceutical companies by initiating studies of our haNK product candidates in combination with these antibodies, which may potentially enhance the activity of these antibodies in patients with low affinity CD16 receptors. 89-92% of normal, healthy individuals have low affinity CD16 receptors. We believe this provides a rationale for studying haNK combinations with these new antibodies, whether during the development phase or after commercial launch, and upon receipt of regulatory approval, by the biopharmaceutical company. 
+
+&#160;
+
+&#183; 
+
+Chemotherapy, adenoviral and cytokine combinations. We also intend to accelerate our aNK and haNK programs by entering into phase II and phase II/III clinical trials with our product candidates in combination with marketed drugs. A large number of antibodies and chemotherapy drugs are being marketed for multiple indications. Published data shows these antibodies have generally enhanced activity in patients with high-affinity NK cells. Published data also shows that chemotherapy agents such as 5FU, cyclophosphamide and paclitaxel, when administered in low doses, generally enhance the immune system. We plan to accelerate clinical development of our haNK product candidates by entering into investigator-initiated and company-sponsored phase II and phase II/III trials of the product candidates administered in combination with commercially marketed drugs and select late-stage product candidates in development. We also plan to accelerate clinical development of our aNK product candidates by entering into investigator-initiated and company-sponsored phase II and phase II/III trials of these product candidates administered in combination with approved chemotherapy agents. We believe this approach may accelerate the development and potential commercialization of our product candidate pipeline. 
+
+taNK/Neoepitope Development Strategy
+
+Through our strategic collaborations, we intend to identify both known antigens on the surface of tumor cells and neoepitopes in clinical patients, identify the expression of the neoepitopes on the surface of the tumor cell and interrogate large diverse libraries of antibodies to extract antibodies matching these neoepitopes. Through this cohesive and expansive discovery engine, we plan to identify antibodies to target newly discovered neoepitopes, thereby driving the development of our product candidate pipeline and establishing just-in-time precision medicine. We expect to regularly add newly discovered neoepitopes from our discovery engine, and we believe the thousands of newly discovered antigens selectively expressed on the cancer cells and not on the essential normal tissues may provide us with the ability to create new and targeted libraries of antibodies to be potentially delivered as living drugs.
+
+Near Term Clinical Development of haNK
+
+haNK product candidates are aNK cells genetically engineered to over-express high-affinity CD16, a receptor that allows direct binding of NK cells to antibodies, potentially enhancing their cancer killing effects through ADCC. We expect that our haNK product candidates will initially be used in combination with widely-used therapeutic antibodies such as Herceptin, Erbitux and Rituxan. Therapeutic antibodies represent an important pillar of immunotherapy and are integral to the treatment paradigm of a variety of diseases. However, the actual cancer cell-killing efficacy of many of these antibodies is largely dependent on ADCC, which involves antibody recruitment of NK and other immune cells to kill the antibody-bound cancer cells. If the patient&#8217;s immune system is compromised, the efficacy of the antibody is limited. As such, there is strong rationale to administer additional immune cells in the form of haNK in combination with antibodies to induce higher ADCC and therapeutic effects in these patients. We plan to develop haNK product candidates in combination with antibodies in order to potentially address larger markets and earlier lines of treatment.
+
+&#160;
+
+&#160;
+
+Validating haNK through non-clinical applications and in vitro studies
+
+Non-clinical applications
+
+haNK cells have been widely utilized by over 40 biopharmaceutical companies to date for in vitro ADCC testing of their antibodies in development and in certain instances their commercially available antibody products. For example, our haNK cells have been adapted for use in commercial assays such as Biotek&#8217;s automated Delfia ADCC assay system and Roche and Acea&#8217;s xCELLigence system. haNK cells have also been deployed under unsolicited non-exclusive, non-clinical licenses for commercial ADCC assay testing applications by most of the large pharmaceutical developers of antibodies.
+
+&#160;
+
+&#160;
+
+In vitro studies 
+
+The graphs below depict the increasing ADCC killing activity of our haNK cells in the presence of increasing concentrations of either Herceptin or Rituxan observed in in vitro studies. The comparative killing activity of low-affinity 176F expressing aNK, or laNK, cells and aNK alone observed are also depicted below.
+
+&#160;
+
+&#160;
+
+Figure 1. aNK, laNK and haNK cells were tested separately in killing of SK-OV-3 ovarian cancer cells in the presence of varying concentrations of Herceptin. The assay was performed by loading the tumor cells with radioactive chromium-51 and measuring the release by cytotoxicity in a 4 hour assay.
+
+aNK cells expressing the high-affinity 176V variant responded to lower dose of Herceptin (0.001 ug/mL) and exhibited stronger maximal killing response, as compared to cells expressing the low-affinity 176F variant. Parental aNK cells, lacking CD16 expression, did not exhibit any ADCC response toward the SK-OV-3 cells and Rituxan did not trigger any ADCC response since this antibody was not designed to target SKOV3 cells.
+
+Figure 2. aNK cells expressing the high-affinity 176V variant responded to a lower dose of Rituxan (0.001 ug/mL) and exhibited stronger maximal killing response, as compared to cells expressing the low-affinity 176F variant. Parental aNK cells, lacking CD16 expression, did not exhibit any ADCC response toward the 721.221 B-cell lymphoma cells and Herceptin did not trigger any ADCC response since this antibody was not designed to target 721.221 cells.
+
+Source: J Immunol. 2008 May 1;180(9):6392-401.
+
+In addition, the graphs below depict the synergistic activity of the combination of Herceptin and Perjeta (HER2/HER3) to mediate ADCC killing observed in in vitro studies. Through the application of haNK cells to kill HER2+ gastric carcinoma cells, the activity observed in the combination of Herceptin and Perjeta was significantly greater than either agent alone. 
+
+&#160;
+
+&#160;
+
+Rationale for developing high-affinity NK cells (haNK) in combination with approved antibodies and potentially any therapeutic antibody that utilizes the ADCC killing pathway 
+
+In multiple clinical trials conducted by third parties, patients who were homozygous for high-affinity CD16 (V/V) generally experienced better responses to exogenous antibody therapy than patients who were carriers of a low affinity CD16 allele (F carriers or F/F or V/F). The illustration from one study below shows the difference in progression-free survival between HER2+ breast cancer patients treated with Herceptin who have the homozygous high-affinity form of CD16 and those who have the low affinity form to be as much as 20% at 48 months.
+
+&#160;
+
+&#160;
+
+Data from three clinical trials demonstrating this point are shown below. The rationale therefore for combining high-affinity CD16 NKs (haNKs) with Rituxan and Herceptin in patients with low affinity CD16 alleles (F carriers or F/F or V/F), should enhance the killing effect of these antibodies and achieve the results for patients with V/V alleles. 
+
+&#160;
+
+&#160;
+
+Antibodies are prevalently used and generate over $50.0 billion in reported global annual sales. It has been reported that perhaps only approximately 10% to 20% of the addressable patient population for antibody therapies carry high-affinity CD16 receptors. This implies that our haNK product candidates may have significant market potential for these and potentially all antibody products that kill via the ADCC pathway as a combination therapy to address a large number of patients who have poor responses with antibodies.
+
+Strategic plan to establish combination immunotherapy studies with haNK by entering into phase II trials with commercially approved antibodies and select late-stage antibodies in development. 
+
+Antibody combinations. We plan to pursue opportunities for our haNK program with biopharmaceutical companies and their respective approved and late-stage antibody products. Numerous companies have licensed these haNK cells for laboratory testing and development of their antibody candidates. Certain biopharmaceutical companies have also used these haNK cells in commercial lot release-quality control testing of commercial batches of antibody product for clinical use. 
+
+ADCC contributes to clinical efficacy of a broad range of antibody therapeutics. In 2011, F. Hoffmann-La Roche reported the development of an in-vitro ADCC method based on our natural killer cell line as effectors to measure the ADCC activity of a humanized IgG1 antibody directed against the human CD20 antigen. Their data show that this assay is capable of measuring small changes in ADCC and can therefore be used to test therapeutic antibodies against cell-surface targets for their depleting activity. We believe this report supports our approach and the therapeutic potential of our haNK platform. As a result, our accelerated strategy is to leverage the development performed by these biopharmaceutical companies who have licensed our haNK cells for non-therapeutic use by initiating phase II and phase II/III clinical trials of our haNK product candidate in combination with commercially approved antibodies and select late-stage antibodies in development, the combination potentially enhancing the activity of these antibodies in patients with low affinity CD16 receptors. The following table lists many of the commercial antibody products that can potentially be paired up with haNK therapy.
+
+Antibodies Approved for Cancer Treatment
+
+&#160;
+
+Generic Name
+
+&#160;
+
+Type
+
+&#160;
+
+Target and
+
+Location
+
+&#160;
+
+Indications
+
+&#160;
+
+Year of
+
+FDA/
+
+EMA
+
+Approval
+
+&#160;
+
+Mode of Action
+
+&#160;
+
+Patient
+
+Selection
+
+Rituximab
+
+&#160;
+
+Chimeric IgG 1 
+
+&#160;
+
+CD20 (B cells)
+
+&#160;
+
+CLL, NHL (first line)
+
+&#160;
+
+1997/1998
+
+&#160;
+
+CDC and ADCC
+
+&#160;
+
+Based on disease stage and type CD20 positive
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Ofatumumab
+
+&#160;
+
+Human IgG 1k 
+
+&#160;
+
+CD20 (B cells)
+
+&#160;
+
+CLL
+
+&#160;
+
+2009/2010
+
+&#160;
+
+CDC and ADCC
+
+&#160;
+
+Not available
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Obinutuzumab
+
+&#160;
+
+Humanized IgG 1 
+
+&#160;
+
+CD20 (B cells)
+
+&#160;
+
+CLL
+
+&#160;
+
+2013/2012
+
+&#160;
+
+ADCC
+
+&#160;
+
+Not available
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Alemtuzumab
+
+&#160;
+
+Humanized IgG 1 
+
+&#160;
+
+CD52 (lymphoid cells)
+
+&#160;
+
+CLL
+
+&#160;
+
+2001/2001
+
+&#160;
+
+CDC and ADCC
+
+&#160;
+
+Not available; evidence suggesting patients with 17p deletion or p53 mutation benefit more
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Trastuzumab
+
+&#160;
+
+Humanized IgG 1 
+
+&#160;
+
+HER2 (tumor cell membrane)
+
+&#160;
+
+BC, adjuvant and metastatic advanced gastric cancer (first line)
+
+&#160;
+
+1998/2000
+
+&#160;
+
+Downregulation of HER2 signal transduction; ADCC
+
+&#160;
+
+Based on HER2 expression (positive by IHC and/or FISH)
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Pertuzumab
+
+&#160;
+
+Humanized IgG 1 
+
+&#160;
+
+HER2 (tumor cell membrane)
+
+&#160;
+
+BC
+
+&#160;
+
+2012/2013
+
+&#160;
+
+Inhibition of HER2 dimerization
+
+&#160;
+
+Based on HER2 expression (positive by IHC and/or FISH)
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Bevacizumab
+
+&#160;
+
+Humanized IgG 1 
+
+&#160;
+
+VEGF (microenvironment)
+
+&#160;
+
+CRC, RCC, NSCLC (nonsquamous), GBM
+
+&#160;
+
+2004/2005
+
+&#160;
+
+Inhibition of VEGF signaling
+
+&#160;
+
+Not available
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Ramucirumab
+
+&#160;
+
+Fully human IgG 1 
+
+&#160;
+
+VEGFR2 (microenvironment)
+
+&#160;
+
+Gastric cancer
+
+&#160;
+
+2014/&#8212; * 
+
+&#160;
+
+Inhibition of VEGF signaling
+
+&#160;
+
+Not available
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Generic Name
+
+&#160;
+
+Type
+
+&#160;
+
+Target and
+
+Location
+
+&#160;
+
+Indications
+
+&#160;
+
+Year of
+
+FDA/
+
+EMA
+
+Approval
+
+&#160;
+
+Mode of Action
+
+&#160;
+
+Patient
+
+Selection
+
+Cetuximab 
+
+&#160;
+
+Chimeric IgG 1 
+
+&#160;
+
+EGFR (tumor cell membrane)
+
+&#160;
+
+CRC, HNSCC
+
+&#160;
+
+2004/2004
+
+&#160;
+
+Downregulation of EGFR signaling; ADCC
+
+&#160;
+
+CRC: based on EGFR expression (positive) and KRAS mutation status (wild type); HNSCC (high EGFR expression): no selection
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Panitumumab
+
+&#160;
+
+Human IgG 2 
+
+&#160;
+
+EGFR (tumor cell membrane)
+
+&#160;
+
+CRC
+
+&#160;
+
+2006/2007
+
+&#160;
+
+Downregulation of EGFR signaling; ADCC
+
+&#160;
+
+EGFR expression (positive) and KRAS mutation status (wild type)
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Ipilimumab
+
+&#160;
+
+Human IgG 1k 
+
+&#160;
+
+CTLA-4 (T cells)
+
+&#160;
+
+Melanoma
+
+&#160;
+
+2011/2011
+
+&#160;
+
+Induces immune response by CTLA-4
+
+&#160;
+
+Not available
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+MPDL2380A
+
+&#160;
+
+Human IgG 1 
+
+&#160;
+
+PD-L1 (tumor cell membrane)
+
+&#160;
+
+Bladder cancer
+
+&#160;
+
+2014/&#8212; &#8224; 
+
+&#160;
+
+Induces immune response by blocking PD-L1 and PD-1 interaction
+
+&#160;
+
+Based on PD-L1 expression
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Catumaxomab
+
+&#160;
+
+Mouse and rat IgG
+
+&#160;
+
+EpCAM (tumor cell); CD3 and
+
+FcyRs (immune effector cells)
+
+&#160;
+
+Malignant ascites
+
+&#160;
+
+&#8212;/2009 &#167; 
+
+&#160;
+
+Inducing immune response
+
+&#160;
+
+Not available
+
+&#160;
+
+* 
+
+Ramucirumab was granted orphan status by EMA in 2012 for hepatocellular carcinoma and gastric cancer.
+
+&#8224; 
+
+MDPL3280A was granted breakthrough therapy designation by FDA in May 2014 for metastatic urothelial bladder cancer.
+
+&#167; 
+
+Catumaxornab was granted orphan status by FDA in 2006 for ovarian cancer and in 2009 for gastric cancer.
+
+Abbreviations: ADCC, antibody-dependent cellular cytotoxicity; BC, breast cancer, CDC, complement-dependent cytotoxicity; CLL, chronic lymphocytic leukemia; CRC, colorectal cancer; CTLA-4, cytotoxic T-lymphocyte&#8211;associated antigen 4; EGFR, epidermal growth factor receptor; EMA, European Medicines Agency; EpCAM, epithelial cell adhesion molecule; FcyRs, Fc receptor for immunoglobulin G; FDA, US Food and Drug Administration; FISH, fluorescent in situ hybridization; GBM, glioblastoma; HER2, human epidermal growth factor receptor 2; HL, Hodgkin&#8217;s lymphoma; HNSCC, head and neck squamous cell carcinoma; IgG, immunoglobulin G; IHC, immunohistochemistry; NHL, non-Hodgkin&#8217;s lymphoma; NSCLC, non&#8211;small-cell lung cancer; PD-1, programmed death receptor 1; PD-L1, programmed death receptor 1 ligand; RCC, renal cell cancer; VEGF, vascular endothelial growth factor; VEGFR2, vascular endothelial growth factor receptor 2.
+
+Source: J Clin Oncol. 2015 May 1;33(13):1491-504. doi: 10.1200/JCO.2014.57.8278. Epub 2015 Mar 16.
+
+Phase I/II haNK Product Candidates
+
+We plan to initially target a variety of malignancies by combining haNK with the anti-PD-L1 antibody, avelumab, in clinical trials to be conducted at the National Cancer Institute through our recently signed Cooperative Research and Development Agreement (CRADA). Applications such as triple negative breast cancer, non-small cell lung cancer, head &#38; neck, renal and prostate cancers as well as malignant melanoma are in the planning stages for a potential initiation in 2017. 
+
+Additional examples include: 
+
+Solid Tumors&#8212;Herceptin-haNK. Our product candidate, Herceptin-haNK, is our aNK platform genetically engineered to over-express high-affinity CD16 receptors to be dosed in combination with Herceptin. We intend to develop Herceptin-haNK for the treatment of HER2 expressing tumors. HER2 is expressed in a variety of solid tumors including breast, ovarian, gastric, brain, bladder, and head &#38; neck cancers. It is reported that approximately 20% of breast cancers are HER2 positive and Herceptin is part of the standard of care for these tumors, but approximately 70% of patients receiving Herceptin for the treatment of breast cancer demonstrate or develop resistance to the drug. We believe there is strong rationale for combining haNK with Herceptin to potentially augment efficacy via enhanced ADCC against tumors cells. We plan to initially target breast cancer with our Herceptin-haNK product candidate and expect to submit an IND to initiate a phase I/II clinical trials for this indication in late 2016 or early 2017. 
+
+Solid Tumors&#8212;Perjeta-haNK. Our product candidate, Perjeta-haNK, is our aNK platform genetically engineered to over-express high-affinity CD16 receptors to be dosed in combination with Perjeta + Herceptin. We intend to develop this product for the treatment of widely metastatic HER2 expressing breast cancers and anticipate initiating a phase I/II clinical trials for this indication in 2017. 
+
+Solid Tumors&#8212;Ganitumab-haNK. We plan to develop haNK in combination with Ganitumab for the treatment of solid tumors known to over-express IGF-1R. We plan to initially target pancreatic cancer and Ewing&#8217;s sarcoma, a pediatric bone cancer, with our Ganitumab-haNK product candidate and anticipate initiating a phase I/II clinical trial in 2017. 
+
+Bulky Hematological Cancers&#8212;Rituxan-haNK. We plan to initially target Hodgkin&#8217;s lymphoma and Chronic Lymphocytic Leukemia with Richter&#8217;s transformation with our Rituxan-haNK product candidate and anticipate initiating phase I/II clinical trials for these indications in 2017. 
+
+Multiple other options, such as combining with Erbitux or Unituxin, are currently being explored.
+
+Chemotherapy, adenoviral, cytokine and antibody combinations . We plan to advance our aNK and haNK programs by entering into phase II and phase II/III clinical trials with our product candidates in combination with marketed drugs and select late-stage product candidates. A large number of monoclonal antibodies and chemotherapy drugs are being marketed for multiple indications. Published data show these antibodies have generally enhanced activity in patients who naturally bear high-affinity NK cells. Published data also show that chemotherapy agents such as 5FU, cyclophosphamide and paclitaxel, when administered in low doses, generally enhance the immune system. We plan to accelerate clinical development of our haNK product candidates by entering into investigator-initiated and company-sponsored phase II and phase II/III clinical trials of our haNK product candidates administered in combination with approved antibodies and select late-stage product candidates. We also plan to accelerate clinical development of our aNK product candidates by entering into investigator-initiated and company-sponsored phase II and phase II/III clinical trials of these product candidates administered in combination with approved chemotherapy agents. We believe this approach may accelerate the development and potential commercialization of our product candidate pipeline. 
+
+taNK
+
+We have genetically modified our aNK platform to express chimeric antigen receptors (CARs) that target specific antigens found on the surface of cancerous cells. These CAR expressing aNK cells, generally called taNKs, are designed to directly bind to tumor-specific antigens commonly expressed on multiple types of solid tumors and hematological malignancies and in turn, become activated to induce killing through the release of toxic granules directly into the tumor cell. Additionally, these taNKs cells release cytokines and chemokines which stimulate and recruit additional innate and adaptive immune responses, including the recruitment of cytotoxic T-cells. These tumor-specific antigens can be divided into four classes, all of which can be targeted by our taNK platform: (1) checkpoint inhibitors expressed on the surface of tumor cells such as PD-L1; (2) well-established tumor surface antigens such as HER2 and CD19; (3) newly discovered neoepitopes; and (4) novel surface receptors associated with cancer stem cells.
+
+A typical CAR construct includes the following components:
+
+&#160;
+
+&#183; 
+
+A single-chain Fv fragment, or scFv, which is derived from a human antibody and recognizes the target antigen on the surface of a diseased cell; and 
+
+&#160;
+
+&#183; 
+
+CD3&#950; chain which provides the initial signal to the taNK cell and activates its mechanisms when the receptor binds to an antigen. 
+
+The construct of our taNK product candidates is depicted schematically below. As illustrated below, we believe that interrogating antibody libraries will allow for the selection of appropriate antibodies that can in turn be converted into CARs that selectively target and bind to known or novel tumor surface antigens. The antibody-derived scFv region (which includes the Fc region) is expected to bind to the targeted antigen, while a CD3&#950; segment inside the taNK cell induces the taNK to release cytotoxic compounds to destroy the targeted diseased cell. Unlike CAR-T and TCR therapies, our taNK cells can incorporate but do not require a co-stimulatory domain, such as CD28 or 4-1BB, which is another signaling component for immune cell activation and survival. 
+
+&#160;
+
+&#160;
+
+Lead Phase I/II taNK Product Candidate
+
+Solid Tumors
+
+HER2.taNK for HER2-expressing Solid Tumors. We are developing HER2.taNK for the treatment of solid tumors expressing the HER2 antigen, including breast and brain bladder cancers. Over-expression of HER2 has been shown to play an important role in the development and progression of several aggressive types of cancers including breast, bladder, brain, head &#38; neck, gastric, ovarian and uterine cancers. This antigen is expressed in up to 20% of breast and up to 30% of bladder cancer patients. The overall HER2 cancer market was over $7.0 billion in 2014 based on annual sales of Herceptin reported by PDL Biopharma, Inc. We have generated compelling proof-of-principle in vivo pre-clinical data below for HER2.taNK, and we anticipate being able to file the equivalent of an IND in Europe for Metastatic Breast Cancer in 2016. 
+
+The data below demonstrate in vivo results for HER2.taNK in glioblastoma xenograft immune-compromised mice model. The images on the bottom left show reduction in tumor burden from day 49 to day 84. The symptom-free survival curve on the bottom right shows statistically significant greater effect in the HER2.taNK treated arm compared to treatment with unmodified aNK cells and placebo. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+The images below show targeted killing of HER2+ breast cancer cells (red cells) by our HER2.taNK (gray cell). 
+
+&#160;
+
+&#160;
+
+Our Her2.taNK product has been established as a fully compliant clinical grade master cell bank and stands as a ready source of clinical trial material. 
+
+&#160;
+
+&#160;
+
+Additionally, our specific subtype of Her2.CAR, FRP5, has been safely administered as systemic infusions in phase I clinical trials. 2 
+
+&#160;
+
+Manufacturing
+
+Our manufacturing strategy is being designed to meet the demand needs of clinical supply and commercial launch. We are establishing our own manufacturing facility and we currently use facilities operated by one or more third party clinical manufacturing organizations, or CMOs. We are building out a state-of-the-art, cell-based manufacturing capacity to support large-scale clinical trials and commercialization. We are developing novel manufacturing methods, both in equipment utilizing state-of&#8211;the-art optics and proprietary media to maximize the attributes of our NK platform. We believe that this automated, closed platform manufacturing process will give us the ability to conduct manufacturing in a non-classified, lower cost manufacturing environment.
+
+Unlike the manufacturing process involved in autologous adaptive immunotherapy of CAR-T cells, which can have high unit manufacturing costs and complex processes, including harvesting T-cells from patients, genetically engineering the T-cells ex vivo , multiplying the T-cells to obtain the desired dose, and ultimately infusing the T-cells back into a patient&#8217;s body, manufacturing our allogeneic &#8220;off-the-shelf&#8221; aNK and haNK cells involves a rapid, scalable and cost efficient process. The cells are stored and maintained in qualified master cell banks in cryopreserved form. The cells are thawed into small scale cell culture and repeatedly doubled in number until the desired dose is achieved. The process is accomplished using all disposables. The cells are grown in a commercially available media, supplemented where required with IL-2, human AB serum and other amino acids. In-process testing for cleanliness and identity are performed.
+
+Clinical product final formulation occurs at each clinical site where the local site laboratory prepares the final formulation for administration to the patient. The laboratory tests for cleanliness, identity and potency. A single manufacturing run can sufficiently produce multiple patient cycles.
+
+&#160;
+
+Clinical manufacturing currently occurs at Baylor University and Center for Cell and Gene Therapy, or CAGT. We are in the process of building our own aNK and haNK cell production facilities with the goal of meeting our anticipated product candidate needs for the foreseeable future. Additionally, we are in the process of further increasing capacity by engaging a commercial, international contract manufacturing organization to provide more product candidate production capacity as well as potentially provide us with process development capabilities for scale up into large scale production and cryopreservation final form. We plan to develop this commercial relationship with a CMO for their manufacturing expertise and global reach as well as establish our own manufacturing capability to scale for global trials.
+
+&#160;
+
+2 &#160; 
+
+J Clin Oncol. 2015 May 20; 33 (15): 1688-96. obi: 10.1200/JCO. 2014.58.0225. Epub 2015 Mar 23.
+
+Competition 
+
+The biopharmaceutical industry is characterized by intense and dynamic competition to develop new technologies and proprietary therapies. Any product candidates that we successfully develop and commercialize will have to compete with existing therapies and new therapies that may become available in the future. We believe that our proprietary aNK platform, differentiated aNK, haNK and taNK product candidates, strategic collaborations and cell-based immunotherapy expertise may provide us with competitive advantages. However, we face potential competition from various sources, including larger and better-funded pharmaceutical, specialty pharmaceutical and biotechnology companies, as well as from academic institutions, governmental agencies and public and private research institutions. The key competitive factors affecting the success of any approved product will include the efficacy, safety profile, pricing, method of administration and level of promotional activity.
+
+Our aNK, haNK and taNK product candidates will compete with other cell-based immunotherapy approaches using T- and dendritic cells. We are aware of companies developing product candidates focused on NK cells. These companies include Bristol-Myers Squibb, Celgene Corporation and Innate Pharma. Companies that are currently focused on T-cell based treatments include Adaptimmune Limited, Amgen Inc., Bellicum Pharmaceuticals, Inc., bluebird bio, Inc., Celgene Corporation, Cellectis SA, GlaxoSmithKline plc, Intrexon Corporation, Juno Therapeutics, Inc., Kite Pharma, Inc., Novartis AG, Pfizer Inc. and Ziopharm Oncology, Inc. There is currently one approved dendritic cell-based cancer vaccine, PROVENGE, which is marketed by Valeant Pharmaceuticals for the treatment of metastatic castrate-resistant prostate cancer. Other companies focused on developing dendritic cell-based product candidates include Argos Therapeutics, Inc., Biovest International, Inc., ImmunoCellular Therapeutics, Ltd., Immune Design, Inc., Inovio Pharmaceuticals, Inc., Intrexon Corporation and Northwest Biotherapeutics, Inc.
+
+Many of our competitors, either alone or with their strategic partners, have substantially greater financial, technical and human resources than we do and significantly greater experience in the discovery and development of product candidates, obtaining FDA and other regulatory approvals of treatments and commercializing those treatments. Accordingly, our competitors may be more successful than us in obtaining approval for treatments and achieving widespread market acceptance. Our competitors&#8217; treatments may be more effective, or more effectively marketed and sold, than any treatment we may commercialize and they may render our treatments obsolete or non-competitive before we can recover the expenses of developing and commercializing any of our treatments.
+
+Mergers and acquisitions in the biotechnology and pharmaceutical industries may result in even more resources being concentrated among a smaller number of our competitors. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical study sites and subject registration for clinical studies, as well as in acquiring technologies complementary to, or necessary for, our programs. Smaller or early-stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies.
+
+We anticipate that we will face intense and increasing competition as new therapies enter the market and advanced technologies become available. We expect any treatments that we develop and commercialize to compete on the basis of, among other things, efficacy, safety, convenience of administration and delivery, price, the level of generic competition and the availability of reimbursement from government and other third-party payors.
+
+Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have a better safety profile, are more convenient or are less expensive than any products that we may develop. Our competitors also may obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for ours, which could result in our competitors establishing a strong market position before we are able to enter the market. In addition, we expect that our therapeutic products, if approved, will be priced at a significant premium over competitive generic products and our ability to compete may be affected in many cases by insurers or other third-party payors seeking to encourage the use of generic products. 
+
+Intellectual Property
+
+We strive to protect and enhance the proprietary technology, inventions, and improvements that are commercially important to our business, including seeking, maintaining, and defending patent rights, whether developed internally or licensed from third parties. Our policy is to seek to protect our proprietary position by, among other methods, filing patent applications in the United States and in jurisdictions outside of the United States related to our proprietary technology, inventions, improvements, and product candidates that are important to the development and implementation of our business. We also rely on trade secrets and know-how relating to our proprietary technology and product candidates, continuing innovation, and in-licensing opportunities to develop, strengthen, and maintain our proprietary position in the field of NK cell-based immunotherapy. We expect to rely on data exclusivity, market exclusivity, patent term adjustment and patent term extensions when available, as well as on regulatory protection afforded through orphan drug designations. Our commercial success may depend in part on our ability to obtain and maintain patent and other proprietary protection for our technology, inventions, and improvements; to preserve the confidentiality of our trade secrets; to maintain our licenses to use intellectual property owned by third parties; to defend and enforce our proprietary rights, including our patents; and to operate without infringing on the valid and enforceable patents and other proprietary rights of third parties.
+
+We have developed and in-licensed numerous patents and patent applications and we possess substantial know-how and trade secrets relating to the development and commercialization of NK cell-based immunotherapy product candidates, including related manufacturing processes and technology. As of December 31, 2015, our owned and licensed patent portfolio consists of patents and pending patent applications in the U.S. disclosing subject matter directed to certain of our proprietary technology, inventions, and improvements and our most advanced product candidates, as well as licensed and owned patents and pending applications in jurisdictions outside of the U.S., that, in many cases, are counterparts to the foregoing U.S. patents and patent applications. For example, these patents and patent applications include claims directed to:
+
+&#160;
+
+&#183; 
+
+Natural Killer Cell Lines and Methods of Use; 
+
+&#160;
+
+&#183; 
+
+Genetically Modified Human Natural Killer Cell Lines; 
+
+&#160;
+
+&#183; 
+
+Treatment of Viral and Bacterial Diseases using Natural Killer Cell Lines; 
+
+&#160;
+
+&#183; 
+
+Treatment of Specific Diseases using Natural Killer Cell Lines; 
+
+&#160;
+
+&#183; 
+
+Treatment of Cancer using Natural Killer Cell Lines; 
+
+&#160;
+
+&#183; 
+
+Protocol and Media for Storage and Transport of NK-92 Cell Line; 
+
+&#160;
+
+&#183; 
+
+Combination Therapy using Natural Killer Cell Lines; and 
+
+&#160;
+
+&#183; 
+
+Antibody fragments that specifically bind to human ErbB2. 
+
+As for the NK cell-based immunotherapy products and processes we develop and commercialize, in the normal course of business, we intend to pursue, when possible, composition, method of use, dosing and formulation patent protection. We may also pursue patent protection with respect to manufacturing and drug development processes and technology. The patents and patent applications outside of the U.S. in our portfolio are held primarily in Europe, Canada and Australia.
+
+Individual patents extend for varying periods of time, depending upon the date of filing of the patent application, the date of patent issuance, and the legal term of patents in the countries in which they are obtained. Generally, patents issued for applications filed in the United States are effective for 20 years from the earliest effective filing date. The patent term may be adjusted to compensate for delayed patent issuance, when such delays are caused by the patent office or successful appeals against patent office actions. There is no limit on this patent term adjustment. In addition, in certain instances, a patent term can be extended to recapture a portion of the term effectively lost as a result of the FDA regulatory review period. The restoration period cannot be longer than five years and the total patent term, including the restoration period, must not exceed 14 years following FDA approval. The duration of patents outside of the United States varies in accordance with provisions of applicable local law, but typically is also 20 years from the earliest effective filing date. Our issued patents will expire on dates ranging from 2018 to 2032. If patents are issued on our pending patent applications, the resulting patents are projected to expire on dates ranging from 2018 to 2036. However, the actual protection afforded by a patent varies on a product-by-product basis, from country-to-country, and depends upon many factors, including the type of patent, the scope of its coverage, the availability of regulatory-related extensions, the availability of legal remedies in a particular country, and the validity and enforceability of the patent. 
+
+The patent positions of companies like ours are generally uncertain and involve complex legal and factual questions. No consistent policy regarding the scope of claims allowable in patents in the field of immunotherapy has emerged in the United States. The patent situation outside of the United States is even more uncertain. Changes in either the patent laws or their interpretation in the United States and other countries may diminish our ability to protect our inventions and enforce our intellectual property rights, and more generally could affect the value of our intellectual property. In particular, our ability to stop third parties from making, using, selling, offering to sell, or importing products that infringe our intellectual property will depend in part on our success in obtaining and enforcing patent claims that cover our technology, inventions, and improvements. With respect to both licensed and company-owned intellectual property, we cannot be sure that patents will be granted with respect to any of our pending patent applications or with respect to any patent applications filed by us in the future, nor can we be sure that any of our existing patents or any patents that may be granted to us in the future will be commercially useful in protecting our products and the methods used to manufacture those products. Moreover, even our issued patents do not guarantee us the right to practice our technology in relation to the commercialization of our products. However, the area of patent and other intellectual property rights in biotechnology is an evolving one with many risks and uncertainties, and third parties may have blocking patents that could be used to prevent us from commercializing our patented product candidates and practicing our proprietary technology. Our issued patents and those that may issue in the future may be challenged, invalidated, or circumvented, which could limit our ability to stop competitors from marketing related products or limit the length of the term of patent protection that we may have for our product candidates. In addition, the rights granted under any issued patents may not provide us with protection or competitive advantages against competitors with similar technology. Furthermore, our competitors may independently develop similar technologies. For these reasons, we may have competition for our product candidates. Moreover, because of the extensive time required for development, testing and regulatory review of a potential product, it is possible that, before any particular product candidate can be commercialized, any related patent may expire or remain in force for only a short period following commercialization, thereby reducing any advantage of the patent.
+
+As of December 31, 2015, our registered trademark portfolio contained four registered trademarks, 16 pending trademark applications in the United States, and two pending trademark applications in foreign jurisdictions. We may also rely, in some circumstances, on trade secrets to protect our technology. However, trade secrets are difficult to protect. We seek to protect our technology and product candidates, in part, by entering into confidentiality agreements with those who have access to our confidential information, including our employees, contractors, consultants, collaborators, and advisors. We also seek to preserve the integrity and confidentiality of our proprietary technology and processes by maintaining physical security of our premises and physical and electronic security of our information technology systems. Although we have confidence in these individuals, organizations, and systems, agreements or security measures may be breached and we may not have adequate remedies for any breach. In addition, our trade secrets may otherwise become known or may be independently discovered by competitors. To the extent that our employees, contractors, consultants, collaborators, and advisors use intellectual property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions. For this and more comprehensive risks related to our proprietary technology, inventions, improvements and products, please see the section on &#8220;Risk Factors&#8212;Risks Related to Intellectual Property.&#8221;
+
+Licenses. We hold the worldwide rights, title and interest to the NK-92 cell line and we believe that we control commercial use of our NK-92 cells in key territories. We also maintain and exclusively control the only clinical grade master cell bank for NK-92. The original NK-92 cell line was isolated by Hans G. Klingemann, M.D., Ph.D., our founder and Vice President of Research and Development, and all patents and patent applications pertaining to this cell line are now in the name of NantKwest, Inc. or ZelleRx Corporation, our former name. In February 2003, we obtained an exclusive, worldwide license from Dr. Klingemann to the NK-92 cell line, and related NK-92 patents and know-how, including the NK-92 cell line, that had been assigned to him by the British Columbia Cancer Agency, to manufacture, use and sell products covered by the scope of any valid claim in any of the licensed patents. Dr. Klingemann subsequently assigned the cell line and those patents to us, but we are still obligated to pay a single-digit royalty on sales of licensed products to Dr. Klingemann, as well as to pay the British Columbia Cancer Agency a small percentage of our profits from the sale of the NK-92 cell line that Dr. Klingemann obtained from them. 
+
+In July 2004, we entered into an exclusive license agreement with Fox Chase Cancer Center or Fox Chase, pursuant to which we were granted an exclusive, worldwide, sublicensable license under certain patents and know-how pertaining to CD16 receptors-bearing NK-92 cell lines. We agreed to pay Fox Chase low single-digit royalties on sales of licensed products. We are also obligated to pay Fox Chase a percentage of the royalties and other compensation we receive from sublicensees of our rights from Fox Chase. Fox Chase is obligated to assign the licensed patents to us if we commence a Phase III clinical trial of a licensed product and, if this does not occur, our license expires when the last of the licensed patents expires. 
+
+In March 2004, we entered into a license agreement with Rush University Medical Center pursuant to which Rush granted us an exclusive, worldwide, sublicensable license to certain intellectual property related to clinical use of NK-92 to develop and commercialize products and processes for the treatment of melanoma renal cancer, or for the diagnosis or treatment of non-melanoma and non-renal cancer. In consideration for the license, we are obligated to pay to Rush single-digit royalties on sales of licensed products with a minimum royalty payment of $25,000 per year, as well as non-material milestone payments upon completion of certain clinical, regulatory and commercialization milestones. We also agreed to pay to Rush a portion of certain payments that we receive under sublicensing arrangements. The license has a term of 12 years from 2006, the year in which royalty payments were first made, and includes customary termination rights for us and Rush.
+
+In May 2005, we entered into a license agreement with University Health Network pursuant to which we obtained from University Health Network an exclusive, worldwide, sublicensable license to certain intellectual property relating to NK-92 clinical trials data from University Health Network to develop and commercialize products and processes for the diagnosis and treatment of certain hematological malignancies. Our license from University Health Network will automatically expire if we have not filed for regulatory approval or launched a licensed product within specified periods of time, and also includes other customary termination rights for both us and University Health Network.
+
+In December 2014, we entered into a joint development and license agreement with Sorrento Therapeutics to exclusively collaborate on the development and commercialization of therapeutic applications of certain effector cell lines as may be agreed between the parties, which exclusively extends to certain rights of each party included in each agreed collaboration. Pursuant to this agreement, the parties have agreed to use certain of our NK-92 cells exclusively with Sorrento&#8217;s CARs and certain other CARs not excluded under the agreement to develop and commercialize joint products as may be agreed between the parties. To fund our joint research and development efforts, Sorrento has agreed to make research credit payments that are not material in each of December 2015 and 2016, which amounts would be reduced by certain expenses for which we are responsible under the agreement. The research credit payments will be paid in the form of full-time employee expense credits by Sorrento, for our portion of any development costs, and a laboratory credit for maintaining a laboratory on Sorrento&#8217;s premises. Each joint product developed by the parties will be driven by one party, as mutually agreed upon by a designated steering committee comprised of three representatives from each party. That designated party, in each circumstance, will initiate and control development, testing, regulatory approval, commercialization, and, subject to certain conditions, out-licensing of the applicable joint product, and will bear all costs associated with the development of the joint cell line or joint product, including any costs associated with obtaining any necessary rights to third party intellectual property, unless the other party shares in such costs. Revenues generated from each joint cell line or joint product will be apportioned between Sorrento and us, depending upon the stage of development and each party&#8217;s contribution towards the development costs. Each of the parties will own an undivided interest in and to all rights, title and interest in and to the joint product rights. As of the date hereof, the parties have not yet agreed upon any projects under the joint development and license agreement; therefore Sorrento has no rights to use our NK cells or other technologies or intellectual property rights or to begin related research, development or commercialization activities and we are free to pursue, and are actively pursuing, research, development and commercialization activities with antibodies that may bind to various targets, including PDL1, ROR-1, CD33 and CD123. The agreement expires upon the later of the completion of the series of our collaborative research and development efforts or three years. We and Sorrento each have the right to terminate the agreement and the licenses granted thereunder if the other party is dissolved or is declared bankrupt or insolvent or remains in default of any material obligations following a sixty day cure period to remedy the default.
+
+In February 2010, we entered into a 17-year agreement with Intrexon Corporation pursuant to which we granted to Intrexon a worldwide, sublicensable license which may be exclusive with respect to certain indications designated by Intrexon, under certain patents relating to NK-92 cells to develop and commercialize modified NK-92 cells that express Intrexon&#8217;s proprietary gene sequences for use as therapeutic and prophylactic agents in humans in specified therapeutic areas. Intrexon paid us a one-time license fee and is also obligated to pay non-material milestone payments with respect to specific indications, a royalty on net sales of the licensed products and a portion of the revenue Intrexon receives from third party sublicensees of its rights from us. Intrexon has the right to terminate the agreement upon 180 days&#8217; notice and both Intrexon and we have the right to terminate the agreement for the other&#8217;s uncured breach of the agreement.
+
+We have licensed or sub-licensed our cell lines and intellectual property to numerous other pharmaceutical and biotechnology companies for non-clinical uses such as laboratory testing. Such licenses generally require the licensee to pay an upfront fee and annual research and commercial fees for products sold using our intellectual property and cell lines.
+
+Government Regulation 
+
+The FDA and other regulatory authorities at federal, state, and local levels, as well as in foreign countries, extensively regulate, among other things, the research, development, testing, manufacture, quality control, import, export, safety, effectiveness, labeling, packaging, storage, distribution, record keeping, approval, advertising, promotion, marketing, post-approval monitoring, and post-approval reporting of biologics such as those we are developing. We, along with third-party contractors, will be required to navigate the various preclinical, clinical and commercial approval requirements of the governing regulatory agencies of the countries in which we wish to conduct studies or seek approval or licensure of our product candidates. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local, and foreign statutes and regulations require the expenditure of substantial time and financial resources.
+
+The process required by the FDA before biologic product candidates may be marketed in the United States generally involves the following:
+
+&#160;
+
+&#183; 
+
+completion of preclinical laboratory tests and animal studies performed in accordance with the FDA&#8217;s current Good Laboratory Practices, or GLP, regulation; 
+
+&#160;
+
+&#183; 
+
+submission to the FDA of an IND, which must become effective before clinical trials may begin and must be updated annually or when significant changes are made; 
+
+&#160;
+
+&#183; 
+
+approval by an independent Institutional Review Board, or IRB, or ethics committee for each clinical site before the clinical trial is begun; 
+
+&#160;
+
+&#183; 
+
+performance of adequate and well-controlled human clinical trials to establish the safety, purity and potency of the proposed biologic product candidate for its intended purpose; 
+
+&#160;
+
+&#183; 
+
+preparation of and submission to the FDA of a Biologics License Application, or BLA, after completion of all required clinical trials; 
+
+&#160;
+
+&#183; 
+
+a determination by the FDA within 60 days of its receipt of a BLA to file the application for review; 
+
+&#160;
+
+&#183; 
+
+satisfactory completion of an FDA Advisory Committee review, if applicable; 
+
+&#160;
+
+&#183; 
+
+satisfactory completion of an FDA pre-approval inspection of the manufacturing facility or facilities at which the proposed product is produced to assess compliance with current Good Manufacturing Practices, or cGMP, and to assure that the facilities, methods and controls are adequate to preserve the biological product&#8217;s continued safety, purity and potency, and of selected clinical investigational sites to assess compliance with current Good Clinical Practices, or cGCPs; and 
+
+&#160;
+
+&#183; 
+
+FDA review and approval of the BLA to permit commercial marketing of the product for particular indications for use in the United States, which must be updated annually and when significant changes are made. 
+
+The testing and approval process requires substantial time, effort and financial resources, and we cannot be certain that any approvals for our product candidates will be granted on a timely basis, if at all. Prior to beginning the first clinical trial with a product candidate, we must submit an IND to the FDA. An IND is a request for authorization from the FDA to administer an investigational new drug product to humans. The central focus of an IND submission is on the general investigational plan and the protocol(s) for clinical studies. The IND also includes results of animal and in vitro studies assessing the toxicology, pharmacokinetics, pharmacology, and pharmacodynamic characteristics of the product; chemistry, manufacturing, and controls information; and any available human data or literature to support the use of the investigational product. An IND must become effective before human clinical trials may begin. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA, within the 30-day time period, raises safety concerns or questions about the proposed clinical trial. In such a case, the IND may be placed on clinical hold and the IND sponsor and the FDA must resolve any outstanding concerns or questions before the clinical trial can begin. Submission of an IND therefore may or may not result in FDA authorization to begin a clinical trial.
+
+When a clinical trial using genetically engineered cells is conducted at, or sponsored by, institutions receiving NIH funding for recombinant DNA research, prior to the submission of an IND to the FDA, a protocol and related documentation is submitted to and the study is registered with the NIH Office of Biotechnology Activities, or OBA, pursuant to the NIH Guidelines for Research Involving Recombinant DNA Molecules, or NIH Guidelines. Compliance with the NIH Guidelines is mandatory for investigators at institutions receiving NIH funds for research involving recombinant DNA, and many companies and other institutions not otherwise subject to the NIH Guidelines voluntarily follow them. The NIH is responsible for convening the Recombinant DNA Advisory Committee, or RAC, a federal advisory committee that discusses protocols that raise novel or particularly important scientific, safety, or ethical considerations at one of its quarterly public meetings. The OBA will notify the FDA of the RAC&#8217;s decision regarding the necessity for full public review of a protocol. RAC proceedings and reports are posted to the OBA web site and may be accessed by the public. If the FDA allows the IND to proceed, but the RAC decides that full public review of the protocol is warranted, the FDA will request at the completion of its IND review that sponsors delay initiation of the protocol until after completion of the RAC review process. 
+
+Clinical trials involve the administration of the investigational product to human subjects under the supervision of qualified investigators in accordance with cGCPs, which include the requirement that all research subjects provide their informed consent for their participation in any clinical study. Clinical trials are conducted under protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. A separate submission to the existing IND must be made for each successive clinical trial conducted during product development and for any subsequent protocol amendments. Furthermore, an independent Institutional Review Board, or IRB, for each site proposing to conduct the clinical trial must review and approve the plan for any clinical trial and its informed consent form before the clinical trial begins at that site, and must monitor the study until completed. Regulatory authorities, the IRB or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the subjects are being exposed to an unacceptable health risk or that the trial is unlikely to meet its stated objectives. Some studies also include oversight by an independent group of qualified experts organized by the clinical study sponsor, known as a data safety monitoring board, which provides authorization for whether or not a study may move forward at designated check points based on access to certain data from the study and may halt the clinical trial if it determines that there is an unacceptable safety risk for subjects or other grounds, such as no demonstration of efficacy. There are also requirements governing the reporting of ongoing clinical studies and clinical study results to public registries.
+
+For purposes of BLA approval, human clinical trials are typically conducted in three sequential phases that may overlap.
+
+&#160;
+
+&#183; 
+
+Phase I . The biological product is initially introduced into healthy human subjects and tested for safety. In the case of some products for severe or life-threatening diseases, the initial human testing is often conducted in patients. 
+
+&#160;
+
+&#183; 
+
+Phase II. The biological product is evaluated in a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance, optimal dosage and dosing schedule. 
+
+&#160;
+
+&#183; 
+
+Phase III . Clinical trials are undertaken to further evaluate dosage, clinical efficacy, potency, and safety in an expanded patient population at geographically dispersed clinical trial sites. These clinical trials are intended to establish the overall risk to benefit ratio of the product and provide an adequate basis for product labeling. 
+
+&#160;
+
+&#183; 
+
+Phase IV . In some cases, the FDA may require, or companies may voluntarily pursue, additional clinical trials after a product is approved to gain more information about the product. These so-called Phase IV studies may be made a condition to approval of the BLA. 
+
+Phase I, Phase II and Phase III testing may not be completed successfully within a specified period, if at all, and there can be no assurance that the data collected will support FDA approval or licensure of the product. Concurrent with clinical trials, companies may complete additional animal studies and develop additional information about the biological characteristics of the product candidate, and must finalize a process for manufacturing the product in commercial quantities in accordance with cGMP requirements. To help reduce the risk of the introduction of adventitious agents with use of biological products, the Public Health Service Act, or PHSA, emphasizes the importance of manufacturing control for products whose attributes cannot be precisely defined. The manufacturing process must be capable of consistently producing quality batches of the product candidate and, among other things, must develop methods for testing the identity, strength, quality and purity of the final product, or for biologics, the safety, purity and potency. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the product candidate does not undergo unacceptable deterioration over its shelf life.
+
+BLA Submission and Review by the FDA 
+
+Assuming successful completion of all required testing in accordance with all applicable regulatory requirements, the results of product development, nonclinical studies and clinical trials are submitted to the FDA as part of a BLA requesting approval to market the product for one or more indications. The BLA must include all relevant data available from pertinent preclinical and clinical studies, including negative or ambiguous results as well as positive findings, together with detailed information relating to the product&#8217;s chemistry, manufacturing, controls, and proposed labeling, among other things. Data can come from company-sponsored clinical studies intended to test the safety and effectiveness of a use of the product, or from a number of alternative sources, including studies initiated by investigators. The submission of a BLA requires payment of a substantial User Fee to FDA, and the sponsor of an approved BLA is also subject to annual product and establishment user fees. These fees are typically increased annually. A waiver of user fees may be obtained under certain limited circumstances.
+
+Within 60 days following submission of the application, the FDA reviews a BLA to determine if it is substantially complete before the agency accepts it for filing. The FDA may refuse to file any BLA that it deems incomplete or not properly reviewable at the time of submission and may request additional information. In this event, the BLA must be resubmitted with the additional information. Once a BLA has been filed, the FDA&#8217;s goal is to review the application within ten months after it accepts the application for filing, or, if the application relates to an unmet medical need in a serious or life-threatening indication, six months after the FDA accepts the application for filing. The review process is often significantly extended by FDA requests for additional information or clarification. The FDA reviews a BLA to determine, among other things, whether a product is safe, pure and potent and the facility in which it is manufactured, processed, packed, or held meets standards designed to assure the product&#8217;s continued safety, purity and potency. The FDA may convene an advisory committee to provide clinical insight on application review questions. Before approving a BLA, the FDA will typically inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. FDA regulations also require tissue establishments to register and list their HCT/Ps with the FDA and, when applicable, to evaluate donors through screening and testing. Additionally, before approving a BLA, the FDA will typically inspect one or more clinical sites to assure compliance with cGCP. If the FDA determines that the application, manufacturing process or manufacturing facilities are not acceptable, it will outline the deficiencies in the submission and often will request additional testing or information. Notwithstanding the submission of any requested additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval.
+
+The testing and approval process requires substantial time, effort and financial resources, and each may take several years to complete. The FDA may not grant approval on a timely basis, or at all, and we may encounter difficulties or unanticipated costs in our efforts to secure necessary governmental approvals, which could delay or preclude us from marketing our products. After the FDA evaluates a BLA and conducts inspections of manufacturing facilities where the investigational product and/or its drug substance will be produced, the FDA may issue an approval letter, a Complete Response Letter or a not approval letter. An approval letter authorizes commercial marketing of the product with specific prescribing information for specific indications. A Complete Response Letter indicates that the review cycle of the application is complete and the application is not ready for approval. A Complete Response Letter may request additional information or clarification. The FDA may delay or refuse approval of a BLA if applicable regulatory criteria are not satisfied, require additional testing or information and/or require post-marketing testing and surveillance to monitor safety or efficacy of a product.
+
+If regulatory approval of a product is granted, such approval may entail limitations on the indicated uses for which such product may be marketed. For example, the FDA may approve the BLA with a Risk Evaluation and Mitigation Strategy, or REMS, plan to mitigate risks, which could include medication guides, physician communication plans, or other restrictions to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. The FDA also may condition approval on, among other things, changes to proposed labeling or the development of adequate controls and specifications. Once approved, the FDA may withdraw the product approval if compliance with pre- and post-marketing regulatory standards is not maintained or if problems occur after the product reaches the marketplace. The FDA may require one or more Phase IV post-market studies and surveillance to further assess and monitor the product&#8217;s safety and effectiveness after commercialization, and may limit further marketing of the product based on the results of these post-marketing studies. In addition, new government requirements, including those resulting from new legislation, may be established, or the FDA&#8217;s policies may change, which could delay or prevent regulatory approval of our products under development.
+
+A sponsor may seek approval of its product candidate under programs designed to accelerate FDA&#8217;s review and approval of new drugs and biological products that meet certain criteria. Specifically, new drugs and biological products are eligible for fast track designation if they are intended to treat a serious or life-threatening condition and demonstrate the potential to address unmet medical needs for the condition. For a fast track product, the FDA may consider sections of the BLA for review on a rolling basis before the complete application is submitted if relevant criteria are met. A fast track designated product candidate may also qualify for priority review, under which the FDA sets the target date for FDA action on the BLA at six months after the FDA accepts the application for filing. Priority review is granted when there is evidence that the proposed product would be a significant improvement in the safety or effectiveness of the treatment, diagnosis, or prevention of a serious condition. If criteria are not met for priority review, the application is subject to the standard FDA review period of 10 months after FDA accepts the application for filing. Priority review designation does not change the scientific/medical standard for approval or the quality of evidence necessary to support approval. 
+
+Under the accelerated approval program, the FDA may approve a BLA on the basis of either a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. Post-marketing studies or completion of ongoing studies after marketing approval are generally required to verify the biologic&#8217;s clinical benefit in relationship to the surrogate endpoint or ultimate outcome in relationship to the clinical benefit. In addition, the Food and Drug Administration Safety and Innovation Act, or FDASIA, which was enacted and signed into law in 2012, established breakthrough therapy designation. A sponsor may seek FDA designation of its product candidate as a breakthrough therapy if the product candidate is intended, alone or in combination with one or more other drugs or biologics, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the therapy may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. Sponsors may request the FDA to designate a breakthrough therapy at the time of or any time after the submission of an IND, but ideally before an end-of-phase II meeting with FDA. If the FDA designates a breakthrough therapy, it may take actions appropriate to expedite the development and review of the application, which may include holding meetings with the sponsor and the review team throughout the development of the therapy; providing timely advice to, and interactive communication with, the sponsor regarding the development of the drug to ensure that the development program to gather the nonclinical and clinical data necessary for approval is as efficient as practicable; involving senior managers and experienced review staff, as appropriate, in a collaborative, cross-disciplinary review; assigning a cross-disciplinary project lead for the FDA review team to facilitate an efficient review of the development program and to serve as a scientific liaison between the review team and the sponsor; and considering alternative clinical trial designs when scientifically appropriate, which may result in smaller or more efficient clinical trials that require less time to complete and may minimize the number of patients exposed to a potentially less efficacious treatment. Breakthrough designation also allows the sponsor to file sections of the BLA for review on a rolling basis. We may seek designation as a breakthrough therapy for some or all of our product candidates.
+
+Fast Track designation, priority review and breakthrough therapy designation do not change the standards for approval but may expedite the development or approval process.
+
+Orphan Drugs
+
+Under the Orphan Drug Act, the FDA may grant orphan designation to a drug or biologic intended to treat a rare disease or condition, defined as a disease or condition with a patient population of fewer than 200,000 individuals in the United States, or a patient population greater than 200,000 individuals in the United States and when there is no reasonable expectation that the cost of developing and making available the drug or biologic in the United States will be recovered from sales in the United States for that drug or biologic. Orphan drug designation must be requested before submitting a BLA. After the FDA grants orphan drug designation, the generic identity of the therapeutic agent and its potential orphan use are disclosed publicly by the FDA.
+
+If a product that has orphan drug designation subsequently receives the first FDA approval for a particular active ingredient for the disease for which it has such designation, the product is entitled to orphan product exclusivity, which means that the FDA may not approve any other applications, including a full BLA, to market the same biologic for the same indication for seven years, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity or if FDA finds that the holder of the orphan drug exclusivity has not shown that it can assure the availability of sufficient quantities of the orphan drug to meet the needs of patients with the disease or condition for which the drug was designated. Orphan drug exclusivity does not prevent the FDA from approving a different drug or biologic for the same disease or condition, or the same drug or biologic for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the BLA application user fee.
+
+A designated orphan drug many not receive orphan drug exclusivity if it is approved for a use that is broader than the indication for which it received orphan designation. In addition, orphan drug exclusive marketing rights in the United States may be lost if the FDA later determines that the request for designation was materially defective or if the manufacturer is unable to assure sufficient quantities of the product to meet the needs of patients with the rare disease or condition. 
+
+Post-Approval Requirements
+
+Any products manufactured or distributed by us pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to record-keeping, reporting of adverse experiences, periodic reporting, distribution, and advertising and promotion of the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims, are subject to prior FDA review and approval. There also are continuing, annual user fee requirements for any marketed products and the establishments at which such products are manufactured, as well as new application fees for supplemental applications with clinical data. Biologic manufacturers and their subcontractors are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with GMP, which impose certain procedural and documentation requirements upon us and our third-party manufacturers. Changes to the manufacturing process are strictly regulated, and, depending on the significance of the change, may require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting requirements upon us and any third-party manufacturers that we may decide to use. Accordingly, manufacturers must continue to expend time, money and effort in the area of production and quality control to maintain compliance with cGMP and other aspects of regulatory compliance. We cannot be certain that we or our present or future suppliers will be able to comply with the cGMP regulations and other FDA regulatory requirements. If our present or future suppliers are not able to comply with these requirements, the FDA may, among other things, halt our clinical trials, require us to recall a product from distribution, or withdraw approval of the BLA.
+
+Future FDA and state inspections may identify compliance issues at our facilities or at the facilities of our contract manufacturers that may disrupt production or distribution, or require substantial resources to correct. In addition, discovery of previously unknown problems with a product or the failure to comply with applicable requirements may result in restrictions on a product, manufacturer or holder of an approved BLA, including withdrawal or recall of the product from the market or other voluntary, FDA-initiated or judicial action that could delay or prohibit further marketing.
+
+The FDA may withdraw approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical studies to assess new safety risks; or imposition of distribution restrictions or other restrictions under a REMS program. Other potential consequences include, among other things:
+
+&#160;
+
+&#183; 
+
+restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls; 
+
+&#160;
+
+&#183; 
+
+fines, warning letters or holds on post-approval clinical studies; 
+
+&#160;
+
+&#183; 
+
+refusal of the FDA to approve pending applications or supplements to approved applications, or suspension or revocation of product license approvals; 
+
+&#160;
+
+&#183; 
+
+product seizure or detention, or refusal to permit the import or export of products; or 
+
+&#160;
+
+&#183; 
+
+injunctions or the imposition of civil or criminal penalties. 
+
+The FDA closely regulates the marketing, labeling, advertising and promotion of biologics. A company can make only those claims relating to safety and efficacy, purity and potency that are approved by the FDA and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses. Failure to comply with these requirements can result in, among other things, adverse publicity, warning letters, corrective advertising and potential civil and criminal penalties, and exclusion from participation in governmental health programs, like Medicare and Medicaid. Physicians may prescribe legally available products for uses that are not described in the product&#8217;s labeling and that differ from those tested by us and approved by the FDA. Such off-label uses are common across medical specialties. Physicians may believe that such off-label uses are the best treatment for many patients in varied circumstances. The FDA does not regulate the behavior of physicians in their choice of treatments. The FDA does, however, restrict manufacturer&#8217;s communications on the subject of off-label use of their products.
+
+Other Healthcare Laws and Compliance Requirements 
+
+Our sales, promotion, medical education, clinical research and other activities following product approval will be subject to regulation by numerous regulatory and law enforcement authorities in the United States in addition to FDA, including potentially the Federal Trade Commission, the Department of Justice, the Centers for Medicare and Medicaid Services, or CMS, other divisions of the U.S. Department of Health and Human Services and state and local governments. Our promotional and scientific/educational programs must comply with the federal Anti-Kickback Statute, the False Claims Act, physician payment transparency laws, privacy laws, security laws, and additional federal and state laws similar to the foregoing.
+
+The federal Anti-Kickback Statute prohibits, among other things, the knowing and willing, direct or indirect offer, receipt, solicitation or payment of remuneration in exchange for or to induce the referral of patients, including the purchase, order or lease of any good, facility, item or service that would be paid for in whole or part by Medicare, Medicaid or other federal health care programs. Remuneration has been broadly defined to include anything of value, including cash, improper discounts, and free or reduced price items and services. The federal Anti-Kickback Statute has been interpreted to apply to arrangements between pharmaceutical manufacturers on one hand and prescribers, purchasers, formulary managers, and beneficiaries on the other. Although there are a number of statutory exceptions and regulatory safe harbors protecting some common activities from prosecution, the exceptions and safe harbors are drawn narrowly. Practices that involve remuneration that may be alleged to be intended to induce prescribing, purchases or recommendations may be subject to scrutiny if they do not qualify for an exception or safe harbor. Failure to meet all of the requirements of a particular applicable statutory exception or regulatory safe harbor does not make the conduct per se illegal under the federal Anti-Kickback Statute. Instead, the legality of the arrangement will be evaluated on a case-by-case basis based on a cumulative review of all its facts and circumstances. Several courts have interpreted the statute&#8217;s intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals of federal healthcare covered business, the federal Anti-Kickback Statute has been violated. The government has enforced the federal Anti-Kickback Statute to reach large settlements with healthcare companies based on sham research or consulting and other financial arrangements with physicians. Further, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it to have committed a violation. In addition, the government may assert that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the False Claims Act. Many states have similar laws that apply to their state health care programs as well as private payors.
+
+Federal false claims and false statement laws, including the federal civil False Claims Act, or FCA, imposes liability on persons or entities that, among other things, knowingly present or cause to be presented claims that are false or fraudulent or not provided as claimed for payment or approval by a federal health care program. The FCA has been used to prosecute persons or entities that &#8220;cause&#8221; the submission of claims for payment that are inaccurate or fraudulent, by, for example, providing inaccurate billing or coding information to customers, promoting a product off-label, submitting claims for services not provided as claimed, or submitting claims for services that were provided but not medically necessary. Actions under the FCA may be brought by the Attorney General or as a qui tam action by a private individual in the name of the government. Violations of the FCA can result in significant monetary penalties and treble damages. The federal government is using the FCA, and the accompanying threat of significant liability, in its investigation and prosecution of pharmaceutical and biotechnology companies throughout the country, for example, in connection with the promotion of products for unapproved uses and other illegal sales and marketing practices. The government has obtained multi-million and multi-billion dollar settlements under the FCA in addition to individual criminal convictions under applicable criminal statutes. In addition, certain companies that were found to be in violation of the FCA have been forced to implement extensive corrective action plans, and have often become subject to consent decrees or corporate integrity agreements, restricting the manner in which they conduct their business.
+
+The federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, created additional federal criminal statutes that prohibit, among other things, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors; knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services; and willfully obstructing a criminal investigation of a healthcare offense. Like the federal Anti-Kickback Statute, the Affordable Care Act amended the intent standard for certain healthcare fraud statutes under HIPAA such that a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation.
+
+Given the significant size of actual and potential settlements, it is expected that the government will continue to devote substantial resources to investigating healthcare providers&#8217; and manufacturers&#8217; compliance with applicable fraud and abuse laws. Also, many states have similar fraud and abuse statutes or regulations that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under Medicaid and other state programs. Additionally, to the extent that our products, once commercialized, are sold in a foreign country, we may be subject to similar foreign laws.
+
+In addition, there has been a recent trend of increased federal and state regulation of payments made to physicians and other healthcare providers. The Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act, or collectively, the Affordable Care Act, among other things, imposed new reporting requirements on certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children&#8217;s Health Insurance Program, with specific exceptions, for payments or other transfers of value made by them to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. Covered manufacturers are required to collect and report detailed payment data and submit legal attestation to the accuracy of such data to the government each year. Failure to submit required information may result in civil monetary penalties of up to an aggregate of $150,000 per year (or up to an aggregate of $1 million per year for &#8220;knowing failures&#8221;), for all payments, transfers of value or ownership or investment interests that are not timely, accurately and completely reported in an annual submission. Additionally, entities that do not comply with mandatory reporting requirements may be subject to a corporate integrity agreement. Certain states also mandate implementation of commercial compliance programs, impose restrictions on covered manufacturers&#8217; marketing practices and/or require the tracking and reporting of gifts, compensation and other remuneration to physicians and other healthcare professionals. 
+
+We may also be subject to data privacy and security regulation by both the federal government and the states in which we conduct our business. HIPAA, as amended by the Health Information Technology and Clinical Health Act, or HITECH, and their respective implementing regulations, imposes specified requirements on certain health care providers, plans and clearinghouses (collectively, &#8220;covered entities&#8221;) and their &#8220;business associates,&#8221; relating to the privacy, security and transmission of individually identifiable health information. Among other things, HITECH makes HIPAA&#8217;s security standards directly applicable to &#8220;business associates,&#8221; defined as independent contractors or agents of covered entities that create, receive, maintain or transmit protected health information in connection with providing a service for or on behalf of a covered entity. HITECH also increased the civil and criminal penalties that may be imposed against covered entities, business associates and possibly other persons, and gave state attorneys general new authority to file civil actions for damages or injunctions in federal courts to enforce HIPAA and seek attorney&#8217;s fees and costs associated with pursuing federal civil actions. In addition, certain states have their own laws that govern the privacy and security of health information in certain circumstances, many of which differ from each other and/or HIPAA in significant ways and may not have the same effect, thus complicating compliance efforts.
+
+If our operations are found to be in violation of any of such laws or any other governmental regulations that apply to us, we may be subject to penalties, including, without limitation, civil and criminal penalties, damages, fines, disgorgement, the curtailment or restructuring of our operations, exclusion from participation in federal and state healthcare programs, imprisonment, contractual damages, reputational harm, and diminished profits and future earnings, any of which could adversely affect our ability to operate our business and our financial results.
+
+In addition to the foregoing health care laws, we are also subject to the U.S. Foreign Corrupt Practices Act and similar worldwide anti-bribery laws, which generally prohibit companies and their intermediaries from making improper payments to government officials or private-sector recipients for the purpose of obtaining or retaining business. We adopted an anti-corruption policy in connection with the initial public offering of our common stock in July 2015. The anti-corruption policy mandates compliance with the FCPA and similar anti-bribery laws applicable to our business throughout the world. However, we cannot assure you that such a policy or procedures implemented to enforce such a policy will protect us from intentional, reckless or negligent acts committed by our employees, distributors, partners, collaborators or agents. Violations of these laws, or allegations of such violations, could result in fines, penalties or prosecution and have a negative impact on our business, results of operations and reputation.
+
+Coverage and Reimbursement 
+
+Sales of pharmaceutical products depend significantly on the extent to which coverage and adequate reimbursement are provided by third-party payors. Third-party payors include state and federal government health care programs, managed care providers, private health insurers and other organizations. Although we currently believe that third-party payors will provide coverage and reimbursement for our product candidates, if approved, we cannot be certain of this. Third-party payors are increasingly challenging the price, examining the cost-effectiveness, and reducing reimbursement for medical products and services. In addition, significant uncertainty exists as to the reimbursement status of newly approved healthcare products. The U.S. government, state legislatures and foreign governments have continued implementing cost containment programs, including price controls, restrictions on coverage and reimbursement and requirements for substitution of generic products. Adoption of price controls and cost containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. We may need to conduct expensive clinical studies to demonstrate the comparative cost-effectiveness of our products. The product candidates that we develop may not be considered cost-effective and thus may not be covered or sufficiently reimbursed. It is time consuming and expensive for us to seek coverage and reimbursement from third-party payors, as each payor will make its own determination as to whether to cover a product and at what level of reimbursement. Thus, one payor&#8217;s decision to provide coverage and adequate reimbursement for a product does not assure that another payor will provide coverage or that the reimbursement levels will be adequate. Moreover, a payor&#8217;s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Reimbursement may not be available or sufficient to allow us to sell our products on a competitive and profitable basis.
+
+Healthcare Reform
+
+The United States and some foreign jurisdictions are considering or have enacted a number of legislative and regulatory proposals to change the healthcare system in ways that could affect our ability to sell our products profitably. Among policy makers and payors in the United States and elsewhere, there is significant interest in promoting changes in healthcare systems with the stated goals of containing healthcare costs, improving quality and/or expanding access. In the United States, the pharmaceutical industry has been a particular focus of these efforts and has been significantly affected by major legislative initiatives.
+
+By way of example, in March 2010, the Affordable Care Act was signed into law, intended to broaden access to health insurance, reduce or constrain the growth of healthcare spending, enhance remedies against fraud and abuse, add new transparency requirements for the healthcare and health insurance industries, impose new taxes and fees on the health industry and impose additional health policy reforms. Among the provisions of the Affordable Care Act of importance to our potential drug candidates are:
+
+&#160;
+
+&#183; 
+
+an annual, nondeductible fee on any entity that manufactures or imports specified branded prescription drugs and biologic agents, apportioned among these entities according to their market share in certain government healthcare programs; 
+
+&#160;
+
+&#183; 
+
+an increase in the statutory minimum rebates a manufacturer must pay under the Medicaid Drug Rebate Program to 23.1% and 13.0% of the average manufacturer price for branded and generic drugs, respectively; 
+
+&#160;
+
+&#183; 
+
+a new methodology by which rebates owed by manufacturers under the Medicaid Drug Rebate Program are calculated for drugs that are inhaled, infused, instilled, implanted or injected; 
+
+&#160;
+
+&#183; 
+
+a new Medicare Part D coverage gap discount program, in which manufacturers must agree to offer 50% point-of-sale discounts off negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for a manufacturer&#8217;s outpatient drugs to be covered under Medicare Part D; 
+
+&#160;
+
+&#183; 
+
+extension of a manufacturer&#8217;s Medicaid rebate liability to covered drugs dispensed to individuals who are enrolled in Medicaid managed care organizations; 
+
+&#160;
+
+&#183; 
+
+expansion of eligibility criteria for Medicaid programs by, among other things, allowing states to offer Medicaid coverage to additional individuals and by adding new mandatory eligibility categories for certain individuals with income at or below 133% of the federal poverty level, thereby potentially increasing a manufacturer&#8217;s Medicaid rebate liability; 
+
+&#160;
+
+&#183; 
+
+expansion of the entities eligible for discounts under the Public Health Service pharmaceutical pricing program; and 
+
+&#160;
+
+&#183; 
+
+a new Patient-Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research. 
+
+In addition, other legislative changes have been proposed and adopted since the Affordable Care Act was enacted. These changes include, among others, the Budget Control Act of 2011, which mandates aggregate reductions to Medicare payments to providers of up to 2% per fiscal year effective April 1, 2013, and, due to subsequent legislative amendments, will remain in effect through 2024 unless additional Congressional action is taken. In January 2013, President Obama signed into law the American Taxpayer Relief Act of 2012, which, among other things, further reduced Medicare payments to several providers, including hospitals and cancer treatment centers, increased the statute of limitations period for the government to recover overpayments to providers from three to five years. These new laws may result in additional reductions in Medicare and other healthcare funding, which could have a material adverse effect on customers for our product candidates, if approved, and, accordingly, our financial operations. 
+
+We expect that the Affordable Care Act, as well as other healthcare reform measures that may be adopted in the future, may result in more rigorous coverage criteria and lower reimbursement, and in additional downward pressure on the price that we receive for any approved product. Any reduction in reimbursement from Medicare or other government-funded programs may result in a similar reduction in payments from private payors. The implementation of cost containment measures or other healthcare reforms may prevent us from being able to generate revenue, attain profitability or commercialize our drugs.
+
+Foreign Regulation
+
+In addition to regulations in the United States, we will be subject to a variety of foreign regulations governing clinical trials and commercial sales and distribution of our products to the extent we choose to develop or sell any products outside of the United States. The approval process varies from country to country and the time may be longer or shorter than that required to obtain FDA approval. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from country to country.
+
+Employees
+
+As of December 31, 2015, we had 31 employees. Our ability to manage growth effectively will require us to continue to implement and improve our management systems, recruit and train new employees and select qualified independent contractors. None of our employees are represented by a labor union or covered by collective bargaining agreements, and we believe our relationship with our employees is good.
+
+&#160;
+
+&#160;
+

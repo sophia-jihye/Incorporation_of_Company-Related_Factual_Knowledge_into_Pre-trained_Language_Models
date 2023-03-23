@@ -1,0 +1,384 @@
+ ITEM 1. BUSINESS 
+
+Overview 
+
+Infinera Corporation (&#8220;we,&#8221; "us," "our" or &#8220;Infinera&#8221;) provides optical transport networking equipment, software and services to telecommunications service providers, Internet content providers (&#8220;ICPs&#8221;), cable providers, wholesale and enterprise carriers, research and education institutions, and government entities (collectively, "Service Providers") across the globe. Optical transport networks are deployed by Service Providers facing significant demands for optical bandwidth prompted by increased use of high-speed Internet access, mobile broadband, high-definition video streaming services, business Ethernet services and cloud-based services. 
+
+We manufacture large-scale Indium Phosphide photonic integrated circuits ("PICs"), which are used as a key differentiating component inside our Intelligent Transport Network platforms. Our third generation PICs, commercially available since 2012, transmit and receive 500 Gigabits per second ("Gbps"), incorporating over 600 discrete optical functions into a pair of PICs. Our PICs are combined with our FlexCoherent processors to deliver coherent optical transmission and with high-performance Optical Transport Network (&#8220;OTN&#8221;) switching capabilities to offer Service Providers a unique combination of highly-scalable transmission capacity and easy to use bandwidth management tools to simplify transport network operations. 
+
+Similar to how silicon integrated circuits changed the dynamics of the computing industry by increasing computing performance and reliability while reducing physical size, power consumption and heat dissipation, we believe our PICs change the dynamics of the optical transport network industry by increasing optical performance and reliability while reducing physical size, power consumption and heat dissipation. 
+
+In 2014, we increased our addressable markets by introducing the Cloud Xpress platform for the metro cloud market. We enhanced our position in the cloud/data center interconnect (&#8220;DCI") market in 2015 by expanding our Cloud Xpress offering to now include 10 gigabit Ethernet (&#8220;GbE&#8221;), 40 GbE and 100 GbE client interfaces to meet customer specific requirements. We also introduced the XT-500, to provide a compact wavelength-division multiplexing (&#8220;WDM&#8221;) solution optimized for long-haul interconnect applications. 
+
+In the second half of 2015, we entered the metro market with the acquisition of Transmode AB (&#8220;Transmode&#8221;), a leader in metro packet-optical applications, and introduced the Infinera XTC-2 and XTC-2E products. We can now offer our customers a comprehensive portfolio addressing the metro market with 100G metro core/regional transport capabilities and packet-optical solutions optimized for fast growing applications including mobile fronthaul and backhaul, triple-play and cable broadband aggregation, and business Ethernet services with Metro Ethernet Forum (&#8220;MEF&#8221;) certification . 
+
+Our end-to-end packet-optical portfolio is designed to be managed with a single network management system . In addition to offering our traditional management system for WDM operations, we also provide solutions for enabling programmability of our Intelligent Transport Network with software defined networking (&#8220;SDN&#8221;) via the Infinera Open Transport Switch (&#8220;OTS&#8221;). This SDN platform can enable Service Providers to write software applications that can control the Intelligent Transport Network to more rapidly deliver innovative services with service level agreements while efficiently using their network resources. 
+
+The Infinera Intelligent Transport Network architecture enables Service Providers to scale network bandwidth, accelerate service innovation and simplify optical network operations. Service Providers across the globe rely on Infinera Intelligent Transport Networks to enable services that create rich end-user experiences based on efficient, high-bandwidth optical networking. Building on our leadership in long-haul, we now provide an end-to-end portfolio of packet-optical solutions for metro, DCI, long-haul and subsea networks. 
+
+We were incorporated in December 2000 and originally operated under the name &#8220;Zepton Networks.&#8221; We are incorporated in the State of Delaware. Our principal executive offices are located at 140 Caspian Court, Sunnyvale, CA 94089. Our telephone number is (408) 572-5200. 
+
+&#32;&#8220;Infinera,&#8221; &#8220;Infinera DTN,&#8221; &#8220;Infinera DTN-X,&#8221; &#8220;ATN,&#8221; &#8220;Infinera Intelligent Transport Network,&#8221; &#8220;FlexCoherent,&#8221; "Infinera FlexILS" and &#8220;Infinera Instant Bandwidth&#8221; are trademarks or service marks of Infinera Corporation in the United States, certain other countries and /or the European Union. Any other trademarks or trade names mentioned are the property of their respective owners. 
+
+Industry Background 
+
+Optical transport networking equipment carries digital information using light waves over fiber optic cables. With the advent of WDM systems, data is transmitted by using multiple wavelengths of light using different frequencies or colors over a single optical fiber. Service Providers deploy WDM systems to carry information between continents, across countries, between cities and within metropolitan areas, and in some cases all the way to the end user. Fiber optic networks are generally capable of carrying most types of communications traffic. We believe that a number of trends in the communications industry are driving demand for network bandwidth and ultimately will increase demand for optical transport networking systems. These trends include growth in bandwidth-intensive services like streaming high-definition video services, the proliferation of 4G and WiFi mobile broadband due to the availability of smartphones and tablets, and the growth of cloud services. As traffic grows, Service Providers add transmission bandwidth to existing optical networks or purchase and deploy additional systems to keep pace with bandwidth demands and service expansion. 
+
+Consumers and businesses increasingly rely on the cloud for their application needs. As cloud adoption increases, large network operators are reporting a magnification effect on incoming traffic, such that a single request from an end user can generate many times the amount of traffic between data centers than was contained in the original request. This server-to-server traffic is also called east-west traffic and this magnification effect is accelerating the deployment of high-bandwidth optical transport solutions to support cloud network infrastructures. 
+
+We deliver highly scalable optical networking solutions to support the growing demand for high bandwidth across various end-to-end network locations all the way from the high-capacity long-haul core to the metro access. 
+
+We believe that Service Providers seek the following solutions that will allow them to increase their revenue and/or expand their service offerings: 
+
+&#8226; 
+
+high-bandwidth solutions that scale optical transmission bandwidth to meet increasing demand; 
+
+&#8226; 
+
+efficient solutions that optimize performance and increase reliability while reducing physical space, power consumption and heat dissipation leading to lower operational expenses; 
+
+&#8226; 
+
+easy to use solutions that reduce the time and complexity of deploying new transmission bandwidth; and 
+
+&#8226; 
+
+improved integration between Internet Protocol equipment such as routers and optical transport networking equipment. 
+
+We believe that the Infinera Intelligent Transport Network architecture is uniquely enabled to deliver improvements in these areas compared to competitive WDM systems. We also believe that our Intelligent Transport Networks enable Service Providers to deploy scalable, high-bandwidth, optical transport network solutions that accelerate service innovation and simplify optical network operations. 
+
+Strategy 
+
+Our goal is to be the preeminent provider of optical transport networking systems to Service Providers around the world. Key aspects of our strategy to achieve this goal are as follows: 
+
+&#8226; 
+
+Proliferating our broader base of technologies into our existing customers as well as obtaining new customers. We have introduced multiple purpose built products to allow us to serve adjacent markets and also better serve our existing markets. 
+
+&#8226; 
+
+Enhancing our existing product portfolio for the metro, DCI, long-haul and subsea markets. &#160; We are enhancing existing products and building new products for specific markets, including metro aggregation, DCI, long-haul and subsea. 
+
+&#8226; 
+
+Continuing commitment to provide world-class support services to our customers. We believe that our lead in customer experience capabilities is a major differentiator. &#32; Our global customer service and technical support team is committed to making our customers successful by providing the highest quality support services to deploy, operate and maintain their networks. 
+
+&#8226; 
+
+Maintaining and extending our technology lead. We intend to continually invest in key technologies such as our FlexCoherent processor, various forms of the PIC, application specific integrated circuits ("ASICs"), software and other key technology differentiators. We plan to incorporate the functionality of additional discrete functions into our PICs, and overall vertically integrated design, in order to continue to increase our technology lead. In addition, we intend to pursue the expansion of our digital and packet switching and bandwidth management capabilities in order to enhance the performance, scalability and economic advantages of our products. 
+
+&#8226; 
+
+Continuing investment in vertically integrated manufacturing activities. We believe that our vertical integration and manufacturing capabilities serve as competitive advantages from a technology, supply chain and financial perspective, and we plan to continue to invest in our next-generation PIC technologies. 
+
+&#8226; 
+
+Investing in Network Management System and SDN. &#32; We believe that we lead the industry in ease of use facilitated through our Infinera Management System suite of software products. We continue to invest in our software products, including adding new capabilities such as Infinera Instant Bandwidth control and extending the system across our entire portfolio with a goal of achieving end-to-end service provisioning and management. We are also seeing a trend in which Service Providers are looking for more programmable networks and we have added application programming interfaces to the Infinera Intelligent Transport Network architecture so they can be used by Service Providers to build more agile networks that can deliver competitive services. 
+
+Customers 
+
+Our customers include: 
+
+&#8226; 
+
+Tier-1 carriers for domestic and international networks; 
+
+&#8226; 
+
+Tier-2 and Tier-3 carriers; 
+
+&#8226; 
+
+ICP and cloud operators; 
+
+&#8226; 
+
+wholesale and enterprise carriers; 
+
+&#8226; 
+
+multiple system operators/cable companies; and 
+
+&#8226; 
+
+research and education/government entities. 
+
+We sell our products both directly to customers who are end users, and utilize channel partners that sell on our behalf. We believe one of our strengths is the diversity of our customer base as we generate annual revenues from each of the verticals listed above, and have multiple customers within each vertical that have historically spent significantly on our solutions. We do not have long-term sales commitments from our customers. Two customers each accounted for over 10% of our revenue in 2015. These two customers accounted for 17% and 13%, respectively, of our revenue in 2015. One customer accounted for over 10% of our revenue in 2014. Revenue from this customer accounted for 19% of our revenue in 2014. No individual customer accounted for over 10% of our revenue in 2013. 
+
+Technology 
+
+Infinera Intelligent Transport Network Architecture 
+
+We were founded with a vision of enabling an infinite pool of intelligent bandwidth that the next communications infrastructure is built upon. We have focused our efforts, time and capital on developing multiple platforms based on our Intelligent Transport Network architecture, which enables Service Providers to create rich end-user experiences based on efficient, high-bandwidth transport by combining the following elements: 
+
+&#8226; 
+
+Scalability. &#32;The proliferation of data centers, rise of cloud computing, increasing consumption of video and growth in mobile access are fundamentally changing traffic characteristics in operator networks. The Infinera Intelligent Transport Network delivers 500Gbps FlexCoherent super-channels today and is designed to scale without compromise to enable terabit super-channels and terabit Ethernet in the future. 
+
+&#8226; 
+
+Convergence. Networks are growing in complexity with the proliferation of chassis, network layers and fiber interconnects. Complexity increases the time it takes to plan and deploy network services and increases the cost of maintenance, operation, power, space and cooling. By combining packet and OTN switching functions with WDM, the Infinera Intelligent Transport Network is designed to reduce complexity while lowering overall network operating costs without compromising performance. 
+
+&#8226; 
+
+Automation. &#32;Network operators face intensifying competition to meet customer demand for immediate bandwidth needs and better visibility into the network. The Infinera Intelligent Transport Network features intelligent software control and open SDN application programming interfaces (&#8220;APIs&#8221;) to help simplify multi-layer provisioning. Furthermore, our Infinera Instant Bandwidth offering enables our customers to benefit from a &#8220;pay as you grow&#8221; model by instantly provisioning additional capacity when it is needed. 
+
+Infinera Photonic Integrated Circuits 
+
+We believe that our proprietary PICs and FlexCoherent processor are key components of our value proposition and competitive advantage. We manufacture and package our PICs at our own facilities for use exclusively with our Infinera DTN, DTN-X XTC-series, DTN-X XT-series and Cloud Xpress platforms. Our PICs are purpose built for diverse network locations and applications. As a leader in photonic integration, we have protected the intellectual property associated with our PIC manufacturing through a combination of trade secrets, patents and contractual protections. We believe that as a result of the combination of the multiple disciplines that were required to develop our PIC, together with the intellectual property protections that we have established, it will be difficult for others to duplicate the technology we have developed. We believe that large-scale photonic integration, using indium phosphide, enables significantly improved manufacturing economics for optical networking, allowing future optical transport cost reductions to be viably sustained on a cost curve defined by volume manufacturing efficiencies, greater functional integration, increased device density and manufacturing yield enhancements. 
+
+Infinera FlexCoherent Processor 
+
+Optical transmission is based on a number of technologies, namely: phase modulation, polarization multiplexing, coherent detection and advanced digital signal processing. These &#8220;coherent technologies&#8221; are used by network operators to enable higher data capacities to be transmitted over their existing optical fiber infrastructure, typically using the same or better design rules than those used for the previous generation. We have integrated proprietary coherent technologies onto our FlexCoherent processor based on advanced electronics, which works in conjunction with our large-scale PICs based on advanced photonics, to construct a single module for exceptional optical transport performance. 
+
+Super-Channels 
+
+The Infinera DTN-X XTC-10, DTN-X XTC-4 and Cloud Xpress platforms support five channels of 100Gbps capacity in a single line card or unit depending on the platform form-factor. This 500Gbps pool of bandwidth is managed as a single super-channel that can be deployed in a single operational motion. Competitive solutions would require the installation of discrete line modules or units, which in some cases could be as high as five, each turned up with its own operational motion, in order to achieve the same system capacity. Super-channels result in competitive advantages in the areas of space and power consumption, leading to lower operational costs and long-term system reliability, as well as significant reductions in time to install and repair. 
+
+Integrated OTN Switching 
+
+OTN offers a highly-structured approach to service multiplexing and switching that enables customers to reduce operational costs and more efficiently utilize higher-capacity bandwidth in their networks. Historically, the OTN switching and WDM transport functions have been deployed by Service Providers in separate systems. Our unique PIC technology allows the Infinera DTN-X XTC-series platforms to fully integrate WDM transport and OTN switching capabilities in a single platform, without compromising overall system functionality or capacity. This results in an improved total cost of ownership for the customer. Further the integrated OTN switching capability along with GMPLS automation allows customers to deploy Fast Shared Mesh Protection, a new standards-based resiliency technique for networks to recover from local and network-wide multiple failures without the need to dedicate backup bandwidth for every active circuit. We implement this technology using a purpose built hardware acceleration chip included in every single card of the Infinera DTN-X XTC platform, ensuring a sub - 50 milliseconds recovery. 
+
+Infinera Instant Bandwidth 
+
+Infinera Instant Bandwidth enables Service Providers to license the 500Gbps super-channel pool of bandwidth in 100Gbps increments. With the Infinera Instant Bandwidth technology, which is available with the Infinera DTN-X XTC-10, DTN-X XTC-4 and Cloud Xpress platforms, Service Providers can instantly provision an additional 100Gbps of transmission capacity on demand without the deployment of any incremental equipment. The Infinera Instant Bandwidth technology is uniquely enabled by our super-channel capability and PICs. 
+
+Infinera Packet Optical Transport 
+
+Our packet optical technologies included in both the Infinera DTN-X XTC series and the TM-series platforms offer the right amount of packet and optical switching integrated into efficient packet optical platforms. This enables service providers to support Ethernet and Multi-Protocol Label Switching (&#8220;MPLS&#8221;) packet transport, aggregation and service functions directly within optical WDM layer. Operators can build highly efficient router interconnects and bandwidth engineering capabilities within the transport layer, without having to send the traffic to the router layer for transit. Our Intelligent Transport Networks not only enhance network efficiency but also provide scalable bandwidth and performance for revenue-yielding MEF certified Carrier Ethernet and MPLS packet services. 
+
+Products and Services 
+
+Our product portfolio consists of the Infinera DTN-X family of platforms, the Infinera DTN platform, the Infinera Cloud Xpress platform, the Infinera TM-Series, the Infinera TG-Series and the Infinera ATN platform addressing subsea, long-haul and metro networks end-to-end. The emerging DCI application is a subset of the long-haul and metro application. We also provide software solutions including the Infinera OTS and Infinera Management Suite to increase the efficiency and optimization of the network. 
+
+Product Portfolio 
+
+Infinera DTN-X Family of Platforms 
+
+The Infinera DTN-X family consists of the XTC-10, XTC-4, XTC-2/2E and the XT-500. With the exception of the XTC-2/2E, these platforms are built on the 500Gbps PIC technology that integrates more than 600 discrete photonic functions delivering the world&#8217;s first 500Gbps super-channel, based on 100Gbps per channel. The XTC-2/2E is designed for the metro and smaller capacity long haul networks and uses an optimized 100G PIC. The DTN-X family is powered by cutting-edge electronics delivered by our FlexCoherent processor and supports Infinera Instant Bandwidth technology, which helps operators closely match service revenue to network operating costs. 
+
+The Infinera DTN-X XTC series are multi-terabit packet optical transport platforms that integrate Ethernet and MPLS packet services with digital OTN switching and optical WDM transmission. The highest end XTC-10 platform provides fiber capacity of 9.5 Terabits per second ("Tbps") that is upgradeable to 25.6Tbps. The per-chassis capacity is 5Tbps today and is upgradable to 12Tbps per chassis and up to 260Tbps in a multi-bay configuration in the future. In most competitive solutions, network operators must make a choice between maximizing either the system&#8217;s transmission capacity or its switching capability. The Infinera XTC platforms combine switching with WDM transport without compromising the performance of either function. They support a broad range of Ethernet and OTN client interfaces for flexibility. The platforms are designed for subsea, long-haul, regional and metro mesh networks that require 100Gbps wavelengths. The XTC-4 supports 500 Gbps super-channels but is a half rack platform for more space constrained applications. The XTC-2/2E is the smallest platform designed for metro applications or lower capacity sites requiring 100Gbps dense WDM. 
+
+The Infinera DTN-X XT-500 is a compact platform that is just 2 rack units high with 500Gbps line-side capacity and a mix of 10/100GbE client interfaces. It provides high levels of reliability, low power consumption and operational simplicity. It integrates with the Infinera FlexILS line system and can be managed as a single node when combined with the XTC series. The platform is designed for long-haul networks that require 100Gbps wavelengths as well as long-haul DCI applications. 
+
+Infinera DTN Platform 
+
+The Infinera DTN platform is built on 100G PIC technology, integrating digital OTN switching with optical WDM transmission at 10Gbps wavelengths for a fiber capacity of 1.6Tbps and per-chassis capacity of 400Gbps. It supports a broad range of Ethernet and OTN client interfaces for flexibility. The platform is designed for subsea, long-haul and regional mesh networks that require 10Gbps wavelengths. 
+
+Infinera FlexILS Line System 
+
+The Infinera FlexILS line system platform connects various Infinera platforms over long distance fiber optic cable while providing switching, multiplexing, amplification and management channels. It supports up to 25.6Tbps of fiber capacity when used with the Infinera DTN-X platform. The platform supports a flexible grid architecture that enables more efficient use of the available optical spectrum. The modular super-channel FlexROADM component provides multi-degree optical switching and, when combined with other Infinera platforms featuring OTN and packet switching along with SDN and GMPLS based unified control plane, the solution provides multi-layer switching. Operators can now manage line-side capacity as a single pool of bandwidth for end-user client services ranging from 1Gbps up to 100Gbps. 
+
+Infinera TM-Series 
+
+The TM-Series carrier-grade packet-optical transport platform enables high performance metro networks with service-aware, application-specific capabilities. Supporting integrated packet-optical features, the TM-Series builds on key design philosophies such as low power, high density and high scalability. It offers advanced capabilities for 3G and 4G mobile infrastructure such as superior sync features for backhaul, WDM in cloud radio access network architecture and fronthaul. The platform supports the Intelligent WDM Passive Optical Network solution providing simple operations for Fiber to the X applications along with Intelligent SFPs for transparent delivery of SDH/SONET services over a packet-optical network. It provides error correction, OTN transport, Ethernet, MPLS-TP and optics, all on one packet optical transport switch module. It includes a fully backwards compatible terabit scale packet-optical transport switching with a rich set of MEF Carrier Ethernet 2.0 and MPLS-TP service options. The platform is designed for application-rich packet-optical metro and regional networks providing cable, mobile, broadband and business services that require 10Gbps and 100Gbps wavelengths. 
+
+Infinera TS-Series 
+
+The TG-Series is a family of passive optical WDM products. Designed for access applications, it fits in a wide range of applications from controlled environments in central offices to street cabinets or even underground enclosures such as manhole applications that require environmentally hardened products, such as fiber to the curb, fiber to the building and high-security access networks. The TG-Series is fully compatible and interoperable with the TM-Series. 
+
+Infinera Cloud Xpress Platform 
+
+The Infinera Cloud Xpress is a compact platform designed for DCI applications, built on the 500Gbps PIC technology with hyper-scale density, simplified operations and low power consumption. It provides 1Tbps of combined input and output capacity in just two rack units with flexible client interfaces of 10GbE, 40GbE and 100GbE. It is designed with a rack-and-stack form factor and a new software approach that enables it to easily plug into existing cloud provisioning systems using open SDN APIs, an approach similar to the server and storage infrastructure deployed in the cloud. 
+
+Infinera ATN Platform 
+
+The Infinera ATN is a small form-factor WDM platform for cost-effective add/drop and multi-service aggregation in metro networks supporting direct wavelength connectivity to the Infinera DTN platform. 
+
+Software and Services 
+
+Infinera Open Transport Switch 
+
+The Infinera OTS is a software platform that enables a high degree of abstraction and virtualization of the underlying Infinera platforms. The open and modular architecture of OTS allows it to easily integrate into a diverse array of customer applications through standard and secure APIs. OTS was purpose built with a modern IT mindset, and its lightweight approach and ability to rapidly innovate new features paves the way for operators to transform to a DevOps model of network development. The Hybrid Control Mode feature allows network operators to migrate to an SDN model without disturbing revenues from existing production services . 
+
+Infinera Management Suite 
+
+The Infinera Management Suite is a network management system used by network operators to manage all Infinera platforms in an integrated manner. The suite includes the Digital Node Administrator, a scalable, robust, feature-rich element management system, our Graphical Node Manager, an easy-to-use web-based management interface, our Network Planning System for offline graphical modeling, planning and configuration capabilities, and Transport Network Manager for TM-Series and TG-Series management. 
+
+Customer Support Services 
+
+In connection with our product offerings, we provide a comprehensive range of support services for all hardware and software products. These support services cover all phases of network ownership, from the initial installation through day-to-day maintenance activities and professional services. Our support services are designed to efficiently manage and maintain customer network operations in the face of today's ever-increasing demands for lower operational costs and minimized downtime. 
+
+Our support organization continues to scale and provide world-class services that successfully support customers in over 70 countries around the world. In addition, we continue to expand our services portfolio in order to meet the evolving needs of our customers. 
+
+Competition 
+
+Our current technologies and platforms support three transport equipment markets - long-haul/subsea, metro and DCI. 
+
+The optical transport networking equipment market for long-haul/subsea networks is highly competitive but has consolidated significantly over the last decade. The metro market is a highly competitive market that we entered in 2015 with the acquisition of Transmode and the introduction of the Infinera DTN-X XTC-2 and DTN-X XTC-2E. The metro cloud transport equipment market (also known as DCI) is a relatively new market that we expect to be highly competitive. Competition in the markets we serve is based on any one or a combination of the following factors: 
+
+&#8226; 
+
+price and other commercial terms; 
+
+&#8226; 
+
+functionality; 
+
+&#8226; 
+
+form factor or density; 
+
+&#8226; 
+
+power consumption; 
+
+&#8226; 
+
+heat dissipation; 
+
+&#8226; 
+
+customer qualification testing; 
+
+&#8226; 
+
+existing business and customer relationships; 
+
+&#8226; 
+
+the ability of products and services to meet customers&#8217; immediate and future network requirements; 
+
+&#8226; 
+
+installation and operation simplicity; 
+
+&#8226; 
+
+service and support; 
+
+&#8226; 
+
+scalability and investment protection; and 
+
+&#8226; 
+
+product lead times. 
+
+Competition in the optical transport equipment market is intense, and we expect such competition to increase. In the long-haul market, our main competitors include current WDM suppliers, such as Alcatel-Lucent (acquired by Nokia), Ciena, Coriant, Huawei and ZTE. In the metro market, we face the same competitors as in long-haul, plus Cisco, Adva, Arista and Fujitsu. In addition, there are also several smaller, but established, companies that offer one or more products that compete directly or indirectly with our offerings. In the DCI market, we believe we are one of the few companies shipping purpose built small form factor devices. Several other competitors including many named above have announced competing solutions that we expect to be shipping in 2016. In addition to the current competitors, other companies have, or may in the future develop, products that are or could be competitive with our products. In particular, if a competitor develops a photonic integrated circuit or another solution with similar and/or better functionality than our PICs, our business could be harmed. We also expect to encounter further consolidation in the markets in which we compete. Consolidation among our competitors could lead to a changing competitive landscape, capabilities and market share, which could harm our results of operations. 
+
+Some of our competitors have substantially greater name recognition and technical, financial and marketing resources along with better established relationships with service providers and other potential customers than we have. Many of our competitors have more resources and more experience in developing or acquiring new products and technologies and in creating market awareness for those products and technologies. In addition, many of our competitors have the financial resources to offer competitive products at aggressive pricing levels that could prevent us from competing effectively. Further, many of our competitors have built long-standing relationships with some of our prospective customers and have the ability to provide financing to customers and could, therefore, have an inherent advantage in selling products to those customers. 
+
+We also compete with low-cost producers from China, which can increase pricing pressure, and a number of smaller companies that provide competition for a specific product, customer segment or geographic market. These competitors often base their products on the latest commercially available technologies. Due to the narrower focus of their efforts, these competitors may achieve commercial availability of their products more quickly than we can and may provide attractive alternatives to our customers. 
+
+Sales and Marketing 
+
+We market and sell our products and related support services primarily through our direct sales force, supported by marketing and product management personnel. We also use distribution or support partners to enter new markets or when requested by a potential customer. Our sales team has significant previous experience with the buying process and sales cycles typical of high-value telecommunications products. We expect to continue to add sales and support employees as we grow our business. 
+
+The sales process for our products entails discussions with prospective customers, analyzing their networks and identifying how they can utilize our systems capabilities within their networks. This process requires developing strong customer relationships, and we expect to leverage our sales force and customer support capabilities to establish relationships with both domestic and international Service Providers. 
+
+Over the course of the sales cycle, Service Providers often test our products before buying. Prior to commercial deployment, the Service Provider will generally perform a field trial of our products. Upon successful completion, the Service Provider generally accepts the products installed in its network and may continue with commercial deployment of additional products. We anticipate that our sales cycle, from initial contact with a Service Provider through the signing of a purchase agreement, may, in some cases, take several quarters. 
+
+Direct Sales Force . Our sales team sells directly to Service Providers worldwide. We maintain a sales presence throughout the United States, as well as in a number of international locations, including Argentina, Belgium, China, France, Germany, Hong Kong, Italy, Japan, Netherlands, Singapore, South Africa, Spain, Sweden, Russia and the United Kingdom. We continued to expand our sales force in 2015 to address new geographical markets and to support the sales of our expanded portfolio of products. Going forward, the addition of incremental sales headcount is expected to be success-based and in support of new customer accounts. 
+
+Indirect Sales Force . We have and will continue to employ business consultants, resale partners and sales agents to assist in our sales efforts and to accelerate and strengthen our customer relationships. We expect to work with business partners to assist our customers in the sale, deployment and maintenance of our systems and have entered into distribution and resale agreements to facilitate the sale of our products. 
+
+Marketing and Product Management . Our product management team is responsible for defining the product features and development plan required to maximize our success in the marketplace. Product management supports our sales efforts with product and application expertise. Our marketing team works to create demand for our products by communicating our value proposition and differentiation through direct customer interaction, public relations, attendance at tradeshows and other events, as well as programs via the Internet and other marketing channels. 
+
+Research and Development 
+
+Continued investment in research and development is critical to our business. To this end, we have assembled a team of engineers with expertise in various fields, including systems, sub-systems, software and components. Our research and development efforts are currently focused in Sunnyvale, California; Allentown, Pennsylvania; Beijing, China; Bangalore, India; Kanata, Canada; and Stockholm, Sweden. We have invested significant time and financial resources into the development and enhancement of new and existing products. We will continue to expand our product offerings and the capabilities of existing products in the future and plan to dedicate significant resources to these continued research and development efforts. We are continually increasing the scalability and software features of our current platforms. We are also working to develop new generations of PICs, and we intend to enable further integration in the Infinera Intelligent Transport Network architecture through continued research and development. We believe that these efforts will continue to allow us to be competitive in the markets we currently serve but will allow us to address adjacent markets to fuel our future growth. 
+
+Our research and development expenses were $180.7 million , $133.5 million &#32;and $124.8 million &#32;in 2015, 2014 and 2013, respectively. 
+
+Employees 
+
+As of December 26, 2015, we had 2,056 employees. A total of 971 of those employees were located outside of the United States. None of our U.S. employees are subject to a collective bargaining agreement. Employees in certain foreign jurisdictions may be represented by local workers&#8217; councils and/or collective bargaining agreements, as may be customary or required in those jurisdictions. We have not experienced any work stoppages, and we consider our employee relationships to be good. 
+
+Manufacturing 
+
+We have invested significant time and capital to develop and improve the manufacturing process that we use to produce and package our products. This includes significant investments in personnel, equipment and the facilities needed to manufacture and package our products in Sunnyvale, California and Allentown, Pennsylvania. We also have invested in automating our manufacturing process and in training and maintaining the quality of our manufacturing workforce. As a leader in the development of photonic integration, our manufacturing processes have been developed over several years and are protected through a combination of trade secrets, patents and contractual protections. We believe that the investments we have made towards the manufacturing and packaging of our products provide us with a significant competitive advantage. We also believe that our current manufacturing facilities can accommodate an increase in production capacity as our business continues to grow. 
+
+&#160; We also use contract manufacturers to assemble portions of our products. Each contract manufacturer procures components necessary to assemble the products in our forecast according to our specifications and bills of material. Despite outsourcing certain manufacturing operations for cost-effective scale and flexibility, we perform rigorous in-house quality control testing to ensure the reliability of our products. Our supply chain risk mitigation strategies are continuous and are institutionalized in our supply chain design for external manufacturing and for procurement of components. We currently have four contract manufacturers in five different countries, China, Malaysia, Mexico, Sweden and Thailand, as well as the capability to redirect manufacturing to U.S. qualified factories of two electronic manufacturing services partners. 
+
+Backlog 
+
+As of December 26, 2015 and December 27, 2014, our total order backlog was approximately $87.1 million and $124.4 million, respectively. Our backlog is subject to future events that could cause the amount or timing of the related revenue to change, and, in certain cases, may be canceled without penalty. Orders in backlog may be fulfilled several quarters following receipt or may relate to multi-year support service obligations. As a result, we believe that backlog should not be viewed as an accurate indicator of future operating results for any particular period. A backlogged order may not result in revenue in a particular period, and the actual revenue may not be equal to our backlog amounts. Our presentation of backlog may not be comparable with that of other companies in our industry. 
+
+Intellectual Property 
+
+Our success as a company depends upon our ability to protect our core technology and intellectual property. To accomplish this, we rely on a combination of intellectual property rights, including patents, trade secrets, copyrights and trademarks, as well as customary contractual protections. 
+
+We rely primarily on trade secret protection for our PIC and PIC manufacturing processes, including design, fabrication and testing of our PICs. However, there can be no assurances that trade secrets will be sufficient to provide us with a competitive advantage or that others have not or will not reverse engineer our designs or discover, develop or disclose the same or similar designs and manufacturing processes. 
+
+As of December 26, 2015, we held 343 U.S. patents and 80 international patents expiring between 2021 and 2035, and held 128 U.S. and 46 foreign pending patent applications. We do not know whether any of our pending patent applications will result in the issuance of patents or whether the examination process will require us to narrow our claims. 
+
+We may not receive competitive advantages from the rights granted under our patents and other intellectual property. Any patents granted to us may be contested, circumvented or invalidated over the course of our business, and we may not be able to prevent third parties from infringing these patents. Therefore, the exact effect of the protection of these patents cannot be predicted with certainty. 
+
+We believe that the frequency of assertions of patent infringement is increasing as patent holders, including entities that are not in our industry and who purchase patents as an investment or to monetize such rights by obtaining royalties, use such actions as a competitive tactic as well as a source of additional revenue. For example, we were recently involved in litigation for alleged patent infringement that was adjudicated in our favor. See the section set forth in Item 3. "Legal Proceedings" for additional information regarding this lawsuit. Any claim of infringement from a third party, even those without merit, could cause us to incur substantial costs defending against such claims, and could distract our management from running our business. Furthermore, a party making such a claim, if successful, could secure a judgment that requires us to pay substantial damages. A judgment could also include an injunction or other court order that could prevent us from selling our products. In addition, we might be required to seek a license for the use of such intellectual property, which may not be available on commercially reasonable terms or at all. Alternatively, we may be required to develop non-infringing technology, which would require significant effort and expense and may ultimately not be successful. 
+
+In addition to trade secret and patent protections, we generally control access to and the use of our proprietary software and other confidential information. This protection is accomplished through a combination of internal and external controls, including contractual protections with employees, contractors, customers and partners, and through a combination of U.S. and international copyright laws. We incorporate a number of third party software programs into our products pursuant to license agreements. 
+
+We license some of our software pursuant to agreements that impose restrictions on our customers&#8217; ability to use such software, such as prohibiting reverse engineering and limiting the use of copies. We also seek to avoid disclosure of our intellectual property by relying on non-disclosure and assignment of intellectual property agreements with our employees and consultants that acknowledge our exclusive ownership of all intellectual property developed by the individual during the course of his or her work with us. The agreements also require that each person maintain the confidentiality of all proprietary information disclosed to them. Other parties may not comply with the terms of their agreements with us, and we may not be able to enforce our rights adequately against these parties. We also rely on contractual rights to establish and protect our proprietary rights in our products. 
+
+We incorporate open source software into our products. Although we monitor our use of open source software closely, the terms of many open source licenses have not been interpreted by U.S. courts, and there is a risk that such licenses could be construed in a manner that could impose unanticipated conditions or restrictions on our ability to commercialize our products. In such event, we could be required to seek licenses from third parties in order to continue offering our products, to re-engineer our products or to discontinue the sale of our products in the event re-engineering cannot be accomplished on a timely basis, any of which could adversely affect our business, operating results and financial condition. 
+
+Environmental Matters 
+
+We are committed to maintaining compliance with all environmental laws and regulations applicable to our operations, products and services. Our business and operations are subject to various federal, state, local and foreign laws and regulations that have been adopted with respect to the environment, including the Waste Electrical and Electronic Equipment (&#8220;WEEE&#8221;) Directive, Directive on the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (&#8220;RoHS&#8221;), and Registration, Evaluation, Authorization, and Restriction of Chemicals (&#8220;REACH&#8221;) regulations adopted by the European Union. Environmental regulation is increasing and we expect that our operations will be subject to additional environmental compliance requirements, which may expose us to additional costs. We are also subject to disclosure requirements related to the presence of "conflict minerals" in our products. To date, our compliance costs relating to environmental regulations have not resulted in a material adverse effect on our business, results of operations or financial condition. 
+
+Business Segment Data and Our Foreign Operations 
+
+We operate in the single industry segment of optical transport networking systems. Information concerning revenue, results of operations and revenue by geographic area is set forth in Item 7. &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; and in Note 17, &#8220;Segment Information,&#8221; of Notes to Consolidated Financial Statements, both of which are incorporated herein by reference. Information concerning identifiable assets is also set forth in Note 17, &#8220;Segment Information,&#8221; of Notes to Consolidated Financial Statements. Information on risks attendant to our foreign operations is set forth below in Item 1A. &#8220;Risk Factors.&#8221; 
+
+Executive Officers 
+
+Our executive officers and their ages and positions as of December 26, 2015, are set forth below: 
+
+Name 
+
+Age 
+
+&#160; 
+
+Position 
+
+Thomas J. Fallon 
+
+&#160; 
+
+Chief Executive Officer and Director 
+
+David F. Welch, Ph.D. 
+
+&#160; 
+
+Co-founder, President and Director 
+
+Brad Feller 
+
+&#160; 
+
+Chief Financial Officer 
+
+Robert J. Jandro 
+
+&#160; 
+
+Senior Vice President, Worldwide Sales 
+
+James L. Laufman 
+
+&#160; 
+
+Senior Vice President, General Counsel and Corporate Secretary 
+
+Thomas J. Fallon &#32;has served as our Chief Executive Officer since January 2010 and as a member of our board of directors since July 2009. Mr. Fallon also served as our President from January 2010 to June 2013, and as our Chief Operating Officer from October 2006 to December 2009. From April 2004 to September 2006, Mr. Fallon served as our Vice President of Engineering and Operations. From August 2003 to March 2004, Mr. 
+
+Fallon was Vice President, Corporate Quality and Development Operations at Cisco Systems, Inc., a networking and telecommunications company. From March 1991 to August 2003, Mr. Fallon served in a variety of functions at Cisco, including General Manager of the Optical Transport Business Unit and Vice President of Service Provider Manufacturing. Prior to joining Cisco, Mr. Fallon also served in various manufacturing roles at Sun Microsystems and Hewlett Packard. Mr. Fallon currently serves on one other public company board, Hercules Technology Growth Capital, Inc., a specialty finance company. Mr. Fallon also serves on the Engineering Advisory Board of the Cockrell School at the University of Texas. Mr. Fallon holds B.S.M.E. and M.B.A. degrees from the University of Texas at Austin. 
+
+David F. Welch, Ph.D. &#32;co-founded our company and has served as our President since June 2013 and as a member of our board of directors since October 2010. Dr. Welch has served as our Executive Vice President, Chief Strategy Officer from January 2004 to June 2013, as our Chief Development Officer/Chief Technology Officer from May 2001 to January 2005, as our Chief Marketing Officer from January 2005 to January 2009, and as a member of our board of directors from May 2001 to November 2006. Prior to joining us, Dr. Welch served in various executive roles, including as Chief Technology Officer of the Transmission Products Group of JDS Uniphase Corporation, an optical component company, and Chief Technology Officer and Vice President of Corporate Development of SDL Inc., an optical component company. Dr. Welch holds over 130 patents, and has been awarded the Optical Society of America's ("OSA") Adolph Lomb Medal, Joseph Fraunhofer Award, the John Tyndall Award and the IET JJ Thompson Medal for Achievement in Electronics, in recognition of his technical contributions to the optical industry. He is a Fellow of OSA and the Institute of Electrical and Electronics Engineers. Dr. Welch holds a B.S. in Electrical Engineering from the University of Delaware and a Ph.D. in Electrical Engineering from Cornell University. 
+
+Brad Feller &#32;was appointed as our Chief Financial Officer in March 2014 after joining us as Senior Vice President of Finance in January 2014. Prior to joining us, Mr. Feller served as Interim Chief Financial Officer of Marvell Technology Group Ltd., a fabless semiconductor company, from October 2012 to December 2013, and as Marvell's Vice President, Corporate Controller, from September 2008 to October 2012. Prior to Marvell, Mr. Feller served as Corporate Controller for Integrated Device Technology, Inc., a semiconductor company, from April 2005 to September 2008 and Financial Reporting Manager from October 2003 to April 2005. Prior to that, Mr. Feller served in various roles at Ernst &#38; Young LLP in the technology practice. Mr. Feller is a certified public accountant (inactive) in the State of California and holds a B.S. degree in Business Administration from San Jose State University. 
+
+Robert J. Jandro has served as our Senior Vice President, Worldwide Sales, since May 2013. Prior to joining us, Mr. Jandro served as Vice President of Business Development of Openwater Software, Inc., a big data and analytics cloud company, from January 2008 to August 2012. From February 2004 to November 2006, Mr. Jandro served as Chief Executive Officer and President of Nsite Software, Inc., an early cloud company acquired by Business Objects. From March 2000 to August 2002, Mr. Jandro served as Executive Vice President of Global Sales and Services for ONI Systems, an optical networking company. Prior to that, Mr. Jandro worked at Oracle where he last served as the Group Vice President of Oracle&#8217;s Communications and Utilities Industries. Mr. Jandro holds a Masters of Management degree from Northwestern University&#8217;s Kellogg Graduate School of Management and a B.S. in Business from the University of Missouri-St. Louis. 
+
+James L. Laufman &#32;has served as our Senior Vice President, General Counsel and Corporate Secretary since October 2014. Prior to joining us, Mr. Laufman served as Vice President and General Counsel of Marvell Semiconductor Inc. from October 2008 to October 2014. From September 1999 to October 2008. Mr. Laufman served as Vice President, General Counsel and Secretary of Integrated Device Technology, Inc. Prior to that, Mr. Laufman served as Senior Corporate Counsel for Quantum Corporation from January 1999 to September 1999. From November 1994 to December 1998, Mr. Laufman served as Vice President and General Counsel of Rohm Corporation. From December 1990 to November 1994, Mr. Laufman worked as an Associate Attorney at the Berliner Cohen and Popelka Allard law firms specializing in the litigation and resolution of commercial transaction matters. Mr. Laufman holds a B.S. in Business Administration, Finance (cum laude) from California State University, Chico and a J.D. from Santa Clara University School of Law. 
+
+Available Information 
+
+Our website address is http://www.infinera.com . Information contained on our website is not incorporated by reference into this Form 10-K unless expressly noted. We file reports with the Securities and Exchange Commission (&#8220;SEC&#8221;), which we make available on our website free of charge. These reports include 
+
+Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to such reports, each of which is provided on our website as soon as reasonably practicable after we electronically file such materials with or furnish them to the SEC. You can also read and copy any materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, N.E., Washington, DC 20549. You can obtain additional information about the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains a website ( http://www.sec.gov ) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including us. 
+

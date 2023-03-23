@@ -1,0 +1,302 @@
+ Item 1. BUSINESS 
+
+Overview. &#32;Teradata Corporation ("we," "us," "Teradata," or the "Company") is a global leader in analytic data solutions and related services. Our analytic data solutions comprise software, hardware, and related business consulting and support services for analytics across a company&#8217;s entire analytical ecosystem, which includes components such as data warehousing, big data, discovery tools, integration tools, and business intelligence tools as well as the services to architect, manage, and integrate this complex and ever changing ecosystem. We help customers access and manage data and extract business value and insight from their data. We also provide marketing and analytic applications that are designed to leverage data to help customers discover and exploit new insights such as: 
+
+&#8226; 
+
+improving organizations&#8217; effectiveness in marketing to their customers, 
+
+&#8226; 
+
+determining and maximizing customer and product profitability, 
+
+&#8226; 
+
+more accurately forecasting consumer demand, and 
+
+&#8226; 
+
+creating more predictable and less costly supply chains. 
+
+Our consulting services allow customers to maximize the use of and obtain great value from their analytics and marketing investments. Our services include a broad range of offerings including consulting to help organizations design, optimize and manage their analytic and big data environments, either on-premises or in the cloud. Our value-added consulting services provide expertise in: data architecture services, cloud ("software as a service", "analytics as a service"), private cloud, managed services, and related installation services. In addition to our consulting services, we offer a comprehensive set of support services. We serve customers around the world across a broad set of industries, including communications, ecommerce, financial services, government, gaming, healthcare, insurance, manufacturing, media and entertainment, oil and gas, retail, travel and transportation, and utilities - with offerings ranging from small departmental implementations to many of the world&#8217;s largest analytic data platforms and marketing applications. To meet evolving trends in information management, we provide our offerings on-premises or in the cloud (as a service). 
+
+Teradata operates from numerous locations within the United States with the primary locations being Dayton, Ohio; Johns Creek (Atlanta), Georgia; and Rancho Bernardo (San Diego), California. In addition, we have sales, services, research and development and administrative offices located in 44 countries. 
+
+For the full year ended December 31, 2015 , we had a net loss of $(214) million &#32;and total revenues of $2.530 billion , of which approximately 92% &#32;was derived from the data and analytics segment and 8% &#32;from the marketing applications segment (which included impairment charges of $ 478 million &#32;for goodwill and acquired intangible assets). For financial information about these segments and geographic information, see &#8220;Note 11&#8212;Segment, Other Supplemental Information and Concentrations&#8221; in the Notes to Consolidated Financial Statements elsewhere in this Annual Report. 
+
+History and Development. &#32;Teradata was formed in 1979 as a Delaware corporation. Teradata established a relational database management system on a proprietary platform in 1984. In 1990, Teradata partnered with NCR Corporation (&#8220;NCR&#8221;) to jointly develop next-generation database systems. In 1991, AT&#38;T Corp. ("AT&#38;T") acquired NCR and, later that year, NCR purchased Teradata. 
+
+In 1996, AT&#38;T spun off NCR (including Teradata) to form the independent, publicly-traded NCR Corporation. In 1999, NCR consolidated its Teradata data warehousing operations and product offerings into a separate operating division. On September 30, 2007, the independent, publicly-traded Teradata Corporation (NYSE: TDC) was created when NCR was effectively separated into two independent, publicly-traded companies through the distribution of 100% of its Teradata data warehousing business to shareholders of NCR. 
+
+Since that time, we have increased our investments and focus to extend the scope of our business to include a full range of analytic data platforms and marketing applications. Teradata completed its acquisitions of Aprimo, Inc. (&#8220;Aprimo&#8221;), a global provider of cloud-based integrated marketing software, and Aster Data Systems, Inc. (&#8220;Aster Data&#8221;), a technology leader in big data analytics, in 2011. Additionally, Teradata has completed a number of smaller acquisitions to complement and extend our data warehousing, big data analytics, marketing applications and consulting businesses. 
+
+As we have reviewed our business opportunities, we have concluded that it is in the best interest of the Company and our shareholders to focus Teradata on our core data and analytics business and to exit most of our marketing applications business. We are currently in the process of exiting this business. The portion of the business to be retained will be managed under the data and analytics operating segment. 
+
+Industry Overview 
+
+Our revenues are primarily generated from data and analytics, and we expect that the need for analytic data solutions will continue to grow as organizations increasingly rely on data and analytics to compete and achieve a differentiated advantage. The multi-billion dollar addressable markets in which our solutions compete include data warehousing and big data analytics software and hardware, as well as consulting and maintenance services. 
+
+The need for analytic data solutions is further driven by the convergence of the following key market dynamics we have observed: 
+
+&#8226; 
+
+Significant data growth is being driven by new types of data, such as big data and the Internet of Things; examples include machine-generated data, sensor data, data from connected devices, social network data, internet text and search indexing, call detail records, genomics, biological research, medical records, seismic/exploration data, photography and video archives, and large scale e-commerce data; 
+
+&#8226; 
+
+Analytics are growing in importance &#32; as global businesses seek new means to drive business value from the ever-increasing amounts and types of data; 
+
+&#8226; 
+
+Globalization, mobility, consolidation, security concerns, fraud prevention, and increased government regulations are creating the need for enhanced visibility across the entire enterprise at all times; 
+
+&#8226; 
+
+Intense global competition is driving companies to increasingly adopt analytic data technologies to address the vast complexity inherent in their markets and businesses; 
+
+&#8226; 
+
+Business representatives, rather than IT or procurement personnel, now have increased relevance in analytical ecosystem purchase decisions; 
+
+&#8226; 
+
+An evolving IT landscape &#32; and purchasing activity &#32; is being driven by increased usage of open-source software, cloud-based offerings, software-only analytic solutions and commodity hardware; 
+
+&#8226; 
+
+Analytic environments are becoming more complex to design and manage, as there are increasing types of analytic tools and techniques, multiple data management systems, varying service level requirements, and the growth and volume of data; 
+
+&#8226; 
+
+Improved analytic data platform affordability due to price/performance gains on server, disk, and memory hardware as well as open source software, and more consumption-based usage and pricing, such as cloud deployment and subscription pricing; and 
+
+&#8226; 
+
+Demand for value-added services is growing as customers seek help with evolving their analytic architectures, rapidly deploying their analytic architectural solutions, and increasingly look to purchase analytic capabilities &#8220;as a service". 
+
+Our Solutions 
+
+Teradata Unified Data Architecture&#8482; &#32;is a comprehensive framework that enables organizations to address all types of data and analytics. This architecture combines the complementary value of technologies from Teradata, Teradata Aster, and a range of open source and non-Teradata technologies into a cohesive and orchestrated analytical ecosystem that accelerates our customers&#8217; ability to use and derive value from all of their data. 
+
+Data and Analytics solutions to capture, integrate, store, manage, and analyze all types of data to answer business questions and exploit data for insight and value. Our solutions cover what the industry refers to as data warehousing and big data analytics and related services. Customers use our technologies and related services to acquire data from multiple sources, define the relationship between the data elements, manage and analyze this data both historically and in real-time to gain business insights and drive operational actions to front line users, customers and partners. Big data analytics describe analytic environments with significant data volume, variety, velocity and complexity. We help companies manage and analyze big data that typically has unknown relationships where fast analytic iteration and new analytic tools are required to discover new insights for the business. 
+
+We also offer a suite of analytic applications that deliver value by analyzing data and allowing it to be used across an enterprise. Some of the areas covered by these applications include demand forecasting, finance and performance management, profitability analytics, and data mining. 
+
+Marketing Applications . Through our marketing applications business, we offer fully integrated marketing management solutions to help organizations drive business impact and win customer loyalty. Our integrated marketing applications are offered in the cloud as software as a service or on-premises. These offerings are designed to help customers implement their data-driven marketing strategies, including solutions for marketing operations, campaign management, digital marketing, marketing analytics, and customer data management. However, as previously noted, we are exiting most of this business to focus on our core data and analytics business. 
+
+Our Products and Services. We are a single-source provider of analytic data platforms with a fully integrated business that includes market-leading technologies and customer-focused professionals. Our products are optimized and integrated specifically for data analytics and analytic applications, including our database and application software, workload-specific hardware platforms, and related consulting and support services. 
+
+Our software and hardware products include: 
+
+&#8226; 
+
+Teradata Database Software -Our Teradata &#174; &#32;Database software combined with our massively parallel processing hardware architecture provides the foundation for our unique ability to support and manage a wide range of mixed workloads and analytic data functions. Our Teradata Database software is designed to deliver near real-time intelligence for our customers with capabilities and features such as: support of short running operational queries and long running strategic queries (mixed workloads), the ability to handle thousands of concurrent queries from thousands of concurrent users, simple to very complex queries, robust workload management, high system availability, system health monitoring, automatic support escalation and easy integration into the enterprise. Our database software includes Teradata Intelligent Memory, which keeps the most frequently used data in memory for cost-effective, rapid query processing. We also offer license subscriptions that provide our customers with when-and-if-available upgrades and enhancements to our database software. We also offer industry-specific logical data models which are pre-defined, easy-to-follow blueprints that reflect data relationships that are tailored to the specific needs of a particular industry. 
+
+&#8226; 
+
+Teradata Workload-Specific Platforms -Our platform products are purpose-built to provide an analytic data platform that is used for all types of data-capturing, staging, storing, archiving, and refining - and all types of uses - from fully-integrated warehouses, departmental data marts, discovery, archiving and disaster recovery. Key software products include the Teradata Database, Teradata Aster database and Hadoop&#174; (leveraging the Hortonworks and Cloudera Hadoop distributions). For the hardware component of our solutions, Teradata integrates and optimizes industry standard hardware components to create highly-available, massively-scalable solution stacks. We utilize industry-standard Intel &#174; &#32;multi-core processors, along with industry-standard storage offerings, that are designed to provide seamless, transparent scalability. Each platform comes ready to run for a distinct need, from basic analysis to integrated big data analytics, to data warehousing. Teradata&#8217;s workload-specific platforms are designed to allow customers to meet their specific workload needs at various and most appropriate price points. These platforms are available both on-premises or via a cloud delivery model. 
+
+&#8226; 
+
+Teradata Aster Analytics Discovery Platform -Our big data analytics discovery platform is pre-configured with our powerful Teradata Aster Database, which features our patented SQL-MapReduce &#174; &#32;framework and fully-supported Teradata hardware. It includes the Teradata Aster SQL-GR &#8482; &#32;analytic engine for graph analysis across big data sets. Our discovery platform is designed for rapid exploration and discovery from a wide variety of data types and analytic functions to generate differentiated business value. 
+
+&#8226; 
+
+Teradata Portfolio for Hadoop -Teradata supports a suite of products, tools and services for our customers to deploy Hadoop into their analytical environment. The portfolio includes an enterprise Hadoop distribution, fully-integrated appliances, tools for system management, tools for data wrangling, lineage and archiving, and consulting and support services. 
+
+&#8226; 
+
+Teradata QueryGrid -Intelligent orchestration layer software that provides seamless and transparent access to analytics across diverse processing engines in an analytical ecosystem. It provides access to data and analytics to any user in the company, using existing tools, without requiring specialized skills and tools. &#32;Orchestrating and balancing processes across the ecosystem minimizes data movement and data duplication, helping companies get maximum value from their IT assets. 
+
+&#8226; 
+
+Teradata Marketing Applications -Our fully-integrated marketing applications help organizations manage marketing workflows, budget allocation, leads, analytics, and digital assets. Designed to automate the planning and creation of timely, relevant and individualized campaigns for end-users, the applications are offered on-premises and as software as a service in the cloud. 
+
+Our service offerings include: 
+
+&#8226; 
+
+Teradata Business Consulting Services -We offer services to identify and prioritize customer&#8217;s analytic needs to support their corporate strategy. Our business consultants are trusted advisors of our customers, have extensive industry expertise and hands-on experience to help our customers quickly recognize business value. Our consultants provide analytic data platform business impact modeling, analytic architecture roadmaps, analytic maturity assessments, solution planning and services to optimize all of a customer&#8217;s data. These 
+
+business consultants work closely with our technology and implementation services to help plan and implement a complete project for the customer. 
+
+&#8226; 
+
+Teradata Technology and Implementation Services -We offer services to deliver a solution that drives business value via a disciplined analysis of conceptual, logical and physical architectural design choices. Our consultants provide architecture services, migration, upgrade, implementation, optimization, and expansion services for the full enterprise analytical ecosystem with deep expertise in data integration and data management, business intelligence, open source analytic platforms and Teradata. We provide both onshore and offshore consulting resources to address customer requirements. Our Global Delivery Centers around the world are staffed with professionals trained in our proven solutions methodologies, and supplement local consulting teams by utilizing the accumulated wealth of our global knowledge base. 
+
+&#8226; 
+
+Teradata Cloud Services -We offer our products as cloud services to our customers, including our marketing applications, Teradata Database, Teradata Aster Database, and Hadoop. Our cloud services provide customers the flexibility to access Teradata solutions on demand in a secure environment with pay-as-you go pricing options. 
+
+&#8226; 
+
+Teradata Managed Services -We offer our customers the option of using skilled Teradata personnel for data integration, data warehouse, discovery, Hadoop and business intelligence environments from a single source. These services range from monitoring and managing day-to-day analytics operations to helping improve processes for greater productivity and efficiency. 
+
+&#8226; 
+
+Teradata Customer Support Services -Our customer services organization provides an experienced, single point of contact and delivery for the deployment, support and ongoing management of Teradata analytic data platforms and applications around the world. Our customer support service offers both proactive and reactive services, including installation, maintenance, monitoring, back-up, and recovery services to allow customers to maximize availability and better leverage the value of their investments in Teradata solutions. They assist customers 24x7x365 for both on-site and remote support. 
+
+&#8226; 
+
+Training Services -To enhance the value of their investment, we provide our customers with training to help them get the most value from their Teradata analytic data platforms and marketing and analytical applications. These are offered via a variety of delivery formats from web-based to hands-on classroom course to suit customers&#8217; needs. 
+
+&#8226; 
+
+Teradata Marketing Services &#32;-We have consultants with extensive marketing applications knowledge to design and implement our marketing applications. We also offer services to help customers develop their marketing strategy and to professionally manage customers' communications and execute marketing campaigns with their customers. 
+
+Our Strategy. Teradata empowers data-driven companies to achieve competitive advantage and win in their markets by exploiting data for insight and value. With Teradata&#8217;s industry-leading analytic data solutions, marketing applications and proven consulting experience and expertise, companies can become more competitive by leveraging insights from data to, among other things, increase revenue, improve marketing effectiveness, drive innovation, enhance customer relationships, improve business processes, and reduce costs. 
+
+Our strategy is centered on providing the world&#8217;s best data solutions to drive competitive advantage for our customers, by focusing on these following critical areas: 
+
+&#8226; 
+
+Deliver our solutions on-premises or via the cloud (as a service), offering customers choice in how they deploy a Teradata analytics environment and leverage the power of our solutions. These flexible delivery options are designed to extend our market opportunity. 
+
+&#8226; 
+
+Expand our analytical ecosystem offerings, including our big data portfolio, that helps organizations architect, integrate data into, and manage their analytic environment. We also focus on enhancing and extending value-added services, including big data consulting, ecosystem architecture consulting and managed services across customers' complex analytical ecosystems. 
+
+&#8226; 
+
+Building analytic solutions and providing consulting that creates actionable insights &#32; and/or automates decisions that deliver high impact return on investment, by packaging replicable analytical use cases, based on learnings from our top customers, many of whom are the leaders and innovators in analytics. 
+
+&#8226; 
+
+Optimize our go-to-market approach to improve effectiveness in demand creation and address new and expanded market opportunities, such as with our cloud offerings. 
+
+&#8226; 
+
+Continue investing in partnerships to increase the number of solutions available on Teradata platforms, maximize customer value, and increase our market coverage. 
+
+We believe that these strategic areas will best position us to be our customers&#8217; trusted advisor and partner of choice for architecting, implementing, and managing their analytic solutions. 
+
+Customers. We focus our sales efforts on both business and technology buyers at leading companies across a broad set of industries, including banking/financial services, communications (including telecommunications, e-business, and media and entertainment), energy, government, insurance and healthcare, manufacturing, oil and gas, retail, travel and transportation logistics, and utilities. These industries provide a good fit for our analytic data solutions, as they tend to have large and growing data volumes, and expanding sources of data, complex data management requirements, or large and varied groups of users. We also have many marketing applications customers of various sizes in many industries. Many of these customers leverage our software-as-a-service offerings. 
+
+The extent to which any given customer contributes to our revenues generally varies significantly from year to year and quarter to quarter. Therefore, a customer with a large order in one quarter is likely to generate additional revenue for Teradata in subsequent periods as we provide support services and additional capacity as their analytical ecosystem evolves and grows to meet their business requirements. For the year ended December 31, 2015, our top ten customers collectively accounted for approximately 14% of our total revenues. Moreover, Teradata&#8217;s revenue can vary considerably from period to period given the different growth and purchasing patterns of our existing customers&#8217; data warehouse systems, discovery platforms and data management platforms as well as the variable timing of new customer orders. Due to the size and complexity of these transactions (purchases), the sales cycle for a new analytic data platform is often fairly long (typically more than a year). Our results in any particular quarter have generally been dependent on our ability to generate a relatively small number of large orders for that quarter. We believe that our market and revenue generation potential remain strong, as existing customers continue to invest in and grow the size and scope of their analytical ecosystems due to growth in the number of users, amounts of data, new types of data including big data, and types and complexity of workloads, queries and analytics. 
+
+Partners, Marketing and Distribution Channels 
+
+Strategic Partnerships. We seek to leverage our sales and marketing reach by partnering with leading global and regional systems integrators, independent software vendors, Hadoop distributors, and consultants, which we believe complement our analytic data platforms and marketing applications. 
+
+&#8226; 
+
+Alliance Partners -Strategic partnerships are a key factor in our ability to leverage the value and expand the scope of our analytic data platforms and marketing applications in the marketplace. Our partner program is focused on working collaboratively with independent software vendors in several areas critical to our analytic data platforms, including tools, data and application integration solutions, data mining, analytics, business intelligence, specific horizontal and industry solutions, and those that help integrate digital marketing across multiple solutions and vendors. Our goal is to provide choices to our customers with partner offerings that are optimized and certified with our solutions, and fit within the customer&#8217;s environment. Our strategic alliance partners include many leaders in the business intelligence, data acquisition, advanced analytics, big data, Hadoop and marketing applications markets. 
+
+&#8226; 
+
+Systems Integrators -Teradata works with a range of consultants and systems integrators that engage in the design, implementation and integration of analytic data platforms and marketing and analytic applications for our joint clients. Our strategic partnerships with select global consulting and systems integration firms provide broad industry and technology expertise in the design of business solutions that leverage Teradata technology to enable enterprise analytics and operational intelligence. In general, these partners are trusted advisors who assist in vision and strategy development with our customers while objectively assessing and meeting their needs. Our strategic global consulting and systems integration partners include Accenture, Capgemini, Cognizant Technology Solutions, Deloitte, IBM Global Business Services, and Wipro Limited. 
+
+Sales and Marketing. We primarily sell and market our data and analytics and marketing applications solutions through a direct sales force. We believe our quota-carrying sales force increases our visibility and penetration in the marketplace and fosters long-term customer relationships and additional product sales. We have approximately 80% of our employees in customer-facing and/or revenue driving roles (including sales, consulting and customer service, and product engineering). 
+
+We support our sales force with marketing and training programs which are designed to grow awareness, highlighting our technology leadership and differentiation in the market, create demand for our products and services, educate the sales force to build skills and knowledge, as well as provide a robust set of tools for use by our direct sales force. In support of growing awareness of the need for analytic data solutions and integrated marketing applications, and Teradata solutions specifically, we employ a broad range of marketing strategies including programs to inform and educate customers and prospects, the media, industry analysts, academics and other third-party influencers. These strategies include targeted direct marketing, our global website, webinars, trade shows and conferences, public and media relations and social media. 
+
+We believe that promoting customer success and return on investment is an important element of our success. As a result, we have developed an active program to support and leverage customer references and testimonials/success stories. 
+
+Resellers and Distributors. Although the majority of our sales are direct, in limited situations to extend our sales coverage, we also market and sell our products through third-party channels, including resellers and distributors. We have a small number of licensed resellers, and have license and distribution agreements with independent distributors in several countries worldwide. The distribution agreements generally provide for the right to offer our products within a territory. Our distributors generally maintain sales and services personnel dedicated to our products. 
+
+Sources of Materials. Our hardware components are assembled and configured by Flextronics International Ltd. (&#8220;Flextronics&#8221;). Our platform line is designed to leverage the components from industry leaders. Our data storage devices and memory components utilize industry-standard technologies, but are selected and configured to work optimally with our software and hardware platform. Flextronics also procures a wide variety of components used in the assembly process on our behalf. Although many of these components are available from multiple sources, Teradata utilizes preferred supplier relationships to better ensure more consistent quality, cost and delivery. Typically, these preferred suppliers maintain alternative processes and/or facilities to ensure business continuity of supply. Given our strategy to outsource product assembly activities to Flextronics and to source certain components from single suppliers, a disruption in production at Flextronics or at a supplier, or a global shortage of components, could impact the timing or profitability of customer shipments. 
+
+Competition. We compete in a large and growing market that is attractive to both legacy and new competitors. Our competition includes new analytics services companies, cloud vendors and open-source providers, as well as large traditional competitors, such as IBM and Oracle. We believe our proven architecture for both structured and unstructured data, integrated solutions with high-performing and scalable technology, deep and broad consulting and support services capabilities, strong customer relationships, and our successful track record will collectively enable us to continue to compete successfully. We also compete successfully in the marketplace with our Unified Data Architecture, bringing together our leading software, hardware and related services with open source offerings. For more information, see Item 1A, Risk Factors, elsewhere in this Annual Report. 
+
+Competitors take different technical and integration approaches to addressing data analytic needs, and therefore they often recommend a different architecture than we do. We believe that our customers recognize the advantages of our technologies and our approach as described above. 
+
+Our Data Warehouse platform technology is designed to scale with customer growth needs and support the coexistence of multiple generations of nodes in a single environment, thus protecting the customer&#8217;s prior investments. Because our Teradata workload-specific platform family also includes data warehousing and big data &#32; discovery appliances, we believe we have the right platform for any analytical architecture need and any data type, both structured and unstructured, which makes our analytic data platforms and solutions particularly attractive to customers and enables us to successfully compete in the marketplace. 
+
+Key factors used to evaluate competitors in these markets include: data analytics experience; customer references; technology leadership; product quality; performance, scalability, availability and manageability; support and consulting services capabilities; management of technologies in a complex analytical ecosystem; industry knowledge; and total cost of ownership. We believe we have a competitive advantage in providing complete, integrated, and optimized analytic data platforms and analytic services that address customers&#8217; business, technical and architecture requirements. Our differentiation is especially strong with customers that have mission critical, complex, large scale environments. 
+
+Many companies participate in adjacent areas of the analytics market, such as enterprise analytic and business intelligence application software. The status of our business relationships with these companies can influence our ability to compete. Our products also complement offerings of some of our competitors, with whom we have formed partnerships to work with their business intelligence and application software businesses. Examples of these companies include both IBM and Oracle, due to their acquisitions of other business intelligence, consulting and application software companies in recent years. In the marketing applications marketplace, we also see competition from companies like IBM, Adobe, Oracle, Salesforce.com and SAS, along with a variety of niche providers whose offerings overlap to a greater or lesser degree with our own. 
+
+Seasonality. Historically our sales are somewhat seasonal, in line with capital spending patterns of our customers, with lower revenue typically in the first quarter and higher revenue generally in the fourth quarter of each year. Such seasonality causes our working capital cash flow requirements to vary from quarter to quarter depending on the variability in the volume, timing and mix of product sales. Typically, cash provided by operating activities is higher in the first half of the year due to the higher receivable balances at December 31 and the increase in deferred revenue resulting from the timing of annual renewals of our postcontract customer support agreements. In addition, revenue in the third month of each quarter has historically been significantly higher than in the first and second months. These factors, among others as more fully described in Item 1A, Risk Factors, elsewhere in this Annual Report, make forecasting more difficult and may adversely affect our ability to accurately predict financial results. 
+
+Research and Development (&#8220;R&#38;D&#8221;). We remain focused on designing and developing products, services and solutions for analytic data platforms that anticipate our customers&#8217; evolving technological and delivery needs. As we seek improvements in our products and services, we also consider our customers&#8217; current needs as we design our new technology so that new generations of the Teradata database software and operating platforms are compatible with prior generations of our technology. We believe our extensive R&#38;D workforce is one of our core strengths. The global R&#38;D team is located in multiple facilities around the world to take advantage of global engineering talent. We anticipate that we will continue to have significant R&#38;D expenditures, which may include complementary strategic acquisitions, in order to help support the flow of innovative, high-quality products, services and applications, which is vital to our leading competitive position. For information regarding the accounting and costs included in R&#38;D activities see &#8220;Note 1-Description of Business, Basis of Presentation and Significant Accounting Policies&#8221; in the Notes to Consolidated Financial Statements elsewhere in this Annual Report. 
+
+Intellectual Property and Technology. The Company owns 700 patents in the United States, one of which is part of the marketing applications business, and 48 patents in foreign countries. The foreign patents are generally counterparts of the Company&#8217;s U.S. patents. Many of the patents that we own are licensed to others, and we are licensed to use certain patents owned by others. While our portfolio of patents and patent applications in aggregate is of significant value to our Company, we do not believe that any particular individual patent is by itself of material importance to our business as a whole. 
+
+In addition, the Company owns copyrights and trade secrets in its vast code base which makes up all of the Teradata software products including analytic data platforms and marketing applications. Teradata&#8217;s software products reflect the investment of hundreds of person-years of development work. 
+
+The source code versions of our products are protected as trade secrets and, in all major markets, as unpublished copyright works. We also protect our rights in all of our software products and related intellectual property; however, there can be no assurance that these measures will be successful. The Company owns the Teradata &#174; , Aprimo &#174; , and Aster &#174; &#32;trademarks, which are registered in the United States and in many foreign countries, as well as other trade names, service marks, and trademarks. 
+
+Employees. As of December 31, 2015, we had approximately 11,300 employees globally. We believe that our future success will depend, in part, on our ability to continue to attract, hire and retain skilled and experienced personnel. 
+
+Properties and Facilities. Our corporate headquarters is located in Dayton, Ohio, although our Johns Creek (Atlanta), Georgia; and Rancho Bernardo (San Diego), California facilities are also primary locations (within the United States). As of December 31, 2015 , we operated 121 facilities in 44 countries throughout the world. We own our Rancho Bernardo research and development complex, while all of our other facilities are leased. 
+
+Executive Officers of the Registrant. The following table and biographies sets forth information as of February 26, 2016 &#32;regarding the individuals who are serving as our executive officers. &#32; Name 
+
+Age 
+
+Position(s) 
+
+Michael Koehler 
+
+President and Chief Executive Officer 
+
+Saundra Davis 
+
+Chief Human Resource Officer 
+
+John Dinning 
+
+Chief Transformation Officer 
+
+Robert Fair 
+
+Chief Operating Officer 
+
+Dan Harrington 
+
+Executive Vice President, International Region and Global Services 
+
+Rick Morton 
+
+President, Americas Region 
+
+Laura Nyquist 
+
+General Counsel and Secretary 
+
+Oliver Ratzesberger 
+
+President, Teradata Labs 
+
+Stephen Scheppmann 
+
+Executive Vice President and Chief Financial Officer 
+
+Michael Koehler . &#32;Mr. Koehler is the President and Chief Executive Officer of Teradata and has served in this role since 2007. Previously, Mr. Koehler served as Senior Vice President, Teradata Division of NCR from 2003 to 2007. From 2002 until 2003, he was the Interim Teradata Division Leader, Teradata Division. From 1999 to 2002, Mr. Koehler was Vice President, Global Field Operations, Teradata Division, and held management positions of increasingly greater responsibility at NCR prior to that time. He joined our board in August 2007 and also serves as a director of Hertz Global Holdings, Inc., a publicly-traded company, and its subsidiary, Hertz Corporation, a leading rental car and equipment provider. 
+
+Saundra Davis . &#32;Saundra Davis is Teradata&#8217;s Chief Human Resource Officer and has served in this role since joining Teradata in 2007. Ms. Davis served as Vice President, Human Resources, Teradata Division of NCR from 2004 to 2007. Prior to this position, Ms. Davis served as Vice President, Human Resources, Corporate Infrastructure, at NCR in 2003. Ms. Davis joined NCR in 1985 and held a number of positions of increasing responsibility in human resources during her career there. 
+
+John Dinning. As of February 2016, John Dinning is the Company&#8217;s Chief Transformation Officer with responsibility for leading Teradata&#8217;s business transformation team. Since 2012, he has led the Company&#8217;s data and analytics product management and product marketing functions, adding responsibility for cloud operations in June 2015. In his previous role as vice president of corporate development, from 2007 to 2012, Mr. Dinning was responsible for Teradata&#8217;s overall corporate strategy and mergers and acquisitions. Prior to that, he was vice president, horizontal solutions and global alliances from 2005 to 2007, which included the marketing and business development around Teradata&#8217;s customer management, finance and performance management, and demand and supply chain solutions, as well as, leadership of Teradata&#8217;s global alliances organization. Dinning joined Teradata in 2000 as a result of the acquisition of campaign management start-up Ceres Integration Solutions where he was responsible for marketing, product management, and software quality engineering. 
+
+Robert Fair . &#32;Robert Fair is the Chief Operating Officer of the Company and from February 2015 to December 2015, was Co-President of Teradata and head of the Teradata Marketing Applications Division, with responsibility for the marketing applications business, including its planned divestiture, as well as Corporate Marketing, Corporate Operations, and IT Services. Prior to that time, since December 2012, Mr. Fair was Executive Vice President and Chief Marketing and Information Officer for Teradata. He served as Executive Vice President, Global Field Operations of Teradata from 2007 to 2012. From April 2003 to September 2007, Mr. Fair served as Vice President, Business Development and Global Marketing, Teradata Division of NCR. From 2000 to 2003, he was Vice 
+
+President, Americas Communications Industry, Teradata Division. Mr. Fair began his career at NCR in 1984 and held a number of positions of increasing responsibility in the areas of sales, consulting services and marketing before joining Teradata. 
+
+Dan Harrington. &#32; Mr. Harrington is the Executive Vice President, International Region and Global Services, and has served as head of Teradata&#8217;s entire global services organization including both consulting and support services since 2012 with added responsibility for the International sales region since June 2015. Previously, Mr. Harrington served as Executive Vice President, Technology and Support Services of Teradata from 2007 to 2012. He served as Vice President, Customer Services, Teradata Division of NCR, from 2005 until 2007. From 1999 to 2004, he was Vice President, Northern Europe, Teradata Division with responsibility for Europe sales. Mr. Harrington joined NCR in 1985 and held a number of positions of increasing responsibility in the areas of sales, marketing and product management before he joined Teradata. 
+
+Rick Morton. &#32;Rick Morton is President, Americas Region for Teradata, a position he has held since November 2015. From 2013 until that time, he &#32; held a global sales operations role in which he assisted with various Teradata strategic sales force initiatives. From 2006 to 2012, he served as Vice President of the Financial Services industry organization. Prior to 2006, Mr. Morton was a Solution Vice President where he was responsible for the sales and services business in the central region of the United States. He was appointed as the Vice President of the National Accounts Division for the Teradata Division of NCR in 2002. Mr. Morton began his career with NCR in 1983 as a project manager and progressed through a number of professional services and sales management roles during his tenure with the company. 
+
+Laura Nyquist . &#32;Laura Nyquist is the General Counsel and Secretary of Teradata and has served in this role since joining Teradata in 2007. Ms. Nyquist served as Deputy General Counsel and Chief Counsel, Business Counsel Group, NCR, from 2006 to 2007. Prior to this position, Ms. Nyquist was Chief Counsel, Financial Solutions Division from 2004 to 2006, and was Vice President, Corporate Affairs, and Secretary to the Board of Directors of NCR from 1999 to 2004. Ms. Nyquist joined NCR in 1986 and held a number of positions of increasing responsibility at NCR prior to joining Teradata. 
+
+Oliver Ratzesberger. Oliver Ratzesberger was appointed President, Teradata Labs in June 2015 with responsibility for the research and development of the Company&#8217;s data and analytics solutions. Prior to that time, he led the software teams for Teradata Labs. Before joining Teradata in 2013, he spent seven years at eBay Inc . &#32;where he was responsible for its data warehouse and big data platforms. Before joining eBay, Mr. Ratzesberger worked for startups in software development and information technology, and from 1996 to 2004, he held various positions in data warehousing and professional services for NCR. 
+
+Stephen Scheppmann. &#32;Stephen Scheppmann has served as Executive Vice President and Chief Financial Officer of Teradata since September 2007. He served as Executive Vice President and Chief Financial Officer of Per-Se Technologies, Inc., a leading provider of administrative healthcare industry services, from 2006 until 2007, following the completion of that company&#8217;s acquisition. From 2000 to 2006, Mr. Scheppmann served as Executive Vice President and Chief Financial Officer for NOVA Information Systems, Inc., and, from 1988 to 2000, he was Senior Vice President and Chief Financial Officer of Larson-Juhl, Inc. From January 2006 until June 2012, Mr. Scheppmann served as a member of the Board of Directors of eResearch Technology, Inc. and as chairman of its Audit Committee from April 2006 until June 2012. 
+
+There are no family relationships between any of the executive officers or directors of Teradata. 
+
+There are no contractual obligations regarding the election of our executive officers or directors. 
+
+Information. &#32;Teradata makes available through its website, free of charge, its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and all amendments to such reports, as soon as reasonably practicable after these reports are electronically filed or furnished to the U.S. Securities and Exchange Commission (&#8220;SEC&#8221;) pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the &#8220;Exchange Act&#8221;). These reports and other information are also available, free of charge, at www.sec.gov . Alternatively, the public may read and copy any materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. Information on the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. Teradata will furnish, without charge to a security holder upon written request, 
+
+the Notice of Meeting and Proxy Statement for the 2016 Annual Meeting of Stockholders. Teradata will furnish the Code of Conduct and any other exhibit at cost (the Code of Conduct is also available through Teradata&#8217;s website at http://www.teradata.com/code-of-conduct/). Document requests are available by calling or writing to: 
+
+Teradata - Shareholder Relations 
+
+10000 Innovation Drive 
+
+Dayton, OH 45342 
+
+Phone: 937-242-4878 
+
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;Website: http://www.teradata.com 
+

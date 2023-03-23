@@ -1,0 +1,426 @@
+ Item 1. Business 
+
+We incorporated in 1985 under the laws of the state of California. In 1991, we reincorporated in the state of Delaware. We operate and report using a 52-53 week fiscal year ending on the last Sunday in September. Our 52-week fiscal years consist of four equal fiscal quarters of 13 weeks each, and our 53-week fiscal years consist of three 13-week fiscal quarters and one 14-week fiscal quarter. The financial results for our 53-week fiscal years and our 14-week fiscal quarters will not be exactly comparable to our 52-week fiscal years and our 13-week fiscal quarters. The fiscal years ended September 25, 2016 , September 27, 2015 &#32;and September 28, 2014 &#32;included 52 weeks. 
+
+Overview 
+
+We led the development and continue to be a leader in the commercialization of a digital communication technology called CDMA (Code Division Multiple Access), and we also continue as a leader in the development and commercialization of the OFDMA (Orthogonal Frequency Division Multiple Access) family of technologies, including LTE (Long Term Evolution), an OFDM (Orthogonal Frequency Division Multiplexing) -based standard that uses OFDMA and single-carrier FDMA (Frequency Division Multiple Access), for cellular wireless communication applications. We own significant intellectual property applicable to products that implement any version of CDMA and OFDMA, including patents, patent applications and trade secrets. The mobile communications industry generally recognizes that a company seeking to develop, manufacture and/or sell products that use CDMA- and/or LTE-based standards will require a patent license from us. CDMA and OFDMA are two of the main technologies currently used in digital wireless communications networks (also known as wireless networks). Based on wireless connections, CDMA, OFDMA and TDMA (Time Division Multiple Access, of which GSM (Global System for Mobile Communications) is the primary commercial form) are the primary digital technologies currently used to transmit a wireless device user&#8217;s voice or data over radio waves using a public cellular wireless network. 
+
+We also develop and commercialize numerous other key technologies used in handsets and tablets that contribute to end-user demand, and we own substantial intellectual property related to these technologies. Some of these were contributed to and are being commercialized as industry standards, such as certain video codec, audio codec, wireless LAN (local area network), memory interfaces, wireless power, GPS (global positioning system) and positioning, broadcast and streaming protocols, and short range communication functionalities, including NFC (near field communication) and Bluetooth. Other technologies widely used by wireless devices that we have developed are not related to any industry standards, such as operating systems, user interfaces, graphics and camera processing functionality, integrated circuit packaging techniques, RF (radio frequency) and antenna design, sensors and sensor fusion algorithms, power and thermal management techniques and application processor architectures. Our patents cover a wide range of technologies across the entire wireless system, including the device (such as handsets and tablets) and not just what is embodied in the chipsets. 
+
+In addition to licensing portions of our intellectual property portfolio, which includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products, we design, manufacture, have manufactured on our 
+
+&#32;4 
+
+behalf and market products and services based on CDMA, OFDMA and other digital communications technologies. Our products principally consist of integrated circuits (also known as chips or chipsets) and system software used in mobile devices, wireless networks, broadband gateway equipment and consumer electronic devices. We also sell other products and services, which include, among others: wireless medical devices and software products and services designed for health care companies; engineering services; and products designed for the implementation of small cells. In addition, we continue to invest in new and expanded product areas, such as radio frequency front-end (RFFE), and in adjacent industry segments, such as automotive, Internet of Things (IoT), data center, networking, mobile computing, the connected home, smart cities, mobile health, machine learning, including robotics and wearables, among others. 
+
+Industry Trends 
+
+The mobile industry has experienced tremendous growth over the past 20 plus years, growing from less than 60 million global connections in 1994 (WCIS+, October 2016) to approximately 7.4 billion global connections in September 2016 (GSMA Intelligence, October 2016). As the largest technology platform in the world, mobile has made peoples&#8217; lives more connected, transforming the way we interact with one another and with the world. The scale and pace of innovation in mobile, especially around connectivity and computing capabilities, is also impacting industries beyond wireless. 
+
+Extending connectivity. 3G/4G (third generation/fourth generation) multimode mobile broadband technology has been a key driver of the growth of mobile, providing users with fast, reliable, always-on connectivity. As of September 2016, there were approximately 4.0 billion 3G/4G connections globally (CDMA-based, OFDMA-based and CDMA/OFDMA multimode) representing nearly 54% of total mobile connections. By 2020, global 3G/4G connections are projected to reach 6.4 billion, with more than 80% of these connections coming from emerging regions (GSMA Intelligence, October 2016). 
+
+3G/4G multimode mobile broadband has also emerged as an important platform for extending the reach and potential of the Internet. In 2010, the number of broadband connections using mobile technology surpassed those using fixed technologies, making mobile networks the primary method of access to the Internet for many people around the world. The impact is further amplified in emerging regions, where 3G/4G connections are approximately six times the number of fixed Internet connections (GSMA Intelligence and WBIS, October 2016). In China, 3G/4G LTE multimode services have experienced strong adoption since being launched in the fourth quarter of calendar 2013, with more than 655 million connections reported as of September 2016 (GSMA Intelligence, October 2016). In India, mobile operators are rolling out 3G/4G LTE multimode services, providing consumers with the benefits of advanced mobile broadband connectivity while creating new opportunities for device manufacturers and other members of the mobile ecosystem. 3G/4G mobile broadband may be the first and, in many cases, the only way that people in these regions access the Internet. 
+
+Looking ahead, the wireless industry is actively developing and standardizing 5G (fifth generation) technology, which is the next generation of wireless technology expected to be commercially deployed starting in 2019. While the 5G standard is still being defined, it is expected to provide a unified connectivity network for all spectrum and service types based on OFDM technology. 5G is expected to support faster data rates and wider bandwidths of spectrum. Incorporating many of the innovations developed for 4G, 5G is also expected to be scalable and adaptable across a variety of use cases, which include, among others: enabling new industries and services, such as autonomous vehicles and remote medical procedures, through ultra-reliable, ultra-low latency communication links; and connecting a significant number of &#8220;things&#8221; (also known as the Internet of Things or IoT), such as consumer electronics, including wearables, appliances, sensors and medical devices, with connectivity designed to meet ultra-low power, complexity and cost requirements. 5G is also expected to enhance mobile broadband services, including ultra-high definition (4K) video streaming and virtual reality, with multi-gigabit speeds. 
+
+Most 5G devices are expected to include multimode support for 3G, 4G and Wi-Fi, enabling service continuity where 5G has yet to be deployed and simultaneous connectivity across 4G and Wi-Fi technologies, while also allowing mobile operators to utilize current network deployments. At the same time, 4G will continue to evolve in parallel with the development of 5G and is expected to pioneer many of the key 5G technologies, such as support for unlicensed spectrum and gigabit LTE user data rates. The first phase of 5G networks are expected to support mobile broadband services both in lower spectrum bands below 6 Ghz as well as higher bands above 6 GHz, including millimeter wave (mmWave). 
+
+Growth in smartphones. Smartphone adoption continues to expand globally, fueled by 3G/4G LTE multimode connectivity, powerful application processors and advanced multimedia and location awareness capabilities, among others. In 2015, more than 1.4 billion smartphones shipped globally, representing a year-over-year increase of approximately 14%, and cumulative shipments of smartphones between 2016 and 2020 are projected to reach approximately 8.3 billion (Gartner, September 2016). Most of this growth is happening in emerging regions, where smartphones accounted for approximately 70% of handset shipments in 2015 and are expected to reach approximately 92% in 2020 (Gartner, September 2016). Growth in smartphones has not only been driven by the success of premium-tier devices, but also by the number of affordable 
+
+&#32;5 
+
+handsets that are fueling shipments in emerging regions and the variety of flexible and affordable data plans being offered by mobile operators. 
+
+Consumer demand for new types of experiences enabled by 3G/4G LTE connectivity, combined with the needs of mobile operators and device manufacturers to provide differentiated features and services, is driving continued innovation within the smartphone. This innovation is happening across multiple technology dimensions, including connectivity, computing, camera, audio, video, display, location, sensors and security. As a result, the smartphone has, in many ways, become the go-to device for social networking, music, gaming, email and web browsing, among others. It is also replacing many traditional consumer electronics devices due to advanced capabilities, including digital cameras, video cameras, Global Positioning System (GPS) units and music players, combined with an always on and connected mobile platform. 
+
+Expansion into new adjacent opportunities. A number of industries beyond mobile are leveraging technology innovations found in smartphones to bring advanced connectivity and computing capabilities to a broad array of end-devices and access points, which make up the &#8220;edge&#8221; of the network. With billions of connected devices projected to be added to the Internet over the coming years, enhancing the capabilities and performance at the edge of the network will be vital to improving its scalability as it enters this new phase of growth. These enhancements are helping to transform industry segments, including networking, automotive, mobile computing and the IoT, and enabling companies to create new products and services. 
+
+The proliferation of intelligently connected things is also enabling new types of user experiences, as smartphones are able to interact with and control more of the things around us. Through the addition of embedded sensors, connected things are able to collect and send data about their environment, providing users with contextually relevant information and further increasing their utility and value. 
+
+Wireless Technologies 
+
+The growth in the use of wireless devices worldwide, such as smartphones and tablets, and the demand for data services and applications requires continuous innovation to further improve the user experience, enable new services, increase network capacity, make use of different frequency bands and enable dense network deployments. To meet these requirements, different wireless communications technologies continue to evolve. For nearly three decades, we have invested and continue to invest heavily in research and development of cellular wireless communication technologies, including CDMA and OFDMA. As a result, we have developed and acquired (and continue to develop and acquire) significant related intellectual property. This intellectual property has been incorporated into the most widely accepted and deployed cellular wireless communications technology standards, and we have licensed it to more than 330 licensees, including leading wireless device and infrastructure manufacturers. Relevant cellular wireless technologies can be grouped into the following categories. 
+
+TDMA-based. TDMA-based technologies are characterized by their access method allowing several users to share the same frequency channel by dividing the signal into different time slots. Most of these systems are classified as 2G (second generation) technology. The main examples of TDMA-based technologies are GSM (deployed worldwide), IS-136 (deployed in the Americas) and Personal Digital Cellular (PDC) (deployed in Japan). 
+
+To date, GSM has been more widely adopted than CDMA-based standards; however, CDMA technologies are the basis for all 3G wireless systems. According to GSMA Intelligence estimates as of September 30, 2016, there were approximately 3.4 billion GSM connections worldwide, representing approximately 46% of total cellular connections. The transition of wireless devices from 2G to 3G/4G continued around the world with 3G/4G connections up 18% year-over-year (GSMA Intelligence, October 2016). 
+
+CDMA-based. CDMA-based technologies are characterized by their access method allowing several users to share the same frequency and time by allocating different orthogonal codes to individual users. Most of the CDMA-based technologies are classified as 3G technology. 
+
+There are a number of variants of CDMA-based technologies deployed around the world, in particular CDMA2000, EV-DO (Evolution Data Optimized), WCDMA (Wideband CDMA) and TD-SCDMA (Time Division-Synchronous CDMA) (deployed exclusively in China). CDMA-based technologies provide vastly improved capacity for voice and low-rate data services as compared to analog technologies and significant improvements over TDMA-based technologies such as GSM. To date, these technologies have seen many revisions, and they continue to evolve. New features continue to be defined in the 3rd Generation Partnership Project (3GPP). The following are the CDMA-based technologies and their standards revisions: 
+
+&#8226; 
+
+CDMA2000 revisions A through E 
+
+&#8226; 
+
+1xEV-DO revisions A through C 
+
+&#32;6 
+
+&#8226; 
+
+WCDMA/HSPA releases 4 through 13 
+
+&#8226; 
+
+TD-SCDMA releases 4 through 12 
+
+CDMA technologies ushered in a significant increase in broadband data services that continue to grow globally. According to GSMA Intelligence estimates as of October 2016, there were approximately 2.5 billion CDMA-based connections worldwide, representing approximately 33% of total cellular connections. 
+
+OFDMA-based. OFDMA-based technologies are characterized by their access method allowing several users to share the same frequency band and time by allocating different subcarriers to individual users. Most of the OFDMA-based technologies to be deployed through 2016 are classified as 4G technology. It is expected that 5G will heavily leverage OFDM-based technologies. We continue to play a significant role in the development of LTE and LTE Advanced, which are the predominant 4G technologies currently in use, and their evolution to LTE Advanced Pro. 
+
+LTE is incorporated in 3GPP specifications starting from release 8 and uses OFDMA in the downlink and single carrier FDMA (SC-FDMA) in the uplink. LTE has two modes, FDD (frequency division duplex) and TDD (time division duplex), to support paired and unpaired spectrum, respectively, and is being developed by 3GPP. The principal benefit of LTE is its ability to leverage a wide range of spectrum (bandwidths of 10 MHz or more). LTE is designed to seamlessly interwork with 3G through 3G/4G multimode devices. Most LTE devices rely on 3G for voice services across the network, as well as for ubiquitous data services outside the LTE coverage area and on 4G for data services inside the LTE coverage area. LTE&#8217;s voice solution, VoLTE (voice over LTE), is being commercially deployed in a growing number of networks. 
+
+Carrier aggregation, one of the significant improvements of LTE Advanced, was commercially launched in June 2013 and continues to evolve to aggregate additional carriers in the uplink as well as the downlink. Along with carrier aggregation, LTE Advanced brings many more enhancements, including advanced antenna techniques and optimization for small cells. Apart from improving the performance of existing networks, these releases also bring new enhancements under the umbrella of LTE Advanced Pro, such as LTE Direct for proximity-based device-to-device discovery, improved LTE broadcast, optimizations of narrowband communications designed for IoT (known as NB-IoT) and the ability to use LTE Advanced in unlicensed spectrum (LTE Unlicensed). There will be multiple options for deploying LTE Unlicensed for different deployment scenarios. 
+
+&#8226; 
+
+LTE-U, which relies on an LTE control carrier based on 3GPP Release 12, uses carrier aggregation to combine unlicensed and licensed spectrum and will be used in early mobile operator deployments in countries such as the United States, Korea and India. 
+
+&#8226; 
+
+Licensed Assisted Access (LAA), introduced as part of 3GPP Release 13, also aggregates unlicensed and licensed spectrum. 
+
+&#8226; 
+
+MulteFire operates solely in unlicensed spectrum without a licensed anchor control channel. 
+
+There also have been ongoing efforts to make the interworking between LTE and Wi-Fi more seamless and completely transparent to the users. The seamless interworking is also intended to enable the device to use the best possible link or links depending on conditions of the LTE and Wi-Fi links as the applications run on devices. Further integration is achieved with LTE+Wi-Fi link Aggregation (LWA), which will utilize existing and new carrier Wi-Fi deployments. 
+
+LTE releases are often combined and given &#8220;marketing&#8221; or &#8220;trade&#8221; names that also indicate their benefits. The name LTE covers releases 8 and 9. Releases 10 and beyond are referred to as LTE Advanced. According to GSMA Intelligence estimates as of September 30, 2016, there were approximately 1.5 billion global 3G/4G multimode connections worldwide, representing approximately 21% of total cellular connections. 
+
+According to the Global mobile Suppliers Association (GSA), as of October 2016, more than 770 wireless operators have commercially deployed or started testing LTE. In addition, LTE Advanced standards featuring carrier aggregation have begun to be deployed. As of October 2016, 212 operators were investing in LTE Advanced carrier aggregation across 88 countries, and 166 operators have launched commercially in 76 countries (GSA, October 2016). 
+
+As we look forward, the wireless industry is actively building the next generation of cellular technologies under the name 5G in 3GPP. While 5G is still being defined, it is expected that 5G will transform the role of wireless technologies and incorporate advancements on 3G/4G features available today, including further enhanced mobile broadband services, device-to-device capabilities and use of both licensed and unlicensed spectrum and connectivity of a significant number of things. 5G is also expected to include operation in emerging higher frequency bands such as those in the millimeter wave range to significantly increase the data rate offered to users. Furthermore, 5G is expected to offer techniques that will enable the expansion of cellular networks into new vertical product segments and define a radio link with much higher levels of reliability for control of vehicles and machines. This development, which builds on the various 3G and 4G features 
+
+&#32;7 
+
+addressing IoT, will further sustain the trend of enabling cellular connectivity to non-handset categories of devices. We continue to play a significant role in driving 5G from standardization to commercialization, including contributing to 3GPP standardization activities to define the 5G standard and collaborating with industry participants on 5G demonstrations and trials to prepare for commercial network launches. 
+
+Other (non-cellular) wireless technologies. There are other, non-cellular wireless technologies that have also been broadly adopted. 
+
+Wireless Local Area Networks. Wireless local area networks (WLAN), such as Wi-Fi, link two or more nearby devices wirelessly and usually provide connectivity through an access point. Wi-Fi systems are based on standards developed by the Institute of Electrical and Electronics Engineers (IEEE) in the 802.11 family of standards. 802.11ac, which includes advanced features such as multiple user multiple in/multiple out (MU MIMO) and support for large bandwidths and higher order modulation, primarily targets broadband connectivity for mobile devices, laptops and consumer electronics devices using 5 GHz spectrum. 802.11ad provides multi-gigabit data rates for short range communication using 60 GHz spectrum. 802.11ah, which is still under development and targets sub-1 GHz spectrum, is envisioned to be a solution for &#8220;connected home&#8221; applications that require long battery life. We played a leading role in the development of 802.11ac, 802.11ad and 802.11ah, and we are actively involved in the development of 802.11ax, which is an evolution from 802.11ac and will cover both the 2.4GHz and 5GHz unlicensed bands. 
+
+Bluetooth. Bluetooth is a wireless personal area network that provides wireless connectivity between devices over short distances ranging from a few centimeters to a few meters. Bluetooth technology provides wireless connectivity to a wide range of fixed or mobile consumer electronics devices. Bluetooth functionalities are standardized by the Bluetooth Special Interest Group in various versions of the specification (from 1.0 to 4.0), which include different functionalities, such as enhanced data rate or low energy (known as Bluetooth Smart). In August 2015, we acquired CSR plc, a leading contributor to Bluetooth evolution in the areas of mobile devices, HID (human interface device), A/V (audio/video) and Smart Mesh technologies. 
+
+Location Positioning Technologies. Location positioning technologies have evolved rapidly in the industry over the past few years in order to deliver an enhanced location experience. In the past, satellite navigation systems were predominantly used to provide the accurate location of mobile devices. We were a key developer of the Assisted-GPS (A-GPS) positioning technology used in most cellular handsets today. For uses requiring the best accuracy for E911 services and navigational based services, A-GPS provided a leading-edge solution. 
+
+The industry has now evolved to support additional inputs for improving the location experience. We now support multiple constellations, including GPS, GLONASS (Global Navigation Satellite System) and BeiDou; terrestrial-based positioning using WWAN (Wireless Wide Area Network) and Wi-Fi-based inputs; Wi-Fi RSSI (received signal strength indication) and RTT (round-trip time) signals for indoor location; and third-party sensors combined with GNSS (Global Navigation Satellite System) measurements to provide interim support for location-based services in rural areas and indoors, where other signal inputs may not be available. 
+
+Other Significant Technologies used in Cellular and Certain Consumer Electronic Devices and Networks 
+
+We have played a leading role in developing many of the other technologies used in cellular and certain consumer electronic devices and networks, including: 
+
+&#8226; 
+
+graphics and display processing functionality; 
+
+&#8226; 
+
+video coding based on HEVC (High Efficiency Video Codec) standard, which will be deployed to support 4K video content; 
+
+&#8226; 
+
+audio coding, including EVS (Enhanced Voice Services); 
+
+&#8226; 
+
+the latest version of 3GPP&#8217;s codec for multimedia use and for voice/speech use, which is being deployed commercially; 
+
+&#8226; 
+
+camera and camcorder functions; 
+
+&#8226; 
+
+system user and interface features; 
+
+&#8226; 
+
+security and content protection systems; 
+
+&#8226; 
+
+volatile (LP-DDR2, 3, 4) and non-volatile (eMMC) memory and related controllers; and 
+
+&#8226; 
+
+power management systems. 
+
+&#32;8 
+
+Operating Segments 
+
+We conduct business primarily through two reportable segments, QCT (Qualcomm CDMA Technologies) and QTL (Qualcomm Technology Licensing), and our QSI (Qualcomm Strategic Initiatives) reportable segment makes strategic investments. Revenues in fiscal 2016 , 2015 &#32;and 2014 &#32;for our reportable segments were as follows (in millions, except percentage data): 
+
+&#160; 
+
+QCT 
+
+&#160; 
+
+QTL 
+
+&#160; 
+
+QSI 
+
+$ 
+
+15,409 
+
+&#160; 
+
+$ 
+
+7,664 
+
+&#160; 
+
+$ 
+
+As a percent of total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+$ 
+
+17,154 
+
+&#160; 
+
+$ 
+
+7,947 
+
+&#160; 
+
+$ 
+
+As a percent of total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+$ 
+
+18,665 
+
+&#160; 
+
+$ 
+
+7,569 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+As a percent of total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+QCT Segment. &#32;QCT is a leading developer and supplier of integrated circuits and system software based on CDMA, OFDMA and other technologies for use in wireless voice and data communications, networking, application processing, multimedia and global positioning system products. QCT&#8217;s integrated circuit products are sold, and its system software is licensed, to manufacturers that use our products in mobile phones, tablets, laptops, data modules, handheld wireless computers and gaming devices, access points and routers, data cards and infrastructure equipment, broadband gateway equipment and other consumer electronics. Our Mobile Station Modem (MSM) integrated circuits, which include the Mobile Data Modem, Qualcomm Single Chip and Qualcomm Snapdragon processors and LTE modems, perform the core baseband modem functionality in wireless devices providing voice and data communications, as well as multimedia applications and global positioning functions. In addition, our Snapdragon processors provide advanced application and graphics processing capabilities. Because of our experience in designing and developing CDMA- and OFDMA-based products, we design both the baseband integrated circuit and the supporting system as well, including the RF (Radio Frequency), PM (Power Management) and wireless connectivity integrated circuits. This approach enables us to optimize the performance of the wireless device with improved product features and integration with the network system. Our portfolio of RF products includes QFE (Qualcomm Front End) radio frequency front-end components that are designed to simplify the RF design for LTE multimode, multiband mobile devices, reduce power consumption and improve radio performance. QCT&#8217;s system software enables the other device components to interface with the integrated circuit products and is the foundation software enabling manufacturers to develop devices utilizing the functionality within the integrated circuits. We also provide support, including reference designs and tools, to assist our customers in reducing the time required to design their products and bring their products to market. We plan to add additional features and capabilities to our integrated circuit products to help our customers reduce the cost and size of their products, to simplify our customers&#8217; design processes and to support more wireless devices and services. 
+
+QCT offers a broad portfolio of products, including both wireless device and infrastructure integrated circuits, in support of CDMA2000 1X and 1xEV-DO, as well as the EV-DO Revision A/B evolutions of CDMA 2000 technology. Leveraging our expertise in CDMA, we also develop and offer integrated circuits supporting the WCDMA version of 3G for manufacturers of wireless devices. More than 80 device manufacturers have selected our WCDMA products that support GSM/GPRS, WCDMA, HSDPA (High-Speed Downlink Packet Access), HSUPA (High-Speed Uplink Packet Access) and HSPA+ for their devices. QCT also sells multimode products for the LTE standard, which are designed to support seamless backward compatibility to existing 3G technologies. Our integrated circuit products are included in a broad range of devices, from low-tier, entry-level devices for emerging regions, which may use our Qualcomm Reference Design (QRD) products, to premium-tier devices. In fiscal 2016 , QCT shipped approximately 842 million &#32;MSM integrated circuits for wireless devices worldwide, compared to approximately 932 million &#32;and 861 million &#32;in fiscal 2015 &#32;and 2014 , respectively. 
+
+Our modems are built to work with increasingly complex networks. They support the latest communication technologies and adapt to network conditions and user needs in real time to enable delivery of faster, smoother data and voice connections. Our 3G/4G modem roadmap delivers the latest network technologies across multiple product tiers and devices. This roadmap is the result of our years of research into emerging network standards and the development of chipsets that take advantage of these new standards, while maintaining backward compatibility with existing standards. 
+
+Each Snapdragon processor is a highly integrated, mobile optimized system on a chip incorporating our advanced technologies, including a Snapdragon modem for fast reliable mobile broadband connectivity, a high performance central processing unit (CPU), digital signal processor (DSP), graphics processing unit (GPU), image signal processor, multimedia subsystems, including high fidelity audio, high-definition video and advanced imaging capabilities, our hardware-based suite 
+
+&#32;9 
+
+of Qualcomm Haven Security Solutions, and accurate location positioning engines. Our CPU cores are designed to deliver high levels of compute performance at low power, allowing manufacturers to design powerful, slim and power-efficient devices. Our Qualcomm Adreno GPUs are also designed to deliver high quality graphics performance for visually rich 3D gaming and user interfaces. The heterogeneous compute architecture of our Snapdragon processors is designed to help ensure that the CPU, DSP and GPU work efficiently together, each being utilized only when needed, which enhances the processing capacity, speed and efficiency of our Snapdragon processors and the battery life of devices using our processors. 
+
+Our wireless products also consist of integrated circuits and system software for WLAN, Bluetooth, Bluetooth Smart, frequency modulation (FM) and near field communications as well as technologies that support location data and services, including GPS, GLONASS and BeiDou. Our WLAN, Bluetooth and FM products have been integrated with the Snapdragon processors to provide additional connectivity for mobile phones, tablets and consumer electronics. QCT also offers standalone WLAN, Bluetooth, Bluetooth Smart, applications processor and Ethernet products for mobile devices, consumer electronics, computers, automotive infotainment, IoT applications and other connected devices. Our networking products include WLAN, Powerline and Ethernet chips, network processors and software. These products help enable home and business networks to support the growing number of connected devices, digital media, data services and other smart home applications. 
+
+QCT currently utilizes a fabless production model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Integrated circuits are die cut from silicon wafers that have completed the package assembly and test manufacturing processes. The semiconductor package supports the electrical contacts that connect the integrated circuit to a circuit board. Die cut from silicon wafers are the essential components of all of our integrated circuits and a significant portion of the total integrated circuit cost. We employ both turnkey and two-stage manufacturing models to purchase our integrated circuits. Under the turnkey model, our foundry suppliers are responsible for delivering fully assembled and tested integrated circuits. Under the two-stage manufacturing model, we purchase die in singular or wafer form from semiconductor manufacturing foundries and contract with separate third-party suppliers for manufacturing services such as wafer bump, probe, assembly and final test. 
+
+We rely on independent third-party suppliers to perform the manufacturing and assembly, and most of the testing, of our integrated circuits based primarily on our proprietary designs and test programs. Our suppliers also are responsible for the procurement of most of the raw materials used in the production of our integrated circuits. The primary foundry suppliers for our various digital, analog/mixed-signal, RF and PM integrated circuits are Global Foundries Inc., Samsung Electronics Co. Ltd., Semiconductor Manufacturing International Corporation, Taiwan Semiconductor Manufacturing Company and United Microelectronics Corporation. The primary semiconductor assembly and test suppliers are Advanced Semiconductor Engineering, Amkor Technology, Siliconware Precision Industries and STATSChipPAC. The majority of our foundry and semiconductor assembly and test suppliers are located in the Asia-Pacific region. 
+
+QCT&#8217;s sales are primarily made through standard purchase orders for delivery of products. QCT generally allows customers to reschedule delivery dates within a defined time frame and to cancel orders prior to shipment with or without payment of a penalty, depending on when the order is canceled. The industry in which QCT operates is intensely competitive. QCT competes worldwide with a number of United States and international designers and manufacturers of semiconductors. As a result of global expansion by foreign and domestic competitors, technological changes, device manufacturer concentrations and the potential for further industry consolidation, we anticipate the industry to remain very competitive. We believe that the principal competitive factors for our products include performance, level of integration, quality, compliance with industry standards, price, time-to-market, system cost, design and engineering capabilities, new product innovation and customer support. QCT also competes in both single- and multi-mode environments against alternative communications technologies including, but not limited to, GSM/GPRS/EDGE and TDMA. 
+
+QCT&#8217;s current competitors include, but are not limited to, companies such as Broadcom Limited, Cirrus Logic, Ericsson, HiSilicon Technologies, Intel, Marvell Technology, Maxim Integrated Products, MediaTek, Microchip Technology Inc., Nvidia, Realtek Semiconductor, Samsung Electronics, Skyworks Solutions Inc. and Spreadtrum Communications (which is controlled by Tsinghua Unigroup). QCT also faces competition from products internally developed by our customers, including some of our largest customers, and from some early-stage companies. Our competitors devote significant amounts of their financial, technical and other resources to develop and market competitive products and, in some cases, to develop and adopt competitive digital communication or signal processing technologies, and those efforts may materially and adversely affect us. Although we have attained a significant position in the industry, many of our current and potential competitors may have advantages over us that include, among others: motivation by our customers in certain circumstances to utilize their own internally-developed integrated circuit products, to use our competitors&#8217; integrated circuit products, or to choose alternative technologies; lower cost structures and/or a willingness and ability to accept lower prices and lower or negative margins for their products, particularly in China; foreign government support of other technologies or competitors; 
+
+&#32;10 
+
+better known brand names; ownership and control of manufacturing facilities and greater expertise in manufacturing processes; more extensive relationships with local distribution companies and original equipment manufacturers in emerging geographic regions (such as China); and/or a more established presence in certain regions. 
+
+QTL Segment . QTL grants licenses or otherwise provides rights to use portions of our intellectual property portfolio, which, among other rights, include certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products, including, without limitation, products implementing CDMA2000, WCDMA, CDMA TDD and/or LTE standards and their derivatives. Our licensees manufacture wireless products including mobile devices (also known as subscriber units, which include handsets), other consumer devices (e.g., tablets and laptops), machine-to-machine devices (e.g., telematics devices, meter reading devices), plug-in end user data modem cards, certain embedded modules for incorporation into end user products, infrastructure equipment required to establish and operate a network and equipment to test networks and subscriber units. QTL licensing revenues include license fees and royalties based on sales by licensees of products incorporating or using our intellectual property. License fees are fixed amounts paid in one or more installments. Royalties are generally based upon a percentage of the wholesale (i.e., licensee&#8217;s) selling price of complete licensed products, net of certain permissible deductions (including transportation, insurance, packing costs and other items). Revenues generated from royalties are subject to quarterly and annual fluctuations. The vast majority of QTL revenues have been generated through our licensees&#8217; sales of CDMA2000- and WCDMA-based products, such as feature phones and smartphones. We have invested and continue to invest in both the acquisition and development of OFDMA technology and intellectual property and have generated the industry leading patent portfolio applicable to LTE and LTE Advanced. Nevertheless, we face competition in the development of intellectual property for future generations of digital wireless communications technologies and services. 
+
+In February 2015, we reached a resolution with the National Development and Reform Commission (NDRC) in China regarding its investigation and agreed to implement a rectification plan that modifies certain of our business practices in China. The rectification plan provides, among other things, that for licenses of only our 3G and 4G essential Chinese patents for branded devices sold for use in China starting on January 1, 2015 (and reported to us in the third quarter of fiscal 2015), we will charge running royalties at royalty rates of 5% for 3G CDMA or WCDMA devices (including multimode 3G/4G devices) and 3.5% for 4G devices that do not implement CDMA or WCDMA (including 3-mode LTE-TDD devices), in each case using a royalty base of 65% of the net selling price. 
+
+Separate and apart from licensing manufacturers of wireless devices and network equipment, we have entered into certain arrangements with competitors of our QCT segment, such as Broadcom and MediaTek. A principal purpose of these arrangements is to provide our QCT segment and the counterparties certain freedom of operation with respect to each party&#8217;s integrated circuits business. In every case, these agreements expressly reserve the right for QTL to seek royalties from the customers of such integrated circuit suppliers with respect to such suppliers&#8217; customers&#8217; sales of CDMA-, WCDMA- and OFDMA-based wireless devices into which such suppliers&#8217; integrated circuits are incorporated. 
+
+Upon the initial deployment of OFDMA-based networks, the products implementing such technologies generally have been multimode and implement CDMA-based technologies. The licenses granted under our existing CDMA license agreements generally cover multimode CDMA/OFDMA (3G/4G) devices, and our licensees are obligated to pay royalties under their CDMA license agreements for such devices. Further, over 210 companies (including Huawei, LG, Microsoft, Oppo, Samsung, Sony, vivo, Xiaomi and ZTE) have royalty-bearing licenses under our patent portfolio for use in LTE or other OFDMA-based products that do not implement any CDMA-based standards. 
+
+Since our founding in 1985, we have focused heavily on technology development and innovation. These efforts have resulted in a leading intellectual property portfolio related to, among other things, wireless technology. We have an extensive portfolio of United States and foreign patents, and we continue to pursue patent applications around the world. Our patents have broad coverage in many countries, including Brazil, China, India, Japan, South Korea, Taiwan and countries in Europe and elsewhere. A substantial portion of our patents and patent applications relate to digital wireless communications technologies, including patents that are essential or may be important to the commercial implementation of CDMA2000, WCDMA (UMTS), TD-SCDMA, TD-CDMA (Time Division CDMA) and OFDMA/LTE products. Our patent portfolio is the most widely and extensively licensed in the industry, with over 330 licensees. Additionally, we have a substantial patent portfolio related to key technologies used in communications and other devices and/or related services, some of which were developed in industry standards development bodies. These include certain video codec, audio codec, wireless LAN, memory interfaces, wireless power, GPS and positioning, broadcast and streaming protocols, and short range communication functionalities, including NFC and Bluetooth. Our patents cover a wide range of technologies across the entire wireless system, including the device (handsets and tablets) and not just what is embodied in the chipsets. Over the years, a number of companies have challenged our patent position, but at this time, companies in the mobile communications industry generally 
+
+&#32;11 
+
+recognize that any company seeking to develop, manufacture and/or sell subscriber units or infrastructure equipment that use CDMA-based, and/or OFDMA-based technologies will require a license or other rights to use our patents. 
+
+We have licensed or otherwise provided rights to use our patents to hundreds of companies on industry-accepted terms. Unlike some other companies in our industry that hold back certain key technologies, we offer companies substantially our entire patent portfolio for use in cellular subscriber devices and cell site infrastructure equipment. Our strategy to make our patented technologies broadly available has been a catalyst for industry growth, helping to enable a wide range of companies offering a broad array of wireless products and features while increasing the capabilities of and/or driving down average and low-end selling prices for 3G handsets and other wireless devices. By licensing or otherwise providing rights to use our patents to a wide range of equipment manufacturers, encouraging innovative applications, supporting equipment manufacturers with integrated chipset and software products and focusing on improving the efficiency of the airlink for wireless operators, we have helped 3G CDMA evolve and grow and reduced device pricing, all at a faster pace than the 2G technologies such as GSM that preceded it. 
+
+Standards bodies have been informed that we hold patents that might be essential for all 3G standards that are based on CDMA. We have committed to such standards bodies that we will offer to license our essential patents for these CDMA standards on a fair, reasonable and non-discriminatory basis. We have also informed standards bodies that we hold patents that might be essential for certain standards that are based on OFDM/OFDMA technology (e.g., LTE, including FDD and TDD versions) and have committed to offer to license our essential patents for these OFDMA standards on a fair, reasonable and non-discriminatory basis. We have made similar commitments with respect to certain other technologies implemented in industry standards. 
+
+Our license agreements also may provide us with rights to use certain of our licensees&#8217; technology and intellectual property to manufacture and sell certain components (e.g., Application-Specific Integrated Circuits) and related software, subscriber units and/or infrastructure equipment. 
+
+QSI Segment. &#32;QSI makes strategic investments that are focused on opening new or expanding opportunities for our technologies and supporting the design and introduction of new products and services (or enhancing existing products or services) for voice and data communications. Many of these strategic investments are in early-stage companies in a variety of industries, including, but not limited to, digital media, e-commerce, healthcare and wearable devices. Investments primarily include non-marketable equity instruments, which generally are recorded using the cost method or the equity method, and convertible debt instruments, which are recorded at fair value. QSI also held wireless spectrum, which was sold in the first quarter of fiscal 2016 for a gain of approximately $380 million . In addition, QSI segment results include revenues and related costs associated with development contracts with one of our equity method investees. As part of our strategic investment activities, we intend to pursue various exit strategies for each of our QSI investments in the foreseeable future. 
+
+Other Businesses. Nonreportable segments include our mobile health, data center, small cell and other wireless technology and service initiatives. Our nonreportable segments develop and sell products and services that include, but are not limited to: development, other services and related products to U.S. government agencies and their contractors; products and services for mobile health; license of chipset technology and products for data centers; software products and content and push-to-talk enablement services to wireless operators; and products designed for implementation of small cells to address the challenge of meeting the increased demand for data. 
+
+Additional information regarding our operating segments is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 8. Segment Information.&#8221; Information regarding seasonality is provided in this Annual Report in &#8220;Part II, Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations, Our Business and Operating Segments&#8221; under the heading &#8220;Seasonality.&#8221; 
+
+Strategic Realignment Plan 
+
+In the fourth quarter of fiscal 2015, we announced a Strategic Realignment Plan designed to improve execution, enhance financial performance and drive profitable growth as we work to create sustainable long-term value for stockholders. As part of this Strategic Realignment Plan, among other actions, we implemented a cost reduction plan, which included a series of targeted reductions across our businesses, particularly in QCT, and a reduction to annual share-based compensation grants. Additional information regarding our Strategic Realignment Plan is provided in this Annual Report in &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operation, Fiscal 2016 Overview&#8221; and &#8220;Notes to Consolidated Financial Statements, Note 10. Strategic Realignment Plan.&#8221; 
+
+&#32;12 
+
+Acquisitions 
+
+In January 2016, we announced that we had reached an agreement with TDK Corporation to form a joint venture, under the name RF360 Holdings Singapore Pte. Ltd., to enable delivery of RFFE modules and RF filters into fully integrated products for mobile devices and IoT applications, among others. The joint venture will initially be owned 51% &#32;by us and 49% &#32;by TDK. Certain intellectual property, patents and filter and module design and manufacturing assets will be carved out of existing TDK businesses and be acquired by the joint venture, with certain assets acquired by us. The purchase price of our interest in the joint venture and the assets to be transferred to us is $1.2 billion , to be adjusted for working capital, outstanding indebtedness and certain capital expenditures, among other things. Additionally, we have the option to acquire (and TDK has an option to sell) TDK&#8217;s interest in the joint venture for $1.15 billion &#32; 30 months &#32;after the closing date. TDK will be entitled to up to a total of $200 million &#32;in payments based on sales of RF filter functions over the three-year period after the closing date, which is a substitute for and in lieu of any right of TDK to receive any profit sharing, distributions, dividends or other payments of any kind or nature. The transaction is subject to receipt of regulatory approvals and other closing conditions and is expected to close in early calendar 2017. 
+
+On October 27, 2016 , we announced a definitive agreement under which Qualcomm River Holdings, B.V., an indirect, wholly owned subsidiary of Qualcomm Incorporated, will acquire NXP Semiconductors N.V. Pursuant to the definitive agreement, Qualcomm River Holdings will commence a tender offer to acquire all of the issued and outstanding common shares of NXP for $110 &#32;per share in cash, for estimated total cash consideration of $38 billion . NXP is a leader in high-performance, mixed-signal semiconductor electronics in automotive, broad-based microcontrollers, secure identification, network processing and RF power products. 
+
+The transaction is expected to close by the end of calendar 2017 &#32;and is subject to receipt of regulatory approvals in various jurisdictions and other closing conditions, including the tender of specified percentages (which vary from 70% &#32;to 95% &#32;based on certain circumstances as provided in the definitive agreement) of the issued and outstanding common shares of NXP in the offer. An Extraordinary General Meeting of NXP&#8217;s shareholders will be convened in connection with the offer to adopt, among other things, certain resolutions relating to the transaction. The tender offer is not subject to any financing condition; however, we intend to fund the transaction with cash held by foreign entities and new debt. As a result, we secured $13.6 billion &#32;in committed financing in connection with signing the definitive agreement. 
+
+Qualcomm River Holdings and NXP may terminate the definitive agreement under certain circumstances. If the definitive agreement is terminated by NXP in certain circumstances, including termination by NXP to enter into a superior proposal for an alternative acquisition transaction or a termination following a change of recommendation by the NXP board of directors, NXP will be required to pay Qualcomm River Holdings a termination fee of $1.25 billion . If the definitive agreement is terminated by Qualcomm River Holdings under certain circumstances involving the failure to obtain the required regulatory approvals or the failure of NXP to complete certain pre-closing reorganization steps in all material respects, Qualcomm River Holdings will be required to pay NXP a termination fee of $2.0 billion . 
+
+Corporate Structure 
+
+We operate our businesses through our parent company, QUALCOMM Incorporated, and multiple direct and indirect subsidiaries. We have developed our corporate structure in order to address various legal, regulatory, tax, contractual compliance, operations and other matters. Substantially all of our products and services businesses, including QCT, and substantially all of our engineering, research and development functions, are operated by QUALCOMM Technologies, Inc. (QTI), a wholly-owned subsidiary of QUALCOMM Incorporated, and QTI&#8217;s subsidiaries. QTL is operated by QUALCOMM Incorporated, which owns the vast majority of our patent portfolio. Neither QTI nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by QUALCOMM Incorporated. 
+
+Revenue Concentrations, Significant Customers and Geographical Information 
+
+Consolidated revenues from international customers and licensees as a percentage of total revenues were 98% , 99% &#32;and 99% &#32;in fiscal 2016 , 2015 &#32;and 2014 , respectively. During fiscal 2016 , 57% , 17% &#32;and 12% &#32;of our revenues were from customers and licensees based in China (including Hong Kong), South Korea and Taiwan, respectively, compared to 53% , 16% &#32;and 13% &#32;during fiscal 2015 , respectively, and 50% , 23% &#32;and 11% &#32;during fiscal 2014 , respectively. We report revenues from external customers by country based on the location to which our products or services are delivered, which for QCT is generally the country in which our customers manufacture their products, or for licensing revenues, the invoiced addresses of our licensees. As a result, the revenues by country presented herein are not necessarily indicative of either the country in which the devices containing our products and/or intellectual property are ultimately sold to consumers or the country in which the companies that sell the devices are headquartered. For example, China revenues could include revenues related to shipments of integrated circuits to a company that is headquartered in South Korea but that manufactures devices in China, 
+
+&#32;13 
+
+which devices are then sold to consumers in Europe and/or the United States. Additional geographic information is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 8. Segment Information.&#8221; 
+
+A small number of customers/licensees historically have accounted for a significant portion of our consolidated revenues. In fiscal 2016 , 2015 &#32;and 2014 , revenues from Samsung Electronics and from Hon Hai Precision Industry Co., Ltd./Foxconn, its affiliates and other suppliers to Apple Inc. each comprised more than 10% of consolidated revenues. 
+
+Research and Development 
+
+The communications industry is characterized by rapid technological change, evolving industry standards and frequent new product introductions, requiring a continuous effort to enhance existing products and technologies and to develop new products and technologies. We have significant engineering resources, including engineers with substantial expertise in CDMA, OFDMA and a broad range of other technologies. Using these engineering resources, we expect to continue to invest in research and development in a variety of ways in an effort to extend the demand for our products and services, including continuing the development of CDMA, OFDMA and other technologies, developing alternative technologies for certain specialized applications, participating in the formulation of new voice and data communication standards and technologies and assisting in deploying digital voice and data communications networks around the world. Our research and development team has a demonstrated track record of innovation in voice and data communication technologies and application processor technology, among others. Our research and development expenditures in fiscal 2016 , 2015 &#32;and 2014 &#32;totaled approximately $5.2 billion , $5.5 billion &#32;and $5.5 billion , respectively. 
+
+We continue to invest significant resources towards advancements in 4G OFDMA-based technologies (including LTE) and 5G-based technologies. We also make acquisitions to meet certain technology needs, to obtain development resources or to pursue new business opportunities. 
+
+We make investments to provide our integrated circuit customers with chipsets designed on leading-edge technology nodes that combine multiple technologies for use in consumer devices (e.g., smartphones, tablets, laptops), consumer electronics and other products (e.g., access points and routers, data cards and infrastructure equipment). In addition to 3G and 4G LTE technologies, our chipsets support other wireless and wired connectivity technologies, including WLAN, Bluetooth, Ethernet, GPS, GLONASS, BeiDou and Powerline communication. Our integrated chipsets often include multiple technologies, including advanced multimode modems, application processors and graphics engines, as well as the tools to connect these diverse technologies. We continue to support Android, Windows and other mobile client software environments in our chipsets. 
+
+We develop on our own, and with our partners, innovations that are integrated into our product portfolio to further expand the opportunity for wireless communications and enhance the value of our products and services. These innovations are expected to enable our customers to improve the performance or value of their existing services, offer these services more affordably and introduce revenue-generating broadband data services ahead of their competition. 
+
+We have research and development centers in various locations throughout the world that support our global development activities and ongoing efforts to develop and/or advance 4G OFDMA, 5G and a broad range of other technologies. We continue to use our substantial engineering resources and expertise to develop new technologies, applications and services and make them available to licensees to help grow the communications industry and generate new or expanded licensing opportunities. 
+
+We also make investments in opportunities that leverage our existing technical and business expertise to deploy new and expanded product areas, such as RFFE, and enter into adjacent industry segments, such as products for automotive, the IoT, including the connected home, smart cities and wearables, data center, networking, mobile computing, mobile health and machine learning, including robotics, among others. 
+
+Sales and Marketing 
+
+Sales and marketing activities of our operating segments are discussed under Operating Segments. Other marketing activities include public relations, advertising, digital marketing and social media, participation in technical conferences and trade shows, development of business cases and white papers, competitive analyses, industry intelligence and other marketing programs, such as marketing development funds with our customers. Our Corporate Marketing department provides company information on our Internet site and through other channels regarding our products, strategies and technology to industry analysts and media. 
+
+&#32;14 
+
+Competition 
+
+Competition faced by our operating segments is discussed under Operating Segments. Competition in the communications industry throughout the world continues to increase at a rapid pace as consumers, businesses and governments realize the potential of wireless communications products and services. We have facilitated competition in the wireless communications industry by licensing our technologies to, and therefore enabling, a large number of manufacturers. Although we have attained a significant position in the industry, many of our current and potential competitors may have advantages over us that include, among others: motivation by our customers in certain circumstances to utilize their own internally-developed integrated circuit products, to use our competitors&#8217; integrated circuit products, or to choose alternative technologies; lower cost structures and/or a willingness and ability to accept lower prices and lower or negative margins for their products, particularly in China; foreign government support of other technologies or competitors; better known brand names; ownership and control of manufacturing facilities and greater expertise in manufacturing processes; more extensive relationships with local distribution companies and original equipment manufacturers in emerging geographic regions (such as China); and/or a more established presence in certain regions. These relationships may affect customers&#8217; decisions to purchase products or license technology from us. Accordingly, new competitors or alliances among competitors could emerge and rapidly acquire significant market positions to our detriment. 
+
+We expect competition to increase as our current competitors expand their product offerings and introduce new technologies and services in the future and as additional companies compete with our products or services based on 3G, 4G or other technologies. Although we intend to continue to make substantial investments in developing new products and technologies and improving existing products and technologies, our competitors may introduce alternative products, services or technologies that threaten our business. It is also possible that the prices we charge for our products and services may continue to decline as competition continues to intensify. 
+
+Corporate Responsibility and Sustainability 
+
+We strive to better our local and global communities through ethical business practices, socially empowering technology applications, educational and environmental programs and employee diversity and volunteerism. 
+
+&#8226; 
+
+Our Governance. We aim to demonstrate accountability, transparency, integrity and ethical business practices throughout our operations and interactions with our stakeholders. 
+
+&#8226; 
+
+Our Products. &#32;We strive to meet or exceed industry standards for product responsibility and supplier management. 
+
+&#8226; 
+
+Our Workplace. &#32;We endeavor to provide a safe and healthy work environment where diversity is embraced and various opportunities for training, growth and advancement are encouraged for all employees. 
+
+&#8226; 
+
+Our Community. &#32;We have strategic relationships with a wide range of local organizations and programs that develop and strengthen communities worldwide. 
+
+&#8226; 
+
+Our Environment. &#32;We aim to expand our operations while minimizing our carbon footprint, conserving water and reducing waste. 
+
+&#8226; 
+
+Qualcomm Wireless Reach. &#32;We invest in strategic programs that foster entrepreneurship, aid in public safety, enhance delivery of health care, enrich teaching and learning and improve environmental sustainability through the use of advanced wireless technologies. 
+
+Employees 
+
+At September 25, 2016 , we employed approximately 30,500 full-time, part-time and temporary employees. During fiscal 2016 , the number of employees decreased by approximately 2,500 primarily due to actions initiated under the Strategic Realignment Plan. 
+
+Available Information 
+
+Our Internet address is www.qualcomm.com. There we make available, free of charge, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). We also make available on our Internet site public financial information for which a report is not required to be filed with or furnished to the SEC. Our SEC reports and other financial information can be accessed through the investor relations section of our Internet site. The information found on our Internet site is not part of this or any other report we file with or furnish to the SEC. 
+
+&#32;15 
+
+Executive Officers 
+
+Our executive officers (and their ages at September 25, 2016 ) are as follows: 
+
+Paul E. Jacobs, age 53, has served as Executive Chairman since March 2014. He has served as Chairman of the Board of Directors since March 2009 and as a director since June 2005. He served as Chief Executive Officer from July 2005 to March 2014 and as Group President of Qualcomm Wireless &#38; Internet from July 2001 to June 2005. In addition, he served as an Executive Vice President from February 2000 to June 2005. Dr. Jacobs holds a B.S. degree in Electrical Engineering and Computer Science, an M.S. degree in Electrical Engineering and a Ph.D. degree in Electrical Engineering and Computer Science from the University of California, Berkeley. 
+
+Steve Mollenkopf, age 47, has served as Chief Executive Officer since March 2014 and as a director since December 2013. He served as Chief Executive Officer-elect and President from December 2013 to March 2014 and as President and Chief Operating Officer from November 2011 to December 2013. In addition, he served as Executive Vice President and Group President from September 2010 to November 2011, as Executive Vice President and President of QCT from August 2008 to September 2010, as Executive Vice President, QCT Product Management from May 2008 to August 2008, as Senior Vice President, Engineering and Product Management from July 2006 to May 2008 and as Vice President, Engineering from April 2002 to July 2006. Mr. Mollenkopf joined Qualcomm in 1994 as an engineer and throughout his tenure at Qualcomm has held several other technical and leadership positions. Mr. Mollenkopf holds a B.S. degree in Electrical Engineering from Virginia Tech and an M.S. degree in Electrical Engineering from the University of Michigan. 
+
+Derek K. Aberle, age 46, has served as President since March 2014. He served as Executive Vice President and Group President from November 2011 to March 2014, as President of QTL from September 2008 to November 2011 and as Senior Vice President and General Manager of QTL from October 2006 to September 2008. Mr. Aberle joined Qualcomm in December 2000 and prior to October 2006 held positions ranging from Legal Counsel to Vice President and General Manager of QTL. Mr. Aberle holds a B.A. degree in Business Economics from the University of California, Santa Barbara and a J.D. degree from the University of San Diego. 
+
+Cristiano R. Amon, age 46, has served as Executive Vice President, Qualcomm Technologies, Inc. (QTI, a subsidiary of Qualcomm Incorporated) and President of Qualcomm CDMA Technologies (QCT) since November 2015. He served as Executive Vice President, QTI and Co-President of QCT from October 2012 to November 2015, Senior Vice President, Qualcomm Incorporated and Co-President of QCT from June 2012 to October 2012, as Senior Vice President, QCT Product Management from October 2007 to June 2012 and as Vice President, QCT Product Management from September 2005 to October 2007. Mr. Amon joined Qualcomm in 1995 as an engineer and throughout his tenure at Qualcomm held several other technical and leadership positions. Mr. Amon holds a B.S. degree in Electrical Engineering from UNICAMP, the State University of Campinas, Brazil. 
+
+George S. Davis, age 58, has served as Executive Vice President and Chief Financial Officer since March 2013. Prior to joining Qualcomm, Mr. Davis was Chief Financial Officer of Applied Materials, Inc., a provider of manufacturing equipment, services and software to the semiconductor, flat panel display, solar photovoltaic and related industries, from November 2006 to March 2013. Mr. Davis held several other leadership positions at Applied Materials from November 1999 to November 2006. Prior to joining Applied Materials, Mr. Davis served 19 years with Atlantic Richfield Company in a number of finance and other corporate positions. Mr. Davis holds a B.A. degree in Economics and Political Science from Claremont McKenna College and an M.B.A. degree from the University of California, Los Angeles. 
+
+Matthew S. Grob, age 50, has served as Executive Vice President, Qualcomm Technologies, Inc. and Chief Technology Officer since October 2012. He served as Executive Vice President, Qualcomm Incorporated and Chief Technology Officer from July 2011 to October 2012 and as Senior Vice President, Engineering from July 2006 to July 2011. Mr. Grob joined Qualcomm in August 1991 as an engineer and throughout his tenure at Qualcomm held several other technical and leadership positions. Mr. Grob holds a B.S. degree in Electrical Engineering from Bradley University and an M.S. degree in Electrical Engineering from Stanford University. 
+
+Brian T. Modoff, age 57, has served as Executive Vice President, Strategy and Mergers &#38; Acquisitions since October 2015. Prior to joining Qualcomm, Mr. Modoff was a Managing Director in Equity Research at Deutsche Bank Securities Inc. (Deutsche Bank), a provider of financial services, from March 1999 to October 2015. Prior to joining Deutsche Bank, Mr. Modoff was a research analyst at several financial institutions from November 1993 to March 1999. Mr. Modoff holds a B.A. degree in Economics from California State University, Fullerton and a Master of International Management from the Thunderbird School of Global Management. 
+
+Alexander H. Rogers, age 59, has served as Executive Vice President and President of QTL since October 2016. He served as Senior Vice President and President, QTL from September 2016 to October 2016, Senior Vice President, Deputy 
+
+&#32;16 
+
+General Counsel and General Manager of QTL from March 2016 to September 2016, Senior Vice President and Deputy General Counsel from October 2015 to March 2016 and Senior Vice President and Legal Counsel from April 2007 to October 2015. Mr. Rogers joined Qualcomm in January 2001 as Senior Legal Counsel and throughout his tenure at Qualcomm held several other leadership positions in the legal department. Prior to joining Qualcomm, Mr. Rogers was a partner at the law firm of Gray, Cary, Ware &#38; Friedenrich (now DLA Piper). Mr. Rogers holds M.A. and B.A. degrees in English Literature from Georgetown University and a J.D. degree from Georgetown University Law Center. 
+
+Donald J. Rosenberg, age 65, has served as Executive Vice President, General Counsel and Corporate Secretary since October 2007. He served as Senior Vice President, General Counsel and Corporate Secretary of Apple Inc. from December 2006 to October 2007. From May 1975 to November 2006, Mr. Rosenberg held numerous positions at IBM Corporation, including Senior Vice President and General Counsel. Mr. Rosenberg has served as a member of the board of directors of NuVasive, Inc. since February 2016. Mr. Rosenberg holds a B.S. degree in Mathematics from the State University of New York at Stony Brook and a J.D. degree from St. John&#8217;s University School of Law. 
+
+Michelle Sterling, age 49, has served as Executive Vice President of Human Resources since May 2015. She served as Senior Vice President, Human Resources from October 2007 to April 2015. Ms. Sterling joined Qualcomm in 1994 and throughout her tenure at Qualcomm has held several other leadership positions. Ms. Sterling holds a B.S. degree in Business Management from the University of Redlands. 
+
+James H. Thompson, age 52, has served as Executive Vice President, Engineering for Qualcomm Technologies, Inc. since October 2012. He served as Senior Vice President, Engineering for Qualcomm Incorporated from July 1998 to October 2012. Dr. Thompson joined Qualcomm in 1992 as a senior engineer and throughout his tenure at Qualcomm held several other technical and leadership positions. Dr. Thompson holds B.S., M.S. and Ph.D. degrees in Electrical Engineering from the University of Wisconsin. 
+

@@ -1,0 +1,622 @@
+ ITEM 1. BUSINESS
+
+&#160;
+
+Company Overview
+
+&#160;
+
+Aware, Inc. (&#8220;Aware&#8221;, &#8220;we&#8221;, &#8220;us&#8221;, &#8220;our&#8221;, or the &#8220;Company&#8221;) is a leading provider of software and services to the biometrics industry. We have been engaged in this business since 1993. Our software products are used in government and commercial biometrics systems to identify or authenticate people. Principal government applications of biometrics systems include border control, visitor screening, law enforcement, national defense, intelligence, secure credentialing, access control, and background checks. Principal commercial applications include: i) user authentication for login to mobile devices, computers, networks, and software programs; ii) user authentication for financial transactions and purchases (online and in-person); iii) physical access control to buildings, and iv) screening and background checks of prospective employees and customers.
+
+&#160;
+
+Our products provide interoperable, standards-compliant, field-proven biometric functionality and are used to capture, verify, format, compress and decompress biometric images as well as aggregate, analyze, process, match and transport those images within biometric systems. We sell a broad range of software products for fingerprint, facial, and iris modalities. We also offer a variety of software engineering services, including: i) project planning and management; ii) system design; iii) software design, development, customization, configuration, and testing; and iv) software integration and installation. We sell our biometrics software products and services globally through systems integrators and OEMs, and directly to end user customers.
+
+&#160; 
+
+Aware was incorporated in Massachusetts in 1986. We are headquartered at 40 Middlesex Turnpike in Bedford, Massachusetts, and our telephone number at this address is (781) 276-4000. Our website address is www.aware.com . The information on our website is not part of this Form 10-K, unless expressly noted. Our stock is traded on the Nasdaq Global Market under the symbol AWRE.
+
+&#160;
+
+Industry Background 
+
+&#160;
+
+Biometrics is the measurement of unique, individual physiological characteristics, such as fingerprints, faces, irises, and voices that can be used to determine or verify an individual&#8217;s identity. The biometrics industry offers technology that digitally captures and encodes biometric characteristics and then compares those characteristics against previously encoded biometric data to determine or verify an individual&#8217;s identity. Biometrics addresses the limitations inherent in traditional identification and authentication processes, such as paper credentials, passwords, PIN codes, and magnetic access cards.
+
+&#160;
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160;
+
+The biometrics industry provides solutions for a broad range of government and commercial applications. Principal government biometrics applications include border control, visitor screening, law enforcement, national defense, intelligence, secure credentialing, access control and background checks. Principal commercial applications include: i) user authentication for login to mobile devices, computers, networks, and software programs; ii) user authentication for financial transactions and purchases (online and in-person); iii) physical access control to buildings; and iv) screening and background checks of prospective employees and customers.
+
+&#160;
+
+We believe that government and commercial entities will continue to adopt and expand the use of biometrics-enabled solutions to address the limitations and vulnerabilities of traditional identification and authentication processes. We believe the following factors, among others, will contribute to the growth of biometrics solutions: i) government-mandated implementation of identification for employees, citizens, and foreign nationals to enhance national security; ii) military implementations for the identification of terrorists and other hostile persons; iii) increasing threats to personal security encountered in areas such as transportation; iv) government and commercial efforts to detect and reduce fraud and cybercrime; v) adoption of biometrics on mobile devices; and vi) the emergence and adoption of international biometrics standards.
+
+&#160;
+
+The biometrics industry may be segmented into government and commercial sub-markets. While these markets are similar in many respects and share similar characteristics and technology, certain aspects of the markets are different. We believe that this market-based distinction is important to an understanding of Aware&#8217;s business as the vast majority of our revenue is currently derived from government customers.
+
+&#160;
+
+Government market 
+
+&#160;
+
+Governments throughout the world were early adopters of biometrics technology and continue to be the largest consumers of the technology. Biometrics technology is used by local, state, and national governments.
+
+&#160;
+
+At the local and state level, biometrics technology is used in the following applications:
+
+&#160;
+
+&#183; Law enforcement applications that enable officers in the field to correctly identify potential suspects more reliably and efficiently by submitting biometrics samples to state or federal biometric search services; &#183; Background checks for employment screening; &#183; Drivers&#8217; licenses and identification cards; and &#183; Benefits issuance. &#160;
+
+At the national level, biometrics technology is used in the following applications:
+
+&#160;
+
+&#183; Border control National governments throughout the world have mandated increased spending on security measures, implemented new regulations and placed greater emphasis on technology to address growing security concerns. Immigration and border control agencies have taken steps to improve security in response to heightened concerns over public safety from the threat of terrorism. They use biometrics to help establish the identity of visitors upon application for a visa or upon arrival at border checkpoints. For example, the U.S. Office of Biometric Identity Management currently requires foreign visitors entering the United States to have their ten fingers scanned and a facial photograph taken to determine if they are present on a watch list. The European Union now mandates that e-passports include fingerprint data in addition to a digital photograph.
+
+&#160;
+
+&#183; Defense Within military organizations, key applications of biometrics include: i) background checks of military personnel and contractors; ii) access control to physical and digital assets; and iii) identification of unknown and potentially hostile persons by a comparison of their biometric sample against a watch list.
+
+&#160;
+
+&#183; Law enforcement and background checks Law enforcement agencies perform background checks that use biometrics to help confirm the identity of individuals who might be present in a biometric database. Background checks might also be provided as a service to other agencies within the government.
+
+&#160;
+
+&#183; Physical access control Governments also use biometrics for physical access control by storing biometric data on a digital ID card and performing a match to verify that the holder of the card is the same person issued the card. Biometrics are also used for securing access to digital assets, where a biometric match might be required in addition to a password to gain access to a computer system.
+
+&#160;
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+Government biometrics systems typically operate on client/server-based computer networks. Enrollment workstations with peripheral capture devices are used to enroll individuals into biometrics systems. Enrollment involves the capture, processing, and formatting of &#8220;biometric samples.&#8221; A &#8220;biometric sample&#8221; is biometric data which may include: i) images of fingerprints, faces, or irises; ii) digital voice signals; or iii) some other electronic representation of a biometric characteristic. Examples of capture peripherals include: i) scanners for fingerprint images, ii) cameras for iris and facial images, iii) handheld devices for mobile capture of fingerprint, iris, and facial images, or iv) mobile phones for voice signals.
+
+&#160;
+
+After biometric samples are captured, they are then transported in digital form to centralized matching systems for identification. Equipment used to perform these functions includes: i) servers to process and transport biometric samples; and ii) mainframe computers and servers to store and match those samples. In addition, military applications may employ handheld devices that are capable of capturing samples and matching those samples against sample databases that reside on the devices.
+
+&#160;
+
+Due to the nature of government applications, particularly those involving security and defense, government biometrics systems must be capable of accurately and rapidly searching and matching biometric samples against large databases of stored samples. The ability to accurately and rapidly match samples against databases of millions of samples is critical because incorrect or delayed results could have severe adverse consequences. These requirements are an important distinguishing characteristic of the government market as compared to the commercial market.
+
+&#160;
+
+Another characteristic that defines government markets can be seen in the difference between biometric identification and biometric verification. Biometric identification involves a one-to-many search of thousands or even millions of records to determine which, if any, record belongs to the individual in question. Government applications tend to involve biometric identification.
+
+&#160;
+
+Biometric verification involves a one-to-one biometric comparison that serves to verify that both biometric samples belong to the same individual. One-to-one matches tend to require less algorithmic accuracy, speed, sensor fidelity, and computer processing power than &#8220;one-to-many&#8221; searches performed on large databases of stored biometric records. Commercial applications tend to involve biometric verification.
+
+&#160;
+
+Commercial market 
+
+&#160;
+
+Biometrics-based solutions compete with more traditional security methods including keys, cards, personal identification numbers and security personnel in commercial markets. The adoption of biometrics by leading vendors of smartphones and other popular consumer products has increased users&#8217; confidence and comfort with biometrics as a convenient and secure means of authentication. Biometrics solutions are also being considered in commercial markets as a means of increasing security and reducing fraud as part of &#8220;know-your-customer&#8221; and &#8220;know-your-employee&#8221; efforts. &#8220;Know-your-customer&#8221; initiatives are designed to verify the identity of customers before providing products or services. &#8220;Know-your-employee&#8221; initiatives are designed to verify the identity of employment candidates upon application for employment.
+
+&#160;
+
+Notwithstanding these positive developments, commercial markets for biometrics technology are in the process of developing and evolving. The rate of adoption of biometrics in commercial markets depends upon a number of factors, including: i) the performance and reliability of biometric solutions; ii) costs involved in adopting and integrating biometric solutions; iii) public concerns regarding privacy; iv) potential privacy legislation; and v) standardization efforts by various industry consortia and standards bodies.
+
+&#160;
+
+Principal biometrics applications in commercial markets involve the authentication and/or identification of individuals. The types of users that may need to be authenticated or identified in commercial applications include customers, employees, suppliers, visitors, patients, or other parties wishing to gain access to information, systems, bank accounts, credit card accounts, events, devices, buildings, or organizations.
+
+&#160;
+
+Examples of commercial market applications include:
+
+&#160;
+
+&#183; User authentication for login and access to mobile devices, computers, networks, and software programs. &#183; User authentication for financial transactions in the financial services industry. &#183; User authentication for in-person or online purchases in the retail industry. &#183; User authentication for physical access to secured buildings and perimeters. &#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; User authentication of employees to access private patient information in the healthcare industry. &#183; Identity verification of patients in hospital and surgical settings. &#183; Identity verification of test takers in the educational testing industry. &#183; Identification of prospective customers in the financial services industry. &#183; Identification of candidates for pre-employment screening and background checks. &#183; Identification of undesirable customers in the gaming industry. &#160;
+
+We believe that the commercial biometrics market may be further segmented into: i) a consumer mass market segment; and ii) an enterprise segment. While we believe this delineation serves a useful purpose in describing the current state of the market, it has its limitations because the two segments overlap.
+
+&#160;
+
+Consumer mass market segment &#8211; This segment is dominated by biometrics-enabled smartphones. Many smartphones now contain fingerprint sensors and software that can: i) enroll and encode a fingerprint sample; ii) store the sample in a secure area on the phone; and iii) collect a live fingerprint and match it to the stored fingerprint sample. Once a biometric match is achieved, the subsequent software functions are analogous to password authentication. This type of biometric authentication is sometimes referred to as a &#8220;one-to-one&#8221; match and it requires a less complex and robust biometric match capability than that used in large client-server based biometrics systems.
+
+&#160;
+
+Mobile biometrics authentication applications are largely controlled by smartphone manufacturers as this functionality is executed by smartphone operating systems and sensor hardware, as opposed to third-party applications running on the phone. Third party applications on smartphones are currently granted access to biometric authentication results, but may not necessarily have access to raw biometric samples, hardware, relevant security functions, or other smartphone capabilities. In contrast, authentication using facial or voice biometric modalities may be implemented in applications running on the phone, because these applications can make use of the camera and microphone on the device, which are generally granted broader access to third party developers.
+
+&#160;
+
+User authentication and payment features enabled by smartphones continue to evolve, and we expect to see further changes in smartphone security features and functionality.
+
+&#160;
+
+Enterprise segment &#8211; Enterprise biometrics systems are similar to government systems in that they typically operate in a client/server environment that: i) captures biometrics samples on a client PC; ii) stores those samples in a database on a server, and then, when queried; iii) matches live samples against stored samples. Mobile devices are likely to be used in conjunction with enterprise systems as we have seen a desire by customers to use smartphones as enrollment and access devices.
+
+&#160;
+
+Opportunities and customer demand are beginning to emerge in the enterprise segment of the commercial market, but it remains a nascent and evolving market. We are beginning to see three potential types of opportunities, including:
+
+&#160;
+
+1. Internal biometrics systems - Some customers want to purchase, install, and maintain custom or off-the shelf biometrics systems that they will operate. These customers tend to have a critical need or the scale to justify the cost of acquiring an internal biometrics system. Companies in the financial services industry would be an example of this class of customer. &#160;
+
+2. Biometrics-as-a-service - Biometrics are often provided as services in government settings. For example, many traditional government biometrics systems can be considered a service provided to other government entities, such as those offered by the FBI to state and local law enforcement agencies. &#160;
+
+Biometrics service providers have begun to offer pay-per-transaction biometrics service offerings in commercial markets. These services allow organizations to biometrically identify or verify employees, customers, or other individuals relevant to their business. A pay-per-transaction model may be potentially more financially attractive for some organizations as compared to the cost of purchasing, installing and maintaining internal biometrics systems.
+
+&#160;
+
+3. Biometrically-enabled solutions &#8211; There are companies that offer products, systems, or solutions that are not principally marketed as biometrics products, but include biometrically-enabled components. These vendors represent an opportunity for core biometrics technology providers, because they generally do not own core biometrics technology. Examples of this class of customer would be companies that offer secure identification/access solutions or biometrics smart cards. &#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+Biometrics industry participants 
+
+&#160;
+
+There are a large number of vendors that serve government and commercial biometrics markets. In order to provide an understanding of the biometrics industry and our role in it, we have categorized industry participants into categories that have been defined by us. While we believe our categorization is a reasonable representation of the industry, we acknowledge that: i) knowledgeable industry participants may define categories differently or classify vendors differently; and ii) not all companies involved in the industry were included. Accordingly, the classification that follows represents our perspective on the industry.
+
+&#160;
+
+We believe that biometrics industry participants may be classified into the following categories:
+
+&#160;
+
+1) Core technology suppliers 2) System integrators 3) Fully integrated solution suppliers 4) Biometrics-as-a-service providers 5) Vendors of biometrically-enabled solutions &#160;
+
+Category descriptions and companies that offer products and services in each category are provided below. It should be noted that some companies appear in multiple categories.
+
+&#160;
+
+1) Core technology suppliers Core biometrics technology includes hardware and software products that enable: i) traditional biometrics systems used by government and commercial customers; ii) new biometric service offerings; and iii) biometrically-enabled functionality embedded in other products and solutions. Core biometrics technology includes three types of products: i) sensor products, ii) biometric capture devices, and iii) software products.
+
+&#160;
+
+Sensor products 
+
+Biometrics sensors are primarily silicon-based devices that capture biometrics samples, such as fingerprints. Sensors are typically embedded in other devices, such as smartphones or biometric capture devices.
+
+&#160;
+
+Examples of companies that offer biometric sensor products include: 1) Qualcomm Technologies, Inc. through its acquisition of UltraScan Corporation; 2) Sonavation, Inc.; 3) Synaptics, Inc.; 4) Fingerprint Cards AB; 5) Integrated Biometrics, LLC; and 6) Next Biometrics AS.
+
+&#160;
+
+Biometric capture devices 
+
+Biometric capture devices are designed to capture and process biometric samples as their primary function. These products may be strictly hardware products or hardware products that also incorporate biometrics software.
+
+&#160;
+
+Examples of companies that offer biometric capture devices include: 1) Cross Match Technologies, Inc.; 2) Suprema, Inc.; 3) HID Global Corporation through its 2014 acquisition of Lumidigm, Inc. (&#8220;HID&#8221;); 4) Iris ID Systems, Inc (&#8220;Iris ID&#8221;); 5) Precise Biometrics AB (&#8220;Precise Biometrics&#8221;); 6) Credence ID, LLC; 7) SecuGen Corporation; 8) IrisGuard, Inc. (&#8220;IrisGuard&#8221;); 9) Aurora Biometrics, Inc. (&#8220;Aurora Biometrics&#8221;); 10) EyeLock LLC (&#8220;EyeLock&#8221;); and 11) Tascent, Inc. through its 2015 acquisition of Aoptix Technology Identity Solutions&#8217; business unit.
+
+&#160;
+
+Software products 
+
+Biometrics software products provide functionality that captures, formats, stores, processes, or matches samples of fingerprints, faces, iris, voices and other modalities. Biometrics software is capable of operating on variety of equipment platforms, including personal computers, smartphones, biometric capture devices, hand-held devices, servers, and mainframe computers.
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+Examples of companies that offer biometrics software products include: 1) Aware, Inc.; 2) MorphoTrak and MorphoTrust, divisions of the Safran Group Company (&#8220;Safran Morpho&#8221;); 3) 3M Cogent Inc. (&#8220;3M Cogent&#8221;); 4) NEC Corporation (&#8220;NEC&#8221;); 5) Cognitec Systems GmbH (&#8220;Cognitec&#8221;); 6) Neurotechnology; 7) Iritech, Inc. (&#8220;Iritech&#8221;); 8) Innovatrics s.r.o. (&#8220;Innovatrics&#8221;); 9) M2Sys Technology (&#8220;M2Sys&#8221;); 10) SpeechPro, Inc.; 11) Agnitio S.L.; 12) Precise Biometrics; 13) Facebanx, a subsidiary of OhHi, Ltd; 14) VoiceTrust GmbH.; 15) Eyelock; 16) BIO-key International, Inc.; 17) VoiceVault Inc.; 18) EyeVerify, Inc.; 19) Iris ID; 20) IrisGuard; 21) Aurora Biometrics; 22) NexID Biometrics LLC.; and 23) Daon Trusted Identity Services (&#8220;Daon&#8221;).
+
+&#160;
+
+2) System integrators System integrators purchase hardware and software technology from core biometrics technology vendors and incorporate those components into customized biometrics systems that they deliver to end-user customers. Historically those end-user customers have been governments, but in recent years system integrators have begun to serve commercial enterprise customers as well. System integrators include large multinationals with a broad range of expertise and the capacity to execute very large projects, as well as smaller system integrators that have more focused expertise on a particular market sector, technology, or geography. Some system integrators have developed their own biometric technologies that they deliver as part of their solutions.
+
+&#160;
+
+Examples of companies that offer systems integration services include: 1) Northrop Grumman Corporation; 2) Lockheed Martin Corporation; 3) Science Applications International Corporation; 4) Hewlett-Packard Enterprise Services; 5) International Business Machines Corporation; 6) Fujitsu Limited; 7) Accenture plc; 8) Unisys Corporation; 9) Leidos, Inc.; and 10) ManTech International Corporation.
+
+&#160;
+
+3) Fully integrated solutions suppliers Fully integrated solutions suppliers are similar to systems integrators in that they deliver customized biometrics systems to government and commercial enterprise end-user customers. They differ from system integrators in that they use core hardware and software technologies that they developed in-house or acquired from others. Vendors in this category may purchase some third party software, but we believe such purchases represent a minor component of the overall systems they deliver.
+
+&#160;
+
+There are three large global suppliers of fully integrated solutions, including: 1) Safran Morpho; 2) 3M Cogent; and iii) NEC. We believe these companies supply a large percentage of the biometric systems that are delivered to government customers around the world.
+
+&#160;
+
+In addition to these three large suppliers, we would categorize Dermalog Identification Systems GmbH as a fully integrated solution provider, but one that operates on a smaller scale. Aware also has a product portfolio and services capability that enables us to deliver fully integrated solutions. We have acted in this capacity on a limited basis in the past and an element of our strategy is to grow this part of our business in the future.
+
+&#160;
+
+4) Biometrics-as-a-service providers Biometrics service providers have begun to offer a pay-per-transaction biometrics service offering. This service allows organizations to biometrically identify or verify employees, customers, or other individuals relevant to their business. A pay-per-transaction model may be potentially more financially attractive for some organizations as compared to the cost of purchasing, installing and maintaining internal biometrics systems.
+
+&#160;
+
+Examples of companies offering biometrics services include: 1) Certibio Identidade Biometrica, a wholly-owned subsidiary of Certisign Certificadora Digital S.A. (&#8220;Certisign&#8221;); 2) Safran Morpho; and 3) Daon.
+
+&#160;
+
+5) Vendors of biometrically-enabled solutions Vendors of biometrically-enabled solutions provide products that are not principally marketed as biometrics products, but include biometric functionality. Biometrics capability is a feature, but not the chief function of these products. Such vendors represent a potential opportunity for core biometrics technology providers as some of them do not own core biometrics technology.
+
+&#160;
+
+Examples of companies that offer biometrically-enabled smartphone products include: 1) Apple, Inc.; 2) Samsung Electronics Co., Ltd.; and 3) Google, Inc.
+
+&#160;
+
+Examples of companies that offer secure identification/access solutions that incorporate biometrically-enabled components include: 1) Gemalto NV; 2) HID; 3) Entrust Datacard Corporation; and 4) Oberthur Technologies.
+
+&#160;
+
+Examples of companies that offer physical access control solutions that may incorporate biometrics include: 1) Honeywell International, Inc.; 2) Tyco International Ltd.; 3) Lenel Systems International Inc.; and 4) Stanley Security Limited.
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+Products and Services
+
+&#160;
+
+Software products 
+
+&#160;
+
+We sell a broad range of biometrics software products for fingerprint, facial, and iris modalities. Our software products enable important functions in biometrics systems, including:
+
+&#160;
+
+1. Enrollment, analysis, and processing of biometric images and data on workstations or mobile devices. 2. Integration of peripheral biometric capture devices. 3. Centralized workflow, transaction processing, and subsystem integration. 4. Matching of biometric samples against biometric databases to authenticate or verify identities; and 5. Analysis and processing of text-based identity data. &#160;
+
+Our biometrics software products range from discrete software blocks that customers can use to develop their own solutions to more complete applications that customers can use to reduce or eliminate their development times. We classify our biometrics software products into five product groups, including, i) Software Development Kits; ii) Enrollment Controls and Applets; iii) Applications; iv) Middleware/Workflow Server; and v) Cluster Computing Platform. Each of these product groups is described below.
+
+&#160;
+
+1) Software Development Kits . Our software development kits or (&#8220;SDKs&#8221;) consist of: i) multiple software libraries; ii) sample applications that show customers how to use the libraries; and iii) documentation. Customers use our SDKs to design and develop biometrics applications. Our SDK products may be categorized into three groups: i) Enrollment; ii) Search and Matching; and iii) Identity Data Management and Analytics. These products are described below. &#160;
+
+SDK Group 1: Enrollment SDKs . Our suite of enrollment SDKs performs a variety of functions that are critical to biometric enrollment, including image capture, image quality assurance, image formatting, and image compression. Our enrollment SDK products include:
+
+&#160;
+
+&#183; Hardware abstraction, autocapture, and quality assurance products , including: i) LiveScan API; ii) PreFace TM ; iii) IrisCheck TM ; and iv) SequenceCheck TM . &#160;
+
+&#183; Biometric data formatting, validation and reading products , including: i) NISTPack; ii) ICAOPack; and iii) PIVPack TM . &#160;
+
+&#183; Fingerprint, facial, and iris image compression and decompression products, including: i) Aware WSQ1000; and ii) Aware JPEG2000. &#160;
+
+&#183; Fingerprint card scanning and printing products , including: i) AccuScan TM ; and ii) AccuPrint TM . &#160;
+
+&#183; Mobile products for smartphones and tablets , including: i) NISTPack Mobile; ii) WSQ1000 Mobile; iii) ICAOPack Mobile; iv) PIVPack TM Mobile; v) AwareXM TM Mobile, and vi) PreFace TM Mobile. &#160;
+
+&#183; Application specific bundles , including CaptureSuite TM which is used for the development of applications for the capture of live scan or card scan fingerprint images. &#160;
+
+SDK Group 2: Biometric Search and Match SDKs . Our Nexa&#8482; line of biometric search and matching products for fingerprint, face and iris includes our Nexa|Fingerprint&#8482;, Nexa|Face&#8482;, and Nexa|Iris&#8482; products. These products contain algorithms that convert images into biometric templates. A biometric template is a mathematical representation of a biometric image. Templates can then be compared to templates stored in databases to find matches. Our Nexa products also compare and match templates.
+
+&#160;
+
+Each Nexa SDK can be deployed on a workstation or a server, either as a standalone biometric search/match API, or in combination with our other SDKs, applications, and BioSP product. Our SequenceCheck, PreFace, and IrisCheck SDKs may be used in concert with Nexa libraries to perform optional quality assurance and preprocessing for enhanced fingerprint, face, and iris search and match functionality.
+
+&#160;
+
+Our biometric search and match SDKs also include our AwareXM&#8482; product which extracts and matches MINEX-compliant fingerprint templates.
+
+&#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160;
+
+SDK Group 3: Text Search and Identity Analytics SDKs . We have two products in this SDK group, including: i) Inquire|Search&#8482;; and ii) Inquire|Resolve&#8482;. These products contain algorithms for text-based filtering, searching, matching, and linking functions to discover useful information in identity data. Product capabilities include: i) integrating and resolving identity-centric data across multiple data stores; ii) assessing data quality and detecting anomalies; iii) performing link analysis and relationship discovery; and iv) performing text-based pre- and post-filtering of biometric searches.
+
+&#160;
+
+2) Enrollment Controls and Applets. This group of products consists of our BioComponents TM line of products. Our BioComponents products allow customers to develop biometric enrollment applications more quickly than if they purchased our SDKs. Each product in the group includes a user interface and one or more software libraries that perform a discrete set of functions, such as automated image capture, quality assurance, and capture hardware integration. BioComponents comprise modular, independent, self-contained software components that can operate either independently or in concert with one another. Specific BioComponents products and the functions they perform are: &#160;
+
+&#183; BiographicComponent enables highly configurable data entry of biographic and textual information. &#183; FingerprintComponent is used to capture, verify image quality, and compress fingerprint images. &#183; FaceComponent is used to capture, verify image quality, and manipulate facial images. &#183; IrisComponent is used to capture, segment, and verify image quality of iris images. &#183; TravelDocComponent is used to authenticate travel documents, such as passports and driver&#8217;s licenses. &#183; ScanningComponent is used to scan forms such as inked fingerprint cards. &#183; PrintingComponent is used for printing FBI-quality fingerprint images on cards and forms. &#183; SignatureComponent is used to collect handwritten signature images from an electronic signature pad. &#183; PackagingComponent allows access to the data sets from the other components. &#160;
+
+3) Applications. Our products in this category combine user interfaces with multiple Aware software libraries and/or BioComponents to create more complete applications that operate on client workstations or mobile devices. Our application products and the functions they perform are: &#160;
+
+&#183; Universal Registration Client (&#8220;URC TM &#8221;). URC is a configurable Windows-based application that performs a variety of biometric data capture, analysis, matching, formatting, and hardware abstraction functions. &#160;
+
+&#183; URC Mobile . URC Mobile is a software application for performing biometric enrollment, identification, and screening on mobile biometric devices, such as those used by military personnel in the field. &#160;
+
+&#183; FormScannerSE and FormScannerMB . These are two independent applications for scanning and processing of inked fingerprint cards. &#160;
+
+&#183; FormScannerSWFT . This product is a version of FormScannerSE that is preconfigured for use in compliance with the &#8220;Secure Web Fingerprint Transmission&#8221; program of the U.S. Department of Defense. &#160;
+
+&#183; Forensic Workbench . Forensic Workbench is a software application for the categorization, processing, and standards-compliant formatting of biometric images and demographic data. &#160;
+
+&#183; Sequence Workbench . Sequence Workbench is a software application for the detection and assisted repair of fingerprint records containing sequence errors. &#160;
+
+&#183; CrosslinkWorkbench . CrosslinkWorkbench is an application that utilizes several Aware SDKs for assisting with identifying and repairing of crosslink errors in ANSI/NIST ITL transactions. Crosslinks are biometric records that erroneously contain data from different individuals. &#160;
+
+&#183; FaceWorkbench . FaceWorkbench provides a user interface and systematic workflow to enable an analyst to analyze and process the candidates returned from a biometric face search. &#160;
+
+&#183; WebEnroll . WebEnroll provides a reference application that uses BioComponents for browser-based enrollment of biographic data, fingerprints, facial images, and iris images. &#160;
+
+4) Middleware/Workflow Server . Our Biometric Services Platform, or BioSP TM product, is a service-oriented application used to enable workflow, subsystem integration, and biometric data processing and management. BioSP is suited for applications that require the collection of biometrics throughout a distributed network. BioSP is designed to be modular, programmable, scalable, and secure. It is used to manage transaction workflow, including messaging, submissions, responses, and logging. &#160;
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160;
+
+Key BioSP features and functionality include:
+
+&#160;
+
+&#183; automated biometric image and data analysis, processing, formatting, quality assurance, and reporting. &#183; web services in support of a scalable, secure, service-oriented architecture. &#183; integration of biometric functions with other enterprise systems such as identity management, access management, card management, and AFIS/ABIS. &#183; One-to-one and one-to-many biometric matching for verification, identification, and duplicate checking. &#183; centralized system administration and user management. &#183; advanced reporting capabilities for fast troubleshooting of biometric capture problems. &#183; centralized configuration, distribution, and management of enrollment client software. &#183; support for fingerprint, facial, iris, and palm modalities. &#160;
+
+5) Cluster Computing Platform . In 2015, we introduced our Astra TM cluster computing platform. Astra is a software platform that performs large-scale identity-related security tasks, including: i) biometric search and match; ii) biometric authentication; and iii) identity analytics. Astra distributes computing operations across a cluster of computing nodes, enabling rapid search of very large biometric databases and execution of high volumes of biometric authentications. Astra is designed to be algorithm-independent, but also works seamlessly with other Aware products, including our Nexa, Inquire, and BioSP products. &#160;
+
+Imaging products 
+
+In addition to our biometrics software products, we also sell products used in applications involving medical and advanced imaging. Our principal imaging product is Aware JPEG 2000, which is based on the JPEG2000 standard. The JPEG2000 standard is an image compression standard and coding system that was created by the Joint Photographic Experts Group committee in 2000. Our JPEG2000 product is used to compress, store, and display images. Those images are typically medical images.
+
+&#160;
+
+Software maintenance 
+
+&#160;
+
+We also sell software maintenance contracts to many of our customers who purchase software licenses. These contracts typically have a one year term during which customers have the right to receive technical support and software updates, if and when they become available. Customers tend to renew maintenance contracts during the period of time that our software is being used in their biometrics systems.
+
+&#160;
+
+Services 
+
+&#160;
+
+We offer a variety of software engineering services, including: i) project planning and management; ii) system design; iii) software design, development, customization, configuration, and testing; and iv) software integration and installation. Services are typically, but not always, sold in conjunction with software licenses.
+
+&#160;
+
+Service engagement deliverables may include: i) custom-designed software products; ii) custom-configured versions of existing software products; iii) one or more subsystems comprised of software products that are integrated within a larger system; or iv) complete software solutions. In some cases, the software resulting from service engagements may form the basis for new or improved Aware software products.
+
+&#160;
+
+Our customers for services include: i) government agencies; ii) large multinational systems integrators; iii) smaller systems integrators with a particular market, technology or geographic focus; and iv) commercial providers of products, solutions, and services. We provide services directly to end-users or indirectly to end-users through systems integrators. When we provide services to systems integrators, they are often engaged with the end-user as a prime contractor and are responsible for delivery of a complete solution, in which case we typically serve as a subcontractor assigned a subset of the total scope of work.
+
+&#160;
+
+The scope of our services projects varies. A small project might involve configuration and testing of a single software product, taking a small team one month or less. A large project might involve delivery of a more complex solution comprised of multiple products and subsystems, requiring a larger team to conduct project management, system design, software customization and integration, and taking up to one year or more. Some projects are followed by subsequent projects that serve to change or extend the features and functionality of the initial system.
+
+&#160;
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160;
+
+Hardware products 
+
+&#160;
+
+We developed a biometrics software system for a U.S. government customer under a Small Business Innovation Research (&#8220;SBIR&#8221;) contract that began in 2008 and ended in early 2013. When the software development project ended in early 2013, we entered into a separate contract to supply hardware products incorporating the developed software. Hardware products sold to this customer integrate the developed software with: i) hardware purchased from third parties; ii) software purchased from third parties; and iii) some of our biometrics software products. While other customers could theoretically purchase the hardware products developed for this customer, we believe that it is unlikely that they will do so, because of the highly customized nature of the products.
+
+&#160;
+
+Sales and Marketing
+
+&#160;
+
+As of December 31, 2015, we had a total of 11 employees in our sales and marketing organization. In addition to our employee sales staff, we also engage third party sales agents to sell our products and services in foreign countries.
+
+&#160;
+
+We sell our products and services through three principal channels of distribution:
+
+&#160;
+
+i) Systems integrator channel &#8211; we sell to systems integrators that incorporate our software products into biometrics systems that are delivered primarily to government end users. &#160;
+
+ii) OEM channel &#8211; we sell to hardware and software solution providers that incorporate our software products into their products. &#160;
+
+iii) Direct channel &#8211; we also sell directly to government, and, to a lesser degree, to commercial customers. &#160;
+
+All of our revenue in 2015, 2014, and 2013 was derived from unaffiliated customers. Revenue from Certisign Certificadora Digital S.A. represented 10%, 2%, and 0% of revenue during 2015, 2014, and 2013, respectively. Revenue from the U.S. Navy represented 9%, 24%, and 21% of total revenue during 2015, 2014, and 2013, respectively. Revenue from the U.S. Marine Corps represented 3%, 10%, and 3% of total revenue during 2015, 2014, and 2013, respectively. No other customer represented 10% or more of total revenue in any of those years.
+
+&#160;
+
+Competition 
+
+&#160;
+
+The markets for our products and services are competitive and uncertain. We compete against: i) other companies that provide biometric software solutions; and ii) fully diversified companies that provide biometric software solutions and also act as systems integrators. We can give no assurance that: i) our products and services will succeed in the market; ii) that we will be able to compete effectively; or iii) that competitive pressures will not seriously harm our business.
+
+&#160; 
+
+Many of our competitors are larger than us and have significantly greater financial, technological, marketing and personnel resources than we do. At the other end of the competitive spectrum, we have seen increasing competition from smaller biometrics companies in foreign countries. These smaller foreign competitors have demonstrated a willingness to sell their biometrics software products at low prices.
+
+&#160;
+
+We can give no assurance that our customers will continue to purchase products from us or that we will be able to compete effectively in obtaining new customers to maintain or grow our business.
+
+&#160;
+
+Aware&#8217;s Strategy
+
+&#160;
+
+Our strategy is to capitalize on our strong brand and reputation to sell biometrics software products and services into government and commercial markets. We intend to offer a broad portfolio of high quality products that are coupled with expert technical support and services. We expect to continue to employ a three-pronged distribution strategy using systems integrators, OEMs, and direct sales.
+
+&#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160;
+
+Our strategy for growing our biometrics business may include one or more of the following elements:
+
+&#160;
+
+i) Product strategy &#8211; Our product strategy is to offer more complete biometrics solutions. We believe this strategy will allow us to us to sell more software and services into biometrics projects. We recognized the need to make this transition several years ago and developed new products to enable this strategy. &#160; 
+
+Our strategy to offer complete solutions involves:
+
+&#160;
+
+&#183; Product line expansion - Our aim is to expand our product portfolio by adding new products and increasing the functionality of existing products using our internal engineering teams. This means we may add resources to our engineering staff. To the extent we are unable to develop critical new technologies internally, we may purchase or license such technologies from third parties. Alternatively, we may also acquire biometrics companies provided we believe the acquisition cost is reasonable relative to the estimated future revenue and profits the acquired company may produce. &#160;
+
+&#183; Engineering services &#8211; We believe that services are an important element of our strategy to sell complete solutions. We intend to have adequate engineering resources on hand to ensure that we can staff projects with the technical expertise we need to win new projects. &#160;
+
+ii) Market strategy &#8211; Our market strategy is to continue to focus on our legacy government biometrics market and expand into new commercial biometrics markets. Historically our revenue has been primarily derived from the government biometrics market and we intend to continue our focus there. &#160;
+
+We believe the evolution of commercial markets over the past few years may present opportunities for us. While it is unlikely that we will pursue opportunities in the consumer mass market segment of the market, we are beginning to see opportunities in the enterprise segment. The requirements of the enterprise segment appear to be well suited to our technology, products, and expertise.
+
+&#160;
+
+iii) Sales strategy &#8211; While the United States remains a large market, we believe there are attractive growth opportunities in international markets. We intend to continue our focus on international markets and pursue opportunities there through additions to our sales staff, as well as through the use of third party sales agents. &#160;
+
+As we attempt to grow our biometrics business, we may make investments in growth initiatives, such as those described above, that may cause our profitability to decline in the near term.
+
+&#160;
+
+Our strategy does not include growing biometrics hardware revenue. Hardware revenue in 2015, 2014 and 2013 represents an accommodation to an important customer. Other than a $0.3 million order in backlog as of December 31, 2015, it is unlikely that we will have meaningful sales of hardware in future periods as this customer appears to have completed the bulk of its purchasing.
+
+&#160;
+
+Backlog 
+
+&#160; 
+
+We had $6.6 million of backlog on December 31, 2015. We define backlog as revenue items in deferred revenue and undelivered orders in our backlog report. Total backlog of $6.6 million included: i) $3.7 million of software licenses that will be recognized over the first ten months of 2016; ii) $2.3 million of software maintenance revenue of which approximately $2.2 million will be recognized during 2016; iii) $0.3 million of services that we anticipate will be delivered in the first quarter of 2016; and iv) $0.3 million of hardware that we anticipate will be delivered in the first quarter of 2016. 
+
+&#160; 
+
+Research and Development
+
+&#160;
+
+Our research and development activities are focused on enhancing our existing products and developing new products. Our engineering organization is based in Bedford, Massachusetts. As of December 31, 2015, we had an engineering staff of 47 employees, representing 68% of our total employee staff.
+
+&#160;
+
+During the years ended December 31, 2015, 2014, and 2013, research and development expenses totaled $5.8 million, $5.5 million, and $4.1 million, respectively. We expect that we will continue to invest substantial funds in research and development activities.
+
+&#160;
+
+&#160; 13 &#160; 
+
+&#160;
+
+&#160;
+
+Patents and Intellectual Property 
+
+&#160;
+
+We rely on a combination of nondisclosure agreements and other contractual provisions, as well as patent, trademark, trade secret and copyright law to protect our proprietary rights. We have an active program to protect our proprietary technology through the filing of patents. As of December 31, 2015, we had approximately 38 U.S. and foreign patents and approximately 31 pending patent applications. Our patents and patent applications pertain primarily to biometrics and imaging compression.
+
+&#160;
+
+Although we have patented certain aspects of our technology, we rely primarily on trade secrets to protect our intellectual property. We attempt to protect our trade secrets and other proprietary information through agreements with our customers, suppliers, employees and consultants, and through security measures. Each of our employees is required to sign a non-disclosure and non-competition agreement. Although we intend to protect our rights vigorously, we cannot assure you that these measures will be successful. In addition, effective intellectual property protection may be unavailable or limited in certain foreign countries.
+
+&#160;
+
+Third parties may assert exclusive patent, copyright and other intellectual property rights to technologies that are important to us. From time to time, we receive claims from third parties suggesting that we may be obligated to license such intellectual property rights. If we were found to have infringed any third party&#8217;s patents, we could be subject to substantial damages or an injunction preventing us from conducting our business.
+
+&#160;
+
+Manufacturing &#38; Systems Integration
+
+&#160;
+
+We do not design or manufacture hardware products, however we provide systems integration services for one U.S. government customer. Our systems integration activities include: i) procuring hardware and software components from third party suppliers; ii) installing Aware and third party software on the purchased hardware; and iii) testing products for quality assurance prior to shipment.
+
+&#160;
+
+We rely on single source suppliers for certain critical hardware and software components. Our dependence on single source suppliers involves several risks, including limited control over availability, quality, and delivery schedules. Any delays in delivery or shortages of such components could cause delays in the shipment of our products, which could harm our business.
+
+&#160;
+
+Employees
+
+&#160;
+
+At December 31, 2015, we employed 69 people, including 47 in engineering, 11 in sales and marketing, and 11 in finance and administration. Of these employees, 66 were based in Massachusetts. None of our employees are represented by a labor union. We consider our employee relations to be good.
+
+&#160;
+
+We believe that our future success will depend in large part on the service of our technical, sales, marketing and senior management personnel and upon our ability to retain highly qualified technical, sales and marketing and managerial personnel. We cannot assure you that we will be able to retain our key managers and employees or that we will be able to attract and retain additional highly qualified personnel in the future.
+
+&#160;
+
+DSL Discontinued Operations 
+
+&#160;
+
+From the early 1990s until 2013, we were engaged in the Digital Subscriber Line (&#8220;DSL&#8221;) industry. We sold the assets of our DSL semiconductor intellectual property business in 2009, and shut down our DSL service assurance hardware and software businesses in 2012 and 2013, respectively. Results from the shutdown of our DSL service assurance software businesses were reported in discontinued operations in the year ended December 31, 2013.
+
+&#160;
+
+Notwithstanding the sale of DSL semiconductor intellectual property assets in 2009, we continue to receive royalty payments from two customers. DSL royalties are reported in continuing operations in accordance with ASC 205-20, Reporting Discontinued Operations, because we have continuing cash flows from this business. DSL royalties have been declining in recent years and represented approximately 2% of total revenue in 2015. We expect royalties will continue to decline in future periods.
+
+&#160;
+
+&#160; 14 &#160; 
+
+&#160;
+
+&#160;
+
+Segment Information; Financial Information About Geographic Areas 
+
+&#160; 
+
+We organize ourselves into a single segment that reports to the chief operating decision makers. Summaries of revenue by geographic regions and revenue by product group are set forth in Note 9 to our consolidated financial statements included elsewhere in this Annual Report.
+
+&#160;
+
+Available Information 
+
+&#160;
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are made available free of charge on or through our website at www.aware.com as soon as reasonably practicable after such reports are filed with, or furnished to, the Securities and Exchange Commission (the SEC). The SEC also maintains a website, www.sec.gov, that contains reports and other information regarding issuers that file electronically with the SEC. Such reports, proxy statements, and other information may also be obtained by visiting the Public Reference Room of the SEC at 100 F Street, N.E., Washington, DC, 20549 or by calling the SEC at 1-800-SEC-0330.
+
+&#160;
+
+Copies of our (i) Corporate Governance Principles, (ii) charters for the Audit Committee, Compensation Committee, and Nominating Committee, and (iii) Code of Ethics are available in the Investor Relations section of our website at www.aware.com .
+
+&#160;
+
+&#160; 15 &#160; 
+
+&#160;
+
+&#160;
+

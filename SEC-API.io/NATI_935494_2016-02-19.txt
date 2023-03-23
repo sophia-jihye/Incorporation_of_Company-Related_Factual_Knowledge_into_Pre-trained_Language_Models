@@ -1,0 +1,550 @@
+ ITEM 1. BUSINESS 
+
+&#160; 
+
+National Instruments Corporation (&#8220;NI&#8221;, &#8220;we&#8221;, &#8220;us&#8221; or &#8220;our&#8221;) designs, manufactures and sells systems to engineers and scientists that accelerate productivity, innovation and discovery. Our platform-based approach to engineering provides an integrated software and hardware platform that speeds the development of systems needing measurement and control. We believe our long-term vision and focus on technology supports the success of our customers, employees, suppliers and stockholders. 
+
+&#160; 
+
+We are based in Austin, Texas, were incorporated under the laws of the State of Texas in May 1976 and were reincorporated in Delaware in June 1994. In March 1995, we completed an initial public offering of our common stock. Our common stock, $0.01 par value, is quoted on the NASDAQ Stock Market under the trading symbol NATI. 
+
+&#160; 
+
+Our website is http://www.ni.com. Our annual report s on Form 10-K, quarterly reports on Form 10-Q , current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T are available through our Internet website as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the SEC, or upon written request without charge. Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K. 
+
+&#160; 
+
+Industry Background 
+
+&#160; 
+
+Engineers and scientists use instrumentation to observe, understand , and manage the real-world phenomena, events and processes related to their industries or areas of expertise. Instrumentation systems measure and control electrical signals, such as voltage, current and power, as well as temperature, pressure, speed, flow, volume, torque , and vibration. Common general-purpose instruments include voltmeters, signal generators, oscilloscopes, data loggers, spectrum analyzers, cameras, and temperature and pressure monitors and controllers. Some traditional instruments are also highly application-specific, designed with fixed functionality to measure specific signals for particular vertical industries or applications. Instruments used for industrial automation applications include data loggers, strip chart recorders, programmable logic controllers (&#8220;PLCs&#8221;), and proprietary turn-key devices or systems designed to automate or control specific vertical applications. 
+
+&#160; 
+
+Systems that perform measurement and control can be generally categorized as test, measurement, and embedded systems. These systems access real-world phenomena and &#160; are used throughout the research, design, manufacture, and service phases of a wide variety of products and applications. 
+
+&#160; 
+
+Historically, engineers and scientists have used a variety of high-cost systems that operated independently and could be difficult to customize. Due to the limitations of these systems, adapting them to changing needs can be expensive and time-consuming, and users must often purchase multiple single-purpose instruments, controllers, loggers , and other peripherals. 
+
+&#160; 
+
+Our Approach to Measurement and Automation 
+
+&#160; 
+
+NI offers a different approach called graphical system design. This approach provides an integrated hardware and software platform for measurement and control systems that can be defined by the customer. This allows systems to more easily adapt to changing requirements and technologies over time. NI hardware and software also leverage commercially available technology whenever possible to deliver performance and cost benefits to our customers. Therefore, these customer-defined systems are more flexible, with higher performance and lower costs, compared to traditional vendor-defined systems. 
+
+&#160; 
+
+NI equips engineers and scientists with systems that accelerate productivity, innovation and discovery. Our customers use our platform to develop test, measurement, control and embedded systems across multiple industries from design to production, for advanced research, and to teach engineering and science. 
+
+3 &#160; 
+
+&#160;
+
+Compared with traditional solutions, we believe our products and our platform-based approach provide the following significant benefits to our customers: 
+
+&#160; 
+
+Simpler, Faster Development 
+
+&#160; 
+
+Customers face changing requirements and technologies while having to create more intelligent systems with fewer resources than ever. Our software-based approach simplifies the complexity of creating these systems by providing higher level interfaces to access changing technology and a way to easily upgrade through software while other fixed function systems require new hardware. When hardware changes are required, our modular, reconfigurable platforms enable users to easily change only the functions they need while preserving software continuity over time. In this way, the graphical system design platform-based approach can accelerate the development of any system that needs measurement and control. 
+
+&#160; 
+
+Performance and Efficiency 
+
+&#160; 
+
+O ur software brings the power of commercial computers, handheld devices, networks and the Internet to instrumentation and embedded devices. With features such as graphical programming, automatic code generation, graphical tools libraries, ready-to-use example programs, libraries of specific instrumentation functions, and the ability to deploy applications on a range of platforms, scientists and engineers can quickly build a system that meets individual application needs. Because the continuous performance improvement of personal computers (&#8220;PCs&#8221;), Field Programmable Gate Arrays (&#8220;FPGAs&#8221;) and networking technologies are the core platforms for our approach, scientists and engineers can quickly realize direct performance benefits , faster execution for measurement and automation applications, shorter test times, faster automation, higher performing embedded systems and higher manufacturing throughput. 
+
+&#160; 
+
+Modularity, Reusability and Reconfigurability 
+
+&#160; 
+
+Our products include reusable hardware and software modules to provide considerable flexibility in configuring systems. This ability to reconfigure measurement and automation systems allows users to quickly adapt their systems to new and changing needs, eliminate duplicated programming efforts, and ultimately improve their efficiency and productivity. In addition, these features help protect both hardware and software investments against obsolescence. 
+
+&#160; 
+
+Lower Total Solution Cost 
+
+&#160; 
+
+NI solutions offer price to performance and energy-efficiency advantages over traditional proprietary systems. Graphical system design allows customers to equip powerful industry-standard computers, with reusable system design software and modular cost-effective hardware. In addition, these systems give engineers and scientists the flexibility and portability to adapt to changing needs, while offering a smaller form factor that occupies less space on the manufacturing floor and consumes less energy than traditional instrumentation equipment. 
+
+&#160; 
+
+Products, Technology and Services 
+
+&#160; 
+
+We offer an extensive line of measurement, automation and control products to work either separately, as stand-alone products or as an integrated system; however, customers generally purchase our software and hardware together. We believe that the flexibility, functionality and ease of use of our system design software promotes sales of our other software and hardware products. We offer volume licensing that helps customers maximize their system investment by reducing total cost of ownership and simplifying their software standardization , budgeting, purchasing and upgrading efforts . 
+
+&#160; 
+
+System Design Software 
+
+&#160; 
+
+For more than 30 years, NI has invested in its flagship software product, LabVIEW, which the company believes is the ultimate system design software for measurement , automation and control. LabVIEW promotes problem-solving, accelerates productivity, and empowers innovation. With LabVIEW, users program graphically and can design custom virtual instruments by connecting graphical icons with software wires to create &#8220;block diagrams&#8221; which are natural design notations for scientists and engineers. Users can customize front panels with knobs, buttons, dials and graphs to emulate control panels of instruments or add custom graphics to visually represent the control and operation of processes. 
+
+&#160; 
+
+LabVIEW is a comprehensive development environment with hardware integration and wide-ranging compatibility that engineers and scientists need to design and deploy measurement, automation and control systems. The LabVIEW programming environment is graphical, with engineering-specific libraries of software engineering functions and hardware interfaces. It also offers data analysis, visualization, and sharing features. Engineers and scientists can bring their vision to life with LabVIEW, and have access to a vast ecosystem of partners and technology alliances, and a global and active user community. When customers use LabVIEW, combined with the modular hardware approach with NI data acquisition, NI CompactRIO and PCI Extensions for Instrumentation (&#8220;PXI&#8221;) platforms, they are able to quickly integrate system components and do their jobs faster, more efficiently , and at a lower cost. 
+
+&#160; 
+
+4 &#160; 
+
+&#160;
+
+LabVIEW Real-Time and LabVIEW FPGA are strategic modular software add-ons to LabVIEW. With LabVIEW Real-Time, the user can easily configure their application program to execute using a real-time operating system kernel instead of a general purpose operating system, so users can easily build deterministic solutions. In addition, with LabVIEW Real-Time, users can easily configure their programs to operate remotely on embedded processors in PXI-based systems, on embedded processors inside NI CompactRIO distributed I/O systems, or on processors embedded on plug-in PC data acquisition boards. With LabVIEW FPGA, the user can configure their application to execute directly in silicon via a FPGA residing on one of our reconfigurable I/O hardware products. LabVIEW FPGA allows users to build their own highly specialized, custom hardware devices for ultra high-performance requirements or for unique or proprietary measurement or control protocols. 
+
+&#160; 
+
+The LabVIEW Communications System Design Suite is a targeted version of LabVIEW that we built specifically for wireless prototyping. This customized version includes new workflows, specialized IP, and offers a design environment closely integrated with NI software defined radio ( &#8220; SDR &#8221; ) hardware for rapidly prototyping communications systems including FPGA-based SDR hardware. LabVIEW Communications simplifies the design process that is complicated by today&#8217;s disparate hardware and software tools. Users define and manage the entire prototyping process with a single design tool, and rapidly deploy new algorithms to hardware. LabVIEW Communications also provides a plug-in architecture to offer productive starting points with open application frameworks for LTE, 802.11 and other key standards. 
+
+&#160; 
+
+Programming Tools 
+
+&#160; 
+
+In addition to LabVIEW, NI offers LabWindows/CVI and Measurement Studio as alternative programming environments. LabWindows/CVI users use the conventional, text-based programming language of C for creating test and control applications. LabWindows/CVI also provides a Real-Time module to allow for C-based development of real-time systems in automated test applications. Measurement Studio consists of measurement and automation add-on libraries and additional tools for programmers who prefer Microsoft&#8217;s Visual Studio development environments. 
+
+&#160; 
+
+Application Software 
+
+&#160; 
+
+NI offers a suite of application software products, including NI TestStand, NI VeriStand, NI DIAdem, NI InsightCM Enterprise and NI Multisim, which are compl e mentary to LabVIEW, LabWindows/CVI, Measurement Studio and 3rd party software. &#160; 
+
+&#160; 
+
+NI TestStand . NI TestStand is targeted for test and measurement applications in a manufacturing environment. NI TestStand is a test management environment for organizing, controlling, and running automated prototype, validation, and manufacturing test systems. It also generates customized test reports and integrates product and test data across the customers&#8217; enterprise and across the Internet. NI TestStand manages tests that are written in LabVIEW, LabWindows/CVI, Measurement Studio, C and C++, and Microsoft Visual Basic, so test engineers can easily share and re-use test code throughout their organization and from one product to the next. NI TestStand is a key element of our strategy to broaden the reach of our application software products across the corporate enterprise. 
+
+&#160; 
+
+NI VeriStand. NI VeriStand is a ready-to-use software environment for configuring real-time testing applications, including hardware-in-the-loop (&#8220;HIL&#8221;) test systems. With NI VeriStand, users configure real-time I/O, stimulus profiles, data logging, alarming, and other tasks; implement control algorithms or system simulations by importing models from a variety of software environments; build test system user interfaces quickly; and add custom functionality using NI LabVIEW, NI TestStand, and other software environments. 
+
+&#160; 
+
+NI DIAdem . NI DIAdem offers users configuration-based technical data management, analysis, and report generation tools to interactively mine and analyze data. NI DIAdem helps users make informed decisions and meet the demands of today&#8217;s testing environments, which require quick access to large volumes of scattered data, consistent reporting, and data visualization. 
+
+&#160; 
+
+NI InsightCM Enterprise. NI InsightCM Enterprise is a software solution with tightly integrated hardware options for monitoring critical and ancillary rotating equipment. With this solution, a user can acquire, analyze, and visualize data from a wide breadth of sensors to interpret the health of the user&#8217;s machines with confidence . Companies can use this cost-effective, open, and flexible solution to monitor a larger percentage of their fleet and meet evolving maintenance requirements. 
+
+&#160; 
+
+NI Multisim Circuit Design Software. NI Multisim is an industry-standard, Simulation Program with Integrated Circuit Emphasis ( &#8220; SPICE &#8221; ) simulation environment. It is the cornerstone of the NI circuits teaching solution to build expertise through practical application in designing, prototyping, and testing electrical circuits. 
+
+&#160; 
+
+5 &#160; 
+
+&#160;
+
+Modular Hardware Products and Related Driver Software 
+
+&#160; 
+
+Using cutting-edge commercial technology, such as the latest microprocessors, Analog to Digital Converters (&#8220;ADCs&#8221;), FPGAs, and PC busses, our hardware delivers modular and easy-to-use solutions for a wide range of applications &#8211; from automated test and data logging to industrial control , and embedded design. Our hardware and related driver software products include data acquisition (&#8220;DAQ&#8221;), PXI chassis and controllers, modular instruments, image acquisition, motion control, distributed I/O, industrial communications interfaces, General Purpose Interface Bus (&#8220;GPIB&#8221;) interfaces, embedded control hardware/software and VME Extension for Instrumentation (&#8220;VXI&#8221;) Controllers. The high level of integration among our products provides users with the flexibility to mix and match hardware components when developing custom virtual instrumentation systems. 
+
+&#160; 
+
+Data Acquisition (DAQ) Hardware/Driver Software. Our DAQ hardware and driver software products are &#8220;instruments on a board&#8221; that users can combine with sensors, signal conditioning hardware and software to acquire analog data and convert it into a digital format that can be accepted by a computer. Computer-based DAQ products are typically a lower-cost solution than traditional instrumentation and exploit the processing power, display, and connectivity capabilities of industry-standard computers. Applications suitable for automation with computer-based DAQ products are widespread throughout many industries, and many systems currently using traditional instrumentation (either manual or computer-controlled) could be displaced by computer-based DAQ systems. We offer a range of computer-based DAQ products with a variety of form factors and degrees of performance. In 2006, we introduced NI CompactDAQ, a rugged, portable, USB data acquisition system designed for high-performance mixed-signal measurement systems. Since its introduction, we have expanded the CompactDAQ platform with wireless and Ethernet technologies that have extended the reach of computer-based DAQ from across the lab to around the world. The platform also offers high-performance stand-alone systems for embedded measurement and logging. NI DAQ products also include X Series DAQ which delivers state-of-the-art measurement, generation, timing and triggering on a single device. 
+
+&#160; 
+
+PXI Modular Instrumentation Platform. Our PXI modular instrument platform, which was introduced in 1997, is a standard PC packaged in a small, rugged form factor with expansion slots and instrumentation extensions for timing, triggering and signal sharing. It combines mainstream PC software and PCI hardware with advanced instrumentation capabilities. In essence, PXI is an instrumentation PC with several expansion slots supporting complete system-level opportunities and delivering a high percentage of the overall system content using our products. We continue to expand our PXI product offerings with new modules, which address a wide variety of measurement and automation applications. The platform is now a testing standard, with a wide array of companies developing applications on the platform and investing in its future through the PXI System Alliance (&#8220;PXISA&#8221;). In 2006, we introduced our first PXI Express products which provide backward software compatibility with PXI while providing advanced capabilities for high-performance instrumentation, such as RF instrumentation. Today, we have a rapidly expanding portfolio of PXI Express products that are further expanding the capabilities of this important platform. 
+
+&#160; 
+
+Modular Instruments. We offer a variety of modular instrument devices used in general purpose test and communication test applications. These devices include digitizers, digital multimeters, signal generators, RF analyzers/generators, power supplies, source measurement units and switch modules that users can configure through software to meet their specific measurement requirements . Because these instruments are modular and software-defined, they can be quickly interchanged and easily repurposed to meet evolving test needs. Additionally, our modular instruments provide high-speed test execution by harnessing the power of industry-standard PCs, FPGAs and advanced timing and synchronization technologies. Options are available for a variety of platforms including PXI, PXI Express, PCI, PCI Express, and USB. 
+
+&#160; 
+
+Machine Vision/Image Acquisition. &#160; Our machine vision platform includes a range of hardware platform options, from embedded NI Smart Cameras that integrate the sensor and processor in a single package to plug-in boards for PCI and PXI systems. We offer two scalable software options for use across the entire NI vision hardware portfolio. A user can configure a system with NI Vision Builder for Automated Inspection, an easy-to-use, stand-alone package for machine vision, or program it using the NI Vision Development Module, a comprehensive library of imaging functions. With NI Vision hardware, a user can build high-performance, PC based systems using the latest processor techniques with NI Frame Grabbers, save on cost and space by combining an image sensor and real-time embedded processors into one rugged, industrial package with NI Smart Cameras, or harness multicore performance with fanless designs, connectivity to multiple cameras and reconfigurable digital I/O with NI Vision systems. 
+
+&#160; 
+
+Motion Control. By integrating flexible software with high-performance hardware, our motion control products offer a powerful solution for motion system design. From automating test equipment and research labs to controlling biomedical, packaging, and manufacturing machines, engineers use our motion products to meet a diverse set of application challenges. Our software tools for motion easily integrate with our other product lines, so users can combine motion control with image acquisition, test, measurement, data acquisition, and automation to create robust, flexible solutions. We introduced our first line of motion control hardware, software and peripheral products in 1997. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+6 &#160; 
+
+&#160;
+
+NI LabVIEW Reconfigurable I/O (RIO) Architecture. NI reconfigurable I/O (RIO) hardware combined with NI LabVIEW system design software provides a commercial off-the-shelf solution to simplify development and shorten time to market when designing advanced measurement and control systems. All RIO hardware systems, which include CompactRIO, NI Single-Board RIO, NI System on Module, R Series boards and PXI-based FlexRIO products, feature a standard, high-performance architecture that combines a powerful floating -point processor, reconfigurable FPGA, and modular I/O. Engineers can program all RIO hardware components with LabVIEW, including the LabVIEW FPGA Module, to rapidly create custom timing, signal processing and control for I/O without requiring expertise in low-level hardware description languages or board-level design. NI provides a breadth of RIO hardware targets that provide varying degrees of performance, cost, I/O rates, and ruggedness, to meet a wide variety of application needs. NI first released its LabVIEW RIO architecture in 2003 with its first R Series PXI plug-in board along with its first CompactRIO rugged, high-performance embedded system. 
+
+&#160; 
+
+Industrial Communications Interfaces . In 1995, we began shipping interface boards for communicating with serial devices, such as data loggers and PLCs targeted for industrial/embedded applications, and benchtop instruments, such as oscilloscopes, targeted for test and measurement applications. We offer hardware and driver software product lines for communication with industrial devices&#8212;Controller Area Network (&#8220;CAN&#8221;), DeviceNet, Foundation Fieldbus, and RS-485 and RS-232. 
+
+&#160; 
+
+GPIB Interfaces/Driver Software. We began selling GPIB products in 1977 and are a leading supplier of GPIB interface boards and driver software to control traditional instruments. These traditional instruments are manufactured by a variety of third-party vendors and are used primarily in test and measurement applications. Our diverse portfolio of hardware and software products for GPIB instrument control is available for a wide range of computers. Our GPIB product line also includes products for controlling GPIB instruments using the computer&#8217;s standard parallel, USB, Ethernet, and serial ports. 
+
+&#160; 
+
+Production Test Systems 
+
+&#160; 
+
+In addition to modular software and hardware components that engineers combine to create systems, NI also offers complete, enclosed PXI-based systems targeted to specific applications. 
+
+&#160; 
+
+NI Semiconductor Test System. The NI Semiconductor Test System (&#8220;STS&#8221;) series combines modular instrumentation and system design software for RF and mixed-signal production test. These systems feature fully production-ready test systems that use NI technology in a form factor suitable for a semiconductor production test environment. The STS combines the NI PXI platform, TestStand test management software, and LabVIEW graphical programming inside a fully enclosed test head. Its &#8220;tester in a head&#8221; design houses all the key components of a production tester. Its compact design eliminates the extra floor space, power, and maintenance required by traditional a utomated t est e quipment testers. With the open, modular design, engineers can take advantage of the latest industry-standard PXI modules for more instrumentation and computing power. 
+
+&#160; 
+
+NI Wireless Test System. Built on PXI, multicore, and FPGA technologies, the NI Wireless Test System (&#8220;WTS&#8221;) offers industry- leading measurement speed to help our customers improve test throughput and lower the cost of wireless manufacturing test for devices such as mobile phones, tablets, data car ds, and modules. With industry- leading measurement speed and the flexibility to engage in multi-standard, multiple device under test (&#8220;DUT&#8221;), and parallel test, the WTS integrates easily into a manufacturing line using ready-to-run reference test sequences, integrated DUT control, and remote automation control for quicker and more cost-effective system deployment. 
+
+&#160; 
+
+NI Education Platform 
+
+&#160; 
+
+The NI education platform combines software, hardware and courseware designed to create engaging, authentic learning experiences that prepare students for the next generation of innovation. We have a continuum of products designed for education that allows students to start learning at the primary and secondary school levels using the programming language and platform they will use in engineering classes at the university level, for post-graduate research, and in the industry once they enter the engineering workforce. Our cost-effective, scalable solutions offer academic institutions flexible integration across multiple science and engineering disciplines. 
+
+&#160; 
+
+Software Products for Teaching 
+
+&#160; 
+
+NI Multisim Circuit Design Software. NI Multisim is an industry-standard, SPICE simulation environment . It is the cornerstone of the NI circuits teaching solution to build expertise through practical application in designing, prototyping, and testing electrical circuits. Developed for the educator who needs to teach all aspects of circuits and electronics, Multisim Education Edition provides the ability to seamlessly move students from theory to simulation to the lab. Regardless of the application area, the powerful environment offers students the ability to visualize and interact with circuit theory and equations and focus on course-specific concepts with SPICE simulation. 
+
+&#160; 
+
+7 &#160; 
+
+&#160;
+
+NI LabVIEW for Education. LabVIEW is a graphical system design environment used on campuses all over the world to deliver hands-on learning to the classroom, enhance research applications, and foster the next generation of innovation. By teaching with LabVIEW, educators help students accomplish hands-on and system-based learning in a single environment with skills and methods they will use in their careers. With built-in I/O integration and instrument control, thousands of functions for math and signal processing, user interfaces to visualize and explore data, and deployment to multiple hardware targets, students access the power of graphical system design and can go from concept to prototype in one semester. 
+
+&#160; 
+
+LabVIEW for LEGO&#174; MINDSTORMS&#174; . This version of LabVIEW is &#160; specifically designed to extend the LEGO MINDSTORM set&#8217;s teaching power, making it easier, and more fun, to manage robotics projects. This easy-to-learn programming environment provides access to tools exclusive to the NI Education Platform. LabVIEW for LEGO MINDSTORMS helps prepare students for university courses and engineering careers where LabVIEW is already in use. 
+
+&#160; 
+
+Hardware Products for Teaching 
+
+&#160; 
+
+National Instruments Educational Laboratory Virtual Instrumentation Suite ( &#8220; NI ELVIS &#8221; ). The NI ELVIS measurement and prototyping platform delivers hands-on lab experience with an integrated suite of the most commonly used instruments in one compact form factor specifically designed for education. Based on industry-standard NI LabVIEW graphical system design software, NI ELVIS, with powerful data acquisition and USB plug-and-play capabilities, offers users the flexibility of virtual instrumentation and allows for quick and easy measurement acquisition and instrumentation across multiple disciplines. 
+
+&#160; 
+
+NI myDAQ Measurement and Instrumentation Device . This powerful, portable device allows students to measure and analyze the world around them. It is engineered to work with LabVIEW right out of the box. A user can start simply, with built-in virtual instruments, or get creative and connect the user&#8217;s own sensors and controls. NI myDAQ combines hardware with eight ready-to-run software-defined instruments, including a function generator, oscilloscope, and digital multimeter ( &#8220; DMM &#8221; ); these software instruments are also used on the NI ELVIS hardware platform so the lab experience can be extended to experiments anywhere, anytime. With NI LabVIEW graphical system design software, users can extend the instrument functionality into hundreds of custom applications. 
+
+&#160; 
+
+NI myRIO. NI myRIO places dual-core real-time processing and FPGA customizable I/O into the hands of students. With its onboard devices, seamless software experience, and library of courseware and tutorials, NI myRIO provides an affordable tool that students can use to do real engineering in one semester. This device gives students the opportunity to learn on the same device that they will later use to build projects. Using industry-standard technology in a portable form factor, students can explore a variety of engineering concepts that scale to real-world projects. 
+
+&#160; 
+
+NI roboRIO. NI roboRIO is built for advanced robotics and gives users the ability to quickly connect and change the components they need to build and test advanced systems. With the integration of LabVIEW graphical programming capabilities, roboRIO becomes a customizable controller for various applications. 
+
+&#160; 
+
+NI Universal Software Radio Peripheral ( &#8220; USRP &#8221; ). The NI USRP is an affordable, flexible radio that turns a standard PC into a wireless prototyping platform. The NI USRP platform offers a new approach to RF and communications education, which has traditionally been limited to a focus on mathematical theory. With NI USRP and LabVIEW, students gain hands-on experience exploring a working communications system with live signals to gain a better understanding of the link between theory and practical implementation. 
+
+&#160; 
+
+NI Services 
+
+&#160; 
+
+NI provides global services and support as part of our commitment to our customers&#8217; success in efficiently building and maintaining high-quality measurement and control systems using graphical system design. 
+
+&#160; 
+
+Hardware Services and Maintenance 
+
+&#160; 
+
+System Configuration and Deployment. Our &#160; NI System Assurance Program provides a fast, easy way to get our customer&#8217;s new NI system up and running. Our trained technicians install software and hardware and configure our customers&#8217; PXI, PXI/SCXI combination, and NI CompactRIO system to their specifications. 
+
+&#160; 
+
+Calibration. To help our customers&#8217; calibration needs, NI provides calibration solutions, including recalibration services, manual calibration procedures, and automated calibration software. In 2011, the American Association for Laboratory Accreditation (A2LA) accredited NI Calibration Services Austin to one of the highest international calibration standards in the industry, ISO/IEC 17025:2005 (&#8220;17025&#8221;) . National Instruments now offers 17025 calibration services for OEMs and other organizations seeking to maintain compliance with the strictest governmental, medical, transportation and electronics regulations. The 17025 calibration service offering is designed for companies standardizing their automated test and measurement systems on PXI modular instrumentation , which provides some of the most advanced technology for addressing the latest engineering challenges. 
+
+&#160; 
+
+8 &#160; 
+
+&#160;
+
+Warranty and Repair. We offer standard and e xtended warranties to help meet project life-cycle requirements and provide repair services for our products, express repair, and advance replacement services. 
+
+&#160; 
+
+Software Maintenance Services 
+
+&#160; 
+
+Software Services for End Users: Our Standard Service Program ( &#8220; SSP &#8221; ) and Enterprise Agreements ( &#8220; EAs &#8221; ) are designed to help ensure that our end users are successful with our products. This software maintenance contract provides the end user with regular product upgrades and service packs, professional technical support from local engineers, 24-hour a day access to self-paced online product training, and access to older versions of their owned software. 
+
+&#160; 
+
+Volume Licensing for Account-Level Services: The NI Volume License Program ( &#8220; VLP &#8221; ) is designed to meet the needs of the business in addition to the success of each end user. On top of access to the SSP program for each end user, businesses that invest in the VLP receive account-level benefits designed to help effectively manage their software assets and lower their total cost of ownership. 
+
+&#160; 
+
+Training and Certification 
+
+&#160; 
+
+NI Training Program. NI training helps the customer build the skills to more efficiently develop robust, maintainable applications, and certification confirms the customer&#8217;s technical growth and skill using NI software. &#160; We offer fee-based training classes and self-paced online training for many of our software and hardware products. On-site courses are quoted per customer requests and we include on-line course offerings with live teachers. 
+
+&#160; 
+
+NI Certification Program . We offer programs to certify programmers and instructors for our products. 
+
+&#160; 
+
+M arkets and Applications 
+
+&#160; 
+
+Our products are used across many industries in a variety of applications including research and development, simulation and modeling, product design, prototype and validation, production testing and industrial control and field and factory service and repair. We serve the following industries and applications worldwide: advanced research, automotive, automated test equipment, consumer electronics, commercial aerospace, computers and electronics, continuous process manufacturing, education, government/defense, medical research/pharmaceutical, power/energy, semiconductors, telecommunications and others. 
+
+&#160; 
+
+Customers 
+
+&#160; 
+
+We have a broad base of over 35,000 customers worldwide, with no customer accounting for more than 3%, &#160; 5 %, and 3 % of our sales in 2015, 2014, and 2013 , respectively. 
+
+&#160; 
+
+Marketing 
+
+&#160; 
+
+Through our worldwide marketing efforts, we strive to educate engineers and scientists about the benefits of our platform-based approach, products and technology, and to highlight the performance and cost advantages of our products. We also seek to present our position as a technology leader among producers of instrumentation software and hardware and to help promulgate industry standards that can benefit users of computer-based instrumentation. 
+
+&#160; 
+
+We reach our intended audience through our website at ni.com as well as through the distribution of written and electronic materials including demonstration versions of our software, participation in tradeshows and technical conferences and training and user seminars. 
+
+&#160; 
+
+We actively market our products in higher education environments, and we identify many colleges, universities and trade and technical schools as key accounts. We offer special academic pricing and products to enable universities to utilize our products in their classes and laboratories. We believe our prominence in the higher education area can contribute to our future success because students gain experience using our products before they enter the work force. 
+
+&#160; 
+
+Sales and Distribution 
+
+&#160; 
+
+We distribute and sell &#160; our software and hardware products primarily through a direct sales organization. We also use independent distributors, OEMs, VARs, system integrators and consultants to market and sell our products. We have sales offices in the U.S. and sales offices and distributors in key international markets. Sales outside of the U.S. accounted for approximately 62%, 63% and 62%, of our revenues in 2015, 2014, and 2013, respectively. The vast majority of our foreign sales are denominated in the customers&#8217; local currency, which exposes us to the effects of changes in foreign currency exchange rates. We expect that a significant portion of our total revenues will continue to be derived from international sales. (See Note 13 &#8211; Segment information of Notes to Consolidated Financial Statements for details concerning the geographic breakdown of our net sales and long-lived assets.) 
+
+&#160; 
+
+9 &#160; 
+
+&#160;
+
+We believe the ability to provide comprehensive service and support to our customers is an important factor in our business. We permit customers to return products within 30 days from receipt for a refund of the purchase price less a restocking charge. Our hardware products are generally warranted against defects in materials and workmanship for one year from the date we ship the products to our customers. Historically, warranty costs and returns have not been material. 
+
+&#160; 
+
+The marketplace for our products dictates that many of our products be shipped very quickly after an order is received. As a result, we are required to maintain significant inventories. Therefore, inventory obsolescence is a risk for us due to frequent engineering changes, shifting customer demand, the emergence of new industry standards and rapid technological advances including the introduction by us or our competitors of products embodying new technology. We strive to mitigate this risk by monitoring inventory levels against product demand and technological changes. Additionally, many of our products have interchangeable parts and many have long lives. There can be no assurance that we will be successful in these efforts in the future. 
+
+&#160; 
+
+Our foreign operations are subject to certain risks set forth under &#8220;We are Subject to Various Risks Associated with International Operations and Foreign Economies.&#8221; 
+
+&#160; 
+
+See discussion regarding fluctuations in our quarterly results and seasonality in ITEM 1A, Risk Factors, &#8220; Our Revenues are Subject to Seasonal Variations. &#8221; 
+
+&#160; 
+
+We have one operating segment and one reporting unit. For information regarding revenue, results of operations, and total assets for each of our last three fiscal years, please refer to our financial statements included in this Form 10-K and Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations included in Item 7 of this Form 10-K. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+The markets in which we operate are characterized by intense competition from numerous competitors, some of which are divisions of large corporations having far greater resources than we have, and we may face further competition from new market entrants in the future. A key competitor is Keysight Technologies Inc. (&#8220;Keysight&#8221;) which was formerly part of Agilent. Keysight offers hardware and software products that provide solutions that directly compete with our virtual instrumentation products including its own line of PXI based hardware . Keysight is aggressively advertising and marketing products that are competitive with our products. Because of Keysight&#8217;s strong position in the instrumentation business, changes in its marketing strategy or product offerings could have a material adverse effect on our operating results. In May 2015, Danaher Corporation announced its intention to separate into two publicly traded companies. The spin off will result in a new public company to be named Fortive and will be comprised of Danaher&#8217;s test and measurement businesses and other specialty industrial businesses which can compete directly with us. The transaction is expected to close in the third quarter of 2016. 
+
+&#160; 
+
+We believe our ability to compete successfully depends on a number of factors both within and outside our control, including: 
+
+&#160; 
+
+&#183; 
+
+general market and economic conditions; 
+
+&#183; 
+
+our ability to maintain and grow our business with our very large customers; 
+
+&#183; 
+
+our ability to meet the volume and service requirements of our very large customers; 
+
+&#183; 
+
+industry consolidation, including acquisitions by our competitors; 
+
+&#183; 
+
+success in developing new products; 
+
+&#183; 
+
+timing of our new product introductions; 
+
+&#183; 
+
+new product introductions by competitors; 
+
+&#183; 
+
+the ability of competitors to more fully leverage low cost geographies for manufacturing and/or distribution; 
+
+&#183; 
+
+product pricing; 
+
+&#183; 
+
+effectiveness of sales and marketing resources and strategies; 
+
+&#183; 
+
+adequate supply of components and materials; 
+
+&#183; 
+
+efficiency of manufacturing operations; 
+
+&#183; 
+
+strategic relationships with our suppliers; 
+
+&#183; 
+
+product quality and performance; 
+
+&#183; 
+
+protection of our products by effective use of intellectual property laws; 
+
+&#183; 
+
+the financial strength of our competitors; 
+
+&#183; 
+
+the outcome of any future litigation or commercial dispute; 
+
+&#183; 
+
+barriers to entry imposed by competitors with significant market power in new markets; and, 
+
+&#183; 
+
+government actions throughout the world. 
+
+&#160; 
+
+T here can be no assurance that we will be able to compete successfully in the future. 
+
+&#160; 
+
+10 &#160; 
+
+&#160;
+
+Research and Development 
+
+&#160; 
+
+We believe that our long-term growth and success depends on delivering high quality hardware and software products on a timely basis. We focus our research and development efforts on enhancing existing products and developing new products that incorporate appropriate features and functionality to be competitive with respect to technology and price/performance characteristics. 
+
+&#160; 
+
+Our research and development staff strives to build quality into our products at the design stage in an effort to reduce overall development and manufacturing costs. Our research and development staff also designs proprietary application specific integrated circuits (&#8220;ASICs&#8221;), many of which are designed for use in several of our different products. The goal of our ASIC design program is to further differentiate our products from competing products, to improve manufacturability and to reduce costs. We seek to reduce our time to market for new and enhanced products by sharing our internally developed hardware and software components across multiple products. 
+
+&#160; 
+
+As of December 31, 2015 , we employed 2,172 people in research and development. Our research and development expenses were $225 million, $227 million and $235 million in 2015, 2014, and 2013, respectively . 
+
+&#160; 
+
+Intellectual Property 
+
+&#160; 
+
+We rely on a combination of patent, trade secret, copyright and trademark law, contracts and technical measures to establish and protect our proprietary rights in our products. As of December 31, 2015, we held 852 U.S. patents (850 utility patents and 2 design patents) and 32 patents in foreign countries (28 patents registered in Europe, 1 patent in China, 2 patents in Japan, and 1 patent in Mexico), and had 170 patent applications pending in the U.S. and foreign countries. 269 of our issued U.S. patents are software patents related to LabVIEW, and cover fundamental aspects of the graphical programming approach used in LabVIEW. Our patents expire from 2016 to 2035. The expiration of any particular patent in the short term is not expected to have any significant negative impact on our business. No assurance can be given that our pending patent applications will result in the issuance of patents. We also own certain registered trademarks in the United States and abroad. See further discussion regarding risks associated with our patents in ITEM 1A, Risk Factors, &#8220; Our Business Depends on Our Proprietary Rights and We are Subject to Intellectual Property Litigation. &#8221; 
+
+&#160; 
+
+Manufacturing and Suppliers 
+
+&#160; 
+
+We manufacture a substantial majority of our product volume at our facilities in Debrecen, Hungary and Penang, Malaysia. Additional production, primarily of RF products and of low volume, complex or newly introduced products was previously done in Austin, Texas, however, we completed the transition of all of our Austin based manufacturing activities to our manufacturing facilities in Hungary and Malaysia in the third quarter of 2015. In 2016, our site in Malaysia is expected to produce approximately 35% of our global production and our site in Hungary is expected to produce approximately 65% of our global production. Our product manufacturing operations can be divided into four areas: electronic circuit card and module assembly; chassis and cable assembly; technical manuals and product support documentation; and software duplication. Most of our electronic circuit card assemblies, modules and chassis are manufactured in house, although contractors are used from time to time. The majority of our electronic cable assemblies are produced by contractors; however, we do manufacture some on an exception basis. Our software duplication, technical manuals and product support documentation is primarily produced by contractors. &#160; 
+
+&#160; 
+
+Our manufacturing processes use large volumes of high-quality components and subassemblies supplied by outside sources. Several of these components are only available through limited sources. Limited source components purchased include custom ASICs, chassis and other components. We have in the past experienced delays and quality problems in connection with limited source components, and there can be no assurance that these problems will not recur in the future. Accordingly, our failure to receive components from limited suppliers could result in a material adverse effect on our revenues and operating results. See &#8220; Our Business is Dependent on Key Suppliers &#8221; at page 19 for additional discussion of the risks associated with limited source suppliers. 
+
+&#160; 
+
+See &#8220;Our Operations are Subject to a Variety of Environmental Regulations and Costs&#8221; at page 2 0 for discussion of environmental matters as they may affect our business. 
+
+&#160; 
+
+Backlog 
+
+&#160; 
+
+Backlog is a measure of orders that are received but that are not shipped to customers at the end of a quarter. We typically ship products shortly following the receipt of an order. Accordingly, our backlog typically represents less than 5 days sales. Backlog should not be viewed as an indicator of our future sales. 
+
+11 &#160; 
+
+&#160;
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of December 31, 2015, we had 7,441 employees worldwide, including 2,172 in research and development, 3,411 in sales and marketing and customer support, 1,020 in manufacturing and 838 in administration and finance. None of our employees are represented by a labor union and we have never experienced a work stoppage. We consider our employee relations to be good. 
+
+12 &#160; 
+
+&#160;
+

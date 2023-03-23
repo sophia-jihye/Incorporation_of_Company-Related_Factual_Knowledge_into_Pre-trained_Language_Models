@@ -1,0 +1,1016 @@
+ ITEM 1. 
+
+BUSINESS 
+
+Overview 
+
+We are a global medical technology company that develops, manufactures and markets a variety of noninvasive monitoring technologies. We provide our products directly and through distributors and original equipment manufacturers (OEM) partners to hospitals, emergency medical service (EMS) providers, physician offices, veterinarians, long term care facilities and consumers. Our mission is to improve patient outcomes and reduce the cost of care by taking noninvasive monitoring to new sites and applications &#8482; . We were incorporated in California in May 1989 and reincorporated in Delaware in May 1996. 
+
+Our core business is Measure-through-Motion and Low-Perfusion pulse oximetry monitoring, known as Masimo Signal Extraction Technology &#174; &#32;(SET &#174; ) pulse oximetry. Our product offerings have expanded significantly over the years to also include monitoring blood constituents with an optical signature, optical organ oximetry monitoring, electrical brain function monitoring, acoustic respiration monitoring and exhaled gas monitoring. In addition, we have developed the Root &#174; &#32;patient monitoring and connectivity platform, the Radical-7 &#174; &#32;bedside and portable patient monitor and the Radius-7 &#8482; &#32;wearable wireless patient monitor. We have also developed the Patient SafetyNet &#8482; &#32;remote patient surveillance monitoring system, which currently allows up to 200 &#32;patients to be monitored simultaneously and remotely through a PC-based viewing station or by care providers through their pagers, voice-over-IP phones or smartphones. 
+
+Our solutions and related products are based upon our proprietary Masimo SET &#174; &#32;and rainbow &#174; &#32;algorithms. These technologies are incorporated into a variety of product platforms depending on our customers&#8217; specifications. In addition, we provide our technologies to OEMs in a form factor that is easy to integrate into their patient monitors, defibrillators and infant incubators. Our technology is supported by a substantial intellectual property portfolio that we have built through internal development and, to a lesser extent, acquisitions and license agreements. We have also exclusively licensed from Cercacor Laboratories, Inc. (Cercacor) the right to certain OEM rainbow &#174; &#32;technologies and to incorporate certain rainbow &#174; &#32;technology into our products intended to be used by professional caregivers, including, but not limited to, hospital caregivers and alternate care facility caregivers. 
+
+Conventional Pulse Oximetry 
+
+Pulse oximetry enables the noninvasive measurement of the oxygen saturation level of arterial blood, which delivers oxygen to the body&#8217;s tissues. Pulse oximetry also enables the measurement of pulse rate, which, when measured by electrocardiogram (ECG), is called heart rate. Pulse oximeters use sensors attached to an extremity, typically the fingertip. These sensors contain two light emitting diodes that transmit red and infrared light from one side of the extremity through the tissue to a photodetector 
+
+on the other side of the extremity. The photodetector in the sensor measures the amount of red and infrared light absorbed by the tissue. A microprocessor then analyzes the changes in light absorption to provide a continuous, real-time measurement of the amount of oxygen in the patient&#8217;s arterial blood. Pulse oximeters typically give audio and visual alerts, or alarms, when the patient&#8217;s arterial blood oxygen saturation level or pulse rate falls outside of a user-designated range. As a result, clinicians have the opportunity to assess patients who may need immediate treatment to prevent the serious clinical consequences of hypoxemia, or low oxygen saturation levels, and hyperoxemia, or high oxygen levels. 
+
+As one of the most common measurements taken in and out of hospitals around the world, pulse oximetry has gained widespread clinical acceptance as a standard patient vital sign measurement because it can give clinicians an early warning of low arterial blood oxygen saturation levels, known as hypoxemia. Early detection is critical because hypoxemia can lead to a lack of oxygen in the body&#8217;s tissues, which can result in organ damage or death. Pulse oximeters are used primarily in critical care settings, including surgery, recovery rooms, intensive care units (ICUs), emergency departments and alternative care settings, such as long-term care facilities, and for home monitoring of patients with chronic conditions. 
+
+Clinicians also use pulse oximeters to estimate whether there is too much oxygen in the blood, a condition called hyperoxemia. In premature babies, hyperoxemia can lead to permanent eye damage or blindness. By ensuring that oxygen saturation levels in babies remain within clinically accepted limits, clinicians believe they can lower the incidence of hyperoxemia. In adults, to prevent hyperoxemia, clinicians use pulse oximetry monitoring to guide the administration of oxygen to maintain normal saturation levels. 
+
+Conventional pulse oximetry is subject to technological limitations that reduce its effectiveness and the quality of patient care. In particular, when using conventional pulse oximetry, oxygen saturation measurements can be distorted by motion artifact, or patient movement, and low perfusion, or low arterial blood flow at the measurement site. Motion artifact can cause conventional pulse oximeters to inaccurately measure the arterial blood oxygen saturation level, due mainly to the movement and recognition of venous blood. Venous blood may cause falsely low oxygen saturation readings. Low perfusion can also cause conventional pulse oximeters to report inaccurate measurements or, in some cases, no measurement at all. Conventional pulse oximeters cannot distinguish oxygenated hemoglobin, or the component of red blood cells carrying oxygen, from dyshemoglobins, which are hemoglobin bound with carboxyhemoglobin or methemoglobin and are therefore incapable of carrying oxygen. In addition, conventional pulse oximetry readings can also be impacted by bright light and electrical interference from the presence of electrical surgical equipment. 
+
+Independent research has shown that over 70% of the alarms outside the operating room are false when using conventional pulse oximetry. In addition, in the operating room, conventional pulse oximeters can fail to give measurements due to weak physiological signals, or low perfusion, in up to 9% of all cases studied. Manufacturers of conventional pulse oximeters have attempted to address some of these limitations with varying degrees of success. Some competing devices have attempted to minimize the observed effects of motion artifact by repeating the last measurement before motion artifact is detected, until a new, clean signal is detected and a new measurement can be displayed, known as freezing values. Other competing devices increase the averaging time during motion, known as long averaging, in an attempt to reduce the observed effect of motion on their measurements. Still other competing devices extend the audible alarm notification delay, which reduces the awareness of inaccurate measurements. These competing solutions, commonly referred to as &#8220;motion tolerant&#8221; or &#8220;alarm management&#8221; techniques, mask the limitations of conventional pulse oximetry. Several published studies have demonstrated that these also contribute to increased occurrences of undetected true alarms, or events where hypoxemia occurs, but is not detected by the pulse oximeter. 
+
+Conventional pulse oximetry technology also has several practical limitations. Because the technology cannot consistently measure oxygen saturation levels of arterial blood in the presence of motion artifact or low perfusion, conventional pulse oximetry is limited in non-critical care settings of the hospital, such as general care areas, where the hospital staff-to-patient ratio is significantly lower and the staff has lower tolerance for false alarms. In addition, two-wavelength pulse oximeters cannot distinguish oxygenated hemoglobin from dyshemoglobin, including the most prevalent forms of carboxyhemoglobin and methemoglobin. As a result of these dyshemoglobins, pulse oximeters will report falsely high oxygen levels when they are present in the blood. 
+
+Masimo SET &#174; &#32;Pulse Oximetry 
+
+Masimo SET &#174; &#32;was designed to overcome the primary limitations of conventional pulse oximetry by maintaining accuracy in the presence of motion artifact, low perfusion and weak signal-to-noise situations. Our Masimo SET &#174; &#32;platform, which became available to hospitals in the U.S. in 1998, is the basis of our pulse oximetry products and we believe represented the first significant technological advancement in pulse oximetry since its introduction in the early 1980s. Masimo SET &#174; &#32; utilizes five signal processing algorithms, four of which are proprietary, in parallel to deliver high sensitivity and specificity in the measurement of arterial blood oxygen saturation levels. Sensitivity is the ability to detect true events and specificity is the 
+
+ability to reject false alarms. One of our proprietary processing algorithms, Discrete Saturation Transform &#174; , separates the signal from noise in real time through the use of adaptive filtering and an iterative sampling technique that tests each possible saturation value for validity. Masimo SET &#174; &#32;signal processing can therefore identify the venous blood and other noise, isolate them, and extract the arterial signal. 
+
+The performance of Masimo SET &#174; &#32;pulse oximetry has been evaluated in more than 100 independent studies and thousands of clinical evaluations. We believe that Masimo SET &#174; &#32;is trusted by clinicians to safely monitor approximately 100 million patients each year and is used hospital-wide by fourteen of the fifteen hospitals on the U.S. News &#38; World Report Best Hospitals Honor Roll for the 2015-2016 year. Compared to conventional pulse oximeters, during patient motion and low perfusion, Masimo SET &#174; &#32;provides measurements when other pulse oximeters cannot, dramatically reduces false alarms (improved specificity), and accurately detects true alarms (improved sensitivity) that can indicate a hypoxic event in a patient. Clinical studies have shown that the use of Masimo SET &#174; &#32;pulse oximetry in conjunction with modified clinical protocols has helped clinicians reduce retinopathy of prematurity in neonates and improve screening for newborns with critical congenital heart disease (CCHD). Clinical studies have also shown reductions in rapid response activations and ICU transfers when Masimo SET &#174; &#32;is used to monitor patients continuously in medical-surgical units. Additionally, researchers have studied and found reduced ventilator weaning time and arterial blood gas measurements in the ICU. 
+
+Our pulse oximetry technology is contained on a circuit board which is placed inside a standalone pulse oximetry monitor, placed inside original equipment manufacturer (OEM) multiparameter monitors, or included as part of an external &#8220;Board-in-Cable&#8221; solution that is plugged into a port on an OEM or other device. All of these solutions use our proprietary single-patient-use or reusable sensors and cables. We sell our products to end users through our direct sales force and certain distributors, as well as to our OEM partners, for incorporation into their products. In 2013, we also began selling our pulse oximetry products in the consumer market. As of January 2, 2016 , we estimate that the worldwide installed base of our pulse oximeters and OEM monitors that incorporate Masimo SET &#174; &#32;and rainbow SET &#8482; &#32;was more than 1,414,000 &#32;units, excluding handheld devices. Our installed base is the primary driver for the recurring sales of our pulse oximeter and Pulse CO-Oximeter &#174; &#32;sensors, most notably, single-patient adhesive sensors. 
+
+To complement our Masimo SET &#174; &#32;platform, we have developed a wide range of proprietary single-patient (disposable) and multi-patient (reusable) sensors, cables and other accessories designed specifically to work with Masimo SET &#174; &#32;software and hardware. Our single-patient use sensors offer several advantages over reusable sensors, including improved performance, cleanliness, increased comfort and greater reliability. In addition, our neonatal adhesive sensors have been designed to exhibit greater durability compared to competitive sensors. Although our technology platforms operate solely with our proprietary sensor lines, our sensors have the capability to work with certain competitive pulse oximetry monitors through the use of adapter cables. 
+
+Adhesive sensors are single-patient use items, but the U.S. Food and Drug Administration (FDA) allows third parties to reprocess pulse oximetry sensors. In response to some hospitals&#8217; requests to implement environmentally friendly or &#8220;green&#8221; products, we offer sensor reprocessing as well as sensor recycling programs. 
+
+Masimo rainbow SET &#8482; &#32;Platform 
+
+Since introducing Masimo SET &#174; , we have continued to innovate by introducing noninvasive measurements that go beyond arterial blood oxygen saturation and pulse rate. In 2005, we introduced the Masimo rainbow SET &#8482; &#32;platform, leveraging our Masimo SET &#174; &#32;technology and incorporating licensed rainbow &#174; &#32;technology to enable real-time monitoring of additional noninvasive measurements. Our rainbow SET &#8482; &#32;platform includes our rainbow SET &#8482; &#32;Pulse CO-Oximetry products, which we believe are the first devices cleared by the FDA to noninvasively and continuously monitor additional hemoglobin species using multiple wavelengths of light, which was previously possible only through intermittent invasive procedures. In addition to monitoring oxygen saturation (SpO 2 ), pulse rate (PR), perfusion index (PI), Pleth Variability Index (PVI &#174; ) and Respiration Rate from the Pleth (RRp &#8482; ), rainbow &#174; &#32;Pulse CO-Oximetry has the unique ability to measure and distinguish oxygenated hemoglobins from certain dyshemoglobins, hemoglobins that are incapable of transporting oxygen, and allows for the rapid noninvasive monitoring of total hemoglobin concentration (SpHb &#174; ), carboxyhemoglobin saturation (SpCO &#174; ) and methemoglobin saturation (SpMet &#174; ). The Masimo rainbow SET &#8482; &#32;platform also allows for monitoring of arterial oxygen saturation even under the presence of carboxyhemoglobin and methemoglobin, known as fractional arterial oxygen saturation (SpfO 2 &#8482; ) in a limited range on specific sensors. Additionally, the rainbow SET &#8482; &#32;platform also allows for the calculation of Oxygen Content (SpOC &#8482; ) and Oxygen Reserve Index &#8482; &#32;(ORI &#8482; ). Although RRp &#8482; , SpfO 2 &#8482; and ORI &#8482; have received CE Mark, they are not currently available for sale in the U.S. 
+
+We have also developed multi-wavelength sensors that have the ability to monitor multiple measurements with a single sensor. We believe that the use of Masimo rainbow &#174; &#32;Pulse CO-Oximetry products will become widely adopted for the noninvasive monitoring of these measurements. We also believe that the addition of Acoustic Respiration Rate (RRa &#174; ) with our rainbow 
+
+Acoustic Monitoring &#174; &#32;technology for noninvasive and continuous monitoring will strengthen the clinical demand for the rainbow &#174; &#32;platform, especially in the growing general floor market. 
+
+Products with our MX circuit board contain our Masimo SET &#174; &#32;pulse oximetry technology as well as circuitry to support rainbow &#174; &#32;measurements. At the time of purchase, or at any time in the future, our customers and our OEMs&#8217; customers have the option of purchasing additional rainbow &#174; &#32;software measurements, which will allow the customer to expand their patient monitoring systems to monitor incremental measurements with a cost-effective solution. To date, over thirty-five companies have released rainbow SET &#8482; equipped products or announced rainbow &#174; &#32;integration plans. 
+
+SpHb &#174; &#160; 
+
+Hemoglobin is the oxygen-carrying component of red blood cells (RBC). Hemoglobin measurement is one of the most frequent invasive laboratory measurements in the world, and is often measured as part of a complete blood count (CBC), which measures multiple other blood components. A low hemoglobin status is called anemia. As a chronic disorder, anemia can be treated by iron supplements, diet changes or drugs that increase the production of red blood cells. As an acute disorder, anemia due to bleeding requires either stoppage of the bleeding or a blood transfusion in order to sustain organ function and life. 
+
+SpHb &#174; is available as a continuous monitor or a spot-check measurement. Continuous SpHb &#174; &#32;monitoring provides real-time visibility into hemoglobin levels and the changes, or lack of changes, in hemoglobin levels, which can otherwise only be measured through intermittent, invasive blood testing. While SpHb &#174; &#32;is not intended to replace invasive hemoglobin tests, when used with other clinical variables, continuous SpHb &#174; &#32;monitoring may help clinicians trend hemoglobin in real time between invasive blood samples. 
+
+SpOC &#8482; &#160; 
+
+SpOC &#8482; &#32;provides a more complete picture of a patient&#8217;s oxygenation status by combining noninvasive measurements of both hemoglobin and plasma oxygen levels into a single calculation. 
+
+SpCO &#174; &#160; 
+
+Carbon monoxide (CO) is a colorless, odorless and tasteless gas that is undetectable by humans and is often unknowingly inhaled from combustion fumes, or during fires by victims and first responders. CO poisoning is the leading cause of accidental poisoning death in the U.S., responsible for up to 50,000 emergency department visits and 500 unintentional deaths annually. Elevated CO levels, when bound to hemoglobin cells, prevent the hemoglobin cells from carrying oxygen and can cause severe neurological damage, permanent heart damage or death, in a matter of minutes. Screening for elevated CO levels in the emergency department is critical in saving lives and preventing long-term damage, but the condition is often misdiagnosed because symptoms are similar to the flu. 
+
+CO levels in the blood can be measured using a laboratory CO-Oximeter, which requires a patient or a patient&#8217;s blood sample to be transported to a hospital with laboratory CO-Oximetry capability. Additional delays occur if a patient needs hyperbaric oxygen therapy, which often requires transfer to yet another medical center with hyperbaric capability. Outside the hospital, laboratory measurements of carboxyhemoglobin are not considered feasible. Historically, this meant that CO levels in the blood could not be assessed in environments in which it would be very useful, such as in the home of a patient or in the medical evaluation of first responders exposed at the scene of a fire. 
+
+We believe that the greatest opportunity for SpCO &#174; &#32;monitoring is in the EMS, fire and hospital emergency department settings. In a 2013 study, elevated SpCO &#174; &#32;was used to help indicate a need for invasive testing in emergency department patients with headaches. This study found that 23% of the cases that were ultimately diagnosed with CO poisoning were only diagnosed after elevated SpCO &#174; &#32;levels had been tested. While SpCO &#174; &#32;is not intended to replace invasive carboxyhemoglobin tests, when used with other clinical variables, SpCO &#174; &#32;may help clinicians identify elevated CO levels and help determine additional test and treatment options. Over the past few years, multiple leading emergency first responder associations, including the National Association of Emergency Medical Technicians, the National Association of EMS Educators, the International Association of Fire Fighters and the International Association of Fire Chiefs, have been educating their members on the benefits of noninvasive CO measurement when exposure is suspected or when an individual presents symptoms that could indicate elevated CO levels. In 2015, the National Fire Protection Association (NFPA), one of the world&#8217;s authoritative sources on fire prevention and public safety, released updated Fire Rehabilitation Standard 1584, Standard on the Rehabilitation Process for Members During Emergency Operations and Training Exercises , requiring firefighters exposed to smoke at incident scenes and during training to be assessed for elevated CO levels. 
+
+SpMet &#174; &#160; 
+
+Methemoglobin in the blood leads to a dangerous condition known as methemoglobinemia, which occurs as a reaction to some common drugs used in hospitals and outpatient procedures. Methemoglobinemia reduces the amount of oxygen bound to hemoglobin for delivery to tissues and forces normal hemoglobin to bind more tightly to oxygen, releasing less oxygen to the tissues. Methemoglobinemia is often unrecognized or diagnosed late, increasing risk to the patient. Commonly prescribed drugs can introduce methemoglobin into the blood and cause methemoglobinemia. Some of the 30 drugs that are known to cause methemoglobinemia are benzocaine, a local anesthetic, which is routinely used in procedures ranging from endoscopy to surgery; inhaled nitric oxide, routinely used in the Neonatal Intensive Care Unit; nitroglycerin, used to treat cardiac patients, and dapsone, used to treat infections for immune-deficient patients, such as HIV patients. Warnings, cautions and alerts regarding the clinical significance and prevalence of methemoglobinemia have been generated by the FDA, the Veterans Administration, the Institute for Safe Medication Practices and the National Academy of Clinical Biochemistry. The American Academy of Pediatrics recommends monitoring methemoglobin levels in infants who receive nitric oxide therapy. 
+
+While SpMet &#174; &#32;is not intended to replace invasive methemoglobin tests, when used with other clinical variables, SpMet &#174; &#32;may help clinicians detect methemoglobinemia and help determine additional test and treatment options. 
+
+PVI &#174; &#160; 
+
+Pleth Variability Index (PVI &#174; ) is a measure of the dynamic changes in the PI that occur during the respiratory cycle. The calculation is accomplished by measuring changes in PI over a time interval where one or more complete respiratory cycles have occurred. PVI &#174; &#32;is displayed as a percentage. The lower the number, the less variability there is in the PI over a respiratory cycle. PVI &#174; &#32;may show changes that reflect physiologic factors such as vascular tone, circulating blood volume and intrathoracic pressure excursions. When used with other clinical variables, PVI &#174; &#32;may help clinicians assess fluid responsiveness, improve fluid management in surgical and intensive care patients who are mechanically ventilated, and help determine other treatment options. 
+
+RRp &#8482; &#160; 
+
+Respiration rate is defined as the number of breaths per minute. Changes in respiration rate provide an early warning sign of deterioration in patient condition. A low respiration rate is indicative of respiratory depression and high respiration rate is indicative of patient distress. Current methods to monitor respiration rate include end tidal CO 2 &#32;monitoring, which requires a nasal cannula to be inserted in the patient&#8217;s nose and therefore has low patient compliance, and impedance monitoring, which is considered unreliable. RRp &#8482; &#32;allows clinicians to noninvasively and continuously measure and monitor respiration rate using a standard Masimo SET &#174; &#32;pulse oximetry or rainbow &#174; &#32;Pulse CO-Oximeter &#174; &#32;sensor. The RRp &#8482; &#32;measurement is determined by the variations in the plethysmograph waveform due to respiration, although the measurement is not possible in all patients or many conditions and may not immediately indicate changes in respiration rate. RRp &#8482; has received CE Mark, but is not currently available for sale in the U.S. for medical use. RRp &#8482; &#32;is available in the U.S. as part of our MightySat &#8482; &#32;fingertip pulse oximeter for use by consumers for general health and wellness purposes. 
+
+RRa &#174; &#160; 
+
+Our sound-based monitoring technology, rainbow Acoustic Monitoring &#174; &#32;(RAM &#8482; ), enables RRa &#174; and provides continuous and noninvasive monitoring of respiration rate. For patients requiring accurate and sensitive respiration rate monitoring, we believe that RRa &#174; &#32;has been shown to better detect pauses in breathing than respiration rate measurements from other capnography technologies. The RRa &#174; &#32;measurement also provides an important visual indication of breathing through the displayed acoustic waveform. Multiple clinical studies have shown that the noninvasive measurement of RRa &#174; &#32;provides as good or better accuracy to monitor respiration rate as end tidal CO 2 monitoring, and can reliably detect respiratory pause episodes, defined as a cessation of breathing for 30 seconds or more. When used with other clinical variables, RRa &#174; &#32;may help clinicians assess respiratory depression and respiratory distress earlier and more often to help determine treatment options and potentially enable earlier interventions. 
+
+SpfO 2 &#8482; &#160; 
+
+Prior to our debut of SpfO 2 &#8482; in October 2012, pulse oximeters could only measure and display functional oxygen saturation (SpO 2 ). Therefore, when patients had elevated carboxyhemoglobin (from CO poisoning) and/or elevated methemoglobin (negative reaction to more than 30 common drugs used in hospitals, like caines, nitrates, and dapsone), the displayed functional &#32;oxygen saturation overestimated the actual oxygen saturation value. SpfO 2 &#8482; , or fractional oxygen saturation, allows more precise arterial oxygenation assessment in patients with elevated dyshemoglobins, common throughout the hospital and pre-hospital setting, compared to functional &#32;oxygen saturation, and may also allow earlier interventions and more timely therapeutic decisions. SpfO 2 &#8482; &#32;has received CE Mark, but is not currently available for sale in the U.S. 
+
+ORI &#8482; &#160; 
+
+Oxygen Reserve Index &#8482; &#32;(ORI &#8482; ) provides real-time visibility to oxygenation status in moderate hyperoxic range, which we define as a patient&#8217;s oxygen &#8220;reserve&#8221;. ORI &#8482; &#32;can be trended and has optional alarms to notify clinicians of changes in a patient&#8217;s oxygen reserve. When this technology is used with oxygen saturation (SpO 2 ) monitoring, ORI &#8482; &#32;may extend the continuous and noninvasive visibility of a patient&#8217;s oxygen status into ranges previously unmonitored in this fashion. ORI &#8482; &#32;may also be of value in patients receiving supplemental oxygen, such as those in surgery, under conscious sedation, or in the ICU, as ORI &#8482; is represented as an &#8220;index&#8221; parameter with a unit-less scale between 0.00 and 1.00. Furthermore, ORI &#8482; &#32;may provide an advance warning of an impending hypoxic state, or an indication of an unintended hyperoxic state, when evaluated in conjunction with the partial pressure of oxygen (PaO 2 ). In this way, ORI &#8482; &#32;may enable proactive interventions to avoid hypoxia and unintended hyperoxia. ORI &#8482; &#32; has received CE Mark, but is not currently available for sale in the U.S. 
+
+&#32;Noninvasive Measurements and Technologies 
+
+Following the introduction of our rainbow SET &#8482; &#32;platform, we have continued to expand our technology offerings by introducing additional noninvasive measurements and technologies to create new market opportunities in both the hospital and non-hospital care settings. 
+
+SedLine &#174; &#32;Brain Function Monitoring 
+
+Brain function monitoring is most commonly used during surgery to help clinicians avoid over-titration and under-titration of anesthesia and sedation. SedLine &#174; &#32; brain function monitoring technology measures the brain&#8217;s electrical activity by detecting EEG signals. In contrast to whole-scalp EEG monitoring, which is used for diagnostic purposes, this form of EEG monitoring is often referred to as processed EEG monitoring, or brain function monitoring. Brain function monitors display the patient&#8217;s EEG waveforms, but these are difficult for clinicians to interpret, so the EEG signals are processed and displayed as a single number called Patient State Index (PSI), that gives a continuous, quantitative indication of the patient&#8217;s depth of anesthesia and sedation. Our SedLine &#174; &#32;brain function monitoring technology can now be delivered through the Masimo Open Connect &#8482; &#32;(MOC-9 &#8482; ) connectivity port within our Root &#174; &#32;patient monitoring and connectivity platform that integrates our rainbow &#174; &#32;and SET &#174; &#32;measurements with multiple additional parameters, such as SedLine &#174; . In addition, our SedLine &#174; &#32;brain function monitoring technology also displays raw EEG waveforms, the PSI trend and the Density Spectral Array view to allow clinicians to compare EEG power in both sides of the brain over time to facilitate the detection of asymmetrical activity. 
+
+Capnography and Gas Monitoring 
+
+We offer a portfolio of capnography and gas monitoring products ranging from external &#8220;plug-in-and-measure&#8221; capnography and gas analyzers, integrated modules, and handheld capnograph and capnometer devices. These products have the ability to measure multiple expired gases, such as carbon dioxide (CO 2 ), nitrous oxide (N 2 O), oxygen (O 2 ) and other anesthetic agents. In the case of capnography, respiration rate is also calculated from the CO 2 &#32;waveform. These measurements are possible through either mainstream monitoring, which samples gases from a ventilated patient&#8217;s breathing circuit, or sidestream monitoring, which samples gases from a breathing circuit in mechanically ventilated patients or through a cannula or mask in spontaneously breathing patients. These capnography and gas measurements are standard-of-care in many hospital environments, such as operating rooms, procedural sedation and ICUs. 
+
+O3 &#8482; &#160; 
+
+O 3 &#8482; &#32;regional oximetry, also known as tissue oximetry and cerebral oximetry, uses near-infrared spectroscopy (NIRS) to provide continuous measurement of tissue oxygen saturation (rSo2) to help detect regional hypoxemia that pulse oximetry alone can miss. In addition, our Root &#174; &#32;monitor and O 3 &#8482; &#32;sensors can automate the differential analysis of regional to central oxygen saturation. O 3 &#8482; monitoring is as simple as applying O 3 &#8482; regional oximetry sensors to the forehead and connecting the O 3 &#8482; MOC-9 &#8482; &#32;module to any Root &#174; &#32;monitor through one of its three MOC-9 &#8482; &#32;ports. O 3 &#8482; regional oximetry is currently intended for use in subjects larger than 40 kg (88 lbs) and has received CE Mark, but is not currently available for sale in the U.S. 
+
+Patient SafetyNet &#8482; &#160; 
+
+Our patient surveillance, remote monitoring and clinician notification solution, Patient SafetyNet &#8482; , allows for monitoring of the oxygen saturation, pulse rate, perfusion index, hemoglobin, methemoglobin, and respiration rate of up to 200 &#32;patients simultaneously. Patient SafetyNet &#8482; &#32;offers a rich user interface with trending, real-time waveform capability at the central station and remote notification via pager or smart phones. Patient SafetyNet &#8482; &#32;also features the Adaptive Connectivity Engine &#8482; , which enables two-way, HL7-based connectivity to clinical/hospital information systems. The Adaptive Connectivity Engine &#8482; &#32;significantly reduces the time and complexity to integrate and validate custom HL7 implementations, and demonstrates our commitment to innovation that automates patient care with open, scalable, and standards-based connectivity architecture. 
+
+The Patient SafetyNet Series 5000 &#8482; &#32;along with Iris &#8482; &#32;Connectivity and MyView &#8482; &#32;through the Root &#174; patient monitoring and connectivity platform offers a new level of interoperability designed to enhance clinician workflows, and reduce the cost of care, from operating rooms to medical-surgical units. Patient SafetyNet Series 5000 &#8482; &#32;with Iris &#8482; &#32;enables Root &#174; &#160; to intake data from all devices connected to the patient, thereby acting as an in-room patient monitor and connectivity hub. Alarms and alerts for all devices are seamlessly forwarded to the patient&#8217;s clinician and all device data are effortlessly documented in the patient&#8217;s electronic medical record (EMR). The patient-centric user interface of the Patient SafetyNet Series 5000 &#8482; &#32;displays near real-time data from all devices, providing a single unified dashboard of patient information. To simplify documentation of patient data, Root &#174; &#32;enables clinicians to easily verify and send patient vitals, as well as all connected medical device information data, to the EMR directly from Root &#174; . Data can also be sent to the EMR periodically. An interface between the Patient SafetyNet Series 5000 &#8482; &#32;and the hospital admission, discharge and transfer (ADT) system allows clinicians to receive ADT information on Root &#174; &#32;for positive patient identification at the bedside. Clinicians can also manually enter additional data on the Root &#174; &#32;device, including temperature, blood pressure, level of consciousness, pain score and urine output. 
+
+In a landmark study published in 2010 by Dartmouth-Hitchcock Medical Center, clinicians using Masimo SET &#174; &#32;and Patient SafetyNet &#8482; &#32;identified patient distress earlier, which decreased rapid response team activations, ICU transfers and ICU days. Hospitals and other care centers may determine that they can reduce their costs by moving less critically ill patients from the ICU to the general care areas where these patients can be continuously and accurately monitored in a more cost-effective manner. We believe that the advanced performance of the Masimo SET &#174; &#32;platform coupled with reliable, cost-effective and easy-to-use wireless remote monitoring will allow hospitals to create continuous surveillance solutions on general care floors where patients are at risk of avoidable adverse events and where direct patient observation by skilled clinicians is cost prohibitive. 
+
+MyView &#8482; &#160; 
+
+MyView &#8482; &#32;is a wireless, presence-detection system that enables clinicians to automatically display customized clinical profiles on Masimo devices, such as Root &#174; , Radical-7 &#174; &#32;and the Patient SafetyNet &#8482; &#32;View Station. When a clinician approaches the device, a clinician-worn MyView &#8482; &#32;badge signals the device to display a preselected set of parameters and waveforms tailored to the individual clinician&#8217;s preferences. 
+
+Third-Party Device Connectivity 
+
+Despite medical technology advances, the lack of device communication and integration creates risks to patient safety in hospitals around the world. Without device interoperability, critical patient information can go unnoticed - leaving clinicians unaware and patients at risk. Existing approaches for device interoperability require separate hardware, software and/or network infrastructure, which can clutter the patient room, increase complexity, burden IT management and increase costs. To address these challenges, we introduced Iris &#8482; &#32;connectivity in our Root &#174; &#32;patient monitoring and connectivity platform. Iris &#8482; &#32;connectivity enables multiple standalone third-party devices such as intravenous pumps, ventilators, hospital beds and other patient monitors to connect through Root &#174; , enabling display, notification and documentation to the EMR through Masimo Patient SafetyNet &#8482; . 
+
+Masimo&#8217;s addition of Iris &#8482; &#32;connectivity in Root &#174; &#32;and Patient SafetyNet &#8482; &#32;provides multiple advantages to hospitals, including the following: 
+
+&#8226; 
+
+Allows standalone device information to be remotely viewed with Patient SafetyNet &#8482; , transmitted through notification systems or sent to electronic health record systems to facilitate better patient care and meaningful use. 
+
+&#8226; 
+
+Designed to leverage existing network infrastructures and reduce costs while enhancing clinical workflows and decision support to improve patient safety, wherever the clinician is located. 
+
+&#8226; 
+
+Flexible and cost-effective platform, avoiding installation of costly, separate systems. 
+
+&#8226; 
+
+Brings all the data together to facilitate assessment and decision support. 
+
+Our Strategy 
+
+Since inception, our mission has been to develop noninvasive monitoring solutions that improve patient outcomes and reduce the cost of patient care. We intend to continue to grow our business and improve our market position by pursuing the following strategies: 
+
+&#8226; 
+
+Continue to Expand our Market Share in Pulse Oximetry. &#32;We grew our product revenue to $599.3 million &#32;in 2015 &#32;from $464.9 million &#32;in 2012, representing a three-year compound annual growth rate of 8.8% . This growth can be attributed to strong, independent clinical evidence that demonstrates the benefits of our technology, increased access to pulse oximetry customers as a result of our agreements with group purchasing organizations (GPOs), our expanding list of OEM partners and the continued expansion of our worldwide direct sales force. We supplement our direct sales to hospitals and other low 
+
+acuity healthcare facilities through various U.S. and international distributors. Combined sales through our direct and distributor sales channels increased to $508.2 million , or 84.8% &#32;of product revenue in 2015 , from $396.2 million , or 85.2% &#32;of product revenue, in 2012. Since the Patient Protection and Affordable Care Act created a new financing framework that rewards hospitals, physicians and providers based on the quality and value of the services (as opposed to the volume of fee-for-service transactions), we expect to see hospitals gravitate towards technologies like Masimo SET &#174; &#32;that have a proven track record of improving patient care. 
+
+&#8226; 
+
+Expand the Pulse Oximetry Market to Other Patient Care Settings. &#32;Many patients die due to opioid overdose in post-surgical wards. We believe the ability to continuously and accurately monitor patients outside of critical care settings, including the general, medical and surgical floors of the hospital, are currently unmet medical needs and have the potential to significantly improve patient care and increase the size of the pulse oximetry market. In addition, we believe the ability of Masimo SET &#174; &#32;to accurately monitor and address the limitations of conventional pulse oximetry has enabled, and will continue to enable, us to expand into non-critical care settings and therefore, significantly expand the market for our products. To further support our expansion into the general care areas, we market Patient SafetyNet &#8482; , which enables continuous monitoring of up to 200 &#32;patients&#8217; oxygen saturation, pulse rate and with rainbow SET &#8482; , noninvasive hemoglobin and respiration rate. We believe that Patient SafetyNet &#8482; , when combined with Masimo SET &#174; &#32;pulse oximetry and RAM &#8482; &#32;or capnography, offers a clinically proven cost-effective approach to continuous post-operative monitoring. 
+
+&#8226; 
+
+Expand the Use of rainbow &#174; &#32; Technology in Hospital Settings. &#32;We believe the noninvasive measurement of rainbow &#174; &#32;Pulse CO-Oximetry (SpHb &#174; , SpCO &#174; , SpMet &#174; , PVI &#174; , SpfO 2 &#8482; , SPOC &#8482; &#32;and ORI &#8482; ), rainbow Acoustic Monitoring &#174; &#32;(RRa &#174; ), and the Halo Index &#8482; , as well as future measurements, will provide an excellent opportunity to help our customers improve patient care while reducing their cost of care.. 
+
+&#8226; 
+
+Expand the Use of rainbow &#174; &#32; Technology in Non-Hospital Settings. &#32;We believe the noninvasive measurement of hemoglobin creates a significant opportunity in markets such as the physician office and emergency departments, and the noninvasive measurement of carboxyhemoglobin creates a significant opportunity in the fire/alternate care market. 
+
+&#8226; 
+
+Expand the Use of Root &#174; &#32;in Hospital Settings. &#32;We believe Root &#174; &#32;represents a powerful new paradigm in patient monitoring because it enhances our rainbow &#174; &#32;and SET &#174; &#32; measurements with multiple specialty parameters (SedLine &#174; &#32;brain function monitoring, O 3 &#8482; &#32;regional oximetry, capnography and gas monitoring) and open-architecture Iris &#8482; &#32;connectivity in an integrated, clinician-centric hub. Our Iris &#8482; &#32;integration platform for Root &#174; &#32;provides a conduit to the patient&#8217;s EMR for a range of clinical devices that may otherwise be unable to communicate their information. Iris &#8482; &#32;offers clinical utility and flexibility by collecting device information from all sources and making it available to clinicians in one networked place, akin to an airplane cockpit. Complementary innovations like the Radius-7 &#8482; &#32;wearable, wireless monitor foster an environment of safety without sacrificing patient mobility or comfort. Patients on medical-surgical units can be monitored around the clock, visit the common areas and labs, all while be continuously monitored. Root &#174; &#32;is acuity-adaptable, very well equipped with connectivity capabilities and very competitively priced. 
+
+&#8226; 
+
+Utilize our Customer Base and OEM Relationships to Market our Masimo rainbow &#32; SET &#8482; , O 3 &#8482; , SedLine &#174; and Capnography Products Incorporating Licensed rainbow &#174; &#32; Technology. &#32;We are currently selling our rainbow SET &#8482; &#32;products through our direct sales force and distributors. We include our MX circuit boards in our pulse oximeters and sell them to our OEM partners, equipped with circuitry to support rainbow &#174; &#32;Pulse CO-Oximetry measurements that can be activated at time of sale or through a subsequent software upgrade. We believe that, over time, the clinical need of these measurements along with our installed customer base will help drive the adoption of our rainbow &#174; &#32;Pulse CO-Oximetry products. 
+
+&#8226; 
+
+Continue to Innovate and Maintain Our Technology Leadership Position. &#32;We invented and pioneered what we believe is the first pulse oximeter to accurately measure arterial blood oxygen saturation level and pulse rate in the presence of motion artifact and low perfusion. In addition, we launched our rainbow SET &#8482; &#32;platform that enabled what we believe is the first noninvasive monitoring of carboxyhemoglobin, methemoglobin and hemoglobin, as well as PVI &#174; , all of which were previously only available with invasive and/or complicated testing. With our introduction of RRa &#174; with rainbow Acoustic Monitoring &#174; &#32;technology, we believe we have launched the first platform to enable noninvasive and continuous respiration monitoring through an easy-to-use single-patient adhesive acoustic sensor. More recently, we introduced ORI &#8482; , which we believe may provide advance warning of an impending hypoxic state, or an indication of an unintended hyperoxic state. 
+
+&#8226; 
+
+We plan to continue to innovate and develop new technologies and products, internally and through our collaboration with Cercacor, from whom we currently license certain rainbow &#174; &#32;technologies. 
+
+Our future growth strategy is also closely tied to our focus on international expansion opportunities. Since 2007, we have been expanding our sales and marketing presence in Europe, Asia, Middle East, Canada and Latin America. We have accomplished this by both additional staffing and adding or expanding sales offices in many of these territories. By centralizing a portion of our international operations in Neuchatel, Switzerland, including sales management, marketing, customer support, planning, logistics and administrative functions, we believe we have developed a more efficient and scalable international organization 
+
+that is capable of being even more responsive to the business needs of our international customers under one centralized management structure. 
+
+Operating Segment and Geographic Information 
+
+We operate in one business segment, using one measurement of profitability to manage our business. Sales and other financial information by geographic area is provided in Note 16 to our accompanying consolidated financial statements included in Part IV, Item 15(a) of this Annual Report on Form 10-K. 
+
+Our Products and Markets 
+
+We develop, manufacture and market patient monitoring technologies that incorporate a monitor or circuit board and sensors, including proprietary single-patient-use, reusable and rainbow ReSposable &#174; &#32;sensors and patient cables. In addition, we offer remote alarm/monitoring solutions, software and connectivity solutions. 
+
+The following chart summarizes our principal product components and principal markets and methods of distribution: 
+
+Patient Monitoring Solutions: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Circuit Boards and Modules 
+
+(e.g.,MX-3, MX-5, MS-2011, MS-2040, uSpO2 &#174; , SedLine &#174; , ISA and IRMA) 
+
+&#160; 
+
+&#8226; Signal processing apparatus for all Masimo technology platforms 
+
+&#8226; Mainstream and sidestream capnography and gas monitors 
+
+&#160; 
+
+&#8226; Incorporated and sold to OEM partners who incorporate our circuit boards into their patient monitoring systems 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Monitors and Devices 
+
+(e.g., Radical-7 &#174; , Pronto &#174; , Rad-57 &#174; , Root &#174; , Radius-7 &#8482; , and EMMA &#8482; ) 
+
+&#160; 
+
+&#8226; Bedside, handheld and wireless monitoring devices that incorporate Masimo SET &#174; with and without licensed Masimo rainbow SET &#8482; technology 
+
+&#8226; Compact and self-contained capnometer which monitors CO 2 concentration 
+
+&#160; 
+
+&#8226; Sold directly to end-users and through distributors and in some cases to our OEM partners who sell to end-users 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Patient Monitoring and Connectivity Platforms 
+
+(e.g., Root &#174; , Radius-7 &#8482; ) 
+
+&#160; 
+
+&#8226; Multi-specialty measurement monitor with connected and wireless capabilities 
+
+&#8226; Ability to connect third-party devices such as IV pumps, ventilators, beds and other patient monitors to the electronic health record 
+
+&#160; 
+
+&#8226; Sold directly to end-users and through distributors 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sensors 
+
+(e.g., SET &#174; , rainbow &#174; Pulse CO-Oximetry, rainbow Acoustic &#8482; Sensors &#8482; and SedLine &#174; ) 
+
+&#160; 
+
+&#8226; Extensive line of both single-patient, reusable and rainbow ReSposable &#174; sensors 
+
+&#8226; Patient cables, as well as adapter cables that enable the use of our sensors on certain competitive monitors 
+
+&#160; 
+
+&#8226; Sold directly to end-users and through distributors and to OEM partners who sell to end-users 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Line Filters and Mainstream Adapters 
+
+(e.g., capnography and gas disposables) 
+
+&#160; 
+
+&#8226; Line of disposables to measure mainstream and sidestream capnography and gas parameters 
+
+&#160; 
+
+&#8226; Sold directly to end-users and through distributors and to OEM partners who sell to end-users 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Remote Alarm and Monitoring Solutions (e.g., Patient SafetyNet &#8482; ) 
+
+&#160; 
+
+&#8226; Network-linked, wired or wireless, multiple patient floor monitoring solutions 
+
+&#8226; Standalone wireless alarm notification solutions 
+
+&#160; 
+
+&#8226; Sold directly to end-users 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Proprietary Measurements (e.g., SpHb &#174; , SpCO &#174; , SpMet &#174; , PVI &#174; , RRa &#174; , ORI &#8482; , 3D Alarms and Adaptive Threshold Alarm) 
+
+&#160; 
+
+&#8226; Rainbow &#174; measurements and other proprietary features sold to installed monitors 
+
+&#160; 
+
+&#8226; Sold directly to end-users and through OEM partners who sell to end-users 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Connectivity (e.g., Root &#174; , Patient SafetyNet &#8482; ) 
+
+&#160; 
+
+&#8226; Software and hardware enabling third-party devices to connect through Patient SafetyNet &#8482; to clinicians and for documentation to the electronic health record 
+
+&#160; 
+
+&#8226; Sold directly to end-users 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Consumer Monitoring Solutions: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Devices 
+
+(e.g. MightySat &#8482; ) 
+
+&#160; 
+
+&#8226; Pulse oximeter cable and sensor for use with an iPhone, iPad, iPod touch and select Android smart phones 
+
+&#160; 
+
+&#8226; Sold directly to consumers through on-line websites 
+
+Circuit Boards 
+
+Masimo SET &#174; &#32; MS Circuit Boards . Our Masimo SET &#174; &#32;MS circuit boards perform all signal processing and other pulse oximetry functions incorporating the Masimo SET &#174; &#32;platform. Our MS circuit boards are included in our proprietary monitors for direct sale or sold to our OEM partners for incorporation into their monitors. Once incorporated into a pulse oximeter, the MS circuit boards perform all data acquisition processing and report the pulse oximetry levels to the host monitor. The circuit boards and related software interface directly with our proprietary sensors to calculate arterial blood oxygen saturation level and pulse rate. Our latest generation boards include the MS-2003, MS-2011, MS-2013 and MS-2040, with a typical power consumption of less than 45 milliwatts. 
+
+Masimo rainbow &#32; SET &#8482; &#32;MX Circuit Boards. &#32;Our next-generation circuit board is the foundation for our Masimo rainbow &#174; &#32;Pulse CO-Oximetry and rainbow Acoustic Monitoring &#174; &#32;platform, utilizing certain technology that is licensed from Cercacor. The MX circuit boards offer full functionality of our rainbow &#174; technology for noninvasive measurements for total hemoglobin (SpHb &#174; ), oxygen content (SpOC &#8482; ), carboxyhemoglobin (SpCO &#174; ), methemoglobin (SpMet &#174; ) and acoustic respiration rate (RRa &#174; ), in addition to providing Measure-Through-Motion and Low-Perfusion oxygen saturation (SpO2), pulse rate (PR) and PI measurement capabilities of Masimo SET &#174; pulse oximetry. Customers can choose to buy additional measurements beyond arterial blood oxygen saturation levels and pulse rate at the time of sale or at any time in the future through a field-installed software upgrade. 
+
+Our MX-5 OEM circuit board deploys a technology platform that utilizes approximately half the power of previously available rainbow &#174; circuit boards to deliver rainbow &#174; Pulse CO-Oximetry noninvasive measurement performance. In addition to the lower power demands compared to previous rainbow &#174; technology boards, the MX-5 adds dynamic power utilization to scale the MX-5&#8217;s power draw based upon the combination of parameters being monitored to permit even longer battery run-times. 
+
+uSpO 2 &#174; &#32;Cable/Board. &#32;Our SET &#174; &#32;technology-in-a-cable contains the low power (MS-2040) technology in a reduced size, allowing it to be embedded into patient cables as part of the sensor connector. This allows for the ability to interface the uSpO 2 &#174; &#32;cable/board to monitoring devices externally via an existing communications port in instances where internal integration of a 
+
+traditional Masimo SET &#174; &#32;technology board is not feasible. The uSpO 2 &#174; &#32;cable/board provides full Masimo SET &#174; &#32;Measure-through-Motion and Low-Perfusion pulse oximetry found in our other products, with a typical power consumption of less than 45 milliwatts. 
+
+Monitors / Devices 
+
+Radical-7 &#174; . &#32;The Radical-7 &#174; &#32;incorporates our MX circuit board, which enables rainbow SET &#8482; &#32;measurements, and offers three-in-one capability that can be used as: 
+
+&#8226; 
+
+a standalone device for bedside monitoring; 
+
+&#8226; 
+
+a detachable, battery-operated handheld unit for easy portable monitoring; and 
+
+&#8226; 
+
+a monitor interface via SatShare &#174; , a proprietary technology allowing our products to work with certain competitor products, to upgrade existing conventional multiparameter patient monitors to Masimo SET &#174; &#32;while displaying rainbow &#174; &#32;measurements on the Radical-7 &#174; &#32;itself. 
+
+The Radical-7 &#174; &#32;is a wireless, touchscreen device, which is on an upgradeable rainbow SET &#8482; &#32;platform. With its wide-ranging flexibility, Radical-7 &#174; &#32;can continuously monitor a patient from the ambulatory environment, to the emergency room, to the operating room, to the general floor and on, until the patient is discharged. Radical-7 &#174; &#32;delivers the accuracy and reliability of Masimo rainbow SET &#8482; &#32;with multi-functionality, ease of use and a convenient upgrade path for existing monitors. 
+
+Root &#174; . Root &#174; &#32;is a powerful patient monitoring and connectivity platform that integrates our rainbow &#174; &#32;and SET &#174; &#32;measurements with multiple additional specialty measurements through Masimo Open Connect &#8482; &#32;(MOC-9 &#8482; ) in an integrated, clinician-centric platform. The first two MOC-9 &#8482; &#32;technologies for Root &#174; &#32;were SedLine &#174; &#32;brain function monitoring and Phasein &#8482; &#32;capnography. Our third MOC-9 &#8482; &#32;technology for Root &#174; , O 3 &#8482; &#32; regional oximetry, provides for continuous and simultaneous measurement of tissue oxygen saturation (rSo2) and SpO2 to help detect regional hypoxemia that pulse oximetry alone can miss. Iris &#8482; &#32;connectivity in the Root &#174; &#32;device enables third party devices such as intravenous pumps and ventilators to connect through Root &#174; , which enables display notification and documentation to the EMR through the Masimo Patient SafetyNet &#8482; application. 
+
+In June 2015, we announced the release of our Root &#174; connectivity and patient monitoring platform with noninvasive blood pressure and temperature capabilities. Root &#174; &#32;with noninvasive blood pressure from SunTech Medical &#174; &#32;enables clinicians to measure arterial blood pressure for adult, pediatric and neonatal patients, with three distinct measurement modes: spot-check, automatic interval and stat interval. The temperature module from Welch Allyn &#174; &#32;is designed to measure the temperature of adult, pediatric and neonatal patients. This product has received both CE Mark and FDA 510(k) clearance. 
+
+Our Root &#174; &#32;platform with capnography, SedLine &#174; &#32;brain function monitoring, wireless communication and Iris &#8482; &#32; connectivity for third-party medical devices has received FDA clearance. O 3 &#8482; &#32; regional oximetry has received CE Mark, but is not currently available for sale in the U.S. 
+
+Radius-7 TM . &#32;Radius-7 &#8482; &#32; for the Root &#174; patient monitoring and connectivity platform is the first and only wearable, wireless monitor with our rainbow SET &#8482; &#32;technology, enabling early identification of clinical deterioration while offering patients continuous monitoring with freedom of movement. With rainbow SET &#8482; &#32;noninvasive measurements, Radius-7 &#8482; &#32; with Root &#174; &#32;can alert clinicians at the bedside or remotely, through Masimo Patient SafetyNet &#8482; , of critical changes in a patient&#8217;s oxygen saturation and pulse rate, even during states of motion and low perfusion, as well as respiration through RRa &#174; . Radius-7 &#8482; &#32; with Root &#174; &#32;has received both CE Mark and FDA 510(k) clearance. 
+
+SatShare &#174; . Our SatShare &#174; &#32;technology enables a conventional monitor to receive continuous measurement updates using Masimo SET &#174; &#32;through a simple cable connection from the back of Radical-7 &#174; &#32;to the sensor input port of the conventional monitor. No software upgrades or new modules are necessary for the upgrade, which can be completed in minutes. SatShare &#174; &#32;allows hospitals to standardize the technology and sensors used throughout the hospital while allowing them to gain more accurate monitoring capabilities and additional multi-functionality in a cost-effective manner. This technology has facilitated many hospital-wide conversions of previously installed competitor monitors to Masimo SET &#174; . In addition, Masimo rainbow SET &#8482; &#32;measurements such as hemoglobin are available to clinicians on the Radical-7 &#174; &#32;itself while the device is being used in SatShare &#174; &#32;mode. 
+
+Pronto &#174; . The Pronto &#174; &#32;is a handheld noninvasive multiparameter testing device that uses Masimo rainbow SET &#8482; &#32;technology to provide oxygen saturation, pulse rate, perfusion index and spot-checking of hemoglobin levels for both hospitals (i.e., emergency departments) and remote settings such as physician offices. 
+
+Rad-8 &#174; . &#32;The Rad-8 &#174; &#32;is a bedside pulse oximeter featuring Masimo SET &#174; &#32;(but without rainbow &#174; &#32;capability) with a low cost design and streamlined feature set. 
+
+Rad-5 &#174; . &#32;In addition to the bedside monitors, we have developed handheld pulse oximeters using Masimo SET &#174; &#32;(but without rainbow &#174; &#32;capability). Our Rad-5 &#174; &#32;and Rad-5v &#174; &#32;handheld oximeters were the first dedicated handhelds with Masimo SET &#174; . 
+
+Rad-57 &#174; . &#32;The Rad-57 &#174; &#32;is a fully featured handheld Pulse CO-Oximeter &#174; &#32;that provides continuous, noninvasive measurement of hemoglobin, carboxyhemoglobin and methemoglobin in addition to oxygen saturation, pulse rate and perfusion index. Its rugged and lightweight design makes it applicable for use in hospital and field settings, specifically for fire departments and emergency medical service units. 
+
+MightySat &#8482; &#32;Rx . In October 2015, we announced FDA 510(k) clearance for MightySat &#8482; &#32;Rx, a fingertip pulse oximeter that incorporates Masimo SET &#174; Measure-through-Motion and Low-Perfusion technology. 
+
+SedLine &#174; &#32; MOC-9 &#8482; &#32;Module. &#32;The SedLine &#174; &#32;monitor measures brain function on a continuous basis. The SedLine &#174; &#32;MOC-9 &#8482; &#32;module for Root &#174; &#32;is an EEG-based brain function monitor that provides information about a patient&#8217;s response to anesthesia. 
+
+O 3 &#8482; &#32;MOC-9 &#8482; &#32;Module. The &#32; O 3 &#8482; &#32;MOC-9 &#8482; module for Root &#174; uses near-infrared spectroscopy (NIRS) to detect regional hypoxemia by continuously measuring tissue oxygen saturation (rSo2), automating the differential analysis of regional to central oxygen saturation. 
+
+Capnography and Gas Monitoring. &#32;Our gas analyzers, IRMA and ISA, and emergency capnometer (EMMA &#8482; ), enable our customers to benefit from CO 2 , N 2 O, O 2 &#32;and anesthetic agent monitoring in many hospital environments. 
+
+uSpO 2 &#174; Cable/Board. Our new SET &#174; technology-in-a-cable contains our low power (MS-2040) technology in a reduced size, allowing it to be embedded into patient cables as part of the sensor connector. 
+
+Sensors 
+
+Sensors and Cables. &#32;We have developed one of the broadest lines of single-patient-use (disposable), reusable and rainbow sensors and cables. In total, we have over 100 different types of sensors to meet virtually every clinical need. Masimo SET &#174; &#32;sensors are uniquely designed to reduce interference from physiological and non-physiological noise. Our proprietary technology platforms operate only with our proprietary sensor lines. However, through the use of adapter cables, we can connect our sensors to certain competitor pulse oximetry monitors. We sell our sensors and cables to end-users directly or through our distributors and OEM partners. 
+
+Our single-patient-use sensors offer several advantages over reusable sensors, including improved performance, cleanliness, increased comfort and greater reliability. Our reusable sensors are primarily used for short-term, spot-check monitoring. Our rainbow ReSposable &#174; &#32;sensors are expected to provide performance advantages for customers currently using reusable and reprocessed sensors. 
+
+SofTouch Sensors. &#32;We have developed SofTouch sensors, designed with less adhesive or no adhesive at all for compromised skin conditions. These include single-patient sensors for newborns and multi-site reusable sensors for pediatrics and adults. 
+
+Trauma and Newborn Sensors. &#32;We have developed two specialty sensor lines, specifically designed for trauma and resuscitation situations, as well as for newborns. These sensors contain an identifier that automatically sets the oximeter to monitor with maximum sensitivity and the shortest-averaging mode and allows for quick application, even in wet and slippery environments. Additionally, we introduced low-profile sensors to monitor oxygen saturation in newborns. The newly enhanced low-profile LNCS &#174; &#32;and M-LNCS &#8482; Neo, NeoPt and Inf Sensors are smaller and thinner, making them significantly more comfortable for patients and easier to apply for healthcare workers. 
+
+Blue Sensors. &#32;We believe our Blue Sensors are the first FDA-cleared sensors to accurately monitor arterial blood oxygen saturation levels in cyanotic infants and children with abnormally low oxygen saturation levels. 
+
+E1 &#174; &#32;Ear Sensor. &#32;We believe that our E1 &#174; &#32;Ear Sensor was the first ever, single-patient-use ear sensor that is placed securely in the ear conchae, so clinicians can combine Masimo SET &#174; &#32;performance and central monitoring to provide quick access and responsive assessment of oxygenation. The E1 &#174; &#32;Ear Sensor is designed for field emergency medical services utilization. 
+
+TFA-1 &#8482; &#32;Adhesive Forehead Sensor. We believe our TFA-1 &#8482; &#32;forehead sensor can combine Masimo SET &#174; performance and central monitoring to provide quick access and responsive assessment of oxygenation, for hospitals desiring forehead monitoring with a disposable sensor. 
+
+rainbow &#174; &#32; Sensors. &#32;We have developed proprietary, multi-wavelength sensors for use with our rainbow &#174; &#32;Pulse CO-Oximetry products. In contrast to traditional sensors that only have the capability to monitor arterial blood oxygen saturation levels and pulse rate, our rainbow &#174; &#32;sensors can also monitor carboxyhemoglobin, methemoglobin and hemoglobin. Our licensed rainbow 
+
+SET &#8482; &#32;sensors are the only sensors that are compatible with our licensed rainbow SET &#8482; &#32;products. Rainbow &#174; &#32;sensors are available in single-patient-use, rainbow ReSposable &#174; &#32;and reusable spot-check sensor types. 
+
+The rainbow &#174; DCI-mini &#8482; is the first noninvasive hemoglobin (SpHb &#174; ) spot-check sensor for infants and small children (weight 3 to 30 kg). Paired with our handheld Pronto &#174; device, the rainbow &#174; DCI-mini &#8482; &#32; sensors are designed to help clinicians quickly and easily spot-check hemoglobin levels in infants and small children, which may facilitate the identification of anemia. The rainbow &#174; DCI-mini &#8482; &#32; has received CE Mark in Japan, but is not currently available for sale in the U.S. or Europe. 
+
+rainbow Acoustic &#8482; &#32;Sensors. &#32;We believe we were the first to market a continuous respiration rate monitoring technology based on an acoustic sensor placed on the patient&#8217;s neck. Our rainbow Acoustic &#8482; &#32;sensors detect the sounds associated with breathing and convert the sounds into continuous respiration rate using proprietary signal processing that is based on Masimo SET &#174; . 
+
+SedLine &#174; &#32; Sensor. &#32;Used with the SedLine &#174; &#32;MOC-9 &#8482; &#32;module for the Root &#174; &#32;patient monitor, the SedLine &#174; &#32;sensor is a disposable sensor that collects EEG data for our SedLine &#174; &#32;monitor. 
+
+rainbow &#174; &#32; Universal ReSposable SuperSensor &#8482; . &#32;This sensor, which is not currently available for sale in the U.S., is the first noninvasive sensor to provide simultaneous monitoring of SpHb &#174; , SpCO &#174; , SpMet &#174; , SpfO 2 &#8482; , SpOC &#8482; , PI, PVI &#174; &#32;and Measure-Through-Motion and Low-Perfusion arterial blood oxygen saturation (SpO 2 ) and pulse rate (PR). 
+
+O 3 &#8482; Sensor. Used with the O 3 &#8482; &#32;MOC-9 &#8482; &#32;module for the Root &#174; &#32; patient monitor, each O 3 &#8482; &#32;sensor contains four light-emitting diodes and two detectors to continuously measure rSo2. 
+
+Reprocessed Sensors. We offer our customers choices for reducing pollution and waste in our world while also reducing costs, including Masimo Reprocessed Sensors, the only reprocessing solution that maintains new Masimo sensor performance specifications, and rainbow ReSposable &#174; &#32;sensors, offering unprecedented sustainability with a lower carbon footprint and greater waste reduction than reprocessed or new sensors. Rainbow ReSposable &#174; &#32;sensors offer equivalent performance and comfort to single-patient- use sensors and a similar sensor price-per-patient to mixed third-party reprocessed and new sensors. 
+
+Remote Alarm and Monitoring Solutions 
+
+Masimo Patient SafetyNet &#8482; . &#32;Patient SafetyNet &#8482; &#32;is a remote monitoring and clinician notification system. It instantly routes bedside-generated alarms through a server to a qualified clinician&#8217;s handheld paging device in real-time. Each system can support up to 200 &#32;bedside monitors and can either be integrated into a hospital&#8217;s existing IT infrastructure or operate as a stand-alone wireless network. 
+
+Proprietary Measurements 
+
+All of our monitors shipped since January 2006, including Radical-7 &#174; &#32;and certain future OEM products, which incorporate the MX board will allow purchases of software for rainbow &#174; &#32;measurements, as well as other future measurements or features that can be field-installed. Our current rainbow &#174; &#32;measurements include ORI &#8482; , PI, PR, PVI &#174; , RRp &#8482; , SpHb &#174; , SpO 2 , SpCO &#174; , SpMet &#174; , SpOC &#8482; &#32; and SpfO 2 &#8482; , as well as rainbow Acoustic Monitoring &#174; , RRa &#174; &#32; 
+
+Currently, clinicians monitor multiple clinical measurements on each patient and respond independently to each of the measurements. Halo Index &#8482; &#32;is a dynamic indicator that facilitates continuous global trending and assessment of multiple physiological measurements into a simple and comprehensive assessment within a single index to quantify changes in patient status, which is displayed on the Patient SafetyNet &#8482; &#32;remote monitoring and notification system. Halo Index &#8482; &#32;has received CE Mark, but is not currently available for sale in the U.S. In the future, subject to receipt of regulatory clearance, we expect Halo Index &#8482; &#32;will also be available as part of our standalone devices and OEM boards. As more clinical evidence is collected on Halo Index &#8482; , its clinical utility in a variety of care areas and patient types will become more specific. 
+
+&#32;Eve &#8482; , a Newborn Screening Software Application for the Radical-7 &#174; &#32;Pulse CO-Oximeters &#174; , is designed to help clinicians more effectively and efficiently screen newborns for critical congenital heart disease (CCHD). In the Radical-7 &#174; &#32;Pulse CO-Oximeter &#174; , Eve &#8482; &#32;automates the screening steps with animated instruction, including sensor application, measurement selection and screening result determination. Eve &#8482; &#32;is intended to provide consistent application of the screening protocol to reduce method-and operator-induced variability and improve efficiency by automating the data capture and comparison between readings. Eve &#8482; &#32;has received CE Mark, but is currently not available for sale in the U.S. 
+
+X-Cal &#8482; &#160; 
+
+Sensor and cable failures can prevent pulse oximeters from providing the patient safety advantages that continuous pulse oximetry monitoring is intended to provide. Our X-Cal &#8482; &#32;technology enhances patient safety and improves clinician efficiency by preserving system quality, performance and reliability and reducing the chances of bad or inferior sensors and cables being 
+
+used on patients. X-Cal &#8482; &#32;technology enhances the benefits of Masimo&#8217;s pulse oximetry by incorporating the means to track the expected monitoring life of the pulse oximetry sensors and cables and provides appropriate user messaging on the host monitor. 
+
+X-Cal &#8482; &#32;addresses three common problems experienced by clinicians using an integrated Masimo system, including: 
+
+&#8226; 
+
+Patient safety may be compromised by using imitation Masimo sensors and cables because they are not produced with comparable components, do not provide proper shielding from ambient interferences, create electrostatic noise caused by motion, do not have our quality and performance controls, and are not tested or warranted to work within a Masimo system; 
+
+&#8226; 
+
+We design our sensors and cables to last well beyond their warranty period and customer feedback indicates our sensors and cables last significantly longer than competing products, but cable and sensor reliability may still be compromised when used beyond the life they were designed for, affecting patient care and causing clinicians and biomedical engineers to spend time troubleshooting intermittent cable and sensor issues; and 
+
+&#8226; 
+
+We believe that third-party reprocessed pulse oximetry sensors introduce challenges in the clinical environment due to potential quality issues. In fact, we believe that most third-party reprocessed sensors do not indicate that they are capable of performing in Measure-Through-Motion or Low-Perfusion conditions or neonatal applications, key performance requirements available with Masimo SET &#174; &#32;sensors. Also, to the best of our knowledge, no third-party company has attempted to reprocess rainbow SET &#8482; &#32;sensors. 
+
+Connectivity 
+
+Iris &#8482; &#32;connectivity in Root &#174; &#32;enables third-party devices such as intravenous pumps and ventilators to connect through Root &#174; &#32;enabling display, notification and documentation to the EMR through Masimo Patient SafetyNet &#8482; . 
+
+Consumer Products 
+
+Our MightySat &#8482; &#32;fingertip pulse oximeter for personal use provides accurate oxygen saturation and pulse rate measurements and is designed for those who want accurate measurements even under extreme conditions. In addition to standard SpO 2 , PR and PI measurements, MightySat &#8482; &#32;is also available with optional respiration rate (RRp) and PVI &#174; , a measure of the dynamic changes in the PI that occur during one or more complete respiratory cycles. MightySat &#8482; &#32;provides measurements in a compact, battery-powered design with a large color screen that can be rotated for real-time display of the pleth waveform as well as measurements. Bluetooth wireless functionality enables measurement display via a free, downloadable Masimo Personal Health app on iOS and Android mobile devices, as well as the ability to trend and communicate measurements, including the Apple Health Kit. MightySat &#8482; &#32;is available online and is intended for general health and wellness use only. MightySat &#8482; &#32;is not intended for medical use. 
+
+Cercacor Laboratories, Inc. 
+
+Cercacor is an independent entity spun-off from us to our stockholders in 1998. Joe Kiani, our Chairman and Chief Executive Officer, is also the Chairman and Chief Executive Officer of Cercacor. In addition, Jack Lasersohn, a member of our board of directors, was a member of the board of directors of Cercacor until April 2, 2015. We are a party to a cross-licensing agreement with Cercacor, which was amended and restated effective January 1, 2007 (the Cross-Licensing Agreement), which governs each party&#8217;s rights to certain intellectual property held by the two companies. 
+
+The following table outlines our rights under the Cross-Licensing Agreement relating to specific end user markets and the related technology applications of specific measurements. 
+
+&#160; 
+
+&#160; 
+
+End User Markets 
+
+Measurements 
+
+&#160; 
+
+Professional Caregiver and 
+
+Alternate Care Market 
+
+&#160; 
+
+Patient and Pharmacist 
+
+Vital Signs (1) 
+
+&#160; 
+
+Masimo 
+
+(owns) 
+
+&#160; 
+
+Cercacor 
+
+(non-exclusive license) 
+
+Non-Vital Signs (2) 
+
+&#160; 
+
+Masimo 
+
+(exclusive license) 
+
+&#160; 
+
+Cercacor 
+
+(owns or exclusive license) 
+
+______________ 
+
+(1) &#160; 
+
+Vital Signs measurements include, but are not limited to, SpO 2 , peripheral venous oxygen saturation, mixed venous oxygen saturation, fetal oximetry, sudden infant death syndrome, ECG, blood pressure (noninvasive blood pressure, invasive blood pressure and continuous noninvasive blood pressure), temperature, respiration rate, CO 2 , pulse rate, cardiac output, EEG, perfusion index, depth of anesthesia, cerebral oximetry, tissue oximetry and/or EMG, and associated features derived from these measurements, such as 3-D alarms, PVI &#174; &#32; and other features. 
+
+(2) &#160; 
+
+Non-Vital Signs measurements include the body fluid constituents other than vital signs measurements and include, but are not limited to, carbon monoxide, methemoglobin, blood glucose, hemoglobin and bilirubin. 
+
+Our License to Cercacor. &#32;We granted Cercacor an exclusive, perpetual and worldwide license, with sublicense rights, to use our Masimo SET &#174; &#32;technology, including all improvements, for the monitoring of non-vital signs measurements and to develop and sell devices incorporating Masimo SET &#174; &#32;for monitoring non-vital signs measurements in the &#8220;Cercacor Market&#8221;. The Cercacor Market consists of any product market in which a product is intended to be used by a patient or pharmacist rather than a professional medical caregiver regardless of the particular location of the sale, including sales to doctors, hospitals, alternate care market professionals or otherwise, provided the product is intended to be recommended, or resold, for use by the patient or pharmacist. We also granted Cercacor a non-exclusive, perpetual and worldwide license, with sublicense rights, to use Masimo SET &#174; &#32;for the measurement of vital signs in the Cercacor Market. In exchange, Cercacor pays us a 10% royalty on the amount of vital signs sensors and accessories sold by Cercacor. 
+
+Cercacor&#8217;s License to us. &#32;We exclusively license from Cercacor the right to make and distribute products in the &#8220;Masimo Market&#8221; that utilize rainbow &#174; &#32;technology for the measurement of carbon monoxide, methemoglobin, fractional arterial oxygen saturation, and hemoglobin, which includes hematocrit. The Masimo Market consists of any product market where the product is intended to be used by a professional medical caregiver, including hospital caregivers, surgicenter caregivers, paramedic vehicle caregivers, doctors&#8217; offices caregivers, alternate care facility caregivers and vehicles where alternative care services are provided. We also have the option to obtain exclusive licenses to make and distribute products in the Masimo Market that utilize rainbow &#174; &#32;technology for the monitoring of other non-vital signs measurements, including blood glucose. We have 180 days after proof of feasibility to exercise the above-referenced option to obtain a license for the measurement of blood glucose for an additional $2.5 million and licenses for other non-vital signs measurements for an additional $0.5 million each. The licenses are exclusive until the later of 20 years from the grant of the applicable license or the expiration of the last patent included in the rainbow &#174; &#32;technology related to the applicable measurements. To date, we have developed and commercially released devices that measure carbon monoxide, methemoglobin and hemoglobin using licensed rainbow &#174; &#32;technology. We also make and distribute products that monitor respiration rate via rainbow Acoustic Monitoring &#174; , which is a Masimo-developed rainbow &#174; &#32;technology and, therefore, is not required to be licensed from Cercacor. During the year ended December 28, 2013, we exercised our right to license from Cercacor five additional non-vital sign measurements for $0.5 million each, or $2.5 million in the aggregate. As the result of new data in fiscal 2015 related to these five additional non-vital sign measurements, we and Cercacor terminated these licenses during fiscal 2015, and Cercacor agreed to refund the amounts previously paid by us for these licenses. 
+
+Our license to rainbow &#174; &#32;technology for these measurements in these markets is exclusive on the condition that we continue to pay Cercacor royalties on our products incorporating rainbow &#174; &#32;technology, subject to certain minimum aggregate royalty thresholds, and that we use commercially reasonable efforts to develop or market products incorporating the licensed rainbow &#174; &#32;technology. The royalty is up to 10% of the rainbow &#174; &#32;royalty base, which includes handhelds, tabletop and multiparameter devices. Handheld products incorporating rainbow &#174; &#32;technology carry a 10% royalty rate. For other products, only the proportional amount attributable to that portion of our devices used to monitor non-vital signs measurements, rather than to monitoring vital signs measurements, and sensors and accessories for measuring only non-vital sign parameters are included in the 10% rainbow &#174; &#32;royalty base. For multiparameter devices, the rainbow &#174; &#32;royalty base includes the percentage of the revenue based on the number of rainbow &#174; -enabled measurements. For hospital contracts where we place equipment and enter into a sensor contract, we pay a royalty to Cercacor on the total sensor contract revenue based on the ratio of rainbow &#174; &#32;enabled devices to total devices. During the year ended January 2, 2016 &#32;and going forward, we are subject to certain specific annual minimum aggregate royalty payment obligations of $5.0 million per year. 
+
+Change in Control . The Cross-Licensing Agreement provides that, upon a change in control: 
+
+&#8226; 
+
+if the surviving or acquiring entity ceases to use &#8220;Masimo&#8221; as a company name and trademark, all rights to the &#8220;Masimo&#8221; trademark will be assigned to Cercacor; 
+
+&#8226; 
+
+the option to license technology developed by Cercacor for use in blood glucose monitoring will be deemed automatically exercised and a $2.5 million license fee for this technology will become immediately payable to Cercacor; and 
+
+&#8226; 
+
+the minimum aggregate annual royalties payable to Cercacor for carbon monoxide, methemoglobin, fractional arterial oxygen saturation, hemoglobin and/or glucose will increase to $15.0 million per year until the exclusivity period of the agreement ends, plus up to $2.0 million for each additional measurement with no maximum ceiling for non-vital sign measurements. 
+
+For purposes of the Cross-Licensing Agreement, a change in control includes any of the following with respect to us or Cercacor: 
+
+&#8226; 
+
+the sale of all or substantially all of either company&#8217;s assets to a non-affiliated third-party; 
+
+&#8226; 
+
+the acquisition by a non-affiliated third-party of 50% or more of the voting power of either company; 
+
+&#8226; 
+
+Joe Kiani, our Chief Executive Officer and the Chief Executive Officer of Cercacor, resigns or is terminated from his position with either company; or 
+
+&#8226; 
+
+the merger or consolidation of either company with a non-affiliated third-party. 
+
+Ownership of Improvements . Any improvements to Masimo SET &#174; &#32;or rainbow &#174; &#32;technology made by Cercacor, by us, or jointly by Cercacor with us or with any third-party that relates to non-vital signs monitoring, and any new technology acquired by Cercacor, is and will be owned by Cercacor. Any improvements to the Masimo SET &#174; &#32;platform or rainbow &#174; &#32;technology made by Cercacor, by us, or jointly by Cercacor with us or with any third-party that relates to vital signs monitoring, and any new technology acquired by us, is and will be owned by us. However, for both non-vital signs and vital signs monitoring, any improvements to the technology, excluding acquired technology, will be assigned to the other party and will be subject to the terms of the licenses granted under the Cross-Licensing Agreement. Any new non-vital signs monitoring technology utilizing Masimo SET &#174; &#32;that we develop will be owned by Cercacor and will be subject to the same license and option fees as if it had been developed by Cercacor. Also, we will not be reimbursed by Cercacor for our expenses relating to the development of any such technology. 
+
+Cercacor Services Agreement (Services Agreement). &#32;We have also entered into a services agreement with Cercacor. Under this Services Agreement, we provide Cercacor with certain general and administrative services. For each of the years ended January 2, 2016 &#32;and January 3, 2015 , Cercacor paid us $0.2 million &#32;for such general and administrative services and we expect Cercacor to continue to engage us to perform these services. However, pursuant to the Services Agreement, Cercacor may terminate the agreement by providing us a 30 day notice, and we may terminate with a 180 day notice to Cercacor. 
+
+Cercacor&#8217;s Expenses related to Pronto-7 &#174; . &#32;In February 2009, in order to accelerate the development of the technology and product development supporting our Pronto-7 &#174; &#32;device, Cercacor agreed to re-direct a substantial amount of its engineering development activities to focus on this project and we agreed to fund such expenses. Accordingly, from April 2009 through June 2010, we agreed to reimburse Cercacor for all third-party engineering materials and supplies expenses related to Pronto-7 &#174; &#32;development and 50% of Cercacor&#8217;s total engineering and engineering-related payroll expenses. Subsequent to July 2010, Cercacor continued to assist us with other product development efforts and charged us accordingly. Beginning in 2012, due to a revised estimate of the support required by us to complete the various Pronto-7 &#174; &#32;related projects, our board of directors approved an increase in the percentage of Cercacor&#8217;s total engineering and engineering related payroll expenses funded by us from 50% to 60%. For the year ended January 3, 2015 , the total funding for these additional Cercacor expenses was $3.1 million . This arrangement was discontinued by mutual agreement effective as of January 4, 2015. 
+
+During the year ended January 2, 2016 , Cercacor completed a review of its fiscal 2014 cross-charges related to Pronto-7 &#174; . Based on this review, it was determined that less than 60% of Cercacor&#8217;s total engineering and engineering-related payroll expenses were attributable to the development of Pronto-7 &#174; , resulting in an overpayment by us to Cercacor of approximately $1.6 million for fiscal 2014. In addition, we and Cercacor agreed to equally share approximately $1.4 million of previously incurred engineering-related payroll expenses associated with research for a new LED sensor technology and, as a result, we and Cercacor mutually agreed that Cercacor would refund $0.9 million to us. 
+
+Cercacor Consulting Services Agreement (Consulting Agreement). &#32;In January 2015, we entered into a consulting services agreement (Consulting Agreement) with Cercacor that governs certain engineering consulting and clinical studies support services that Cercacor may provide for us from time-to-time. Expenses incurred by us related to this Consulting Agreement were $0.3 million &#32;for the fiscal year ended January 2, 2016 . 
+
+Patent Transfer and Licensing Agreement. We entered into a patent transfer and licensing agreement with Cercacor (the Patent Agreement) effective July 2015, pursuant to which, among other things, we purchased certain patents from Cercacor (the Purchased Patents) for an aggregate purchase price of $2.4 million. Pursuant to the Patent Agreement, we granted Cercacor an irrevocable, non-exclusive, worldwide license with respect to the products and services covered by the Purchased Patents. 
+
+Government Regulation 
+
+As a global medical technology company, we are subject to significant government regulation, compliance requirements, fees and costs, both in the U.S. and abroad. These regulatory requirements subject our products and our business to numerous risks that are specifically discussed within &#8220;Risks Related to Our Regulatory Environment&#8221; under Part I, Item 1A &#8212; &#8220;Risk Factors&#8221; 
+
+within this Annual Report on Form 10-K. A summary of certain critical aspects of our regulatory environment is included below. 
+
+Food and Drug Administration (FDA) Premarket Clearance and Approval Requirements 
+
+The FDA, along with other federal, state and local authorities, regulates our products and product-related activities. Pursuant to the U.S. Food, Drug, and Cosmetic Act (FDCA) and the regulations promulgated under that Act, the FDA regulates the design, development, clinical trials, testing, manufacture, packaging, labeling, storage, distribution and promotion of medical devices. We endeavor to ensure that our products and procedures remain in compliance with all applicable FDA regulations, but the regulations regarding the manufacture and sale of our products are subject to change. We cannot predict the effect, if any, that these changes might have on our business, financial condition and results of operations. Unless an exemption applies, each medical device that we wish to market in the U.S. must first receive from the FDA either 510(k) clearance, by filing a 510(k) pre-market notification, or PMA approval, by filing a pre-market approval application (PMA). 
+
+The FDA&#8217;s 510(k) clearance process usually takes from four to twelve months, but it can take longer. The process of obtaining PMA approval is much more costly, lengthy and uncertain. We cannot be sure that 510(k) clearance or PMA approval will be obtained for any product we propose to market on a timely basis or at all. In addition, if the FDA discovers that an applicant has submitted false or misleading information, the FDA may refuse to review submissions until certain requirements are met pursuant to its Application Integrity Policy. 
+
+The FDA decides whether a device must undergo either the 510(k) clearance or PMA approval process based upon statutory criteria. These criteria include the level of risk that the agency perceives is associated with the device and a determination of whether the product is a type of device that is similar to devices that are already legally marketed. Devices deemed to pose relatively less risk are placed in either Class I or II, which generally requires the manufacturer to submit a pre-market notification requesting 510(k) clearance, unless an exemption applies. 
+
+Class I devices are those for which safety and effectiveness can be assured by adherence to the FDA&#8217;s general regulatory controls (General Controls) for medical devices, which include compliance with the applicable portions of the FDA&#8217;s Quality System Regulation (QSR) facility registration and product listing, reporting of adverse medical events, and appropriate, truthful and non-misleading labeling, advertising and promotional materials. Some Class I devices also require premarket clearance by the FDA through the 510(k) premarket notification process. 
+
+Class II devices are subject to the FDA&#8217;s General Controls, the FDA&#8217;s QSR, including the Design Control regulations, and any other special controls deemed necessary by the FDA to ensure the safety and effectiveness of the device. Premarket review and clearance by the FDA for Class II devices is accomplished through the 510(k) premarket notification procedure. All of our current regulated devices are classified as Class II devices. 
+
+Class III devices are those deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices, or those devices deemed not substantially equivalent to a legally marketed predicate device. The safety and effectiveness of Class III devices cannot be assured solely by the General Controls and the other requirements described above. These devices almost always require formal clinical studies to demonstrate safety and effectiveness and must be approved through the PMA approval process during which the manufacturer must establish the safety and effectiveness of the device to the FDA&#8217;s satisfaction. A PMA application must be supported by valid scientific evidence, including extensive preclinical (including bench tests and laboratory and animal studies) and clinical trial data as well as information about the device and its components regarding, among other things, device design, manufacturing and labeling. Also during the review period, an advisory panel of experts from outside the FDA may be convened to review and evaluate the application and provide recommendations to the FDA as to the approvability of the device. As part of the PMA application review, the FDA will conduct a preapproval inspection of the manufacturing facility to ensure compliance with the FDA&#8217;s QSR. If the FDA approves the PMA, it may place restrictions on the device or the labeling or require additional clinical studies. If the FDA&#8217;s evaluation of the PMA application or the manufacturing facility is not favorable, the FDA may deny approval of the PMA application or issue a &#8220;not approvable&#8221; letter. The FDA may also require additional clinical trials, which can delay the PMA approval process by several years. None of our products are currently approved under the PMA process. 
+
+To obtain 510(k) clearance, a company must submit a premarket notification demonstrating that the proposed device is &#8220;substantially equivalent&#8221; in intended use and in technological and performance characteristics to a legally marketed &#8220;predicate device&#8221; that is either a Class I, Class II or Class III device that was in commercial distribution before May 28, 1976, for which the FDA has not yet called for submission of a PMA application. After a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, requires a new 510(k) clearance or could require a PMA approval. The FDA requires each manufacturer to make this determination in the first instance, but the FDA can review any decision. If the FDA disagrees with a manufacturer&#8217;s decision not to seek a new 510(k) clearance, the agency may retroactively require the manufacturer to seek 510(k) clearance or PMA approval. The FDA also 
+
+can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or PMA approval is obtained. 
+
+A clinical trial may be required in support of a 510(k) submission and generally is required for a PMA application. These trials may require an Investigational Device Exemption (IDE) application approved in advance by the FDA for a specified number of patients, unless the proposed study is deemed a non-significant risk study, which is eligible for an exemption from the IDE requirements. The IDE application must be supported by appropriate data, such as animal and laboratory testing results. Clinical trials may begin if the IDE application is approved by the FDA and the appropriate institutional review boards (IRBs) at the clinical trial sites. Submission of an IDE application does not give assurance that the FDA will issue the IDE. If the IDE application is approved, there can be no assurance the FDA will determine that the data derived from the trials support the safety and effectiveness of the device or warrant the continuation of clinical trials. An IDE supplement must be submitted to and approved by the FDA before a sponsor or investigator may make a change to the investigational plan that may affect its scientific soundness, study indication or the rights, safety or welfare of human subjects. The trial must also comply with the FDA&#8217;s regulations, including the requirement that informed consent be obtained from each subject. Even if a trial is completed, the results of clinical testing may not adequately demonstrate the safety and efficacy of the device or may otherwise not be sufficient to obtain FDA clearance to market the product in the U.S. 
+
+We believe that our OEM partners may be required to obtain 510(k) premarket clearance from the FDA for certain of their products that incorporate Masimo SET &#174; &#32;technology, Masimo rainbow SET &#8482; &#32;technology, Masimo Board-in-Cable technology or Masimo sensors. In order to facilitate our OEM partners in obtaining 510(k) clearance for their products that incorporate Masimo SET &#174; &#32;or Masimo rainbow SET &#8482; &#32;boards and sensors, we grant our OEM partners a right to cross-reference the 510(k) submission files from our cleared Masimo SET &#174; &#32;circuit boards, sensors, cables and notification systems. 
+
+We recently launched our MightySat &#8482; &#32;fingertip pulse oximeter for general health and wellness use. We are marketing this product in accordance with the FDA&#8217;s current policy and enforcement discretion which indicates that pulse oximeters that are not intended for medical purposes can be marketed directly to consumers without first obtaining 510(k) clearance. We cannot assure you that the FDA will not change its policy regarding the regulation of these products. If the FDA changes its policy, we may be required to seek 510(k) clearance to market this pulse oximeter. We also may be required to cease marketing and/or recall the product until we obtain a new 510(k) clearance. 
+
+User Fees 
+
+Pursuant to the Medical Device User Fee and Modernization Act of 2002 (MDUFMA), the Medical Device User Fee Amendments of 2012 (MDUFA III) and provisions of the Food and Drug Administration Safety and Innovation Act (FDASIA), unless a specific exemption applies, both 510(k) submissions and PMA applications are subject to user fees. The PMA user fees are significantly higher. 
+
+Pervasive and Continuing FDA Regulation 
+
+After a device is placed on the market, it continues to be subject to the FDA&#8217;s regulatory authority. FDA regulatory requirements include: 
+
+&#8226; 
+
+product listing and establishment registration, which helps facilitate FDA inspections and other regulatory action; 
+
+&#8226; 
+
+QSR and current good manufacturing practices, which requires manufacturers, including third-party manufacturers, to follow stringent design control, testing, change control, documentation and other quality assurance procedures during all aspects of the development and manufacturing process, including requirements for packaging, labeling and record keeping, complaint handling, corrective and preventive actions and internal auditing; 
+
+&#8226; 
+
+labeling control and advertising regulations, including FDA prohibitions against the promotion of products for uncleared, unapproved or off-label uses or indications; 
+
+&#8226; 
+
+clearance of product modifications that could significantly affect safety or efficacy or that would constitute a major change in intended use of one of our cleared devices; 
+
+&#8226; 
+
+approval of product modifications that affect the safety or effectiveness of one of our future approved devices; 
+
+&#8226; 
+
+medical device reporting (MDR), regulations, which require that manufacturers comply with FDA requirements to report if their device may have caused or contributed to a death or serious injury, or has malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction of the device or a similar device were to recur; 
+
+&#8226; 
+
+post-approval restrictions or conditions, including post-approval study commitments; 
+
+&#8226; 
+
+post-market surveillance requirements, which apply when necessary to protect the public health or to provide additional safety and effectiveness data for the device; 
+
+&#8226; 
+
+the FDA&#8217;s recall authority, whereby it can ask, or under certain conditions order, device manufacturers to recall from the market a product that is in violation of its conditions of approval, governing laws and/or regulations; 
+
+&#8226; 
+
+regulations pertaining to voluntary recalls; and 
+
+&#8226; 
+
+notices of corrections or removals. 
+
+We must also register with the FDA as a medical device manufacturer, list all products placed in commercial distribution and obtain all necessary state permits or licenses to operate our business. As a manufacturer, we are subject to announced and unannounced inspections by the FDA to determine our compliance with the FDA&#8217;s QSR and other regulations. Our OEM partners also are subject to inspection and market surveillance by the FDA to determine compliance with regulatory requirements. 
+
+If the FDA finds that we or one of our OEM partners have failed to comply with the FDA&#8217;s QSR, the agency can institute a wide variety of enforcement and other regulatory actions, including: 
+
+&#8226; 
+
+an FDA Form 483, which is issued by the FDA at the conclusion of an inspection when an investigator has observed any conditions that may constitute violations of the FDCA and related Acts; 
+
+&#8226; 
+
+a public warning letter outlining potential violations of the FDCA; 
+
+&#8226; 
+
+fines and civil penalties against us and/or OEM partners; 
+
+&#8226; 
+
+delays in clearing or approving, or refusal to clear or approve, our products; 
+
+&#8226; 
+
+withdrawal or suspension of clearances and/or approvals of our products or those of our third-party suppliers by the FDA or other regulatory bodies; 
+
+&#8226; 
+
+product recall; 
+
+&#8226; 
+
+product detention or seizure; 
+
+&#8226; 
+
+interruption of production; 
+
+&#8226; 
+
+refusal to provide Certificates to Foreign Governments (CFGs), which may be necessary to permit the export of devices from the U.S. to other countries; 
+
+&#8226; 
+
+operating restrictions; 
+
+&#8226; 
+
+injunctions of future violations (including those agreed to in a consent decree); and 
+
+&#8226; 
+
+criminal prosecution. 
+
+The FDA also has the authority to request repair, replacement or refund of the cost of any medical device manufactured or distributed by us. 
+
+Advertising and Promotion 
+
+Advertising and promotion of medical devices, in addition to being regulated by the FDA, are also regulated by the Federal Trade Commission (FTC) and by federal and state regulatory and enforcement authorities, including the FDA, the Department of Justice, the Office of Inspector General of the Department of Health and Human Services, and various state attorneys general. Although physicians are permitted to use their medical judgment to use medical devices for indications other than those cleared or approved by the FDA, we may not promote our products for such &#8220;off-label&#8221; uses and can only market our products for cleared or approved uses. 
+
+Recently, promotional activities for FDA-regulated products of other companies have been the subject of FTC enforcement actions brought under healthcare reimbursement laws and consumer protection statutes. FTC enforcement actions often result in consent decrees that constrain future actions. In addition, under the federal Lanham Act and similar state laws, competitors and others can initiate litigation relating to advertising claims. 
+
+Import and Export Requirements 
+
+To import a device, the importer must file an entry notice and bond with the United States Bureau of Customs and Border Protection (CBP). All devices are subject to FDA examination before release from CBP. Any article that appears to be in violation of the FDCA may be refused admission and a notice of detention and hearing may be issued. If the FDA ultimately refuses admission, the CBP may issue a notice for redelivery and assess liquidated damages for up to three times the value of the lot. The CBP also imposes its own regulatory requirements on the import of our products, including inspection and possible sanctions for noncompliance. 
+
+Products exported from the United States are subject to foreign countries&#8217; import requirements and the exporting requirements of the FDA or European regulating bodies, as applicable. In particular, international sales of medical devices manufactured in the United States that are not approved or cleared by the FDA for use in the United States, or are banned or deviate from lawful performance standards, are subject to FDA export requirements. 
+
+Foreign countries often require, among other things, a CFG for export. To obtain a CFG, the device manufacturer must apply to the FDA. The FDA certifies that the product has been granted clearance or approval in the United States and that the manufacturing facilities were in compliance with the FDA&#8217;s QSR regulations at the time of the last FDA inspection. 
+
+Foreign Regulation Regarding Clearance and Approval 
+
+Many foreign countries in which we market or may market our products have regulatory bodies and restrictions similar to those of the FDA. International sales are subject to foreign government regulation, the requirements of which vary substantially from country to country. The time required to obtain approval by a foreign country may be longer or shorter than that required for FDA clearance and the requirements may differ. 
+
+In particular, marketing of medical devices in the European Union (EU) is subject to compliance with Council Directives. Pursuant to such Council Directives, a medical device may be placed on the market within the EU only if it conforms to certain &#8220;essential requirements&#8221; and bears the CE Mark. The most fundamental and essential requirement is that a medical device must be designed and manufactured in such a way that it will not compromise the clinical condition or safety of patients, or the safety and health of users and others. In addition, the device must achieve the essential performance(s) intended by the manufacturer and be designed, manufactured and packaged in a suitable manner. 
+
+Manufacturers must demonstrate that their devices conform to the relevant essential requirements through a conformity assessment procedure. The nature of the assessment depends upon the classification of the device. The classification rules are mainly based on three criteria: the length of time the device is in contact with the body, the degree of invasiveness and the extent to which the device affects the anatomy. Conformity assessment procedures for all but the lowest risk classification of device involve a notified body. Notified bodies are often private entities and are authorized or licensed to perform such assessments by government authorities. Manufacturers usually have some flexibility to select conformity assessment procedures for a particular class of device and to reflect their circumstances, e.g., the likelihood that the manufacturer will make frequent modifications to its products. Conformity assessment procedures require an assessment of available clinical evidence, literature data for the product and post-market experience in respect of similar products already marketed. Notified bodies also may review the manufacturer&#8217;s quality systems. If satisfied that the product conforms to the relevant essential requirements, the notified body issues a certificate of conformity, which the manufacturer uses as a basis for its own declaration of conformity and application of the CE Mark. Application of the CE Mark allows the product to be distributed throughout the EU. We maintain CE Marking on all of our products that require such markings. 
+
+Other U.S. and Foreign Regulation 
+
+We and our OEM partners also must comply with numerous federal, state and local laws relating to matters such as safe working conditions, manufacturing practices, environmental protection, fire hazard control and hazardous substance disposal. We cannot be sure that we will not be required to incur significant costs to comply with these laws and regulations in the future or that these laws or regulations will not hurt our business, financial condition and results of operations. Unanticipated changes in existing regulatory requirements or adoption of new requirements could hurt our business, financial condition and results of operations. 
+
+The Physician Payment Sunshine Act (Sunshine Act), which was enacted by Congress as part of the Patient Protection and Affordable Care Act (PPACA) on March 23, 2010, requires medical device companies to track and publicly report, with limited exceptions, all payments and transfers of value to physicians and teaching hospitals in the U.S. Implementing regulations for these tracking and reporting obligations were finalized in 2013, and companies are now required to track payments made and to report such payments to the government by March 31 of each year. In addition, in December 2005, the International Electrotechnical Commission published a revised version of its standard for medical electrical equipment, IEC, 60601-1:2005 (3rd edition). In this publication, standards are listed as general requirements concerning basic safety and the essential performance of equipment. These new standards were required to be in place by June 1, 2012 in Europe and by December 31, 2013 in the U.S. for new submissions. Failure to adhere to this regulation will prevent us from using our equipment in our clinical trials. 
+
+Medical Device Tax 
+
+In March 2010, the U.S. Congress adopted and President Obama signed into law comprehensive health care reform legislation. Among other initiatives, commencing January 1, 2013, these laws imposed significant new taxes on medical device makers in the form of a 2.3% excise tax on U.S. medical device sales, with certain exemptions. For the years ended January 2, 2016 &#32;and January 3, 2015 , we recorded $6.9 million &#32;and $6.6 million , respectively, in medical device taxes that were included in selling, general and administrative expenses. In December 2015, the U.S. Congress adopted and President Obama signed into law a bill that includes a two-year suspension of the medical device tax beginning on January 1, 2016. However, such tax may be reimposed on medical device makers beginning on January 1, 2018 if such suspension is not extended or the medical device tax is not permanently repealed. 
+
+Conflict Minerals and Supply Chain 
+
+We are subject to SEC rules adopted pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act concerning &#8220;conflict minerals&#8221; (generally tin, tantalum, tungsten and gold) and similar rules are under consideration by the European Union (EU). Certain of these conflict minerals are used in the manufacture of our products. Although the rules are being challenged in court, in their present form they require us to investigate the source of any conflict minerals necessary to the production or functionality of our products. If any such conflict minerals originated in the Democratic Republic of the Congo or adjoining countries (the DRC region), we must undertake comprehensive due diligence to determine whether such minerals financed or benefited armed groups in the DRC region. Since our supply chain is complex, our ongoing compliance with these rules could affect the pricing, sourcing and availability of conflict minerals used in the manufacture of our products. 
+
+We are also subject to disclosure requirements regarding abusive labor practices in portions of our supply chain under the California Transparency in Supply Chains Act. 
+
+Environmental 
+
+Our manufacturing processes involve the use, generation and disposal of solid wastes, hazardous materials and hazardous wastes, including silicone adhesives, solder and solder paste, sealants, epoxies and various solvents such as methyl ethyl ketone, acetone and isopropyl alcohol. As such, we are subject to stringent federal, state and local laws relating to the protection of the environment, including those governing the use, handling and disposal of hazardous materials and wastes. Products that we sell in Europe are subject to regulation in EU markets under the Restriction of Hazardous Substances Directive (RoHS). RoHS prohibits companies from selling products which contain certain hazardous materials, including lead, mercury, cadmium, chromium, polybrominated biphenyls and polybrominated diphenyl ethers, in EU member states. In addition, the EU&#8217;s Regulation-Registration, Evaluation, Authorization, and Restriction of Chemicals Directive also restricts substances of very high concern in products. 
+
+Future environmental laws may require us to alter our manufacturing processes, thereby increasing our manufacturing costs. We believe that our products and manufacturing processes at our facilities comply in all material respects with applicable environmental laws and worker health and safety laws; however, the risk of environmental liabilities cannot be completely eliminated. 
+
+Health Care Fraud and Abuse 
+
+In the U.S., there are federal and state anti-kickback laws that generally prohibit the payment or receipt of kickbacks, bribes or other remuneration in exchange for the referral of patients or other health-related business. For example, the Federal Anti-Kickback Statute (42 U.S.C. &#167; 1320a-7b(b)) prohibits anyone from, among other things, knowingly and willfully offering, paying, soliciting or receiving any bribe, kickback or other remuneration intended to induce the referral of patients for, or the purchase, order or recommendation of, health care products and services reimbursed by a federal health care program, including Medicare and Medicaid. Recognizing that the federal anti-kickback law is broad and potentially applicable to many commonplace arrangements, Congress and the Office of Inspector General within the Department of Health and Human Services (OIG) have created statutory &#8220;exceptions&#8221; and regulatory &#8220;safe harbors&#8221;. Exceptions and safe harbors exist for a number of arrangements relevant to our business, including, among other things, payments to bona fide employees, certain discount and rebate arrangements, and certain payment arrangements involving GPOs. Although an arrangement that fits into one or more of these exceptions or safe harbors is immune from prosecution, arrangements that do not fit squarely within an exception or safe harbor do not necessarily violate the law, but the OIG or other government enforcement authorities may examine the practice to determine whether it involves the sorts of abuses that the statute was designed to combat. Violations of this federal law can result in significant penalties, including imprisonment, monetary fines and assessments, and exclusion from Medicare, Medicaid and other federal health care programs. Exclusion of a manufacturer, like us, would preclude any federal health care program from paying for its products. In addition to the federal anti-kickback law, many states have their own laws that parallel and implicate anti-kickback restrictions analogous to the federal anti-kickback law, but may apply regardless of 
+
+whether any federal health care program business is involved. Federal and state anti-kickback laws may affect our sales, marketing and promotional activities, educational programs, pricing and discount practices and policies, and relationships with health care providers by limiting the kinds of arrangements we may have with hospitals, alternate care market providers, GPOs, physicians and others in a position to purchase or recommend our products. 
+
+Federal and state false claims laws prohibit anyone from presenting, or causing to be presented, claims for payment to third-party payers that are false or fraudulent. For example, the Federal Civil False Claims Act (31 U.S.C. &#167; 3729 et seq.) imposes liability on any person or entity who, among other things, knowingly and willfully presents, or causes to be presented, a false or fraudulent claim for payment by a federal health care program, including Medicaid and Medicare. Some suits filed under the False Claims Act, known as &#8220;qui tam&#8221; actions, can be brought by a &#8220;whistleblower&#8221;, or &#8220;relator&#8221; on behalf of the government and such individuals may share in any amounts paid by the entity to the government in fines or settlement. Manufacturers, like us, can be held liable under false claims laws, even if they do not submit claims to the government, where they are found to have caused submission of false claims by, among other things, providing incorrect coding or billing advice about their products to customers that file claims, or by engaging in kickback arrangements with customers that file claims. A number of states also have false claims laws, and some of these laws may apply to claims for items or services reimbursed under Medicaid and/or commercial insurance. Sanctions under these federal and state laws may include civil monetary penalties, exclusion from government health care programs and imprisonment. 
+
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) created new federal crimes, including health care fraud and false statements related to health care matters. The health care fraud statute prohibits, among other things, knowingly and willfully executing a scheme to defraud any health care benefit program, including private payers. The false statements statute prohibits, among other things, knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for health care benefits, items or services. A violation of either statute is a felony and may result in fines, imprisonment and exclusion from government health care programs. 
+
+The Foreign Corrupt Practices Act of 1977 and similar worldwide anti-bribery laws in non-U.S. jurisdictions generally prohibit companies and their intermediaries from making improper payments to non-U.S. officials for the purpose of obtaining or retaining business. 
+
+Due to the breadth of some of these laws, it is possible that some of our current or future practices might be challenged under one or more of these laws. In addition, there can be no assurance that we would not be required to alter one or more of our practices to be in compliance with these laws. Evolving interpretations of current laws or the adoption of new federal or state laws or regulations could adversely affect many of the arrangements we have with customers and physicians. Therefore, our risk of being found in violation of these laws is increased by the fact that some of these laws are broad and open to interpretation. 
+
+Privacy and Security of Health Information 
+
+Numerous federal, state and international laws and regulations, including HIPAA, govern the collection, use and disclosure of patient-identifiable or protected health information (PHI). HIPAA applies to covered entities, which include most healthcare facilities that purchase and use our products. The HIPAA Privacy Rule restricts the use and disclosure of PHI, and requires covered entities and business associates under business associate agreements to safeguard that information and to provide certain rights to individuals with respect to that information. The HIPAA Security Rule establishes detailed requirements for safeguarding PHI transmitted or stored electronically. Although we are not a covered entity, we are sometimes deemed to be a business associate of covered entities due to activities that we perform for or on behalf of covered entities, which sometimes requires covered entities to contractually bind us, as a business associate, to protect the privacy and security of PHI we may encounter during activities such as training customers on the use of our products or investigating product performance. 
+
+Enacted in February 2009, the Health Information Technology for Economic and Clinical Health Act (HITECH) made significant amendments to the HIPAA Privacy and Security Rules. Under HIPAA and HITECH, business associates must comply with a number of HIPAA Privacy Rule requirements and all of the HIPAA Security Rule provisions, and business associates are directly subject to HIPAA civil and criminal enforcement and the associated penalties for violation of the Privacy and Security Rule requirements. 
+
+The HIPAA standards also apply to the use and disclosure of PHI for research and generally require the covered entity performing the research to obtain the written authorization of the research subject (or an appropriate waiver) before providing that subject&#8217;s PHI to sponsors like us for purposes related to the research. These covered entities also typically impose contractual limitations on our use and disclosure of the PHI they disclose to us. We may be required to make costly system modifications to comply with the privacy and security requirements that will be imposed on us and our failure to comply may result in liability and adversely affect our business. 
+
+Numerous other federal and state laws protect the confidentiality of PHI, including state medical privacy laws and federal and state consumer protection laws. These various laws in many cases are not preempted by the HIPAA rules and may be subject to varying interpretations by the courts and government agencies, creating complex compliance issues for us and our customers and potentially exposing us to additional expense, adverse publicity and liability. Other countries also have, or are developing, laws governing the collection, use and transmission of health information and these laws could create liability for us or increase our cost of doing business. 
+
+Third-Party Reimbursement 
+
+Health care providers, including hospitals, that purchase our products generally rely on third-party payers, including the Medicare and Medicaid programs and private payers, such as indemnity insurers and managed care plans, to cover and reimburse all or part of the cost of the products and the procedures in which they are used. As a result, demand for our products is dependent in part on the coverage and reimbursement policies of these payers. No uniform coverage or reimbursement policy for medical technology exists among all third-party payers, and coverage and reimbursement can differ significantly from payer to payer. 
+
+The Centers for Medicare and Medicaid Services (CMS), the federal agency responsible for administering the Medicare program, along with its contractors, establish coverage and reimbursement policies for the Medicare program. Because a large percentage of the hospitals using our products treat elderly or disabled individuals who are Medicare beneficiaries, Medicare&#8217;s coverage and reimbursement policies are particularly significant to our business. In addition, private payers often follow the coverage and reimbursement policies of Medicare. We cannot assure you that government or private third-party payers will cover and reimburse the procedures using our products in whole or in part in the future or that payment rates will be adequate. 
+
+In general, Medicare will cover a medical product or procedure when the product or procedure is reasonable and necessary for the diagnosis or treatment of an illness or injury, or to improve the functioning of a malformed body part. Even if the medical product or procedure is considered medically necessary and coverage is available, Medicare may place restrictions on the circumstances where it provides coverage. For example, several Medicare local contractors have issued policies that restrict coverage for pulse oximetry in hospital inpatient and outpatient settings to a limited number of conditions, including limiting coverage to patients who (i) exhibit signs of acute respiratory dysfunction, (ii) have chronic lung disease, severe cardiopulmonary disease or neuromuscular disease involving the muscles of respiration, (iii) are under treatment with a medication with known pulmonary toxicity, or (iv) have sustained multiple trauma or complaints of acute chest pain. 
+
+Reimbursement for our products may vary not only by the type of payer involved but also based upon the setting in which the product is furnished and utilized. For example, Medicare payment may be made, in appropriate cases, for patient stays in the hospital inpatient and outpatient settings involving the use of our products. Medicare generally reimburses hospitals based upon prospectively determined amounts. For hospital inpatient stays, the prospective payment generally is determined by the patient&#8217;s condition and other patient data and procedures performed during the inpatient stay, using a classification system known as Medicare Severity Diagnosis-Related Groups (MS-DRGs). Prospective rates are adjusted for, among other things, regional differences, co-morbidity and complications. Hospitals generally do not receive separate Medicare reimbursement for the specific costs of purchasing our products for use in the inpatient setting. Rather, Medicare reimbursement for these costs is deemed to be included within the prospective payments made to hospitals for the inpatient services in which the products are utilized. 
+
+In contrast, some differences may be seen in the reimbursement for use of our products in hospital outpatient departments. In this setting, Medicare payments also are generally made under a prospective payment system based on the ambulatory payment classifications (APCs) under which individual items and procedures are categorized. Hospitals receive the applicable APC payment rate for the procedure regardless of the actual cost for such treatment. Some outpatient services such as oximetry services do not receive separate reimbursement. Rather, their reimbursement is deemed packaged into the APC for an associated procedure and the payment for that APC does not vary whether or not the packaged procedure is performed. Some procedures also are paid through Composite APCs, which are APCs that establish a payment rate that applies when a specific combination of services is provided. Reimbursement for certain pulse oximetry monitoring services, including those using our products, may be separately payable when they are the only service provided to the patient on that day, packaged if provided with certain critical care services, or reimbursed through a composite APC when provided in connection with certain other services. 
+
+Because payments through the Prospective Payment System in both the hospital inpatient and outpatient settings are based on predetermined rates and may be less than a hospital&#8217;s actual costs in furnishing care, hospitals have incentives to lower their operating costs by utilizing products that will reduce the length of inpatient stays, decrease labor or otherwise lower their costs. If hospitals cannot obtain adequate coverage and reimbursement for our products, or the procedures in which they are used, we 
+
+cannot be certain that they will purchase our products, despite the clinical benefits and opportunity for cost savings that we believe can be derived from their use. 
+
+Our success with rainbow SET &#8482; &#32;technologies in U.S. care areas with reimbursable monitoring procedures, such as hospital emergency departments, hospital procedure labs, and the physician office may largely depend on the ability of providers to receive reimbursement for such procedures. While private insurance payers generally follow Medicare coding and payment, we cannot be certain of this and, in many cases, cannot control the coverage or payment rates that private insurance payers put in place. In addition, the PPACA could affect future Medicare payment for services involving the use of our products. 
+
+Our success in non-U.S. markets depends largely upon the availability of coverage and reimbursement from the third-party payers through which health care providers are paid in those markets. Health care payment systems in non-U.S. markets vary significantly by country, and include single-payer government managed systems, as well as systems in which private payers and government managed systems exist side-by-side. Our ability to achieve market acceptance or significant sales volume in international markets we enter will be dependent in large part on the availability of reimbursement for procedures performed using our products under health care payment systems in such markets. 
+
+Competition 
+
+The medical device industry is highly competitive and many of our competitors have substantially greater financial, technical, marketing and other resources than we do. While we regard any company that sells pulse oximeters as a potential customer, we also recognize that the companies selling pulse oximeters on an OEM basis and/or pulse oximetry sensors are also potential competitors. Our primary competitor, Medtronic plc (Medtronic, formerly Covidien Ltd.), currently holds a substantial share of the pulse oximetry market. Medtronic sells its own brand of Nellcor pulse oximeters to end-users, sells pulse oximetry modules to other monitoring companies on an OEM basis, and licenses to certain OEMs the right to make their pulse oximetry platforms compatible with their sensors. We also face substantial competition from larger medical device companies, including companies that develop products that compete with our proprietary Masimo SET &#174; and our OEM partners. We believe that a number of companies have announced products that claim to offer motion-tolerant accuracy. Based on those announcements and our investigations, we further believe that many of these products include technology that infringes our intellectual property rights. We have settled claims against some of these companies and intend to vigorously enforce and protect our proprietary rights with respect to the others whom we believe are infringing our technology. 
+
+We believe that the principal competitive factors in the market for pulse oximetry products include: 
+
+&#8226; 
+
+accurate monitoring during both patient motion and low perfusion; 
+
+&#8226; 
+
+ability to introduce other clinically beneficial measurements related to oxygenation and respiration, such as noninvasive and continuous hemoglobin and acoustic respiration rate; 
+
+&#8226; 
+
+competitive pricing, including bundling practices; 
+
+&#8226; 
+
+brand recognition and perception of innovation abilities; 
+
+&#8226; 
+
+sales and marketing capability; 
+
+&#8226; 
+
+access to hospitals which are members of GPOs; 
+
+&#8226; 
+
+recent proliferation of integrated delivery networks; 
+
+&#8226; 
+
+access to OEM partners; and 
+
+&#8226; 
+
+patent protection. 
+
+Seasonality 
+
+The healthcare business in the United States and overseas is typically subject to quarterly fluctuations in hospital and other alternative care admissions. Historically, our third fiscal quarter revenues have generally experienced a sequential decline from our second fiscal quarter revenues. We believe this is primarily due to the summer vacation season during which people tend to avoid elective procedures. Another factor affecting the seasonality of our quarterly revenues is the traditional &#8220;flu season&#8221; that often increases hospital and acute care facility admissions in the first and fourth calendar quarters. Because our non-sales variable operating expenses often do not fluctuate in the same manner as our quarterly product sales, this may cause fluctuations in our quarterly operating income that are disproportionate to fluctuations in our quarterly revenue. 
+
+Sales and Marketing 
+
+We have sales and marketing employees in the U.S. and abroad. We expect to moderately increase our worldwide sales and sales support organizations as we continue to expand our presence throughout both the U.S. and the world, including Europe, the Middle East, Asia, Latin America, Canada and Australia. We currently sell all of our medical products both directly to hospitals and the alternate care market via our sales force and certain distributors. We sell our non-medical/consumer products through e-commerce Internet sites such as Amazon.com. 
+
+The primary focus of our sales representatives is to facilitate the conversion of competitor accounts to our Masimo SET &#174; &#32;and rainbow SET &#8482; &#32;pulse oximetry products, to expand the use of Masimo SET &#174; &#32;and Patient SafetyNet &#8482; &#32;on the general floor and to create and expand the use of rainbow &#174; &#32;measurements in both critical care and non-critical care areas. In addition to sales representatives, we employ clinical specialists to work with our sales representatives to educate end-users on the benefits of Masimo SET &#174; &#32;and assist with the introduction and implementation of our technology and products to their sites. Our sales and marketing strategy for pulse oximetry has been and will continue to be focused on building end-user awareness of the clinical and cost-saving benefits of our Masimo SET &#174; &#32;platform. More recently, we have expanded this communication and educational role to include our Masimo rainbow &#174; &#32;Pulse CO-Oximetry and rainbow Acoustic Monitoring &#174; &#32;products, including hemoglobin, carboxyhemoglobin, methemoglobin, PVI &#174; , acoustic respiration rate and Halo Index &#8482; . In addition, we have also built a dedicated worldwide blood management sales force whose primary focus has been to work with hospitals to identify new opportunities to deploy our SpHb &#174; &#32;technology. 
+
+For the year ended January 2, 2016 , two just-in-time distributors, Owens &#38; Minor and Cardinal Health, represented approximately 14.6% &#32;and 11.7% , respectively, of our total revenue. These were the only two customers that represented 10% or more of our revenue for the year ended January 2, 2016 . Importantly, these two distributors take and fulfill orders from our direct customers, many of which have signed long-term sensor purchase agreements with us. As a result, in the event a specific just-in-time distributor is unable to fulfill these orders, the orders would be redirected to other distributors or fulfilled directly by us. 
+
+Additionally, we sell certain of our products through our OEM partners who both incorporate our boards into their monitors and resell our sensors to their customers&#8217; installed base of Masimo SET &#174; &#32;products. Our OEM agreements allow us to expand the availability of Masimo SET &#174; &#32;through the sales and distribution channels of each OEM partner. To facilitate clinician awareness of Masimo SET &#174; &#32;installations, all of our OEM partners have agreed to place the Masimo SET &#174; &#32;logo prominently on their instruments. 
+
+In order to facilitate our U.S. direct sales to hospitals, we have signed contracts with what we believe to be the five largest national GPOs in the U.S., based on the total volume of negotiated purchases. In return for the GPOs putting our products on contract, we have agreed to pay the GPOs a percentage of our revenue from their member hospitals. In 2015 and 2014, revenue from the sale of our pulse oximetry products to hospitals that are associated with GPOs amounted to $337.4 million &#32;and $309.9 million , respectively. 
+
+Our marketing efforts are designed to build end-user awareness through digital and print advertising, direct mail and trade shows. In addition, we distribute published clinical studies, provide product education for doctors, nurses, biomedical engineers and respiratory therapists and assist with product evaluations. 
+
+Intellectual Property 
+
+We believe that in order to maintain a competitive advantage in the marketplace, we must develop and maintain protection of the proprietary aspects of our technology. We rely on a combination of patent, trademark, trade secret, copyright and other intellectual property rights and measures to protect our intellectual property. 
+
+We have developed a patent portfolio internally, and, to a lesser extent, through acquisitions and licensing, that covers many aspects of our product offerings. As of January 2, 2016 , we had 536 &#32;issued patents and 338 pending applications in the U.S., Europe, Japan, Australia, Canada and other countries throughout the world. Our issued U.S. patents have expiration dates (not including any patent term extensions) from 2016 to 2034. Additionally, as of January 2, 2016 , we owned 64 &#32;U.S. registered trademarks and 216 &#32;foreign registered trademarks, as well as trade names that we use in conjunction with the sale of our products. Our trademarks are perpetually renewable. 
+
+Under the Cross-Licensing Agreement, we and Cercacor have agreed to allocate proprietary ownership of technology developed based on the functionality of the technology. We will have proprietary ownership, including ownership of all patents, copyrights and trade secrets, of all technology related to the noninvasive monitoring of vital signs measurements, and Cercacor will have proprietary ownership of all technology related to the noninvasive monitoring of non-vital signs measurements. We also rely upon trade secrets, continuing technological innovations and licensing opportunities to develop and maintain our competitive position. We seek to protect our trade secrets and proprietary know-how, in part, with confidentiality agreements 
+
+with consultants, vendors and employees, although we cannot be certain that the agreements will not be breached or that we will have adequate remedies for any breach. 
+
+There are risks related to our intellectual property rights. For further detail on these risks, see &#8220;Risks Related to Our Intellectual Property&#8221; under Item 1A &#8212; &#8220;Risk Factors&#8221; in this on Form 10-K. 
+
+Research and Product Development 
+
+We believe that ongoing research and development efforts are essential to our success. Our research and development efforts focus primarily on continuing to enhance our technical expertise in pulse oximetry, expanding our noninvasive monitoring of other measurements and developing remote alarm and monitoring solutions. 
+
+Although we and Cercacor each have separate research and development projects, we collaborate with Cercacor on multiple research and development activities related to rainbow &#174; &#32;technology and other technologies. Under the Cross-Licensing Agreement, the parties have agreed to allocate proprietary ownership of technology developed by either party based on the functionality of the technology. We will have proprietary rights to all technology related to the noninvasive measurement of vital signs measurements, and Cercacor will have proprietary ownership of all technology related to the noninvasive monitoring of non-vital signs measurements. 
+
+Our total research and development expenditures for fiscal year 2015 were $56.6 million , which included $6.3 million &#32;related to expenses incurred by Cercacor pursuant to the Cross-Licensing Agreement. In fiscal year 2014, our total research and development expenditures were $56.6 million , which included $3.1 million &#32;related to expenses incurred by Cercacor. We expect our research and development expenses to increase moderately in fiscal year 2016 and beyond as we expand our research and development staff, enhance our existing products and technologies and develop new products for market introduction. 
+
+Manufacturing 
+
+Our strategy is to manufacture products in-house when it is efficient and cost-effective for us to do so. We currently manufacture our bedside and handheld pulse oximeters, our full line of disposable and reusable sensors and most of our patient cables in-house. We maintain an approximate 15,000 &#32;square foot manufacturing area in our facility in Irvine, California, and an approximate 149,000 &#32;square foot manufacturing facility in Mexicali, Mexico, both of which are International Organization for Standardization (ISO) 13485:2012 certified. We also maintain an approximate 90,000 &#32;square foot facility in Hudson, New Hampshire, a portion of which is used to manufacture advanced light emitting diodes and other advanced component-level technologies. In addition, we maintain an ISO 13485:2012 certified facility approximating 16,400 &#32;square feet in Danderyd, Sweden, a portion of which is used to manufacture ultra-compact mainstream and sidestream capnography and gas monitoring technologies. We will continue to utilize third-party contract manufacturers for products and subassemblies that can be more efficiently manufactured by these parties, such as our circuit boards. We monitor our third-party manufacturers and perform inspections and product tests at various steps in the manufacturing cycle to ensure compliance with our specifications. We also do full functional testing of our circuit boards. 
+
+For raw materials, we and our contract manufacturers rely on sole source suppliers for some components, including digital signal processor chips and analog to digital converter chips. We and our contract manufacturers have taken steps to minimize the impact of a shortage or stoppage of shipments of digital signal processor chips or analog to digital converter chips, including maintaining a safety stock of inventory and designing software that may be easily ported to another digital signal processor chip. We believe that our sources of supply for components and raw materials are adequate. In the event of a delay or disruption in the supply of sole source components, we believe that we and our contract manufacturers will be able to locate additional sources of these sole source components on commercially reasonable terms and without experiencing material disruption in our business or operations. 
+
+We have agreements with certain major suppliers and each agreement provides for varying terms with respect to contract expiration, termination and pricing. Most of these agreements allow for termination upon specified notice, ranging from four to twelve months, to the non-terminating party. Certain of these agreements with our major suppliers allow for pricing adjustments, each agreement provides for annual pricing negotiation, and one agreement also guarantees us the most favorable pricing offered by the supplier to any of its other customers. 
+
+Employees 
+
+As of January 2, 2016 , we had approximately 1,300 &#32;full-time employees and approximately 2,400 &#32;dedicated contract employees worldwide. 
+
+Address 
+
+Our principal executive offices are located at 52 Discovery, Irvine, California 92618, and our telephone number at that address is (949) 297-7000. Our website address is www.masimo.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, proxy statements, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge at www.masimo.com as soon as reasonably practicable after electronically filing such reports with the SEC. Any information contained on, or that can be accessed through, our website is not incorporated by reference into, nor is it in any way a part of, this Annual Report on Form 10-K. 
+

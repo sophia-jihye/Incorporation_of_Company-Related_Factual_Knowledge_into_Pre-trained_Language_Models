@@ -1,0 +1,246 @@
+ Item 1. Business 
+
+Overview 
+
+Glowpoint, Inc. (&#8220;Glowpoint&#8221; or &#8220;we&#8221; or &#8220;us&#8221; or the &#8220;Company&#8221;) is a managed service provider of video collaboration and network applications. Our services are designed to provide a comprehensive suite of automated and concierge applications to simplify the user experience and expedite the adoption of video as the primary means of collaboration. Our customers include Fortune 1000 companies, along with small and medium enterprises in a variety of industries. We market our services globally through a multi-channel sales approach that includes direct sales and channel partners. The Company was formed as a Delaware corporation in May 2000. The Company operates in one segment and therefore segment information is not presented. 
+
+&#160; 
+
+Our Services 
+
+Video Collaboration Services 
+
+We provide a wide range of video collaboration services, from automated to orchestrated, to address the spectrum of user experience and business applications, in an effort to drive adoption of video throughout the enterprise. We deliver our services through a hybrid service platform or as a service layer on top of our customers&#8217; video infrastructure. We provide our customers with the following suite of services to meet their videoconferencing needs: 
+
+Managed Videoconferencing &#32; is a &#8220;high-touch&#8221; concierge-based offering where Glowpoint sets up and manages customer videoconferences. We offer managed videoconferencing both as a cloud-based service, with videoconferences hosted in the Glowpoint Cloud, as described below under the heading &#8220;Intellectual Property&#8221;, and as an on-premise solution leveraging the customer&#8217;s existing video infrastructure. Managed videoconferencing is available globally and works effectively across multiple 
+
+- 1 - 
+
+networks and video devices, including desktop and mobile devices. Despite a trend to move towards &#8220;self-service,&#8221; our customers remain reliant on our scheduling, event support and conference management services. Our managed videoconferencing services are offered to our customers on either a usage basis or on a monthly subscription. These services include: 
+
+Scheduling : &#32; Customers can schedule their videoconference using Microsoft Outlook&#174;, Cisco TelePresence Management Suite&#174;, or through Glowpoint&#8217;s CustomerPoint&#174; web portal. 
+
+Call Launching: Once the videoconference is scheduled, it automatically launches at the designated time. Glowpoint will &#8220;bridge&#8221; the videoconference by calling the selected video endpoints at the time of the scheduled call and making sure they are properly connected. We believe that automated launching creates cost efficiencies for both customers and Glowpoint and provides a desired evolution path that aligns with the market trend towards increasing self-service models. 
+
+Conference Monitoring &#38; Support: Glowpoint&#8217;s systems will monitor the video meeting to make sure everything remains properly connected and operable during a conference. If an incident occurs during a meeting, one of our conference producers can reconnect and/or fix issues per standard practices or as requested by the customer. 
+
+Conference Reports: Customer administrators can generate reports through our portal to show videoconference details, statistics and success rates. 
+
+JoinMyVideo &#8482; &#32;is an on-demand video meeting room (&#8220;VMR&#8221;) service that allows users to join from web browsers, desktops, mobile apps, and commonly used videoconferencing systems. We introduced JoinMyVideo &#8482; &#32;in the first quarter of 2015 to meet customers&#8217; needs to use video communications in a mobile environment, as discussed further under the heading &#8220;Market Need&#8221;. With JoinMyVideo &#8482; , users are able to manage the participants in the video meeting, allowing up to 24 participants to join the meeting. JoinMyVideo &#8482; &#32;is a cloud-based software-as-a-service (&#8220;SaaS&#8221;) solution, so the customer has no infrastructure to buy and maintain. JoinMyVideo &#8482; &#32;is offered to our customers on a monthly subscription basis. 
+
+Hybrid Videoconferencing &#32;helps enterprises migrate from managed videoconferencing to VMRs by bringing together attributes of both services. Users can schedule their VMR, add endpoints, and send invitations to participants through an online portal. At the scheduled time, the VMR is launched connecting the scheduled endpoints and allowing self-service users to join from video systems and desktop and mobile video apps. We introduced our Hybrid Video Conferencing service in the first quarter of 2015 as we believe that merging these connection capabilities accommodates all types of users and meetings. 
+
+Video Meeting Suites &#32;provide remote access to videoconferencing for everyday business meetings and events, allowing our customers to conduct meetings and events in over 4,000 physical meeting suites across 1,300 cities without investing in video devices or infrastructure. We have partnered with the owners of these videoconference centers and arrange for our customers to hold videoconferences at convenient locations across the world based on the customers&#8217; needs. Our primary service includes the scheduling and management of a highly orchestrated business-class meeting for a professional meeting experience. As part of the extended offering beyond the physical office suite, we also enable participants who elect to use a mobile device to join a video conference from anywhere in the world. These services are largely usage-based. We also offer our customers monthly subscription rates based on a fixed number of concurrent users. 
+
+Webcasting events enable our customers to stream live video feeds to up to thousands of viewers through their browsers and mobile devices. Enterprises often use this service on a quarterly basis for earnings calls and town hall events. 
+
+Remote Service Management 
+
+Our Remote Service Management provides an overlay to enterprise information technology (&#8220;IT&#8221;) and channel partner support organizations and provides 24/7 support and management of customer video environments. Our services are designed to align with a globally recognized set of best practices, Information Technology Infrastructure Library (&#8220;ITIL&#8221;), to standardize processes and communicate through a consistent set of terms with our customers and partners. We leverage a best-in-class IT service management (&#8220;ITSM&#8221;) provider, ServiceNow Inc., to systematically provide Remote Service Management, as well as enable Glowpoint to integrate with an enterprise&#8217;s systems and workflows. 
+
+We offer three tiers of Service Management options, ranging from automated monitoring to end-to-end management to complement the needs of IT support organizations, as described below: 
+
+Resolve - Total Support &#32; is our most comprehensive management and support service and targets enterprises that want to completely offload day-to-day operations of their video environment to Glowpoint. We provide: 
+
+- 2 - 
+
+24x7 Support Desk: Around-the-clock access to our expert staff via phone and email for support inquiries. 
+
+Incident Management: Systematic management of incidents from service request to closure. All incidents are tracked and visible from our online ITSM portal. 
+
+Problem Management: Root cause analysis and coordination to prevent and quickly repair incidents. 
+
+Change Management: Management of maintenance contracts for infrastructure and endpoints to ensure systems are up to date, operating at peak performance, and have coverage from the manufacturer. 
+
+Site Certifications: Baseline testing of endpoints to make sure they are configured for optimal performance. 
+
+Service Level Agreements ( &#8220; SLA &#8221; ): Performance guarantees with our SLA backed services. 
+
+Helpdesk provides level 1 support and allows enterprise IT to scale and expand the reach of support to end users. We complement the existing staff by taking the initial service request from the end users and providing incident management. We provide: 
+
+24x7 Support Desk: Around-the-clock access to our expert staff via phone and email for support inquiries. 
+
+Incident Management: Systematic management of minor incidents, general service inquiries, and an initial assessment for major and critical incidents. We escalate major incidents to the appropriate and responsible parties. 
+
+Proactive Monitoring &#32;is a remote and automated monitoring service that detects events and alerts customers&#8217; IT when a service impacting event is discovered. The service is provided in conjunction with either Resolve or Helpdesk. We provide: 
+
+Event Management: 24/7 monitoring of our customers&#8217; infrastructure and endpoints with email alerts when events are detected. 
+
+Automated Video Room Sweeps (&#8220;AVRS&#8221;): Our custom developed service accesses our customers&#8217; endpoints every night, measures audio &#38; video quality, and verifies firmware. 
+
+Network Services 
+
+Glowpoint&#8217;s network services provide our customers around the world with network solutions that ensure reliable, high-quality and secure traffic of video, data and internet. Network services are offered to our customers on a monthly subscription. Our network services business carries variable costs associated with the purchasing and reselling of this connectivity. We offer our customers the following networking solutions that can be tailored to each customer&#8217;s needs: 
+
+&#8226; 
+
+Cloud Connect: Video &#8482; allows our customers to outsource the management of their video traffic to us and provides the customer&#8217;s office locations with a secure, dedicated video network connection to the Glowpoint Cloud for video communications. 
+
+&#8226; 
+
+Cloud Connect: Converge &#8482; &#32;provides customized Multiprotocol Label Switching (&#8220;MPLS&#8221;) solutions for customers who require a converged network. A converged network is an efficient network solution that combines the customer&#8217;s voice, video, data, and also Internet traffic over one or more common access circuits. Glowpoint fully manages and prioritizes traffic to ensure that video and other business critical applications run smoothly. 
+
+&#8226; 
+
+Cloud Connect: Cross Connect &#8482; allows the customer to leverage their existing carrier for the extension of a Layer 2 private line to Glowpoint&#8217;s data center. 
+
+Professional and Other Services 
+
+Our professional services include onsite support, or dispatch, as well as configuration or customization of equipment or software on behalf of a customer. On a limited basis, we also resell video equipment to our customers. 
+
+Sales and Marketing 
+
+We currently sell our services through a direct sales force and indirect sales channels. As of December 31, 2015 , we had 8 &#32;full-time employees engaged in sales and marketing. Our sales/account management team is responsible for developing 
+
+- 3 - 
+
+relationships and expanding opportunities within our existing customer base as well as targeting our services to other large and medium-sized companies. We partner with agents and wholesale channels to expand the size and reach of these efforts. The customers we target have a proven need for business communication services in diverse vertical markets, such as professional services, business services, computer software, manufacturing and financial services. The efforts of our channel sales group focuses on partnering with complementary system integrators and service providers, to leverage their customer bases and distribution channels. We private label or co-brand our services for these partners depending on their requirements. 
+
+&#160; 
+
+We primarily focus our marketing efforts on direct marketing programs aimed at our target buyer personas (e.g., IT decision makers) within our target verticals. We seek to generate qualified leads for our sales team, educate and retain existing customers, generate brand awareness through public relations including social media and drive service enhancements using research and customer feedback. 
+
+Market Need 
+
+As enterprise and mid-market businesses increasingly seek to improve customer experience through the quality of communication services, they are confronted with several industry trends presenting emerging and varied challenges. We believe the most forceful among these trends are: 
+
+&#8226; 
+
+increasing mobility of the workforce; 
+
+&#8226; 
+
+shifting priorities of business decision makers, including an increased preference for cloud delivery of applications, software-defined networking ("SDN" or "network virtualization"), and management of multiple and varied devices; and 
+
+&#160; 
+
+&#8226; 
+
+the rise of multi-channel customer service involving multiple modes of communications. 
+
+Our objective is to re-shape and simplify the manner by which enterprises and mid-market companies use video and related collaboration tools. We have invested in leading collaboration and ITSM platforms and are well poised to serve a broad range of needs, from servicing conventional video systems to providing real-time support tools via the cloud. While we remain committed to our legacy capabilities and the customers who rely on them, we&#8217;ve focused our primary resources on the emerging landscape by evolving our view of the market and product approach in three important ways: 
+
+1. 
+
+We have invested in research and development and new technologies to develop and provide a more comprehensive suite of support systems and real-time analytics; 
+
+2. 
+
+We continue to evolve our product design philosophy, anticipating demand for products that are cloud and mobile enabled but also flexible, extensible, secure and reliable. The goal is to allow our customers to transition from old communications and collaboration technology to more comprehensive (unified) applications in a way that is manageable and highly cost-effective. 
+
+3. 
+
+We have increased our focus on re-packaging our products and services into simple, easy to purchase &#8220;bundles&#8221;. These bundles address the challenges faced by our customers and offer the advantage of being customizable where necessary to meet customer needs. 
+
+As we continue to transform Glowpoint into a service-led organization, revenue attributable to our core and legacy product lines and services have declined. We have worked to migrate customers from legacy products such as Managed Video Conferencing and Video Meeting Suites to more automated/software-based solutions. As a result of a growing market trend around cloud consumption preferences, more customers are exploring cost-effective software-based services for procuring technology. As this trend continues, the Company has remained focused on maintaining positive cash flow from operations and investing in future results by implementing cost savings programs designed to streamline its operations and eliminate overlapping processes and expenses. These cost savings programs have included: (i) reducing headcount, (ii) closing office space, (iii) eliminating other real estate costs and infrastructure associated with unused or under-utilized facilities, (iv) relocating certain job functions to lower cost geographies, including service delivery, customer care, research and development, human resources and finance, and (v) implementing reductions in cost of revenue associated with external service providers. 
+
+Many enterprises have become dependent on video communications for increased productivity and reduced operating costs, thus making video communications part of their core business practices. With the technology advancements over the past few years, including browser-based and mobile video, the options for video collaboration solutions and services are greater than ever before. The growing combinations of hardware, software, and networks challenge enterprise IT organizations with finding the right fit for their business objectives. Enterprises must consider and account for implementation and integration, user adoption, 
+
+- 4 - 
+
+analytics, management and support, and maintaining a return on investment with the existing technology deployment while preventing technology obsolescence. As a result, businesses are increasingly seeking an outsourced partner for managed services and hosted, cloud-based infrastructure to mitigate risk, reduce operational costs, and increase user satisfaction by delivering a higher caliber support level to their business. According to a 2015 report by Global Industry Analysts, Inc., the global market for videoconferencing services is expected to reach $2.9 billion by 2020, driven by the rising popularity of cloud-based videoconferencing services, and increasing use of videoconferencing in government, healthcare and education sectors. 
+
+We believe that many companies cannot fully support quality video communications on their existing infrastructure and networks. Enterprises have reduced or curtailed investments in immersive telepresence (&#8220;ITP&#8221;) video conferencing systems, now preferring cloud-based solutions and personal or smaller group video systems. Enabling video on desktops and increased mobility remains a primary enterprise objective. As demand for ITP systems and related services decreases, and the demand for mobility and personal video services increases, we will continue to evolve our solutions to align with and attempt to satisfy this market demand. 
+
+Glowpoint provides enterprises with the ability to simplify the video experience, which increases adoption and user participation. Glowpoint&#8217;s unique and wide range of video collaboration services is intended to provide a service for every user and meeting type within the enterprise. We believe our ITSM platform delivers the right tools, automation, and analytics to partners to enable a successful video deployment. 
+
+Competition 
+
+With respect to our video collaboration services, we primarily compete with managed services companies, videoconferencing equipment resellers and telecommunication providers, including BT Conferencing, AT&#38;T, Verizon, Citrix, Yorktel, SPS, Whitlock, BCS Global and AVI-SPL. We also compete with certain start-up and venture capital-backed companies that offer hosted videoconference bridging solutions, including Blue Jeans Networks, Vidyo and Zoom. Lastly, the technology and software providers, including Cisco, LifeSize, Microsoft (Skype for Business) and Polycom, are delivering competitive cloud-based video conferencing and calling services. With respect to our network services, we primarily compete with telecommunications carriers, including British Telecom, AT&#38;T, Verizon and Telus. The Company&#8217;s competitors offer services similar to ours both on a bundled and un-bundled basis, creating a highly competitive environment with pressure on pricing of such services. Competitor solutions also create opportunities for integration and support services for Glowpoint. 
+
+&#160; 
+
+We believe Glowpoint differentiates itself based on its full suite of cloud and managed video collaboration services in combination with the ITSM platform for support automation. We believe our services are unique based on our intellectual property, user interfaces and capabilities that we have built over the years. 
+
+Customers 
+
+Our customers include Fortune 1000 companies, along with small and medium enterprises in a variety of industries. Market segments that account for 5% or more of our revenue for 2015 , listed in order of approximate contribution to revenue, were as follows: 12% in consulting; 10% in executive search; 8% in broadcast media; 7% in engineering and construction; and 5% in insurance. Major customers are defined as direct customers or channel partners that account for more than 10% of our total revenue. For the year ended December 31, 2015 , two major customers accounted for 12% &#32;and 10% , respectively, of our total revenue. For the year ended December 31, 2014 , one major customer accounted for 11% of our total revenue. This customer stopped using our services as of June 30, 2015 and therefore accounted for 3% of our total revenue for the year ended December 31, 2015 . Any reduction in the use of our services or the business failure by one of our major customers and/or wholesale channel partners could have a material adverse effect on our business and results of operations. 
+
+Intellectual Property 
+
+Glowpoint has invested in research and development, engineering and application development in the process of building our managed service and cloud platforms. Some of this development has led to issued patents, as described below, along with ongoing recognition in the industry as having unique tools and applications to enable our video applications. 
+
+Glowpoint Cloud Conferencing 
+
+The Glowpoint Cloud is based on a Service Oriented Architecture (&#8220;SOA&#8221;) framework that enables us to create unique unified communication service offerings. Glowpoint&#8217;s cloud based-video services can be delivered as a software and infrastructure service in a hosted environment or can support a hybrid mix of public and private clouds. 
+
+- 5 - 
+
+Videoconferencing has traditionally presented challenges for the user by presenting a complex maze of systems and networks that must be navigated and closely managed. Although most of the business-quality video systems today are &#8220;standards-based,&#8221; there are inherent interoperability problems between different vendors&#8217; video equipment, resulting in communication islands. Glowpoint&#8217;s suite of cloud and managed video services can be accessed and utilized by customers regardless of their technology or network. Customers who purchase a Cisco, Polycom, Avaya, or LifeSize (Logitech) system, or use certain other third-party video communications software such as Skype for Business, WebEx or even WebRTC, may all take advantage of the Glowpoint Cloud regardless of their choice of network. We have built the Glowpoint Cloud to support all standard video signaling protocols, including SIP, H.323 and Integrated Services Digital Network (&#8220;ISDN&#8221;) using infrastructure from a variety of manufacturers. 
+
+The Glowpoint Cloud combines years of best practices, experience and technology development into a video collaboration platform that provides instant connectivity, self-serve and managed help desk resources, and the ease of use that makes video collaboration seamless and effortless. Beyond the technology and applications, the Glowpoint Cloud is built around security protocols to enable enterprises and organizations of any size to communicate with other desired video users in a secure, high-quality and reliable fashion. 
+
+&#160; 
+
+Video Service Platform 
+
+In January 2015, Glowpoint launched our next generation Video Service Platform to provide enterprise customers with a cloud-based system for managing video collaboration. The Video Service Platform, which leverages technology from an industry leading ITSM provider, ServiceNow Inc., is currently available to Glowpoint&#8217;s channel partners and enterprise customers. The Video Service Platform&#8217;s scalability and multi-tenant design allows Glowpoint and its channel partners to seamlessly activate existing and new enterprise customers of Glowpoint. It is completely web-based and accessible from any web-enabled device. The Video Service Platform automates and streamlines critical functions and workflows needed by IT organizations for managing enterprise video collaboration environments, including incident management, change management, and reporting/analytics for continuous improvement. Other benefits provided to enterprise IT organizations include: 
+
+&#8226; 
+
+Better transparency into the performance of the enterprise collaboration environment via business intelligence metrics, reporting and management dashboards; 
+
+&#8226; 
+
+Greater scale with self-service support, giving end users an easy interface for submitting/tracking tickets; 
+
+&#8226; 
+
+Deeper expertise for managing video collaboration with access to Glowpoint&#8217;s Remote Service Management services and knowledge base; 
+
+&#8226; 
+
+More efficiencies gained by automating manual tasks and workflows including escalations, updates/notifications, and provisioning; and 
+
+&#8226; 
+
+Access to globally recognized set of best practices for service management (&#8220;ITIL&#8221;). 
+
+Patents 
+
+The development of our &#8220;video as a service&#8221; applications and network architecture has resulted in a significant amount of proprietary information and technology including real-time metering and billing for video calls and intelligent call routing. We believe that our patented proprietary technology provides an important barrier for competitive offerings of similar video communications services. 
+
+We have been awarded six patents: 
+
+&#8226; 
+
+U.S. Patent No. 7,200,213 was awarded in April 2007 for our live video operator assistance feature. Our &#8220;Live Operator&#8221; technology provides customers with the ability to obtain live, face-to-face assistance and has widespread application, from general video call assistance to &#8220;video concierge&#8221; services. This patent is an essential component of providing &#8220;expert on demand&#8221; and telepresence &#8220;white glove&#8221; business class support services. This patent expires November 17, 2024. 
+
+&#8226; 
+
+U.S. Patent No. 7,664,098 was awarded in February 2010 for our real-time metering and billing for Internet Protocol (&#8220;IP&#8221;) based calls. Our &#8220;Call Detail Records&#8221; patent for IP-based calls provides the ability to meter and bill an end-user on a transactional basis, just as traditional telephone calls are billed. This unique capability is a vital development as more and more telepresence and video conferencing calling traffic is distributed over disparate IP-based networks &#8211; rather than ISDN &#8211; as B2B calling is becoming much more common for video users. This patent expires August 4, 2026. 
+
+&#8226; 
+
+U.S. Patent No. 7,916,717 was awarded in March 2011 for our Systems and Method for Automated Routing of Incoming and Outgoing Video Calls between IP and ISDN networks. This technology ensures the simple and seamless migration from ISDN to IP for the purpose of connecting IP users with ISDN systems around the 
+
+- 6 - 
+
+world. This automated call routing capability has been leveraged to provide a least cost routing and gateway method to customers. This patent expires September 16, 2028. 
+
+&#8226; 
+
+U.S. Patent No. 8,259,152 was awarded in September 2012 for our Video Call Distributor, which includes systems and methods for distributing high quality real time video calls over an IP Packet-Based Wide Area Network, leveraging existing routing rules and logic of a call management system. This patent expires July 3, 2031. 
+
+&#8226; 
+
+U.S. Patent No. 8,576,270 was awarded in November 2013 for our Intelligent Call Management and Redirection systems and methods. These systems and methods can be used to detect the status of a specified video endpoint. Pre-defined rules can be configured so that a call that is not completed for any reason can be transferred to another destination such as a video mail service or an automated or live operator service. This patent expires January 14, 2030. 
+
+&#8226; 
+
+U.S. Patent No. 8,933,983 was awarded in January 2015 for our Intelligent Call Management and Redirection systems and methods. This new patent relates to a method for routing packet-based network video calls using an Intelligent Call Policy Management (&#8220;ICPM&#8221;) system that can detect the status of a specified video endpoint and refuse to connect a video call based on the video endpoint&#8217;s status. This patent expires October 11, 2025. 
+
+Research and Development 
+
+Glowpoint incurred research and development expenses of $1,350,000 &#32;in 2015 &#32;and $1,019,000 &#32;in 2014 &#32;related to the development of new service offerings and features and enhancements to our existing services. 
+
+Employees 
+
+As of December 31, 2015 , we had approximately 96 &#32;employees. Of these employees, 62 &#32;are involved in customer support and operations, 13 &#32;in corporate functions, 13 &#32;in engineering and development, and 8 &#32;in sales and marketing. None of our employees are represented by a labor union. We believe that our employee relations are good. 
+
+Available Information 
+
+We are subject to the reporting requirements of the Exchange Act. The Exchange Act requires us to file periodic reports, proxy statements and other information with the Securities and Exchange Commission (&#8220;SEC&#8221;). Copies of these periodic reports, proxy statements and other information can be read and copied on official business days during the hours of 10 a.m. to 3 p.m. at the SEC&#8217;s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site at http://www.sec.gov that contains reports, proxy and information statements and other information that we file electronically with the SEC. 
+
+In addition, we make available, free of charge, on our Internet website, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file this material with, or furnish it to, the SEC. You may review these documents on our website at www.glowpoint.com. Our website and the information contained on or connected to our website is not incorporated by reference herein, and our web address is included as an inactive textual reference only. 
+

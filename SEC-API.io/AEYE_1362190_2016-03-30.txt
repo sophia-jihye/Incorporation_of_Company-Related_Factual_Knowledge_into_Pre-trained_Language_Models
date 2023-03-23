@@ -1,0 +1,462 @@
+ Item 1. Business 
+
+&#160; 
+
+This annual report contains forward-looking statements. These statements relate to either future events or our future financial performance. In some cases, you may be able to identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;should,&#8221; &#8220;expects,&#8221; &#8220;plans,&#8221; &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;predicts,&#8221; &#8220;potential&#8221; or &#8220;continue,&#8221; the negative of these terms or other synonymous terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled &#8220;Risk Factors,&#8221; that may cause our or our industry&#8217;s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. 
+
+&#160; 
+
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend, and we do undertake any obligation, to revise or update any of the forward-looking statements to match actual results. Readers are urged to carefully review and consider the various disclosures made in this report, which aim to inform interested parties of the risks factors that may affect our business, financial condition, results of operations and prospects. 
+
+&#160; 
+
+Our financial statements are stated in United States Dollars (US$) and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+
+&#160; 
+
+As used in this annual report, the terms &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; &#8220;AudioEye&#8221; the &#8220;Firm&#8221; the &#8220;Company&#8221; and similar references refer to AudioEye, Inc. 
+
+&#160; 
+
+Overview 
+
+&#160;
+
+AudioEye is a marketplace leader providing web accessibility solutions for our clients&#8217; customers through our Ally Platform Products. Our technology advances accessibility with patented technology solutions that reduce barriers, expand access for individuals with disabilities, and enhance the user experience for a broader audience of users . When implemented, we believe that our solutions offer businesses the opportunity to reach more customers, improve brand image, and build additional brand loyalty. In addition, our solutions help organizations comply with internationally accepted Web Content Accessibility Guidelines (WCAG) as well as US, Canadian, Australian, and United Kingdom accessibility laws.
+
+&#160;
+
+We generate revenues through the sale of subscriptions of our software as a service (SaaS) technology platform, called the AudioEye Ally Platform, to website owners, publishers, developers, and operators and through the delivery of managed services combined with the implementation of the AudioEye solution. Our solutions have been adopted by some of the largest and most influential companies in the world. Our customers span disparate industries and target market verticals, which encompass (but are not limited to) the following categories: human resources, finance, transportation, media, and education. Government agencies have also integrated our software in their digital platforms.
+
+&#160; 
+
+Industry Background 
+
+&#160;
+
+Millions of Internet users suffer disabilities that prevent them from accessing and using information on an equivalent basis. If not coded properly, a website may not offer full functionality for all users, in particular for users of assistive technology (AT), such as a screen reader. As a result, they may exclude potential customers. These sites also may not comply with U.S. and foreign laws addressing equal access and digital inclusion.
+
+&#160;
+
+Traditional solutions addressing web accessibility may be costly and difficult to implement. Historically, the process for achieving compliance has been driven by costly consulting services and has not fully utilized emerging technologies to reduce the compliance cost burden. At the same time, web accessibility efforts have generally focused on a limited number of disability use cases, leaving many users&#8217; accessibility needs for digital inclusion unaddressed. Businesses may have been reluctant to invest further in web accessibility solutions due to a perceived lack of commercial return on the significant investment required in order to design and implement a thorough and usable compliance solution.
+
+&#160;
+
+Conventional solutions have been developed to help users access websites, but these systems often require software to be installed on the user&#8217;s computer. Many of these solutions are tailored to single or a limited number of use cases and do not encompass multiple tool sets for addressing a wider range of use cases. In some cases, these systems can be costly, unwieldy and inconvenient. Furthermore, the assistive software&#8217;s ability to understand, process, and interpret complex and dynamic web applications that are prevalent across the web, today, is dependent on the quality in which the code was designed and developed, including the level to which the website adheres to best practices and standards. 
+
+&#160; 
+
+1&#160; 
+
+&#160;
+
+&#160; 
+
+The AudioEye Solution 
+
+&#160;
+
+AudioEye uses proprietary technology and development tools to offer web accessibility solutions that offer significant savings in time and money relative to traditional solutions. Our compliance solutions focus on rapid remediation of the most important accessibility issues, followed by in-depth analysis identifying and addressing a more comprehensive compliance program. Our technology was built to not only provide users with a cloud-based assistive toolset that gets embedded and made freely available to users within our client websites, but to also improve the code in a way that optimizes the user experience for users of existing third-party assistive technologies, such as screen readers.
+
+&#160; 
+
+Remediation 
+
+&#160;
+
+By deploying AudioEye remediation technology to fix common and high-impact issues, AudioEye is able to improve the usability of our client sites on the first day that they implement our solution into their site. Over a period that we believe averages approximately 90 days, with actual time dependent on the complexity of the client&#8217;s web site and other client-specific factors, our proprietary Developer Tools empower AudioEye engineers to run in-depth analysis to fully understand and manually fix issues. For organizations that do not want a managed SaaS solution and prefer to achieve WCAG 2.0 Level AA compliance on their own, our cloud-based Developer Portal provides them with a comprehensive single-source solution for tracking and maintaining a compliance audit of their web environments. These tools, combined with managed services that include AT testing and support services, provide transparency for our clients affording product owners to better understand accessibility and usability issues as they look to fix issues at the source. Ultimately, we hope our clients learn to develop with web accessibility in mind. Each month, AudioEye fixes millions of website problems for its clients; these site improvements help prevent usability issues and may enhance the user experience for site visitors &#8211; in particular, those customers accessing websites through the use of assistive technology such as those provided by Microsoft, Apple, Google, and others.
+
+&#160; 
+
+Business-Driven Accessibility 
+
+&#160;
+
+In addition to our compliance solutions, AudioEye offers business-driven, cloud-based tools that enable our clients to provide a more accessible, usable, and customizable experience to their customers. Fixing digital experiences for end users leveraging their own assistive technology is just one focus for meeting the needs of our targeted end-users. In addition to AT users, a much larger demographic of users (many of whom do not self-identify - or report - themselves as having a disability or impairment) may benefit from the availability of free user-friendly tools that allow them to customize and optimize their digital experience. In short, we seek to enhance the user experience for all individuals who arrive at digital experience without having full access and the type of high-quality user experience they deserve. Our mission is not only one of inclusion but to also provide a superior user experience for anyone accessing our proprietary assistive tools.
+
+&#160; 
+
+Implementation 
+
+&#160;
+
+We offer solutions that enable our clients to enhance their brand by demonstrating a robust approach to web accessibility. When adopting our technology, clients implement the Ally+ Toolbar into their website. By embedding the AudioEye JavaScript, our clients can offer our Ally+ patent-protected AT-in-the-Cloud solution that provides our clients&#8217; new and returning customers the opportunity to thoroughly engage and interact with client websites in a more meaningful and fully customizable way, regardless of their device type, language preference, or preferred method of access. From the toolbar, site visitors are provided with a Player utility that allows them to listen to the content of the website read aloud, a Reader utility that allows them to customize the visual display of the website, a Voice utility that allows them to command the browser using their voice, and a Certification statement that helps our client promote their commitment to accessibility and digital inclusion.
+
+&#160;
+
+These tools offer benefits to a broad range of site visitors, in particular aging populations and individuals who have vision, hearing, motor and intellectual disabilities, including those who are color blind, dyslexic, learning to read, and looking to maintain focus, or multi-task. 
+
+&#160;
+
+AudioEye provides our customers with detailed remediation statistics and analytics that demonstrate utilization of the Ally+ solution. This provides our clients with prompt feedback into the different ways in which their site visitors are engaging with their optimized website and digital content. These regularly processed confidential reports detail the usage experience of each end-user customer and tracks the time and interests of the user across the Ally+ experience.
+
+&#160; 
+
+Intellectual Property 
+
+&#160;
+
+Our technology development was initiated at the University of Arizona Science &#38; Technology Park in Tucson, Arizona. In 2006, we received technology development venture funding from the Maryland Technology Development Corporation (TEDCO), which contributed to the development of our platform strategy. Beginning in 2009, we engaged in a multi-year technology development program with the Eller College of Management&#8217;s Department of Management Information Systems at the University of Arizona. In connection with our proprietary technology, our company has been issued a number of U.S. patents in two distinct patent families. Today, an experienced team of in-house engineers, designers, and developers in our Atlanta, GA, and Tucson, AZ, offices develop the Company&#8217;s technology &#38; software and are actively engaged in the expansion of the AudioEye IP Portfolio.
+
+&#160;
+
+Our patented technology was a 2013 Edison Gold Award winner for innovation in the category of &#8220;Quality of Life.&#8221;
+
+&#160;
+
+Our intellectual property is primarily comprised of trade secrets, trademarks, issued and pending patents, copyrights and technological innovation. We have a patent portfolio comprised of six patents issued in the United States, we have received a notice of allowance from the U.S. Patent and Trademark Office for a seventh patent, and we have several additional patents that are either pending or are being prepared for filing in the United States and internationally.
+
+&#160;
+
+2&#160; 
+
+&#160;
+
+&#160;
+
+Our current patented invention relates to a server-side method and apparatus that enables users to audibly navigate websites and hear high-quality streaming audio narration and descriptions of websites. This patented invention involves creating an audio-enabled web experience by utilizing voice talent and automated text-to-speech conversion methods to read and describe web content. It involves the creation of audio files for each section within a website, and then assigning a hierarchy and navigation system in line with the website design. To implement the system, a script is installed across the pages of the website and, when loaded, it plays an audible tone upon a user&#8217;s visit indicating that the website is enhanced with our proprietary technology. Upon hearing the tone, a user presses a key on the keyboard to enter the audible website. Audible narration is played through the user&#8217;s computer, reading text and describing non-text information, such as images. The narration includes menus for navigating the site which have a hierarchy in line that of the original website. Users navigate the website menus and move from webpage to webpage by making keystrokes or using a mouse.
+
+&#160;
+
+Our current portfolio has established a foundation for building unique technology solutions that contribute to the way in which we differentiate ourselves from other competitors in the B2B Web Accessibility marketplace. We plan to continue to invest in research and development, and expand our portfolio of proprietary intellectual property. 
+
+&#160; 
+
+Business Plan and Strategy 
+
+&#160;
+
+Leveraging our own patented and patent pending Ally Platform product suite, we provide cloud-based, enterprise-grade technology solutions, as well as managed services to fully implement our solution and provision our clients&#8217; sites to conform with web accessibility best practices. Our technology and professional service offerings may be purchased through a subscription for either a one year or multi-year term. Functionally, the business is organized into Technology, Operations and Customer Support, Sales and Marketing, and Intellectual Property Development. Intellectual Property Development is tasked with the development of new leading edge intellectual property.
+
+&#160;
+
+Through the sale of managed and self-service contracts, our business model is to sell Business to Business and to secure revenue from multiple business channels, including (but not limited to): corporate website owners, publishers, developers, and operators, federal, state and local governments, educational institutions and e-learning websites, and not-for-profit organizations. 
+
+&#160;
+
+In what Forrester has called the &#8220;age of the customer&#8221;, we believe that, by adopting our solutions, our customers gain a competitive advantage by ensuring a superior digital experience for all of their customers, in particular for persons with diverse abilities. Some of the many leading advantages of our solution, include:
+
+&#160;
+
+1. Maintaining a mission of inclusion and accessibility for the 5%-10% of the population with a disability or physical limitation who are denied full access to online digital content. 2. Increasing the client Return On Investment by improving market penetration, brand reputation and brand loyalty. 3. Ensuring conformance with WCAG 2.0 Level AA success criteria. 4. Deploying a cost effective and reliable solution that is scalable with rapid deployment and little to no project management. 5. Consistently providing an enhanced customer experience for our client customers by providing access to innovative and universally designed technology solutions. &#160;
+
+Our primary objective is to establish and maintain a long standing relationship with our customers, as a trusted and relied upon provider of web accessibility technology and service. The key tenants of this strategy, include:
+
+&#160;
+
+1. Continually innovating and strengthening the capabilities of our solution offering to attract new customers and entice existing customers to expand their level of service. 2. Providing industry-leading analytics and site analysis reports that demonstrate a clear Return on Investment. 3. Maintaining a consistent record of low customer attrition through ongoing subscription renewals. 4. Expanding customer adoption across different target market vertical and leveraging strong customer relationships to establish a significant portfolio of clients within each vertical. 5. Establishing a global client-base that demonstrates a clear and high level of value within the context of disparate international laws and regulations surrounding the issue of web accessibility and best practices. 6. Leveraging our board of directors and advisory board members to shorten sales cycles and to gain support and buy-in from C-level executives. 7. Investing in a long-term patent protection strategy to ensure industry leading technological innovations are protected. 8. Leading the dialogue and establishing our voice as technology leaders as it pertains to industry related topics, news, developments and events &#160;
+
+Product Service Offerings 
+
+&#160;
+
+We offer a diversified portfolio of service offerings that are broken into three broad business categories: Subscription of our Web Accessibility Technology Platform and Managed Services.
+
+&#160;
+
+Our Web Accessibility Technology Platform (The AudioEye Ally Platform), consists of the AudioEye Developer Portal and the Ally+ Product, which are offered as an Internet Cloud Software as a Service (SaaS) subscription service. AudioEye offers three (3) distinct Web Accessibility solution offerings: Developer Portal, AudioEye Ally+ Standard Package, and the AudioEye Ally+ Premium Package.
+
+&#160;
+
+3&#160; 
+
+&#160;
+
+&#160;
+
+The AudioEye Developer Portal empowers web developers to improve their website using the most current, innovative, and industry-leading tools. Primarily, the Developer Portal is a self-service solution for clients who want to own the accessibility process from beginning to end and puts the power of accessibility issue tracking, auditing and remediation in the hands of developers to improve the usability and accessibility of their web infrastructure. Customers leveraging the Developer Portal have the option of embedding the AudioEye JavaScript into the front-end of their website, allowing them to not only get the benefits of auto-fixes that improve the usability and compliance level of their site, but it also allows them to manage the remediation process in a controlled environment that serves as an important resource for ongoing site auditing and issue tracking. At the same time, for organizations that are developing for accessibility, this robust site evaluation tool provides detailed information to help developers and designers fully understand the identified issues as well as the different WCAG 2.0 best-practices that may be implemented in order to improve their website through changes implemented at the source.
+
+&#160; 
+
+For organizations looking to offload the accessibility process, the Ally+ Standard Package allows AudioEye Accessibility Engineers and AT Usability Testers to do all the heavy lifting in order to achieve accessibility and compliance for our clients. This unique offering leverages a balance of system and engineer generated remediation techniques to programmatically fix website problems that inhibit full access to our client&#8217;s electronic information technologies (EIT). By providing our customers with full access to the Developer Portal and working with them on a long term basis to provide automated and manual testing in order to fully understand the issues of accessibility and how to develop with web accessibility in mind, AudioEye is able to reduces the burden on IT resources, leaving only a limited work for finite client resources. In conjunction with the implementation of the AudioEye JavaScript, AudioEye makes available the option to publish the Ally+ Toolbar, which includes the Help Desk and Certification Statement. The Help Desk provides support for end users who have issues accessing content, while the Certification Statement outlines our client&#8217;s commitment to providing an accessible and usable website experience for individuals with disabilities. As part of the Ally+ Service, AudioEye makes available detailed reporting that provide the client with the results of remediation efforts.
+
+&#160;
+
+The AudioEye Ally+ Premium Package goes a significant step further. In addition to providing our clients with all the benefits that coincide with the Ally+ Standard Package, the Ally+ Premium solution expands the capabilities of the Ally+ Toolbar to include easy-to-use, cloud-based assistive tools that allow our clients to enhance the customer experience for those looking to customize the way in which they engage with the web browser. The Ally+ patent-protected AT-in-the-Cloud solution provides our clients&#8217; site visitors with the opportunity to thoroughly engage and interact with our clients&#8217; websites in a more engaging and fully customizable way, regardless of their device type, language preference, or preferred method of access.
+
+&#160;
+
+From the Ally+ Toolbar, users may engage the Player utility that mirrors the features and functions of traditional screen reader software, allowing the user to engage with the web environment by using their keyboard (instead of a mouse) and listening to content instead of reading. Further, the built-in Reader utility allows users to enlarge the viewport, increase font sizes, change color contrast, highlight text as it is being read aloud, reduce clutter and distracting content, simplify and normalize the user interface (including complex site menus) and other features intended to optimize the user experience for addressing specific use cases. Lastly, in 2016, AudioEye is releasing the first iteration of it&#8217;s Voice utility, which allows site visitors to command the website user experience using basic and standardized verbal commands. The free assistive tools made available within websites enabled with the AudioEye solution have benefits for all site visitors, but, in particular, aging populations and individuals who have vision, hearing, motor and intellectual disabilities, including those who are color blind, dyslexic, learning to read, and looking to maintain focus, or multi-task. The AudioEye Ally+ Premium Package has a variable component that requires premium pricing. Customers adopting this service also receive quarterly reports detailing usage analytics. 
+
+&#160;
+
+As an additional revenue center, AudioEye provides Managed Services that support the SaaS Model infrastructure. When clients adopt the Developer Portal as a self-service tool, AudioEye markets and sells managed services that include the following: Product Support, Accessibility Training from accessibility engineers &#38; subject matter experts, Manual Assistive Technology Usability Testing, and other ad hoc services such as Video Transcription &#38; Captioning, Manual Document Remediation (PDFs, et al), Audio Description Authoring, Accessibility Help Desk, and more. These same services are also provided to those customers adopting the Ally+ Managed Service solution and go beyond the inherent managed services that coincide with the implementation of website remediation, the provision of the Ally+ Player, Reader, and Voice utilities, and, ultimately, the certification of our clients&#8217; web infrastructure.
+
+&#160; 
+
+Customers 
+
+&#160;
+
+Our potential customer base includes a broad range of private and public sector customers, in particular:
+
+&#160;
+
+&#183; Corporate Enterprise &#183; Federal, State and Local Governments and Agencies &#183; Not-for-profit Organizations &#160;
+
+If we are unable to establish, maintain or replace our relationships with customers and develop a diversified customer base, our revenues may fluctuate and our growth may be limited. The Company had two major customers including their affiliates which generated approximately 58% (56.3% and 1.7%) and 87% (77% and 10%) of its revenue in the fiscal years ended December 31, 2015 and 2014, respectively.
+
+&#160;
+
+Corporate Enterprise 
+
+&#160;
+
+Our management believes that corporate enterprise is a large market for the Company&#8217;s products and services. Management believes that the AudioEye Ally+ Premium product provides a business advantage for our clients by enabling them to better reach the large population of customers who are not able to gain equal access to our client&#8217;s content, products and services delivered via their websites.
+
+&#160; 
+
+4&#160; 
+
+&#160;
+
+&#160; 
+
+Title III of the Americans with Disabilities Act was enacted to help eliminate barriers to access. Just as building owners must implement physical accommodations to remove any physical barrier to access, transportation, or communication, website owners must adhere to Web Accessibility best practices in order to ensure barrier-free access to their websites and online materials. Over time, a website owner must maintain and prove their implementation of those techniques, such as those outlined within the globally recognized Web Content Accessibility Guidelines (WCAG) 2.0 . Overall, there are over 6 million business (666,000 public and private employers) that must comply with ADA Laws (source: http://www.ada.gov/pubs/mythfct.txt)
+
+&#160;
+
+Internet technologies have the potential to give persons with disabilities the means to live on a more equitable basis within the global community in a manner that previously was not possible. Our management believes that there is significant market opportunity for our services as most websites are developed with the assumption that users can visually see the site. According to a study commissioned by Microsoft, conducted by Forester Research, Inc., 22% (37.2 million) of working-age adults are very likely to benefit from the use of accessible technology due to a severe difficulties and impairments (source: http://www.microsoft.com/enable/research/phase2.aspx). Persons with disabilities form the world&#8217;s largest minority according to the United Nations. One billion people are estimated by the World Health Organization to have a disability. According to a 2012 report from the United States Census Bureau, the overall percentage of people with a disability in the US was 12.1 percent (source: http://www.disabilitystatistics.org/reports/2012/English/HTML/report2012.cfm).
+
+&#160;
+
+Equally significant to this analysis of market size are the studies surrounding the market influence of this demographic. Consumers are good to businesses that do good and through cause related marketing strategies, there exists a non-trivial business opportunity. The disability market represents an annual disposable income of $1 trillion&#8212;and $544 billion in the U.S. alone. When you include friends and family, this adds another 2.3 billion people who control an incremental $6.9 trillion in annual disposable income (source: Fifth Quadrant Analytics &#8211; The Global Economics of Disability Report - http://returnondisability.com/disability-market/) . According to IBM, &#8220;approximately 420 million people worldwide are age 65 or older , and this number is expected to increase dramatically over the next two decades. This market is likely to have significant disposable income and retirement investments. (Source: IBM and Banking: Reaching New Markets. Meeting Customer Needs. - https://www-03.ibm.com/able/dwnlds/BusinessAdvantBanking-ExecBrief-accessible.pdf)
+
+&#160; 
+
+Government and Not-for-Profit Organizations Market 
+
+&#160;
+
+Federal and state laws require that the information and services made available across government agency websites meet the diverse and unique needs of all site visitors. Conforming to Web Accessibility best practices and guidelines helps ensure public access to government information and improves the value of agency investment in their websites and online services.
+
+&#160;
+
+The Rehabilitation Act of 1973 requires that individuals with disabilities, who are members of the public seeking information or services from a federal department or agency, have access to and use of information and data that is comparable to that provided to the public without disabilities. The federal government also requires vendors selling to the government to be compliant under Section 508 of the Rehabilitation Act of 1973, unless covered by a provable exception. Canada and the European Union have similar requirements.
+
+&#160;
+
+Seniors and print-impaired individuals need the Internet&#8217;s critical access to fundamental state, local and federal government services and information such as tax forms, social programs, emergency services and legislative representatives. In addition, the roughly 120,000 federal employees with disabilities require Internet accessibility for workplace productivity. The AudioEye Reader in the cloud provides an intuitive Internet experience across all Internet-enabled devices without imposing any additional costs on end users. For government site administrators, our developer tools are designed to be user-friendly so that sites can be made accessible and maintained as part of any web management process.
+
+&#160;
+
+In October 2010, Congress passed - and the President signed into law - the Twenty-First Century Communication and Video Accessibility Act of 2010, which mandates that all government websites (city, state and federal) be compliant and provide accessibility to persons with disabilities. Since this time, a growing number of legal mandates point to the WCAG 2.0 standard &#8211; sources range from the Department of Justice (DOJ), the U.S. Access Board, and the Office of Civil Rights (OCR); The Company can help alleviate the risk that comes with non-conformance to these accepted guidelines and principles. Over 100 Governments have signed and ratified the UN Convention on the Rights of Persons with Disabilities. The Company&#8217;s certification seal demonstrates a website owner&#8217;s commitment to meeting internationally accepted accessibility standards (limited exclusions apply). As a result, our management believes that providing accessibility services for website owners and developers has become a significant market opportunity in view of the potential demand for our patented solutions.
+
+&#160;
+
+The AudioEye solution provides a unique approach to solving a pervasive issue that has inhibited government agencies from embracing efficiencies gained through adopting new cost-effective technological capabilities. More and more federal agencies are beginning to embrace cloud-based service offerings and leveraging the capabilities afforded through the adoption of third-party cloud-based service providers. In many cases, when deployed, a deep understanding of the level of adherence to accessibility is overlooked or, in other cases, lack of adherence to accessibility restricts the federal agency from, ultimately, implementing the 3 rd party solution. This hindrance is problematic for agencies that are striving to move their organizations ahead and keeping pace with the many benefits that come with integrating enterprise-level software solutions. Implementing the AudioEye solution allows federal, state, and local governments to provide constituents with a reliable, scalable, and fully accessible web environment. By pairing the AudioEye Solution with other disparate SaaS offerings, organizations can more readily comply with ADA standards. Implementing AudioEye mitigates risk of non-conformance and goes beyond basic levels of compliance through the inclusion of free cloud-based assistive tools, which lives up to the spirit of ADA - a noble and necessary aspiration for all federal and state government agencies.
+
+&#160;
+
+Our solutions are sold by our direct sales team and through strategic partnerships and resellers. This strategy enables us to address all of the broad markets covered by our technology and allows for a depth and market penetration that we could never approach on our own.
+
+&#160;
+
+5&#160; 
+
+&#160;
+
+&#160;
+
+Our management believes that the government market imposes certain barriers to entry to new potential entrants. However, our management believes that the potential for recurring revenue generation, the data value appreciation that occurs over time, and low turnover upon establishment of government business all contribute to ideal long term conditions that make this a good market for us to conduct direct sales.
+
+&#160;
+
+The federal government boasts nearly 2,000 top-level .gov domains and 24,000 websites of varying purpose, design, navigation, usability and accessibility. Including the 50 states and all local government websites, there are over 600,000 government websites in the United States.
+
+&#160;
+
+Potential additional market segments of focus include, but not limited to:
+
+&#160;
+
+&#183; Finance &#38; Banking Institutions &#183; Public &#38; Private Transportation Companies &#183; Air Carriers (as a result of the Air Carrier Access Act &#8211; ACAA - recently updated by the United States Department of Transportation) &#183; Educational Institutions (as a results of frequent and recent settlement agreements involving and structured by the Department of Justice) &#183; Software as a Service SaaS Providers &#160;
+
+Marketing and Sales 
+
+&#160;
+
+In addition to direct sales with industry specialization and geographical diversification, we use strategic business development referral partners, who maintain a long standing successful track record in securing introductions with C-level executives and key stakeholders that directly influence the buying decision of our technology and services. As a proven means of breaking down barriers to entry and shortening sales cycles, these strategic relationships contribute to the success of our sales operation. Conveying the Return on Investment of our technology to our prospective clients is critical as a differentiator in our space. Success in all these efforts is not only critical in order to meet our sales objectives, but they also raise market awareness of the Company&#8217;s products and brand.
+
+&#160;
+
+In addition, the Company attends selected accessibility and industry trade conferences, maintains memberships with key, industry-specific organizations, serves as subject matter experts within well-attended panels covering industry related topics, leverages paid SEO for those looking online to learn about or purchase accessibility products or services, and a variety of other conventional marketing and social marketing techniques.
+
+&#160; 
+
+Competition 
+
+&#160;
+
+Our management believes that the Company&#8217;s technology and solutions will primarily compete against the following:
+
+&#160;
+
+1. Web Accessibility Assessment Technology Providers. There are a small number of Web Accessibility audit and tracking platform providers but we do not believe their technology solutions offer the specific functionality offered through the AudioEye Developer Portal. Furthermore, their solutions are currently more standalone in that they are not combined with a cloud-based tool with a full suite of comparable assistive tools for end-users. 2. Web Accessibility Remediation Technology Providers. Currently, other technology provider(s) that utilize technology to apply compliance remediation through a server-side technology do not pair their solution with a full suite of assistive tools for end-users and is, therefore, limited in its capacity to provide a fully inclusive user experience for the customers adopting the technology. 3. Web Accessibility Consulting Service Providers. There is a substantial number of consulting service providers in the Web Accessibility industry. Each generally provides an analysis of the various compliance issues associated with their client&#8217;s websites. They ultimately provide resources and assistance in applying fixes and changes at the source. While we provide these services, we also provide tools that empower a fully managed service, as well as tools that empower self-directed developers to fix issues without requiring source-code remediation. 4. Cloud-Based Assistive Technology Providers. There are other cloud-based assistive technology providers. However, they do not offer a screen-reader-like experience with mouse-less navigation and do not offer a solution with compliance detection and remediation for users of existing, native assistive technologies, such as screen readers. The Company&#8217;s patent portfolio should also help preclude competitors from competing as it pertains to this specific category. &#160; 
+
+Competitive Strengths 
+
+&#160;
+
+Our management believes the following competitive strengths will enable our success in the marketplace:
+
+&#160;
+
+&#183; Unique Combination of Technology and Specialized Managed Service . Our management believes, unlike any other company in the marketplace, AudioEye has addressed the problem of Web Accessibility, holistically, and has uniquely positioned itself to provide a combination of leading edge technology and high-quality specialized managed service. Our one-of-a-kind, combined solution empowers our clients to ensure the highest level of access and usability across their digital infrastructure, while reducing burden on finite IT resources, which leads to cost-savings and reduced time-to-market. Our management believes that the AudioEye solution allows our customers to focus not only on achieving compliance, but also enables a tangible and non-trivial ROI &#8211; a true competitive advantage. This ROI is derived from opening up access to the 5%-10% of the population with a disability or physical limitation. This has allowed our clients to reach more customers, improve brand image, and build additional brand loyalty from their customers in a competitive manner. &#160;
+
+6&#160; 
+
+&#160;
+
+&#160;
+
+&#183; Unique patented technology . First and foremost, AudioEye builds all its products with the primary goal of enhancing the user experience, in everyway possible, regardless of the end-user&#8217;s individual disability or physical limitation. AudioEye is a marketplace technology leader providing unparalleled Web Accessibility solutions for our clients&#8217; customers through our Ally Platform Products. We own a unique patent portfolio comprised of six issued patents in the United States, we have received a notice of allowance from the U.S. Patent and Trademark Office for a seventh patent, and have additional U.S. patents pending. Our portfolio includes patents and pending patent applications in the United States with over 60 issued claims. Our current portfolio has established a foundation for building unique technology solutions that contribute to the way in which we differentiate ourselves from other competitors in the B2B Web Accessibility marketplace. We are actively pursuing the expansion of this portfolio to include a broad range of pertinent and novel concepts that AudioEye has employed (or is in the process of employing) for our growing client list. In this continued pursuit of expanding the capabilities of our technology and meeting the demands of our customers, AudioEye is committed to growing its IP portfolio. &#160;
+
+&#183; Highly experienced inventors, technologists and product development team . Our team is comprised of experienced software, e-commerce, mobile marketing and Internet broadcasting developers and technologists that have worked together for over fifteen years. During their careers, this team has developed several technologies programs for Fortune 500 organizations; federal, state and local governments in the United States, and several leading organizations across the global marketplace. &#160; 
+
+Patent and Trademark Rights 
+
+&#160;
+
+We have a portfolio comprised of six approved patents in the United States, we have received a notice of allowance from the U.S. Patent and Trademark Office for a seventh patent, and we have several additional patents that are either pending or are being prepared for filing. 
+
+&#160;
+
+The following is a list of our patents, both issued and pending. The patents have been extended and cover a period from 2002 through 2026. 
+
+&#160;
+
+&#160; No. I.D. Status Title &#160; &#160; &#160; &#160; &#160; &#160; 1 US7966184 Issued System and method for audible website navigation &#160; &#160; &#160; &#160; &#160; &#160; 2 US7653544 Issued Method and apparatus for website navigation by the visually impaired &#160; &#160; &#160; &#160; &#160; &#160; 3 US8260616 Issued System and method for audio content generation &#160; &#160; &#160; &#160; &#160; &#160; 4 US8046229 Issued Method and apparatus for website navigation by the visually impaired &#160; &#160; &#160; &#160; &#160; &#160; 5 US8296150 Issued System and method for audio content navigation &#160; &#160; &#160; &#160; &#160; &#160; 6 US8589169 Issued System and method for creating audio files &#160; &#160; &#160; &#160; &#160; &#160; 7 13/483758 Notice of Allowance System and method for generating audio content &#160; &#160; &#160; &#160; &#160; &#160; 8 13/280184 Pending System and method for audio content management &#160; &#160; &#160; &#160; &#160; &#160; 9 14/055366 Pending System and method for communicating audio files &#160;
+
+We have also registered the following trademarks with the U.S. Patent and Trademark Office:
+
+&#160;
+
+&#183; AUDIO INTERNET - U.S. Trademark Application Serial No. 85/396,756 &#183; AUDIOEYE - U.S. Trademark Application Serial No. 85/676,991 &#183; WHAT ACCESSIBILITY SHOULD BE - U.S. Trademark Application Serial No. 86/413,160 &#183; EQUAL ACCESS FOR ALL - U.S. Trademark Application Serial No. 86/413,196 &#160;
+
+Government Regulation 
+
+&#160;
+
+Government regulation in the United States that affects the market and commercial potential for our products and services includes the Rehabilitation Act of 1973, the American with Disabilities Act of 1990, Section 508 of the Rehabilitation Act, Section 504 of the Rehabilitation Act, the Twenty-First Century Communications and Video Accessibility Act of 2010 (CVAA), the Air Carrier Accessibility Act (ACAA), and various State Laws.
+
+&#160;
+
+The Rehabilitation Act of 1973 requires that individuals with disabilities, who are members of the public seeking information or services from a federal department or agency, have access to and use of information and data that is comparable to that provided to the public without disabilities. The federal government also requires vendors selling to the government be compliant under Section 508 of the Rehabilitation Act of 1973, unless covered by a provable exception. Canada and the European Union have similar requirements.
+
+&#160;
+
+7&#160; 
+
+&#160;
+
+&#160;
+
+The Americans with Disabilities Act of 1990 (ADA) was passed to ensure equal opportunity for people with disabilities. It applies to employment, transportation, state and local government services, and businesses that provide public accommodations or facilities.
+
+&#160;
+
+Title II and Title III of the Americans with Disabilities Act (ADA) prevent discrimination on the basis of disability in services, programs, and activities provided by public entities (Title II) and private entities considered to be places of public accommodation (Title III). The Department of Justice (DOJ) issues regulations implementing those mandates, and is currently in the process of formulating rules regarding the accessibility of websites and mobile applications. The DOJ has divided its rulemaking into two efforts: the first will provide guidance to state and local entities to comply with Title II, and the second will establish rules for private entities to comply with Title III. The DOJ has delayed issuing those rulemakings several times; recent predictions suggest that the DOJ will issue the proposed rules in 2015. The DOJ has released abstract summaries for both rulemakings.
+
+&#160;
+
+Learn more at www.ada.gov 
+
+&#160;
+
+Section 508 of the Rehabilitation Act Requires that federal agencies&#8217; electronic and information technology is accessible to people with disabilities, including employees and the public.
+
+&#160;
+
+The US Government Access Board is expected to update the requirements to Section 508 compliance standards, commonly referred to as the &#8220;Section 508 Refresh,&#8221; further formalizing the mandate to adhere to specific web accessibility best practices, namely those outlined under the Web Content Accessibility Guidelines (WCAG), the international standards for web accessibility. Already, a growing number of legal mandates and recent settlements point to the WCAG 2.0 standards as well as making it a requirement to hire third-party Accessibility Subject Matter Experts to maintain an accessibility audit and provide certification &#8211; sources range from the Department of Justice (DOJ), the U.S. Access Board, and the Office of Civil Rights (OCR)
+
+&#160;
+
+For more information visit www.section508.gov 
+
+&#160;
+
+Section 504 of the Rehabilitation Act entitles individuals with disabilities to equal access to any program or activity that receives federal subsidy &#8211; this includes Web-based communications for educational institutions and government agencies.
+
+&#160;
+
+In October 2010, Congress passed and the President signed into law the Twenty-First Century Communications and Video Accessibility Act of 2010 to update existing federal laws requiring communications and video programming accessibility and to fill in any current gaps in accessibility so as to ensure the full inclusion of people with disabilities in all aspects of daily living through accessible, affordable and usable communication and video programming technologies.
+
+&#160;
+
+Per the Department of Transportation, The Air Carrier Access Act (ACAA, 49 U.S.C. 41705) prohibits discrimination by U.S. and foreign air carriers on the basis of physical or mental disability. The Department of Transportation, in interpreting and implementing the ACAA, has issued a rule setting forth the standards of service which air carriers are expected to provide to disabled individuals.
+
+&#160;
+
+Beyond the federal level, many states have enacted accessibility laws and, going further, internationally, over 100 Governments have signed and ratified the UN Convention on the Rights of Persons with Disabilities.
+
+&#160;
+
+Given the many government regulations in place and/or in process, actions must be taken in order for businesses to comply with best practices and international standards. This presents a significant business opportunity as more pressure is being put on businesses and organizations to improve the accessibility of their web environments. In addition, from a risk mitigation standpoint, it is best if they consistently and reliably track and demonstrate their level of conformance to these internationally recognized standards over time, the Web Content Accessibility Guidelines (WCAG) 2.0).
+
+&#160; 
+
+Employees 
+
+&#160;
+
+As of December 31, 2015, we had 22 full-time employees. None of our employees are subject to a collective bargaining agreement and we believe that relations with our employees are very good.
+
+&#160;
+
+Corporate Information and Background 
+
+&#160;
+
+AudioEye, Inc. was formed as a Delaware corporation on May 20, 2005. On March 31, 2010, CMG Holdings Group, Inc. (&#8220;CMGO&#8221;) acquired our company. In connection with the acquisition, the former stockholders of our company retained rights to receive cash from the exploitation of our technology (the &#8220;Rights&#8221;) consisting of 50% of any cash received from income earned, settlements or judgments directly resulting from our patent strategy and a share of our net income for 2010, 2011 and 2012 from the exploitation of our technology. The Rights were then contributed to a newly formed Nevada corporation, AudioEye Acquisition Corporation (&#8220;AEAC&#8221;) in exchange for shares of AEAC. During the period as a wholly-owned subsidiary of CMGO, we continued to expand our patent portfolio to protect our proprietary Internet content publication and distribution technology.
+
+&#160;
+
+On June 22, 2011, CMGO entered into a Master Agreement with AEAC pursuant to which: (i) the stockholders of AEAC would acquire from the CMGO 80% of our capital stock (the &#8220;Separation&#8221;) and (ii) CMGO would distribute to its stockholders, in the form of a dividend, 5% of our capital stock (the &#8220;Spin-off&#8221;). Pursuant to the Master Agreement, AEAC was required to arrange for the release of senior secured notes (the &#8220;Senior Notes&#8221;) issued by CMGO in an aggregate principal amount of $1,025,000, which CMGO had been unable to service. On August 17, 2012, we, CMGO and AEAC completed the Separation. In connection with the Separation, AEAC arranged for the release of CMGO under the Senior Notes by payment to the holders thereof of $700,000, the delivery of a secured promissory note in the principal amount of $425,000 and the issuance of 1,500,000 shares of the common stock of AEAC. On February 6, 2013, the note was paid in full. On January 29, 2013, the Securities and Exchange Commission declared effective our registration statement on Form S-1 with respect to 1,500,259 shares of our common stock to be issued in the Spin-off. On February 22, 2013, CMGO completed the Spin-off.
+
+&#160;
+
+8&#160; 
+
+&#160;
+
+&#160;
+
+In connection with the Separation, we entered into a Royalty Agreement with CMGO. Pursuant to the Royalty Agreement, for a period of five years, we would pay to CMGO 10% of cash received from income earned or settlements on judgments directly resulting from our patent enforcement and licensing strategy, whether received by us on any of our affiliates, net in either case of any direct costs or tax implications incurred in pursuit of such strategy as they relate to the patents described in the Master Agreement. Additionally, we entered into a Services Agreement with CMGO whereby, without duplication to the amounts payable under the Royalty Agreement, for a period of 5 years, CMGO will receive a commission of 7.5% of all revenues received by us after the Separation from all business, clients or other sources of revenue procured by CMGO or its employees, officers or subsidiaries and directed to us and 10% of net revenues obtained from a specified customer.
+
+&#160;
+
+On March 22, 2013, we and AEAC entered into an Agreement and Plan of Merger (the &#8220;Merger Agreement&#8221;) pursuant to which AEAC would be merged with and into our company (the &#8220;Merger&#8221;) with our company being the surviving entity. Pursuant to the Merger Agreement, each share of AEAC common stock issued and outstanding immediately prior to the Merger effective date would be converted into .94134 share of our common stock and the outstanding convertible debentures of AEAC (the &#8220;AEAC Debentures&#8221;) in the aggregate principal amount of $1,400,200, together with accrued interest thereon, would be assumed by us and then exchanged for convertible debentures of our company (the &#8220;AE Debentures&#8221;).
+
+&#160;
+
+Effective March 25, 2013, the Merger was completed. In connection with the Merger, the stockholders of AEAC received on a pro rata basis the 24,004,143 shares of our common stock that were held by AEAC, and the former holders of the AEAC Debentures received an aggregate of 5,871,752 shares of our common stock pursuant to their conversion of all of the AE Debentures issued to replace the AEAC Debentures. The principal assets of AEAC were the Rights that had been contributed to AEAC by the former stockholders of our company. As a result of the Merger, the Rights have been extinguished.
+
+&#160;
+
+On November 12, 2013, we and CMGO terminated the Royalty Agreement.
+
+&#160;
+
+On December 30, 2013, we completed the repurchase of 2,184,583 shares of our common stock owned by CMGO which shares were transferred to us in January, 2014 and retired to treasury. In connection, with the repurchase, we paid CMGO $573,022 and forgave a $50,000 payable from an affiliate of CMGO.
+
+&#160;
+
+9&#160; 
+
+&#160;
+
+&#160; &#160; 
+
+Reports to Security Holders 
+
+&#160;
+
+We are not required to deliver an annual report to our stockholders, but will voluntarily send our annual audited financial statements upon request. We are required to file annual, quarterly and current reports and other information with the SEC. Our SEC filings are available to the public over the Internet at the SEC&#8217;s website at http://www.sec.gov.
+
+&#160;
+
+The public may read and copy any materials filed by us with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. We are an electronic filer. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The Internet address of the site is http://www.sec.gov.
+
+&#160;
+

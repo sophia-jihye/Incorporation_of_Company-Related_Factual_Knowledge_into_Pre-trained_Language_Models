@@ -1,0 +1,1044 @@
+ Item 1. Business . 
+
+Overview 
+
+We are a biopharmaceutical company focused on improving the lives of patients with genomically defined diseases driven by abnormal kinase activation. Our approach is to systematically and reproducibly identify kinases that are drivers of diseases in genomically defined patient populations and to craft drug candidates with therapeutic windows that may provide significant and durable clinical responses to patients without adequate treatment options . This integrated biology and chemistry approach enables us to drug known kinases that have been difficult to inhibit selectively and also identify, characterize and drug novel kinase targets. By focusing on diseases in genomically defined patient populations , we believe that we will have a more efficient development path with a greater likelihood of success. Leveraging our novel target discovery engine, we have developed a robust small molecule drug pipeline in cancer and a rare genetic disease. One of our lead drug candidates is BLU-285, which targets KIT Exon 17 mutants and PDGFR&#945; D842V, abnormally active receptor tyrosine kinase mutants that are drivers of cancer and proliferative disorders. BLU-285 is currently being developed for patients with systemic mastocytosis, or SM, a myeloproliferative disorder of the mast cells, and defined subsets of patients with gastrointestinal stromal tumor, or GIST, the most common sarcoma, or tumor of bone or connective tissue, of the gastrointestinal tract. Our other lead drug candidate is BLU &#8209; 554, which targets FGFR4, a kinase that is aberrantly activated and is a driver of disease in a defined subset of patients with hepatocellular carcinoma, or HCC, the most common type of liver cancer. Both drug candidates have demonstrated proof of concept in pre-clinical models. 
+
+In June 2015, July 2015 and September 2015, respectively, the U.S. Food and Drug Administration, or FDA, accepted our Investigational New Drug, or IND, application s for BLU-554 for the treatment of advanced HCC and cholangiocarcinoma , a rare form of cancer that affects the bile ducts, BLU-285 for the treatment of unresectable, treatment-resistant GIST and BLU-285 for the treatment of advanced SM. &#160; We have initiated dose-escalation Phase 1 clinical trial s for each of these indication s and are currently enrolling patients in each of these clinical trial s . &#160; W e expect preliminary data for each of these Phase 1 clinical trials to be available by the end of 2016. I n September 2015, the FDA granted orphan drug designation to BLU-554 for the treatment of HCC , and in January 2016, the FDA granted orphan drug designation to BLU-285 for the treatment of GIST and SM . &#160; 
+
+We are also developing BLU-667, a drug candidate that targets RET, a receptor tyrosine kinase that can become abnormally activated by mutations or translocations, which occurs when a portion of the gene that encodes RET is joined to part of another gene to encode a fusion protein , and RET resistant mutants that we predict will arise from treatment with first generation therapies. A fusion protein is encoded by a fusion gene, which is a gene in which a portion of one gene is joined to part of another gene. In the case of RET, a portion of the RET gene that encodes the kinase domain is joined to part of another gene. RET fusion proteins are always active and are thought to be drivers in several cancers. RET is a driver of disease in non-small cell lung cancer and cancers of the thyroid, and our research suggests that RET may be a driver of disease in subsets of colon and breast cancer. In pre-clinical studies, BLU6864, a structurally related compound that we identified in the course of developing BLU-667, induced tumor regression in disease models driven by the primary RET fusion and a predicted secondary on-target resistance mutation. We plan to initiate 28-day Good Laboratory Practice, or GLP, &#160; toxicology studies for BLU-667 in the first half of 2016 with the goal of identifying the dose limiting toxicity and anticipated first-in-human dose for BLU-667. We plan to file an IND for BLU-667 by the end of 2016. 
+
+In addition, we have identified predicted resistance mutations in the neurotrophic tyrosine receptor kinase, or NTRK, some of which have recently been clinically observed by others . NTRK is believed to be a driver of disease in a broad set of cancers. We have nominated two development candidates for potential clinical development as inhibitors of NTRK and predicted NTRK resistant mutants . Leveraging our novel target discovery engine, we also have initiated efforts for a discovery program for an undisclosed kinase target and plan to nominate two more programs by the end of 2016, including at least one program focused on kinases as therapeutic targets in cancer immunotherapy, also referred to as immunokinase s. 
+
+Approved kinase drugs, such as imatinib, have demonstrated significant benefit to patients, and small molecule kinase drugs achieved over $17 billion in 2014 sales. Despite this success, there is room for further improvement in kinase drug discovery and development. Many of the approved drugs are multi &#8209;kinase inhibitors that are not selective for 
+
+&#160;
+
+disease drivers. This results in off &#8209;target toxicities that limit dose levels and target inhibition, thereby reducing efficacy. Further, patients who initially respond to a targeted kinase treatment often relapse due to the development of resistance mutations. Finally, as of December 31, &#160; 2015, kinase drugs approved by the FDA are only directed at less than five &#160; percent of the 518 kinases that constitute the kinome. For many of the known kinases, there is a strong link between genetic alterations in a kinase and disease, including specific forms of cancer and rare genetic diseases. However, the function of the majority of the kinome is still unknown. Taken together, this represents a substantial opportunity for developing novel and transformative drugs for cancer, rare genetic diseases and other disease areas , including cancer immunotherapy . 
+
+To capitalize on the kinase opportunity, we built a platform that integrates a novel target discovery engine and a proprietary compound library. Our novel target discovery engine, which was developed entirely in &#8209;house, combines our expertise in genomics, bioinformatics, and cell and structural biology to provide new insights into the biology of kinases as drivers of disease. To develop kinase drugs, we start by interrogating our proprietary compound library. Our library is a unique collection of novel small molecules rationally designed and developed entirely in &#8209;house by Blueprint Medicines &#8217; scientists as kinase inhibitors and enriched for drug &#8209;like properties. We do not owe any royalties or other fees to any parties associated with our novel target discovery engine and our proprietary compound library. Using this platform, we have produced a drug pipeline of several promising drug candidates that target genomically defined patient subsets. &#160; We believe that our strategy will allow us to deliver transformative drugs to patients while building a fully - integrated biopharmaceutical company. 
+
+Our two lead programs targeting KIT Exon 17 and FGFR4 provide strong evidence of the power of our proprietary compound library. These targets have been well characterized in the scientific literature as disease drivers, but have been challenging to inhibit selectively with small molecules. Our RET program provides evidence of the strength of our novel target discovery engine and proprietary compound library. Leveraging our expertise in structural and cell biology, we predicted future resistance mutations resulting from treatment with drugs with RET inhibitory activity and have crafted drug candidates that will be effective against RET and predicted RET resistant mutants. 
+
+BLU &#8209;285 is an orally available, potent and selective inhibitor of mutations in KIT Exon 17, which encodes a portion of the tyrosine kinase domain. BLU &#8209;285 also potently and selectively inhibits the PDGFR&#945; D842V mutation . Due to the high degree of structural similarity of the kinase domains of KIT and PDGFR&#945;, BLU &#8209;285 is able to inhibit both KIT Exon 17 mutants and the PDGFR&#945; D842V mutant with minimal inhibition of other kinases. BLU &#8209;285 is a highly targeted therapeutic candidate for genomically &#8209;selected patients with diseases driven by these mutations, including SM and GIST, which are KIT and PDGFR&#945; mediated diseases. 
+
+Imatinib, an inhibitor of KIT and PDGFR&#945;, which is a driver in a subset of GIST , is marketed by a competitor and approved for the treatment of SM and GIST , validating KIT and PDGFR&#945; as therapeutic target s in these diseases. However, a meaningful percentage of patients harbor mutations in KIT and PDGFR&#945; that are not targeted by imatinib and fail to respond to treatment with the drug. We plan to initially develop BLU &#8209;285 for targeted patient populations that harbor these mutations and currently lack adequate treatments. BLU &#8209;285 has shown significant tumor regression in pre-clinical models of SM and GIST, which we believe to be highly predictive of clinical response. In July 2015 and September 2015, respectively, the FDA &#160; accepted our IND &#160; applications for BLU-285 for the treatment of unresectable, treatment-resistant GIST and BLU-285 for the treatment of advanced SM. We have initiated dose-escalation Phase 1 clinical trials for each of these indications. &#160; Once the maximum tolerated dose, or MTD, is reached, or a recommended dose is established, we will evaluate whether to open expansion cohorts in selected patient subsets for each of these Phase 1 clinical trials. 
+
+BLU &#8209;554 is an orally available, potent, selective and irreversible inhibitor of the kinase FGFR4. FGFR4 has historically been a challenging target to drug selectively given the closely related paralogs, proteins encoded by closely related genes, namely FGFR1 &#8209;3. Aberrantly active FGFR4 signaling is a driver of disease in a subset of patients with hepatocellular carcinoma, or HCC, a disease with high unmet need and no approved genomically &#8209;targeted therapies. We plan to initially develop BLU &#8209;554 for a genomically defined patient population within HCC with aberrantly active FGFR4 signaling. BLU &#8209;554 has shown significant anti &#8209;tumor activity in several different pre-clinical models of HCC with aberrantly active FGFR4 signaling. In June 2015, the FDA accepted our IND application for BLU-554 for the treatment of advanced HCC and cholangiocarcinoma. We have initiated a dose-escalation Phase 1 clinical trial for this indication. &#160; Once the MTD &#160; is reached, or a recommended dose is established, we will evaluate whether to open expansion cohorts in selected patient subsets for this Phase 1 clinical trial . &#160; 
+
+&#160;
+
+BLU-667 is an orally available, potent and selective inhibitor of the kinase RET and predicted RET resistant mutants . RET is a driver of disease in non-small cell lung cancer and cancers of the thyroid, and our research suggests that RET may be a driver of disease in subsets of colon and breast cancer. By leveraging our proprietary compound library, we identified BLU-667, which selectively inhibits not only RET but also the RET resistant mutants. In pre-clinical studies, BLU6864, a structurally related compound that we identified in the course of developing BLU-667, induced tumor regression in disease models driven by the primary RET fusion and a predicted secondary on-target resistance mutation. We plan to initiate 28-day GLP toxicology studies for BLU-667 in the first half of 2016 with the goal of identifying the dose limiting toxicity and anticipated first-in-human dose for BLU-667. We plan to file an IND for BLU-667 by the end of 2016. 
+
+Our Mission 
+
+Blueprint Medicines &#8217; mission is to dramatically improve the lives of patients with genomically defined diseases. Our singular focus is to use our deep understanding of the genetic blueprint of cancer and other diseases driven by the abnormal activation of kinases to craft highly selective medicines aimed at eradicating these diseases. 
+
+Our Principles 
+
+We maintain a culture of high integrity that embraces the following guiding principles to provide long &#8209;term benefits to patients and our stakeholders: 
+
+&#183; 
+
+Patients First &#160;&#8212; Maintaining intense focus on improving patients &#8217; lives. 
+
+&#183; 
+
+Thoughtfulness &#160;&#8212; Exploring creative approaches, daring to make well &#8209;thought &#8209;out decisions and owning the outcomes. 
+
+&#183; 
+
+Trust &#160;&#8212; Through collaboration and cooperation, building and maintaining a cohesive team that has mutual respect of different viewpoints and talents. 
+
+&#183; 
+
+Optimism &#160;&#8212; Pursuing transformative therapies that we believe will make a difference. 
+
+&#183; 
+
+Urgency &#160;&#8212; Solving complex problems rapidly, with attention and care. 
+
+Our Strategy 
+
+Our goal is to become a fully-integrated biopharmaceutical company capable of delivering transformative drugs to patients . The key tenets of our strategy include the following: 
+
+&#183; 
+
+Rapidly advance our lead drug candidates, BLU &#8209;285 and BLU &#8209;554, through clinical development. We have initiated dose-escalation Phase 1 clinical trial s for BLU-285 for the treatment of unresectable, treatment-resistant GIST , BLU-285 for the treatment of advanced SM and BLU-554 for the treatment of advanced HCC and cholangiocarcinoma , and we are currently enrolling patients in each of these clinical trial s . In addition, in September 2015, the FDA granted orphan drug designation to BLU-554 for the treatment of HCC , and in January 2016, the FDA granted orphan drug designation to BLU-285 for the treatment of GIST and SM . In addition, w e are working with physicians and patient advocacy groups to rapidly identify and enroll patients most likely to respond to our therapies. For some of our drug candidates, in order to select patients most likely to respond to our therapies and rapidly confirm mechanistic and clinical proof of concept, we may seek to develop companion diagnostics or assays to measure target engagement and pathway modulation, which are confirmation that a drug binds to its intended protein target in vivo , and we may develop measures of early response. We expect these approaches may enable earlier determination of clinical activity, allow for clear decision points for the clinical and regulatory development of our drug candidates and, for any of our drug candidates that receive marketing approval, improve patient care by identifying patients who will benefit from the therapy . With early and encouraging clinical results, we plan to apply for fast track designation and breakthrough therapy designation which, if granted, are intended to accelerate clinical development and expedite regulatory review and approval. 
+
+&#160;
+
+&#183; 
+
+Build a pipeline of kinase drugs for patients with genomically defined drivers of disease. We will continue to leverage our platform to systematically and reproducibly identify kinases that are drivers of diseases in genomically defined patient populations and craft drug candidates that potently and selectively target these kinases. We anticipate filing an IND for BLU-667 for the treatment of RET fusions and predicted RET resistant mutants by the end of 2016. In addition, w e have nominated two development candidates for potential clinical development as inhibitors of NTRK and predicted NTRK resistant mutants . W e also have initiated efforts for a discovery program for an undisclosed kinase target and plan to nominate two more programs by the end of 2016, including at least one program focused on kinases as therapeutic targets in cancer immunotherapy. Our goal is to file one IND annually on average. 
+
+&#183; 
+
+Continuously invest in our proprietary discovery platform to ensure future growth . We plan to enhance our target discovery engine to enable new insights into known kinase biology and to identify new kinase drug targets. We are focused on uncovering the potential role of the &#8220; kinases of unknown biology, &#8221; or KUBs, which constitute the majority of the kinome. We plan to expand our proprietary compound library to cover close to 100% of the kinome and to increase the number of compound families that inhibit each kinase target. 
+
+&#183; 
+
+B uild core capabilities that allow us to commercialize our products and e valuate strategic collaborations to maximize value . We currently retain 100% of the commercial rights for all of our oncology &#8209;focused programs, and we have a rare genetic disease program that is the subject of our collaboration with Alexion Pharma Holding, or Alexion. W e believe that therapies for diseases in genomically defined patient populations can often be brought to patients through a focused commercial organization without the need for a commercial partner. If any of our drug candidates receive regulatory approval in the United States , we expect to maximize value by building a focused organization to commercialize our products. For any drug candidates that receive regulatory approval outside the United States, we may commercialize such products on our own or seek one or more strategic partners to commercialize such products. We will continue to evaluate additional collaborations that could maximize the value for our programs and allow us to leverage the expertise of strategic collaborators. We are also focused on engaging in collaborations to capitalize on our platform outside of our primary strategic focus area of cancer. &#160; 
+
+&#183; 
+
+Maintain Blueprint Medicines &#8217; patient-focused and science-driven culture as we grow our business. We are focused on building an entrepreneurial organization that is patient &#8209;focused and science &#8209;driven and fosters a culture of creativity , innovation, hard work and an urgency for efficiently developing treatments to improve the lives of patients who have few, if any, treatment options. As we grow, we intend to continue hiring the most qualified individuals in biology, chemistry, clinical development and business, who fit within our culture and incorporate our entrepreneurial spirit and passion for developing transformative drugs that have the potential to improve patients &#8217; lives . We also intend to continue fostering an environment that encourages tight integration across disciplines to ensure a seamless flow of ideas and information exchange. 
+
+Our Focus &#8212; Highly Selective Kinase Drugs for Genomically Defined Diseases 
+
+Kinases are enzymes that function in many signaling pathways to regulate critical cellular functions. Kinase-dependent signaling networks are present in multiple different cell types, including muscle cells and cells of the immune system, and deregulation of these networks can lead to disease pathology. Abnormal activation of kinases has been shown to drive several key activities of cancer cells, including growth, survival, metabolism, cell motility and angiogenesis. Kinases may become abnormally activated through a number of mechanisms, including when: (1) a gene mutates creating a change in the resulting protein sequence; (2) chromosomes become rearranged creating a translocation or a fusion gene; or (3) excessive amounts of protein are created due to gene duplication or dysregulation leading to overexpression. There is a strong link between genetic alterations in kinases and disease, including specific forms of cancer and rare genetic diseases. Several kinases have been validated as oncogenes, which are genes that when altered can initiate and maintain cancer growth. Examples of oncogenes are ABL, EGFR, B &#8209;RAF, ALK , BTK and JAK, among many others. Ongoing genomic analyses of tumor data sets continue to identify new roles for kinases as drivers of disease. 
+
+&#160;
+
+As of December 31, &#160; 2015, there were 34 FDA &#8209;approved small molecule drugs that target less than five percent of the 518 kinases, of which all but two are indicated for cancer. Kinase inhibition continues to be a fruitful approach for cancer drug development. From 2012 to 2015, 16 of 41 &#160; FDA &#8209;approved cancer drugs were kinase inhibitors. 
+
+Despite these successes, several opportunities remain in kinase drug discovery and development. 
+
+&#183; 
+
+Identifying novel kinase drivers of disease . Very few kinases are the focus of approved drugs. Further, the function of the majority of the kinome still remains unexplored. Thus, there is substantial opportunity for developing novel and transformative therapies that target well &#8209;characterized but currently difficult-to-drug kinases as well as KUBs. 
+
+&#183; 
+
+Crafting very selective kinase drugs. Due to the high degree of homology between kinases, specific targeting of a given kinase can be challenging. Many of the approved kinase drugs inhibit multiple kinases and are referred to as multi &#8209;kinase inhibitors. Due to inhibition of off &#8209;target kinases, these multi &#8209;kinase inhibitors often give rise to severe unwanted effects, which can negatively impact the ability to dose patients at sufficient levels to achieve optimal efficacy. We believe increasing selectivity will minimize off &#8209;target toxicities and will improve efficacy by enabling higher dose levels and greater target inhibition. Further, combination therapies require that the drugs have non &#8209;overlapping toxicities, which could be minimized with more selective agents. 
+
+&#183; 
+
+Generating novel chemical matter required to target difficult &#8209;to &#8209;drug kinases . Novel chemical matter is needed to address targets that are known but have proven difficult-to-drug . Pharmaceutical companies generally rely on known chemical families as the basis of drug discovery programs. Consequently, the vast majority of pharmaceutical companies have similar compound libraries. New approaches are needed to develop novel chemistry and differentiated libraries that can inhibit difficult &#8209;to &#8209;drug kinases in alternate ways. 
+
+&#183; 
+
+Overcoming resistance mediated by the alteration of kinase targets . Most approved kinase inhibitors provide only temporary disease control. Patients may relapse due to the emergence of on-target resistance mutations. Novel approaches are needed to predict and inhibit resistant mutants thus providing more durable clinical responses. 
+
+Our Approach and Platform 
+
+Our approach is to systematically and reproducibly identify kinases that are drivers of diseases in genomically defined patient populations and to craft drug candidates with therapeutic windows that provide significant and durable clinical responses to patients. This approach enables us to drug known kinase targets that have been difficult to inhibit selectively and also identify, characterize and drug novel kinase targets. By focusing on diseases in genomically defined patient populations , we believe that we can quickly identify the patients most likely to respond, resulting in a more efficient development path with a greater likelihood of success. 
+
+Our approach is enabled by our drug discovery platform consisting of two pillars: 
+
+&#183; 
+
+a proprietary, highly &#8209;annotated library of novel compounds; and 
+
+&#183; 
+
+a novel target discovery engine, which is a comprehensive process that interrogates kinase biology from many angles using genomics, structural biology and cell biology. 
+
+Our proprietary compound library is a unique collection of small molecules designed and developed entirely in &#8209;house by Blueprint Medicines &#8217; scientists as kinase inhibitors and enriched for drug &#8209;like properties. We do not owe royalties or other fees to any parties associated with our novel target discovery engine and our proprietary compound library. This provides high &#8209;quality compounds to start kinase drug discovery programs and to use in identifying new kinase targets. The compounds were designed as kinase inhibitors without specific targets in mind, a design strategy that yielded a diversity of novel chemical structures that provide access to unique chemical matter. Each compound has been extensively characterized for binding to over 450 kinases and disease &#8209;relevant kinase mutants; the majority of known kinases are targeted by at least one compound family. Thus, this &#8220; annotated &#8221; compound library provides high &#8209;quality medicinal chemistry starting points that enable quick &#8209;starts to drug discovery programs, avoiding the expense and time 
+
+&#160;
+
+spent running high throughput screens. Notably, our proprietary compound library has yielded high quality chemical starting points for previously difficult &#8209;to &#8209;drug kinases. We plan to expand our proprietary compound library to cover close to 100% of the kinome and to increase the number of compound families that inhibit each kinase target. 
+
+We have established a novel target discovery engine, which was developed entirely in &#8209;house under the direction of our chief scientific officer, to provide new insights into the biology of kinases as drivers of disease and to identify new kinase drug targets. There are two aspects to the novel target discovery engine: 
+
+&#183; 
+
+Genomics Approach to Identify Novel Kinase Targets . Our high &#8209;capacity computing infrastructure allows not only storage of very large genomic databases but also rapid analyses of these data using proprietary algorithms developed by our bioinformaticians. For example, using our proprietary kinase fusion detection algorithm to analyze human tumor sequences, we have identified both novel kinase fusions and new disease indications for several known kinase fusions. These results were published in Nature Communications in 2014. 
+
+&#183; 
+
+Cell &#8209;based Screens to Identify Novel Kinase Targets . In this approach, a subset of the compounds in our proprietary compound library that exhibit remarkable potency and/or selectivity for one or a few kinases &#8212; our &#8220; tool compounds &#8221; &#160;&#8212; are used as probes in disease &#8209; relevant cell &#8209;based screens. Many of these tool compounds inhibit KUBs and thus allow us to evaluate potential roles for these relatively unexplored kinases in human disease. 
+
+Another aspect of our novel discovery engine is predicting resistance mutations. Through our structural and cell biology expertise, we predict mutations in kinases that render the enzyme insensitive to inhibition by an approved drug or compound in development. While treatment of patients with genomically defined cancers with a targeted therapy typically results in a significant anti &#8209;tumor response, frequently the response is not durable. In tumors driven by an activated kinase, kinase reactivation via mutation is a common mechanism of resistance. Using our structural biology and computational chemistry expertise, we predict what changes in the kinase might result in a resistant enzyme and then confirm this prediction in a relevant cell culture model. We have and may continue to form collaborations to track emerging patterns of resistance in the clinic to confirm our predictions. We have used this process of predicting resistance to inform the design of several of our next generation drugs , including BLU-667 for RET fusions and predicted RET resistant mutants . In addition, applying our resistance mutation prediction algorithm, we have predicted resistance mutations in NTRK, some of which have recently been clinically observed by others, and w e have nominated two development candidates for potential clinical development as inhibitors of NTRK and predicted NTRK resistant mutants . 
+
+Our platform has already yielded a robust pipeline. KIT Exon 17 mutants, while known drivers of disease, historically, were not selectively drugged successfully. We developed BLU &#8209;285 as a selective inhibitor of KIT Exon 17 mutants, an effort facilitated by our proprietary compound library. Aberrant signaling through FGFR4 is a known genomic driver in a subset of HCC patients. This kinase has been difficult to drug selectively due to the close homology of the FGFR family members. We developed BLU &#8209;554 as a selective inhibitor of FGFR4 to address the unmet medical need in this genomically defined HCC patient population. In addition, we applied our resistance mutation prediction algorithm in our RET program to identify mutant forms of the kinase that are resistant to multi &#8209;kinase inhibitors with RET activity. We have developed BLU-667, a pote nt and selective inhibitor of RET and predicted RET resistant mutants with activity against both the wild &#8209;type and mutant enzymes, another effort that is facilitated by our proprietary compound library. Finally, we are currently using and will continue to use our tool compounds to explore the role of KUBs in human disease with the goal of identifying novel kinase targets. 
+
+&#160;
+
+Our Development Programs 
+
+We have leveraged our platform to develop a robust drug pipeline of orally available, potent and selective small molecule kinase inhibitors that target genomic drivers in several cancers and a rare genetic disease. We currently own worldwide commercial rights to all of our oncology &#8209;focused drug candidates, and we have a rare genetic disease program that is the subject of our collaboration with Alexion. Our most advanced drug candidates are summarized in the table below. 
+
+&#160; 
+
+Drug Candidates 
+
+&#160; 
+
+Initial Diseases 
+
+&#160; 
+
+Genomic Drivers 
+
+&#160; 
+
+Stage of Development 
+
+&#160; 
+
+Commercial Rights 
+
+&#160; 
+
+BLU &#8209;285 
+
+(KIT Exon 17 mutants and PDGFR&#945; D842V inhibitor) 
+
+SM 
+
+KIT D816V 
+
+Phase 1 enrolling 
+
+Blueprint Medicines 
+
+&#160; 
+
+GIST 
+
+PDGFR&#945; D842V 
+
+Phase 1 enrolling 
+
+&#160; 
+
+GIST 
+
+KIT Exon 17 mutants 
+
+Phase 1 enrolling 
+
+BLU &#8209;554 
+
+(FGFR4 inhibitor) 
+
+HCC 
+
+Aberrant FGFR4 signaling 
+
+Phase 1 enrolling 
+
+Blueprint Medicines 
+
+BLU-667 
+
+(RET activating mutations, &#160; RET fusions and predicted RET resistant mutants) 
+
+Non &#8209;small cell lung cancer and thyroid cancer 
+
+RET mutations and fusions 
+
+IND-enabling activities 
+
+Blueprint Medicines 
+
+NTRK and predicted NTRK resistant mutants 
+
+M ultiple cancer types 
+
+NTRK and predicted NTRK resistant mutants 
+
+IND-enabling activities 
+
+Blueprint Medicines 
+
+Oncology target 
+
+Oncology 
+
+Undisclosed 
+
+Lead optimization 
+
+Blueprint Medicines 
+
+Rare genetic disease target 
+
+Rare genetic disease 
+
+Undisclosed 
+
+Undisclosed 
+
+Alexion 
+
+&#160; 
+
+One of our lead drug candidates is BLU &#8209;285, which targets KIT Exon 17 mutants and PDGFR&#945; D842V, for patients with SM and defined subsets of patients with GIST. Our other lead drug candidate is BLU &#8209;554, which targets FGFR4, for a defined subset of patients with HCC. In June 2015, July 2015 and September 2015, respectively, the FDA &#160; accepted our IND &#160; application s for BLU-554 for the treatment of advanced HCC and cholangiocarcinoma , BLU-285 for the treatment of unresectable, treatment-resistant GIST and BLU-285 for the treatment of advanced SM. &#160; We have initiated dose-escalation Phase 1 clinical trial s for each of these indication s and are currently enrolling patients in each of these clinical trial s . &#160; We are also developing BLU-667, which is a drug candidate intended to target RET activating mutations, RET fusions and RET resistant mutants that we predict will arise from treatment with first generation therapies. &#160; 
+
+In addition, we have identified predicted resistance mutations in NTRK, some of which have recently been clinically observed by others . NTRK is believed to be a driver of disease in a broad set of cancers. We have nominated two development candidates for potential clinical development as inhibitors of NTRK and predicted NTRK resistant mutants . Leveraging our novel target discovery engine, we also have initiated efforts for a discovery program for an undisclosed kinase target and plan to nominate two more programs by the end of 2016, including at least one program focused on kinases as therapeutic targets in cancer immunotherapy. 
+
+All of our current programs target patient populations with genomically defined diseases. As we advance our drug candidates through clinical development, we will enrich our Phase 1 clinical trials by selecting patients most likely to respond to our drug candidates to confirm mechanistic and clinical proof of concept. We are working with a number of clinical advisors, with significant medical experience as oncologists and extensive drug development backgrounds. We may collaborate with third parties to develop and commercialize companion diagnostics and to develop assays to measure target engagement, pathway modulation and early response. F or example, we have entered into an agreement with Ventana Medical Systems, Inc. , or Ventana, to develop and commercialize a companion diagnostic for BLU-554 in order to identify HCC patients with abberantly active FGFR4 signaling as indicated by FGF19 overexpression. The table below lists the frequencies of each of the driver mutations targeted across multiple known diseases and the corresponding estimated number of patients in the United States, France, Germany, Italy, Spain, the United Kingdom and Japan, or the Major Markets, worldwide: &#160; 
+
+&#160;
+
+&#160; 
+
+Drug Candidates 
+
+Diseases 
+
+Estimated Number of Prevalent Patients* 
+
+Genomic 
+
+Drivers 
+
+Frequency of Mutations 
+
+(% of Patients) 
+
+United States 
+
+Total Major Markets 
+
+BLU &#8209; 285 
+
+SM 
+
+1,000 advanced SM 
+
+2,500 advanced SM 
+
+KIT D816V 
+
+Greater than or equal to 94% 
+
+&#160; 
+
+700 smoldering SM 
+
+1,800 smoldering SM 
+
+&#160; 
+
+6,300 indolent SM 
+
+16,000 indolent SM 
+
+&#160; 
+
+GIST** 
+
+8,000 total 
+
+20,000 total 
+
+PDGFR&#945; D842V 
+
+5-6% of primary GIST 
+
+&#160; 
+
+3,000 first line 
+
+8,000 first line 
+
+KIT Exon 17 
+
+&#60;1% first line 
+
+&#160; 
+
+2,700 second line 
+
+7,000 second line 
+
+23% second line 
+
+&#160; 
+
+2,300 third line 
+
+5,000 third line 
+
+&#62;90 % third line 
+
+BLU &#8209; 554 
+
+HCC** 
+
+16,000 first line 
+
+60,000 first line 
+
+Aberrant FGFR4 signaling 
+
+Up to 30% 
+
+&#160; 
+
+5,000 second line 
+
+20,000 second line 
+
+* &#160; The prevalence of HCC in China, South Korea, Taiwan and Singapore represents an additional opportunity for BLU &#8209;554 and is not included in these estimates. 
+
+** &#160; Prevalence represents metastatic and unresectable populations. 
+
+KIT Inhibitor Program 
+
+Overview 
+
+BLU &#8209;285 is an orally available, potent and selective inhibitor of several activating mutations of KIT that occur in Exon 17, which encodes a portion of the tyrosine kinase domain. BLU &#8209;285 also potently and selectively inhibits PDGFR&#945; D842V. Due to the high degree of structural similarity of the kinase domains of KIT and PDGFR&#945;, BLU &#8209;285 is able to inhibit both KIT Exon 17 mutants and the PDGFR&#945; D842V mutant potently and selectively with minimal inhibition of other kinases. 
+
+Kinome tree locations of KIT and PDGFR&#945; illustrating close structural similarity between these kinases. Each branch of the dendogram represents an individual human kinase. Kinome illustration reproduced courtesy of CSTI (www.cellsignal.com). The foregoing website is maintained by CSTI, and Blueprint Medicines is not responsible for its content. 
+
+BLU &#8209;285 is a highly targeted therapeutic candidate for genomically &#8209;selected patients with diseases driven by these mutations, including SM and genomically defined patient subsets within GIST. We plan to initially develop BLU &#8209;285 for these targeted patient populations, which currently lack adequate treatments. BLU &#8209;285 has demonstrated tumor regression in pre-clinical models of GIST and SM, including activity in aggressive and patient &#8209;derived xenograft models that we believe to be highly predictive of clinical response. This provides clear rationale to develop BLU &#8209;285 in genomically defined patient populations with tumors that harbor mutations in KIT Exon 17 or with PDGFR&#945; D842V and are most likely to respond. 
+
+We plan to initi ally develop BLU &#8209;285 for advanced SM, GIST with the PDGFR&#945; D842V mutation and relapsed or refractory GIST, which are the patient populations in which KIT Exon 17 mutations most frequently occur . In July 2015 and September 2015, respectively, the FDA &#160; accepted our IND &#160; application s for BLU-285 for the treatment of unresectable, treatment-resistant GIST and BLU-285 for the treatment of advanced SM. &#160; We have initiated dose-escalation Phase 1 clinical trial s for each of these indication s and are currently enrolling patients in each of these clinical trial s . &#160; We may expand into additional diseases driven by KIT Exon 17, including a subset of acu te myeloid leukemia. 
+
+&#160;
+
+Systemic Mastocytosis (SM) 
+
+SM Disease Background 
+
+SM is a myeloproliferative disorder of the mast cells, the key effector cells of allergic inflammation, which have several physiologic roles including wound healing, regulation of vascular and epithelial permeability and immune cell recruitment. In myeloproliferative diseases, the bone marrow overproduces certain types of red blood cells, platelets, or white blood cells. The signature of SM is the accumulation of mast cell clusters in the bone marrow. In advanced forms of SM, abnormal mast cells may also accumulate in the liver, spleen, gastrointestinal tract and bones. Mast cell activation and histamine release can lead to severe allergic symptoms ranging from a skin rash to hives, fever and anaphylaxis, while mast cell accumulation in advanced cases of SM can eventually lead to organ dysfunction and failure. 
+
+Patients with SM are usually diagnosed in adulthood. The diagnosis involves a complex diagnostic algorithm that begins with confirmation of SM and subsequently categorizes patients into indolent or advanced subtypes of disease, a classification that has prognostic significance as shown below. Patients with indolent SM, or ISM, have a normal life expectancy; the primary burden of disease is the range of often unpredictable and debilitating allergic symptoms due to mast cell activation. Advanced SM includes three subsets with increasingly severe impact on life expectancy: aggressive SM, or ASM, SM with associated clonal hematological non &#8209;mast cell lineage diseases, or SM &#8209;AHNMD, and mast cell leukemia, or MCL. The advanced forms of SM have a median overall survival of three to five years and are characterized by prominent organopathy and dysfunction, as well as symptoms of mast cell activation. Smoldering SM, or SSM, previously listed as a subcategory of ISM, is increasingly considered as a variant of advanced SM. While SSM is not known to affect life expectancy, it has a greater degree of bone marrow infiltration, myeloproliferation, and/or presents with an enlarged liver and bears a greater risk of progression to ASM, SM &#8209;AHNMD or MCL. 
+
+Overall survival of SM patients. Republished with permission of the American Society of Hematology, from &#8220; How I treat patients with indolent and smoldering mastocytosis &#8221; , A. Pardanani, Blood , 121(16):3085 &#8209; 3094 (2013); permission conveyed through Copyright Clearance Center, Inc. &#160; In the figure above, AHD refers to SM-AHNMD . 
+
+Population studies, including a population &#8209;based epidemiology study that we sponsored, based on the Danish National Health Registry, estimate the incidence of all subtypes of SM from &#160; 0.5 to 1/100,000 new patients per year. This represents approximately 3,200 new patients diagnosed per year in the United States. Of all SM patients, ISM accounts for 50 &#8209;80% and advanced SM accounts for the remaining 20 &#8209;50% of patients. 
+
+The current treatment paradigm for SM varies by disease subtype. With the exception of imatinib, which only addresses less than 6% of patients with the KIT D816V mutation, there are no approved therapies , leaving more than 94% of patients with the KIT D816V mutation with limited or no treatment options . For patients with advanced forms of SM, treatments include interferon &#8209;alpha or cytoreductive agents to reduce mast cell burden or treatments aimed at addressing the associated blood disorder. There are no disease &#8209;modifying agents and patients with advanced SM inevitably progress, with a three to five &#8209;year overall survival prognosis. We estimate there are approximately 4,300 addressable &#160; patients with advanced forms of SM , including SSM, in the Major Markets. 
+
+&#160;
+
+For ISM, management is symptom &#8209;directed and includes avoidance of triggers of mast cell activation (such as insect stings). Treatments for ISM include histamine blockers, cromolyn, epinephrine, and, in cases of refractory patients, cytoreductive agents. Within ISM, key opinion leaders see the greatest degree of unmet need for the fraction of patients who have a heavy symptom burden that current therapies fail to address. We believe there are approximately 16,000 ISM patients in the Major Markets. 
+
+KIT Driver Mutations in SM 
+
+In all subtypes of SM, the mast cells of more than 94% of patients display a mutation at the D816V position in KIT that activates the kinase. KIT D816V status is routinely assessed as part of the workup in SM diagnosis. 
+
+KIT signaling is needed for normal blood cell production, including the differentiation and survival of mast cells. In patients with SM, abnormal mast cells bearing the KIT D816V mutation undergo constitutive kinase activation, leading to continuous survival and proliferative signals. Rare cases of SM have been found where alternative mutations in KIT occur that are responsive to imatinib . I n these cases, treatment with imatinib can reduce mast cell burden in the bone marrow and other organs and improve symptoms, thereby clinically validating KIT as a therapeutic target for SM. 
+
+BLU &#8209;285 Pre &#8209;clinical Development in SM 
+
+We conducted comprehensive biochemical and cellular experiments to characterize the potency and selectivity of BLU &#8209;285. BLU &#8209;285 potently inhibits KIT D816V in vitro (IC 50 , or the compound concentration at which 50% of the activity is inhibited relative to control lacking compound, = 0.27 nM). In contrast, imatinib inhibits KIT D816V at least 10,000 &#8209;fold less potently (IC 50 &#62; 8,000 nM). In several cellular models driven by activated KIT mutant proteins, BLU &#8209;285 potently inhibits signaling of the oncogenic KIT mutant protein, as measured by inhibition of KIT autophosphorylation and inhibition of cellular proliferation. In HMC 1.2 cells, a human mast cell leukemia model driven by the KIT D816V mutation, BLU &#8209;285 potently inhibits signaling of the mutant KIT protein as measured by inhibition of KIT autophosphorylation (IC 50 &#160;= 4 nM). In contrast, imatinib inhibits KIT autophosphorylation at least 2,000 &#8209;fold less potently. In P815 cells, a mouse mastocytoma model driven by an Exon 17 mutation, BLU &#8209;285 potently inhibits signaling of the mutant KIT protein as measured by inhibition of KIT autophosphorylation (IC 50 &#160;= 22 nM) as well as cellular proliferation (IC 50 &#160;= 202 nM). By comparison, imatinib shows considerably lower cellular potency in the P815 model. 
+
+KIT D816V Inhibition 
+
+Potency of BLU &#8209;285 against KIT D816 and other Exon 17 mutations compared to imatinib. The inhibitory potencies of BLU &#8209;285 and imatinib against the KIT D816V mutant protein were evaluated in an in vitro enzyme activity assay. The inhibitory potencies of BLU &#8209;285 and imatinib were also evaluated in two cell lines harboring KIT Exon 17 mutations, HMC 1.2 cells and P815 cells. Inhibition of KIT cellular signaling was measured by inhibition of KIT autophosphorylation (P &#8209;KIT). Inhibition of cellular proliferation was also measured in P815 cells. 
+
+The selectivity of BLU &#8209;285 was further evaluated by profiling BLU &#8209;285 at a concentration of 3 &#181;M across a panel of over 450 kinases and disease &#8209;relevant kinase mutants using KINOME scan methodology. BLU &#8209;285 demonstrated exquisite selectivity for KIT Exon 17 mutant proteins and PDGFR&#945; D842V in this assay, binding significantly (greater than 90% inhibition relative to control) to only 12 other kinases. We also profiled midostaurin, a multi &#8209;kinase inhibitor with KIT D816V inhibitory activity (an inhibitory activity not present in imatinib), that is being studied in clinical trials of SM patients. Midostaurin demonstrated significant binding (greater than 90% inhibition relative to control at 3 &#181; M) to 118 kinases, as indicated by the number of dots on the kinome tree shown below. We believe multi &#8209;kinase inhibitors that demonstrate in vitro activity against KIT D816V may not achieve full inhibition of KIT D816V in the clinic due to poor selectivity and the resulting dose limitations imposed by off &#8209;target toxicities. 
+
+&#160;
+
+Kinome selectivity of BLU &#8209;285 and a reference compound that has been studied in clinical trials of SM. Compounds were screened at 3 &#181;M against a panel of over 450 kinases and disease &#8209;relevant mutants. Each branch of the dendogram represents an individual human kinase. Kinases bound by the compound are indicated by red circles on the kinome tree. The degree of binding corresponds to the size of the circle. Kinome illustration reproduced courtesy of CSTI (www.cellsignal.com). The foregoing website is maintained by CSTI, and Blueprint Medicines is not responsible for its content. 
+
+We demonstrated significant anti &#8209;tumor efficacy with BLU &#8209;285 in a P815 mouse mastocytoma xenograft model where tumor growth is driven by a KIT Exon 17 mutation. BLU &#8209;285 administered orally for nine days resulted in robust and dose &#8209;dependent growth inhibition of P815 tumors. At a dose of 30 mg/kg once daily, a well &#8209;tolerated dose, BLU &#8209;285 caused tumor regression. We observed a correlation between the concentration of BLU &#8209;285 in mouse plasma and the level of phosphorylated KIT in the tumor, which is a measure of KIT signaling activity. At a dose of 30 mg/kg, the level of phosphorylated KIT was inhibited by greater than or equal to 90% over the 24 hour dosing period. This is an expected consequence of inhibiting KIT signaling. This correlation between BLU &#8209;285 plasma concentration, the level of phosphorylated KIT protein and anti &#8209;tumor efficacy supports the observation that the anti &#8209;tumor response is due to inhibition of KIT signaling. The anti &#8209;tumor efficacy of dasatinib, a multi &#8209;kinase inhibitor with KIT D816V activity, which has been studied in clinical trials of SM patients, was also evaluated in this study. Dasatinib dosed twice daily &#160; at 25 mg/kg, a dose that resulted in significant body weight loss in mice, had only a modest effect on tumor growth. 
+
+BLU &#8209;285 elicits dose &#8209;dependent tumor regression in a mouse mastocytoma xenograft model of SM. &#160; In the figure above, &#160; QD means once a day , BID means twice a day and PO means orally. 
+
+To emulate the systemic nature of the disease, we developed an aggressive systemic mouse model of SM. In this model, whereas vehicle &#8209;treated animals were terminated on day seven due to high disease burden, treatment with BLU &#8209;285 enabled significant disease control such that animals treated with BLU &#8209;285 at 30 mg/kg were terminated on day 22. 
+
+Phase 1 Clinical Trial for BLU &#8209;285 for the Treatment of Advanced SM 
+
+In September 2015, the FDA accepted our IND application for BLU-285 for the treatment of advanced SM. We have initiated a dose-escalation Phase 1 clinical trial for this indication and dosed the first patient in the clinical trial in March 2016 . In addition, in January 2016, the FDA granted orphan drug designation to BLU-285 for the treatment of SM. &#160; W e expect preliminary data for this Phase 1 clinical trial to be available by the end of 2016. 
+
+&#160;
+
+Our Phase 1 clinical trial for BLU-285 for the treatment of advanced SM will evaluate the safety and tolerability of BLU-285 in multiple ascending doses in patients with advanced SM, including ASM, SM &#8209;AHNMD and MCL with the goal of establishing a maximum tolerated dose, or MTD, or a recommended dose if the MTD is not achieved. All patients will be tested retrospectively for KIT D816V mutational status. Once the MTD is reached, or a recommended dose is established, we will evaluate whether to open expansion cohorts for specific subtypes of SM. Secondary objectives for this clinical trial include assessment of the pharmacokinetic profile of BLU-285, assessment of response rate by the International Working Group Myeloproliferative N eoplasms Research and Treatment, or IWG-MRT , criteria, changes in KIT D816V mutant allele fractions in bone marrow and circulating tumor DNA, and changes in patient reported outcomes. &#160; The Phase 1 clinical trial is designed to enroll up to 60 patients , including up to 25 patients during dose escalation and up to 35 additional patients if we decide to open expansion cohorts, at multiple sites in the United States and the European Union. 
+
+Early signs of biological activity will be assessed as measured by changes in serum tryptase and KIT D816V allele burden. Serum tryptase is a recognized marker of mast cell burden and reduction of serum tryptase is one component of the IWG - MRT response criteria. If we decide to open expansion cohorts for this Phase 1 clinical trial , clinical &#160; activity will be assessed by measuring overall response rate using IWG - MRT response criteria for SM, or a modified version thereof. In addition, change in symptom score will be assessed to determine the effect of BLU &#8209;285 on symptom burden. As there is currently no validated patient reported outcomes tool for SM, we are collaborating with a health research outcomes group to develop a disease-specific tool to measure changes in total symptom score. We anticipate conducting additional trials to support development in SSM and ISM patients with high symptom burden who are refractory to current therapies. 
+
+We are working with patient advocacy groups relevant to SM in order to: 
+
+&#183; 
+
+raise awareness of our Phase 1 clinical trial for BLU-285 for the treatment of advanced SM ; 
+
+&#183; 
+
+recruit patients to join a patient registry that we launched in December 2015 to help improve the understanding of mastocytosis from the perspective of patients &#160; and to increase participation and enrollment in clinical trials for mastocytosis that we or others may conduct in the future ; and 
+
+&#183; 
+
+incorporate the SM patient perspective into our ongoing activities. 
+
+Gastrointestinal Stromal Tumor (GIST) 
+
+GIST Disease Background 
+
+GIST is the most common sarcoma of the gastrointestional tract, or GI tract. Tumors arise within cells in the wall of the GI tract and occur most often in the stomach or small intestine. Most patients are diagnosed between the ages of 50 &#8209;80 with diagnosis triggered by GI bleeding, incidental findings during surgery or imaging, or in rare cases acute presentation due to tumor rupture or GI obstruction. The standard workup at primary presentation includes pathologic confirmation and imaging to assess extent of disease. 
+
+The GIST treatment paradigm has advanced dramatically over the past 13 years. Patients diagnosed with localized disease undergo potentially curative tumor resection, while imatinib is given to high risk resected patients to prolong the time to recurrence. The advent of imatinib has improved the prognosis of patients with unresectable or metastatic disease to a 5 &#8209;year median overall survival. Unresectable or metastatic patients typically receive imatinib, followed by sunitinib and regorafenib as the disease progresses. 
+
+Patients with PDGFR&#945; D842V &#8209;driven GIST have great unmet medical need, as no approved medical therapies are effective. Progression can occur within as little as three months, and the median overall survival is 15 months for patients with advanced disease. The PDGFR&#945; D842V mutation is found in 5 &#8209;6% of frontline unresectable or metastatic GIST patients. We estimate there are up to 500 addressable patients with PDGFR&#945; D842V &#8209;driven, unresectable or metastatic GIST in the Major Markets. 
+
+For patients with KIT &#8209;driven GIST, current medical therapies slow the course of disease but progression is inevitable in most cases. Up to 50% of patients treated with frontline imatinib relapse within approximately 18 months. Of the secondary resistance mutations that lead to relapse, mutations in KIT Exon 17 are not addressed by current 
+
+&#160;
+
+therapies. KIT Exon 17 mutations are rare in treatment &#8209;na&#239;ve patients (&#60;1%); however selective pressure due to treatment with imatinib and sunitinib causes KIT Exon 17 mutations to emerge with increasing frequency (approximately 23% of second line imatinib &#8209;resistant patients and more than 90% of third line imatinib/sunitinib resistant patients). These mutations confer resistance to current treatments. A therapy that effectively suppresses these mutants and that is potentially amenable to combinations with existing agents is needed. We estimate there are approximately 6,600 addressable patients in the Major Markets with relapsed or refractory GIST, which are the patient populations in which KIT Exon 17 mutations most frequently occur. Finally, we believe frontline combinations with imatinib will have the potential to dramatically increase the duration of response . We estimate there are approximately 20,000 addressable patients in the Major Markets with unresectable or metastatic frontline GIST. 
+
+KIT Primary, KIT Exon 17 and PDGFR&#945; Driver Mutations in GIST 
+
+GIST is a tumor type that depends on continued signaling of a single, aberrantly active kinase. Most GISTs result from primary mutations in KIT or PDGFR&#945;. Up to 80% of patients have KIT &#8209;driven GIST. Imatinib effectively inhibits most of KIT primary mutations; however over tim e, secondary mutations occur elsewhere in the KIT gene that lead to kinase activation despite the presence of imatinib, thereby leading to disease progression. The most common mutation in the PDGFR&#945; gene is D842V, found in approximately 5 &#8209;6% of frontline unresectable or metastatic GIST patients. There is currently no therapeutic option for patients with PDGFR&#945; D842V mutant &#8209;driven GIST. PDGFR&#945; has a very similar active site structure to KIT and the PDGFR&#945; D842V mutation is homologous to KIT D816V. As in the case of KIT Exon 17 mutant receptors, PDGFR&#945; D842V mutations confer ligand &#8209;independent constitutive signaling of the mutant PDGFR&#945; kinase. 
+
+BLU &#8209;285 Pre &#8209;clinical Development in GIST 
+
+We have conducted comprehensive pre-clinical experiments to characterize the potency and selectivity of BLU &#8209;285. BLU &#8209;285 potently inhibits PDGFR&#945; D842V in vitro (IC 50 &#160;= 0.24 nM). In contrast, imatinib inhibits PDGFR&#945; D842V at least 3,000 &#8209;fold less potently (IC 50 &#160;= 759 nM). In a cellular model driven by an activated PDGFR&#945; D842V mutant protein, BLU &#8209;285 potently inhibits signaling of the oncogenic PDGFR&#945; mutant protein as measured by inhibition of PDGFR&#945; autophosphorylation (IC 50 &#160;= 30 nM). By comparison, imatinib shows at least 100 &#8209;fold lower potency in the cellular model (IC 50 &#160;= 3,145 nM). The selectivity of BLU &#8209;285 has been discussed with the KINOME scan data shown in the section on SM. 
+
+PDGFR&#945; D842V Inhibition 
+
+Inhibitory potency of BLU &#8209;285 compared to imatinib. The inhibitory potency of BLU &#8209;285 and imatinib against PDGFR&#945; D842V was evaluated in an in vitro enzyme activity assay and in a cellular model driven by an activated PDGFR&#945; D842V mutant protein. 
+
+We have demonstrated significant anti &#8209;tumor efficacy with BLU &#8209;285 in an imatinib - resistant patient &#8209;derived xenograft model with a KIT Exon 17 resistance mutation, similar to what is fo und in relapsed/refractory KIT &#8209; driven GIST as shown below. BLU &#8209;285 administered orally for 25 days resulted in tumor regression at the two highest tested doses , which were well tolerated . 
+
+&#160;
+
+BLU &#8209;285 elicits dose &#8209;dependent tumor regression in a patient &#8209;derived GIST xenograft model with a KIT Exon 11 mutation and a KIT Exon 17 resistance mutation. &#160; In the figure above, QD means once a day and BID means twice a day. 
+
+In addition, we have developed an understanding of the biology that will inform the development of combinations to address these resistance mutations. We performed a comprehensive analysis of these secondary KIT Exon 17 mutations, analyzing the literature and unpublished data from opinion leaders to understand which mutations occur and to quantify their frequency in the clinical setting. We also conducted a series of in vitro biochemistry experiments using compounds from our proprietary compound library and currently available therapies (imatinib, sunitinib and regorafenib) to interrogate their activity against the range of KIT Exon 17 mutations. The result is a deep understanding of the spectrum of activity of BLU &#8209;285, additional compounds from our proprietary compound library and available therapies across the range of possible mutations. This will enable combination therapy development to address KIT Exon 17 secondary mutations. 
+
+Phase 1 Clinical Trial for BLU &#8209;285 for U nresectable, T reatment- R esistant GIST 
+
+In July 2015, the FDA accepted our IND application for BLU-285 for the treatment of unresectable, treatment-resistant GIST. We have initiated a dose-escalation Phase 1 clinical trial for this indication and are currently enrolling patients in the clinical tri al. In addition, in January 2016, the FDA granted orphan drug designation to BLU-285 for the treatment of GIST. W e expect preliminary data for this Phase 1 clinical trial to be available by the end of 2016. 
+
+Our Phase 1 clinical trial for BLU-285 for the treatment of unresectable, treatment-resistant GIST will evaluate the safety and tolerability of BLU-285 in multiple ascending doses with the goal of establishing a n MTD &#160; or a recommended dose if the MTD is not achieved. All patients will be tested retrospectively for both KIT Exon 17 and PDGFR&#945; D842 mutational status. Once the MTD is reached, or a recommended dose is established, we will evaluate whether to open expansion cohorts for patients who have received imatinib and at least one other KIT-directed tyrosine kinase inhibitor that selects for disease with the KIT Exon 17 mutation and for patients with disease carrying a PDGFR&#945; D842 mutation . Secondary objectives include assessing response rate by Response Evaluation Cr iteria In Solid Tumors, or RECIST , criteria commonly used to measure clinical responses in solid tumors, the pharmacokinetics of BLU-285 and allelic burden using circulating tumor DNA. The Phase 1 clinical trial is designed to enroll up to 60 patients , including up to 25 patients during dose escalation and up to 35 additional patients if we decide to open expansion cohorts, at multiple sites in the United States, European Union and Asia. 
+
+If we decide to open expansion cohorts for this Phase 1 clinical trial , clinical &#160; activity will be assessed using MRI and CT imaging to assess overall response rate by RECIST criteria. Once the tolerability and biological activity of BLU &#8209;285 monotherapy is understood, we anticipate conducting additional studies with BLU &#8209;285 in combination with other therapies selected to address the broadest possible spectrum of mutations in GIST, including a potential front line study of BLU &#8209;285 with imatinib. 
+
+We are working with patient advocacy groups relevant to GIST in order to: 
+
+&#183; 
+
+raise awareness of our upcoming clinical trial; 
+
+&#160;
+
+&#183; 
+
+identify and use existing patient registries to identify patients for rapid enrollment; and 
+
+&#183; 
+
+incorporate the GIST patient perspective into our ongoing activities. 
+
+FGFR4 Inhibitor Program 
+
+Overview 
+
+BLU &#8209;554 is an orally available, potent, selective and irreversible inhibitor of the kinase FGFR4. FGFR4 functions as a receptor whose aberrant activation is a driver of HCC. FGFR4 belongs to a family of highly homologous receptors, which include FGFR1 &#8209;4. BLU &#8209;554 targets FGFR4, while sparing the other three FGFR paralogs, and demonstrates exquisite kinome selectivity. Pre &#8209;clinical in vitro and in vivo efficacy data provides a strong rationale for the development of BLU &#8209;554 for the subset of HCC patients whose tumors are driven by aberrant FG FR4 signaling. Based on a meta- analysis of publicly available HCC genomic datasets, we estimate that up to 30% of patients with HCC have tumors with aberrantly activated FGFR4 signaling. 
+
+HCC Disease Background 
+
+Liver cancer is the second leading cause of cancer &#8209;related deaths worldwide, with HCC accounting for most liver cancers. The highest incidence of HCC occurs in regions with endemic hepatitis B virus, or HBV, including Southeast Asia and sub &#8209;Saharan Africa. In the United States, HCC is the fastest rising cause of cancer &#8209;related death. Over the past two decades, the incidence of HCC has tripled while the five &#8209;year survival rate has remained below 12%. 
+
+Cirrhosis is a key risk factor for HCC &#8212; the disease etiology varies by geography with the common theme of chronic conditions that lead to cirrhosis. In North America, the main risk factors for cirrhosis are infection with hepatitis C virus, or HCV, followed by HBV infection, alcohol consumption and nonalcoholic steatohepatitis. In the European Union , the main risk factors for cirrhosis are HCV, HBV and alcohol consumption. In Asia and sub &#8209;Saharan Africa, the major risk factor is chronic HBV infection. 
+
+The diagnosis of HCC is typically made in adults, peaking around age 70. Disease management is complicated by concurrent liver disease, which often compromises liver function in these patients. Patients are staged depending on extent of liver disease, performance status and liver function status; these factors guide treatment selection. The stage distribution at diagnosis varies by region. For example, countries such as Taiwan and Japan with active national screening programs tend to diagnose many more patients in the early stages of disease. There are currently no treatments for molecularly defined patient subgroups in HCC. 
+
+The HCC treatment paradigm has advanced incrementally over the past decade. Patients diagnosed at an early stage receive potentially curative transplant, resection or ablative therapies. Intermediate to advanced stage patients receive high &#8209;dose chemotherapy delivered directly to the liver (transarterial chemoembolization) and ultimately sorafenib, the only approved systemic therapy for HCC, which became broadly available in the late 2000s. Sorafenib is a multi &#8209;kinase inhibitor that targets VEGFR and many other kinases and exhibits anti &#8209;angiogenic effects. In a pivotal trial conducted primarily in European Union and U.S. sites, sorafenib improved median overall survival by approximately three months , and 2% of patients responded. In clinical practice, patients often require dose modifications or discontinue therapy due to tolerability issues. There is a clear need for medical therapies with a favorable risk &#8209;benefit profile. 
+
+FGFR4 as a Driver in HCC 
+
+The link between aberrant FGFR4 signaling and HCC was first established when an amplicon, a region of replicated DN A, that includes FGF19, the ligand that activates FGFR4, was identified in HCC patients. We estimate that more than 5% &#160; of tumors of HCC patients have this amplicon . The physiologic role of the receptor, FGFR4, and its ligand, FGF19, is to regulate bile acid metabolism in hepatocytes and liver regeneration following injury . FGF19 is normally produced in the small intestine and signals to hepatocytes through an endocrine mechanism. FGF19 forms an active signaling complex together with FGFR4 and its co &#8209;receptor Klotho &#8209;&#946;. Signaling of the active complex leads to decreased CYP7A1 transcription with a resultant decrease in bile acid synthesis, as well as increased growth, proliferation and survival signals. 
+
+&#160;
+
+FGFR4 Signaling in the Liver 
+
+Subsequent data suggest that FGFR4 signaling is a driver in a subset of HCC patients in whom the pathway is aberrantly activated. In these patients, FGF19 is overexpressed in hepatocytes (which do not normally express FGF19), leading to autocrine signaling and tumor growth. Pre &#8209;clinical experiments in a genetically engineered mouse model demonstrate that exogenous FGF19 expression is sufficient to induce liver tumor growth and that tumorigenesis is dependent on FGFR4. The three elements that constitute an active FGFR4 signaling complex, FGF19, FGFR4 and Klotho &#8209;&#946;, are expressed together uniquely in HCC, although it is possible that they may also occur in rare cases of other solid tumors. 
+
+We have used our novel drug discovery platform to identify a potentially broader target responder population in addition to the FGF19 &#8209;amplified patient population. In collaboration with a key opinion leader, we have determined that an additional approximately one quarter of HCC tumors overexpress FGF19 without amplification. We have also demonstrated a significant anti &#8209;tumor response with an FGFR4 inhibitor in an HCC patient &#8209;derived xenograft model that overexpresses FGF19 in the absence of amplification. Some of these results were published in Cancer Discovery in 2015 . Based on a meta-analysis of publicly available HCC genomic datasets, we estimate that up to 30% &#160; of patients with HCC have tumors with aberrantly activated FGFR4 signaling. 
+
+Th e FGFR4 signaling pathway is a promising new driver for the development of molecularly targeted therapy in HCC. We estimate that in the Major Markets, there are approximately 18 ,000 first line and 6 ,000 second line addressable HCC patients with aberrantly active FGFR4 signaling as indicated by FGF19 overexpression. 
+
+BLU-554 Pre-clinical Development in HCC 
+
+Efforts to discover selective, reversible inhibitors of FGFR4 have been challenging given the high sequence similarity among the four FGFR paralogs. A cysteine located near the ATP binding site in FGFR4 is unique among the paralogs. We therefore focused on developing a covalent inhibitor with paralog specificity and kinome selectivity. Our team of experienced medicinal chemists applied structure &#8209;based design principles to develop a potent and selective FGFR4 inhibitor starting from known FGFR inhibitor templates. This effort yielded our development candidate, BLU &#8209;554. We have conducted comprehensive in vitro experiments to characterize the potency and selectivity of BLU &#8209;554. BLU &#8209;554 potently inhibits FGFR4 enzyme activity (IC 50 &#160;= 5 nM) and inhibits the activity of FGFR1 &#8209;3 at least 100 &#8209;fold less potently (IC 50 &#8805; 600 nM). In contrast, pan &#8209;FGFR inhibitors such as BGJ &#8209;398 fail to exhibit paralog specificity. The selectivity of BLU &#8209;554 was further evaluated by profiling BLU &#8209;554 at a concentration of 3 &#181;M across a panel of over 450 kinases and disease relevant kinase mutants using KINOME scan methodology. BLU &#8209;554 displayed significant binding (greater than 90% inhibition relative to control) only to FGFR4 in this assay. In contrast, BGJ &#8209;398 significantly bound to 14 kinases (greater than 90% inhibition relative to control). 
+
+&#160;
+
+Paralog selectivity of BLU-554 compared to the pan-FGFR inhibitor BGJ-398. The inhibitory potency of BLU-554 and BGJ-398 against each of the FGFR paralogs was evaluated in an in vitro enzyme activity assay. 
+
+Kinome selectivity of BLU-554 as determined using the KINOME scan assay. BLU-554 was screened at 3 &#181;M against a panel of over 450 kinases and disease &#8209;relevant mutants. Each branch of the dendogram represents an individual human kinase. Kinases bound by the compound are indicated by red circles on the kinome tree. The degree of binding corresponds to the size of the circle. Kinome illustration reproduced courtesy of CSTI (www.cellsignal.com). The foregoing website is maintained by CSTI, and Blueprint Medicines is not responsible for its content. 
+
+We demonstrated significant anti-tumor efficacy with BLU &#8209;554 in two in vivo HCC xenograft models where tumor growth is driven by FGFR4 signaling. BLU &#8209;554 administered orally for 21 days resulted in robust and dose &#8209;dependent growth inhibition of Hep3B tumors, an FGF19 &#8209;amplified model. At a dose of 100 mg/kg twice dai ly, a well &#8209;tolerated dose, BLU &#8209; 554 induced complete remission in a subset of mice for at least 30 days after cessation of treatment. We observed a correlation between the concentration of BLU &#8209;554 in mouse plasma and the level of expression of CYP7A1, a downstream biomarker, in the tumor. At the 100 mg/kg twice daily dose, significant induction of CYP7A1 expression was seen, which is an expected consequence of inhibiting FGFR4 signaling. This correlation between BLU &#8209;554 plasma concentration, the level of induction of CYP7A1 expression and anti &#8209;tumor efficacy supports that the observed anti &#8209;tumor response is due to inhibition of FGFR4 signaling. 
+
+BLU &#8209;554 elicits dose &#8209;dependent tumor inhibition in the Hep3B tumor xenograft mouse model, a model of FGF19 amplification. In the figure above, &#160; BID means twice a day and PO means orally. 
+
+&#160;
+
+Aberrant FGFR4 signaling can also be driven by FGF19 overexpression in the absence of amplification. Hence, we have also evaluated the anti &#8209;tumor efficacy of BLU &#8209;554 in a patient &#8209;derived xenograft model driven by FGF19 overexpression in the absence of amplification. Treatment with BLU &#8209;554 led to dose &#8209;dependent tumor growth inhibition. The anti &#8209;tumor efficacy of sorafenib, the only approved systemic treatment for HCC, was also evaluated in this study. Sorafenib dosed once daily at 40 mg/kg, a dose that led to body weight loss in the mice, had only a modest effect on tumor growth. 
+
+BLU &#8209;554 elicits dose &#8209;dependent tumor inhibition in a patient &#8209;derived tumor xenograft mouse model in which tumor growth is driven by FGF19 overexpression in the absence of FGF19 amplification. In the figure above, &#160; QD means once a day , BID means twice a day and PO means orally. 
+
+Taken together, the data presented above indicate that potent and selective FGFR4 inhibition leads to robust anti &#8209;tumor effects in in vivo models where tumor growth is driven by FGF19 amplification or FGF19 overexpression in the absence of amplification. 
+
+These findings, together with our estimate that , &#160; b ased on a meta - analysis of publicly available HCC genomic datasets , &#160; up to 30% &#160; of patients with HCC have tumors with aberr antly activated FGFR4 signaling, provide critical information to identify a potential responder population and inform ed patient selection criteria in our Phase 1 clinical trial. 
+
+Phase 1 Clinical Trial for BLU-554 for the Treatment of Advanced HCC and Cholangiocarcinoma 
+
+In June 2015, the FDA accepted our IND application for BLU-554 for the treatment of advanced HCC and cholangiocarcinoma. Cholangiocarcinoma is another cancer in which aberrantly activated FGFR4 signaling may play a role. We have initiated a dose-escalation Phase 1 clinical trial for this indication and are currently enrolling patients in the clinical trial. In addition, in September 2015, the FDA granted orphan drug designation to BLU-554 for the treatment of HCC. W e expect preliminary data for this Phase 1 clinical trial to be available by the end of 2016. 
+
+Our Phase 1 clinical trial for BLU-554 will evaluate the safety and tolerability of BLU-554 in multiple ascending doses in patients with HCC with the goal of establishing an MTD or a recommended dose if the MTD is not achieved. Once the MTD is reached, or a recommended dose is established, we will evaluate whether to open expansion cohorts &#160; for patients with FGF19-positive disease . Secondary objectives include assessing overall response rate by RECIST criteria, the pharmacokinetics of BLU-554 and pharmacodynamics markers of BLU-554 activity. The Phase 1 clinical trial is designed to enroll up to 60 patients , including up to 25 patients during dose escalation and up to 35 additional patients if we decide to open expansion cohorts, at multiple sites in the United States, European Union and Asia. &#160; &#160; 
+
+Early signs of biological activity will be assessed using disease &#8209;specific circulating biomarkers including serum alpha &#8209;fetoprotein and, when on &#8209;treatment biopsies are available, pharmacodynamic markers such as CYP7A1 expression. Clinical activity will be assessed using MRI and CT imaging to assess overall response rate by RECIST criteria. We anticipate conducting additional trials to support development in front &#8209;line advanced HCC. Additional development beyond HCC will be considered pending further evidence of FGFR4 pathway relevance in cholangiocarcinoma and other solid tumors. 
+
+&#160;
+
+RET Program 
+
+Overview 
+
+BLU-667 is an orally available, potent selective inhibitor of the kinase RET and predicted RET resistant mutants . RET is a receptor tyrosine kinase that activates multiple downstream pathways involved in cell proliferation and survival. RET can be activated by mutation or when a portion of the RET gene that encodes the kinase domain is joined to part of another gene creating a fusion gene that encodes an aberrantly activated RET fusion protein. RET activating mutations are implicated in medullary thyroid cancer (approximately 50% of patients), and RET fusions are implicated in several cancers, including papillary thyroid carcinoma (approximately 10% of patients) and non &#8209;small cell lung cancer (1 &#8209;2% of patients). Our genomics analyses on the landscape of kinase fusions, published in Nature Communications in 2014, identified RET fusions in breast and colon cancer patient samples (both &#60;1% of patients), providing a therapeutic rationale for the use of RET inhibitors in multiple patient subpopulations . 
+
+The identification of RET fusions as drivers in some cancers prompted the use of approved multi &#8209;kinase inhibitors with RET inhibitory activity to treat patients whose tumors express a RET fusion protein. However, we believe these drugs cannot be dosed at levels required to sufficiently inhibit RET due to toxicities that result from inhibition of the primary targets. Further, one of the greatest challenges in treating cancer is the ability of tumor cells to become resistant to therapy. Kinase reactivation via mutation is a common mechanism of resistance. We have predicted future resistance mutations of drugs with RET inhibitory activity and are collaborating with opinion leaders to understand patterns of emerging clinical resistance. Thus, there is a clear need for a selective RET inhibitor that targets both wild &#8209;type RET fusions and their predicted RET resistant mutants. 
+
+BLU- 667 Pre-clinical Development in RET 
+
+We have conducted pre-clinical experiments to characterize the potency of BLU-667 and BLU6864, a structurally related compound that we identified in the course of developing BLU-667, that inhibit s both wild &#8209;type and mutant RET kinases , in biochemical and cellular assays. 
+
+BLU-667 and BLU6864 potently inhibit the kinase activity of both wild &#8209;type RET and predicted RET resistant mutants in vitro ( BLU-667 IC 50 of 0 .5 nM and 0. 3 nM, respectively , and BLU6864 IC 50 of 1.5 nM and 0.9 nM, respectively). We have also assessed a panel of seven clinically &#8209;approved m ulti &#8209; kinase inhibitors with RET inhibitory activity in these assays. These compounds inhibit the kinas e activity of the RET resistant mutant between 1 to &#62;1000 &#8209;fold less potently than wild &#8209;type RET. In cellular models driven by either a wild &#8209;type RET fusion or resistant RET fusion s , BLU-667 and BLU6864 &#160; exhibited similar potent growth inhibitory activity in both cell lines (IC 50 of 105 nM and 160 nM, respectively). In contrast, the multi &#8209;kinase inhibitors exhibited between 1 to &#62;100 &#8209;fold less growth inhibitory activity against the cell line driven by the mutant RET fusion as compared to the wild &#8209;type RET fusion. 
+
+&#160; 
+
+&#160; 
+
+Biochemical 
+
+Cellular 
+
+IC 50 (nM) 
+
+RET wt 
+
+RET Resistant 
+
+Mutant 
+
+KDR/ 
+
+VEGFR2 
+
+RET wt 
+
+RET Resistant 
+
+Mutant 
+
+BLU-667 
+
+0.5 
+
+0.3 
+
+16.2 
+
+21.7 
+
+BLU6864 (tool compound) 
+
+1.5 
+
+0.9 
+
+105 
+
+Vandetanib 
+
+1.8 
+
+4 
+
+9190 
+
+Cabozantinib 
+
+265 
+
+344 
+
+Regorafenib 
+
+9.8 
+
+11 
+
+2884 
+
+Sorafenib 
+
+5.6 
+
+20 
+
+2816 
+
+Ponatinib 
+
+0.6 
+
+2 
+
+267 
+
+Lenvatinib 
+
+1.5 
+
+4 
+
+13572 
+
+Sunitinib 
+
+2.7 
+
+1.6 
+
+734 
+
+&#160; 
+
+Potency of BLU-667 and BLU6864, RET inhibitor s , against wild &#8209;type RET and a predicted RET resistant mutant compared to a panel of clinically &#8209;approved multi &#8209;kinase inhibitors with RET inhibitory activity. The inhibitory potencies of BLU-667, BLU6864 and the multi &#8209;kinase inhibitors against wild &#8209;type RET , RET resistant mutant protein and KDR/VEGFR2 were evaluated in in vitro enzyme activity assays. The inhibitory potencies of these compounds were also evaluated in cell lines driven by either a wild &#8209;type RET fusion or a mutant RET fusion. 
+
+&#160;
+
+We have demonstrated significant anti &#8209;tumor efficacy with BLU6864 in both a wild &#8209;type RET fusion xenograft and a predicted RET resistant mutant xenograft. Administration of our compound orally once daily for 11 days in a wild &#8209;type RET fusion xenograft and for 14 days in a predicted RET resistant mutant xenograft &#160; resulted in robust and dose &#8209;dependent tumor growth inhibition. At a dose of 60 mg/kg once daily, a well &#8209;tolerated dose, the compound induced tumor regression in both models. The anti &#8209;tumor efficacy of a multi &#8209;kinase inhibitor with RET inhibitory activity that is being evaluated in the clinic for treatment of patients with RET fusion positive lung cancer (reference compound) was also evaluated in these models. This reference compound, dosed orally once daily at 20 mg/kg, a well &#8209;tolerated dose, inhibited tumor growth in the wild &#8209;type RET fusion xenograft. At the same dose level in the RET resistant mutant xenograft, this reference compound showed diminished inhibition of tumor growth. 
+
+BLU6864, a RET inhibitor, elicits dose dependent tumor growth inhibition in both a wild type RET fusion xenograft and a predicted RET resistant mutant xenograft model. In the figure above, &#160; QD means once a day. 
+
+We plan to initiate 28-day GLP toxicology studies for BLU-667 in the first half of 2016 with the goal of identifying the dose limiting toxicity and anticipated first-in-human dose for BLU-667. We plan to file an IND for BLU-667 by the end of 2016. 
+
+Pre &#8209;clinical Development of Immunokinase Inhibitors 
+
+Leveraging our novel target discovery engine, we plan to conduct pre-clinical studies focused on kinases as therapeutic targets in cancer immunotherapy , also referred to as immunokinase s. We plan to develop inhibitors to modulate pathways in both T &#8209;cells and other cell types in order to mobilize the immune system to target and slow the growth of, or eradicate, tumor cells. In addition to targeting kinases that are already known to play a role in the immune response, we plan to use our tool compounds to discover KUBs &#160; that modulate key pathways in tumor immune surveillance through cell &#8209;based screening. Our immunokinase research is intended to address the medical need for novel agents used alone or in combination with other therapies that enhance anti &#8209;tumor immune responses. 
+
+Collaborations 
+
+In March 2015, we entered into a research, development and commercialization agreement with Alexion to research, develop and commercialize drug candidates for an undisclosed activated kinase target, which is the cause of a rare genetic disease. Under the terms of this agreement, which we refer to as the Alexion agreement, we granted Alexion an exclusive, sublicenseable license under certain of our patents and technology. Under the Alexion agreement, we are responsible for research and pre-clinical development activities related to drug candidates, and Alexion is responsible for all clinical development, manufacturing and commercialization activities related to drug candidates. 
+
+Alexion is responsible for funding 100% of our research and development costs incurred under the research plan, including pass-through costs and a negotiated yearly rate per full-time equivalent for our employees &#8217; time and their associated overhead expenses. We received a $15.0 million non-refundable upfront payment in March 2015 upon execution of the Alexion agreement and are eligible to receive over $250.0 million in payments upon the successful achievement of pre-specified pre-clinical, clinical, regulatory and commercial milestones as follows: (i) up to $6.0 million in pre-clinical milestone payments for the first licensed product, (ii) up to $83.0 million and $61.5 million in development milestone payments for the first and second licensed products, respectively, and (iii) up to $51.0 million in commercial milestone payments for each of the first and second licensed products. We received a $1.75 million payment from Alexion in the second quarter of 2015 and payment s of $0.25 million and $0.75 million from Alexion in the first quarter of 2016 following the achievement of three of the first pre-clinical milestones under the Alexion agreement. 
+
+&#160;
+
+Alexion will pay us tiered royalties, ranging from mid-single to low-double digit percentages, on a country-by-country and licensed-product-by-licensed-product basis, on worldwide net product sales of licensed products. The royalty term for each licensed product in each country is the period commencing with first commercial sale of such licensed product in such country and ending on the later of (i) the expiration of the last-to-expire valid claim of specified patents covering such licensed product, (ii) the expiration of the applicable regulatory exclusivity period, and (iii) 10 or 15 years from specified commercial sales. 
+
+The term of the Alexion agreement will expire on a country-by-country basis and a licensed-product-by-licensed-product basis at the end of each applicable royalty term, unless terminated earlier by either party. Alexion has the right to terminate the Alexion agreement if we undergo a change of control or become an affiliate of a biotechnology or pharmaceutical company, and may terminate the Alexion agreement at will upon 90 days &#8217; prior written notice. We and Alexion have the right to terminate the Alexion agreement in the event of the other party &#8217; s uncured breach or insolvency, and in certain other circumstances agreed to by the parties. 
+
+Intellectual Property 
+
+Our commercial success depends in part on our ability to obtain and maintain proprietary or intellectual property protection for our drug candidates, including BLU &#8209;285 , BLU &#8209;554 and BLU-667 , and our core technologies, including our novel target discovery engine and our proprietary compound library, and other know &#8209;how; to operate without infringing on the proprietary rights of others; and to prevent others from infringing our proprietary or intellectual property rights. Our policy is to seek to protect our proprietary and intellectual property position by, among other methods, filing U.S., international and foreign patent applications related to our proprietary technology, inventions and improvements that are important to the development and implementation of our business. We also rely on trade secrets, know &#8209;how and continuing technological innovation to develop and maintain our proprietary and intellectual property position. 
+
+We file patent applications directed to our drug candidates in an effort to establish intellectual property positions regarding these new chemical entities as well as uses of these new chemical entities in the treatment of diseases. We also file patent applications directed to novel fusions that we have discovered through our target discovery engine and the use of these fusions in diagnosing and treating disease. As of February 29, 2016, we owned three issued U.S. patent s , 13 pending U.S. patent applications, 33 foreign patent applications pending in a number of jurisdictions, including Australia, Brazil, Canada, China, the European Union , Israel, India, Japan, South Korea, Mexico New Zealand, Russia, South Africa, and 14 pending Patent Cooperation Treaty, or PCT, patent applications. Our pending patent applications pertain to our key research and development programs, specifically our KIT Exon 17 program, and our FGFR4 program; and our pipeline, specifically novel recurrent fusions. Our issued U.S. patent s &#160; are projected to expire between 2033 and 2034 , and any patents that may issue from our pending U.S. applications would be projected to expire between 2034 and 2036. 
+
+The intellectual property portfolios for our most advanced drug candidates as of February 29, 2016 are summarized below. Each of these portfolios is in its very early stages and, with respect to most of the pending patent applications covering our drug candidates, prosecution has just begun or is in progress. Prosecution is a lengthy process, during which the scope of the claims initially submitted for examination by the USPTO often significantly narrowed by the time they issue, if they issue at all. We expect this to be the case with respect to our pending patent applications referred to below. 
+
+KIT Exon 17 
+
+The intellectual property portfolio for our KIT Exon 17 program contains patent applications directed to compositions of matter for BLU &#8209;285 and analogs, compositions of matter for KIT Exon 17 inhibitors with different compound families, as well as methods of use for these novel compounds. As of February 29, 2016 , we owned one issued patent, five pending U.S. patent applications, &#160; eight pending foreign patent applications &#160; in a number of jurisdictions, including Argentina, Bolivia, Pakistan, Taiwan and Venezuela, &#160; and three pending PCT patent applications &#160; directed to &#160; our KIT program, including BLU-285. Any U.S. or ex-U.S. patents issuing from the pending applications covering BLU-285 will have a statutory expiration date of October 2034. Patent term adjustments or patent term extensions could result in later expiration dates. 
+
+&#160;
+
+FGFR4 
+
+The intellectual property portfolio for our FGFR4 program contains patent applications directed to compositions of matter for BLU &#8209;554 and analogs, as well as compositions of matter for FGFR4 inhibitors with multiple compound families. The portfolio also includes patent applications directed to methods of use for the novel compounds as well as patent applications directed broadly to FGFR4 selective inhibitors. As of February 29, 2016 , we owned two issued U.S. patents, three pending U.S. patent applications, 23 &#160; foreign patent applications &#160; in a number of jurisdictions, including Australia, Brazil, Canada, China, the European Union, Israel, India, Japan, South Korea, Mexico New Zealand, Russia, South Africa, and two pending PCT patent applications &#160; directed to &#160; our FGFR4 program, including BLU-554. &#160; Any &#160; U.S. &#160; or &#160; ex-U.S. patent issuing from the pending applications covering BLU-554 will have a statutory expiration date of July 2033, December 2033, or October 2034. Patent term adjustments or patent term extensions could result in later expiration dates. 
+
+RET 
+
+The intellectual property portfolio for our RET program contains patent application s directed to compositions of matter for inhibitors of the predicted RET resistant mutants, as well as methods of use for these novel compounds. As of February 29, 2016 , we owned one PCT application and one provisional &#160; U.S. patent application &#160; directed to &#160; our RET program, which, if issued, will have statutory expiration dates of 2036. 
+
+NTRK 
+
+As of February 29, 2016, we owned two provisional U.S. patent applications directed to NTRK, which, if issued, will have a statutory expiration date of 2036. 
+
+Platform 
+
+The intellectual property portfolio directed to our platform includes patent applications directed to novel gene fusions and the uses of these fusions for detecting and treating conditions implicated with these fusions. As of February 29, 2016 , we owned two pending U.S. patent &#160; applications, two pending European Union patent applications and eight pending &#160; PCT patent applications &#160; directed to this technology, which, if issued, will have statutory expiration dates &#160; ranging from 2034 to 2035. 
+
+The term of individual patents depends upon the legal term for patents in the countries in which they are obtained. In most countries, including the United States, the patent term is 20 years from the earliest filing date of a non &#8209;provisional patent application. In the United States, a patent &#8217; s term may be lengthened by patent term adjustment, which compensates a patentee for administrative delays by the U.S. Patent and Trademark Office, or the USPTO, in examining and granting a patent, or may be shortened if a patent is terminally disclaimed over an earlier filed patent. The term of a patent that covers a drug or biological product may also be eligible for patent term extension when FDA approval is granted, provided statutory and regulatory requirements are met. See &#8220; &#8212; Government Regulation &#8212; U.S. Patent Term Restoration and Marketing Exclusivity &#8221; below for additional information on such exclusivity. In the future, if and when our drug candidates receive approval by the FDA or foreign regulatory authorities, we expect to apply for patent term extensions on issued patents covering those drugs, depending upon the length of the clinical trials for each drug and other factors. There can be no assurance that any of our pending patent applications will issue or that we will benefit from any patent term extension or favorable adjustment to the term of any of our patents. 
+
+As with other biotechnology and pharmaceutical companies, our ability to maintain and solidify our proprietary and intellectual property position for our drug candidates and technologies will depend on our success in obtaining effective patent claims and enforcing those claims if granted. However, our pending patent applications, and any patent applications that we may in the future file or license from third parties may not result in the issuance of patents. We also cannot predict the breadth of claims that may be allowed or enforced in our patents. Any issued patents that we may receive in the future may be challenged, invalidated or circumvented. For example, we cannot be certain of the priority of inventions covered by pending third &#8209;party patent applications. If third parties prepare and file patent applications in the United States that also claim technology or therapeutics to which we have rights, we may have to participate in interference proceedings in the USPTO to determine priority of invention, which could result in substantial costs to us, even if the eventual outcome is favorable to us, which is highly unpredictable. In addition, because of the extensive time required for clinical development and regulatory review of a drug candidate we may develop, it is possible that, before 
+
+&#160;
+
+any of our drug candidates can be commercialized, any related patent may expire or remain in force for only a short period following commercialization, thereby limiting protection such patent would afford the respective product and any competitive advantage such patent may provide. 
+
+In addition to patents, we rely upon unpatented trade secrets and know &#8209; how and continuing technological innovation to develop and maintain our competitive position. We seek to protect our proprietary information, in part, by executing confidentiality agreements with our collaborators and scientific advisors, and non &#8209;competition, non &#8209;solicitation, confidentiality, and invention assignment agreements with our employees and consultants. We have also executed agreements requiring assignment of inventions with selected scientific advisors and collaborators. The confidentiality agreements we enter into are designed to protect our proprietary information and the agreements or clauses requiring assignment of inventions to us are designed to grant us ownership of technologies that are developed through our relationship with the respective counterparty. We cannot guarantee, however, that these agreements will afford us adequate protection of our intellectual property and proprietary information rights. 
+
+With respect to the building of our proprietary compound library, we consider trade secrets and know &#8209;how to be our primary intellectual property. Trade secrets and know &#8209;how can be difficult to protect. In particular, we anticipate that with respect to this technology platform, these trade secrets and know &#8209;how will over time be disseminated within the industry through independent development and public presentations describing the methodology. 
+
+Competition 
+
+The pharmaceutical and biotechnology industries are characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary drugs. While we believe that our technology, development experience and scientific knowledge provide us with competitive advantages, we face potential competition from many different sources, including major pharmaceutical, specialty pharmaceutical and biotechnology companies, academic institutions and governmental agencies and public and private research institutions. Any drug candidates that we successfully develop and commercialize will compete with existing drugs and new drugs that may become available in the future. 
+
+We compete in the segments of the pharmaceutical, biotechnology and other related markets that address inhibition of kinases in cancer and other rare genetic diseases. There are other companies working to develop therapies in the field of kinase inhibition for cancer and other diseases. These companies include divisions of large pharmaceutical companies and biotechnology companies of various sizes. 
+
+Many of the companies against which we are competing or against which we may compete in the future have significantly greater financial resources and expertise in research and development, manufacturing, pre-clinical testing, conducting clinical trials, obtaining regulatory approvals and marketing approved drugs than we do. Mergers and acquisitions in the pharmaceutical, biotechnology and diagnostic industries may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical trial sites and patient registration for clinical trials, as well as in acquiring technologies complementary to, or necessary for, our programs. 
+
+Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize drugs that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive than any drugs that we or our collaborators may develop. Our competitors also may obtain FDA or other regulatory approval for their drugs more rapidly than we may obtain approval for ours, which could result in our competitors establishing a strong market position before we or our collaborators are able to enter the market. The key competitive factors affecting the success of all of our drug candidates, if approved, are likely to be their efficacy, safety, convenience, price, the effectiveness of companion diagnostics in guiding the use of related therapeutics, the level of generic competition and the availability of reimbursement from government and other third &#8209;party payors. 
+
+If our drug candidates are approved for the indications for which we are currently conducting or planning clinical trials, they will compete with the drugs discussed below and will likely compete with other drugs that are currently in development. 
+
+&#160;
+
+BLU &#8209;285 
+
+We are initially developing BLU &#8209;285, which is designed to target KIT Exon 17, for advanced SM and GIST patients, as well as for patients with GIST with the PDGFR&#945; D842V mutation. 
+
+For advanced SM, the only approved medical therapy is imatinib for patients without the KIT D816V mutation or mutational status unknown. Several treatments are used off &#8209;label for cytoreduction including interferon &#8209;&#945; and cytoreductive agents for advanced forms of SM. If BLU &#8209;285 receives marketing approval, it may face competition from other drug candidates in development for advanced SM, including drug candidates in development from AB Science S.A., Deciphera Pharmaceuticals, LLC, Kolltan Pharmaceuticals, Inc., Novartis AG and Plexxikon Inc., a wholly &#8209;owned subsidiary of Daiichi Sankyo Company, Limited. &#160; 
+
+For GIST, the current approved standards of care for unresectable or metastatic patients are first &#8209;line imatinib, followed by second &#8209;line sunitinib upon imatinib progression, followed by third &#8209;line regorafenib upon sunitinib progression. While these agents do not address patients with the KIT Exon 17 mutation or the PDGFR&#945; D842V mutation, they may be competitor therapies if the recommended mutational status testing is not performed. If BLU &#8209;285 receives marketing approval for this indication, it may also face competition from drug candidates in development, including by &#160; AROG Pharmaceuticals, Inc., ARIAD Pharmaceuticals, Inc., Kolltan Pharmaceuticals, Inc. and Deciphera Pharmaceuticals, LLC. 
+
+BLU &#8209;554 
+
+The development of BLU &#8209;554 will focus on a subset of patients with HCC with FGF19 overexpression. The only approved systemic medical therapy for HCC is sorafenib. In addition, there are potentially competitive drug candidates in development, including by AstraZeneca plc, Astellas Pharma, Inc., Bayer AG, Celgene Corporation, Eisai Inc., H3 Biomedicine Inc., Johnson &#38; Johnson, Novartis AG, Sanofi S.A., Taiho Pharmaceutical Co., Ltd. and Xoma Ltd. 
+
+BLU &#8209; 667 
+
+The development of BLU &#8209;667 will focus on patients with the kinase RET and predicted RET resistant mutants. There are no approved medical therapies for RET, but there are several approved multi-kinase inhibitors with RET activity being evaluated in clinical trials, including alectinib , apatinib , cabozantinib, dovitinib, lenvatinib, ponatinib, sorafenib, sunitinib and vandetinib. In addition, there are potentially competitive drug candidates in development, including by Ignyta, Inc., Loxo Oncology, Inc. and Mirati Therapeutics. 
+
+Commercialization Plans 
+
+Our goal is to become a fully &#8209;integrated biopharmaceutical company capable of delivering transformative drugs to patients. Given our stage of development, we have not yet established our own commercial organization or distribution capabilities. Our initial focus is on genomically defined patient populations in oncology allowing us to efficiently commercialize our drug candidates in the United States on our own initially and worldwide longer &#8209;term. We currently own worldwide commercial rights to all of our oncology focused drug candidates. Subject to obtaining regulatory approval, we believe that we may be able to commercialize one or more of our drug candidates in as little as five years. However, we may never obtain regulatory approval for our drug candidates or be able to develop or commercialize a marketable drug . I n addition, subject to regulatory approval, we believe we can successfully launch and commercialize our initial drug candidates on our own, using a small and highly specialized sales force similar to those of other rare disease companies. However, we may establish collaborations with pharmaceutical companies to leverage their capabilities to maximize the potential of our drug candidates. &#160; 
+
+Under the terms of our agreement with Ventana, Ventana is responsible for the commercialization of the companion diagnostic for BLU-554 that we expect to use to identify HCC patients with abberantly active FGFR4 signaling as indicated by FGF19 overexpression. 
+
+&#160;
+
+Manufacturing and Supply 
+
+We do not own or operate, and currently have no plans to establish, any manufacturing facilities. We currently rely, and expect to continue to rely, on third parties for the manufacture of our drug candidates for pre-clinical and clinical testing, as well as for commercial manufacture of any drugs that we may commercialize. To date, we have obtained active pharmaceutical ingredients, or API, and drug substance for B LU &#8209;285 and BLU &#8209;554 for our pre &#8209; clinical and Phase 1 testing from one third &#8209;party manufacturer and drug product from another third party manufacturer. We obtain our supplies from these manufacturers on a purchase order basis and do not have a long &#8209;term supply arrangement in place. We do not currently have arrangements in place for redundant supply for API, drug product or drug substance. For all of our drug candidates, we intend to identify and qualify additional manufacturers to provide the API, drug product and drug substance prior to submission of a new drug application to the FDA and/or a marketing authorization application to the European Medicines Agency. 
+
+BLU &#8209;285 and BLU &#8209;554 are compounds of low molecular weight, generally called small molecules. They can be manufactured in reliable and reproducible synthetic processes from readily available starting materials. The chemistry is amenable to scale &#8209;up and does not require unusual equipment in the manufacturing process. We expect to continue develop ing &#160; drug candidates that can be produced cost &#8209;effectively at contract manufacturing facilities. 
+
+Under the terms of our agreement with Ventana, we will rely on Ventana for the manufacture of a companion diagnostic for BLU-554 that we expect to use to identify HCC patients with abberantly active FGFR4 signaling as indicated by FGF19 overexpression, and we generally expect to rely on third parties for the manufacture of any other companion diagnostics we may seek to develop. 
+
+Government Regulation 
+
+Government authorities in the United States at the federal, state and local level and in other countries extensively regulate, among other things, the research and clinical development, testing, manufacture, quality control, approval, labeling, packaging, storage, record &#8209;keeping, promotion, advertising, distribution, post &#8209;approval monitoring and reporting, marketing, and export and import of drug products, such as those we are developing. Generally, before a new drug can be marketed, considerable data demonstrating its quality, safety and efficacy must be obtained, organized into a format specific to each regulatory authority, submitted for review and approved by the regulatory authority. 
+
+The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations require the expenditure of substantial time and financial resources. Failure to comply with the applicable regulatory requirements at any time during the product development process, approval process or after approval, may subject an applicant to administrative or judicial sanctions. These sanctions could include, among other actions, the regulatory authority &#8217; s refusal to approve pending applications, withdrawal of an approval, clinical holds, untitled or warning letters, voluntary product recalls or withdrawals from the market, product seizures, total or partial suspension of production or distribution injunctions, disbarment, fines, refusals of government contracts, restitution, disgorgement, or civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on us. 
+
+U.S. Drug Development 
+
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act, or FDCA, and its implementing regulations. Drugs are also subject to other federal, state and local statutes and regulations. Our drug candidates must be approved by the FDA through the NDA process before they may be legally marketed in the United States. The process required by the FDA before a drug may be marketed in the United States generally involves the following: 
+
+&#183; 
+
+c ompletion of extensive pre-clinical tests , sometimes referred to as pre-clinical laboratory tests, pre-clinical animal studies and formulation studies performed in accordance with applicable regulations, including the FDA &#8217; s GLP regulations; 
+
+&#183; 
+
+s ubmission to the FDA of an IND, which must become effective before human clinical trials may begin and must be actively maintained, including by submitting annual reports ; 
+
+&#160;
+
+&#183; 
+
+p erformance of adequate and well &#8209;controlled human clinical trials in accordance with applicable IND and other clinical trial &#8209;related regulations, sometimes referred to as good clinical practices, or GCPs, to establish the safety and efficacy of the proposed drug for its proposed indication; 
+
+&#183; 
+
+submission to the FDA of an NDA for a new drug; 
+
+&#183; 
+
+a determination by the FDA within 60 days of its receipt of an NDA to file the NDA for review; 
+
+&#183; 
+
+s atisfactory completion of an FDA pre &#8209;approval inspection of the manufacturing facility or facilities at which the API and finished drug product are produced to assess compliance with the FDA &#8217; s current good manufacturing practice requirements, or cGMP; 
+
+&#183; 
+
+p otential FDA audit of the pre-clinical and/or clinical trial sites that generated the data in support of the NDA; and 
+
+&#183; 
+
+FDA review and approval of the NDA prior to any commercial marketing or sale of the drug in the United States. 
+
+The data required to support an NDA is generated in two distinct development stages: pre-clinical and clinical. For new chemical entities, the pre &#8209; clinical development stage generally involves synthesizing the active component, developing the formulation and determining the manufacturing process, as well as carrying out non &#8209;human toxicology, pharmacology and drug metabolism studies in the laboratory, which support subsequent clinical testing. The conduct of the pre-clinical tests must comply with federal regulations, including GLP s . The sponsor must submit the results of the pre-clinical tests, together with manufacturing information, analytical data, any available clinical data or literature and a proposed clinical protocol, to the FDA as part of the IND. An IND is a request for authorization from the FDA to administer an investigational drug product to humans. The central focus of an IND submission is on the pre-clinical data, general investigational plan and the protocol(s) for human trials. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA raises concerns or questions regarding the proposed clinical trials and places the IND on clinical hold within that 30 &#8209;day time period. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns or questions before the clinical trial can begin. The FDA may also impose clinical holds on a drug candidate at any time before or during clinical trials due to safety concerns or non &#8209;compliance. Accordingly, we cannot be sure that submission of an IND will result in the FDA allowing clinical trials to begin, or that, once begun, issues will not arise that could cause the trial to be suspended or terminated. 
+
+The clinical stage of development involves the administration of the drug candidate to healthy volunteers and/ or patients under the supervision of qualified investigators, generally physicians not employed by or under the trial sponsor &#8217; s control, in accordance with GCPs, which include the requirement that all research subjects provide their informed consent for their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the clinical trial, dosing procedures, subject selection and exclusion criteria, and the parameters to be used to monitor subject safety and assess efficacy. Each protocol, and any subsequent amendments to the protocol, must be submitted to the FDA as part of the IND. Further, each clinical trial must be reviewed and approved by an independent institutional review board, or IRB, at or servicing each institution at which the clinical trial will be conducted. An IRB is charged with protecting the welfare and rights of trial participants and considers such items as whether the risks to individuals participating in the clinical trials are minimized and are reasonable in relation to anticipated benefits. The IRB also approves the informed consent form that must be provided to each clinical trial subject or his or her legal representative and must monitor the clinical trial until completed. There are also requirements governing the reporting of ongoing clinical trials and completed clinical trial results to public registries. 
+
+Clinical trials are generally conducted in three sequential phases that may overlap or be combined, known as Phase 1, Phase 2 and Phase 3 clinical trials. Phase 1 clinical trials for oncology indications generally involve a small number of disease-affected patients who are treated with the drug candidate in escalating dose cohorts . The primary purpose of these clinical trials is to determine the MTD, or a recommended dose if the MTD is not achieved , assess the pharmacokinetic profile , pharmacologic action, side effect tolerability and safety of the drug. Phase 1 clinical trials for oncology indications may also evaluate preliminary evidence of clinical activity. Phase 2 clinical trials typically involve studies in disease &#8209;affected patients to determine the dose required to produce the desired benefits. At the same time, safety and further pharmacokinetic and pharmacodynamic information is collected, as well as identification of possible adverse effects and safety risks and preliminary evaluation of efficacy. Phase 3 clinical trials generally involve large 
+
+&#160;
+
+numbers of patients at multiple sites, in multiple countries (from several hundred to several thousand subjects) and are designed to provide the data necessary to demonstrate the efficacy of the drug for its intended use, its safety in use, and to establish the overall benefit/risk relationship of the drug and provide an adequate basis for drug approval. Phase 3 clinical trials may include comparisons with placebo and/or other comparator treatments. The duration of treatment is often extended to mimic the actual use of a drug during marketing. Generally, two adequate and well &#8209;controlled Phase 3 clinical trials are required by the FDA for approval of an NDA. 
+
+Post &#8209;approval trials, sometimes referred to as Phase 4 clinical trials, may be conducted after initial marketing approval. These trials are used to gain additional experience from the treatment of patients in the intended therapeutic indication. In certain instances, FDA may mandate the performance of Phase 4 clinical trials. 
+
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and written IND safety reports must be submitted to the FDA and the investigators for serious and unexpected adverse reactions, any finding from other clinical studies, tests in laboratory animals, or in vitro testing that suggests a significant risk for human subjects, or any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, if at all. The FDA or the clinical trial sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB &#8217; s requirements or if the drug has been associated with unexpected serious harm to patients. In addition, some clinical trials are overseen by an independent group of qualified experts organized by the clinical trial sponsor, known as a data safety monitoring board or committee. This group provides authorization for whether or not a trial may move forward at designated check points based on access to certain data from the trial. We may also suspend or terminate a clinical trial based on evolving business objectives and/or competitive climate. Concurrent with clinical trials, companies usually complete additional animal studies and must also develop additional information about the chemistry and physical characteristics of the drug as well as finalize a process for manufacturing the drug in commercial quantities in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the drug candidate and, among other things, cGMPs impose extensive procedural, substantive and recordkeeping requirements to ensure and preserve the long term stability and quality of the final drug product. In addition, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the drug candidate does not undergo unacceptable deterioration over its shelf life. 
+
+NDA and FDA Review Process 
+
+Following trial completion, trial data are analyzed to assess safety and efficacy. The results of pre-clinical studies and clinical trials are then submitted to the FDA as part of an NDA, along with proposed labeling for the drug and information about the manufacturing process and facilities that will be used to ensure drug quality, results of analytical testing conducted on the chemistry of the drug, and other relevant information. The NDA is a request for approval to market the drug and must contain adequate evidence of safety and efficacy, which is demonstrated by extensive pre-clinical and clinical testing. The application includes both negative or ambiguous results of pre-clinical studies and clinical trials as well as positive findin gs. Data may come from company &#8209; sponsored clinical trials intended to test the safety and efficacy of a use of a drug, or from a number of alternative sources, including studies initiated by investigators. To support marketing approval, the data submitted must be sufficient in quality and quantity to establish the safety and efficacy of the investigational drug product to the satisfaction of the FDA. The submission of an NDA is subject to the payment of substantial user fees; a waiver of such fees may be obtained under certain limited circumstances. FDA approval of an NDA must be obtained before a drug may be offered for sale in the United States. 
+
+In addition, under the Pediatric Research Equity Act, or PREA, an NDA or supplement to an NDA must contain data to assess the safety and efficacy of the drug for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the drug is safe and effective. The FDA may grant deferrals for submission of data or full or partial waivers. 
+
+Under the Prescription Drug User Fee Act, or PDUFA, as amended, each NDA must be accompanied by a user fee. The FDA adjusts the PDUFA user fees on an annual basis. According to the FDA &#8217; s fiscal year 2016 fee schedule, effective through September 30, 2016, the user fee for an application requiring clinical data, such as an NDA, is $2,374,200. PDUFA also imposes an annual product fee for human drugs ($114,450) and an annual establishment fee ($585,200) on facilities used to manufacture prescription drugs. Fee waivers or reductions are available in certain 
+
+&#160;
+
+circumstances, including a waiver of the application fee for the first application filed by a small business. In addition, no user fees are assessed on NDAs for products designated as orphan drugs, unless the product also includes a non &#8209;orphan indication. 
+
+The FDA reviews all NDAs submitted before it accepts them for filing and may request additional information rather than accepting an NDA for filing. The FDA must make a decision on accepting an NDA for filing within 60 days of receipt. Once the submission is accepted fo r filing, the FDA begins an in &#8209; depth review of the NDA. Under the goals and policies agreed to by the FDA under PDUFA, the FDA has ten months from the filing date in which to complete its initial review of a standard NDA and respond to the applicant, and six months from the filing date for a priority NDA. The FDA does not always meet its PDUFA goal dates for standard and priority NDAs, and the review process is often significantly extended by FDA requests for additional information or clarification. 
+
+After the NDA submission is accepted for filing, the FDA reviews the NDA to determine, among other things, whether the proposed drug is safe and effective for its intended use, and whether the drug is being manufactured in accordance with cGMP to assure and preserve the drug &#8217; s identity, strength, quality and purity. The FDA may refer applications for novel drugs or drug candidates that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. The FDA will likely re &#8209;analyze the clinical trial data, which could result in extensive discussions between the FDA and us during the review process. The review and evaluation of an NDA by the FDA is extensive and time consuming and may take longer than originally planned to complete, and we may not receive a timely approval, if at all. 
+
+Before approving an NDA, the FDA will conduct a pre &#8209;approval inspection of the manufacturing facilities for the new drug to determine whether they comply with cGMPs. The FDA will not approve the drug unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the drug within required specifications. In addition, before approving an NDA, the FDA may also audit data from clinical trials by inspecting the sponsor or clinical trial sites to ensure compliance with GCP requirements. After the FDA evaluates the application, manufacturing process and manufacturing facilities where the drug product and/or its API will be produced, it may issue an approval letter or a Complete Response Letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. A Complete Response Letter indicates that the review cycle of the application is complete and the application is not ready for approval. A Complete Response Letter usually describes all of the specific deficiencies in the NDA identified by the FDA. The Complete Response Letter may require additional clinical data and/or an additional pivotal clinical trial(s), and/or other significant, expensive and time &#8209;consuming requirements related to clinical trials, pre-clinical studies or manufacturing. If a Complete Response Letter is issued, the applicant may either resubmit the NDA, addressing all of the deficiencies identified in the letter, or withdraw the application. Even if such data and information is submitted, the FDA may ultimately decide that the NDA does not satisfy the criteria for approval. Data obtained from clinical trials are not always conclusive and the FDA may interpret data differently than we interpret the same data. 
+
+There is no assurance that the FDA will ultimately approve a drug product for marketing in the United States and we may encounter significant difficulties or costs during the review process. If a drug receives marketing approval, the approval may be significantly limited to specific diseases and dosages or the indications for use may otherwise be limited, which could restrict the commercial value of the drug. Further, the FDA may require that certain contraindications, warnings or precautions be included in the drug labeling or may condition the approval of the NDA on other changes to the proposed labeling, development of adequate controls and specifications, or a commitment to conduct post &#8209;market testing or clinical trials and surveillance to monitor the effects of approved drugs. For example, the FDA may require Phase 4 testing which involves clinical trials designed to further assess a drug &#8217; s safety and effectiveness and may require testing and surveillance programs to monitor the safety of approved drugs that have been commercialized. The FDA may also place other conditions on approvals including the requirement for a Risk Evaluation and Mitigation Strategy, or REMS to assure the safe use of the drug. If the FDA concludes a REMS is needed, the sponsor of the NDA must submit a proposed REMS. The FDA will not approve the NDA without an approved REMS, if required. A REMS could include medication guides, physician communication plans, or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. Any of these limitations on approval or marketing could restrict the commercial promotion, distribution, prescription or dispensing of drugs. Drug approvals may be withdrawn for non &#8209;compliance with regulatory requirements or if problems occur following initial marketing. 
+
+&#160;
+
+Special FDA Expedited Review and Approval Programs 
+
+The FDA has various programs, including fast track designation , accelerated approval, priority review and breakthrough therapy designation , that are intended to expedite or simplify the process for the development and FDA review of drugs that are intended for the treatment of serious or life threatening diseases or conditions and demonstrate the potential to address unmet medical needs. The purpose of these programs is to provide important new drugs to patients earlier than under standard FDA review procedures. To be eligible for fast track designation , the FDA must determine, based on the request of a sponsor, that a drug is intended to treat a serious or life threatening disease or condition and based on pre-clinical or preliminary clinical data demonstrates the potential to address an unmet medical need. The FDA will determine that a product will fill an unmet medical need if it will provide a therapy where none exists or provide a therapy that may be potentially superior to existing therapy based on efficacy or safety factors. 
+
+The FDA may give a priority review designation to drugs that offer major advances in treatment, or provide a treatment where no adequate therapy exists. A priority review means that the goal for the FDA to review an application is six months, rather than the standard review of ten months under current PDUFA guidelines. These six and ten month review periods are measured from the &#8220; filing &#8221; date rather than the receipt date for NDAs for new molecular entities, which typically adds approximately two months to the timeline for review and decision from the date of submission. Products that are eligible for fast track designation are also likely to be considered appropriate to receive a priority review. 
+
+In addition, drugs studied for their safety and effectiveness in treating serious or life &#8209;threatening illnesses and that provide meaningful therapeutic benefit over existing treatments may receive accelerated approval and may be approved on the basis of adequate and well &#8209;controlled clinical trials establishing that the drug has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity or prevalence of the condition and the availability or lack of alternative treatments. As a condition of approval, the FDA may require a sponsor of a drug receiving accelerated approval to perform post &#8209;marketing studies to verify and describe the predicted effect on irreversible morbidity or mortality or other clinical endpoint, and the drug may be subject to accelerated withdrawal procedures. 
+
+Moreover, under the provisions of the Food and Drug Administration Safety and Innovation Act, or FDASIA, enacted in 2012, a sponsor can request designation of a product candidate as a &#8220; breakthrough therapy. &#8221; A breakthrough therapy is defined as a drug that is intended, alone or in combination with one or more other drugs, to treat a serious or life &#8209;threatening disease or condition, and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. Drugs designated as breakthrough therapies are also eligible for accelerated approval and priority review . The FDA must take certain actions, such as holding timely meetings and providing advice, intended to expedite the development and review of an application for approval of a breakthrough therapy. 
+
+Even if a product qualifies for one or more of these programs, the FDA may later decide that the product no longer meets the conditions for qualification or decide that the time period for FDA review or approval will not be shortened. Furthermore, fast track designation , priority review, accelerated approval and breakthrough therapy designation , do not change the standards for approval and may not ultimately expedite the development or approval process. 
+
+Pediatric Trials 
+
+Pursuant to FDASIA, which was signed into law on July 9, 2012, a sponsor who is planning to submit a marketing application for a drug that includes a new active ingredient, new indication, new dosage form, new dosing regimen or new route of administration must submit an initial Pediatric Study Plan, or PSP, within sixty days of an end &#8209;of &#8209;Phase 2 meeting or as may be agreed between the sponsor and FDA. The initial PSP must include an outline of the pediatric study or studies that the sponsor plans to conduct, including study objectives and design, age groups, relevant endpoints and statistical approach, or a justification for not including such detailed information, and any request for a deferral of pediatric assessments or a full or partial waiver of the requirement to provide data from pediatric studies along with supporting information. Development program candidates designated as orphan drugs are exemp t from the 
+
+&#160;
+
+above requirements. FDA and the sponsor must reach agreement on the PSP. A sponsor can submit amendments to an agreed &#8209;upon initial PSP at any time if changes to the pediatric plan need to be considered ba sed on data collected from pre &#8209; clinical studies, early phase clinical trials, and/or other clinical development programs. 
+
+Post &#8209;Marketing Requirements 
+
+Following approval of a new drug, a pharmaceutical company and the approved drug are subject to continuing regulation by the FDA, including, among other things, monitoring and recordkeeping activities, reporting to the applicable regulatory authorities of adverse experiences with the drug, providing the regulatory authorities with updated safety and efficacy information, drug sampling and distribution requirements, and complying with promotion and advertising requirements, which include, among o thers, standards for direct &#8209;to &#8209; consumer advertising, restrictions on promoting drugs for uses or in patient populations that are not described in the drug &#8217; s approved labeling (known as &#8220; off &#8209;label use &#8221; ), limitations on industry &#8209;sponsored scientific and educational activities, and requirements for promotional activities involving the internet. Although physicians may prescribe legally available drugs for off &#8209;label uses, manufacturers may not market or promote such off &#8209;label uses. Modifications or enhancements to the drug or its labeling or changes of the site of manufacture are often subject to the approval of the FDA and other regulators, which may or may not be received or may result in a lengthy review process. 
+
+Prescription drug advertising is subject to federal, state and foreign regulations. In the United States, the FDA regulates prescription drug promotion, including direct &#8209;to &#8209;consumer advertising. Prescription drug promotional materials must be submitted to the FDA in conjunction with their first use. Any distribution of prescription drugs and pharmaceutical samples must comply with the U.S. Prescription Drug Marketing Act, or the PDMA, a part of the FDCA. 
+
+In the United States, once a drug is approved, its manufacture is subject to comprehensive and continuing regulation by the FDA. The FDA regulations require that drugs be manufactured in specific approved facilities and in accordance with cGMP. We rely, and expect to continue to rely, on third parties for the production of clinical and commercial quantities of our drugs in accordance with cGMP regulations. cGMP regulations require among other things, quality control and quality assurance as well as the corresponding maintenance of records and documentation and the obligation to investigate and correct any deviations from cGMP. Drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMP and other laws. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance. These regulations also impose certain organizational, procedural and documentation requirements with respect to manufacturing and quality assurance activities. NDA holders using contract manufacturers, laboratories or packagers are responsible for the selection and monitoring of qualified firms, and, in certain circumstances, qualified suppliers to these firms. These firms and, where applicable, their suppliers are subject to inspections by the FDA at any time, and the discovery of violative conditions, including failure to conform to cGMP, could result in enforcement actions that interrupt the operation of any such facilities or the ability to distribute drugs manufactured, processed or tested by them. Discovery of problems with a drug after approval may result in restrictions on a drug, manufacturer, or holder of an approved NDA, including, among other things, recall or withdrawal of the drug from the market, and may require substantial resources to correct. 
+
+The FDA also may require post &#8209;approval testing, sometimes referred to as Phase 4 testing, risk minimization action plans and post &#8209;marketing surveillance to monitor the effects of an approved drug or place conditions on an approval that could restrict the distribution or use of the drug. Discovery of previously unknown problems with a drug or the failure to comply with applicable FDA requirements can have negative consequences, including adverse publicity, judicial or administrative enforcement, untitled or warning letters from the FDA, mandated corrective advertising or communications with doctors, and civil or criminal penalties, among others. Newly discovered or developed safety or effectiveness data may require changes to a drug &#8217; s approved labeling, including the addition of new warnings and contraindications, and also may require the implementation of other risk management measures. Also, new government requirements, including those resulting from new legislation, may be established, or the FDA &#8217; s policies may change, which could delay or prevent regulatory approval of our drugs under development. 
+
+&#160;
+
+Other Regulatory Matters 
+
+Manufacturing, sales, promotion and other activities following drug approval are also subject to regulation by numerous regulatory authorities in addition to the FDA, including, in the United States, the Centers for Medicare &#38; Medicaid Services, other divisions of the Department of Health and Human Services, the Drug Enforcement Administration for controlled substances, the Consumer Product Safety Commission, the Federal Trade Commission, the Occupational Safety &#38; Health Administration, the Environmental Protection Agency and state and local governments. In the United States, sales, marketing and scientific/educational programs must also comply with state and federal fraud and abuse laws. Pricing and rebate programs must comply with the Medicaid rebate requirements of the U.S. Omnibus Budget Reconciliation Act of 1990 and more recent requirements in the Patient Protection and Affordable Care Act as amended by the Health Care and Education Reconciliation Act, or ACA. If drugs are made available to authorized users of the Federal Supply Schedule of the General Services Administration, additional laws and requirements apply. The handling of any controlled substances must comply with the U.S. Controlled Substances Act and Controlled Substances Import and Export Act. Drugs must meet applicable child &#8209;resistant packaging requirements under the U.S. Poison Prevention Packaging Act. Manufacturing, sales, promotion and other activities are also potentially subject to federal and state consumer protection and unfair competition laws. 
+
+The distribution of pharmaceutical drugs is subject to additional requirements and regulations, including extensive record &#8209;keeping, licensing, storage and security requirements intended to prevent the unauthorized sale of pharmaceutical drugs. 
+
+The failure to comply with regulatory requirements subjects firms to possible legal or regulatory action. Depending on the circumstances, failure to meet applicable regulatory requirements can result in criminal prosecution, fines or other penalties, injunctions, recall or seizure of drugs, total or partial suspension of production, denial or withdrawal of product approvals, or refusal to allow a firm to enter into supply contracts, including government contracts. In addition, even if a firm complies with FDA and other requirements, new information regarding the safety or efficacy of a product could lead the FDA to modify or withdraw product approval. Prohibitions or restrictions on sales or withdrawal of future products marketed by us could materially affect our business in an adverse way. 
+
+Changes in regulations, statutes or the interpretation of existing regulations could impact our business in the future by requiring, for example: (i) changes to our manufacturing arrangements; (ii) additions or modifications to product labeling; (iii) the recall or discontinuation of our products; or (iv) additional record &#8209;keeping requirements. If any such changes were to be imposed, they could adversely affect the operation of our business. 
+
+U.S. Patent Term Restoration and Marketing Exclusivity 
+
+Depending upon the timing, duration and specifics of the FDA approval of our drug candidates, some of our U.S. patents may be eligible for limited patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984, commonly referred to as the Hatch &#8209;Waxman Amendments. The Hatch &#8209;Waxman Amendments permit a patent restoration term of up to five years as compensation for patent term lost during product development and the FDA regulatory review process. However, patent term restoration cannot extend the remaining term of a patent beyond a total of 14 years from the product &#8217; s approval date. The patent term restoration period is generally one &#8209;half the time between the effective date of an IND and the submission date of an NDA plus the time between the submission date of an NDA and the approval of that application. Only one patent applicable to an approved drug is eligible for the extension and the application for the extension must be submitted prior to the expiration of the patent. The USPTO, in consultation with the FDA, reviews and approves the application for any patent term extension or restoration. In the future, we intend to apply for restoration of patent term for one of our currently owned or licensed patents to add patent life beyond its current expiration date, depending on the expected length of the clinical trials and other factors involved in the filing of the relevant NDA. 
+
+Marketing exclusivity provisions under the FDCA can also delay the submission or the approval of certain marketing applications. The FDCA provides a five &#8209;year period of non &#8209;patent marketing exclusivity within the United States to the first applicant to obtain approval of an NDA for a new chemical entity. A drug is a new chemical entity if the FDA has not previously approved any other new drug containing the same active moiety, which is the molecule or ion responsible for the action of the drug substance. During the exclusivity period, the FDA may not accept for review an abbreviated new drug application, or ANDA, or a 505(b)(2) NDA submitted by another company for another drug based on the same active moiety, regardless of whether the drug is intended for the same indication as the original 
+
+&#160;
+
+innovator drug or for another indication, where the applicant does not own or have a legal right of reference to all the data required for approval. However, an application may be submitted after four years if it contains a certification of patent invalidity or non &#8209;infringement to one of the patents listed with the FDA by the innovator NDA holder. The FDCA also provides three years of marketing exclusivity for an NDA, or supplement to an existing NDA if new clinical investigations, other than bioavailability studies, that were conducted or sponsored by the applicant are deemed by the FDA to be essential to the approval of the application, for example new indications, dosages or strengths of an existing drug. This three &#8209;year exclusivity covers only the modification for which the drug received approval on the basis of the new clinical investigations and does not prohibit the FDA from approving ANDAs for drugs containing the active agent for the original indication or condition of use. Five &#8209;year and three &#8209;year exclusivity will not delay the submission or approval of a full NDA. However, an applicant submitting a full NDA would be required to conduct or obtain a right of reference to all of the pre-clinical studies and adequate and well &#8209;controlled clinical trials necessary to demonstrate safety and effectiveness. Orphan drug exclusivity, as described below, may offer a seven &#8209;year period of marketing exclusivity, except in certain circumstances. Pediatric exclusivity is another type of regulatory market exclusivity in the United States. Pediatric exclusivity, if granted, adds six months to existing exclusivity periods and patent terms. This six &#8209;month exclusivity, which runs from the end of other exclusivity protection or patent term, may be granted based on the voluntary completion of a pediatric trial in accordance with an FDA &#8209;issued &#8220; Written Request &#8221; for such a trial. 
+
+Orphan Drug Designation 
+
+The FDA may grant o rphan d rug d esignation to drugs intended to treat a rare disease or condition that affects fewer than 200,000 individuals in the United States, or if it affects more than 200,000 individuals in the United States, there is no reasonable expectation that the cost of developing and marketing the drug for this type of disease or condition will be recovered from sales in the United States. In the European Union, the European Commission, after receiving the opinion of the EMA &#8217; s Committee for Orphan Medic inal Products, or COMP, grants o rphan d rug d esignation to promote the development of products that are intended for the diagnosis, prevention or treatment of a life &#8209;threatening or chronically debilitating conditions affecting not more than five in 10,000 persons in the European Union Community. In addition, designation is granted for products intended for the diagnosis, prevention or treatment of a life &#8209;threatening, seriously debilitating or serious and chronic condition and when, without incentives, it is unlikely that sales of the drug in the European Union would be sufficient to justify the necessary investment in developing the drug or biological product. 
+
+In the United States, o rphan d rug d esignation entitles a party to financial incentives such as opportunities for grant funding towards clinical trial costs, tax advantages and user &#8209;fee waivers. In addition, if a product receives the first FDA approval for the indication for which it has orphan designation, the product is entitled to orphan drug exclusivity, which means the FDA may not approve any other application to market the same drug for the same indication for a period of seven years, except in limited circumstances, such as a showing of clinical superiority over the product with orphan exclusivity. 
+
+In the European Union, o rphan d rug d esignation also entitles a party to financial incentives such as reduction of fees or fee waivers and ten years of market exclusivity is granted following drug or biological product approval. This period may be reduced to six years if the o rphan d rug d esignation criteria are no longer met, including where it is shown that the product is sufficiently profitable not to justify maintenance of market exclusivity. 
+
+Orphan drug designation must be requested before submitting an application for marketing approval. Orphan drug designation does not convey any advantage in, or shorten the duration of, the regulatory review and approval process. 
+
+Regulation of Diagnostic Tests 
+
+We expect that our drug candidates may require use of a diagnostic to identify appropriate patient populations for our products. These diagnostics, often referred to as companion diagnostics, are medical devices, often in vitro devices, which provide information that is essential for the safe and effective use of a corresponding drug. For example, we have entered into an agreement with Ventana for the development and commercialization of a companion diagnostic for BLU-554 in order to identify HCC patients with abberantly active FGFR4 signaling as indicated by FGF19 overexpression. In the United States, the FDCA and its implementing regulations, and other federal and state statutes and regulations govern, among other things, medical device design and development, pre-clinical and clinical testing, premarket clearance or approval, registration and listing, manufacturing, labeling, storage, advertising and promotion, 
+
+&#160;
+
+sales and distribution, export and import, and post &#8209;market surveillance. Unless an exemption applies, diagnostic tests require marketing clearance or approval from the FDA prior to commercial distribution. The two primary types of FDA marketing authorization applicable to a medical device are premarket notification, also called 510(k) clearance, and premarket approval, or PMA approval. We expect that any companion diagnostic developed for our drug candidates will utilize the PMA pathway. 
+
+PMA applications must be supported by valid scientific evidence, which typically requires extensive data, including technical, pre-clinical , clinical and manufacturing data, to demonstrate to the FDA &#8217; s satisfaction the safety and effectiveness of the device. For diagnostic tests, a PMA application typically includes data regarding analytical and clinical validation studies. As part of its review of the PMA, the FDA will conduct a pre &#8209;approval inspection of the manufacturing facility or facilities to ensure compliance with the Quality System Regulation, or QSR, which requires manufacturers to follow design, testing, control, documentation and other quality assurance procedures. FDA review of an initial PMA may require several years to complete. If the FDA evaluations of both the PMA application and the manufacturing facilities are favorable, the FDA will either issue an approval letter or an approvable letter, which usually contains a number of conditions that must be met in order to secure the final approval of the PMA. If the FDA &#8217; s evaluation of the PMA or manufacturing facilities is not favorable, the FDA will deny approval of the PMA or issue a not approvable letter. A not approvable letter will outline the deficiencies in the application and, where practical, will identify what is necessary to make the PMA approvable. The FDA may also determine that additional clinical trials are necessary, in which case the PMA approval may be delayed for several months or years while the trials are conducted and then the data submitted in an amendment to the PMA. Once granted, PMA approval may be withdrawn by the FDA if compliance with post approval requirements, conditions of approval or other regulatory standards is not maintained or problems are identified following initial marketing. 
+
+On August 6, 2014, the FDA issued a final guidance document addressing the development and approval process for &#8220; In Vitro Companion Diagnostic Devices. &#8221; According to the guidance, for novel drugs such as our drug candidates, a companion diagnostic device and its corresponding drug should be approved or cleared contemporaneously by FDA for the use indicated in the therapeutic product labeling. The guidance also explains that a companion diagnostic device used to make treatment decisions in clinical trials of a drug generally will be considered an investigational device, unless it is employed for an intended use for which the device is already approved or cleared. If used to make critical treatment decisions, such as patient selection, the diagnostic device generally will be considered a significant risk device under the FDA &#8217; s Investigational Device Exemption, or IDE, regulations. Thus, the sponsor of the diagnostic device will be required to comply with the IDE regulations. According to the guidance, if a diagnostic device and a drug are to be studied together to support their respective approvals, both products can be studied in the same investigational study, if the study meets both the requirements of the IDE regulations and the IND regulations. The guidance provides that depending on the details of the study plan and subjects, a sponsor may seek to submit an IND alone, or both an IND and an IDE. 
+
+In the EEA, in vitro medical devices are required to conform with the essential requirements of the E.U. Directive on in vitro diagnostic medical devices (Directive No 98/79/EC, as amended). To demonstrate compliance with the essential requirements, the manufacturer must undergo a conformity assessment procedure. The conformity assessment varies according to the type of medical device and its classification. For low &#8209;risk devices, the conformity assessment can be carried out internally, but for higher risk devices it requires the intervention of an accredited EEA Notified Body. If successful, the conformity assessment concludes with the drawing up by the manufacturer of an EC Declaration of Conformity entitling the manufacturer to affix the CE mark to its products and to sell them throughout the EEA. 
+
+European Drug Development 
+
+In the European Union , our future drugs may also be subject to extensive regulatory requirements. As in the United States, medicinal products can only be marketed if a marketing authorization from the competent regulatory agencies has been obtained. 
+
+Similar to the United States, the various phases of pre-clinical and clinical research in the European Union are subject to significant regulatory controls. Although the EU Clinical Trials Directive 2001/20/EC has sought to harmonize the European Union clinical trials regulatory framework, setting out common rules for the control and authorization of clinical trials in the European Union, the European Union Member States have transposed and applied the provisions of the Directive differently. This has led to significant variations in the member state regimes. Under the 
+
+&#160;
+
+current regime, before a clinical trial can be initiated it must be approved in each of the European Union countries where the trial is to be conducted by two distinct bodies: the National Competent Authority, or NCA, and one or more Ethics Committees, or ECs. Under the current regime all suspected unexpected serious adverse reactions to the investigated drug that occur during the clinical trial have to be reported to the NCA and ECs of the Member State where they occurred. 
+
+The European Union clinical trials legislation is currently undergoing a revision process mainly aimed at uniforming and streamlining the clinical trials authorization process, simplifying adverse event reporting procedures, improving the supervision of clinical trials, and increasing their transparency. 
+
+European Drug Review and Approval 
+
+In the European Economic Area, or EEA, (which is comprised of the 27 Member States of the European Union (excluding Croatia) plus Norway, Iceland and Liechtenstein), medicinal products can only be commercialized after obtaining a Marketing Authorization, or MA. There are two types of marketing authorizations: 
+
+The Community MA, which is issued by the European Commission through the Centralized Procedure, based on the opinion of the Committee for Medicinal Products for Human Use, or CHMP, of the EMA and which is valid throughout the entire territory of the EEA. The Centralized Procedure is mandatory for certain types of drugs, such as biotechnology medicinal drugs, orphan medicinal drugs, and medicinal drugs containing a new active substance indicated for the treatment of AIDS, cancer, neurodegenera tive disorders, diabetes, auto &#8209; immune and viral diseases. The Centralized Procedure is optional for drugs containing a new active substance not yet authorized in the EEA, or for drugs that constitute a significant therapeutic, scientific or technical innovation or which are in the interest of public health in the European Union. 
+
+National MAs, which are issued by the competent authorities of the Member States of the EEA and only cover their respective territory, are available for drugs not falling within the mandatory scope of the Centralized Procedure. Where a drug has already been authorized for marketing in a Member State of the EEA, this National MA can be recognized in another Member States through the Mutual Recognition Procedure. If the drug has not received a National MA in any Member State at the time of application, it can be approved simultaneously in various Member States through the Decentralized Procedure. Under the Decentralized Procedure an identical dossier is submitted to the competent authorities of each of the Member States in which the MA is sought, one of which is selected by the applicant as the Reference Member State, or RMS. The competent authority of the RMS prepares a draft assessment report, a draft summary of the drug characteristics, or SPC, and a draft of the labeling and package leaflet, which are sent to the other Member States (referred to as the Member States Concerned) for their approval. If the Member States Concerned raise no objections, based on a potential serious risk to public health, to the assessment, SPC, labeling, or packaging proposed by the RMS, the drug is subsequently granted a national MA in all the Member States (i.e. in the RMS and the Member States Concerned). 
+
+Under the above described procedures, before granting the MA, the EMA or the competent authorities of the Member States of the EEA make an assessment of the risk &#8209;benefit balance of the drug on the basis of scientific criteria concerning its quality, safety and efficacy. 
+
+European Chemical Entity Exclusivity 
+
+In the European Union , new chemical entities, sometimes referred to as new active substances, qualify for eight years of data exclusivity upon marketing authorization and an additional two years of market exclusivity. This data exclusivity, if granted, prevents regulatory authorities in the European Union from referencing the innovator &#8217; s data to assess a generic application for eight years, after which generic marketing authorization can be submitted, and the innovator &#8217; s data may be referenced, but not approved for two years. The overall ten &#8209;year period will be extended to a maximum of 11 years if, during the first eight years of those ten years, the marketing authorization holder obtains an authorization for one or more new therapeutic indications which, during the scientific evaluation prior to their authorization, are held to bring a significant clinical benefit in comparison with existing therapies. 
+
+&#160;
+
+Rest of the World Regulation 
+
+For other countries outside of the Europe an Union and the United States, such as countries in Eastern Europe, Latin America or Asia, the requirements governing the conduct of clinical trials, drug licensing, pricing and reimbursement vary from country to country. In all cases the clinical trials must be conducted in accordance with GCP requirements and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki. 
+
+If we fail to comply with applicable foreign regulatory requirements, we may be subject to, among other things, fines, suspension or withdrawal of regulatory approvals, product recalls, seizure of products, operating restrictions and criminal prosecution. 
+
+Coverage and Reimbursement 
+
+Sales of our drugs will depend, in part, on the extent to which our drugs will be covered by third &#8209;party payors, such as government health programs, commercial insurance and managed healthcare organizations. These third &#8209;party payors are increasingly reducing reimbursements for medical drugs and services. In addition, the containment of healthcare costs has become a priority of federal and state governments, and the prices of drugs have been a focus in this effort. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost &#8209;containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic drugs. Adopt ion of price controls and cost &#8209; containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. Decreases in third &#8209;party reimbursement for our drug candidates, if approved, or a decision by a third &#8209;party payor to not cover our drug candidates could reduce physician usage of such drugs and have a material adverse effect on our sales, results of operations and financial condition. 
+
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, or the MMA, established the Medicare Part D program to provide a voluntary prescription drug benefit to Medicare beneficiaries. Under Part D, Medicare beneficiaries may enroll in prescription drug plans offered by private entities that provide coverage of outpatient prescription drugs. Unlike Medicare Part A and B, Part D coverage is not standardized. Part D prescription drug plan sponsors are not required to pay for all covered Part D drugs, and each drug plan can develop its own drug formulary that identifies which drugs it will cover and at what tier or level. However, Part D prescription drug formularies must include drugs within each therapeutic category and class of covered Part D drugs, though not necessarily all the drugs in each category or class. Any formulary used by a Part D prescription drug plan must be developed and reviewed by a pharmacy and therapeutic committee. Government payment for some of the costs of prescription drugs may increase demand for drugs for which we receive marketing approval. However, any negotiated prices for our drugs covered by a Part D prescription drug plan will likely be lower than the prices we might otherwise obtain. Moreover, while the MMA applies only to drug benefits for Medicare beneficiaries, private payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non &#8209;governmental payors. 
+
+The American Recovery and Reinvestment Act of 2009 provides funding for the federal government to compare the effectiveness of different treatments for the same illness. The plan for the research was published in 2012 by the Department of Health and Human Services, the Agency for Healthcare Research and Quality and the National Institutes for Health, and periodic reports on the status of the research and related expenditures will be made to Congress. Although the results of the comparative effectiveness studies are not intended to mandate coverage policies for public or private payors, it is not clear what effect, if any, the research will have on the sales of our drug candidates, if any such drug or the condition that they are intended to treat are the subject of a trial. It is also possible that comparative effectiveness research demonstrating benefits in a competitor &#8217; s drug could adversely affect the sales of our drug candidate. If third &#8209;party payors do not consider our drugs to be cost &#8209;effective compared to other available therapies, they may not cover our drugs after approval as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our drugs on a profitable basis. 
+
+The Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act of 2010, or collectively the ACA, enacted in March 2010, has had a significant impact on the health care industry. The ACA expanded coverage for the uninsured while at the same time containing overall healthcare costs. With regard to pharmaceutical products, the ACA, among other things, addressed a new methodology by which rebates owed by 
+
+&#160;
+
+manufacturers under the Medicaid Drug Rebate Program are calculated for drugs that are inhaled, infused, instilled, implanted or injected, increased the minimum Medicaid rebates owed by manufacturers under the Medicaid Drug Rebate Program and extended the rebate program to individuals enrolled in Medicaid managed care organizations, established annual fees and taxes on manufacturers of certain branded prescription drugs, and a new Medicare Part D coverage gap discount program, in which manufacturers must agree to offer 50% point &#8209;of &#8209;sale discounts off negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for the manufacturer &#8217; s outpatient drugs to be covered under Medicare Part D. 
+
+In addition, other legislative changes have been proposed and adopted in the United States since the ACA was enacted. On August 2, 2011, the Budget Control Act of 2011 among other things, created measures for spending reductions by Congress. A Joint Select Committee on Deficit Reduction, tasked with recommending a targeted deficit reduction of at least $1.2 trillion for the years 2013 through 2021, was unable to reach required goals, thereby triggering the legislation &#8217; s automatic reduction to several government programs. This includes aggregate reductions to Medicare payments to providers of up to 2% per fiscal year, started in April 2013, and, due to subsequent legislative amendments, will stay in effect through 2024 unless additional Congressional action is taken. On January 2, 2013, President Obama signed into law the American Taxpayer Relief Act of 2012, or the ATRA, which among other things, also reduced Medicare payments to several providers, including hospitals, imaging centers and cancer treatment centers, and increased the statute of limitations period for the government to recover overpayments to providers from three to five years. We expect that additional federal healthcare reform measures will be adopted in the future, any of which could limit the amounts that federal and state governments will pay for healthcare drugs and services, and in turn could significantly reduce the projected value of certain development projects and reduce our profitability. 
+
+In addition, in some foreign countries, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the European Union provides options for its member states to restrict the range of medicinal drugs for which their national health insurance systems provide reimbursement and to control the prices of medicinal drugs for human use. A member state may approve a specific price for the medicinal drug or it may instead adopt a system of direct or indirect controls on the profitability of the Company placing the medicinal drug on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical drugs will allow favorable reimbursement and pricing arrangements for any of our drugs. Historically, drugs launched in the European Union do not follow price structures of the United States and generally tend to be significantly lower. 
+
+Other Healthcare Laws 
+
+We may also be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments where we may market our product candidates, if approved. These laws include, without limitation, state and federal anti &#8209;kickback, fraud and abuse, false claims, privacy and security and physician sunshine laws and regulations. 
+
+The federal Anti &#8209;Kickback Statute prohibits, among other things, any person from knowingly and willfully offering, soliciting, receiving or providing remuneration, directly or indirectly, to induce either the referral of an individual, for an item or service or the purchasing or ordering of a good or service, for which payment may be made under federal healthcare programs such as the Medicare and Medicaid programs. The Anti &#8209;Kickback Statute is subject to evolving interpretations. In the past, the government has enforced the Anti &#8209;Kickback Statute to reach large settlements with healthcare companies based on sham consulting and other financial arrangements with physicians. A person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. In addition, the government may assert that a claim including items or services resulting from a violation of the federal Anti &#8209;Kickback Statute constitutes a false or fraudulent claim for purposes of the federal False Claims Act. The majority of states also have anti &#8209;kickback laws, which establish similar prohibitions and in some cases may apply to items or services reimbursed by any third &#8209;party payor, including commercial insurers. 
+
+In addition, the civil False Claims Act prohibits knowingly presenting or causing the presentation of a false, fictitious or fraudulent claim for payment to the U.S. government. Actions under the False Claims Act may be brought by the Attorney General or as a qui tam action by a private individual in the name of the government. Violations of the False Claims Act can result in very significant monetary penalties and treble damages. The federal government is using the False Claims Act, and the accompanying threat of significant liability, in its investigation and prosecution of pharmaceutical and biotechnology companies throughout the U.S., for example, in connection with the promotion of 
+
+&#160;
+
+products for unapproved uses and other sales and marketing practices. The government has obtained multi &#8209;million and multi &#8209;billion dollar settlements under the False Claims Act in addition to individual criminal convictions under applicable criminal statutes. Given the significant size of actual and potential settlements, it is expected that the government will continue to devote substantial resources to investigating healthcare providers &#8217; and manufacturers &#8217; compliance with applicable fraud and abuse laws. 
+
+The federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, also created new federal criminal statutes that prohibit among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third &#8209;party payors, knowingly and willfully embezzling or stealing from a healthcare benefit program, willfully obstructing a criminal investigation of a healthcare offense, and knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. Similar to the federal Anti &#8209;Kickback Statute, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. 
+
+There has also been a recent trend of increased federal and state regulation of payments made to physicians and other healthcare providers. The ACA, among other things, imposes new reporting requirements on drug manufacturers for payments made by them to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. Failure to submit required information may result in civil monetary penalties of up to an aggregate of $150,000 per year (or up to an aggregate of $1 million per year for &#8220; knowing failures &#8221; ), for all payments, transfers of value or ownership or investment interests that are not timely, accurately and completely reported in an annual submission. Drug manufacturers were required to begin collecting data on August 1, 2013 and submit reports to the government by March 31, 2014 and June 30, 2014, and the 90th day of each subsequent calendar year. Certain states also mandate implementation of compliance programs, impose restrictions on drug manufacturer marketing practices and/or require the tracking and reporting of gifts, compensation and other remuneration to physicians. 
+
+We may also be subject to data privacy and security regulation by both the federal government and the states in which we conduct our business. HIPAA, as amended by the Health Information Technology and Clinical Health Act, or HITECH, and their respective implementing regulations, including the final omnibus rule published on January 25, 2013, imposes specified requirements relating to the privacy, security and transmission of individually identifiable health information. Among other things, HITECH makes HIPAA &#8217; s privacy and security standards directly applicable to &#8220; business associates, &#8221; defined as independent contractors or agents of covered entities that create, receive, maintain or transmit protected health information in connection with providing a service for or on behalf of a covered entity. HITECH also increased the civil and criminal penalties that may be imposed against covered entities, business associates and possibly other persons, and gave state attorneys general new authority to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorney &#8217; s fees and costs associated with pursuing federal civil actions. In addition, state laws govern the privacy and security of health information in certain circumstances, many of which differ from each other in significant ways, thus complicating compliance efforts. 
+
+Employees 
+
+As of February 29 , 2016 , we had 81 full &#8209;time employees, including 38 employees with M.D. or Ph.D. degrees. Of these full &#8209;time employees, 61 employees are engaged in research and development activities , and 20 are engaged in general and administrative activities. None of our employees is represented by a labor union or covered by a collective bargaining agreement. We consider our relationship with our employees to be good. 
+
+Corporate Information 
+
+We were incorporated in the State of Delaware in October 2008 under the name ImmunoCo, Inc. In May 2010, we changed our name to Hoyle Pharmaceuticals, Inc., and in June 2011, we changed our name again to Blueprint Medicines Corporation. Our principal executive offices are located at 38 Sidney Street, Suite 200, Cambridge, Massachusetts 02139, and our telephone number is (617) 374-7580. 
+
+&#160;
+
+Information Available on the Internet 
+
+Our Internet website address is http://www.blueprintmedicines.com. The information contained on, or that can be accessed through, our website is not a part of or incorporated by reference in this Annual Report on Form 10-K. We have included our website address in this in this Annual Report on Form 10-K solely as an inactive textual reference. We make available free of charge through our website our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act. We make these reports available through the &#8220; Investors&#8212;SEC Filings &#8221; section of our website as soon as reasonably practicable after we electronically file such reports with, or furnish such reports to, the Securities and Exchange Commission, or SEC . We also make available, free of charge on our website, the reports filed with the SEC by our executive officers, directors and 10% stockholders pursuant to Section 16 under the Exchange Act as soon as reasonably practicable after copies of those filings are provided to us by those persons. You can find, copy and inspect information we file at the SEC &#8217; s public reference room, which is located at 100 F Street, N.E., Room 1580, Washington, DC 20549. Please call the SEC at 1-800-SEC-0330 for more information about the operation of the SEC &#8217; s public reference room. You can review our electronically filed reports and other information that we file with the SEC on the SEC &#8217; s website at http://www.sec.gov. 
+

@@ -1,0 +1,348 @@
+ Item 1. Business 
+
+We are a leading supplier of cloud networking solutions that use software innovations to address the needs of large-scale Internet companies, cloud service providers and next-generation data centers for enterprises, based on market share. Our cloud networking solutions consist of our Extensible Operating System, or EOS, a set of network applications and our 10/25/40/50/100 Gigabit Ethernet switches. Our cloud networking solutions deliver industry-leading performance, scalability, availability, programmability, automation and visibility. Since we began shipping our products, we have grown rapidly, and, according to Crehan Research, we have achieved the second largest market share in data center 10/25/40/50/100 Gigabit Ethernet switch ports, excluding blade switching, sold in 2015. 
+
+At the core of our cloud networking platform is EOS, which was purpose-built to be fully programmable and highly modular. The programmability of EOS has allowed us to create a set of software applications that address the requirements of cloud networking, including workflow automation, network visibility and analytics, and has also allowed us to rapidly integrate with a wide range of third-party applications for virtualization, management, automation, orchestration and network services. 
+
+EOS supports leading cloud and virtualization solutions, including VMware NSX, Microsoft System Center, OpenStack and other cloud management frameworks. We have worked with industry leaders to define new open protocols for the virtualized data center. We co-authored the VXLAN protocol specification with VMware and were the first to demonstrate VXLAN integration. We also co-authored the NVGRE protocol specification with Microsoft and support integration with Microsoft&#8217;s System Center. 
+
+We use standard Linux as our underlying operating system, providing customers with access to all Linux operating system facilities. This allows customers to extend our EOS software with off-the-shelf Linux applications and a growing number of open source management tools. 
+
+EOS has a highly modular architecture, which allows us to prevent network outages in deployments of our cloud networking solutions. This architecture also allows us to rapidly develop new features and protocols without compromising the quality of the existing code base. Because all of our switching products are powered by the same binary image of EOS, we are able to deliver these new innovations to our entire installed base with minimal disruption. 
+
+EOS+, a software platform for network programmability and automation, provides an advanced level of programmability, allowing customers to take advantage of pre-built and custom EOS applications as well as integration with a wide range of technology partner solutions. 
+
+In 2015, we introduced CloudVision, a network-wide approach for workload orchestration and workflow automation delivering a turnkey solution for cloud networking. We believe CloudVision&#8217;s abstraction of the physical network to this broader, network-wide perspective allows for a more efficient approach for several operational use-cases related to automation, visibility, management, security and 3 rd &#32;party controller integration. 
+
+We sell our products through both our direct sales force and our channel partners. Since shipping our first products in 2008, our cumulative end-customer base has grown rapidly. Between December 31, 2011 and December 31, 2015, our cumulative end-customer base grew from approximately 1,100 to over 3,700. Our end customers span a range of industries and include large Internet companies, service providers, financial services organizations, government agencies, media and entertainment companies and others. Our customers include six of the largest cloud services providers based on annual revenue. 
+
+We have experienced rapid revenue growth over the last several years, increasing our revenue at a compound annual growth rate of 56.4% from $139.8 million in 2011 to $837.6 million in 2015. For 2013, 2014, and 2015 our revenue was $361.2 million, $584.1 million and $837.6 million, respectively, with our 2015 revenue growing 43.4% when compared to 2014. Our net income has grown from $34.0 million in 2011 to $42.5 million, $86.9 million and $121.1 million in 2013, 2014, and 2015, respectively. 
+
+We were incorporated in the State of California as Arastra, Inc. in October 2004. We reincorporated in the State of Nevada in March 2008, and we changed our name to Arista Networks, Inc. in October 2008. We reincorporated in the State of Delaware in March 2014. Our principal executive offices are located at 5453 Great America Parkway, Santa Clara, California 95054. Our main telephone number is (408) 547-5500. Our website address is www.arista.com. Information contained on, or that can be accessed through, our website is not incorporated by reference into this report, and you should not consider information on our website to be part of this report. 
+
+Industry Background 
+
+Cloud computing is fundamentally changing the way IT infrastructure is built and how applications are delivered. In cloud computing, applications are distributed across thousands of servers. These servers are connected with high-speed network switches that, together, form a pool of resources that allows applications to be rapidly deployed and cost-effectively updated. Cloud computing enables ubiquitous and on-demand network access to these applications from Internet-connected devices including personal computers, tablets and smartphones. 
+
+Nearly all consumer applications today are delivered as cloud services. Enterprise applications are rapidly moving to the cloud as well, since cloud services are easier and more cost effective to deploy, scale and operate than traditional applications. Internet leaders like Amazon, eBay, Facebook, Google, Microsoft and Yahoo! pioneered the development of large-scale cloud data centers in order to meet the growing demands of their users, including business customers. Enterprises and service providers around the world are adopting cloud computing technologies in order to achieve similar performance improvements and cost reductions. 
+
+The aggregate network bandwidth in the cloud can be orders of magnitude higher than typical legacy data center networks. Therefore, the networks in such cloud environments must be architected and built in a new way. We refer to these next-generation data center networks as cloud networks. Cloud networks must deliver high capacity, high availability and predictable performance and must be programmable to allow integration with third-party applications for network, management, automation, orchestration and network services. 
+
+Limitations of Traditional Data Center Networks 
+
+In our view, cloud networks and legacy networks are fundamentally different. In a traditional data center, specific applications are installed on a small number of servers, and most network traffic is server-to-client, or &#8220;north-south&#8221; traffic, which results in perhaps a few terabits/second of aggregate network bandwidth. In the cloud, most network traffic is server-to-server, or &#8220;east-west&#8221; traffic. The aggregate network bandwidth in the cloud can exceed 1 petabit/second, orders of magnitude higher than that of typical legacy data center networks. 
+
+The much larger scale of cloud networks requires much higher network availability since network outages in the cloud are very expensive in terms of customer impact. Traditional network switches have evolved, and the features and capabilities of their operating system have expanded over many years without addressing the structural deficiencies of their underlying software architectures, making it difficult to achieve high network switch reliability. 
+
+Some networking vendors have built products that use proprietary protocols to address the scaling needs of next-generation data centers. However, proprietary protocols are generally not acceptable to Internet companies or cloud service providers because they create vendor lock-in. 
+
+Legacy networks are not programmable and, as a result, are extremely difficult to integrate with third-party applications for network management, automation, orchestration and network services. This lack of integration forces customers to continue to rely on time consuming, error-prone manual processes that may be cost-prohibitive. 
+
+Requirements for Cloud Networking 
+
+Cloud networks differ in many aspects from legacy networks, including capacity, performance, scale, availability, programmability, automation, visibility, security and cost performance. The requirements for cloud networking include the following: 
+
+&#8226; 
+
+Capacity, Performance and Scalability. &#32;Cloud networks must have sufficient capacity to interconnect large numbers of servers, up to hundreds of thousands, with predictable network bandwidth. 
+
+&#8226; 
+
+High Availability. &#32;Cloud networks must overcome hardware and software failures for customers in order to avoid network outages that can result in lost revenue, dissatisfied customers and increased operational cost. 
+
+&#8226; 
+
+Open and Programmable. &#32;Cloud networks must be based on open protocols and be programmable to enable integration with leading network applications and management and data analysis tools. 
+
+&#8226; 
+
+Workflow Automation. &#32;Cloud networks must offer automated provisioning and configuration to enable fast service delivery and to minimize operational costs, avoiding time-consuming and error-prone manual processes for configuring, provisioning, monitoring and managing the network. 
+
+&#8226; 
+
+Network Visibility. &#32;Cloud networks must provide IT administrators with real-time in-depth visibility of network status to proactively monitor, detect and notify when issues arise. 
+
+&#8226; 
+
+Security. &#32; Cloud networks require dynamic security and services from physical-to-physical and physical-to-virtual workloads. &#32; 
+
+&#8226; 
+
+Cost Performance. &#32;Cloud networks must deliver high performance while lowering overall cost of ownership, including capital and operational costs. 
+
+Our Cloud Networking Solutions 
+
+We are a leading supplier of cloud networking solutions that use software innovations to address the needs of large-scale Internet companies, cloud service providers and next-generation enterprise data centers. Our cloud networking platform was purpose-built to address the functional and performance requirements for cloud networks. We deliver our solutions via our industry-leading 10/25/40/50/100 Gigabit Ethernet switches optimized for next-generation data center networks. 
+
+Our cloud networking solutions consist of EOS, our Extensible Operating System, a set of networking applications and our 10/25/40/50/100 Gigabit Ethernet switches. At the core of our cloud networking platform is EOS, which was architected to be fully programmable and highly modular. 
+
+The programmability of EOS has allowed us to create a set of software applications and application programming interfaces, or APIs, that address the requirements of cloud networking, including workflow automation, network visibility and analytics, and has further allowed us to integrate rapidly with a wide range of third-party applications for virtualization, management, automation, orchestration and network services. 
+
+The key benefits of our cloud networking solutions are as follows: 
+
+Capacity, Performance and Scalability 
+
+Our cloud networking platform enables data center networks to scale to hundreds of thousands of physical servers and millions of virtual machines with the least number of switching tiers. We achieve this by leveraging standard protocols to meet the scale requirements of cloud computing. We have used active-active Layer 2 and Layer 3 network topologies to enable customers to build extremely large and resilient networks. 
+
+High Availability 
+
+Our highly modular EOS software architecture was designed to be fault-isolating and self-healing in order to deliver higher stability compared to legacy network operating systems. In addition, our customers can non-disruptively upgrade our switches running in the network using our Smart System Upgrade, or SSU, application. 
+
+Open and Programmable 
+
+Our EOS software was purpose-built to offer programmable interfaces throughout all levels of our software. This has allowed us to integrate our cloud networking platform with a wide range of leading third-party applications. For example, we support VMware NSX, OpenStack and Microsoft System Center for orchestration and fast provisioning, enabling true workload mobility and automatic provisioning of physical switches. We enable customers, through application programming interfaces, to write their own scripts to customize and optimize their networks. In addition, we support a wide range of software-defined network controllers via our OpenFlow and DirectFlow interfaces. 
+
+Workflow Automation 
+
+Our EOS software enables enterprises to provision networking resources in minutes with no manual intervention through our Zero Touch Provisioning. We also natively support Ansible, CFEngine, Chef, Puppet, virtual network orchestration applications and third-party management tools. CloudVision, a network-wide approach for workload orchestration and workflow automation delivering a turnkey solution for cloud networking. CloudVision extends the same EOS architectural approach across the network for state, topology, monitoring and visibility. This enables enterprises to move to cloud-class automation without needing significant internal development. Finally, EOS embraces the DevOps model, which is a software development method that combines development and operations, to provision and monitor servers, storage and network resources in a unified fashion. 
+
+Network Visibility 
+
+Our EOS software provides a set of tools and applications that proactively monitor, detect and notify network managers when network issues arise, delivering real-time data to third-party management applications including Corvil, ExtraHop, Riverbed and Splunk to provide detailed application visibility. Our telemetry applications include VM Tracer, which provides visibility down to the virtual machine level, Path Tracer, which detects errors in provisioned network paths, MapReduce Tracer, which monitors and optimizes the performance of Hadoop workloads, and Health Tracer, which monitors infrastructure resiliency. Our network visibility applications provide real-time insight into the status of the network. They include LANZ, which monitors latency, and DANZ, which provides advanced traffic monitoring with flow analysis and timestamps, plus the ability to perform tap aggregation for reporting and analysis. 
+
+Security 
+
+Macro-Segmentation Services (MSS&#8482;) is one of the services enabled via Arista CloudVision. Since CloudVision maintains a network-wide database of all state within the network, as well as direct integration with hypervisor resources like VMware vSphere and NSX, it is aware of where every workload is within the network and it learns in real time about new devices or workloads that are added to the network, removed from the network, or moved across ports or servers. Macro-segmentation extends the concept of fine-grained inter-hypervisor security to cloud networks by enabling dynamic security and services of physical to virtual workloads. Macro-segmentation security is a complement to fine-grained security delivered via micro-segmentation that is implemented in the virtual switch of the physical host on which a VM is running. 
+
+Lower Total Cost of Ownership 
+
+Our cloud networking platform offers architectural and system advantages that provide our customers with cost-effective and highly available cloud networking solutions. Our programmable, scalable leaf-spine architectures, combined with industry-leading applications, significantly reduce networking costs when compared to legacy network designs, enabling faster time to service and improved availability. Our automation tools reduce the operational costs of provisioning, managing and monitoring a data center network and speed up service delivery. Our visibility tools provide high levels of visibility into complex network environments without the need for additional data collection equipment. As a result, fewer network engineers are needed to operate large networks. 
+
+Our Market Opportunity 
+
+We compete primarily in the data center switching market for 10 Gigabit Ethernet and above, excluding blade switches. 
+
+We believe that cloud computing represents a fundamental shift from traditional legacy data centers and that cloud networking is the fastest growing segment within the data center switching market. As organizations of all sizes are adopting cloud architectures, spending on cloud and next-generation data centers has increased rapidly over the last several years, while traditional legacy IT spending has been growing more slowly. 
+
+Our Customers 
+
+As of December 31, 2015, we had delivered our cloud networking solutions to approximately 3,700 end customers worldwide in over 70 countries. Our end customers span a range of industries and include large Internet companies, service providers, financial services organizations, government agencies, media and entertainment companies and others. For each of the years ended December 31, 2015, 2014, and 2013, Microsoft purchases, through our channel partner World Wide Technology, Inc., accounted for more than 10% of our total revenue. 
+
+Our Competitive Strengths 
+
+We believe the following strengths will allow us to maintain and extend our technology leadership position in cloud networking and next-generation data center Ethernet switching: 
+
+&#8226; 
+
+Purpose-Built Cloud Networking Platform. &#32;We have developed a highly scalable cloud networking platform that uses software to address the needs of large-scale Internet companies, cloud service providers, financial services organizations, government agencies and media and entertainment companies, including virtualization, big data and low-latency applications. As a result, our cloud networking platform does not have the inherent limitations of legacy network architectures. 
+
+&#8226; 
+
+Broad and Differentiated Switch Portfolio. &#32;Using multiple silicon architectures, we deliver switches with industry-leading capacity, low latency, port density and power efficiency and have innovated in areas such as deep packet buffers, embedded optics and reversible cooling. Our broad switching portfolio has allowed us to offer customers products that best match their specific requirements. 
+
+&#8226; 
+
+Single Binary Image Software. &#32;The single binary image of EOS software allows us to maintain feature consistency across our entire product portfolio and enables us to introduce new software innovations into the market that become available to our entire installed base without a &#8220;forklift upgrade&#8221; (i.e., a broad upgrade of the data center infrastructure). 
+
+&#8226; 
+
+Rapid Development of New Features and Applications. &#32;Our highly modular EOS software has allowed us to rapidly deliver new features and applications while preserving the structural integrity and quality of our network operating system. We believe our ability to deliver new features and capabilities more quickly than possible with legacy switch operating systems provides us with a strategic advantage given that the requirements in cloud and next-generation data center networking continue to evolve rapidly. 
+
+&#8226; 
+
+Deep Understanding of Customer Requirements. &#32;We have developed close working relationships with many of our largest customers that provide us with insights about their needs and future requirements. This has allowed us to develop and deliver products to market that meet customer demands and expectations as well as to rapidly grow sales to existing customers. 
+
+&#8226; 
+
+Strong Management and Engineering Team with Significant Data Center Networking Expertise. &#32;Our management and engineering team consists of networking veterans with extensive data center networking expertise. Our President and Chief Executive Officer, Jayshree Ullal, previously served as SVP and general manager of Cisco&#8217;s Data Center Business. Andy Bechtolsheim, our founder and Chief Development Officer, was previously a founder and chief system architect at Sun 
+
+Microsystems and from 1996 to 2003 served as VP/GM of the Gigabit Systems Business Unit at Cisco. Kenneth Duda, our founder, Chief Technology Officer and SVP Software Engineering, led the software development effort of the Gigabit Systems Business Unit at Cisco from 1996 to 2000. 
+
+&#8226; 
+
+Significant Technology Lead. &#32;We believe that our networking technology represents a fundamental advance in networking software. Our EOS software is the result of more than 1,000 man-years of research and development investment over a ten-year period. 
+
+Our Growth Strategy 
+
+We intend to grow our revenue and market share in cloud and next-generation data center Ethernet switching. Key elements of our growth strategy include: 
+
+&#8226; 
+
+Continue to Innovate and Extend our Technology Leadership. &#32;We plan to increase our investment in research and development to expand and enhance the features and capabilities of our cloud networking solutions, including our EOS software and our switching products. We believe that continued software and hardware innovation is critical to addressing the complex and changing requirements of cloud networks and that our approach will enable us to continue to innovate rapidly and bring new offerings to market. 
+
+&#8226; 
+
+Expand our Sales Organization and our Channel Partners. &#32;We intend to continue to invest in our sales organization around the globe as we pursue relationships with new large enterprise, service provider and government customers that are deploying data centers. We believe our channel partner network serves a critical role in growing our sales, and we intend to continue to expand our channel partner network and enhance our sales efficiency through sales and support training. We designed our Arista Partner Program, targeted at resellers and systems integrators, to engage partners who provide value-added services and extend our reach into the marketplace. 
+
+&#8226; 
+
+Increase Penetration with our Existing Customer Base. &#32;Our customers often deploy our products initially for a specific application, which may account for only a portion of their networking needs. As we successfully demonstrate the benefits of our solutions, we see a significant opportunity to sell additional products and services to our existing customers to migrate additional workloads and applications onto our cloud networking platform. For example, the information technology department of a global financial services institution, which is associated with one of our underwriters, initially purchased our products for a trading application, then for an IP storage application and is now using our products in the core of its data center. 
+
+&#8226; 
+
+Expand Strategic Relationships. &#32;We have developed strategic relationships with a number of technology ecosystem participants including A10 Networks, Ansible, Aruba Networks, Cloudera, F5 Networks, Hewlett Packard Enterprises, Microsoft, Nuage, Palo Alto Networks, Puppet Labs, Pure Storage, RedHat, Riverbed, Splunk, VMTurbo, VMware and Zscaler, to allow integration of our cloud networking solutions with their offerings and enable an integrated experience for our customers. This is a key differentiating point of our solutions as it allows customers to improve performance by integrating with leading solutions. We intend to continue building upon these relationships to provide our customers with the ability to more easily integrate our networking products with their existing and planned IT infrastructures. 
+
+Our Products and Technology 
+
+We offer one of the broadest product lines of data center 10/25/40/50/100 Gigabit Ethernet switches in the industry, comprising our 7050X Series, 7060X Series, 7150 Series, 7260 Series, 7280 leaf switches, 7300X Series Spline switches and our 7500E Series spine switches. 
+
+We deliver switches with industry-leading capacity, low latency, port density and power efficiency. We have also innovated in areas such as deep packet buffers, embedded optics and reversible cooling. Our products have been recognized with a number of awards, including the Best of Interop Grand Prize that was given to our industry-leading spine switch, the Arista 7500 Series, in 2010 and again, to the Arista 7500E Series, in 2013. An overview of our switching portfolio is shown in the figure below. 
+
+We use multiple silicon architectures across our products, which allows us to build a broader range of switching products optimized for different functions in the network than competitors that utilize fewer silicon architectures. While we use multiple silicon architectures, all of our switches are powered with the same binary EOS image, which significantly simplifies deployment and ensures the same rich feature set and consistent operation across all our products. 
+
+Our Extensible Operating System 
+
+The core of our cloud networking platform is our Extensible Operating System, or EOS, which runs on top of standard Linux and offers programmability at all layers of the stack. All of our 10/25/40/50/100 Gigabit Ethernet switches run our EOS software. 
+
+EOS is based on a new and innovative architecture that cleanly separates protocol processing from system state. Our EOS software is highly modular and consists of more than 100 separate processes that we call agents, each one handling specific protocol processing, device driver or system management functions. Each agent runs in user space as a separate Linux process and is completely protected and isolated from all other agents. Communication between agents only occurs through a central in-memory database called SysDB, which provides a central repository for all system state. Any update posted by an agent to SysDB is automatically forwarded to all other processes that need to be notified of such an update to perform the appropriate processing. The exchange of state through a central state repository is far more reliable than the conventional approach of direct inter-process communication between a large number of processes. 
+
+As illustrated below, all agents are isolated from each other and interact directly through SysDB, thereby ensuring fault containment and availability. 
+
+EOS Attributes 
+
+The modular and programmable architecture of EOS enables us to offer a set of attributes, capabilities and features that are essential for cloud networking and next-generation data centers. 
+
+High Availability 
+
+EOS is self-healing in the sense that individual processes can be restarted without impacting application traffic. The same attribute allows in-service software upgrades of individual EOS processes. The capability to recover from software faults and upgrade processes in a running system is not available in legacy network operating systems. 
+
+Programmable at All Layers 
+
+EOS is programmable at all layers from the Linux kernel to switch configuration, provisioning, automation and detailed monitoring of the network. 
+
+Complete Network Visibility 
+
+Through EOS, we have developed a wide range of applications available to our customers for purchase as additional licenses that enable enhanced network monitoring and visibility without requiring additional external monitoring devices. 
+
+Network Automation 
+
+EOS supports Puppet, Chef and Ansible, which enables automatic network configuration in the same manner as servers and storage. In addition, EOS provides tools that greatly reduce network operational costs. 
+
+CloudVision 
+
+CloudVision&#8217;s abstraction of the physical network to this broader, network-wide perspective allows for a more efficient approach for several operational use-cases, including the following highlights: 
+
+&#8226; 
+
+Centralized representation of distributed network state, allowing for a single point of integration and network-wide visibility and analytics; 
+
+&#8226; 
+
+Controller agnostic support for physical and virtual workload orchestration through open APIs such as OVSDB, JSON and Openstack plugins; 
+
+&#8226; 
+
+Turn-key automation for zero touch provisioning, configuration management and network-wide upgrades and rollback; 
+
+&#8226; 
+
+Compliance Dashboard for Security, Audit and patch management; 
+
+&#8226; 
+
+Real-time Streaming for Telemetry and Network Analytics, a modern approach to replace legacy polling per device; 
+
+&#8226; 
+
+Provides visibility and troubleshooting for underlay and overlay networks; and 
+
+&#8226; 
+
+Enables Macro-Segmentation Services which provides a dynamic and scalable network service to logically insert security devices into the path of traffic, regardless of whether the security device or workload is physical or virtual and with complete flexibility on placement of security devices and workloads. 
+
+Leaf-Spine Network Designs 
+
+Our customers typically deploy leaf-spine network topologies consisting of leaf switches or top-of-rack switches, located in the server rack connected with uplinks to multiple load-sharing spine switches that provide the backbone. Our leaf-spine network designs scale up to more than 300,000 physical servers and millions of virtual machines using Equal Cost Multiple Path, or ECMP, to load balance Layer 3 network traffic across multiple spine switches. With Multi-Chassis Link Aggregation, or MLAG, we can build an active-active Layer 2 network that can connect more than 25,000 physical servers. Examples of our leaf-spine MLAG and ECMP architectures are illustrated below. 
+
+Our leaf-spine network designs have been widely deployed and provide predictable network bandwidth and latency. A key advantage of predictable network performance is that it eliminates the need to optimize the network for specific applications, which means a single network design works equally well for all applications. 
+
+Customer Support and Services 
+
+We have designed our customer support offerings to provide our customers with high levels of support. Our global team of support engineers engages directly with client IT teams and is available at all times over e-mail, by phone or through our website. 
+
+We offer multiple service options that allow our customers to select the product replacement service level that best meets their needs. We stock spare parts in over 100 locations around the world through our third-party logistics suppliers. All of our service options include unlimited access to bug-fixes, new feature-releases, online case management and our community forums. 
+
+Sales and Marketing 
+
+We market and sell our products through our direct sales force and in partnership with our channel partners, including distributors, value-added resellers, systems integrators and OEM partners. We also sell in conjunction with various technology partners. To facilitate channel coordination and increase productivity, we have created a partner program, the Arista Partner Program, to engage partners who provide value-added services and extend our reach into the marketplace. Authorized training partners perform technical training of our channel partners and end customers. Our partners commonly receive an order from an end customer prior to placing an order with us, and we confirm the identification of the end customer prior to accepting such orders. Our partners generally do not stock inventory received from us. 
+
+Our sales organization is supported by systems engineers with deep technical expertise and responsibility for pre-sales technical support and solutions engineering for our end customers, systems integrators, original equipment manufacturers, or OEMs, and channel partners. A pool of shared channel sales and marketing representatives also supports these teams. Each sales team is responsible for a geographical territory, has responsibility for a number of major direct end-customer accounts or has assigned accounts in a specific vertical market. We have field sales teams operating in over 70 countries. During 2015 and 2014, 77.3% and 79.7% of our revenue was generated from the Americas, substantially all from the U.S., 15.3% and 12.8% from Europe, the Middle East and Africa and 7.4% and 7.5% from the Asia-Pacific region, respectively. 
+
+Our marketing activities consist primarily of technology conferences, web marketing, trade shows, product demonstrations, seminars and events, public relations, analyst relations, demand generation and direct marketing to build our brand, increase end-customer awareness, communicate our product advantages and generate qualified leads for our field sales force and channel partners. 
+
+Research and Development 
+
+We believe our future success depends on our ability to develop new products and features that address the needs of our end customers. Our in-house engineering personnel are responsible for the development, quality, documentation, support and release of our products. We plan to continue to invest significantly in resources to conduct our research and development efforts. 
+
+Manufacturing 
+
+We subcontract the manufacturing of all of our products to various contract manufacturers. Our primary manufacturing partners are Jabil Circuit and Foxconn. We also work with Flextronics International Ltd. to provide logistics and final configuration services in North America. This approach allows us to reduce our costs, manufacturing overhead and inventory position and allows us to adjust more quickly to changing end-customer demand. We require all of our manufacturing locations to be ISO-9001 certified. Our EOS software is installed on our products at one of three direct fulfillment facilities. 
+
+Our contract manufacturing partners procure the majority of the components needed to build our products and assemble our products according to our design specifications. This allows us to leverage the purchasing power of our contract manufacturing partners. We retain complete control over the bill of material, test procedures and quality assurance programs. Our on-site personnel work closely with our partners and review on an ongoing basis forecasts, inventory levels, processes, capacity, yields and overall quality. Our contract manufacturing partners procure components and assemble our products based on our demand forecasts. These forecasts represent our estimates of future demand for our products based upon historical trends and analyses from our sales and product management functions as adjusted for overall market conditions. We update these forecasts monthly. 
+
+Our products rely on key components, including merchant silicon, integrated circuit components and power supplies purchased from a limited number of suppliers, including certain sole source providers. Generally, neither our contract manufacturers nor we have a written agreement with any of these component providers to guarantee the supply of the key components used in our products nor do we have exclusive rights to such key components. Our product development efforts also depend upon continued collaboration with our key suppliers, including our merchant silicon vendors such as Broadcom and Intel. As we develop our product roadmap and continue to expand our relationships with these and other merchant silicon vendors, it is critical that we work in tandem with our key merchant silicon vendors to ensure that their silicon includes improved features and that our products take advantage of such improved features. This enables us to focus our research and development resources on software core competencies and to leverage the investments made by merchant silicon vendors to achieve cost-effective solutions. 
+
+Once the completed products are manufactured and tested, our contract manufacturing partners ship them to various theatre direct fulfillment facilities in California, the Netherlands and Singapore for final configuration, quality control inspection and shipment to our distribution partners and end customers. After the products are shipped to our end customers, our products are installed by the end customers or by third-party service providers such as system integrators or value added resellers on their behalf. 
+
+Backlog 
+
+We do not have any long-term purchase commitments from customers. Customers generally order products on an as-needed basis with short lead and delivery times on a per-purchase-order basis. We maintain substantial finished goods inventory to ensure that products can generally be shipped shortly after receipt of an order. A significant portion of our customer shipments in any fiscal year relate to orders received and shipped in that fiscal year, resulting in low product backlog relative to total shipments. Because our customers utilize purchase orders containing non-binding purchase commitments and we allow customers to cancel, change or reschedule orders without penalty at any time prior to shipment, we also do not believe backlog is firm. As a result of the foregoing factors, backlog is not material and not a meaningful indicator in any given period of our ability to achieve any particular level of overall revenue or financial performance. 
+
+Competition 
+
+The markets in which we compete are highly competitive and characterized by rapidly changing technology, changing end-customer needs, evolving industry standards and frequent introductions of new products and services. We expect competition to intensify in the future as the market for cloud networking expands and existing competitors and new market entrants introduce new products or enhance existing products. 
+
+The data center networking market has been historically dominated by Cisco Systems, with competition also coming from other large network equipment and system vendors including Brocade Communications Systems, Dell, Hewlett-Packard and Juniper Networks. We also face competition from other companies and new market entrants, including &#8220;whitebox&#8221; switch vendors as well as current technology partners and end customers who may develop network switches and cloud service solutions for internal use and/or to broaden their portfolio of products. 
+
+The principle competitive factors applicable to our products include: 
+
+&#8226; 
+
+breadth of product offerings and features; 
+
+&#8226; 
+
+reliability and product quality; 
+
+&#8226; 
+
+ease of use; 
+
+&#8226; 
+
+total cost of ownership, including automation, monitoring and integration costs; 
+
+&#8226; 
+
+performance and scale; 
+
+&#8226; 
+
+programmability and extensibility; 
+
+&#8226; 
+
+interoperability with other products; 
+
+&#8226; 
+
+ability to be bundled with other vendor offerings; and 
+
+&#8226; 
+
+quality of service, support and fulfillment. 
+
+We believe our products compete favorably with respect to these factors. Our EOS software offers high reliability, integrates with existing network protocols and is open and programmable. We believe the combination of EOS, a set of network applications and our 10/25/40/50/100 Gigabit Ethernet Switch makes our offering highly competitive for both cloud and enterprise data centers. However, many of our competitors have greater name recognition, longer operating histories, larger sales and marketing budgets and resources, broader distribution and established relationships with channel partners and end customers, greater access to larger end-customer bases, greater end-customer support resources, greater manufacturing resources, the ability to leverage their sales efforts across a broader portfolio of products, the ability to leverage purchasing power when purchasing subcomponents, the ability to bundle competitive offerings with other products and services, the ability to develop their own silicon chips, the ability to set more aggressive pricing policies, lower labor and development costs, greater resources to make acquisitions, larger intellectual property portfolios and substantially greater financial, technical, research and development or other resources. 
+
+Intellectual Property 
+
+Our success and ability to compete depend substantially upon our core technology and intellectual property. We rely on patent, trademark and copyright laws, trade secret protection and confidentiality agreements with our employees, end customers, resellers, systems integrators and others to protect our intellectual property rights. As of December 31, 2015, we had 63 U.S. patent applications,12 foreign patent applications, and 5 U.S. patents, which have expiration dates between 2028 and 2035. 
+
+We cannot assure you that any of our patent applications will result in the issuance of a patent or whether the examination process will result in patents of valuable breadth or applicability. In addition, any patents that may be issued may be contested, circumvented, 
+
+found unenforceable or invalidated, and we may not be able to prevent third parties from infringing them. We also license software from third parties for integration into our products, including open source software and other software available on commercially reasonable terms. We also own a number of trademarks in the U.S. and other jurisdictions, including Arista (which mark is not registered in the U.S.), EOS, CloudVision, Health Tracer, MapReduce Tracer, Path Tracer, MXP, RAIL and SPLINE. 
+
+We control access to and use of our software, technology and other proprietary information through internal and external controls, including contractual protections with employees, contractors, end customers and partners. Our software is protected by U.S. and international copyright, patent and trade secret laws. Despite our efforts to protect our software, technology and other proprietary information, unauthorized parties may still copy or otherwise obtain and use our software, technology and other proprietary information. In addition, we intend to expand our international operations, and effective patent, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries. 
+
+Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation regarding patent and other intellectual property rights. If we become more successful, we believe that competitors will be more likely to try to develop products that are similar to ours and that may infringe our proprietary rights. It may also be more likely that competitors or other third parties will claim that our products infringe their proprietary rights. In particular, large and established companies in our industry have extensive patent portfolios and are regularly involved in both offensive and defensive litigation. From time to time, third parties, including certain of these large companies and non-practicing entities, may assert patent, copyright, trademark and other intellectual property rights against us, our channel partners or our end customers, whom our standard license and other agreements obligate us to indemnify against such claims. For example, in December 2014, Cisco Systems filed two lawsuits against us in the Northern District of California for alleged patent and copyright infringement. Additionally, Cisco Systems filed to complaints against us in the International Trade Commission (ITC) for patent infringement, and the ITC has initiated an investigation. Please see "Legal Proceedings" included in Part I, Item 3 of this Annual Report on Form 10-K, for a description of this litigation. Successful claims of infringement by a third party, if any, could prevent us from distributing certain products or performing certain services, require us to expend time and money to develop non-infringing solutions or force us to pay substantial damages, royalties or other fees. We cannot assure you that we do not currently infringe, or that we will not in the future infringe, upon any third-party patents or other proprietary rights. 
+
+Employees 
+
+As of December 31, 2015 &#32;we employed over 1,200 full-time employees. None of our employees are represented by unions. We consider our relationship with our employees to be good and have not experienced significant interruptions of operations due to labor disagreements. 
+
+Available Information 
+
+Our website is located at www.arista.com and our investor relations website is located at www. investors.arista.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), are available free of charge on the Investors portion of our web site as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). Further, a copy of this Annual Report on Form 10-K is located at the SEC's Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+Webcasts of our earnings calls and certain events we participate in or host with members of the investment community are on our investor relations website. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading &#8220;Corporate Governance.&#8221; The contents of our websites are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+

@@ -1,0 +1,386 @@
+ ITEM 1. BUSINESS. 
+
+Company Overview 
+
+Qorvo&#174; is a leading provider of technologies and solutions that address the growing demand for always-on, high reliability, broadband data connectivity. We combine one of the industry&#8217;s broadest portfolios of radio frequency (&#8220;RF&#8221;) solutions and semiconductor technologies with deep systems-level expertise and scale manufacturing capabilities to enable a diverse set of cutting-edge customer products, including smartphones, tablets, wearables, broadband customer premise equipment, home automation, in-vehicle infotainment, data center and military radar and communications. Our products are helping to drive the ongoing, rapid transformation of how people around the world interact with their communities, access and use data, and transact commerce. 
+
+We have more than 7,300 global employees dedicated to delivering solutions for everything that connects the world. We have world-class ISO-certified manufacturing facilities, and our Richardson, Texas facility is a U.S. Department of Defense (&#8220;DoD&#8221;)-accredited &#8216;Trusted Source&#8217; (Category 1A) for gallium arsenide (&#8220;GaAs&#8221;), gallium nitride (&#8220;GaN&#8221;) and bulk acoustic wave (&#8220;BAW&#8221;) technologies, products and services. Our design and manufacturing expertise encompasses many semiconductor process technologies, which we source both internally and through external suppliers. We operate worldwide with design, sales and manufacturing facilities located throughout Asia, Europe and North America. Our primary manufacturing facilities are located in North Carolina, Oregon, Texas and Florida, and our primary assembly and test facilities are located in China, Costa Rica and Texas. 
+
+Qorvo was incorporated in Delaware in 2013. We maintain dual principal executive offices, which are located at 7628 Thorndike Road, Greensboro, North Carolina 27409 and at 2300 NE Brookwood Parkway, Hillsboro, Oregon 97124. Our telephone numbers at these locations are (336) 664-1233 and (503) 615-9000, respectively. 
+
+Operating Segments 
+
+We design, develop, manufacture and market our products to leading U.S. and international original equipment manufacturers (&#8220;OEMs&#8221;) and original design manufacturers (&#8220;ODMs&#8221;) in the following operating segments: 
+
+&#8226; 
+
+Mobile Products (MP) &#32;- MP is a leading global supplier of RF solutions that perform various functions in the increasingly complex cellular radio front end section of smartphones and other cellular devices. These RF solutions are required in fourth generation (&#8220;4G&#8221;) data-centric devices operating under Long-Term Evolution (&#8220;LTE&#8221;) 4G networks, as well as third generation (&#8220;3G&#8221;) and second generation (&#8220;2G&#8221;) mobile devices. Our solutions include complete RF front end modules that combine high-performance filters, power amplifiers (&#8220;PAs&#8221;), low noise amplifiers (&#8220;LNAs&#8221;) and switches, PA modules, transmit modules, antenna control solutions, antenna switch modules, diversity receive modules and envelope tracking (&#8220;ET&#8221;) power management devices. MP supplies its broad portfolio of RF solutions into a variety of mobile devices, including smartphones, notebook computers, wearables, tablets and cellular-based applications for the Internet of Things (&#8220;IoT&#8221;). 
+
+&#8226; 
+
+Infrastructure and Defense Products (IDP) &#32;- IDP is a leading global supplier of RF solutions that support diverse global applications, including ubiquitous high-speed network connectivity to the cloud, data center communications, rapid internet connectivity throughout the home and workplace, and upgraded military capabilities across the globe. Qorvo&#8217;s RF solutions enhance performance and reduce complexity in cellular base stations, optical long haul, data center and metro networks, WiFi networks, cable networks, and emerging fifth generation (&#8220;5G&#8221;) wireless networks. Our IDP products include high power GaAs and GaN PAs, LNAs, switches, RF filter solutions, CMOS system-on-a-chip (&#8220;SoC&#8221;) solutions and various multichip and hybrid assemblies. Our market-leading RF solutions for defense and aerospace upgrade communications and radar systems for air, land and sea. Our RF solutions for the IoT enable the connected car and an array of industrial applications, and we serve the home automation market with SoC solutions based on ZigBee and Bluetooth Smart technologies. 
+
+In connection with the Business Combination, in the fourth quarter of fiscal 2015, we renamed our Cellular Products Group operating segment as MP and our Multi-Market Products Group operating segment as IDP. For financial information about the results of our operating segments for each of the last three fiscal years, see Note 15 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report. 
+
+Industry Overview &#32; 
+
+Our business is diversified across multiple industries. The cellular handset industry is our largest market and is characterized by large unit volumes, frequent product mix shift, high technical barriers to entry and relatively short product lifecycles. 
+
+To satisfy the growing global demand for always-on, high data-throughput connectivity, cellular handsets are transitioning rapidly from entry level 2G and 3G handsets to 4G LTE devices. These 4G devices incorporate new cellular bands and modes to enable more geographic coverage, including &#8220;global&#8221; phones that are not limited to specific regions or carriers. Additionally, 4G LTE devices are beginning to incorporate carrier aggregation to allow simultaneous communication over multiple frequency bands and to provide consumers with a more satisfying, higher data-throughput experience while helping network operators maximize spectral efficiency and better monetize their costly spectrum investments. Because 4G LTE devices often contain two to five times more RF content than 3G phones, the market for our RF components has been expanding in recent years. We believe these trends will continue as consumers continue to demand greater data throughput and as smartphone manufacturers and network operators seek to improve the performance of 4G LTE devices to attract and retain customers and enhance revenue. 
+
+The rapid proliferation of the IoT is also driving the growth in demand for RF content for new classes of devices, including systems for connected homes, energy management systems and a variety of health, fitness and medical devices, which use wireless connectivity to transmit data obtained from embedded sensors, meters, controllers and other components. As part of this phenomena, machine-to-machine (&#8220;M2M&#8221;) devices are increasingly integrating 
+
+WiFi and cellular content for a growing number of applications, including automotive, electric and water utilities, fleet management and point-of-sale. 
+
+In cellular infrastructure, network operators are rapidly building out their 4G LTE networks to handle more data traffic, which increases the requirements for more and faster wireless backhaul systems, including upgrading transport capacity through microwave point-to-point radio and optical network links. In addition, to increase network coverage and capacity and ease the strain from skyrocketing mobile data traffic on congested cellular networks, the cellular infrastructure market is turning to WiFi offload strategies, including public access WiFi hotspots, and utilizing new architectures with small cell base stations such as micro cells, pico cells, and femtocells. The RF content in premises-based devices and distribution networks is increasing due to higher capacity requirements achieved through enabling increased bandwidth capability, typically at higher frequencies of operation. 
+
+In our CATV and optical network wireline transport markets, the rapid explosion of consumer and business data transmission, whether from high definition television (&#8220;HDTV&#8221;), Internet protocol television (&#8220;IPTV&#8221;), and voice over Internet protocol (&#8220;VoIP&#8221;), as well as the associated increases in Internet traffic in data centers, are driving market growth and placing increased emphasis on product performance, integration and power consumption. The adoption of DOCSIS 3.1 is accelerating and driving our CATV business. Additionally, the ever-increasing performance demands for telecom, data centers and metro networks continue to drive our optical business. Both markets are equally concerned about increasing capacity and speed, while decreasing costs and power consumption. 
+
+Defense and aerospace markets rely on dependable microwave monolithic integrated circuits ("MMICs") and discrete transistors in die-level and packaged forms, as well as surface acoustic wave ("SAW") and bulk acoustic wave ("BAW") filters. The global defense and aerospace industry that we serve is focused on balancing cost, performance and power consumption and is serviced through both commercial off-the-shelf products and custom devices for the most stringent applications that support the next generation of communication, defense and national security capabilities. 
+
+In connectivity markets, we are focused on delivering world-class products that address the higher performance requirements of 802.11ac and the proliferation of WiFi in mobile devices such as tablets and notebook computers and non-mobile equipment, including routers, access points, set-top boxes, automobiles and televisions. In these same markets, we enable interference-free reception and transmission through our premium filter products. 
+
+Across our customers&#8217; diversified industries, their end-market products continue to increase in complexity and RF content, while wireless connectivity becomes a ubiquitous requirement of the IoT. This is expanding our addressable market and increasing our opportunities to deliver more highly integrated, higher value solutions. At the same time, we are leveraging our core capabilities, including scale manufacturing, advanced packaging capabilities and deep systems-level integration expertise, to target a greater number of applications and market opportunities. 
+
+Mission and Strategy &#32; 
+
+We are focused on profitable growth and diversification through technology and product leadership. Our long-term strategy to drive Qorvo&#8217;s growth and create stockholder value is underpinned by three principles: 
+
+&#9642; 
+
+Using differentiated technologies and product leadership to achieve operational excellence, capture value, and deliver superior financial results; 
+
+&#9642; 
+
+Driving the integration of our two predecessor companies to achieve as Qorvo what neither could achieve alone; and 
+
+&#9642; 
+
+Prioritizing the use of our cash and capital resources on investments that drive the growth of our business, returning capital to our stockholders through share repurchases on an opportunistic basis, and selective mergers and acquisitions to supplement the growth of IDP. 
+
+We serve diverse high-growth segments of large global markets, including advanced wireless devices, wired and wireless networks and defense radar and communications. Within these segments, we leverage our industry-leading portfolio of RF solutions and technologies to provide leading customers a broad set of cutting-edge products and applications, including smartphones, wearables, connected home, connected car, and military radar and communications. We also leverage our unique competitive strengths to advance 5G networks, cloud computing, the IoT, and other emerging applications that expand the global framework interconnecting people, places and things. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly 
+
+solve our customers' most complex technical challenges. We are aligned with the leading customers in our targeted industries, and we are increasing the pace and scope of our new product development to meet emerging trends in our customers&#8217; diversified industries. 
+
+Technology and product leadership 
+
+In MP's end markets, we leverage our systems-level expertise, manufacturing scale and industry-leading product and technology portfolio to simplify RF complexity, miniaturize product footprint, enhance product performance and enable a faster time to market for our customers. Qorvo is uniquely positioned to deliver a complete portfolio of multimode, multiband solutions combining high-performance filters, PAs, LNAs and switches in highly integrated, high-performance multi-chip modules. We are also a worldwide leader in high-performance, high-throw count switching solutions and antenna control systems, and we invest in the most advanced process technologies and design techniques to continue to advance the state of the art in these product categories. 
+
+In IDP's end markets, our advanced technologies and design capabilities are sought by industry-leading customers in large global markets, including 4G LTE and 5G base stations, optical networks, WiFi access points networks, connected automobile and home applications, defense communications applications, and domestic and international airborne, land and sea radar systems. Our highly integrated RF solutions leverage our differentiated, internally developed process technologies as well as leading externally-sourced process technologies. We have the broadest portfolio of GaAs and GaN fabrication processes in the RF industry, which allows us to address market needs ranging in frequency from sub-gigahertz through 100 gigahertz, with THB-compliant products and advanced low-cost packaging concepts. Additionally, we offer high-performance SoC design, firmware and application software, and we have advanced internal design expertise across outsourced process technologies including silicon germanium (&#8220;SiGe&#8221;), indium phosphide (&#8220;InP&#8221;), CMOS and silicon-on-insulator (&#8220;SOI&#8221;). 
+
+We continue to invest in expanding our R&#38;D and hiring the best and brightest talent. These strategies enable us to serve an array of growing markets with a diversified product portfolio within the communications and defense industries. 
+
+Partnering with our customers 
+
+We are committed to establishing close relationships with the leading customers in the industries we serve to drive our business and growth. We enjoy long-standing, deep institutional relationships with the leading smartphone and tablet manufacturers, network and consumer premises equipment manufacturers and reference design partners. These best-in-class customers and partners collectively have built and are expanding and developing the world's 4G, 5G and other broadband communications networks. We emphasize developing intimate technical engagements with our key customers to align our research and development (&#8220;R&#38;D&#8221;) efforts with their long-term product development roadmaps. In doing so, we focus on overall systems level requirements and solutions that address the increasing complexity of mobile devices and networks and the demands of carriers. These qualities have collectively made us a provider of choice for mobile products and advanced network infrastructure RF systems. 
+
+Similarly, our defense and aerospace customers include the leading tier one defense subcontractors to the U.S. government. We are also a Microelectronics Trusted Source accredited by the U.S. DoD for foundry, post-processing, packaging, assembly and test services and in 2014, we were recognized by the DoD as the first GaN supplier to achieve Manufacturing Readiness Level (&#8220;MRL&#8221;) 9 based on passing criteria that assesses readiness for full scale production of GaN devices. 
+
+We deliver trusted applications support and dedicated service to our customers. We also offer a variety of packaging, assembly and test options to meet our customers' performance needs and our global sales and distribution teams offer local support to help ensure on-going customer satisfaction. 
+
+New product development 
+
+We develop and launch hundreds of new products each year to expand our presence in existing and new markets and diversify our revenue base. We have systemized our product development process to streamline product development cycle times and our business units focus their efforts on the development and release of market-leading new products. 
+
+In addition to partnering with our customers, we have established and maintain close working relationships with other industry leaders in our target markets, including university faculty, industry bodies, channel partners and other thought leaders. We also have existing connections, and seek to establish new, strategic investments and other 
+
+relationships, with emerging companies that provide access to new technologies, products and markets. These relationships are critical to providing us with insights into future customer requirements and industry trends, which facilitate the timely development of new products to meet the changing needs of the marketplace. 
+
+Our management and board of directors regularly consider our strategic options in light of our company-specific conditions and industry conditions and trends, including whether acquisitions, dispositions or other potential transactions offer meaningful opportunities to enhance stockholder value. This includes opportunities to expand the breadth and depth of our product offerings and to diversify our overall business through the acquisition of product lines, business units and companies, both large and small. 
+
+Markets, Products and Applications 
+
+We offer a broad array of amplification, filtering and switching products for RF, microwave and millimeter-wave applications. We utilize specialized substrate materials and high-performance process technologies such as GaAs, GaN, SOI, pseudomorphic high electron mobility transistors (&#8220;pHEMT&#8221;), BAW and SiGe. We believe many of our products offer key advantages relative to competing devices, including steeper selectivity, improved linearity, lower distortion, higher output power and power-added efficiency, as well as reduced size and weight, and more precise frequency control. Our broad range of standard and customer-specific integrated circuits (&#8220;ICs&#8221;), components and modules, in addition to SAW, TC-SAW and BAW duplexers and filters, combined with our manufacturing and design capabilities, allow customers to select the specific product solution that best fulfills their technical and time-to-market requirements. 
+
+We focus on four broader end markets: mobile products; high speed network connectivity; defense; and the IoT. 
+
+Mobile Products 
+
+The demand for RF solutions in mobile products is accelerating with the increasing demand for enhanced voice and data communication capabilities. Consumers want mobile devices to provide signal quality similar to wired communication systems, to be smaller and lighter, to dissipate less heat, to accommodate longer talk and standby time and to feature energy-consuming functionality such as larger screens, streaming media, digital cameras, video recorders, global positioning systems (&#8220;GPS&#8221;), Bluetooth &#174; &#32;connectivity and internet access. The most significant trend today in the mobile devices market is the proliferation of 4G LTE devices that work across multiple standards and frequency bands enabling multi-region access and coverage. This is expanding the overall dollar content in an average smartphone by two to five times compared to a traditional voice-only phone. 
+
+The associated increase in wireless data traffic creates congestion on network operators&#8217; assigned frequency bands, limiting their network capacity. Because network operators spend billions of dollars on frequency spectrum, this places a premium on smartphones with greater RF functionality to enable increased capacity. Concurrently, new wireless communications standards and new technologies are being deployed to more efficiently utilize the available spectrum. This increases the complexity of smartphones and heightens the performance requirements, especially for filtering, which in turn favors Qorvo&#8217;s broad product portfolio and our technology and product leadership strategy. 
+
+Qorvo&#8217;s comprehensive mobile product portfolio includes our high-performance RF Fusion&#8482; line of integrated RF solutions. RF Fusion&#8482; &#32;leverages Qorvo&#8217;s RF product portfolio, advanced packaging and process technologies, and deep systems-level expertise to integrate all major transmit and receive RF functionality into highly integrated low-band, mid-band, and high-band placements. We also offer RF Flex&#8482; modules, which leverage our deep systems-level expertise to integrate core cellular transmit and receive functionality into high-performance multiband PA modules and transmit modules. Our RF Flex &#32;solutions deliver world-class performance and enable carrier aggregation in the industry&#8217;s most flexible, scalable and cost-effective LTE architectures. Other products include filters, duplexers, switches, transmit modules, modules incorporating switches, PAs and duplexers (&#8220;S-PADs&#8221;), RF power management ICs, diversity receive modules, antenna switch modules, antenna tuning and control solutions, multimode, multi-band PAs, and other advanced products. 
+
+Our access to various process technologies, such as GaAs, SiGe, SOI and other silicon variants, SAW, TC-SAW and BAW provides our mobile device designers with flexibility to address our customers&#8217; requirements for low noise, better signal processing in congested bands, greater power efficiency for longer battery life, and low loss switching. 
+
+Historically, we have experienced seasonal fluctuations in our sales of mobile products. Our revenue is generally the strongest in the second and third fiscal quarters and weakest in the fourth fiscal quarter of each year. 
+
+High Speed Network Connectivity 
+
+We sell products that support the transfer of voice, video and data across wireless and wired infrastructure. The increasing demand for applications, services and the associated high-speed data for smartphones, tablets, computers and TVs is driving a dramatic evolution in the infrastructure that carries this data. This translates to requirements for systems and components with higher frequency, broader bandwidth, greater linearity, lower power consumption and smaller size. To reduce operator complexity and capital investment, systems need to cover multiple bands and modulation standards, without increasing size or cost. 
+
+Our products for the high speed networks end market target three main applications: 
+
+&#8226; 
+
+Transport, which includes wireless and wired broadband networks infrastructure for CATV, fiber-to-the-home, and optical transport networks; 
+
+&#8226; 
+
+Base Station, which comprises 2G, 3G, 4G LTE, 5G and multi-carrier, multi-standard base stations and small cells; and 
+
+&#8226; 
+
+Connectivity, such as enterprise and high-end consumer WiFi access points and connected automobile applications such as LTE, satellite radio and infotainment. 
+
+We offer a broad range of products for these applications, including low-noise, variable-gain, driver and power amplifiers, single and dual band wireless local area network ("WLAN") modules, digital and analog attenuators, voltage-controlled oscillators (&#8220;VCO&#8221;s), switches, SAW filters, BAW filters, and multi-chip modules that integrate multiple functions. 
+
+We use our unique GaAs, GaN, SAW and BAW processes combined with innovative design and packaging to differentiate our products. For example, in base station applications, our GaAs HBT amplifiers offer differentiated low noise performance, while our GaN amplifiers offer high linearity and efficiency with high output power and low power consumption. In optical transport networks infrastructure, our modulator drivers provide a wide output voltage swing, low jitter and high fidelity electrical &#8220;eye&#8221; performance for 40 and 100 gigabits per second networks. 
+
+We utilize our process and assembly technologies to achieve superior performance and integrate RF functionality at both the integrated circuit and multi-chip module levels. The range of process technologies we can draw upon spans from 100 megahertz to 100 gigahertz, low noise to high power. As an example, our high-voltage HBT and GaN processes provide two options for addressing very high power, high efficiency and high linearity applications. Our multi-chip modules utilize our high-volume assembly capabilities used in the manufacturing of our products for the mobile devices end market to achieve low cost and high quality for infrastructure applications. 
+
+We sell amplifier and RF filtering products for a number of applications that enable wireless connectivity, including WiFi used in consumer premises equipment and enterprise wireless access points and automotive satellite radio, LTE and infotainment applications. 
+
+Defense and Aerospace 
+
+Our largest customers in the defense and aerospace end markets are military contractors serving the U.S. government. These prime contractors and subcontractors use our die-level integrated circuits and discrete components, MMICs and multi-chip modules for radar, electronic warfare and communications systems. These programs include major shipboard, airborne and battlefield radar systems as well as communications and electronic warfare applications. Our products are used in large-scale programs with long lead-times. Once a component has been designed into an end-use product for a military application, the same component is generally used during the entire production life of the end-use product. 
+
+Our products utilized in radars are bringing new capabilities to detect and neutralize threats against aircrews, shipboard and infantry defense forces around the globe. We are actively engaged with existing customers while seeking greater emerging application opportunities. For example, our legacy of phased array radar experience with domestic airborne fighter platforms has led to ongoing work in the multi-national next generation platforms. In addition, we expect our products to be used in retrofits that upgrade the radars and other systems for the existing domestic fleet of fighter aircraft. 
+
+The capability to track multiple targets simultaneously is one of the key enhancements found in the new generation of fighter jets. We are teamed with contractors in new programs to bring this type of capability to our defense customers, and we also are engaged in retrofits of other tactical fighter jet programs. Our microwave PAs provide the capability to transmit the power that is at the heart of phased array radar operation. These radars consist of large element arrays composed of many individual integrated circuits. In addition to supplying components for airborne and ground-based phased array radars, we are engaged with prime defense contractors in the continuing development and production of radars for shipboard applications. In the military communications field, we supply filters, amplifiers and other components for hand-held and satellite communications systems. In addition, we use our packaging and integrated assembly expertise to speed designs, facilitate multi-chip package evolution and deliver cost-effective solutions for all types of customer needs. 
+
+Our DoD accreditation as a Microelectronics Trusted Source is an assurance that our processes and procedures meet stringent quality and security controls, which can permit increased levels of high security/classified application specific integrated circuit foundry services. Through accreditation, we join a small group of GaAs suppliers certified by the DoD as able to fabricate and deliver devices for applications using standards approved and monitored by the Defense Microelectronics Activity. We have also been certified by the DoD as having Manufacturing Readiness Level 9 for our GaN fabrication capabilities, which certifies us as having the necessary systems and demonstrated capabilities in place for rate production. 
+
+We are also directly engaged with the U.S. government, primarily through contracts with the Defense Advanced Research Project Agency, the Air Force Research Laboratory, and the Office of Naval Research to develop the next generation of RF components in GaN and GaAs. GaN high electron mobility transistor devices provide the higher power density and efficiency required for future high-power phased array radar, electronic warfare, missile seekers and communications systems. Through these programs and other ongoing efforts, we continue to enhance the reliability and manufacturability of our GaN processes. 
+
+Revenue from the sales of our products in the defense and aerospace end market can fluctuate significantly from year to year due to the timing of programs. 
+
+Internet of Things (IoT) 
+
+We sell products that support the rapid explosion of connected devices under the umbrella of the IoT. These products include amplifier and RF filtering products for automotive applications, including automotive infotainment, satellite radios, radar and telematics, and various industrial applications, including smart energy/advanced metering infrastructure (&#8220;AMI&#8221;) systems. The most basic AMI systems provide a way for a utility company to measure customer usage remotely without touching or physically reading a meter. 
+
+In addition, through the acquisition of GreenPeak Technologies in the first quarter of fiscal 2017, we offer CMOS SoC solutions for smart home and remote control applications. These solutions include embedded firmware as well as customer support for development of application software to facilitate integration of our SoCs into customer designs. 
+
+The markets for applications that fall under IoT are just beginning to emerge. We expect that the mobile phone, which has proliferated throughout the world in the last decade, will be one of many nodes that provide users with the ability to sense, control, view, communicate with and access networks across a very wide range of applications and platforms, some of which are not fully envisioned today. 
+
+Manufacturing 
+
+We have a global supply chain and routinely ship millions of units per day. Our products have varying degrees of complexity and rely on semiconductors and other components that are manufactured in-house or outsourced. The majority of our products are multi-chip modules utilizing multiple semiconductor process technologies. We are a leading supplier of RF solutions and a leading manufacturer of GaAs HBT, GaAs pHEMT, GaN, SAW, TC-SAW and BAW for RF applications. 
+
+We operate wafer fabrication facilities for the production of GaAs, GaN, SAW, TC-SAW and BAW wafers in Greensboro, North Carolina; Hillsboro, Oregon; Richardson, Texas; and Apopka, Florida. In the first quarter of fiscal 2017, we acquired an additional wafer fabrication facility in Farmers Branch, Texas, which we currently plan 
+
+to use to expand our BAW filter capacity. We also use multiple silicon-based process technologies, including SOI, SiGe and CMOS, in our products. We outsource all silicon manufacturing to leading silicon foundries located throughout the world. 
+
+We have our own flip chip and WLP technologies and also use external suppliers for these and other packaging technologies. In packages that employ flip chips, the electrical connections are created directly on the surface of the die, which eliminates wirebonds so that the die may be attached directly to a substrate or leadframe. This type of technology provides a higher density interconnection capability than wirebonded die and enables smaller form factors with improved thermal and electrical performance. We also use wafer-level packaging (&#8220;WLP&#8221;) technologies for our SAW, TC-SAW and BAW filter products. 
+
+Once the semiconductor manufacturing is complete, the wafers are singulated, or separated, into individual units called die. For our module products, the next step in our manufacturing process is assembly. During assembly, the die and other necessary components are placed on a high density interconnect substrate to provide connectivity between the die and the components. This populated substrate is formed into a microelectronic package. Once assembled, the products are tested for RF performance and prepared for shipment through a tape and reel process. To assemble and test our products, we primarily use internal assembly facilities in the United States, China, Costa Rica and Germany, and we also utilize several external suppliers. We also manufacture large volumes of WLP die and discrete filters that our customers directly assemble into their products. 
+
+The fabrication of ICs and filter products is highly complex and sensitive to particles and other contaminants, and requires production in a highly controlled, clean environment. Minute impurities, difficulties in the fabrication process or defects in the masks used to transfer circuits onto the wafers can cause a substantial percentage of the wafers to be rejected or numerous die on each wafer to be nonfunctional. The more brittle nature of GaAs wafers can also lead to more wafer breakages than experienced with silicon wafers. 
+
+To maximize wafer yield and quality, we test our products in various stages in the fabrication process, maintain continuous reliability monitoring and conduct numerous quality control inspections throughout the entire production flow. Our manufacturing yields vary significantly among our products, depending upon a given product&#8217;s complexity and our manufacturing experience. 
+
+We incur a high level of fixed costs to operate our own manufacturing facilities. These fixed costs consist primarily of facility occupancy costs, repair, maintenance and depreciation costs related to manufacturing equipment and fixed labor costs related to manufacturing and process engineering. 
+
+Our quality management system is registered to ISO 9001 standards, and our environmental management system is registered to ISO 14001. A third-party independent auditor has determined that these systems meet the requirements developed by the International Organization of Standardization, a non-governmental network of the national standards institutes of over 160 countries. The ISO 9001 standard is based on a number of quality management principles including a strong customer focus, the motivation and implication of top management, the process approach and continual improvement. ISO 14001 is an internationally agreed upon standard that sets out the requirements for an environmental management system. It improves our environmental performance through more efficient use of resources and reduction of waste, gaining a competitive advantage and the trust of stakeholders. We require that all of our key vendors and suppliers are compliant with applicable ISO 9001 or TS-16949 standards, which means that their operations have in each case been determined by auditors to comply with internationally developed quality control standards. 
+
+Our manufacturing facilities in Greensboro, North Carolina; Hillsboro, Oregon; Richardson, Texas; and Apopka, Florida are certified to ISO/TS 16949 standards, which is the highest international quality standard for the automotive industry and incorporates ISO technical specifications that are more stringent than ISO 9001 quality management systems requirements. The ISO/TS 16949 standard combines North American and European automotive requirements and serves the global automotive market. 
+
+Raw Materials 
+
+We purchase numerous raw materials, passive components and substrates for our products and manufacturing processes. We use independent foundries to supply all of our silicon-based integrated circuits. High demand for 
+
+SOI wafers to support manufacture of our switch products has led to supply constraints in the past, which we have addressed by qualifying new silicon foundries and securing supply commitments from existing silicon suppliers. 
+
+For our acoustic filter manufacturing operations, we use several raw materials, including wafers made from quartz, silicon, lithium niobate (&#8220;LiNbO 3 &#8221;) or lithium tantalite (&#8220;LiTaO 3 &#8221;), as well as ceramic or metal packages. Relatively few companies produce these raw materials. We are leading the industry in developing SAW filters using six-inch LiNbO 3 wafers, and we have qualified more than one source for this wafer material. For all of our SAW operations, we utilize multiple qualified wafer and mask set vendors. Our most significant suppliers of ceramic surface mount packages are based in Japan. 
+
+Our manufacturing strategy includes a balance of internal and external sites (primarily for assembly operations), which helps reduce costs, provides flexibility of supply, and minimizes the risk of supply disruption. We routinely qualify multiple sources of supply and manufacturing sites to reduce the risk of supply interruptions or price increases and closely monitor suppliers&#8217; key performance indicators. Our suppliers' and our manufacturing sites are geographically diversified (with our largest volume sources distributed throughout Southern and Eastern Asia), and we believe we have adequate sources for the supply of raw materials, passive components and substrates for our products and manufacturing needs. 
+
+Customers 
+
+We design, develop, manufacture and market our products to leading U.S. and international OEMs and ODMs. We are also engaged with leading baseband reference design partners located primarily in the U.S. and China. 
+
+Some of our MP customers use multiple contract manufacturers for product assembly and test. Therefore, revenue for one customer may not necessarily represent the entire business of a single mobile products manufacturer. We provided our products to our largest end customer through sales to multiple contract manufacturers, which in the aggregate accounted for approximately 37% , 32% &#32;and 20% &#32;of total revenue in fiscal years 2016, 2015 and 2014, respectively. Huawei Technologies Co., Ltd., accounted for 12% , 7% &#32;and 4% &#32;of our total revenue in fiscal years 2016, 2015 and 2014, respectively. Samsung Electronics, Co., Ltd., accounted for approximately 7% , 14% &#32;and 25% &#32;of our total revenue in fiscal years 2016, 2015 and 2014, respectively. The majority of the revenue from these customers was from our mobile product sales. No other customer accounted for more than 10% of our total revenue in any of the last three fiscal years. 
+
+Some of our sales to overseas customers are made under export licenses that must be obtained from the U.S. Department of Commerce. 
+
+Information about revenue (including segment revenue), operating profit or loss and total assets is presented in Part II, Item 8, &#8220;Financial Statements and Supplementary Data&#8221; of this report. 
+
+Sales and Marketing 
+
+We sell our products worldwide directly to customers as well as through a network of domestic and foreign sales representative firms and distributors. We select our domestic and foreign sales representatives based on technical skills and sales experience, as well as the presence of complementary product lines and the customer base served. We provide ongoing training to our internal, as well as our external, sales representatives and distributors to keep them informed of, and educated about, our products. We maintain an internal sales and marketing organization that is responsible for key account management, application engineering support to customers, developing sales and advertising literature, and preparing technical presentations for industry conferences. We have sales and customer support centers located throughout the world. 
+
+We maintain an extensive web-site containing product information and publish a comprehensive product selection guide annually. Our global team of application engineers interacts with customers during all stages of design and production, provides customers with product application notes and engineering data, maintains regular contact with customer engineers, and assists in the resolution of technical problems. We believe that maintaining a close relationship with customers and platform providers and providing them with strong technical support enhances their level of satisfaction and enables us to anticipate their future product needs. 
+
+Research and Development 
+
+Our R&#38;D activities enable the technologies and products necessary to maintain our leadership in the end markets we serve. Our R&#38;D activities are focused on improving the performance, size and cost of our products in our customers&#8217; systems. We focus on both continuous improvement in our processes for design and manufacture as well as innovation in fundamental research areas such as materials, simulation and modeling, circuit design, device packaging and test. We maintain an extensive patent portfolio and also protect much of our intellectual property in the form of trade secrets. 
+
+We have developed several generations of GaAs, GaN, BAW and SAW process technologies that we manufacture internally. We invest in these technologies to improve device performance, reduce die size and reduce manufacturing costs. We also develop and qualify technologies made available to us from key suppliers, including SOI for switches and RF signal conditioning solutions, SiGe and InP for amplifiers and CMOS for power management devices and SoC solutions. We combine these external technologies with our own proprietary design methods, intellectual property and other expertise to improve performance, increase integration and reduce the size and cost of our products. 
+
+Our RF systems-level expertise and our innovations in new product architectures, new circuit techniques, filtering and other new proprietary technologies are enabling us to solve the increasingly complex RF challenges related to linearity, power consumption and other critical performance metrics. This is evident in our line of high-performance RF Fusion&#8482; &#32;and versatile RF Flex&#8482; integrated modules. 
+
+Qorvo is a pioneer in envelope tracking (&#8220;ET&#8221;) technology for wireless applications, and we are incorporating our ET technology into power management components and our most advanced PAs. Our ET technology enables us to track the envelope of high-speed modulation signals and adjust the PA in real time to maximize efficiency and maintain required levels of linearity. This technology is increasingly necessary to maximize mobile device data rates and meet user expectations for battery life and maximum case temperatures. Because our customers often use a variety of baseband and power management chipsets, we also develop PAs that demonstrate industry-leading performance with third-party power management components. 
+
+We continue to develop and release new GaN-based products and invest in new GaN process technologies to exploit GaN's performance advantages across existing and new product categories. The inherent wide band gap, high electron mobility, and high breakdown voltage characteristics of GaN semiconductor devices offer significant performance advantages versus competing technologies. We are also developing other advanced GaN process technologies that target applications where we anticipate GaN devices will provide a disruptive performance advantage and deliver meaningful energy savings in end-market products. 
+
+In the area of packaging technologies, we are developing and qualifying packaging technologies that allow us to improve performance and reduce the area and height of our products. We are continuing to invest in packaging technologies such as WLP and flip chip bumping that eliminate wire bonds, reduce the size and component height, and improve performance, while reducing the cost of packaging our products. In addition, we are investing in large scale module assembly and test capabilities to bring these technologies to market in very high volumes. 
+
+In fiscal years 2016, 2015 and 2014, we incurred approximately $448.8 million , $257.5 million &#32;and $197.3 million , respectively, in R&#38;D expenses. We expect to continue to spend substantial funds on R&#38;D in support of our growth and product diversification goals. 
+
+Competition 
+
+We operate in a very competitive industry characterized by rapid advances in technology and new product introductions. Our customers' product life cycles are short, and our competitiveness depends on our ability to improve our products and processes faster than our competitors, anticipate changing customer requirements and successfully develop and launch new products while reducing our costs. Our competitiveness is also affected by the quality of our customer service and technical support and our ability to design customized products that address each customer's particular requirements within the customer's cost limitations. The selection process for our products to be included in our customers' new products is highly competitive, and our customers provide no guarantees that our products will be included in the next generation of products introduced. 
+
+We compete primarily with the following companies: Analog Devices, Inc.; Broadcom Limited; M/A-COM Technology Solutions, Inc.; Murata Manufacturing Co., Ltd.; Qualcomm Technologies, Inc.; Raytheon Company; Skyworks Solutions, Inc.; and Sumitomo Electric Device Innovations. 
+
+Many of our current and potential competitors have entrenched market positions and customer relationships, established patents and other intellectual property and substantial technological capabilities. In some cases, our competitors are also our customers or suppliers. Additionally, many of our competitors may have significantly greater financial, technical, manufacturing and marketing resources than we do, which may allow them to implement new technologies and develop new products more quickly than we can. 
+
+Intellectual Property 
+
+We believe our intellectual property, including patents, copyrights, trademarks, maskworks and trade secrets, is important to our business, and we actively seek opportunities to leverage our intellectual property portfolio to promote our business interests. We also actively seek to monitor and protect our global intellectual property rights and to deter unauthorized use of our intellectual property and other assets. Such efforts can be difficult because of the absence of consistent international standards and laws. Moreover, we respect the intellectual property rights of others and have implemented policies and procedures to mitigate the risk of infringing or misappropriating third party intellectual property. 
+
+Patent applications are filed within the U.S. and in other countries where we have a market presence. On occasion, some applications do not mature into patents for various reasons, including rejections based on prior art. In addition, the laws of some foreign countries do not protect intellectual property rights to the same extent as U.S. laws. We have more than 1,100 patents that expire from 2016 to 2036. We also continue to acquire patents through acquisitions or direct prosecution efforts and engage in licensing transactions to secure the right to practice third parties&#8217; patents. In view of our rapid innovation and product development and the comparative pace of governments&#8217; patenting processes, there is no guarantee that our products will not be obsolete before the related patents expire or are granted. However, we believe the duration and scope of our most relevant patents are sufficient to support our business, which as a whole is not significantly dependent on any particular patent or other intellectual property right. As we expand our products and offerings, we also seek to expand our patent prosecution efforts to cover such products. 
+
+We periodically register federal trademarks, service marks and trade names that distinguish our product brand names in the market. We also monitor these marks for their proper and intended use. Additionally, we rely on non-disclosure and confidentiality agreements to protect our interest in confidential and proprietary information that give us a competitive advantage, including business strategies, unpatented inventions, designs and process technology. Such information is closely monitored and made available only to those employees whose responsibilities require access to the information. 
+
+Backlog 
+
+Our sales are the result of standard purchase orders or specific agreements with customers. We maintain Qorvo-owned finished goods inventory at certain customers&#8217; &#8220;hub&#8221; locations and do not recognize revenue until our customers draw down the inventory at these hubs. Our customers&#8217; projections of consumption of hub inventory and quantities on purchase orders, as well as the shipment schedules, are frequently revised within agreed-upon lead times to reflect changes in the customers&#8217; needs. Because industry practice allows customers to cancel orders with limited advance notice prior to shipment, and with little or no penalty, we believe that backlog as of any particular date may not be a reliable indicator of our future revenue levels. 
+
+Employees 
+
+On April 2, 2016 , we had more than 7,300 employees. We believe that our future prospects will depend, in part, on our ability to continue to attract and retain skilled employees. Competition for skilled personnel is intense, and the number of persons with relevant experience, particularly in RF engineering, product design and technical marketing, is limited. None of our U.S. employees are represented by a labor union. A number of our Europe-based employees (less than 5% of our global workforce as of April 2, 2016) are subject to collective bargaining-type works council arrangements. We have never experienced any work stoppage, and we believe that our current employee relations are good. 
+
+Geographic Financial Summary 
+
+A summary of our operations by geographic area is as follows (in thousands): 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+United States 
+
+$ 
+
+306,328 
+
+&#160; 
+
+$ 
+
+315,775 
+
+&#160; 
+
+$ 
+
+342,805 
+
+International 
+
+2,304,398 
+
+&#160; 
+
+1,395,191 
+
+&#160; 
+
+805,426 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Long-lived tangible assets: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+United States 
+
+$ 
+
+816,882 
+
+&#160; 
+
+$ 
+
+697,305 
+
+&#160; 
+
+$ 
+
+120,885 
+
+International 
+
+230,006 
+
+&#160; 
+
+186,066 
+
+&#160; 
+
+75,111 
+
+Sales for geographic disclosure purposes are based on the &#8220;sold to&#8221; address of the customer. The &#8220;sold to&#8221; address is not always an accurate representation of the location of final consumption of our products. Of our total revenue for fiscal 2016 , approximately 61% &#32;( $1,601.0 million ) was attributable to customers in China and approximately 14% &#32;( $365.1 million ) was attributable to customers in Taiwan. 
+
+Long-lived tangible assets primarily include property and equipment. At April 2, 2016 , approximately $183.8 million &#32;(or 18% ) of our total property and equipment was located in China. 
+
+For financial information regarding our operations by geographic area, see Note 15 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report. 
+
+For a summary of certain risks associated with our foreign operations, see Item 1A, &#8220;Risk Factors.&#8221; 
+
+&#160; 
+
+Environmental Matters 
+
+By virtue of operating our wafer fabrication facilities, we are subject to a variety of extensive and changing domestic and international federal, state and local governmental laws, regulations and ordinances related to the use, storage, discharge and disposal of toxic, volatile or otherwise hazardous chemicals used in the manufacturing process. We provide our own manufacturing waste water treatment and disposal for most of our manufacturing facilities and we have contracted for the disposal of hazardous waste. State agencies require us to report usage of environmentally hazardous materials, and we have retained appropriate personnel to help ensure compliance with all applicable environmental regulations. We believe that costs arising from existing environmental laws will not have a material adverse effect on our financial position or results of operations. 
+
+We are an ISO 14001:2004 certified manufacturer with a comprehensive Environmental Management System (&#8220;EMS&#8221;) in place in order to help ensure control of the environmental aspects of the manufacturing process. Our EMS mandates compliance and establishes appropriate checks and balances to minimize the potential for non-compliance with environmental laws and regulations. 
+
+We actively monitor the hazardous materials that are used in the manufacture, assembly and testing of our products, particularly materials that are retained in the final product. We have developed specific restrictions on the content of certain hazardous materials in our products, as well as those of our suppliers and outsourced manufacturers and subcontractors. This helps to ensure that our products are compliant with the requirements of the markets into which the products will be sold. For example, our products are compliant with the European Union RoHS Directive (2011/65/EU on the Restriction of Use of Hazardous Substances), which prohibits the sale in the European Union market of new electrical and electronic equipment containing certain families of substances above a specified threshold. 
+
+We do not currently anticipate any material capital expenditures for environmental control facilities for fiscal 2017 or fiscal 2018. 
+
+Access to Public Information 
+
+We make available, free of charge through our website (http://www.qorvo.com), our annual and quarterly reports on Forms 10-K and 10-Q (including related filings in XBRL format) and current reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") as soon as reasonably practicable after we electronically file these reports with, or furnish them to, the U.S. Securities and Exchange Commission (&#8220;SEC&#8221;). The public may also request a copy of our forms filed with the SEC, without charge upon written request, directed to: 
+
+Investor Relations Department 
+
+Qorvo, Inc. 7628 Thorndike Road Greensboro, NC 27409-9421 
+
+The information contained on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K. We have included our website address as a factual reference and do not intend it as an active link to our website. 
+
+In addition, the SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. You may also read and copy any documents that we file with the SEC at the SEC&#8217;s Public Reference Room located at 100 F Street, N.E., Room 1580, Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330 for information on the operation of the Public Reference Room. 
+

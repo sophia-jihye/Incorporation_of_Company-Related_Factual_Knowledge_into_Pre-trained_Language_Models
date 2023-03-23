@@ -1,0 +1,352 @@
+ ITEM 1. BUSINESS 
+
+General 
+
+Citrix develops and sells products and services that enable the secure and reliable delivery of applications and data over public, private or hybrid clouds or networks, to virtually any type of device. 
+
+We market and license our products directly to customers, over the Web, and through systems integrators, or SIs, in addition to indirectly through value-added resellers, or VARs, value-added distributors, or VADs, original equipment manufacturers, or OEMs and service providers. 
+
+Citrix is a Delaware corporation founded on April 17, 1989. 
+
+Business Overview 
+
+For 27 years, Citrix has innovated and delivered products consistent with a vision of a workplace where people can securely and easily collaborate across boundaries of time, place and device, creating better business outcomes, improving productivity, and making businesses far more agile and responsive to change - both in information technology change as well as business change. 
+
+Proposed Spin-off Transaction 
+
+On November 17, 2015, we announced a plan to spinoff our "GoTo" family of products into a separate, publicly traded company. The proposed separation, which is intended to be a tax-free spinoff to our stockholders, is expected to be completed in the second half of 2016. Upon completion of the separation, Chris Hylen, who currently serves as Senior Vice President and General Manager of our Mobility Apps business unit, will serve as Chief Executive Officer of the new company. 
+
+The company established as a result of the spinoff will be made up of the following Mobility Apps products and services: GoToAssist, GoToMeeting, GoToMyPC, GoToTraining, GoToWebinar, Grasshopper and OpenVoice. Immediately following the separation, Citrix shareholders will own shares in two publicly traded companies. The new spinoff company will more effectively allocate resources in line with its own market opportunity, unique growth priorities and go-to-market capabilities, as well as adapt more quickly to SaaS market and customer dynamics; and, Citrix post-spinoff, will focus on its strategic solutions for secure and reliable delivery of applications and data. 
+
+The spinoff will be subject to customary closing conditions and final approval by our Board of Directors. Please see the information in "Item 1A: Risk Factors" under the heading "Risk Factors Related to the Planned Separation," which describes some of the risks and uncertainties associated with the proposed separation. 
+
+Products and Services 
+
+Our products and services target customers of all sizes, from individuals and professional consumers, to large global enterprises. Two business units, Enterprise and Service Provider and Mobility Apps, administer the research and development, product marketing, and product management for our offerings. Our Enterprise and Service Provider business unit is comprised of Workspace Services and Delivery Networking products. Our Mobility Apps business unit is comprised of Communications Cloud and Workflow Cloud products. Broadly, as an organizing principle, we group our offerings in the following main categories within our two business units: 
+
+Workspace Services 
+
+Windows App Delivery 
+
+Our Windows App Delivery products are built to transform and reduce the cost of traditional Windows app and desktop management by virtualizing applications and desktops in the datacenter and delivering a cloud-like service to users anywhere on any device. We differentiate from basic virtualization solutions with robust security and flexibility to enable IT to deliver Windows apps and desktops for better business outcomes. 
+
+&#32;3 
+
+&#8226; 
+
+XenDesktop is a fully integrated desktop virtualization system that gives customers the flexibility to deliver desktops and applications as cloud services - enabling people to work better and simplifying desktop and app management. XenDesktop includes HDX technologies to give users a high-definition experience - even when using multimedia, real-time collaboration, USB devices, and 3D graphics content - while consuming less bandwidth than competing solutions. XenDesktop breaks down traditional cost barriers by reducing server and storage costs through the use of pooled desktops that can be personalized on-demand. XenDesktop is available in multiple editions designed for different requirements, from simple VDI-only deployments to sophisticated, enterprise-class desktop and application delivery services that can meet the needs of everything from basic call center environments to high-powered graphics workstations. In XenDesktop Enterprise and Platinum editions, customers also receive the industry-leading Citrix XenApp to manage and mobilize Windows applications. 
+
+&#8226; 
+
+XenApp &#32;is a widely deployed solution that allows Windows applications to be delivered as cloud services to Android and iOS mobile devices, Macs, PCs and thin clients. XenApp enables people to work better by running applications in the security of the data center and using HDX technologies to deliver a superior user experience to any device, anywhere. XenApp can optimize the application experience for smartphones, tablets and touchscreen laptops, providing intuitive touch capabilities for the latest generation of devices. Keeping applications under the centralized control of IT administrators enhances data security and reduces the costs of managing applications on every PC. XenApp runs on all current versions of Microsoft Windows Server &#160; and tightly integrates with the Microsoft Desktop Optimization Pack, Microsoft App-V, and Microsoft System Center. Our joint solution lowers the cost of delivering and maintaining Windows applications for all users in the enterprise. The capabilities of XenApp are available standalone as well as seamlessly integrated within with XenDesktop Enterprise and Platinum Editions. 
+
+Mobile App Delivery 
+
+Our Enterprise Mobility Management, or EMM products help organizations secure and manage mobile devices along with the apps and data that reside on the mobile device. XenMobile allows IT to easily meet mobile device security and compliance requirements for BYO and corporate liable devices while giving users the freedom to experience work and life their way. Unlike other mobile device management, or MDM and mobile application management, or MAM products, XenMobile provides the quickest path to productivity for mobile users with a low cost of ownership for IT: 
+
+&#8226; 
+
+XenMobile Enterprise &#32;is a comprehensive solution to manage mobile devices, apps, and data. Users have single-click access to all of their mobile, SaaS and Windows apps from a unified corporate app store, including seamlessly integrated email, browser, data sharing, IT support and collaboration apps. IT can deliver a rich user experience with WorxMail for secure mobile email, calendar and contact access, WorxWeb for secure browsing and ShareFile for enterprise data syncing. IT gains control over mobile devices with full configuration, security, provisioning and support capabilities. Flexible deployment options give IT the choice to manage XenMobile in the cloud or on-premise. In addition, XenMobile securely delivers Worx Mobile Apps, mobile apps built for businesses using the Worx App Software Development Kit, or SDK and found through the Worx App Gallery. With XenMobile, IT can meet their compliance and control needs while users get the freedom to experience work and life their way. 
+
+Citrix Workspace Suite 
+
+We offer customers the opportunity to acquire our mobility, desktop and app products through a single integrated product offering - the Citrix Workspace Suite. Citrix Workspace Suite is a complete, integrated business mobility solution for helping people and business become more productive with an on-demand mobile workspace. 
+
+&#8226; 
+
+Citrix Workspace Suite delivers the user experience for any app or desktop using a universal client - Citrix Receiver &#32; - available on all tablets, smartphones, PCs, Macs or thin clients, IT can securely deliver content over low bandwidth high latency WANs, highly variable 3G/4G mobile networks or a reliable corporate LAN to ensure native experience. Citrix Workspace Suite offers enterprise grade security to ensure data and applications are always secure and compliant. Workers can access and sync all of their data from any device and securely share it with colleagues and customers. Organizations can minimize loss of intellectual property and sensitive private information through data encryption, password authentication, secure lock and wipe on the device or through centralization of applications and desktops which keeps all content in the datacenter. Citrix Workspace Suite provides a single, flexible solution that can streamline application and desktop deployment and lifecycle management to reduce IT costs. By centrally managing and delivering on-demand standard images, IT can improve the success rate of application and desktop image updates and provide role-based management, configuration, security and support for corporate and employee-owned devices. 
+
+Delivery Networking 
+
+Our Delivery Networking products allow organizations to deliver cloud services to any device with high performance, security and reliability. 
+
+&#32;4 
+
+&#8226; 
+
+NetScaler &#32;is an all-in-one application delivery controller designed to make applications run up to five times faster by application accelerator methods such as hypertext transfer protocol, or HTTP compression and caching, ensuring application availability through the advanced L4-7 load balancer and content switching methods; increase application security with an integrated application firewall; ensure client security with integrated SSL VPN gateway; and substantially lower costs by offloading servers to enable server consolidation. 
+
+Mobility Apps 
+
+Communications Cloud and Workflow Cloud products allow organizations to enable mobile workstyles and offer employees the ability to move seamlessly across a diverse mix of devices and collaborate and share information. 
+
+Communications Cloud 
+
+&#8226; 
+
+GoToMeeting &#32;is an easy-to-use, secure and cost-effective product for online meetings, sales demonstrations and collaborative gatherings. GoToMeeting users can easily host, or participate in online meetings from a Mac, PC, iPad, iPhone, Windows 8 tablet, Windows Phone or Android device. GoToMeeting comes equipped with integrated conference dial-in numbers, Voice over Internet Protocol, or VoIP and HDFaces high-definition video conferencing. It features an advanced, secure communication architecture that uses industry-standard secure sockets layer, or SSL, encryption. 
+
+&#8226; 
+
+GoToWebinar is an easy-to-use, do-it-yourself webinar product, allowing organizations to increase market reach and effectively present online to geographically dispersed audiences. GoToWebinar users can easily host, attend or participate in a webinar session from a Mac, PC or mobile device without significant training or IT support; attendees can join from a Mac, PC, iPad, iPhone or Android device. GoToWebinar includes such features as full-service registration with real-time reports; customized branding; automated email templates; polling and survey capabilities; a webinar dashboard for monitoring attendance and participation; easy presenter controls for changing presenters; high-definition webcam sharing for up to 6 organizers and panelists and VoIP and toll-based phone options. 
+
+&#8226; 
+
+GoToTraining &#32;is an easy-to-use and secure online training product that enables individuals and enterprises to provide interactive training sessions to customers and employees in any location. GoToTraining users can easily create curriculums for their students from a Mac or PC without significant training or IT support; attendees can join from a Mac, PC, iPad, iPhone or Android device. GoToTraining includes such features as full-service registration with real-time reports; materials; automated email templates; polling and survey capabilities as well as testing; and high-definition webcam sharing for up to 6 participants and VoIP and toll-based phone options. 
+
+&#8226; 
+
+OpenVoice is a reservation-less audio conferencing service, providing robust web-based account tools that allows user provisioning and audio meeting controls for users to manage small and large audio conferences without operator assistance. OpenVoice Integrates seamlessly with all Communications Cloud products, adding a toll-free number to online sessions. 
+
+&#8226; 
+
+Grasshopper is a provider of cloud-based telephony solutions for small businesses that allows organizations to establish professional voice presence (e.g., interactive voice response (IVR), routing, voicemail) without costly hardware investments. Additionally, Grasshopper enables employees to use their personal devices to make and receive calls from their business line via a mobile app. 
+
+Workflow Cloud 
+
+&#8226; 
+
+ShareFile &#32;is a secure, cloud-based file sharing and storage solution built for business. ShareFile enables business professionals to manage and share data securely and easily and solves the mobility and collaboration needs of users. It replaces insecure and inconsistent methods of transferring large and confidential files including email attachment, FTP and consumer cloud storage services. ShareFile protects client data throughout the storage and transfer process, using up to 256-bit encryption and SSL or Transport Layer Security, or TLS encryption protocols for transfer and 256-bit encryption for files at rest on ShareFile servers. Password protection and granular access to folders and files stored with ShareFile ensure that data remains in control of the company. With ShareFile Enterprise, organizations can manage their data on premises in customer managed StorageZones, choose Citrix managed secure cloud options or create a mix of both to meet the needs for data sovereignty, compliance, performance and costs. In addition, ShareFile supports e-signature and approval workflows. 
+
+&#8226; 
+
+GoToMyPC &#32;is an online service that enables mobile workstyles by providing secure, remote access to a PC or Mac from virtually any Internet-connected computer, as well as from supported iOS or Android mobile devices, such as the iPad, iPhone, Kindle Fire, and Samsung Galaxy. GoToMyPC sets up easily with a secure encrypted connection and enables individuals to remotely use any resources hosted on their desktop just as though they were sitting in front of it. 
+
+&#32;5 
+
+&#8226; 
+
+GoToAssist &#32;provides easy-to-use cloud-based IT support solutions to deliver maximum uptime for people and their computers, mobile devices and apps. GoToAssist's integrated toolset is built specifically for IT managers, consultants and managed service providers. 
+
+License Updates and Maintenance 
+
+We provide several ways for customers to receive upgrades, support and maintenance for products. 
+
+&#8226; 
+
+Subscription Advantage &#32;provides customers access to the latest product version updates when made available during their membership term. These updates include major changes to the product architecture and updates to the feature set of a product. Citrix software products eligible for participating in the Subscription Advantage program come with the first year of Subscription Advantage embedded into the cost of the product. 
+
+&#8226; 
+
+Technical Support Services &#32;are specifically designed to address the variety of challenges facing our customers&#8217; IT environments. We offer several support-level options, global coverage and personalized relationship management. Post-sale technical support is offered through Citrix-operated support centers located in the United States, Ireland, Japan, Hong Kong, Australia, Singapore and India. In most cases, we provide technical advice to distributors, resellers, service providers and entities with which we have a technology relationship, who act as the first line of technical assistance for end-users. 
+
+&#8226; 
+
+Hardware Maintenance &#32;provides technical support from Citrix experts to diagnose and resolve issues encountered with appliances. It also offers the latest software upgrades and replacement of malfunctioning appliances to minimize organizational downtime. Additionally, dedicated account management is available as an add-on to the program for an even higher level of service. 
+
+&#8226; 
+
+Software Maintenance &#32;combines 24x7x365 unlimited worldwide support with product version upgrades when available. The first year of Software Maintenance is required with certain corresponding product purchases. &#32; Effective February 16, 2015, we introduced Software Maintenance across all Citrix software products and discontinued our existing Premier Support offering. 
+
+Professional Services 
+
+We provide a portfolio of professional services to our business partners and customers to manage the quality of implementation, operation and support of our solutions. These services are available for additional fees paid on an annual or transactional basis. 
+
+&#8226; 
+
+Citrix Consulting helps guide the successful implementation of Citrix technologies and solutions through the use of proven methodologies, tools and leading practices. Citrix Consulting focuses on strategic engagements with enterprise customers who have complex, mission-critical, or large-scale Citrix deployments. These engagements are typically fee-based engagements for the most challenging projects in scope and complexity, requiring consultants who are uniquely qualified with project methodology and Citrix product expertise. Citrix Consulting is also responsible for the development of best practice knowledge that is disseminated to businesses with which we have a business relationship and end-users through training and written documentation. Leveraging these best practices enables our integration resellers to provide more complex systems, reach new buyers within existing customer organizations and provide more sophisticated system proposals to prospective customers. Citrix Consulting has worked with Fortune Global 500 companies, technology providers, and government organizations to deliver solutions that achieve their unique technical and business objectives. 
+
+&#8226; 
+
+Product Training &#38; Certification helps enable our customers and partners to be successful with Citrix and achieve their business objectives faster. Authorized Citrix training is available when and how it is needed. Traditional or virtual instructor-led training offerings feature Citrix Certified Instructors delivering training in a classroom or remote setting at one of our Citrix Authorized Learning Centers, or CALCs, worldwide. CALCs are staffed with instructors that have been certified by us and teach their students using Citrix-developed courseware. Self-Paced Online offerings, available to students 24 hours a day, seven days a week, provide technically robust course content without an instructor and include hands-on practice via virtual labs. Certifications validate key skills and are available for administrators, engineers, architects and sales professionals. 
+
+Technology 
+
+Our products are based on a full range of industry-standard open source technologies. In addition, certain of our products are also based on our proprietary technologies. 
+
+&#8226; 
+
+Citrix HDX Technologies is a family of innovations that optimize the end-to-end user experience in virtual desktop and virtual application environments. These technologies incorporate our ICA protocol, which consists of server- and client-side technology that allows graphical user interfaces to be transmitted securely over any network, and include 
+
+&#32;6 
+
+optimizations for multimedia, unified communications, high-end graphics and mobile networks which work together to provide a high-definition user experience across a wide array of applications, devices and networks. 
+
+&#8226; 
+
+Citrix SmartAccess &#32;technologies provide granular, policy-based control over access and features that enable the best balance of security, compliance and end-user experience. These capabilities can dynamically enforce higher levels of security based on the device, network or user accessing the applications. 
+
+&#8226; 
+
+NetScaler Software Packet Engine , or the Packet Engine, forms the foundation of our NetScaler line of products. The Packet Engine allows high-performance networking and packet processing without the need for special purpose hardware. 
+
+&#8226; 
+
+NetScalernCore Technology is an architecture which enables execution of multiple Packet Engines in parallel. nCore technology allows the distribution of packet flows across multiple central processing unit cores to achieve efficient, high-performance parallel processing across multiple Packet Engines. The architecture incorporates innovations in flow distribution and state sharing and provides for efficient execution across Packet Engines. 
+
+&#8226; 
+
+XenMobile is our foundational technology that delivers a holistic mobile computing platform for enterprises. Its main components include MDM, MAM and a set of mobile applications including secure email, corporate app store, web browsing, data sharing, secure note taking and document editing on a host of mobile platforms including iOS, Android and Windows mobile. 
+
+&#8226; 
+
+Citrix Internet Overlay Platform is our foundational technology for GoToMeeting, GoToWebinar, GoToTraining and GoToAssist. The platform implements one of the largest multicast overlay data networks in the world using the Internet. It provides proprietary screen-sharing technology that separately optimizes screen transmission for each endpoint device (such as a remote PC during an online meeting or remote access session). 
+
+&#8226; 
+
+Citrix PSTN/VoIP Bridge is core technology that allows the seamless integration of Public Switched Telephone Network/Voice over Internet Protocol, or PSTN/VoIP, in our products that use our audio conferencing. 
+
+&#8226; 
+
+HDFaces in GoToMeeting, GoToWebinar and GoToTraining &#32;delivers high-definition video conferencing and one-to-many video streaming over the public Internet. It includes proprietary network transport protocols and transcoding software that optimize video quality for each endpoint device. 
+
+Innovation is a core Citrix competency. We have many additional unique inventions that are important enablers of our continued leadership in delivery networking, workspace services and mobility apps. 
+
+Customers 
+
+We believe that the primary IT buyers involved in decision-making related to our solutions are the following: 
+
+&#8226; 
+
+Strategic IT Executives including chief information officers, chief technology officers, chief information security officers and vice presidents of infrastructure, who have responsibility for ensuring that IT services are enablers to business initiatives and are delivered with the best performance, availability, security and cost. 
+
+&#8226; 
+
+Desktop Operations Managers who are responsible for managing Windows Desktop environments including corporate help desks. 
+
+&#8226; 
+
+IT Infrastructure Managers who are responsible for managing and delivering Windows-based applications. 
+
+&#8226; 
+
+Directors of Messaging and Mobility, who are, respectively, responsible for Exchange and defining mobile strategies and solutions for securing and managing mobile devices including their content and applications. 
+
+&#8226; 
+
+Network Architects who are responsible for delivering Web-based applications who have primary responsibility for the WAN infrastructure for all applications. 
+
+&#8226; 
+
+Server Operations Managers who are responsible for specifying datacenter systems and managing daily operations. 
+
+&#8226; 
+
+Individuals and prosumers, who are responsible for choosing personal solutions and helping small businesses select simple-to-use computing solutions. 
+
+&#8226; 
+
+Small business owners who are responsible for choosing the systems needed to support their business goals, such as SaaS. 
+
+&#8226; 
+
+Line of business and functional executives that determine the need for our mobility apps offerings at certain enterprises. 
+
+&#8226; 
+
+Chief technology officer and engineering department (managers, architects, etc.) for telecommunications service providers are the primary buyers of our ByteMobile Smart Capacity solutions. 
+
+&#8226; 
+
+Chief information officer and engineering departments within service providers, using Citrix products to deliver desktops and applications as hosted cloud services. 
+
+The IT buyers for our products include a wide variety of industries including those in financial services, technology, healthcare, education, government and telecom. 
+
+&#32;7 
+
+We offer perpetual and term-based software licenses for our products, along with annual subscriptions for software updates, technical support and SaaS. Perpetual licenses allow our customers to use the version of software initially purchased into perpetuity, while term-based licenses are limited to a specified period of time. Software update subscriptions give customers the right to upgrade to new software versions if and when any updates are delivered during the subscription term. Perpetual license software products come primarily in electronic-based forms and, in selected markets, we offer pre-packaged shrink-wrap products to meet local customer needs. We also offer subscription licenses to service providers via a Service Provider License Agreement, which are invoiced on a monthly basis or based on reported license usage. Our Mobility Apps products are accessed over the Internet for usage during the subscription period. Our hardware appliances come pre-loaded with software for which customers can purchase perpetual licenses and annual support and maintenance. 
+
+Technology Relationships 
+
+We have a number of technology relationships in place to accelerate the development of existing and future products and go-to-market. These relationships include cross-licensing, OEM, resell, joint reference architectures, and other arrangements that result in better solutions for our customers. 
+
+Microsoft 
+
+For over 25 years, Citrix and Microsoft have maintained a very strategic partnership spanning product development, go-to-market initiatives and partner development, with the goal of helping customers to enable secure delivery of applications and data on any device, wherever they go. We continue to invest and make progress on moving from an on-premises centric approach to a hybrid and cloud model. This next-generation model encompasses not just the Microsoft platform but extends to enable customers to leverage other platforms to deliver the best experiences through Microsoft and Citrix technologies. 
+
+Google 
+
+Together, Google and Citrix offer today&#8217;s enterprise a new approach to end user computing. Google and Citrix empower organizations to provide secure, scalable, app-centric, mobile workspace solutions that deliver an exceptional user experience. Our technology and marketing collaboration across app virtualization and mobility builds on a natural alignment to enable people to both work better and live better. The two companies continue working to optimize Citrix Receiver for Chrome to enable organizations to easily provision, centrally manage and deliver enterprise apps and data with high security over any network on any Chrome-based device. Our mobility technology and marketing collaboration ensures that XenMobile offers complete enterprise mobility management support for Android in the enterprise. Citrix is a founding partner for the Google Android for Work industry program. Our partnership has grown quickly and will continue to expand as we introduce new joint solutions for Citrix products to leverage Google Cloud Platform. 
+
+Intel 
+
+Citrix and Intel have a long tradition of collaborating on various technologies, including client and server virtualization, remote 3D graphics visualization, cloud security, networking and mobility to enable enterprises to deliver a seamless, scalable and secure mobile workspace experience to anyone working from anywhere on any device. The two companies have recently built a go-to-market partnership to deliver cost effective and enterprise ready rich, virtual apps and desktops hosted on either a cloud or on-premise in the datacenter to any Intel architecture-based end point device including Windows, Mac, Chrome and Linux operating systems. In addition, both companies are increasing joint market programs to drive enterprise adoption of Application Delivery Controllers and SD-WAN on our Intel Xeon processor-based NetScaler SDX and MDX product families. 
+
+Additional Relationships 
+
+Our partners continue to expand their focus on the broad range of Citrix products. Some examples include Hewlett Packard Enterprise, Dell, IBM and Fujitsu which have multiple offerings in the market with our workspace services solutions and delivery networking products. We also have strongly established relationships with SAP, Samsung, Nutanix, and NVIDIA that complement the benefits provided by Citrix products. Amazon continues to market Citrix NetScaler, Citrix CloudBridge, and Citrix XenMobile in its Amazon Web Services (AWS) Marketplace, and we collaborate to help customers to run XenApp and XenDesktop on the AWS platform. 
+
+Through our Citrix Ready program, more than 27,000 products have been verified to work with Citrix technologies. The program is trusted by customers, providing them choice and confidence when identifying Citrix verified partner products critical to their solution deployment. In addition, numerous partners proactively incorporate Citrix products and technologies such as Receiver, XenDesktop, XenApp, NetScaler, and HDX (ICA) technologies into their customer offerings. Our HDX and Receiver technologies are often included with or offered for thin clients, industry-standard servers and mobile devices, such as 
+
+&#32;8 
+
+Apple's iPhone and iPad, Windows Mobile and Google Android devices. Licensees include Dell, Samsung, Fujitsu and Hewlett-Packard Enterprise, among others. 
+
+Research and Development 
+
+We focus our research and development efforts on developing new products and core technologies in our core markets and to further enhancing the functionality, reliability, performance and flexibility of existing products. We solicit extensive feedback concerning product development from customers, both directly from and indirectly through our channel distributors. 
+
+We believe that our software development teams and core technologies represent a significant competitive advantage for us. Included in each of the business unit software development teams are individuals focused on research activities that include prototyping ways to integrate emerging technologies and standards into our product offerings, such as emerging Web services technologies, management standards and Microsoft's newest technologies. Many groups within the software development teams have expertise in Extensible Markup Language, or XML, based software development, integration of acquired technology, multi-tier Web-based application development and deployment, SSL secure access, hypervisor technologies, cloud technologies, networking technologies, VoIP-based audio technology, Web-based video technology and building SaaS. We incurred research and development expenses of approximately $564.0 million &#32;in 2015 , $553.8 million &#32;in 2014 &#32;and $516.3 million &#32;in 2013 . 
+
+Sales, Marketing and Services 
+
+We market and license our products and services through multiple channels worldwide, including selling through resellers and direct over the Web. Our partner community comprises thousands of value-added resellers known as Citrix Solution Advisors, VADs, cloud service providers, SIs, Independent Software Vendors, or ISVs and OEMs. Distribution channels are managed by our worldwide sales and services organization. Partners receive training and certification opportunities to support our portfolio of products, solutions and services. In addition, our Mobility Apps business unit provides our collaboration and data sharing offerings through direct corporate sales, our partner community, and direct through our web sites. 
+
+&#32;We reward our partners that provide sales expertise, services delivery, customer education, technical implementation and support of the Citrix portfolio of products through our Citrix Advisor Rewards program. We continue to focus on increasing the productivity of our existing partners, and building capacity through targeted recruitment, introducing programs to increase partner mindshare, limit channel conflict and increase partner loyalty to us. 
+
+As Citrix continues to lead with cloud services, we have been cultivating a global base of partners within the Citrix Service Provider program. These partners, consisting of managed service providers, IT hosting companies and Telcos, license Citrix desktop, application, networking and enterprise mobility management products on a monthly subscription basis. With these technologies partners then create various vertically differentiated offers of their own, consisting of cloud-hosted applications and cloud-hosted desktops, which they then resell both to SMBs and to enterprise IT. Besides supplying technology, Citrix is actively engaged in assisting these partners develop their hosted businesses by supplying business and marketing assistance. 
+
+For all of our channels, we regularly take actions to improve the effectiveness of our partner programs and further strengthen our channel relationships through management of non-performing partners, recruitment of partners with expertise in selling into new markets and forming additional strategic global and national partnerships. Engagement with SIs and ISVs continues to be a substantial part of our strategic roadmap within large enterprise and government markets. Our integrator partnerships include organizations such as Accenture, Capgemini, Computer Sciences Corporation, Dimension Data, Hewlett Packard, Fujitsu, IBM Global Services, and Wipro, among others. Computer Sciences Corporation, Fujitsu, Hewlett Packard, IBM and Wipro all deliver offerings powered by the Citrix Workspace Suite. The ISV program maintains a strong representation across targeted industry verticals including healthcare, financial services and telecommunications. Members in the ISV program include Allscripts, Cerner Corporation, Epic Systems Corporation, McKesson Corporation, and Siemens Medical Health Solutions, among several others. 
+
+Our corporate marketing organization provides sales and industry event support, demand generation, web and social marketing, sales tools and collateral, advertising, direct mail, industry analyst relations and public relations coverage to our indirect channels to aid in market development and in attracting new customers. Our partner development organization actively supports our partners to improve their commitment and capabilities with Citrix solutions. Our customer sales organization consists of field-based sales engineers and corporate sales professionals who work directly with our largest customers, and coordinate integration services provided by our partners. Additional sales personnel, working in central locations and in the field, provide support including recruitment of prospective partners and technical training with respect to our products. 
+
+&#32;9 
+
+In fiscal year 2015 , there was no individual customer that accounted for over 10% of our total net revenues. In fiscal years 2014 &#32;and 2013 , one distributor, Ingram Micro, accounted for 13% &#32;and 14% , respectively, of our total net revenues. Our distributor arrangements with Ingram Micro consist of several non-exclusive, independently negotiated agreements with its subsidiaries, each of which covers different countries or regions. Each agreement is negotiated separately and is independent of any other contract (such as a master distribution agreement), one of which was individually responsible for over 10% &#32;of our total net revenues in fiscal years 2014 &#32;and 2013 . 
+
+We are not obligated to accept product returns from our distributors under any conditions, unless the product item is defective in manufacture. See &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations-Critical Accounting Policies and Estimates&#8221; and Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2015 &#32;for information regarding our revenue recognition policy. 
+
+International revenues (sales outside the United States) accounted for approximately 43.1% &#32;of our net revenues for the year ended December 31, 2015 , 45.2% &#32;of our net revenues for the year ended December 31, 2014 &#32;and 45.4% &#32;of our net revenues for the year ended December 31, 2013 . For detailed information on our international revenues, please refer to Note 11 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2015 . 
+
+Segment Revenue 
+
+Our revenues are derived from our Enterprise and Service Provider products, which primarily include Workspace Services solutions, Delivery Networking products and related license updates and maintenance, support and professional services and from our Mobility Apps business unit's Communications Cloud and Workflow Cloud products. The Enterprise and Service Provider and the Mobility Apps business units constitute our two reportable segments. As part of our continued transformation, effective January 1, 2016, we reorganized a part of our business by creating a new Cloud Services business unit that will include our ShareFile product line. The ShareFile product line is currently included within our Workflow Cloud products under the Mobility Apps segment. We are currently evaluating our segment reporting for 2016 as a result of these changes. See Note 11 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2015 . 
+
+Operations 
+
+For our Delivery Networking products, which include NetScaler, we use independent contractors to provide a redundant source of manufacture and assembly capabilities. Independent contractors provide us with the flexibility needed to meet our product quality and delivery requirements. We have manufacturing relationships that we enter into in the ordinary course of business, primarily with Flextronics and IBM (primarily for ByteMobile Smart Capacity) under which we have subcontracted the majority of our hardware manufacturing activity, generally on a purchase order basis. These third-party contract manufacturers also provide final test, warehousing and shipping services. This subcontracting activity extends from prototypes to full production and includes activities such as material procurement, final assembly, test, control, shipment to our customers and repairs. Together with our contract manufacturers, we design, specify and monitor the tests that are required to meet internal and external quality standards. Our contract manufacturers manufacture our products based on forecasted demand for our products. Each of the contract manufacturers procures components necessary to assemble the products in our forecast and test the products according to our specifications. We are dual-sourced on our components, however, in some instances, those sources may be located in the same geographic area. Accordingly, if a natural disaster occurred in one of those areas, we may need to seek additional sources. Products are then shipped to our distributors, VARs or end-users. If the products go unsold for specified periods of time, we may incur carrying charges or obsolete material charges for products ordered to meet our forecast or customer orders. In 2015 , we did not experience any material difficulties or significant delays in the manufacture and assembly of our products. 
+
+We control all purchasing, inventory, scheduling, order processing and accounting functions related to our operations. For our software products, production, warehousing and shipping are performed by our independent contractors Hewlett Packard Enterprise, Ireland and Digital River. Master software, development of user manuals, packaging designs, initial product quality control and testing are primarily performed at our facilities. In some cases, independent contractors also duplicate master software, print documentation and package and assemble products to our specifications. 
+
+While it is generally our practice to promptly ship product upon receipt of properly finalized purchase orders, we sometimes have orders that have not shipped upon receipt of a purchase order. Although the amount of such product license orders may vary, the amount, if any, of such orders at the end of a fiscal year is not material to our business. We do not believe that backlog, as of any particular date, is a reliable indicator of future performance. 
+
+We believe that our fourth quarter revenues and expenses are affected by a number of seasonal factors, including the lapse of many corporations' fiscal year budgets and an increase in amounts paid pursuant to our sales compensation plans due to 
+
+&#32;10 
+
+compensation plan accelerators that are often triggered in the fourth quarter. We believe that these seasonal factors are common within our industry. Such factors historically have resulted in first quarter revenues in any year being lower than the immediately preceding fourth quarter. We expect this trend to continue through the first quarter of 2016 . In addition, our European operations generally generate lower revenues in the summer months because of the generally reduced economic activity in Europe during the summer. This seasonal factor also typically results in higher fourth quarter revenues. 
+
+Competition 
+
+We sell our products in intensely competitive markets. Some of our competitors and potential competitors have significantly greater financial, technical, sales and marketing and other resources than we do. As the markets for our products and services continue to develop, additional companies, including those with significant market presence in the computer appliances, software and networking industries, could enter the markets in which we compete and further intensify competition. In addition, we believe price competition could become a more significant competitive factor in the future. As a result, we may not be able to maintain our historic prices and margins, which could adversely affect our business, results of operations and financial condition. See &#8220;Technology Relationships&#8221; and Part I-Item 1A entitled &#8220;Risk Factors&#8221; included in this Annual Report on Form 10-K for the year ended December 31, 2015 . 
+
+Workspace Services 
+
+Our Windows App Delivery products are based on an alternative technology platform the success of which will depend on organizations and customers perceiving technological and operational benefits and cost savings associated with adopting desktop and application virtualization solutions. We differentiate from basic virtualization solutions with robust security and flexibility to enable IT to deliver Windows apps and desktops for better business outcomes. Our primary competition in this market is the existing IT desktop management practice of manually configuring physical desktops, which is time-consuming, expensive and subject to inconsistency. We also face numerous competitors that provide automation of these processes and alternative approaches, including VMware's Horizon View product and the emergence of virtual applications and desktop delivery from public and private cloud services. We believe XenApp, XenDesktop and Citrix Workspace Suite give Citrix a competitive advantage by providing customers multiple ways to virtualize and deliver desktops and/or apps with one, integrated virtualization system and delivering a higher performance user experience, more robust security and the flexibility for people to use any device and IT to use any cloud infrastructure - public or private. 
+
+Our Enterprise Mobility Management product line, XenMobile, competes with AirWatch by VMware, MobileIron, Good Technology by BlackBerry and other smaller competitors. We believe we differentiate ourselves from these competitors by providing the most complete solution on the market, with MDM, MAM and superior core mobile productivity applications, including secure mobile email, calendar, browser, notes and more. Our apps feature unique workflow integrations designed to make people work better, a significant advantage over competitors that do not focus on the end user experience and either have basic applications or rely on third parties for their mobile apps and can drive similar integrations. 
+
+We also see competition from competitors that are combining mobile and desktop technologies. We believe the Citrix solution, Citrix Workspace Suite, is the best solution available today that can securely deliver a mobile workspace - all Windows, Web, SaaS and native mobile applications, data and virtual desktops - to any device, anywhere. VMware responded to our introduction of the Citrix Workspace Suite with the introduction of the VMware Workspace Suite. We expect other vendors to follow suit. We offer market-leading technologies for every component of the Citrix Workspace Suite. Further, we believe that our end-user experience is a competitive edge when compared to the alternative solutions due to the intuitiveness and self-service features of our offering. 
+
+Delivery Networking 
+
+Our NetScaler products compete against other established competitors, including, F5 Networks, Inc., or F5, and to a lesser extent, Radware and A10 Networks. The companies compete with us for traditional enterprise sales opportunities, while F5 is our principal competitor in the Internet-centric market segment. We continue to enhance NetScaler's feature capability and aggressively market NetScaler to our existing customer base as well as expanding into telco and cloud provider markets. NetScaler&#8217;s integration with XenApp and XenDesktop provides a major competitive advantage with customers who are already using these products. 
+
+Mobility Apps 
+
+Our products for collaboration continue to maintain leadership positions in extremely competitive markets, particularly among SMBs. We differentiate our SaaS offerings by designing simple, secure, reliable and cost-efficient products that deliver a superior customer experience. Our competitors range from large, established technology firms to small, Internet-based startups. 
+
+&#32;11 
+
+Our Communications Cloud products compete primarily with Adobe Connect, Cisco WebEx, TeamViewer, Microsoft Lync and Skype, BlueJeans and Zoom, and conferencing call solutions from AT&#38;T, BT, Intercall, PGi, RingCentral, Verizon and Vonage. In addition, we compete with freemium products such as LogMeIn's Join.me and Google's Google + Hangouts. Our GoToMeeting, GoToWebinar and GoToTraining products have proven to be competitive based on ease-of-use and our All You Can Meet pricing model, combined with built-in VoIP and toll-based PSTN audio services. We further differentiate our collaboration products by integrating OpenVoice toll-free seamlessly with built-in VoIP and toll audio services and having purpose-built solutions for marketing and training use cases. We believe these features give us a competitive advantage among individual, prosumer and SMB customers. 
+
+We have been a market leader with our GoToMyPC product for many years. Our competition includes LogMeIn, free solutions such as Microsoft's Live Mesh and those from many others, including internet startups. In addition, our Windows App Delivery products and new remote access features in desktop operating systems like Microsoft Windows and Macintosh OSX provide alternatives to GoToMyPC. We endeavor to differentiate our products by continuing our focus on security, ease-of-use and support for multiple desktop operating systems focused on individual, prosumer and SMB customers. 
+
+Our GoToAssist product has achieved success in Web-based clientless remote support. This product includes a version purpose-built for individual users, consultants and small businesses, positioning Citrix as the only provider of remote support solutions for all customer segments. In remote support, we compete with Cisco's WebEx, LogMeIn, TeamViewer, Bomgar and Zendesk. 
+
+In the data sharing segment, our ShareFile product's direct competition includes Dropbox, Box, Syncplicity, BlackBerry's Watchdox, Accellion, Microsoft and HighTail (formerly YouSendIt), as well as legacy solutions such as traditional file transfer protocol, or FTP. Many of these competitors have strong brand recognition through consumer and free versions of their products. However, we believe our ShareFile product offers a superior solution for businesses as it is built specifically for the needs of business. Further, we believe that Citrix's strong reputation in certain vertical segments, along with ShareFile's integration with other Citrix products, such as Receiver and XenMobile, and our unique ability to store data on-premise or in the Cloud, will be key differentiators. 
+
+Proprietary Technology 
+
+Our success is dependent upon certain proprietary technologies and core intellectual property. We have been awarded numerous domestic and foreign patents and have numerous pending patent applications in the United States and foreign countries. Our technology is also protected under copyright laws. Additionally, we rely on trade secret protection and confidentiality and proprietary information agreements to protect our proprietary technology. We have established proprietary trademark rights in markets across the globe, and own trademark registrations and pending registration applications in the United States and other countries, including Citrix, GoToAssist, GoToMeeting, GoToWebinar, NetScaler, ShareFile, Xen, XenApp, XenDesktop, XenServer and XenMobile. While our competitive position could be affected by our ability to protect our proprietary information, we believe that because of the rapid pace of technological change in the industry, factors such as the technical expertise, knowledge and innovative skill of our management and technical personnel, our technology relationships, name recognition, the timeliness and quality of support services provided by us and our ability to rapidly develop, enhance and market software products could be more significant in maintaining our competitive position. See Part I-Item 1A entitled &#8220;Risk Factors&#8221; included in this Annual Report on Form 10-K for the year ended December 31, 2015 . 
+
+Available Information 
+
+Our Internet address is http://www.citrix.com. We make available, free of charge, on or through our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission. The information on our website is not part of this Annual Report on Form 10-K for the year ended December 31, 2015 . 
+
+Employees 
+
+As of December 31, 2015 , we had approximately 9,500 employees. In November 2015, we announced a strategic restructuring program which included steps to reduce our headcount by approximately 700 full-time positions over its term, which extends into 2016. We believe our relations with employees are good. In certain countries outside the United States, our relations with employees are governed by labor regulations that provide for specific terms of employment between our company and our employees. 
+
+&#32;12 
+

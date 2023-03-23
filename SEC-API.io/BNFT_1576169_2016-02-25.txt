@@ -1,0 +1,588 @@
+ Item 1. Business 
+
+Overview 
+
+Benefitfocus provides a leading cloud-based benefits management platform for consumers, employers, insurance carriers, and brokers. The Benefitfocus Platform simplifies how organizations and individuals shop for, enroll in, manage and exchange benefits. Our employer and insurance carrier customers rely on our platform to manage, scale and exchange benefits data seamlessly. Our web-based platform has a user-friendly interface designed to enable the insured consumers to access all of their benefits in one place. Our comprehensive solutions support core benefits plans, including healthcare, dental, life, and disability insurance, and voluntary benefits plans, such as critical illness, supplemental income, and wellness programs. As the number of employer benefits plans has increased, with each plan subject to many different business rules and requirements, demand for the Benefitfocus Platform has grown. 
+
+The Benefitfocus Platform enables our customers to simplify the management of complex benefits processes, from sales through enrollment and implementation to ongoing administration. It provides consumers with an engaging, highly intuitive, and personalized user interface for selecting and managing all of their benefits via the web or mobile devices. Employers use our solutions to 
+
+&#160; 
+
+streamline benefits processes, keep up with complex regulatory requirements, control costs, and offer a greater variety of plans to attract, retain, and motivate their employees. Insurance carriers use our solutions to more effectively market offerings, manage billing, and improve the enrollment process. We also provide a network of more than 1,500 benefit provider data exchange connections, which facilitates the otherwise highly fragmented interaction among employees, employers, and carriers. 
+
+We serve two separate but related market segments. Our fastest growing market segment, the employer market, consists of employers offering benefits to their employees. Within this segment, we mainly target large employers with more than 1,000 employees, of which we believe there are over 18,000 in the United States. In our other market segment, we sell our solutions to insurance carriers, enabling us to expand our overall footprint in the benefits marketplace by aggregating many key constituents, including consumers, employers, and brokers. We believe our presence in both the employer and insurance carrier markets gives us a strong position at the center of the benefits ecosystem. As of December 31, 2015, we served 723 large employer customers, an increase from 141 in 2010, and 54 carrier customers, an increase from 29 in 2010. 
+
+We sell the Benefitfocus Platform on a subscription basis, typically through annual contracts with our employer customers and multi-year contracts with our insurance carrier customers, with subscription fees paid monthly. The multi-year contracts with our carrier customers are generally only cancellable by the carrier in an instance of our uncured breach, although some of our carrier customers are able to terminate their respective contracts without cause or for convenience. Our software-as-a-service, or SaaS, model provides us visibility into our future operating results through increased revenue predictability, which enhances our ability to manage our business. Our company was founded in 2000, and we currently employ approximately 1,450 associates. 
+
+Industry Background 
+
+The administration and distribution of benefits to employees is a mainstay of the U.S. economy. Providing these benefits is costly and complex and requires the exchange of information, application of rules, and transfer of funds among a wide variety of constituents, including consumers, employers, insurance carriers, brokers, benefits outsourcers, payroll processors, and financial institutions. According to IBISWorld calculations, in 2015, the market for HR benefits administration in the United States is expected to grow to over $73 billion. In addition, Gartner estimates that in 2014, the U.S. insurance industry spent approximately $61 billion on software and related services 1 . 
+
+The variety and complexity of core benefits plans, including healthcare, dental, life, and disability insurance continues to grow. In addition, employers are increasingly offering a range of voluntary benefits plans, such as critical illness, supplemental income, and wellness programs. The current system for providing benefits is changing rapidly and suffers from significant inefficiency as a result of complexity, regulation, and the involvement of multiple parties, leaving room for substantial improvement along the entire benefits value chain. 
+
+Employer Market 
+
+Currently, we believe there are over 18,000 entities that employ more than 1,000 individuals. A significant and growing portion of employers&#146; costs is non-salary benefits, such as the health insurance that they provide to their employees. With healthcare and other premiums increasing, senior executives are prioritizing benefits administration in their organizations, searching for ways to contain costs without sacrificing benefits. In addition, the expense burden continues to shift to employees. Employees&#146; contributions to premiums for health insurance have grown from approximately $318 in 1999 to approximately $1,071 per employee in 2015. Employers recognize the importance of offering a greater variety of core and voluntary benefits as a means to attract, motivate, and retain employees. 
+
+&#160; 
+
+They must maintain relationships with multiple insurance carriers and many other benefits providers, placing a substantial administrative burden on their organizations. 
+
+Employers&#146; distribution, management, and administration of employee benefits has historically consisted of error-prone, paper-based processes, and a patchwork of customized software tools, which are costly to maintain, often lack necessary functionality, and fail to address the increasing complexity of the benefits marketplace. As benefits offerings become more complex and employees bear more of the cost of those benefits, HR software solutions that streamline information, simplify choices, and engage employees are increasingly in demand. Employees desire tailored, dynamic, and interactive communication of critical benefits information as they become accustomed to receiving personalized content through various consumer applications on a range of devices. 
+
+Legacy HR systems were generally designed as extensions of enterprise resource planning, or ERP, systems, built for back-office responsibilities like finance and accounting. As a result, these systems lack functionality and ease-of-use for employees. Many legacy HR systems were not designed to integrate with the broader benefits ecosystem, including brokers, carriers, and wellness providers. This results in expensive, error-prone, and frustrating experiences for employers and employees. Benefits outsourcers have attempted to compensate for the shortcomings of legacy HR systems, but they have generally lacked adequate technology solutions necessary to keep up with the rapidly evolving benefits landscape. As a result, employees are often not provided with the appropriate functionality and information required to select and manage their benefits effectively. 
+
+Modern technology, changing communication patterns, and a constantly evolving benefits ecosystem have changed the employee-employer relationship. HR executives continue to search for effective strategies to increase efficiency and contain costs, while increasing employee engagement and satisfaction. Employers are increasingly interested in SaaS solutions that can help capture and analyze benefits data and ultimately lead to healthier, happier, and more productive employees. In order to manage the distribution and administration of benefits effectively, employers need an integrated platform, capable of handling all benefits in one place and providing a highly personalized experience for employees. 
+
+Insurance Carrier Market 
+
+The employee benefits market consists of a myriad of insurance carriers and products. According to the U.S. Bureau of Labor Statistics, the single largest benefit provided to employees in the United States is healthcare insurance, often encompassing more than 90% of all insurance benefits spending by employers. According to SNL Financial data, the U.S. private healthcare insurance market consists of approximately 400 carriers covering approximately 276 million individual consumers. Carriers provide benefits primarily through more than 5.7 million U.S. employers. 
+
+Large, national insurance carriers also offer numerous individual health plans of different types, including health maintenance organizations, preferred provider organizations, point-of-service plans, and health savings accounts across the 50 states. Each carrier offers a complex variety of health insurance plans, with each plan requiring multiple decisions to address the specific needs of employers and their individual employees. Despite widespread carrier consolidation, numerous disparate systems remain in place, with many large carriers operating on multiple IT systems. Carriers often rely on manual processes and siloed software applications to bridge gaps in legacy administration systems. Even as carriers attempt to modernize and keep up with evolving industry practices and a changing regulatory landscape, they have difficulty connecting with the broader healthcare system. 
+
+&#160;
+
+1 &#160; Gartner, Forecast: Enterprise IT Spending by Vertical Industry Market, Worldwide, 2013-2019 2Q15 Update , United States Insurance Market Spending on Software, IT Services, and Internal Services. 
+
+&#160; 
+
+The effective delivery and management of healthcare benefits depends on the timely, continuous exchange of data among carriers, their employer customers, and individual members. Legacy benefits management systems often lack important functionality such as web and mobile self-service capabilities and real-time data exchange. Critical carrier processes, including member enrollment, billing, communications, and retail marketing have often been under-optimized or neglected by legacy systems, and carriers have devoted significant internal resources to cover technology gaps. In addition, healthcare reform mandates and the rise of exchanges have increased focus on carriers&#146; retail distribution capabilities, which require additional investment. 
+
+Governmental oversight, punctuated with the passage of the Patient Protection and Affordable Care Act, or PPACA, has led to an increasingly intricate regulatory framework under which health benefits are delivered, accessed, and maintained. PPACA significantly expands insurance coverage through the individual mandate, with the goal of providing healthcare insurance to all U.S. citizens. To encourage enrollment, PPACA introduces a new distribution model in the form of healthcare exchanges&#151;online marketplaces that allow insurance carriers to compete directly for new members. PPACA authorized the creation of publicly funded state exchanges in which individuals and small businesses can purchase health insurance directly from carriers. In addition to these federally mandated public exchanges, a number of private entities, including benefit outsourcers, carriers, and brokers are establishing their own private exchanges. We expect private exchanges will be less rigid, promoting both health and non-health benefits, with substantially fewer rules around the types of benefits offered. As insurance carriers continue to bolster their retail distribution capabilities, we believe they will require new technology solutions to attract additional members through private exchanges. 
+
+Reportable Segments 
+
+Our reportable segments, Employer and Carrier, are based on type of customer. Financial information for Benefitfocus&#146; reportable segments is included in Note 14 to our consolidated financial statements included in this Annual Report on Form 10-K. 
+
+The Benefitfocus Solutions 
+
+We provide a multi-tenant cloud-based benefits management platform to the employer and carrier markets. The Benefitfocus Platform simplifies how organizations and individuals shop for, enroll in, manage, and exchange benefits. 
+
+We believe our solutions help employers in the following important ways: 
+
+Simplify Benefits Enrollment . Our solutions reduce the complexity of benefits enrollment by integrating all plan information in one place and presenting it to employees in an organized and easy-to-understand manner. Employees shop and enroll using a highly intuitive and engaging consumer-oriented interface. 
+
+Transition to Defined Contribution Benefits Funding Model . Our solutions help enable employers&#146; ongoing shift to defined contribution plans. Defined contribution plans differ from traditional defined benefit plans as they grant employees a stipend with which to purchase benefits of their choosing. Defined contribution plans also offer more discretion and options compared to defined benefit plans. Our products support traditional defined benefit plans, allowing employees to select from a list of benefits offered by their employer, calculating required member contributions, and recording and transmitting elections and other important information to payroll. Separately, with respect to defined contribution plans, our exchange solutions help facilitate an online shopping environment with many benefit options that allows employees to select personalized benefit offerings to suit their individual needs. 
+
+&#160; 
+
+Reduce Cost and Increase ROI . Our solutions automate the benefits management process and reduce the cost associated with clerical errors and covering ineligible employees and dependents. Our solutions also include advanced analytics that enable employers and employees to quickly gather, report, and forecast benefit costs. 
+
+Attract, Retain, and Motivate Employees . Our solutions help employers attract, retain, and motivate top talent by delivering benefits information through a highly intuitive and engaging user interface. We believe that when employees understand the value of their benefits, they are more likely to be satisfied with and engaged in their jobs. 
+
+Streamline HR Processes . Our solutions eliminate the time-consuming and labor-intensive, often paper-based, processes associated with managing employee benefits plans, making HR professionals more efficient. Employers and HR professionals can efficiently enroll users or update information, and communicate or make changes to plans in real-time. 
+
+Integrate Seamlessly with Related Systems . Our solutions can be easily and securely integrated with a variety of related systems, including carrier membership and billing systems, payroll and HR systems, banks, and other third-party administrators. We provide a network of more than 1,500 benefit provider data exchange connections. Our open architecture further extends our functionality by allowing third parties to develop and offer apps and services on our platform. 
+
+We believe our solutions help insurance carriers in the following important ways: 
+
+Attract and Maintain Membership . Our solutions allow carriers to maximize sales capacity and efficiency by communicating directly with their employer customers and individual members. 
+
+Reduce Administrative Costs . The Benefitfocus Platform allows carriers to automate and simplify various aspects of the benefits administration process, such as enrollment, plan changes, eligibility updates, and billing, from one centralized location. 
+
+Bolster Retail Distribution Capabilities Through Private Exchanges . Our solutions help carriers respond to an evolving marketplace in which retail distribution capabilities are increasingly important to attracting and retaining new members. Our private exchange platform offers carriers a lower cost direct sales channel to employer groups and individuals. We offer the ability to sell both healthcare and non-healthcare benefit products in an online shopping environment that serves as an alternative to government-sponsored public exchanges. 
+
+Facilitate Real-Time Data Exchange . Our solutions simplify interactions and data exchange, and foster collaboration among carriers and their partners, brokers, employer customers, and individual members. This allows carriers to rapidly tailor and offer new benefits packages. 
+
+Our Growth Strategy 
+
+We intend to strengthen our position as a leading provider of cloud-based benefits software solutions. Key elements of our growth strategy include the following: 
+
+Expand our Customer Base . We believe that our current customer base represents a small fraction of our targeted employers and carriers that could benefit from our solutions. In order to reach new customers in our existing employer and carrier markets, we are aggressively investing in our sales and marketing resources and our channel marketing strategy. 
+
+Deepen our Relationships with our Existing Customer Base . We are deepening our employer relationships by continuing to provide a unified platform with an growing list of additional solutions to manage increasingly complex benefits processes and simplify the distribution and administration of 
+
+&#160; 
+
+employee benefits. We are expanding our carrier relationships through both the upsell of additional software products and increased adoption across our carriers&#146; member populations. 
+
+Extend our Suite of Applications and Continue our Technology Leadership . We are extending the number, range, and functionality of our benefits applications. We have also extended the functionality of our products with various mobile applications. We intend to continue our collaboration with customers and partners, so we can respond quickly to evolving market needs with innovative applications and support our leadership position. 
+
+Further Develop our Partner Ecosystem . We have established strong relationships with organizations such as Mercer, SAP, SuccessFactors, Allstate Insurance Company, Equifax, WageWorks, and others in a variety of industries to deliver best-in-class applications to our customers. We plan to continue to invest in our integration infrastructure to allow third parties and customers to build custom applications on the Benefitfocus Platform and create deep integrations between their systems and ours. 
+
+Leverage our Corporate Culture . We believe our culture benefits our associates and customers and supports our growth. We plan to continue to invest in our culture to help attract and retain top design and engineering professionals who are passionate about Benefitfocus and motivated to create superior software technology. 
+
+Target New Markets . We believe substantial demand for our solutions exists in markets and geographies beyond our current focus. We intend to leverage opportunities we believe will arise from the complexities of changing government regulation and increased enrollment impacting both Medicare and Medicaid. We also plan to grow our sales capability internationally by expanding our direct sales force and collaborating with strategic partners in new, international locations. 
+
+Selectively Pursue Strategic Acquisitions and Investments. We might pursue acquisitions of or investments in complementary businesses and technologies that are consistent with our overall growth strategy. We believe that a selective acquisition and investment strategy could enable us to gain new customers, accelerate our expansion into new markets, and enhance our product capabilities. 
+
+The Benefitfocus Portfolio of Products 
+
+Our portfolio of products, as summarized below, provides a seamless, integrated experience for the entire life cycle of benefits enrollment and management for insurance carriers and employers. We also provide extensive applications to help carriers and employers manage their programs more effectively. 
+
+&#160;
+
+Products and Services for Insurance Carriers 
+
+&#160; Products and Services for Employers 
+
+Marketplaces: &#160; Benefitfocus Marketplace Large Employer Marketplace 
+
+&#160; Communication Portal Small Employer Marketplace 
+
+&#160; Benefitstore Individual Marketplace 
+
+&#160; Core &#38; Advanced Analytics Retiree Marketplace 
+
+&#160; Benefits Service Center eEnrollment &#160; Video eBilling &#160; ACA Compliance &#38; Reporting eExchange &#160; eBilling &#38; Payment eSales &#160; Implementation Services Core &#38; Advanced Analytics &#160; Benefits Service Center Integrations &#160; Integrations Video &#160; Benefitfocus University Implementation Services &#160; Benefits Service Center &#160; &#160; 
+
+During 2015, we renamed and rebranded many of our products and services. The following products and services for insurance carriers were renamed or rebranded: Marketplace was split into four offerings differentiated by the targeted market; Benefit Informatics forms the basis of Core &#38; Advanced Analytics; Media and Animation Services are now marketed as Video; and App Development Platform and Software-Enabled Services are now referred to as Integrations. The following products and services for employers were renamed or rebranded: HR InTouch Marketplace is now Benefitfocus Marketplace; HR InTouch is now Communication Portal; Benefit Informatics forms the basis of Core &#38; Advanced Analytics; HR Support Center is now Benefits Service Center; Media and Animation Services are now marketed as Video; and App Development Platform and Software-Enabled Services are now referred to as Integrations. 
+
+Products for Insurance Carriers 
+
+&#160;
+
+&#160; &#149; &#160; Marketplaces are online shopping environments, sometimes referred to as exchanges that allow customers to select from a variety of benefits plan choices to suit their individual needs. Marketplaces support the shift toward defined contribution benefits plans, which are increasing in popularity. Marketplaces provide consumer-centric experiences focused on personalization, and integrate social tools to help drive informed choices while selecting benefits. They also include features to track plans and compare pricing and features across multiple benefit plans. 
+
+&#160;
+
+&#160; &#149; &#160; eEnrollment is our flagship product for carriers, providing them with online enrollment for all types of benefits. We designed eEnrollment to enhance our users&#146; experience by presenting information in a user-friendly format and integrating educational videos as well as plan comparison and decision support tools to help users navigate the enrollment process. In addition to helping customers find suitable plans, eEnrollment supports complex business rules, such as eligibility and rating criteria. eEnrollment facilitates the following activities: 
+
+&#160;
+
+&#160; &#149; &#160; Initial Enrollment . Employees and brokers can complete applications and health statements prior to making elections. Once the selection occurs, eEnrollment automatically calculates group numbers, finalizes benefit elections, and sends the data to the insurance carriers&#146; membership systems. 
+
+&#160;
+
+&#160; &#149; &#160; Open Enrollment . eEnrollment simplifies open enrollment by providing tools to map employees from one plan to another, such as workflow, to-do lists, e-mail reminders, and a wide range of reports. 
+
+&#160;
+
+&#160; &#149; &#160; New Hire Enrollment . New hires can enroll in benefits anytime during their initial enrollment period. eEnrollment calculates wait periods and effective dates automatically to ensure compliance with the employers&#146; business rules. 
+
+&#160;
+
+&#160; &#149; &#160; Life Events . Employees can make changes to their elections for specific reasons, including a birth, marriage, and military leave. eEnrollment calculates effective dates and helps employees understand what types of coverage changes are permitted with each type of life event. 
+
+&#160;
+
+&#160; &#149; &#160; eBilling is an electronic invoice presentment and payment solution, or EIPP. It consolidates invoices from multiple insurance products so employers and individuals receive one invoice that can be viewed and paid electronically. eBilling automates the synchronization of billing and membership data to improve the accuracy of billing processes and provides options to simplify bill payment, such as scheduled one-time and/or recurring payments. 
+
+&#160;
+
+&#160; &#149; &#160; eExchange is a solution that bridges the communication gap between carrier and employer systems, allowing a seamless exchange of data between the two. Our customers use eExchange to integrate data from multiple systems, convert data from one format to another, and manage the flow of employee data between carriers and employers. 
+
+&#160; 
+
+&#160; &#149; &#160; eSales gives carriers and brokers tools to organize and proactively manage accounts, track leads, generate quotes, and create proposals for multiple products. eSales allows carriers to define their own market segments and configure them with unique workflows and business rules. It also enables greater data accuracy by automatically incorporating updated products, options and pricing for the most current rates and quotes. Carriers purchase eSales to increase productivity in their sales force. 
+
+&#160;
+
+&#160; &#149; &#160; Core &#38; Advanced Analytics is our data analytics solution for use by carriers and their self-insured employer customers. Core &#38; Advanced Analytics is a privately-labeled analytics solution that helps carriers and their self-insured employers identify cost drivers, recognize trends, and predict future risks and costs. Additional analytical capabilities help create &#147;what-if&#148; scenarios to model different variables, such as co-pay, deductibles, benefits, inflation, and member populations. 
+
+Products for Employers 
+
+&#160;
+
+&#160; &#149; &#160; Benefitfocus Marketplace is a cloud-based benefits management portal that streamlines online enrollment, employee communication, and benefits administration, and creates a private exchange environment for large employers who offer defined contribution plans. In one cohesive, engaging workflow, Benefitfocus Marketplace presents employees with all of the plans their employers offer. Employees who need extra assistance can access avatars, animated videos, and live chat sessions as they explore their benefit options. As employees shop for the plans that best fit their individual needs, a virtual shopping cart keeps a running tally of the employers&#146; defined contribution in addition to the employees&#146; out-of-pocket costs. If employees choose to purchase more coverage on their own, they can easily view and pay their bills in the Benefitfocus Marketplace. 
+
+&#160;
+
+&#160; &#149; &#160; Communication Portal is an employee engagement portal that gives employers the tools to send personalized, targeted text and email communications to specific employee groups based on location, job level and eligibility status. Features such as an Intelligent Virtual Assistant provide employees on-demand support while reducing administration burden for employers, and Self-Service Total Compensation Reports increase transparency into the full value of benefit offerings, which can contribute to increased engagement and employee satisfaction. 
+
+&#160;
+
+&#160; &#149; &#160; BenefitStore is a turnkey solution that makes available directly to employees a broad array of ancillary benefits like transit, supplemental life and disability, among others, to provide a more comprehensive and customizable benefits package. 
+
+&#160;
+
+&#160; &#149; &#160; Core &#38; Advanced Analytics is our data analytics solution that helps employers make more informed, data-driven decisions about their benefits offerings. This product aggregates benefit cost and claims data from relevant sources and allows customers to analyze, forecast, and monitor costs. Core &#38; Advanced Analytics enables employers and their advisors to identify cost drivers, recognize trends, and predict future risks and costs. Additional analytical capabilities create &#147;what-if&#148; scenarios to model different variables, such as co-pays, deductibles, benefits, inflation, and member populations. 
+
+&#160;
+
+&#160; &#149; &#160; ACA Compliance &#38; Reporting is our solution that helps employers manage ACA compliance by consolidating and automating IRS reporting. Additionally, Benefitfocus is an approved transmitter, allowing us to electronically file required ACA compliance documents with the Internal Revenue Service on behalf of our customers. 
+
+&#160;
+
+&#160; &#149; &#160; eBilling &#38; Payment is a comprehensive, dynamic electronic invoice presentment and payment (EIPP) application that synchronizes enrollment and billing information to streamline the monthly billing process, automate adjustments and increase accuracy of payments. eBilling &#38; Payment gives employers the ability to automate or schedule single-invoice payments to all of 
+
+&#160; 
+
+&#160; their benefit providers. Employers can drill down by employee to see coverage level and plan, or focus in by vendor, benefit type or internal cost control center to gain more insight into cost drivers. 
+
+Professional Services and Customer Support 
+
+&#160;
+
+&#160; &#149; &#160; Implementation Services . We provide implementation services to our customers in order to help ensure seamless deployment and effective utilization of our solutions. Our carrier and employer implementation teams and third-party system integrators in our Benefitfocus Implementation Program follow a five-step approach for each implementation: 
+
+&#160;
+
+&#160; &#149; &#160; Discovery , including project planning and coordination to establish key milestones, documenting business and technical requirements, establishing a deployment strategy, and planning operational and market adoption activities. 
+
+&#160;
+
+&#160; &#149; &#160; Configuration and deployment , including configuring products to meet requirements identified during discovery, and defining needs for data exchange, payroll integration, and file transfer protocol. 
+
+&#160;
+
+&#160; &#149; &#160; Integration , including connecting the Benefitfocus Platform functionality to a customer&#146;s currently existing systems, such as carrier membership and billing, payroll and HR systems, employee communications, intranets, and others. 
+
+&#160;
+
+&#160; &#149; &#160; Testing , including testing of various scenarios and uses cases, inbound and outbound payroll integration, and regression testing. 
+
+&#160;
+
+&#160; &#149; &#160; Training and technical support , including sessions to learn how to implement and access our products. 
+
+&#160;
+
+&#160; &#149; &#160; Benefits Service Center . We provide employers with expanded support services where our benefits specialists help customers&#146; employees understand benefit offerings, navigate the enrollment process, and find answers to frequently asked HR questions. Our Benefits Service Center provides employees with personalized, guided support. Additional services, such as fulfillment, dependent verification, and HR administration, are available to meet unique organizational needs. 
+
+&#160;
+
+&#160; &#149; &#160; Video . We create video and animated content that can be licensed within our applications or independently for distribution via client portals or websites. Benefitfocus provides a comprehensive video library and also can produce custom videos to meet specific communication requirements of its carrier and employer customers. Our staff of executive producers, project managers, writers, graphic designers, editors, and on-camera talent guide customers through the process from concept development to delivery. Benefitfocus hosts videos, eliminating the need for additional investments or internal IT resources by our customers. In addition, we incorporate our customers&#146; unique branding to provide a seamless extension of corporate websites and messaging. 
+
+Partner Offerings 
+
+&#160;
+
+&#160; &#149; &#160; Integrations. We allow our partners and customers to develop custom apps that integrate directly with Benefitfocus Marketplace. The open and flexible nature of our software architecture allows us to build deeper integrations with partner organizations and offer custom services in response to customer demand. Apps are organized into the following categories: voluntary benefits, health and wellness, benefits administration, finance, and communication. Some examples include: 
+
+&#160;
+
+&#160; &#149; &#160; RedBrick Health provides access to customizable health assessments, digital coaching, tracking and challenges. 
+
+&#160; 
+
+&#160; &#149; &#160; LifeLock allows employees to purchase identity theft protection when they are enrolling in other benefit programs. 
+
+&#160;
+
+&#160; &#149; &#160; Equifax ACA Management Platform provides an end-to-end ACA management and compliance solution that can reduce administrative tasks and cut costs with streamlined eligibility tracking, automated look-back calculation and IRS reporting. 
+
+&#160;
+
+&#160; &#149; &#160; SuccessFactors provides employee performance management solutions. We partnered with them to create a full HR and benefits management suite that combines employee talent, profile, and core HR information to help drive employee onboarding, promotion, and development. The SuccessFactors suite of products provides an enterprise-class system of record, as well as powerful analytics and intuitive tools. 
+
+&#160;
+
+&#160; &#149; &#160; WageWorks supports benefits such as health savings accounts, flexible spending accounts, and health reimbursement programs, as well as commuter benefits, direct billing, and COBRA, through a single sign-on from our platform. 
+
+Customers 
+
+Our customers include employers of all sizes across a variety of industries and some of the nation&#146;s largest insurance carriers and aggregators. The following is a list of some of our significant employer and carrier customers. 
+
+&#160;
+
+Employer Customers 
+
+&#160; Carrier Customers 
+
+Amerigas Propane, Inc. 
+
+&#160; Aetna Life Insurance Company Brooks Brothers Group, Inc. 
+
+&#160; Allstate Insurance Company Cancer Treatment Centers of America 
+
+&#160; Anthem, Inc. (formerly Wellpoint, Inc.) Columbia Sportswear Company 
+
+&#160; Blue Cross and Blue Shield of Florida Fender Musical Instruments Corporation 
+
+&#160; BlueCross and BlueShield of South Carolina Rush University Medical Center 
+
+&#160; Tufts Associated Health Plans, Inc. Under Armour, Inc. 
+
+&#160; During the year ended December 31, 2015, no customer accounted for more than 10% of our total revenue. 
+
+Sales and Marketing 
+
+We sell our software solutions through our direct sales organization. Our direct sales team comprises employer-focused and carrier-focused field sales professionals who are organized primarily by geography and account size. 
+
+We generate customer leads, accelerate sales opportunities and build brand awareness through our marketing programs and strategic relationships. Our marketing programs target HR, benefits, and finance executives, technology professionals, and senior business leaders. Our principal marketing programs include: 
+
+&#160;
+
+&#160; &#149; &#160; use of our website to provide application and company information, as well as learning opportunities for potential customers; 
+
+&#160;
+
+&#160; &#149; &#160; territory development representatives who respond to incoming leads and convert them into new sales opportunities; 
+
+&#160;
+
+&#160; &#149; &#160; participation in, and sponsorship of, user conferences, executive events, trade shows and industry events, including our annual user and partner conference, One Place; 
+
+&#160; 
+
+&#160; 
+
+&#160; &#149; &#160; integrated marketing campaigns, including direct email, online web advertising, blogs and webinars; and 
+
+&#160;
+
+&#160; &#149; &#160; public relations, analyst relations and social media initiatives. 
+
+We also sell our software solutions through strategic partners including Mercer LLC (&#147;Mercer&#148;) and SAP SE. 
+
+Technology Infrastructure and Operations 
+
+As an enterprise cloud software vendor, we have always deployed our solutions using a SaaS model. Our customers access our software via the web or mobile devices, rather than by installing software on their premises. Through our multi-tenant platform, our customers access a single instance of our software with multiple possible configurations enabled by our metadata-driven framework. The multi-tenant approach provides significant operating leverage and improved efficiency as it helps us to reduce our fixed cost base and minimize unused capacity on our hardware. In addition, our software architecture gives us an advantage over vendors of legacy systems, who may be using a less flexible architecture that would require significant time and expense to update. 
+
+We host our applications and serve all of our customers from two redundant data centers in separate locations. We rely on third-party vendors to operate these data centers, which are designed to host mission-critical computer systems and have industry-standard measures in place to minimize service interruptions. Our technical operations staff manages the technology stacks supporting the Benefitfocus Platform and uses automated monitoring tools throughout our system to detect unusual events or malfunctions that could interfere with our customers&#146; or partners&#146; use of the Benefitfocus Platform. We monitor application health by verifying that all applications, interfaces and supporting middleware are operational. If our monitoring tools detect a problem, they notify our technical operations staff, who responds immediately to diagnose and resolve the problem. We take the security of our data and our systems very seriously, and we focus on minimizing the risk of vulnerabilities in our system at every level of software design and system and network administration. 
+
+Compliance and Certifications 
+
+We obtain third-party examinations of our controls relating to security and data privacy. Certain examinations are conducted under Statement on Standards for Attestation Engagements, or SSAE, No. 16 (Reporting on Controls at a Service Organization). In particular, we obtain Service Organization Controls, or SOC, reports known as SOC 1 Type II and SOC 2 Type II audits that test the design and operating effectiveness of controls over a period of time. An independent auditor conducts these examinations annually and addresses, among other areas, our physical and environmental safeguards for production data centers, data availability and procedures covering integrity, change management, and logical security. 
+
+On an annual basis, we complete an internal audit of compliance against the Payment Card Industry Data Security Standards, or PCI-DSS, applicable to Level 1 service providers. These standards focus on application and network security controls for companies that transmit and store credit card data on behalf of clients. Benefitfocus meets PCI compliance requirements as a Level 1 service provider and submits its Report on Compliance and Attestation of Compliance documenting this assessment to the four major credit card brands annually. 
+
+In addition to PCI-DDS, Benefitfocus meets all applicable security requirements required by the National Automated Clearinghouse Association, or NACHA, for third-party service providers, as well as all requirements for Covered Entities as required by HIPAA. We validate both NACHA and HIPAA compliance annually through internal audits. 
+
+&#160; 
+
+Competition 
+
+While we do not believe any single competitor offers similarly expansive software solutions, we face competition from various sources, many of which have greater resources than us. Competition in our employer segment includes: 
+
+&#160;
+
+&#160; &#149; &#160; ERP software companies, including Oracle (PeopleSoft), Infor (Lawson) and Workday each offering a cloud-based benefits administration software solution; 
+
+&#160;
+
+&#160; &#149; &#160; HR outsourcing companies, including Aon/Hewitt and Towers Watson, both of which have recently launched benefits exchange solutions; 
+
+&#160;
+
+&#160; &#149; &#160; payroll service providers, including ADP and Paychex, both of which have expanded their core payroll services to include some form of cloud-based benefits administration services; and 
+
+&#160;
+
+&#160; &#149; &#160; various niche software vendors. 
+
+Competitors in our carrier segment include: 
+
+&#160;
+
+&#160; &#149; &#160; insurance carriers that have invested in internally developed benefit management solutions; 
+
+&#160;
+
+&#160; &#149; &#160; member services companies, including those providing web-based subscriber enrollment and claims adjudication services, such as Trizetto (acquired by Cognizant) and DST Health Solutions; and 
+
+&#160;
+
+&#160; &#149; &#160; various niche software vendors. 
+
+We believe that competition for benefits software and services is based primarily on the following factors: 
+
+&#160;
+
+&#160; &#149; &#160; capability for customization through configuration, integration, security, scalability, and reliability of applications; 
+
+&#160;
+
+&#160; &#149; &#160; competitive and understandable pricing; 
+
+&#160;
+
+&#160; &#149; &#160; breadth and depth of application functionality; 
+
+&#160;
+
+&#160; &#149; &#160; size of customer base and level of user adoption; 
+
+&#160;
+
+&#160; &#149; &#160; extensive data exchange network; 
+
+&#160;
+
+&#160; &#149; &#160; cloud-based delivery model; 
+
+&#160;
+
+&#160; &#149; &#160; dynamic communication capabilities with contextual media, animation, and acknowledgement tools; 
+
+&#160;
+
+&#160; &#149; &#160; ability to integrate with legacy enterprise infrastructures and third-party applications; 
+
+&#160;
+
+&#160; &#149; &#160; domain expertise in benefits and healthcare consumerism; 
+
+&#160;
+
+&#160; &#149; &#160; extensive base of rules and event-driven benefit eligibility and enrollment; 
+
+&#160;
+
+&#160; &#149; &#160; accessible on any browser or mobile device; 
+
+&#160;
+
+&#160; &#149; &#160; modern and adaptive technology platform; 
+
+&#160;
+
+&#160; &#149; &#160; access to third-party apps; 
+
+&#160;
+
+&#160; &#149; &#160; clearly defined implementation timeline; 
+
+&#160;
+
+&#160; &#149; &#160; customer-branding and styling; and 
+
+&#160;
+
+&#160; &#149; &#160; ability to innovate and respond to customer and legislative needs rapidly. 
+
+&#160; 
+
+We believe that we compete effectively based upon all of these criteria, and that we are likely to continue to retain a high percentage of our customers. Nonetheless, we believe that the increasing acceptance of automated solutions in the healthcare marketplace and the adoption of more sophisticated technology and legislative reform will result in increased competition, including potentially from large software companies with greater resources than ours. Other companies might develop superior or more economical service offerings that our customers could find more attractive than our offerings. Moreover, the regulatory landscape might shift in a direction that is more strategically advantageous to competitors. 
+
+Research and Development 
+
+Our ability to compete depends, in large part, on our continuous commitment to rapidly introduce new applications, technologies, features, and functionality. We deliver multiple software releases per year, updating the Benefitfocus Platform to leverage advances in cloud computing, mobile applications, and data management. Our research and development team is responsible for the design and development of our applications. We follow state-of-the-art practices in software development using modern programming languages, data storage systems, and other tools. We use both commercial and open source products, following a &#147;best tool for the job&#148; philosophy in product selection. Our software has a multi-tiered architecture that ensures flexibility to add or modify features quickly in response to changing market dynamics, customer needs, or regulatory requirements. 
+
+Our research and development expenses were $52.3 million, $41.7 million and $23.5 million for the years December 31, 2015, 2014 and 2013, respectively. 
+
+Intellectual Property 
+
+We rely on a combination of patent, trade secret, copyright, and trademark laws, license agreements, confidentiality procedures, confidentiality and nondisclosure agreements, and technical measures to protect the intellectual property used in our business. We generally enter into confidentiality and nondisclosure agreements with our associates, consultants, vendors, and customers. We also seek to control access to and distribution of our software, documentation, and other proprietary information. 
+
+We use numerous trademarks for our products and services, and &#147;Benefitfocus&#148;, &#147;HR InTouch&#148;, &#147;HR InTouch Marketplace&#148;, &#147;All Your Benefits. One Place.&#148;, and &#147;Shop. Enroll. Manage. Exchange.&#148; are registered marks of Benefitfocus in the United States. Through claimed common law trademark protection, we also protect other Benefitfocus marks which identify our services, such as &#147;All Your Benefits. In Your Pocket.&#148;, Benefitfocus eEnrollment, Benefitfocus eBilling, Benefitfocus eExchange, and Benefitfocus eSales, and we have reserved numerous domain names, including &#147;benefitfocus.com&#148;. We also have registered trademarks and pending trademark applications in foreign jurisdictions such as Australia, Canada, India, Ireland, New Zealand, South Africa, and the United Kingdom. 
+
+We have been granted three U.S. patents (utility patents) and have seven U.S. patent applications (all for utility patents) pending. Our first patent, which protects specified systems and methods for the automatic creation of agent-based systems, was issued in April 2013 and will not expire until May 2030. Our second patent, which protects specified systems and methods for secure agent information, was issued in October 2013 and will not expire until November 19, 2030. Our third patent, which protects registration and execution of highly concurrent processing tasks, was issued in January 2015 and will not expire until February 2032. We also have two Chinese, one Japanese and one Australian patents and a number of pending patent applications under foreign jurisdictions and treaties, such as Australia, Canada, China, Hong Kong, India, Japan, Taiwan, the European Patent Convention, and the Patent Cooperation Treaty. 
+
+&#160; 
+
+We also rely on certain intellectual property rights that we license from third parties. Although we believe that alternative technologies are generally available to replace such licenses, these third-party technologies may not continue to be available to us on commercially reasonable terms. 
+
+Although we rely on intellectual property rights, including trade secrets, patents, copyrights, and trademarks, as well as contractual protections to establish and protect our proprietary rights, we believe that factors such as the technological and creative skills of our personnel, creation of new modules, features and functionality, and frequent enhancements to our applications are more essential to establishing and maintaining our technology leadership position. 
+
+The steps we have taken to protect our copyrights, trademarks, and other intellectual property may not be adequate, and the potential exists that third parties could infringe, misappropriate, or misuse our intellectual property. If this were to occur, it could harm our reputation and adversely affect our competitive position or operations. In addition, laws of other jurisdictions may not protect our intellectual property and proprietary rights from unauthorized use or disclosure in the same manner as the United States. The risk of unauthorized use of our proprietary and intellectual property rights may increase as our company expands outside of the United States. 
+
+Government Regulation 
+
+Introduction 
+
+The employee benefits industry is required to comply with extensive and complex U.S. laws and regulations at the federal and state levels. Although many regulatory and governmental requirements do not directly apply to our business, our customers are required to comply with a variety of U.S. laws, and we may be impacted by these laws as a result of our contractual obligations. For many of these laws, there is little history of regulatory or judicial interpretation upon which to rely. 
+
+Requirements of PPACA 
+
+Our business could be affected by changes in healthcare spending. In March 2010, the President signed into law PPACA. As enacted, PPACA will change how healthcare services are covered, delivered and reimbursed through expanded coverage of uninsured individuals, reduced Medicare program spending and insurance market reforms. By January 2014, PPACA required states to expand Medicaid coverage significantly and establish health insurance exchanges to facilitate the purchase of health insurance by individuals and small employers and provided subsidies to states to create non-Medicaid plans for certain low-income residents. 
+
+Although numerous lawsuits challenged the constitutionality of PPACA, the U.S. Supreme Court on June 28, 2012, upheld the constitutionality of PPACA except for provisions that would have allowed the U.S. Department of Health and Human Services, or HHS, to penalize states that did not implement the Medicaid expansion with the loss of existing federal Medicaid funding. Consequently, a number of states opted out of the Medicaid expansion. Since that time, several states that initially opted out of the Medicaid expansion changed their minds and expanded Medicaid after all. While many of the provisions of PPACA will not be directly applicable to us, PPACA, as enacted, might affect the business of many of our customers. Carriers and large employers might experience changes in the numbers of individuals they insure as a result of Medicaid expansion and the creation of state and national exchanges, though it is unclear how many states will decline to implement the Medicaid expansion or adopt state-specific exchanges. 
+
+The long-term viability of PPACA is also currently in doubt. Congress has voted to repeal PPACA numerous times. Moreover, several lawsuits challenging the legality of various aspects of PPACA are 
+
+&#160; 
+
+still in the courts, but their ultimate outcomes are uncertain. Should Congress repeal PPACA or the courts invalidate any aspect of the PPACA, the business of our customers could be substantially affected. 
+
+Requirements Regarding the Confidentiality, Privacy and Security of Personal Information 
+
+HIPAA and Other Privacy and Security Requirements. There are numerous U.S. federal and state laws and regulations related to the privacy and security of personal health information. In particular, regulations promulgated pursuant to the Health Insurance Portability and Accountability Act of 1996, or HIPAA, establish privacy and security standards that limit the use and disclosure of individually identifiable health information and require the implementation of administrative, physical and technological safeguards to ensure the confidentiality, integrity and availability of individually identifiable health information in electronic form. Health plans, healthcare clearinghouses and most providers are considered by the HIPAA regulations to be &#147;Covered Entities.&#148; With respect to our operations as a healthcare clearinghouse, we are directly subject to the Privacy Standards and the Security Standards. In addition, our carrier customers, or payors, are considered to be Covered Entities and are required to enter into written agreements with us, known as Business Associate Agreements, under which we are considered to be a Business Associate and that require us to safeguard individually identifiable health information and restrict how we may use and disclose such information. Effective February 2010, the American Recovery and Reinvestment Act of 2009, or ARRA, extended the direct application of some provisions of the Privacy Standards and Security Standards to us when we are functioning as a Business Associate of our Covered Entity customers. The Privacy Standards extensively regulate the use and disclosure of individually identifiable health information by Covered Entities and their Business Associates. For example, the Privacy Standards permit Covered Entities and their Business Associates to use and disclose individually identifiable health information for treatment and to process claims for payment, but other uses and disclosures, such as marketing communications, require written authorization from the individual or must meet an exception specified under the Privacy Standards. The Privacy Standards also provide patients with rights related to understanding and controlling how their health information is used and disclosed. Effective February 2010 or later (in the case of restrictions tied to the issuance of implementing regulations), ARRA imposed stricter limitations on certain types of uses and disclosures, such as additional restrictions on marketing communications and the sale of individually identifiable health information. To the extent permitted by the Privacy Standards, ARRA and our contracts with our customers, we may use and disclose individually identifiable health information to perform our services and for other limited purposes, such as creating de-identified information. Determining whether data has been sufficiently de-identified to comply with the Privacy Standards and our contractual obligations may require complex factual and statistical analyses and may be subject to interpretation. The Security Standards require Covered Entities and their Business Associates to implement and maintain administrative, physical and technical safeguards to protect the security of individually identifiable health information that is electronically transmitted or electronically stored. 
+
+If we are unable to properly protect the privacy and security of health information entrusted to us, we could be found to have breached our contracts with our customers. Further, if we fail to comply with the Privacy Standards and Security Standards while acting as a Covered Entity or Business Associate, we could face civil and criminal penalties. ARRA significantly increased the amount of the civil penalties to up to $50,000 per violation for a maximum civil penalty of $1.5 million in a calendar year for violations of the same requirement. Recently, the U.S. Department of Health and Human Services Office for Civil Rights, which enforces the Security Standards and Privacy Standards, appears to have increased its enforcement activities. ARRA also strengthened the enforcement provisions of HIPAA, which may result in further increases in enforcement activity. ARRA also authorizes state attorneys general to bring civil actions seeking either injunctions or damages in response to violations of HIPAA privacy and security regulations that threaten the privacy of state residents. We have implemented and maintain policies and processes to assist us in complying with the Privacy Standards, the Security Standards and our contractual obligations. 
+
+&#160; 
+
+Data Protection and Breaches. In recent years, there have been a number of well-publicized data breaches involving the improper dissemination of personal information of individuals. Many states have responded to these incidents by enacting laws requiring holders of personal information to maintain safeguards and to take certain actions in response to a data breach, such as providing prompt notification of the breach to affected individuals. In many cases, these laws are limited to electronic data, but states are increasingly enacting or considering stricter and broader requirements. Covered Entities must report breaches of unsecured protected health information to affected individuals without unreasonable delay, but not to exceed 60 days of discovery of the breach by a Covered Entity or its agents. Notification must also be made to HHS and, in certain circumstances involving large breaches, to the media. Business Associates must report breaches of unsecured protected health information to Covered Entities within 60 days of discovery of the breach by the Business Associate or its agents. The Federal Trade Commission, or FTC, has prosecuted some data breach cases as unfair and deceptive acts or practices under the Federal Trade Commission Act. Further, by regulation, the FTC requires creditors, which may include some of our customers, to implement identity theft prevention programs to detect, prevent and mitigate identity theft in connection with customer accounts. Although Congress passed legislation that restricts the definition of &#147;creditor&#148; and exempts many health providers from complying with this rule, we may be required to apply additional resources to our existing processes to assist our affected customers in complying with this rule. We have implemented and maintain physical, technical and administrative safeguards intended to protect all personal data and have processes in place to assist us in complying with all applicable laws and regulations regarding the protection of this data and properly responding to any security breaches or incidents. 
+
+Other Requirements. In addition to HIPAA, numerous other U.S. state and federal laws govern the collection, dissemination, use, access to and confidentiality of individually identifiable health information and healthcare provider information. Some states also are considering new laws and regulations that further protect the confidentiality, privacy and security of medical records or other types of medical information. In many cases, these state laws are not preempted by the Privacy Standards and may be subject to interpretation by various courts and other governmental authorities. Further, Congress and a number of states have considered or are considering prohibitions or limitations on the disclosure of medical or other information to individuals or entities located outside of the United States. 
+
+HIPAA Administrative Simplification 
+
+HIPAA also mandated a package of interlocking administrative simplification rules to establish standards and requirements for the electronic transmission of certain healthcare claims and payment transactions. These regulations are intended to encourage electronic commerce in the healthcare industry and apply directly to Covered Entities. Some of our businesses, including our healthcare clearinghouse operations, are considered Covered Entities under HIPAA and its implementing regulations. 
+
+Transaction Standards. The standard transaction regulations established under HIPAA, or Transaction Standards, mandate certain format and data content standards for the most common electronic healthcare transactions, using technical standards promulgated by recognized standards publishing organizations. These transactions include healthcare claims, enrollment, payment and eligibility. The Transaction Standards are applicable to that portion of our business involving the processing of healthcare transactions among payors, providers, patients and other healthcare industry constituents. Failure to comply with the Transaction Standards may subject us to civil and potentially criminal penalties and breach of contract claims. The Centers for Medicare and Medicaid Services, or CMS, is responsible for enforcing the Transaction Standards. 
+
+&#160; 
+
+Payors who are unable to exchange data in the required standard formats can achieve Transaction Standards compliance by contracting with a clearinghouse to translate between standard and non-standard formats. As a result, use of a clearinghouse has allowed numerous payors to establish compliance with the Transaction Standards independently and at different times, reducing transition costs and risks. In addition, the standardization of formats and data standards envisioned by the Transaction Standards has only partially occurred. However, PPACA requires HHS to establish operating rules to promote uniformity in the implementation of each standardized electronic transaction. PPACA sets forth a schedule with staggered deadlines for the development of and compliance with operating rules for the other standardized electronic transactions, with all operating rules finalized and requiring compliance by December 31, 2015. On June 30, 2011, HHS released an interim final rule that would require health plans, healthcare clearinghouses, and certain healthcare providers to implement operating rules for two electronic transactions, relating to whether a patient is eligible for healthcare coverage and the status of claims submitted to an insurer, by January 1, 2013. Under PPACA, payors and service contractors of payors, including, in some cases, us, will be required to certify compliance with these standards to HHS. The compliance date for the certification requirement depends on the type of transaction, with the earliest certification required by December 31, 2013. We cannot provide assurance regarding how the CMS will enforce the Transaction Standards. We continue to work with payors, healthcare information system vendors and other healthcare constituents to implement fully the Transaction Standards. 
+
+In January 2009, CMS published a final rule adopting updated standard code sets for diagnoses and procedures known as the ICD-10 code sets. A separate final rule also published by CMS in January 2009 resulted in changes to the formats to be used for electronic transactions, known as Version 5010. The use of Version 5010 became mandatory on January 1, 2012, but CMS delayed enforcement until July 1, 2012. The use of the ICD-10 code sets was originally required by October 1, 2013, but HHS extended this deadline twice, with the implementation date now set for October 1, 2015. It is not known whether HHS will further the delay implementation of the ICD-10 code sets. We have been modifying and will continue to modify our systems and processes to prepare for and implement these changes. 
+
+Health Plan and Other Entity Identifiers. HHS has promulgated regulations implementing the establishment of a unique health plan identifier, or HPID. Similar to a provider&#146;s national provider identifier, the HPID provides an identification system for health plans to use for electronic transactions. HHS has also promulgated regulations implementing another entity identifier, or OEID, that serves as an identifier for entities that are not health plans, health care providers or individuals. These other entities, which include third-party administrators, transaction vendors, and clearinghouses, are not required to obtain an OEID, but they could obtain and use one if they needed to be identified in standardized transactions. The implementation of the enforcement of the HPID and OEID process has been indefinitely delayed by HHS, and if implemented its impact on our business is unclear at this time. 
+
+Financial Services Related Laws and Rules 
+
+Financial services and electronic payment processing services are subject to numerous laws, regulations and industry standards, some of which might impact our operations and subject us, our vendors and our customers to liability as a result of the payment distribution and processing solutions we offer. Although we do not act as a bank, we offer solutions that involve banks, or vendors who contract with banks and other regulated providers of financial services. As a result, we might be impacted by banking and financial services industry laws, regulations and industry standards, such as licensing requirements, solvency standards, requirements to maintain the privacy and security of nonpublic personal financial information and Federal Deposit Insurance Corporation deposit insurance limits. In addition, our patient billing and payment distribution and processing solutions might be impacted by payment card association operating rules, certification requirements and rules governing 
+
+&#160; 
+
+electronic funds transfers. If we fail to comply with applicable payment processing rules or requirements, we might be subject to fines and changes in transaction fees and may lose our ability to process credit and debit card transactions or facilitate other types of billing and payment solutions. Moreover, payment transactions processed using the Automated Clearing House Network, or ACH, are subject to network operating rules promulgated by the National Automated Clearing House Association and to various federal laws regarding such operations, including laws pertaining to electronic funds transfers, and these rules and laws might impact our billing and payment solutions. Further, our solutions might impact the ability of our payor customers to comply with state prompt payment laws. These laws require payors to pay healthcare claims meeting the statutory or regulatory definition of a &#147;clean claim&#148; within a specified time frame. 
+
+Banking Regulation 
+
+The Goldman Sachs Group, affiliates of which owned approximately 21.4% of the voting and economic interest in our business as of December 31, 2015, is regulated as a bank holding company and a financial holding company under the Bank Holding Company Act of 1956, as amended, or the BHC Act. Due to the size of its voting and economic interest, we are deemed to be controlled by The Goldman Sachs Group and are therefore considered to be a &#147;subsidiary&#148; of The Goldman Sachs Group under the BHC Act. As a result, although we do not engage in banking operations, we are subject to regulation, supervision, examination and potential enforcement action by the Federal Reserve and to most banking laws, regulations and orders that apply to The Goldman Sachs Group. In addition, certain restrictions applicable to Goldman Sachs under the BHC Act may apply to the Company as well, and we may be subject to regulatory oversight and examination because we are a technology service provider to regulated financial institutions. The bank regulatory framework is intended primarily to protect the safety and soundness of depository institutions, the federal deposit insurance system, and depositors rather than our stockholders. Because of The Goldman Sachs Group&#146;s status as a bank holding company and a financial holding company, we have agreed to certain covenants for the benefit of The Goldman Sachs Group that are intended to facilitate its compliance with the BHC Act. 
+
+In addition, the Dodd-Frank Wall Street Reform and Consumer Protection Act, or Dodd-Frank Act, was signed into law by President Obama on July 21, 2010, including Title VI known as the &#147;Volcker Rule&#148;. US financial regulators approved final rules to implement the Volcker Rule in December 2013. The Volcker Rule, in relevant part, restricts banking entities from proprietary trading (subject to certain exemptions) and from acquiring or retaining any equity, partnership or other interests in, or sponsoring, a private equity fund, subject to satisfying certain conditions, and from engaging in certain transactions with funds. 
+
+We will continue to be deemed to be controlled by The Goldman Sachs Group for purposes of the BHC Act and, therefore, we will continue to be subject to regulation by the Federal Reserve and to the BHC Act, as well as certain other banking laws, regulations and orders that apply to The Goldman Sachs Group. We will remain subject to this regulatory regime until The Goldman Sachs Group is no longer deemed to control us for bank regulatory purposes, which we do not generally have the ability to control and which will not occur until The Goldman Sachs Group has significantly reduced its voting and economic interest in us. We cannot predict the ownership level at which the Federal Reserve would consider us no longer controlled by The Goldman Sachs Group, but it could be less than 10%. 
+
+The Goldman Sachs Group and its subsidiaries, including Benefitfocus, generally may conduct only activities that are authorized for a bank holding company or a &#147;financial holding company&#148; under the BHC Act. The scope of services we may provide to our customers is limited under the BHC Act to those which are (i) financial in nature or incidental to financial activities (including data processing services such as those that we provide with our software solutions) or (ii) complementary to a financial activity and which do not pose a substantial risk to the safety and soundness of depository institutions or the financial system generally. We believe that our current and anticipated business activities are permitted under the BHC Act. 
+
+&#160; 
+
+Any failure of The Goldman Sachs Group to maintain its status as a financial holding company could result in substantial limitations on our activities and our growth. In particular, our permissible activities could be further restricted to only those that constitute banking or activities closely related to banking. The Goldman Sachs Group&#146;s loss of its financial holding company status could be caused by several factors, including any failure by The Goldman Sachs Group&#146;s bank subsidiaries to remain sufficiently capitalized, by any examination downgrade of one of The Goldman Sachs Group&#146;s bank subsidiaries, or by any failure of one of The Goldman Sachs Group&#146;s bank subsidiaries to maintain a satisfactory rating under the Community Reinvestment Act. In addition, the Dodd-Frank Act broadened the requirements for maintaining financial holding company status by also requiring the holding company to remain &#147;well capitalized&#148; and &#147;well managed&#148;. We have no ability to prevent such occurrences from happening. 
+
+The Federal Reserve has broad enforcement authority over us, including the power to prohibit us from conducting any activity that, in the Federal Reserve&#146;s opinion, is unauthorized or constitutes an unsafe or unsound practice in conducting our business. The Federal Reserve may approve, deny or refuse to act upon applications or notices for The Goldman Sachs Group and its subsidiaries to conduct new activities, acquire or divest businesses or assets, or reconfigure existing operations. The Federal Reserve may also impose substantial fines and other penalties for violations of applicable banking laws, regulations and orders. The Dodd-Frank Act strengthened the Federal Reserve&#146;s supervisory and enforcement authority over a bank holding company&#146;s non-bank affiliates. We do not believe that any of our current or anticipated business activities will require Federal Reserve approval. 
+
+There are limits on the ability of The Goldman Sachs Group&#146;s bank subsidiaries to extend credit to or conduct other transactions with us. In general, any loans to us from a bank subsidiary of The Goldman Sachs Group must be on market terms and secured by designated amounts of specified collateral and are limited to 10% of the lending bank&#146;s capital stock and surplus. Statutory changes made by the Dodd-Frank Act place certain additional restrictions on transactions between us and The Goldman Sachs Group, which we do not expect to be material to us. 
+
+Geographic Areas 
+
+We operate solely in the United States. As such, we held substantially all our assets and generated all our revenue in the United States during the fiscal years ended December 31, 2015, 2014 and 2013. 
+
+Corporate Information 
+
+We were incorporated in June 2000 as Benefitfocus.com, Inc., a South Carolina corporation. In September 2013, we reincorporated in Delaware as Benefitfocus, Inc. Our principal executive offices are located at 100 Benefitfocus Way, Charleston, South Carolina 29492, and our phone number is (843) 849-7476. Our website address is www.benefitfocus.com. The information on, or that can be accessed through, our website is not part of this report. We currently employ approximately 1,450 associates. 
+
+Executive Officers 
+
+The following table sets forth information concerning our executive officers as of February 25, 2016: 
+
+&#160;
+
+Name 
+
+&#160; Age &#160; &#160; Position 
+
+Shawn A. Jenkins 
+
+&#160; &#160; 48 &#160; &#160; Chief Executive Officer, Director Raymond A. August 
+
+&#160; &#160; 54 &#160; &#160; President and Chief Operating Officer Mason R. Holland, Jr. 
+
+&#160; &#160; 51 &#160; &#160; Executive Chairman, Director Milton A. Alpern 
+
+&#160; &#160; 64 &#160; &#160; Chief Financial Officer and Secretary James P. Restivo 
+
+&#160; &#160; 55 &#160; &#160; Chief Technology Officer &#160; 
+
+Shawn A. Jenkins&#151;President, Chief Executive Officer, and Director 
+
+Shawn Jenkins, one of our founders, has been Chief Executive Officer and a member of our board of directors since our founding in June 2000. He also served as our President until March 2015. Prior to founding Benefitfocus, from 1995 to 2000, he served as Vice President with American Pensions, Inc., leading sales, operations, and technology. From 1994 to 1995, Mr. Jenkins was a program analyst with Rockwell Automation, Inc. Mr. Jenkins serves on the Advisory Board for the School of Computing at Clemson University, Medical University of South Carolina Foundation Board of Directors, College of Charleston Board of Governors, and Charleston Southern University Board of Visitors. He previously served as Chairman of the Growing Forward Campaign for the Lowcountry Food Bank. Mr. Jenkins received an M.B.A. from Charleston Southern University and a B.A. from Geneva College in Beaver Falls, Pennsylvania. 
+
+Raymond A. August&#151;President and Chief Operating Officer 
+
+Raymond August has served as our Chief Operating Officer since August 2014 and was promoted to the title of President and Chief Operating Officer in March 2015. Prior to joining Benefitfocus, Mr. August served as the General Manager of the Computer Sciences Corp., or CSC, Financial Services Group since October 2012. Prior to that, from March 2008 to September 2012, he served as CSC&#146;s President of the Financial Services Group. Since July 2013 he has served as a member of the Executive Advisory council for Arthur Ventures Private Equity Fund. Mr. August earned a B.S. in Accounting and Management Science from the University of South Carolina and is a Certified Public Accountant. 
+
+Mason R. Holland, Jr.&#151;Executive Chairman of the Board 
+
+Mason Holland, one of our founders, has been our Executive Chairman and a member of our board of directors since our founding in June 2000. Mr. Holland is responsible for the coordination of strategic partnerships with industry leaders and client relations and serves on the nominating and corporate governance committee of our board. Mr. Holland founded American Pensions, Inc. in 1988, serving as its Chairman and President from 1988 to 2003. Mr. Holland&#146;s other ventures have included establishing Holland Properties, LLC, a real estate development firm, in 1989, and acquiring Eclipse Aerospace, Inc., a jet aircraft manufacturer, in May 2009, for which he serves as Chairman and Chief Executive Officer. Mr. Holland attended Old Dominion University in Norfolk, Virginia. 
+
+Milton A. Alpern&#151;Chief Financial Officer 
+
+Milt Alpern has served as our Chief Financial Officer since January 2012. As announced in December 2015, Mr. Alpern intends to retire effective March 31, 2016, remaining with the Company thereafter as a consultant until April 1, 2017. Prior to joining Benefitfocus, from April 2008 to December 2011, he was the Chief Financial Officer for ITA Software, Inc., a SaaS provider of technology solutions to the travel industry, which was acquired by Google in 2011, where he was responsible for leading all financial and administrative functions for the company. Prior to ITA Software, from 2003 to 2008, Mr. Alpern served as the Chief Financial Officer for Applix, Inc., a publicly held international provider of business performance management and business intelligence software where he directed all finance, human resources, legal activities, and financial community relationships. From 1998 to 2002, Mr. Alpern served as the Chief Financial Officer at Eprise Corporation, a publicly held provider of business website content management software and solutions, where he was a member of the management team leading the company&#146;s successful initial public offering. Mr. Alpern holds a B.S. in accounting from Montclair State University. 
+
+James P. Restivo&#151;Chief Technology Officer 
+
+James Restivo began serving as our Chief Technology Officer in January 2016. Prior to joining Benefitfocus, Mr. Restivo served as Vice President, Chief Technology Officer of Dodge Data &#38; 
+
+&#160; 
+
+Analytics LLC beginning in February 2015. From December 2012 to September 2014, Mr. Restivo served as Vice President, Chief Technology Officer of Smarter Workforce at International Business Machines Corporation (&#147;IBM&#148;). Prior to that, beginning in October 2006, Mr. Restivo served as Chief Technology Officer of Kenexa Corporation where he managed global public Human Capital Management R&#38;D, SaaS operations and information security before the company was purchased by IBM. Mr. Restivo received a B.S. in computer science, applied mathematics and statistics from Stony Brook University and an M.S. from the Massachusetts Institute of Technology in computer science. 
+
+As of December 31, 2015, we had approximately 1,450 full-time associates, or employees, including approximately 680 engaged in technology development and deployment. None of our associates is represented by a labor union and we consider our current relations with our associates to be good. 
+
+&#160; 
+

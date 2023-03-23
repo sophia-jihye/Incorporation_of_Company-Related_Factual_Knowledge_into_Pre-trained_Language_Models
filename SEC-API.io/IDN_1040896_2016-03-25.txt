@@ -1,0 +1,722 @@
+ Item 1. Business 
+
+&#160; 
+
+OVERVIEW 
+
+&#160; 
+
+We were originally incorporated in the state of New York in 1994 as Intelli-Check, Inc. In August 1999, we reincorporated in Delaware. On March 14, 2008, our corporation was renamed Intelli-Check - Mobilisa, Inc. after the consummation of the merger with Mobilisa, Inc. (&#8220;Mobilisa&#8221;) (references to &#8220;Intelli-Check&#8221; in this annual report refer to the Company prior to the merger with Mobilisa). At the closing of the merger, our headquarters were moved to Mobilisa&#8217;s offices in Port Townsend, Washington. On October 27, 2009, we made a further change in our name to Intellicheck Mobilisa, Inc. (&#8220;Intellicheck Mobilisa,&#8221; &#8220;we,&#8221; &#8220;our,&#8221; &#8220;us,&#8221; or &#8220;the Company&#8221;). On August 31, 2009, the Company acquired 100% of the common stock of Positive Access Corporation (&#8220;Positive Access&#8221;), a developer of driver license reading technology. The acquisition of Positive Access expanded the Company&#8217;s technology portfolio and related product offerings and allowed the Company to reach a larger number of customers through Positive Access&#8217;s extensive distribution network. On October 27, 2015 we announced that our headquarters have been relocated to its Jericho, New York facility. 
+
+&#160; 
+
+We are a technology company engaged in developing, integrating and marketing identity systems for various applications including mobile and handheld access control and security systems for the government, military and commercial markets. Our products include the Defense ID &#174; and Fugitive Finder systems, advanced ID card access control products currently protecting military and federal locations, and ID-Check, a patented technology that instantly reads, analyzes, and verifies encoded data in magnetic stripes and barcodes on government-issue IDs from U.S. and Canadian jurisdictions designed to improve the customer experience for the financial, hospitality and retail sectors. 
+
+&#160; 
+
+We plan to expand our business in the near term by pursuing a research and development strategy designed to move our technologies into new product markets that are expected to benefit from enhanced safety, regulatory compliance and fraud prevention. For example, we anticipate extending our technologies into the healthcare and first responder spaces and to online applications to provide enhanced safety, regulatory compliance and fraud prevention for the billions of transactions that occur there each day. 
+
+&#160; 
+
+As a complement to these new offerings, we are also developing a data analytics platform to analyze the data we capture and to provide meaningful data, trend and predictive analysis to a variety of customers in the commercial and government spaces. 
+
+&#160; 
+
+We sold our wireless enterprise assets on August 31, 2015 in order to focus the company resources on our core identity authentication business. 
+
+&#160; 
+
+We plan to leverage our IP in the new markets we are targeting to strengthen our competitive position. 
+
+&#160; 
+
+Our primary businesses include Identity Systems products, which include commercial applications of identity card reading and verification and government sales of defense security and identity card applications. 
+
+&#160; 
+
+Our technologies address problems such as: 
+
+&#160; 
+
+&#160; &#9679; Commercial Fraud and Risk Management &#8211; which may lead to economic losses to merchants from check cashing, debit and credit card, as well as other types of fraud such as identity theft that principally use fraudulent identification cards as proof of identity; &#160; &#160; &#160; &#160; &#9679; Instant Credit Card Approval &#8211; retail stores use our technology to scan a driver license at a kiosk or at the Point Of Sale (POS) and send the information to a credit card underwriter to get instant approval for a loyalty-branded credit card. This technique protects consumer data and is significantly more likely to result in a completed transaction compared to in-store personnel asking customers to fill out a paper form; &#160; &#160; &#160; &#160; &#9679; Unauthorized Access &#8211; our systems and software are designed to increase security and deter terrorism at airports, shipping ports, rail and bus terminals, military installations, high profile buildings and infrastructure where security is a concern; &#160; 
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160; 
+
+&#160; &#9679; Inefficiencies Associated With Manual Data Entry &#8211; by reading encoded data contained in the bar code and magnetic stripe of an identification card with a quick swipe or scan of the card, where permitted by law, customers are capable of accurately and instantaneously inputting information into forms, applications and the like without the errors associated with manual data entry. &#160; 
+
+IDENTITY CARD READING AND VERIFICATION SECTOR 
+
+&#160; 
+
+Background on Identification Documentation 
+
+&#160; 
+
+Driver license 
+
+&#160; 
+
+The driver license is the most widely used form of government issued photo identification in North America. The Real ID Act, which became federal law in May 2005, recognizes that the driver license is also a quasi-identification card. In addition to its primary function, the driver license is used to verify identity for social services, firearm sales, check cashing, credit card issuance and use and other applications. Our technology can read the electronically stored information on all currently issued driver licenses (even those that do not comply with the AAMVA/ANSI/ISO standards). Today, all 50 states, the District of Columbia and all 13 Canadian provinces/territories electronically store information on their driver license. 
+
+&#160; 
+
+Non-driver identification card 
+
+&#160; 
+
+Each U.S. and Canadian Jurisdiction also provides a non-driver identification card as an alternative form of identification for those unable to acquire a driver license. These identification cards are issued with most of the same data found on a driver license. Military documents also provide a means of identification and contain encoded data as well. Since driver licenses are the most widely used form of legally acceptable government documentation, we refer to all these identification documents as &#8220;driver licenses.&#8221; Our ID&#8730;Check &#174; software is capable of performing its function on all these forms of identification. 
+
+&#160; 
+
+Current Challenges Associated with Verifying Identification Documents 
+
+&#160; 
+
+The high-tech revolution has created a major problem for those who rely on identification documents. In an age where scanners, computers and color printers are commonplace, fake IDs of the highest quality are easily obtainable from a number of locations including college campuses and from multiple sites on the Internet. These fakes appear so real, even law enforcement agencies have encountered difficulty distinguishing them from legally issued documents. Additionally, these high-tech devices have the ability to easily alter properly issued ID. Therefore, anyone can gain access to a false identity that gives them the ability, in a commercial transaction, to present fake and stolen credit cards or checks that are supported by false identification. Additionally, starting with only a fraudulent driver license, an individual may be able to create multiple identities, commit fraud, buy age restricted products such as alcohol and tobacco while underage, evade law enforcement and engage in other criminal activities, such as: 
+
+&#160; 
+
+&#160; &#9679; committing identity theft; &#160; &#9679; gaining entrance to high profile buildings and sensitive infrastructures, &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#9679; improperly boarding airplanes; &#160; &#9679; engaging in medical fraud; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#9679; committing credit card, debit card and check cashing fraud; &#160; &#9679; purchasing age restricted products such as alcohol and tobacco while under age; and &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#9679; illegally purchasing firearms; &#160; &#9679; obtaining welfare or other government benefits. &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#9679; unlawfully committing pharmacy fraud, including false narcotic prescriptions; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#9679; committing refund fraud; &#160; &#160; &#160; &#160; 
+
+Given the ease with which identification can be falsified, simply looking at a driver license may not be sufficient to verify age or identity and determine whether or not it is fraudulent. Since merchants are facing significant economic losses due to these frauds, we believe that a document verification system which can accurately read the electronically stored information is needed. We possess patented technology that provides an analysis of the data contained on the encoded formats of these identification documents by reading and analyzing the encoded format on the magnetic stripe or bar code on the driver license and comparing it against known standards. We believe that we are the only company able to do this for all U.S. jurisdictions and that no other company could provide a similar service without infringing on our patents. 
+
+&#160; 
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160; 
+
+OUR PRODUCTS AND SERVICES 
+
+&#160; 
+
+Our Products and Services are sold as Software as a Service (SaaS) where customers pay for cloud based service. Our Identity Systems are marketed to the Commercial and Government identification sectors. 
+
+&#160; 
+
+Identity Systems Products and Services 
+
+&#160; 
+
+Our Identity Systems are marketed to the Commercial and Government identification sectors. 
+
+&#160; 
+
+Commercial Identification 
+
+&#160; 
+
+ID&#8730;Check &#174; Family &#8212; Solutions and Benefits 
+
+&#160; 
+
+Our patented ID&#8730;Check &#174; technology is our advanced document verification software. ID&#8730;Check &#174; is contained in our software products and is capable of reading and verifying in one swipe or scan the encoded format contained on U.S. and Canadian driver licenses, state issued non-driver identification cards, and military IDs. Our technology has the ability to verify the encoded formats on all currently encoded documents, even those that do not comply with the standards of the American Association of Motor Vehicle Administrators (&#8217;&#8216;AAMVA&#8217;&#8217;), the American National Standards Institute (&#8217;&#8216;ANSI&#8217;&#8217;) and the International Standards Organization (&#8217;&#8216;ISO&#8217;&#8217;). 
+
+&#160; 
+
+We believe that ID&#8730;Check &#174; and our family of software solutions contain the most advanced, reliable and effective technology, providing users with an easy, reliable, and cost-effective method of document and age verification. We have received/acquired encoding formats from multiple sources. This information, combined with our patented technology, enables all of our ID&#8730;Check &#174; software products to read, decode, process and verify the encoded formats on driver licenses. As jurisdictions change their documents and guidelines, we believe our software can be adapted to these changes. 
+
+&#160; 
+
+The ID&#8730;Check &#174; technology is embedded in many of our product lines including Retail ID &#8482; , Law ID &#8482; , Defense ID &#174; , Age ID &#8482; , Guest ID &#8482; , Access ID &#8482; , and TWIC ID &#8482; some of which are discussed below. 
+
+&#160; 
+
+ID&#8730;Check &#174; software does not require a connection to a central database to operate, thus negating privacy concerns. Many of our products have the ability to operate add-on peripherals such as printers, fingerprint readers and other devices. 
+
+&#160; 
+
+The ID&#8730;Check &#174; process is quick, simple and easy to use. After matching the driver license photograph to the person presenting the document for identification, the user simply scans or swipes the driver license through a data capture device. The software quickly determines if: 
+
+&#160; 
+
+&#160; &#9679; the format of the document is valid; &#160; &#160; &#160; &#160; &#9679; the document has been altered or is fake, by displaying the parsed, encoded data for comparison with the printed information; &#160; &#160; &#160; &#160; &#9679; the document has expired; and &#160; &#160; &#160; &#160; &#9679; the encoded data contains a date of birth equal to or greater than the legal age to purchase age restricted products, such as alcohol and tobacco. &#160; 
+
+Then, the ID&#8730;Check &#174; software applications can: 
+
+&#160; 
+
+&#160; &#9679; respond to the user by displaying the format verification result and the parsed information; &#160; &#160; &#160; &#160; &#9679; save information that is permissible by law to memory; and &#160; &#160; &#160; &#160; &#9679; print a record of the transaction including the verification results if a printer is part of the hardware configuration. &#160; 
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160; 
+
+ID&#8730;Check &#174; SDK 
+
+&#160; 
+
+Our software product, ID&#8730;Check &#174; SDK, is designed for software developers that wish to incorporate our proprietary ID&#8730;Check &#174; technology into their applications. We currently have multiple license agreements with third parties for integration and sub-licensing of our software applications into their core applications. The SDK is available for multiple platforms such as Microsoft Windows, Windows Mobile, AIX, certain versions of Linux and is also offered as a Software as a Service (SaaS) product that provides a platform independent &#38; centralized update solution for quicker and easier integration. It can easily be ported to other platforms as the need arises. New integrations are being sold as hosted cloud based Software as a Service (SaaS) products and the customer purchases annual (or longer) subscriptions for use of the software. 
+
+&#160; 
+
+Retail ID TM 
+
+&#160; 
+
+Our Retail ID TM application is a proven identity authentication solution that can instantly and accurately authenticate identification documents such as a driver license. This solution is designed to deliver better service, increase loyalty and credit card programs and reduce fraud. Retail ID reduces liability risks and ensures compliance by checking all retrieved data against each state&#8217;s privacy laws and regulatory requirements. 
+
+&#160; 
+
+ID&#8730;Check &#174; POS 
+
+&#160; 
+
+ID&#8730;Check &#174; POS is a software application that runs on multiple VeriFone devices, such as the Omni 37xx series. Our software uses both the onboard magnetic stripe reader and an optional external 2-D bar code reader that plugs into an open port on the back of the unit. The terminal has an integrated, high-speed thermal printer. The VeriFone devices are multi-application terminals that allow the ID&#8730;Check &#174; software to run side by side with credit card processing software as well as other value added software applications certified by VeriFone. We have been designated as a VeriFone value added partner. 
+
+&#160; 
+
+ID&#8730;Check &#174; BHO 
+
+&#160; 
+
+This software product, formerly called the Web Form Filler product, is a Browser Helper Object (&#8220;BHO&#8221;) for the Microsoft Browser. The BHO allows our customers to seamlessly integrate our core ID&#8730;Check &#174; technology into their web based applications. The BHO can be programmed through a series of drop down menus to populate driver license data in the fields of specific web pages based on web page URLs and web page field names. The technology also provides the ability to check the encoded formats of ID documents. 
+
+&#160; 
+
+Guest ID TM 
+
+&#160; 
+
+Guest ID TM is a software application that speeds up check-in and ID verification at hotels and motels. This product enhances user productivity by automating data entry thus improving accuracy. Guest ID TM speeds up the hotel check-in process and is incorporated into legacy Property Management Systems. 
+
+&#160; 
+
+AssureScan TM 
+
+&#160; 
+
+AssureScan TM is an application that assists pharmacies with ID verification and tracking drug related purchases. This product focuses on capturing data from drivers&#8217; licenses and tracking the sale of controlled medicines such as pseudoephedrine. Many states are now monitoring the sale of controlled medicines and this product tracks those sales. 
+
+&#160; 
+
+ID&#8730;Check &#174; PC 
+
+&#160; 
+
+ID&#8730;Check &#174; PC is a standalone software solution that is designed to provide the features of ID&#8730;Check &#174; for Windows based platforms. It allows the user to instantly view data from government issued IDs such as driver licenses and contains features such as recurring entry and age verification. 
+
+&#160; 
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160; 
+
+Age ID TM 
+
+&#160; 
+
+Age ID TM is the designation for multiple hand held devices that we offer our customers. The form-factor is a small, lightweight mobile computer with a durable housing design that has 2-D bar code and magnetic stripe reading capabilities. By allowing the user to move between locations, Age ID TM products provide the ability to check the encoded format of ID documents at multiple entry points. It additionally has the capability of providing a yes/no response when used for age verification purposes. 
+
+&#160; 
+
+State Aware Software 
+
+&#160; 
+
+State Aware Software provides or restricts information that is electronically scanned from an ID based on the electronic reading laws according to the state in which the ID is scanned. For example, scanning an ID in New Hampshire for law enforcement purposes is allowed, whereas electronically scanning an ID for a mailing list is not allowed. With all the various uses of scanning and verifying an ID, it is important for responsible users to be aware of the different state laws. State Aware Software incorporates each state&#8217;s requirements around electronic capture of ID barcode data directly into hosted ID Check software. 
+
+&#160; 
+
+Data Collection Devices 
+
+&#160; 
+
+Our software products are designed for use with multiple data collection devices, which are commercially available in various compact forms and may contain either one or both of 2-D bar code and magnetic stripe readers. These devices enable our software applications to be used on a variety of commercially available data processing devices, including credit card terminals, PDAs, tablets, laptops, desktops and point-of-sale terminals. Many of these devices contain an electronic serial number (ESN) to prevent unauthorized use of our software. 
+
+&#160; 
+
+Instant Credit Application Kiosk Software Applications 
+
+&#160; 
+
+These are custom software applications that Intellicheck Mobilisa has developed for a variety of major financial service companies and retail stores. The software installed on multiple kiosk devices provides the customers of the major financial service companies and retail stores with the ability to perform in-store instant credit approval on these devices. The hardware platforms, on which the software applications run, range from stationary devices to handhelds to tablet PCs. The process involves the swiping or scanning of the driver license to verify the encoded format and after verification, the information parsed from the encoded data is populated into the proper fields on the application displayed on the kiosk. The applicant then completes the application by entering the remaining required information that is not encoded on the driver license, such as social security and telephone numbers. The software application then sends the data to the financial service company&#8217;s backend &#8217;&#8216;decisioning&#8217;&#8217; tool for credit approval. If approved, the applicant is granted instant credit which can then be used to make purchases. 
+
+&#160; 
+
+Upgrade Capability 
+
+&#160; 
+
+Our ID&#8730;Check &#174; Products and related databases are constantly updated to stay current with identification formats and new forms ID. 
+
+&#160; 
+
+Government Identification 
+
+&#160; 
+
+Defense ID &#174; System 
+
+&#160; 
+
+Our Defense ID &#174; System offers law enforcement personnel and military security officers additional information for protecting their facilities. The Defense ID System uses rugged, handheld, mobile devices and desktop visitor/vendor approval workstations to read barcodes, magnetic stripes, RFID (radio frequency identification) and OCR (optical character recognition) codes printed on current forms of identification cards. By scanning and comparing the information contained on the ID card to over 100 databases, Defense ID &#174; can immediately determine if the card has been reported lost or stolen, the individual&#8217;s identity information matches watch lists or law enforcement databases, or if they are on an authorized roster of previously-cleared personnel. In 2008, our Defense ID &#174; System received a U.S. Navy-wide certification and accreditation referred to as an Authority to Operate (&#8217;&#8216;ATO&#8217;&#8217;), and in 2009, our Defense ID &#174; System received U.S. Army-wide, U.S. Marine Corps-wide and U.S. Air Force-wide ATOs. We believe these ATOs will facilitate further deployment of the Defense ID &#174; System at military bases and facilities. 
+
+&#160; 
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160; 
+
+Law ID &#8482; 
+
+&#160; 
+
+A mobile app for bona fide law enforcement officers that performs real time queries against State DMV, State Criminal Justice Databases and FBI NCIC (National Crime Information Center) records. Every day officers turn their backs on potentially dangerous persons. Now the Law Enforcement Officer (&#8220;LEO&#8221;) can instantly have DOL/DMV, State and Federal search results instantly while maintaining subject visibility. Without the need to return to a vehicle to enter driver license data or to contact dispatch by radio, the app uses the Smart Phone camera to extract the 2D barcode information from driver licenses and other identification documents, instantly returning to the officer query results from DOL/DMV, State and Federal criminal justice databases. These results include DOL/DMV photos, vehicle/weapon registration information and a wealth of additional information that may be critical to officer safety. 
+
+&#160; 
+
+TWIC ID &#8482; 
+
+&#160; 
+
+Provides, ports and facilities an innovative, integrated, efficient way to validate ID credentials of individuals requesting entry to secure areas. Our TWIC reading software and hardware meets all TSA requirements for portable readers and is listed on the TSA&#8217;s QTL (Qualified Technology List). The TWIC &#8482; ID Reader is proving to be an instrumental component to port security as we continue to help many U.S. ports of all sizes in further protecting their facilities. 
+
+&#160; 
+
+Visitor Center (IM 3000) 
+
+&#160; 
+
+The Visitor Center is a component of our Defense ID &#174; system and makes it faster and easier to process visitors and vendors. Using the visitor center system it pre-populates fields by scanning the government-issued ID, performs a real time background check utilizing over 100 databases to verify the individual is not on a wanted list and also if the individual has been pre-approved to access the facility or building. The Visitor Center can then take photos and prints a visit pass or new local ID card, all in a matter of seconds. 
+
+&#160; 
+
+Upgrade Capability 
+
+&#160; 
+
+Like our ID&#8730;Check &#174; products, our Defense ID &#174; products are constantly updated to stay current with identification formats and new forms of ID. In addition, we continuously update the databases related to lost or stolen cards, watch lists and law enforcement database updates, and authorized rosters of cleared personnel. Our Defense ID &#174; Systems are maintained via annual subscriptions that are purchased by our customers. 
+
+&#160; 
+
+STRATEGY 
+
+&#160; 
+
+Our objective is to be a leading security company providing world class solutions in the identity sector. These solutions include our commercial identity systems focusing on work-flow, productivity enhancement, fraud protection and risk management segments; our government identity systems focusing on access control, vendor validation, and suspect identification. Key elements of our strategy are as follows: 
+
+&#160; 
+
+Commercial Systems 
+
+&#160; 
+
+Productivity Enhancement. We market our technology as a key productivity enhancement tool. Our patented ID&#8730;Check &#174; software can add functionality to virtually any given software application to automatically populate fields within a given form, when a government-issued photo ID is presented. Our ability to correctly read and authenticate all U.S. jurisdictions, coupled with our patented technology, is a key differentiator from our competitors. The automation that results from the intelligence added to the form dramatically increases throughput and data integrity, and it significantly enhances the customer&#8217;s experience. 
+
+&#160; 
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160; 
+
+Develop Additional Strategic Alliances with Providers of Security Solutions . We have entered into strategic alliances to utilize our systems and software as the proposed or potential enrollment application for their technologies and to jointly market these security applications with multiple biometric companies: Lenel, AMAG Technology, Inc., in the defense industry; Zebra Technologies hardware manufacturers; and MorphoTrust USA now part of Safran, producers of driver licenses for approximately 85% of the jurisdictions in North America. We are an associate member of AAMVA and a member of AAMVA&#8217;s Industry Advisory Board. We believe these relationships will broaden our marketing reach through their sales efforts and we intend to develop additional strategic alliances with additional providers of security solutions. 
+
+&#160; 
+
+Strengthen Sales and Marketing Efforts . We intend to capitalize on the growth in demand for document verification and productivity enhancement by continuing to market and support our systems and software. Our sales and marketing departments are organized by target sector rather than geographic area to provide focus and create experts in each area. Our recent focus has been on Software as a Service (SaaS) license arrangements in the financial services, retail, and hospitality services industries. 
+
+&#160; 
+
+Enter into Additional Licensing Agreements . We intend to continue to license our software for use with a customer&#8217;s system. We are currently licensing our ID&#8730;Check &#174; SDK software product for Windows, Windows CE, Windows Mobile and other operating system platforms and intend to similarly continue to license our ID&#8730;Check &#174; PC, and ID&#8730;Check &#174; PDA software solutions. Our software is intended to be used with a compatible hardware device. We have entered into multiple licensing agreements to date. 
+
+&#160; 
+
+Protect Intellectual Property . We intend to strongly protect our intellectual property portfolio in order to preserve value and obtain favorable settlements where warranted. 
+
+&#160; 
+
+Government Identity Systems 
+
+&#160; 
+
+Product Enhancement. Due to the success of Defense ID &#174; in the military and government industry sectors, we have enhanced our product line to support other entities such as law enforcement, port security and commercial installations. We continue our ongoing efforts to research and implement the use of new identification cards, additional databases and upgraded equipment form factors in order to increase the efficiency and performance of the system. 
+
+&#160; 
+
+TWIC Program. The TWIC program continues to undergo testing for final rules regarding the reader technology. We were on the first list of ICE readers and will continue to provide our software on additional hardware platforms to address the unique needs of each port. We have combined our Defense ID &#174; and TWIC reader applications to provide customers with the benefits of each product in a single device and are the first company to have readers listed on the TSA&#8217;s QTL (Qualified Technology List). 
+
+&#160; 
+
+Strengthen Sales and Marketing Efforts. As the need for access control systems continues to grow, our experienced sales and marketing departments are adjusting to target new sectors. Sales and marketing materials are specially designed to clearly outline the capabilities of the system and how it is valuable to each of these specific sectors. We have sales staff and office locations on the East and West Coasts, which allows a quick response to questions and personalized assistance for each customer based on location. 
+
+&#160; 
+
+Additional Access to Multiple Databases. We continue to increase the data source information accessed through our Defense ID &#174; system. This is achieved by increasing the capabilities of our internally-developed scraping programs for publicly-available information as well as by negotiating additional data source agreements with various law enforcement and government agencies. In addition to these general databases, we can customize databases for each individual customer based on information provided by the customer. 
+
+&#160; 
+
+Our Revenue Sources 
+
+&#160; 
+
+We derive our revenue from the following sources: 
+
+&#160; 
+
+&#160; &#9679; Sales of our systems by both our own direct sales force and marketing partners; &#160; &#160; &#160; &#160; &#9679; Per transaction or subscription fees (SaaS) from the licensed use of our technology; &#160; &#160; &#160; &#160; &#9679; Royalties and licensing fees from licensing our patented technology to third parties; &#160; &#160; &#160; &#160; &#9679; Revenue sharing and marketing arrangements through strategic alliances and partnerships; &#160; &#160; &#160; &#160; &#9679; Sale of software upgrades and extended maintenance programs; and &#160; &#160; &#160; &#160; &#9679; Government grants for research and development projects. &#160; 
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160; 
+
+Our Target Industry Sectors 
+
+&#160; 
+
+Commercial Identity Systems 
+
+&#160; 
+
+The use of false identification cards, primarily driver licenses and non-driver identification cards, to engage in commercial fraud, to gain access to unauthorized areas and to gain entry to critical infrastructure is all too common. Given the ease with which identification can be falsified, we believe that simply looking at a driver license is not sufficient to verify identity and determine whether or not such an identification card is fraudulent. Since merchants are facing significant economic losses due to these frauds, we believe that what they need is a document verification system that can accurately read the electronically stored information. We target the industry sectors that would most benefit from our systems and software. 
+
+&#160; 
+
+We also market our products to opportunities where our ID&#8730;Check &#174; technology can be used to enhance productivity. We have made significant progress in the sectors for the retail issuance of instant credit. We believe there are financial benefits and compelling business models for customers in this sector to utilize our technology. 
+
+&#160; 
+
+Productivity Enhancement 
+
+&#160; 
+
+&#9679; Mass merchandisers and retailers &#160; &#9679; Auto dealerships and rental car agencies &#9679; Banks and other financial institutions &#160; &#9679; Casinos for enrollment of guests &#9679; Credit unions &#160; &#9679; Hospital patient admissions &#9679; Credit card issuers &#160; &#9679; Lodging Industry &#9679; Check cashing services &#160; &#9679; Airlines &#160; 
+
+Commercial fraud protection 
+
+&#160; 
+
+&#9679; Mass merchandisers and retailers &#160; &#9679; Auto dealerships and rental car agencies &#9679; Banks and other financial institutions &#160; &#9679; Casino cage operations &#9679; Credit unions &#160; &#9679; Hospitals, medical facilities and health plans &#9679; Credit card issuers &#160; &#9679; Lodging Industry &#9679; Check cashing services &#160; &#9679; Pharmacies &#160; 
+
+Access control 
+
+&#160; 
+
+&#9679; Airports and airlines &#160; &#9679; Prisons &#9679; Departments of Motor Vehicles &#160; &#9679; Law enforcement agencies &#9679; Notable buildings &#160; &#9679; Military establishments &#9679; Court houses &#160; &#9679; College campuses &#9679; Nuclear facilities &#160; &#9679; Department of Homeland Security &#9679; Oil refineries and storage facilities &#160; &#9679; Bus, rail and port facilities &#160; 
+
+Age verification 
+
+&#160; 
+
+&#9679; Bars and night clubs &#160; &#9679; Stadiums and arenas &#9679; Convenience stores &#160; &#9679; Casinos and gaming establishments &#9679; Grocery chains &#160; &#9679; Sellers of sexually explicit material &#9679; Restaurants &#160; &#9679; Firearm dealers &#160; 
+
+Government Identity Systems 
+
+&#160; 
+
+Our Defense ID &#174; system is tailored to locations that validate identification cards as a means of access. Historically, the military sector has been the primary focus, followed closely by Sea Ports, Oil Refineries and the law enforcement sector. Military bases, for example, are an ideal location for the use of the Defense ID &#174; system because individual ID cards are checked prior to allowing base access and, in most cases, bases issue visitor/vendor passes to individuals needing access that do not possess a military ID. 
+
+&#160; 
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160; 
+
+Because Defense ID &#174; is customizable, it can be used in many different environments. The information provided via instant access to multiple law enforcement databases proves invaluable to gate officers and law enforcement personnel ensuring the security of a facility. Current targets include: 
+
+&#160; 
+
+Military 
+
+&#160; 
+
+&#160; &#9679; Army &#160; &#9679; Navy &#160; &#9679; Air Force &#160; &#9679; Marines &#160; &#9679; Coast Guard &#160; &#9679; Military Academies &#160; &#9679; Military and Veterans Hospitals &#160; &#9679; Oil Refineries &#160; &#9679; Airports and Seaports &#160; &#160; &#160; 
+
+Law Enforcement/Government 
+
+&#160; 
+
+&#160; &#9679; FBI &#160; &#9679; Drug Enforcement Administration &#160; &#9679; State &#38; Local Police &#160; &#9679; Local Sheriffs &#160; &#9679; Bureau of Alcohol, Tobacco, Firearms, and Explosives &#160; &#9679; Intelligence Agencies &#160; &#9679; Customs &#160; &#9679; Department of Transportation &#160; &#9679; Department of Homeland Security &#160; &#9679; Border Patrol &#160; 
+
+REPRESENTATIVE CUSTOMERS 
+
+&#160; 
+
+Commercial Identity Systems 
+
+&#160; 
+
+We have generated revenues from our customers from the sale of systems, licensing of software and sale of software upgrades. The following representative customers have used or are using our systems and software for commercial fraud protection and productivity enhancement: 
+
+&#160; 
+
+&#160; &#9679; Fidelity Information Services &#160; &#9679; Foxwoods Resorts and Casino &#160; &#9679; MGM Grand &#160; &#9679; Mohegan Sun Resort Casino &#160; &#9679; Caesar&#8217;s Palace &#160; &#9679; Barclaycard USA &#160; &#9679; Enterprise &#160; &#9679; JPMorgan Chase &#160; &#9679; Toys R Us &#160; &#9679; LL Bean &#160; &#9679; Alliance Data &#160; &#9679; Synchrony Financial &#160; &#9679; Rooms to Go &#160; &#9679; AT&#38;T &#160; &#9679; Walmart &#160; &#9679; Winn Dixie &#160; &#9679; Hertz &#160; &#9679; Verizon &#160; 
+
+The following representative customers and programs have used or are using our systems and software for access control: 
+
+&#160; 
+
+&#160; &#9679; John F. Kennedy International Airport in New York &#160; &#9679; Delaware Department of Motor Vehicles &#160; &#9679; O&#8217;Hare International Airport in Chicago &#160; &#9679; Port of Houston &#160; &#9679; Reagan National Airport in Washington, DC &#160; &#9679; Port of New Orleans &#160; &#9679; New York Stock Exchange &#160; &#9679; New Hampshire Dept. of Motor Vehicles &#160; &#9679; Fort Sam Houston &#160; &#9679; Port Authority of New York and New Jersey &#160; &#9679; Fort Hood &#160; &#9679; Port of Hawaii &#160; &#9679; Force Protection Industries &#160; &#9679; United States Supreme Court &#160; &#9679; New York Department of Motor Vehicles &#160; &#9679; Registered Traveler Program &#160; &#9679; Vermont Department of Motor Vehicles &#160; &#9679; Delaware Department of Motor Vehicles &#160; 
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160; 
+
+The following representative customers are using or have used our systems and software for age verification: 
+
+&#160; 
+
+&#160; &#9679; Idaho State Liquor Dispensary &#160; &#9679; Drake Petroleum &#160; &#9679; Sunoco &#160; &#9679; Houston&#8217;s Restaurants &#160; &#9679; Exxon/Mobil franchisees &#160; &#160; &#160; 
+
+Government Identity Systems 
+
+&#160; 
+
+We have generated revenue from our customers from the sale of systems, licensing of software and sale of extended service agreements. The following representative customers have used or are using our systems and software for security and identification purposes. 
+
+&#160; 
+
+&#160; &#9679; The United States Air Force Academy &#160; &#9679; Fort Richardson &#160; &#9679; Fort Wainwright &#160; &#9679; Bolling AFB &#160; &#9679; Elmendorf Air Force Base (&#8220;AFB&#8221;) &#160; &#9679; Fort Polk &#160; &#9679; Andrews AFB &#160; &#9679; Fort Dix &#160; &#9679; Fort Meade &#160; &#9679; Yuma Marine Corps Base &#160; &#9679; Fort Belvoir &#160; &#9679; Walter Reed Army Hospital &#160; &#9679; USMC Parris Island &#160; &#9679; McChord AFB &#160; &#9679; The U.S. Military Academy at West Point &#160; &#9679; Claremont County Sheriff Department &#160; &#9679; Bangor Naval Submarine Base &#160; &#9679; Fort Sill &#160; &#9679; Fort Jackson &#160; &#9679; 29 Palms &#160; &#9679; Fort Leonard Wood &#160; &#9679; Camp Atterbury &#160; &#9679; Fort Benning &#160; &#9679; Fort Stewart &#160; 
+
+MARKETING AND DISTRIBUTION 
+
+&#160; 
+
+Commercial Identity Systems 
+
+&#160; 
+
+Our objective is to become the leading developer and distributor of document and age verification products. To date, our marketing efforts have been through direct sales by our sales and marketing personnel, through resellers and license agreements. We are marketing our products through direct marketing approaches such as web marketing, a small number of select trade shows and well known public interest and trade associations. 
+
+&#160; 
+
+We generate revenues from the licensing of our software and the selling of bundled solutions that contain hardware and software. Depending on the specific needs of our clients, we tailor the right solution for them. Our bundled solutions are sold as a Software as a Service (SaaS). 
+
+&#160; 
+
+Our ID&#8730;Check &#174; software is available to customers via the cloud (SaaS) and available for Microsoft Windows and Windows Mobile platforms in addition to devices such as credit card terminals and other operating systems such as Linux. We are marketing our ID&#8730;Check &#174; technology to the government, airlines, airports, high profile buildings or infrastructure, mass merchandisers, grocery, convenience and pharmacy chains, casinos and banks. 
+
+&#160; 
+
+We have developed a comprehensive marketing plan to build customer awareness and develop brand recognition in our target industry sectors. We promote the advantages and ease of use of our products through: 
+
+&#160; 
+
+&#9679; Endorsements by nationally known public interest groups and trade associations; &#160; &#9679; Web seminars, as well as our own website; and &#160; &#160; &#160; &#160; &#160; &#9679; Trade publications; &#160; &#9679; Various conventions and industry specific seminars. &#160; &#160; &#160; &#160; &#160; &#9679; Trade shows; &#160; &#160; &#160; 
+
+We intend to continue to develop and market other related software applications. 
+
+&#160; 
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160; 
+
+Government Identity Solutions 
+
+&#160; 
+
+We have sector-specific brochures for each product in our product line for both the military, port and law enforcement sectors that the sales force utilizes when demonstrating the Defense ID &#174; system to potential customers. These brochures serve as a quick reference guide outlining the capabilities of our technology. Once customers have a clear understanding of our products, they can use these brochures to discuss their individual needs and ordering requirements. 
+
+&#160; 
+
+When dealing with military and government entities, we must comply with applicable procurement regulations. 
+
+&#160; 
+
+In addition to sole source awards, we also respond to Requests for Proposal (&#8220;RFPs&#8221;) and Requests for Qualifications (&#8220;RFQs&#8221;) when our technological capabilities meet that of the desired system. In many cases, we are the only company that is able to meet the requirements in the RFP, which can lead to a quick and easy award. 
+
+&#160; 
+
+Also, we have all Defense ID &#174; products, as well as individual labor services, listed on GSA Schedule 70. This makes it possible for government entities to make direct purchases of equipment and services for a pre-negotiated price without having to go through the formal RFP/Bid process. 
+
+&#160; 
+
+We have offices in New York and Washington State to fully support our current and potential customers. This makes it easy to schedule and complete installations and maintenance in an efficient, time-conscious manner. 
+
+&#160; 
+
+MAJOR CUSTOMERS 
+
+&#160; 
+
+Although the composition of our largest customers has changed from year to year, a significant portion of our revenues have been attributable to a limited number of major customers. In 2015, our top ten customers accounted for approximately 59% of total revenues. In 2014, our top ten customers accounted for approximately 44% of total revenues. While we believe that one or more major customers could account for a significant portion of our sales for at least the next two years, we anticipate that our customer base will continue to expand and that in the future we will be less dependent on major customers. 
+
+&#160; 
+
+REGULATION 
+
+&#160; 
+
+The sale and use of the Company&#8217;s Identity System products are not subject to regulation by government authorities. We believe we are currently in compliance with applicable United States, state and local laws and regulations relating to the protection of the environment. 
+
+&#160; 
+
+COMPETITION 
+
+&#160; 
+
+Commercial Identity Systems 
+
+&#160; 
+
+We compete in an industry that is intensely competitive and rapidly changing. Unless a device can read, decode and analyze all of the information that is legally permitted to be analyzed, which is electronically stored on a driver license, the user may not obtain accurate and reliable confirmation that a driver license is valid and has not been altered or tampered with. We are aware of several companies that are currently offering products that electronically read and calculate age from a driver license. We have tested and compared some of these products to ID&#8730;Check &#174; and believe that our product is superior in quality and functionality. We believe that units unable to read bar codes are at a significant disadvantage because all states and Canadian provinces currently utilize bar codes to encode their driver licenses, as well as all U.S. military IDs and uniformed services cards. 
+
+&#160; 
+
+In the government identity sector, there are several companies, including MorphoTrust USA, EID Passport and HID Global that are currently offering products that compete with the Defense ID &#174; system. The U.S. government also has DBIDS and AIE that compete with our products. 
+
+&#160; 
+
+&#160; 13 &#160; 
+
+&#160;
+
+&#160; 
+
+We are also aware that Motorola and Honeywell are offering an embedded driver&#8217;s license reading solution on a tether scanner. 
+
+&#160; 
+
+We have experienced and expect to continue to experience increased competition in the document verification sector. If any of our competitors were to become the industry standard or were to enter into or expand relationships with significantly larger companies through mergers, acquisitions or otherwise, our business and operating results could be seriously harmed. In addition, potential competitors could bundle their products or incorporate functionality into existing products in a manner that discourages users from purchasing our products. 
+
+&#160; 
+
+MANUFACTURING 
+
+&#160; 
+
+We do not manufacture readers or input devices, but use products from several manufacturers. Some of these devices are private labeled and programmed by the supplier to work with our ID&#8730;Check &#174; technology. The majority of our hardware consists of commercial off-the-shelf (&#8220;COTS&#8221;) products. We rely on a small number of suppliers to provide our COTS products. 
+
+&#160; 
+
+Our government identity systems products are created with COTS items that we customize with software and specialized configurations. All products are customized, assembled, and tested in-house and then installed and placed by our employees in the field. 
+
+&#160; 
+
+RESEARCH AND DEVELOPMENT 
+
+&#160; 
+
+Our research and development efforts are mainly concentrated in two areas. The most significant effort is concentrated in the identity sector. We modify existing software applications based on customer&#8217;s requirements, which are fee based. In addition, we develop new software solutions and make improvements to existing software platforms, which are funded internally. R&#38;D spending during the years ended December 31, 2015 and 2014 was $2,594,678 and $1,823,147, respectively. 
+
+&#160; 
+
+INTELLECTUAL PROPERTY 
+
+&#160; 
+
+We currently hold twenty-two (22) U.S. patents, two (2) Canadian patents and one (1) United Kingdom patent. At present, we have other patent applications pending in the U.S. Patent and Trademark Office as well as internationally. These patents cover commercially important aspects of our capabilities relating to the authentication and verification of identification documents, and relating to our Defense ID &#174; System technology. We will continue to pursue patents for all of our new technologies arising from our research and development efforts. 
+
+&#160; 
+
+In January 1999, the U.S. Patent and Trademark Office granted us a patent on our ID&#8730;Check &#174; software technology. In October 2002, we were granted another patent relating to our document authentication and age verification technology. In January 2009, we were granted another patent that is a continuation of our patents relating to our document authentication and age verification technology. Upon our acquisition of the assets of IDentiScan, we also received equitable ownership and sole ownership rights to its intellectual property, including other patents and patent applications relating to age verification technology. 
+
+&#160; 
+
+During 2010, we were granted two additional patents. The first patent was for a software key control for mobile devices. It is used to get a registration key for the parser that is based on the unique internal ID of one mobile device. The Mobile Key Manager communicates with the mobile device, reading its ID, and then requests a registration key specific for that ID from Intellicheck Mobilisa&#8217;s server. This server maintains a database of all customers using IDecode Mobile Parsers, including the number of licenses they have purchased, the latest software version for which they have paid support, and the registration keys and unique device IDs associated with those licenses. The server generates a new registration key unique to the device ID, and returns it to the Mobile Key Manager to register that device. In this way, the customer can deploy the IDecode Mobile Parser to only one mobile device for each parser purchased. 
+
+&#160; 
+
+The second patent was relating to a document comparison system and reinforces the innovative nature of Intellicheck Mobilisa&#8217;s security solutions involving documents. The technology described in the patent relates to a system and method for comparing information contained in at least two documents. Like information on different documents is compared to determine whether the information is the same on each document. For instance, a name contained on an individual&#8217;s driver&#8217;s license is automatically compared with a name contained on the individual&#8217;s airline boarding pass. 
+
+&#160; 
+
+&#160; 14 &#160; 
+
+&#160;
+
+&#160; 
+
+In 2011, we were issued another patent. This patent allows for verifying and authenticating the encoded information on driver licenses of all 50 states and other North American driver licenses, and allows the information to be electronically transferred in a secure environment to a local or remote jurisdiction for age verification, organ donor, or criminal activity checks critical in fighting both crime and terrorism. 
+
+&#160; 
+
+In 2012, we were granted a patent relating to a system and method for comparing information contained in at least two documents, but not limited to just a driver license and passport. This patent compares &#8220;like information&#8221; on different documents to determine whether the information is the same on each document. As an example, a passport is compared to a boarding pass to determine &#8220;like information&#8221; matches, for instance name and birthdate. 
+
+&#160; 
+
+We were also granted a patent related to a system that uses environmental information to determine a level of scrutiny that is to be applied to identification information received at a location where user identification is being checked. Depending on the level of scrutiny that is applied and on generated candidate scores, the system will display a number of potential persons of interest that match the received identification information. 
+
+&#160; 
+
+In 2013, we were granted four patents that are continuations of earlier-filed applications we previously filed. One patent is related to a document comparison system that compares information contained in two documents to determine whether the information is substantially identical on each document. An indication is provided as to whether the two documents identify the same entity or do not identify the same entity. The second patent relates to improvements to software key control for mobile devices. The third patent relates to an apparatus for extracting date of birth information from driver&#8217;s licenses and displaying a calculated age along with a license background graphic. Finally, the fourth patent is related to a system that uses environmental information to determine a level of scrutiny that is to be applied to identification information received at a location and to display a number of potential persons of interest that match the received identification information based on the applied level of scrutiny. 
+
+&#160; 
+
+In 2014, we were granted one patent that was also a continuation of an earlier-filed application. The patent is related to a document comparison system that compares information contained in two documents to determine whether certain information is substantially identical on each document. The system provides a positive or negative indication as to whether portions of the two documents are substantially identical. 
+
+&#160; 
+
+In 2015, we acquired an intellectual property portfolio that includes four patents involving technologies for checking the validity of identification documents using a remote database. Certain patents in this portfolio address the use of biometric information and identification credentials as part of the process to control access to a secured area. 
+
+&#160; 
+
+We were also granted two patents in 2015. The first patent is related to a system and method for comparing documents. The second patent is identity matching in response to threat levels. 
+
+&#160; 
+
+We own multiple copyrights in the United States, which are effective in Canada and in other major industrial countries. The copyright protection covers software source codes and supporting graphics relating to the operation of ID&#8730;Check &#174; and other software products. We also have several trademarks relating to our company, its product names and logos. 
+
+&#160; 
+
+In connection with the sales or licensing of our intellectual property, we have entered into an agreement with Mr. Kevin Messina, our former Senior Executive V.P. and Chief Technology Officer, under which we will pay royalties equal to 0.005% of cumulative gross sales for cumulative gross sales of $2,000,000 to $52,000,000 and 0.0025% of cumulative gross sales for cumulative gross sales in excess of $52,000,000 pertaining to those patents on which Mr. Messina was identified as an inventor. Cumulatively, as of December 31, 2015, total fees paid under this agreement were about $1,757. 
+
+&#160; 
+
+&#160; 15 &#160; 
+
+&#160;
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of March 24, 2016, we had twenty-two (22) full-time employees. Four (4) are engaged in executive management, eight (8) in information technology, five (5) in sales and marketing and five (5) in administration. All employees are employed &#8220;at will.&#8221; We believe our relations with our employees are generally positive and we have no collective bargaining agreements with any labor unions. 
+
+&#160; 
+
+RECENT DEVELOPMENTS 
+
+&#160; 
+
+Share Repurchase 
+
+&#160; 
+
+On February 24, 2016, we entered into a Stock Repurchase Agreement (the &#8220;Agreement&#8221;) with Nelson Ludlow, the Company&#8217;s former chief executive officer and chairman of the board of directors, and Bonnie Ludlow, the Company&#8217;s former senior vice president and director. Pursuant to the Agreement, we agreed to repurchase 979,114 shares of our common stock owned by Nelson Ludlow and Bonnie Ludlow at a price of $1.12 per share. The transaction closed on March 4, 2016. 
+
+&#160; 
+
+Lease Amendment 
+
+&#160; 
+
+On February 24, 2016, Mobilisa, Inc., our subsidiary, entered into the First Amendment to Lease Agreement (the &#8220;Lease Amendment&#8221;) with Eagle Coast, LLC, a Washington limited liability company (the &#8220;Landlord&#8221;). The Lease Amendment amends the Lease Agreement with the Landlord, dated August 1, 2007 (the &#8220;Lease&#8221;), for the Company&#8217;s offices located at 191 Otto Street, Port Townsend, Washington 98368, and provides for, among other things, a reduction in the size of the premises subject to the Lease effective March 31, 2016, and amends the expiration date of the lease from July 31, 2017 to December 31, 2016. 
+
+&#160; 
+
+Pursuant to the Lease Amendment, Mobilisa, Inc. is required to pay $100,000.00 to the Landlord in full satisfaction of its remaining payment obligations under the Lease. After such payment, Mobilisa, Inc. will not be required to pay any additional rent or other sums to the Landlord for its continued occupancy and possession of the premises through December 31, 2016. 
+
+&#160; 
+
+&#160; 16 &#160; 
+
+&#160;
+
+&#160; 
+

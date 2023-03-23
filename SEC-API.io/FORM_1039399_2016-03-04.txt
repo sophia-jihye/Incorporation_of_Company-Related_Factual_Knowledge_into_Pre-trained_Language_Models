@@ -1,0 +1,324 @@
+ Item 1: Business 
+
+We design, develop, manufacture, sell and support advanced semiconductor probe card products, and are the largest supplier worldwide of those products. Semiconductor manufacturers use our probe cards to perform wafer test (also known as wafer sort), which is the testing of the semiconductor die, or chips, while those die are still constituted on the semiconductor wafer. Wafer test enables semiconductor manufacturers to determine whether chips will meet specifications and be saleable once the wafer is diced, and the die are singulated and individually packaged. The per-die costs of singulation and packaging processes are relatively high, and some of the die on a wafer are typically expected to be defective. Consequently, there is often a compelling economic reason to perform wafer test. Probe cards are a critical element in enabling that wafer test process. 
+
+During wafer test, the probe card is mounted on a prober and electrically connected to automated test equipment, or ATE, to form the overall test cell, which is capable of automatically performing wafer test in a full production environment. The probe card forms the electrical interface between the individual chips on a wafer, and the ATE, allowing the ATE to detect chip faults and verify chip functionality and performance. Because each probe card forms a custom interface between a standard ATE system and a unique customer chip design, a key part of our product offering is ensuring that our design and customization processes successfully and accurately match the specific chip and wafer designs of our customers. 
+
+We were incorporated in 1993 and we introduced our first probe card in 1995. For much of our history, sales of probe cards for testing Dynamic Random Access Memory, or DRAM, devices made up the majority of our revenues. In October 2012, we completed the acquisition of Astria Semiconductor Holdings, Inc., including its subsidiary Micro-Probe Incorporated (together "MicroProbe"). The majority of MicroProbe's sales consisted of probe cards for testing System-on-Chip, or SoC, devices. The acquisition of Microprobe significantly diversified and broadened our customer and revenue base, and enabled us to realize operational and cost efficiencies in the combined companies&#8217; technology, resources, assets, and teams. 
+
+Partially as a result of this diversification and leveraging of resources, we improved our financial and operational performance during fiscal 2015 as compared to fiscal 2014. In fiscal 2015, our business continued to gain momentum through strong broad-based customer demand, coupled with continued improvements in our operational execution. During fiscal 2015 , we increased revenues by $13.8 million &#32;to $282.4 million , from $268.5 million &#32;in 2014 . Our net loss decreased by $17.7 million &#32;to $(1.5) million , from $(19.2) million &#32;in 2014 . We generated net cash of $23.8 million &#32;in fiscal 2015, making it the second contiguous fiscal year in which we achieved a year-to-year increase in cash, cash equivalents and marketable securities. 
+
+As described in further detail below under the heading &#8220; Business-Cascade Microtech Acquisition ,&#8221; in February 2016, we entered into a definitive agreement with Cascade Microtech, Inc. (&#8220;Cascade Microtech&#8221;) under which we will acquire all outstanding Cascade Microtech shares in a cash and stock transaction. Cascade Microtech is a leader in the field of probe cards for radio frequency (&#8220;RF&#8221;) semiconductor products, and has important capabilities in engineering probes and test systems. We believe that this combination will further diversify our customer and revenue base, and enable efficiencies and value realization in the combined companies&#8217; operations, technology, resources, assets, and teams. By leveraging combined global support and channel investments across a product line that spans from engineering to production test applications, the combined company will be uniquely positioned to solve many of our customers&#8217; most difficult test challenges from engineering to production. The transaction is expected to close mid-2016 subject to customary closing conditions, including the receipt of regulatory approvals and the approval by Cascade Microtech&#8217;s shareholders of the merger. 
+
+Products 
+
+Our products utilize a variety of technologies, including micro-electromechanical systems (MEMS) technologies, automation systems, various product architectures and design tools. Our MEMS technologies generally enable rapid and cost-effective manufacturing of resilient multi-material composite spring-like electrically-conductive contact elements with characteristic length scales of a few microns. These contact elements, such as our MicroSpring contacts, optimize the relative amounts of force on, and across, a chip&#8217;s bond pad, solder bump, or copper pillar during the test process and maintain their shape and position over a range of compression. In addition, while maintaining these mechanical characteristics, the contact 
+
+elements must achieve reliable and high-fidelity electrical contact through wafer surfaces that are generally oxidized or otherwise contaminated, and must maintain these attributes over hundreds of thousands, and even millions, of compression cycles. This capability, when paired with our automation systems, enables us to rapidly produce customer-design specific probe cards that deliver leading precision, reliability, and electro-mechanical performance. 
+
+Our probe cards are customized for our customers' unique wafer and chip design, by modifying and adapting our standard product architectures to meet an individual customer&#8217;s design layout and electrical test requirements. For many advanced applications, our products must maintain tens of thousands of simultaneous high-fidelity low-impedance electrical contacts with the corresponding chip contacts on the wafer. Our present technologies enable probe cards to be populated with over 100,000 contact elements, with contact element spacings as small as 40 microns, distributed over extents as large as 300mm so that all die on the wafer can be tested simultaneously. 
+
+We have invested, and intend to continue to invest, considerable resources in proprietary probe card design tools and processes. These tools and processes are intended to enable the rapid and accurate customization described above, including automated routing and trace length adjustment within our probe cards, greatly enhancing our ability to rapidly design complex structures. 
+
+In addition, some of our customers test certain chips over a large range of operating temperatures, as opposed to conducting wafer test at one predetermined temperature. We select materials used in our products after careful consideration of the potential range of test operating temperatures, and design our probe cards to provide for a precise match with the thermal expansion characteristics of the wafer under test. As a result, for many of our products, our customers can use the same probe card for both low and high temperature testing without a loss of mechanical or electrical performance. In addition, for test situations for which a customer requires extreme positional accuracy at a specific temperature, we have designed probe cards that are intended to be optimized for testing at such temperatures. 
+
+Through on-going investments in both our technology and operations, we continue to innovate and improve so that our products will meet customers' future technical roadmap performance, quality, and commercial requirements. We also continue to leverage these ongoing investments across all advanced probe card markets, to realize synergies and economies of scale to benefit our competitiveness, time-to-market and overall profitability. 
+
+Customers 
+
+Our customers include semiconductor chip manufacturers in the DRAM, Flash and SoC markets. Our customers use our probe cards to test DRAM chips, including LPDDR2, LPDDR3, LPDDR4, DDR, DDR2, DDR3, DDR4, SDRAM, PSRAM, and Graphic DRAM; NOR, PCM and NAND flash memory chips. Our customers also use our probe cards to test SoC devices, including microprocessors, mobile application processors, microcontrollers, graphic processors, RF, analog and mixed-signal devices. 
+
+Four &#32;customers accounted for 60.2% &#32;of our revenues in fiscal 2015 , 3 &#32;customers accounted for 51.6% &#32;of our revenues in fiscal 2014 &#32;and 3 &#32;customers accounted for 45.9% &#32;of our revenues in fiscal 2013 , as follows: 
+
+&#160; 
+
+Fiscal 2015 
+
+&#160; 
+
+Fiscal 2014 
+
+&#160; 
+
+Fiscal 2013 
+
+Intel 
+
+19.6 
+
+% 
+
+&#160; 
+
+19.7 
+
+% 
+
+&#160; 
+
+17.7 
+
+% 
+
+Samsung 
+
+14.6 
+
+&#160; 
+
+* 
+
+&#160; 
+
+* 
+
+SK hynix 
+
+14.3 
+
+&#160; 
+
+16.9 
+
+&#160; 
+
+16.5 
+
+Micron 
+
+11.7 
+
+&#160; 
+
+15.0 
+
+&#160; 
+
+11.7 
+
+Total 
+
+60.2 
+
+% 
+
+&#160; 
+
+51.6 
+
+% 
+
+&#160; 
+
+45.9 
+
+% 
+
+* 
+
+Less than 10% of revenues. 
+
+Information concerning revenue by geographic region and by country based upon ship to location appears under Item 7: Management's Discussion and Analysis of Financial Condition and Results of Operations - Revenues - Revenues by Geographic Region and Note 14 - Operating Segments and Geographic Information &#32;of the Notes to our Consolidated Financial Statements, that are included in this Annual Report on Form 10-K. 
+
+Backlog 
+
+We manufacture our products based on order backlog and customer commitments. Backlog includes only orders with written authorizations and shipment dates within 12 months. Backlog also includes revenue for existing product service agreements to be earned within the next 12 months. Customers may delay delivery of products or cancel orders prior to 
+
+shipment, subject to possible cancellation penalties. Due to possible changes in delivery schedules and cancellations of orders, our backlog on any particular date is not necessarily indicative of actual sales for any succeeding period. Delays in delivery schedules or a reduction in backlog during any particular period could have a material adverse effect on our business and results of operations. 
+
+Manufacturing 
+
+Our probe cards are designed for each of our customers' unique wafer design, by modifying and adapting our product architectures to meet an individual customer&#8217;s design layout and test requirements. Our proprietary manufacturing processes for our probe cards include: a complex interconnection system-level design process; a front-end process, which may include wire bonding, photolithography, plating and metallurgical processes, dry and electro-deposition, pick and place assembly; and a back-end process, which includes general assembly and test. Critical steps in our manufacturing process are performed in a variety of clean room environments, including as stringent as a Class 100 environment, depending on the requirements of the specific manufacturing processes. 
+
+We depend on suppliers for some critical components of our manufacturing processes, including ceramic substrates and complex printed circuit boards, and for other materials used in our manufacturing processes. We also rely on suppliers to provide certain contact elements and interconnects incorporated into our products. Some of these components and materials are supplied by a single vendor, and some are subject to certain minimum order quantities. Generally, we rely on purchase orders rather than long-term contracts with our suppliers, which subjects us to risks, including price increases, manufacturing capacity constraints issues and component shortages. We continually assess and evaluate alternative sources of supply for all components and materials. 
+
+Our primary manufacturing facilities are located in Livermore, San Jose and Carlsbad, California, United States. We also perform certain probe card manufacturing operations in our facilities in Suzhou, China and Yokohama, Japan. 
+
+We maintain repair and service capabilities in Livermore, San Jose, and Carlsbad, California, United States; Dresden, Germany; Bundang, South Korea; Yokohama City and Hiroshima, Japan; Suzhou, China; Hsinchu, Taiwan; and Singapore. 
+
+Research, Development and Engineering 
+
+The semiconductor industry is subject to rapid technological change and new product introductions and enhancements. We believe that our continued commitment to research and development and our timely introduction of new and enhanced products and technologies are integral to maintaining and enhancing our competitive position. We allocate significant resources to these efforts, and prioritize those resources to prepare for our customers&#8217; next generation wafer test challenges. We also increasingly seek to deploy our resources to solve fundamental challenges that are both common to, and provide competitive advantage across, our SoC, DRAM, and Flash Memory product offerings and roadmaps. 
+
+Research and development expenses were $44.2 million &#32;for fiscal 2015 , $42.7 million &#32;for fiscal 2014 &#32;and $42.1 million &#32;for fiscal 2013 . 
+
+Sales and Marketing 
+
+We sell our products worldwide through a global direct sales force. Our sales and marketing staff, located in the United States, China, Germany, Italy, Japan, Singapore, South Korea, and Taiwan, work closely with customers in the effort to understand their businesses, anticipate trends and define products that will provide significant technical and economic advantages to our customers. 
+
+We utilize a highly skilled team of application and customer support engineers that support our customers as they integrate our products into their manufacturing processes. Through these customer relationships, we seek to develop a close understanding of customer and product requirements to align our product capabilities and capacities with our customers' roadmaps and production ramps. 
+
+Environmental Matters 
+
+We are subject to U.S. Federal, State, local, and foreign governmental laws and regulations relating to the protection of the environment, including those governing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the clean-up of contaminated sites and the maintenance of a safe workplace. We believe that we comply in all material respects with the environmental laws and regulations that apply to us, including those of the California Department of Toxic Substances Control, the Bay Area Air Quality Management District, the City of Livermore Water Resources Division, County of Santa Clara Department of Environmental Health, County of San Diego Hazardous Materials Division and Encino Water District, and the California Division of Occupational Safety and Health. We did not receive any notices of violations of environmental laws and regulations in fiscal 2015 , 2014 &#32;or 2013 . In the future, we may 
+
+receive notices of violations of environmental regulations, or otherwise learn of such violations. Environmental contamination or violations may negatively impact our business. 
+
+We are also subject to SEC rules that will require diligence, disclosure and reporting on whether certain minerals and metals, known as conflict minerals, used in our products originate from the Democratic Republic of Congo and adjoining countries. We have implemented a program in the effort to comply with these new rules, which could adversely affect the sourcing, availability and pricing of minerals we use in our products. We will not only incur costs in relation to our compliance with such disclosure requirements, but may also face difficulties in satisfying any of our customers who require that all of our products are certified as conflict mineral free. 
+
+Competition 
+
+The highly competitive probe card market comprises many domestic and foreign companies, and has historically been fragmented with many local suppliers servicing individual customers in often differentiated applications. Our current and potential competitors in the probe card market include AMST Co., Ltd., Cascade Microtech, Inc., Feinmetall GmbH, Japan Electronic Materials Corporation, Korea Instrument Co., Ltd., M2N Co., Ltd., Microfriend Inc., Micronics Japan Co., Ltd., MPI Corporation, NHK Spring Co., Ltd., Soulbrain Engineering, SV Probe, Inc., Synergie CAD, Technoprobe, TSE Co., Ltd. and WILL-Technology Co., Ltd., among others. In addition to the ability to address probe card performance and capability requirements in differing applications, the primary competitive factors in the industry in which we compete include product quality and reliability, price, total cost of ownership, design and manufacturing lead times, service capability, geographic proximity, field applications support and timeliness of delivery. 
+
+Some of our competitors are also suppliers of other types of test equipment or other semiconductor equipment and may have greater financial and other resources than we do. We expect our competitors may enhance their current products and may introduce new products that will be competitive with our probe cards. In addition, it is possible that new competitors, including test equipment manufacturers, may offer new technologies that reduce the value of our probe cards. 
+
+Additionally, semiconductor manufacturers may implement chip designs that include built-in self-test, or BIST, capabilities or similar functions or methodologies that increase test throughput and reduce test content, thereby eliminating some or all of our current product advantages. Our ability to compete favorably may also be adversely affected by delays in qualification of our new products, very short design and manufacturing lead time requirements, long-standing relationships between our competitors and certain semiconductor manufacturers, and semiconductor manufacturer test strategies that include low performance semiconductor testers and less complex probe cards. 
+
+Intellectual Property 
+
+Our success depends in part upon our ability to continue to innovate and invest in research and development to meet the testing requirements of our customers, to maintain and protect our proprietary technology, and to conduct our business without infringing on the proprietary rights of others. We rely on a combination of patents, trade secrets, trademarks and contractual restrictions on disclosure to protect our intellectual property rights. We have filed actions to enforce those rights against third parties, and may pursue such actions in the future. 
+
+We have generated, and continue to generate and maintain, patents and other intellectual property rights covering innovations that are intended to create a competitive advantage, and to support the protection of our investments in research and development. We believe that we possess one of the most substantial patent portfolios relevant to probe card products. Many of our issued patents cover features of our products, including inventions related to interconnect technologies, probe cards and testing, wafer-level packaging and test, sockets and assemblies, and microchips. 
+
+Although we believe that our patents and other intellectual property rights have significant value, we do not believe that maintaining or growing our business is materially dependent on any single patent. Due to the rapid pace of innovation within the markets that we serve, it is possible that our protection through patents may be less important than factors such as our technological expertise, continuing development of new products and technologies, protection of trade secrets, market penetration, customer relationships, and our ability to provide comprehensive support and service to customers worldwide. 
+
+No assurance can be given that any patents will not be challenged, invalidated or circumvented, or that the rights granted thereunder will provide us with a sustained competitive advantage. In addition, there can be no assurance that we will be able to protect our technology, or that competitors will not be able to independently develop similar or functionally competitive technologies, design around our patents, or attempt to manufacture and sell infringing products in countries that do not strongly enforce intellectual property rights. 
+
+Employees 
+
+As of December 26, 2015 , we had 958 &#32;regular full-time employees, including 587 &#32;in operations, 194 &#32;in research and development, 110 &#32;in sales and marketing and 67 &#32;in general and administrative functions. By region, 705 &#32;of our employees were in North America, 63 &#32;in China, 60 &#32;in Singapore, 53 &#32;in South Korea, 34 &#32;in Taiwan, 34 &#32;in Japan and 9 &#32;in Europe. No employees are currently covered by a collective bargaining agreement. We believe that, overall, our relations with our employees are good. 
+
+Available Information 
+
+We maintain a website at http://www.formfactor.com . We make available free of charge on our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the United State Securities and Exchange Commission, or SEC. The reference to our website does not constitute incorporation by reference of the information contained at the site. 
+
+The public may also read and copy any materials that we file with the SEC at the SEC's Public Reference Room at 100 F Street N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports and other information regarding issuers, such as FormFactor, that file electronically with the SEC. The SEC's Internet website is located at http://www.sec.gov . 
+
+Directors and Executive Officers 
+
+Directors. &#160; The names of the members of our board of directors, their ages as of December 26, 2015 , and their current occupations are set forth below. 
+
+Name of Director 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Current Occupation 
+
+Edward Rogas, Jr. 
+
+&#160; 
+
+&#160; 
+
+Director of Vitesse Semiconductor Corporation 
+
+Lothar Maier 
+
+&#160; 
+
+&#160; 
+
+Chief Executive Officer and Director of Linear Technology Corporation 
+
+Michael D. Slessor 
+
+&#160; 
+
+&#160; 
+
+Chief Executive Officer and Director of FormFactor, Inc. 
+
+Michael W. Zellner 
+
+&#160; 
+
+&#160; 
+
+Director of FormFactor, Inc. 
+
+Kelley Steven-Waiss (1) 
+
+&#160; 
+
+&#160; 
+
+Director of FormFactor, Inc. 
+
+Richard DeLateur 
+
+&#160; 
+
+&#160; 
+
+Director of FormFactor, Inc. 
+
+Thomas St. Dennis 
+
+&#160; 
+
+&#160; 
+
+Executive Chairman of FormFactor, Inc. 
+
+(1) 
+
+Ms. Steven-Waiss was appointed to the Company's Board in August 2015. 
+
+Edward Rogas, Jr. has served as a Director since October 2010. Mr. Rogas served as a Director of Vitesse Semiconductor Corporation until April 2015, Vignani Technologies Pvt Ltd until February 2014 and Photon Dynamics, Inc., from May 2006 to October 2008. Mr. Rogas held management positions at Teradyne, Inc. for over 29 years, including serving as Senior Vice President from 2000 through 2005. Mr. Rogas holds an M.B.A. degree from Harvard Business School and a B.S. from the United States Naval Academy. 
+
+Lothar Maier &#32;has served as a Director since November 2006. Mr. Maier has served as the Chief Executive Officer and a member of the board of directors of Linear Technology Corporation (Nasdaq: LLTC), a supplier of high performance analog integrated circuits since January 2005. Prior to that, Mr. Maier served as Linear Technology's Chief Operating Officer from April 1999 to December 2004. Before joining Linear Technology, Mr. Maier held various management positions at Cypress Semiconductor Corporation, a provider of high-performance, mixed-signal, programmable solutions, from 1983 to 1999, reaching the level of Senior Vice President and Executive Vice President of Worldwide Operations. Mr. Maier holds a B.S. in chemical engineering from the University of California at Berkeley. 
+
+Michael Slessor &#32;has served as a Director since October 2013. Dr. Slessor became our Chief Executive Officer on December 28, 2014. Dr. Slessor served as our President from October 2013 to December 27, 2014, and as Senior Vice President and General Manager, MicroProbe Product Group from October 2012 to October 2013. Before joining FormFactor, Dr. Slessor was President and Chief Executive Officer of MicroProbe from July 2008 through the October 2012 closing of FormFactor's acquisition of MicroProbe. Prior to joining MicroProbe, he held various management, product-marketing, and applications-engineering positions in the semiconductor industry, primarily with KLA-Tencor. Dr. Slessor received his Ph.D. in Aeronautics and Physics from the California Institute of Technology and his B.A.Sc. in Engineering Physics from the University of British Columbia. 
+
+Michael W. Zellner has served as a Director since April 2011. Mr. Zellner served as Vice President and Chief Financial Officer of Cyan, Inc. (NYSE: CYNI) from March 2013 through March 2014. He was Vice President, Finance and Chief Financial Officer of PMC-Sierra, Inc. (Nasdaq: PMCS) from March 2007 to November 2012. Prior to joining PMC-Sierra, Mr. Zellner was Senior Vice President of Finance and Administration and Chief Financial Officer at Wind River Systems, Inc., a device software solutions provider to the electronics industry. Mr. Zellner attended the Stanford Executive Program at the Stanford Graduate School of Business as well as the MBA and BBA accounting program at Florida Atlantic University. 
+
+Kelley Steven-Waiss &#32;has served as a Director since August 2015. Ms. Waiss has served as the Executive Vice President and Chief Human Resources Officer of Extreme Networks, Inc., a software and services-led networking solutions company since March 2014. Prior to that, Ms. Waiss served as the Vice President of Worldwide Human Resources for Integrated Device Technology, Inc., a provider of mixed-signal semiconductor solutions from 2009-2012, and prior to that, as the VP of Worldwide Human Resources for PMC-Sierra, Inc., a provider of semiconductor and systems solutions. Ms. Waiss also serves on the board of directors of ALean, a Silicon Valley based educational non-profit. She holds an M.A. in human resources and organization development from the University of San Francisco and a B.A. in journalism from the University of Arizona. 
+
+Richard DeLateur has served as a Director since May 2011, and as our Lead Independent Director since May 2014. Mr. DeLateur served as Chief Financial Officer of FormFactor, Inc. from May 2010 to May 2011. Mr. DeLateur is a 20-year veteran of Intel's finance team, where he held various positions, including the role of Vice President and Group Controller of Worldwide Technology and Manufacturing. Mr. DeLateur more recently served as Chief Financial Officer at the private companies Fluidigm Corporation and Topsin Corporation. Mr. DeLateur had also served as a Director at Numonyx Corp., a leading manufacturer of Flash memory, which is now part of Micron Technology, Inc. Mr. DeLateur holds a B.A. in Economics from the University of California, Davis and was awarded his Chartered Financial Analyst (CFA) certification in 1999. 
+
+Thomas St. Dennis &#32;has served as a Director since September 2010, when he joined our company, and as Executive Chairman of the Board of Directors since October 23, 2013, and became Chairman of the Board of Directors in February 2016. Mr. St. Dennis served as our Chief Executive Officer from September 2010 through December 27, 2014. Mr. St. Dennis also currently serves as a director on the Board of Axcelis Technologies, Inc. since May 2015. Mr. St. Dennis previously held various positions at Applied Materials, Inc. from 1992 to 1999 and again from 2005 to 2009. His last at Applied Materials, Inc. was Senior Vice President and General Manager of the Silicon Systems Group. He also worked at Novellus Systems, Inc. as Executive Vice President of Sales and Marketing from 2003 to 2005. From 1999 to 2003 Mr. St. Dennis was President and CEO of Wind River Systems, Inc. Mr. St. Dennis currently also sits on the Board of Mattson Technology, Inc. Mr. St. Dennis holds a B.S. in Physics and a M.S. in Physics, both from UCLA. 
+
+Executive Officers. Our executive officers, their ages as of December 26, 2015 , and their positions with our company are set forth below. 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Thomas St. Dennis 
+
+&#160; 
+
+&#160; 
+
+Executive Chairman 
+
+Michael M. Ludwig 
+
+&#160; 
+
+&#160; 
+
+Chief Financial Officer 
+
+Michael D. Slessor 
+
+&#160; 
+
+&#160; 
+
+Chief Executive Officer and Director 
+
+Michael M. Ludwig &#32;has served as our Chief Financial Officer since May 2011. Mr. Ludwig also served as our Vice President, Finance from December 2009 to May 2011, was a consultant to our company from February 2009 to December 2009, and served as our Vice President and Corporate Controller from April 2001 to April 2007. Mr. Ludwig has also held senior level finance and accounting positions at Force 10 Networks, Inc., a division of Dell Inc., that builds and secures high performance networks, and at divisions of Tyco Electronics and Beckman Coulter. Mr. Ludwig holds a B.S. in accounting from California State Polytechnic University, Pomona. 
+
+Cascade Microtech Acquisition 
+
+On February 3, 2016, we entered into an Agreement and Plan of Merger under which we agreed to acquire Cascade Microtech through the merger of a wholly owned subsidiary with and into Cascade Microtech. Subject to the terms of the merger agreement, at the effective time of the merger, each outstanding share of Cascade Microtech common stock will be cancelled and converted into the right to receive (a) $16.00 in cash, without interest, and (b) 0.6534 shares of FormFactor common stock. Cascade Microtech is an Oregon corporation that designs, develops, manufactures and markets advanced wafer probing, thermal and reliability solutions for the electrical measurement and testing of high performance semiconductor devices. 
+
+Subject to the terms of the merger agreement, at the effective time of the merger, all of the outstanding and vested equity awards of Cascade Microtech will be cancelled and converted into the right to receive an amount in cash in respect of the merger consideration the shares of Cascade Microtech common stock underlying the awards would have received, and all of the outstanding and unvested equity awards of Cascade Microtech will be assumed on substantially the same terms, except that the number of shares of our common stock that will underlie the assumed award and the exercise price of any assumed option will be determined pursuant to a formula intended to preserve the intrinsic value of the original award. 
+
+Completion of the merger is subject to customary closing conditions, including approval by Cascade Microtech&#8217;s shareholders and expiration of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, among others, and therefore has not been reflected in the financial statements included in this Annual Report on Form 10-K. There is no financing condition to our obligations under the merger agreement. We expect the merger to be completed in mid-2016. 
+
+To finance a portion of the consideration for the proposed merger, we entered into a commitment letter with certain lenders to provide a senior secured term loan facility in an aggregate amount of $150 million. The funding of the term loan facility is subject to certain conditions, including the execution of definitive financing documentation, the consummation of the merger in accordance with the merger agreement, the absence of a Company Material Adverse Effect (as defined in the merger agreement), a minimum liquidity condition and other customary closing conditions. 
+
+The above description of the merger agreement and the proposed merger is a summary and is qualified in its entirety by reference to the merger agreement included as Exhibit 2.1 to our Current Report on Form 8-K, filed with the SEC on February 9, 2016. 
+

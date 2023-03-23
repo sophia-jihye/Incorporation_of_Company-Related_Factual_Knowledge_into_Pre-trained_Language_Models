@@ -1,0 +1,332 @@
+ Item 1: Business Teradyne, Inc. (&#147;Teradyne&#148;) was founded in 1960 and is a leading global supplier of automation equipment for test and industrial applications. 
+
+We design, develop, manufacture and sell automatic test systems used to test semiconductors, wireless products, data storage and complex electronics systems in the consumer electronics, wireless, automotive, industrial, computing, communications, and aerospace and defense industries. Our industrial automation products include collaborative robots used by global manufacturing and light industrial customers to improve quality and increase manufacturing efficiency. Our automatic test equipment and industrial automation products and services include: 
+
+&#160;
+
+&#160; &#149; &#160; semiconductor test (&#147;Semiconductor Test&#148;) systems; 
+
+&#160;
+
+&#160; &#149; &#160; defense/aerospace (&#147;Defense/Aerospace&#148;) test instrumentation and systems, storage test (&#147;Storage Test&#148;) systems, and circuit-board test and inspection (&#147;Production Board Test&#148;) systems (collectively these products represent &#147;System Test&#148;); 
+
+&#160;
+
+&#160; &#149; &#160; wireless test (&#147;Wireless Test&#148;) systems; and 
+
+&#160;
+
+&#160; &#149; &#160; industrial automation (&#147;Industrial Automation&#148;) products. 
+
+We have a broad customer base which includes integrated device manufacturers (&#147;IDMs&#148;), outsourced semiconductor assembly and test providers (&#147;OSATs&#148;), wafer foundries, fabless companies that design, but contract with others for the manufacture of integrated circuits (&#147;ICs&#148;), developers of wireless devices and consumer electronics, manufacturers of circuit boards, automotive suppliers, wireless product manufacturers, storage device manufacturers, aerospace and military contractors, and distributors that sell collaborative robots. 
+
+On June 11, 2015, we acquired Universal Robots A/S (&#147;Universal Robots&#148;) for approximately $284 million of cash plus up to an additional $65 million of cash if certain performance targets are met extending through 2018. Universal Robots is the leading supplier of collaborative robots which are low-cost, easy-to-deploy and simple-to-program robots that work side by side with production workers to improve quality and increase manufacturing efficiency. Universal Robots is a separate operating and reportable segment, Industrial Automation. The acquisition of Universal Robots provides a growth engine to our business and complements our 
+
+&#160; 
+
+existing System Test and Wireless Test segments. The total purchase price for Universal Robots was approximately $315 million. 
+
+In 2014, we acquired Avionics Interface Technologies LLC (&#147;AIT&#148;), a supplier of equipment for testing state-of-the-art data communication buses. The acquisition of AIT complements our Defense/Aerospace line of bus test instrumentation for commercial and defense avionics systems. AIT is included in our System Test segment. The total purchase price for AIT was approximately $21 million, which included cash paid of approximately $19 million and $2 million in fair value of contingent consideration payable upon achievement of revenue and gross margin targets in 2015 and 2016. No contingent consideration was paid for 2015. The maximum remaining contingent consideration that could be paid is $1.1 million. 
+
+In 2013, we acquired ZTEC Instruments Inc. (&#147;ZTEC&#148;), a supplier of modular wireless test instruments. The acquisition of ZTEC expands our Wireless Test segment into the design verification test of wireless components and chipsets. The total purchase price for ZTEC was approximately $17 million, which included cash paid of approximately $15 million and $2 million in fair value of contingent consideration payable upon achievement of certain customer order and revenue targets through 2015. None of the contingent consideration was paid. 
+
+In 2011, we acquired LitePoint Corporation (&#147;LitePoint&#148;) to expand our product portfolio of test equipment in the wireless test sector. LitePoint designs, develops, and supports advanced wireless test solutions for the manufacturing of wireless devices, including smart phones, tablets, notebooks, laptops, personal computer peripherals, and other Wi-Fi, Bluetooth and cellular enabled devices. The total purchase price for LitePoint was approximately $646 million. LitePoint and ZTEC represent our Wireless Test segment. 
+
+Investor Information 
+
+We are a Massachusetts corporation incorporated on September 23, 1960. We are subject to the informational requirements of the Securities Exchange Act of 1934 (&#147;Exchange Act&#148;). We file periodic reports, proxy statements and other information with the Securities and Exchange Commission (&#147;SEC&#148;). Such reports, proxy statements and other information may be obtained by visiting the Public Reference Room of the SEC at 100 F Street, N.E., Washington, DC 20549 or by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file documents electronically. 
+
+You can access financial and other information, including the charters of our Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee, our Corporate Governance Guidelines and Code of Conduct, by clicking the Investors link on our web site at www.teradyne.com. We make available, free of charge, copies of our filings with the SEC, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act through our web site as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC. 
+
+Products 
+
+Semiconductor Test 
+
+We design, manufacture, sell and support Semiconductor Test products and services on a worldwide basis. The test systems we provide are used both for wafer level and device package testing. These chips are used in automotive, industrial, communications, consumer, and computer and electronic game applications, among others. Semiconductor devices span a broad range of functionality, from very simple low-cost devices such as appliance microcontrollers, operational amplifiers or voltage regulators to complex digital signal processors and microprocessors as well as memory devices. Semiconductor Test products and services are sold to IDMs that integrate the fabrication of silicon wafers into their business, &#147;Fabless&#148; companies that outsource the manufacturing of silicon wafers, &#147;Foundries&#148; that cater to the processing and manufacturing of silicon 
+
+&#160; 
+
+wafers, and OSATs that provide test and assembly services for the final packaged devices to both Fabless companies and IDMs. Fabless companies perform the design of integrated circuits without manufacturing capabilities, and use Foundries for wafer manufacturing and OSATs for test and assembly. These customers obtain the overall benefit of comprehensively testing devices and reducing the total costs associated with testing by using our Semiconductor Test systems to: 
+
+&#160;
+
+&#160; &#149; &#160; improve and control product quality; 
+
+&#160;
+
+&#160; &#149; &#160; measure and improve product performance; 
+
+&#160;
+
+&#160; &#149; &#160; reduce time to market; and 
+
+&#160;
+
+&#160; &#149; &#160; increase production yields. 
+
+Our FLEX Test Platform architecture advances our core technologies to produce test equipment that is designed for high efficiency multi-site testing. Multi-site testing involves the simultaneous testing of many devices in parallel. Leading semiconductor manufacturers are using multi-site testing to significantly improve their &#147;Cost of Test&#148; economics. The FLEX Test Platform architecture addresses customer requirements through the following key capabilities: 
+
+&#160;
+
+&#160; &#149; &#160; A high efficiency multi-site architecture that reduces tester overhead such as instrument setup, synchronization and data movement, and signal processing; 
+
+&#160;
+
+&#160; &#149; &#160; The IG-XL&#153; software operating system which provides fast program development, including instant conversion from single to multi-site test; and 
+
+&#160;
+
+&#160; &#149; &#160; Broad technology coverage by instruments designed to cover the range of test parameters, coupled with a universal slot test head design that allows easy test system reconfiguration to address changing test needs. 
+
+FLEX Test Platform purchases are being made by IDMs, OSATs, Foundries and Fabless customers. The FLEX Test Platform has become a widely used test solution at OSATs by providing versatile testers that can handle the widest range of devices, allowing OSATs to leverage their capital investments. The broad consumer, automotive and broadband markets have historically driven most of the device volume growth in the semiconductor industry. These markets include smart phones, cell phones, tablets, set top boxes, HDTVs, game controllers, computer graphics, and automotive controllers to name a few. These end use markets continue to be drivers for the FLEX Test Platform family of products because they require a wide range of technologies and instrument coverage. The UltraFLEX-M tester extends the FLEX Test Platform into the High Speed DRAM testing market. The FLEX Test Platform has an installed base of more than 4,700 systems. 
+
+Our J750&#153; test system shares the IG-XL software environment with the family of FLEX Test Platform systems. The J750 is designed to address the highest volume semiconductor devices, such as microcontrollers, that are central to the functionality of almost every consumer electronics product, from small appliances to automotive engine controllers. J750 test systems combine compact packaging, high throughput and ease of production test. We extended the J750 platform technology to create the IP750 Image Sensor&#153; test system. The IP750 is focused on testing image sensor devices used in smart phones and other imaging products. We have continued to invest in the J750 platform with new instrument releases that bring new capabilities to existing market segments and expand the J750 platform to new devices that include high end microcontrollers and the latest generation of cameras. In 2013, we introduced the J750 Ex-HD which includes system enhancements and new high density instruments that enable the J750 test platform to provide higher test cell productivity. The J750 platform has an installed base of over 4,800 systems. 
+
+Our Magnum platform addresses the requirements of mass production test of memory devices such as flash memory and DRAM. Flash and DRAM memory are widely used core building blocks in modern electronic products finding wide application in consumer, industrial, and computing equipment. Magnum V, the newest member of the family, is a next generation memory test solution designed for parallel memory test in the flash, DRAM and multi-chip package markets. The Magnum platform has an installed base of over 1,800 systems. 
+
+&#160; 
+
+Our ETS platform is used by semiconductor manufacturers and assembly and test subcontractors, primarily in the low pin count analog/mixed signal discrete markets that cover more cost sensitive applications. Our proprietary SmartPin&#153; technology enables high efficiency multi-site testing, on an individual test system, permitting greater test throughput. Semiconductors tested by ETS platform systems are incorporated into a wide range of products in historically high-growth markets, including mobile devices, video/multimedia products, automotive electronics, computer peripherals, and notebook and desktop computers. In 2013, we introduced the ETS-88, a high performance multi-site production test system designed to test a wide variety of high volume commodity and precision devices. In 2015, we introduced the ETS-800, a high performance multi-site production test system to test high complexity power devices in automotive, industrial and consumer applications. The ETS platform has an installed base of over 3,700 systems. 
+
+Wireless Test 
+
+Our acquisition of LitePoint in 2011 and ZTEC in 2013 expanded our product offerings in the wireless test market. LitePoint designs, develops, and supports advanced wireless test equipment for the manufacturing of wireless devices, including smart phones, tablets, notebooks, laptops, personal computer peripherals, and other Wi-Fi, Bluetooth, Near Field Communication (&#147;NFC&#148;) and cellular enabled devices. LitePoint collaborates with developers, chipset/component manufacturers, and manufacturing leaders to create agile systems designed to ensure the quality of wireless products manufactured in very large numbers. Using easy-to-deploy, innovative test methodologies, LitePoint&#146;s IQ product line is designed for high-volume, low-cost production test, and falls into two test categories: cellular and connectivity. Our acquisition of ZTEC expanded our wireless product offerings into modular wireless test instruments for the design verification test of wireless components and chipsets. 
+
+Cellular 
+
+The IQxstream&#153; is a multi-DUT optimized solution for high-speed testing of GSM, EDGE, CDMA2000, TD-SCDMA, WCDMA, HSPA+, LTE-FDD, TD_LTE, and LTE-A technologies&#151;used for calibration and verification of smartphones, tablets, small cell wireless gateways and embedded cellular modules. As the industry&#146;s first &#147;multi-DUT&#148; test solution, IQxstream greatly increased production output through the implementation of parallel test methods of multiple devices. IQxstream is complemented by IQvector&#153;, a turnkey production-optimized testing package that supports the leading cellular chipset solutions, which allows manufacturers to ramp volume production in a matter of weeks, rather than months. Drivers for IQxstream are found in the test software solutions provided by leading cellular chipset companies including Qualcomm, Intel, MediaTek, Spreadtrum, Marvell and others. 
+
+Connectivity 
+
+We offer a comprehensive range of test equipment for multi-DUT connectivity testing. The IQxel&#153; family enables calibration and verification of the latest Wi-Fi standard 802.11ac taking wireless data rates beyond the gigabit per second barrier. The IQxel family supports multiple bandwidth and channel configurations, MIMO antenna arrangements, Bluetooth&#153; Classic and Low Energy, and covers the full range of communication standards. These solutions target manufacturers of networking equipment, Internet access devices, Internet of Things (IoT) products and embedded modules used in smartphones, tablets, and PCs. We were the first to introduce a production focused parametric test solution for NFC technology with our IQnfc&#153; addressing the growing use of NFC technology for mobile payments with smartphones. 
+
+To complement the IQ family of connectivity testers, we offer IQfact+&#153; a turnkey, chipset-optimized, customizable software library covering over 300 wireless IC solutions, enabling the rapid development of volume manufacturing solutions with a minimum of engineering effort by our customers. Similar to our cellular products, drivers for our connectivity products are found in the test software solutions from Broadcom, Qualcomm, Marvell, MediaTek and others. 
+
+&#160; 
+
+Design Verification Test 
+
+We offer the zSeries of modular wireless test instruments for the design verification test of wireless components and chipsets. The lab-in-a-box zSeries solution provides simple and fast design verification of RF power amplifier and smart device RF front end modules. It is capable of rapid analysis of the latest digital pre-distortion and envelope tracking technologies for both LTE and WiFi standards. 
+
+System Test 
+
+Our System Test segment is comprised of three business units: Defense/Aerospace, Storage Test and Production Board Test. 
+
+Defense/Aerospace 
+
+We are a leading provider of high-performance test systems, subsystems, instruments and service for the defense and aerospace markets. Our test products are used to ensure the readiness of military and commercial aerospace electronics systems. New programs, such as tactical aircraft and missile systems, as well as upgrade programs, continue to fuel the demand for high performance test systems in this market. Our test products are well-suited to the demands of defense/aerospace electronics manufacturers and repair depots worldwide. Our leadership in this market is underscored by our success with major Department of Defense programs across all U.S. military service branches and many allied defense services worldwide. Our acquisition of AIT in 2014 complements our line of bus test instrumentation for commercial and defense avionics systems. AIT is a supplier of equipment for testing state-of-the-art data communication buses. 
+
+Storage Test 
+
+The Storage Test business unit addresses the high throughput, automated manufacturing test requirements of hard disk drive (&#147;HDD&#148;) and solid state disk (&#147;SSD&#148;) manufacturers. Our products address the client and enterprise storage markets. The client market is driven by the needs of desktop, laptop, and external HDD and SSD storage products. The enterprise market is driven by the needs of data centers and cloud storage. Our products lead in addressing customer requirements related to factory density, throughput, thermal performance and vibration isolation. 
+
+Production Board Test 
+
+Our test systems are used by electronics manufacturers worldwide to perform In-Circuit-Test (&#147;ICT&#148;) and device programming of printed circuit board assemblies. Fast, accurate and cost-effective test capabilities are hallmark features of our Test Station and Spectrum ICT product families. We offer the Test Station in off-line and automated in-line configurations. The automated in-line configurations address the growing requirements for automating production lines for high volume applications, such as automotive electronics. 
+
+Industrial Automation 
+
+Universal Robots, which we acquired in June 2015, is the leading supplier of collaborative robots, which are low-cost, easy-to-deploy and simple-to-program robots that work side by side with production workers to improve quality, increase manufacturing efficiency and decrease manufacturing costs. Collaborative robots are designed to mimic the motion of a human arm and can be fitted with task specific grippers or fixtures to support a wide range of applications. Universal Robots offers three collaborative robot models, the UR3, UR5, and UR10, each with different weight carrying capacity and arm reach. All models are easily integrated into existing production environments. Universal Robots&#146; products are differentiated by their: 
+
+&#160;
+
+&#160; &#149; &#160; easy programming using a graphical interface which allows users to program the collaborative robot in a few hours; 
+
+&#160; 
+
+&#160; &#149; &#160; flexibility and ease of use in allowing customers to change the task the collaborative robot is performing as their production demands dictate; 
+
+&#160;
+
+&#160; &#149; &#160; safe operations as the collaborative robots can assist workers in side by side production environments requiring no special safety enclosures or shielding to protect workers; and 
+
+&#160;
+
+&#160; &#149; &#160; short payback period, on average less than 12 months. 
+
+Cumulatively, Universal Robots has sold over 6,500 collaborative robots in diverse production environments and applications. 
+
+Summary of Revenues by Reportable Segment 
+
+Our four reportable segments accounted for the following percentages of consolidated revenues for each of the last three years: 
+
+&#160;
+
+&#160; &#160; 2015 &#160; &#160; 2014 &#160; &#160; 2013 &#160; Semiconductor Test 
+
+&#160; &#160; 73 % &#160; &#160; 79 % &#160; &#160; 71 % System Test 
+
+&#160; &#160; 13 &#160; &#160; &#160; 10 &#160; &#160; &#160; 11 &#160; Wireless Test 
+
+&#160; &#160; 11 &#160; &#160; &#160; 11 &#160; &#160; &#160; 18 &#160; Industrial Automation 
+
+&#160; &#160; 3 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; 100 % &#160; &#160; 100 % &#160; &#160; 100 % &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Sales and Distribution 
+
+In 2015, revenues from JA Mitsui Leasing, Ltd. accounted for 13% of our consolidated revenues. JA Mitsui Leasing, Ltd. is a customer of our Semiconductor Test segment. In 2014, no single customer accounted for more than 10% of our consolidated revenues. In 2013, revenues from Apple Inc. accounted for 12% of our consolidated revenues. In 2013, Apple Inc. was a customer of our Semiconductor Test and Wireless Test segments. In each of the years, 2015, 2014 and 2013, our three largest customers in aggregate accounted for 25%, 21% and 26% of our consolidated revenues, respectively. OSAT customers often purchase our test systems based upon recommendations from IDMs and Fabless companies. In all cases when an OSAT customer purchases a test system from us, we consider the OSAT as the customer since credit risk, title and risk of loss, among other things, are between Teradyne and the OSAT. 
+
+Direct sales to United States government agencies accounted for 1%, 2% and 3% of our consolidated revenues in 2015, 2014 and 2013, respectively. Approximately 7%, 20% and 32% of System Test&#146;s revenues in 2015, 2014 and 2013, respectively, were to United States government agencies and 26%, 23% and 24% of System Test&#146;s revenues in 2015, 2014 and 2013, respectively, were to government contractor customers. 
+
+We have sales and service offices located throughout North America, Asia and Europe. We sell in these areas predominantly through a direct sales force. Our manufacturing activities are primarily conducted through subcontractors and outsourced contract manufacturers with a significant operation concentrated in China. 
+
+Sales to customers outside the United States were 87%, 87% and 84% of our consolidated revenues in 2015, 2014 and 2013, respectively. Sales are attributed to geographic areas based on the location of the customer site. 
+
+Sales to customers by country outside of the United States that accounted for 10% or more of our consolidated revenues in any of the previous three years were as follows: 
+
+&#160;
+
+&#160; &#160; 2015 &#160; &#160; 2014 &#160; &#160; 2013 &#160; Taiwan 
+
+&#160; &#160; 27 % &#160; &#160; 30 % &#160; &#160; 19 % China 
+
+&#160; &#160; 16 &#160; &#160; &#160; 18 &#160; &#160; &#160; 23 &#160; &#160; 
+
+See also &#147;Item 1A: Risk Factors&#148; and Note Q: &#147;Operating Segment, Geographic and Significant Customer Information&#148; in Notes to Consolidated Financial Statements. 
+
+Competition 
+
+We face significant competition throughout the world in each of our reportable segments. Competitors in the Semiconductor Test segment include, among others, Advantest Corporation and Xcerra Corporation. 
+
+Competitors in the System Test segment include, among others, Keysight Technologies, Inc. (formerly Agilent Technologies), Astronics, Test Research Inc. and SPEA S.p.A. 
+
+Competitors in our Wireless Test segment include, among others, Rohde &#38; Schwarz GmbH &#38; Co. KG, Anritsu Company, Keysight Technologies, Inc., Cobham/Aeroflex, Inc. and National Instruments Corporation. 
+
+Competitors in our Industrial Automation segment include manufacturers of traditional industrial robots such as KUKA Robotics Corporation, ABB, FANUC and Yaskawa Electric Corporation as well as emerging companies developing collaborative robots. 
+
+Some of our competitors have substantially greater financial and other resources to pursue engineering, manufacturing, marketing and distribution of their products. We also face competition from emerging Asian equipment companies and from internal suppliers at several of our customers. Some of our competitors have introduced or announced new products with certain performance characteristics which may be considered equal or superior to those we currently offer. We expect our competitors to continue to improve the performance of their current products and to introduce new products or new technologies that provide improved cost of ownership and performance characteristics. See also &#147;Item 1A: Risk Factors.&#148; 
+
+Backlog 
+
+At December 31, 2015 and 2014, our backlog of unfilled orders in our four reportable segments was as follows: 
+
+&#160;
+
+&#160; &#160; 2015 &#160; &#160; 2014 &#160; &#160; &#160; (in millions) &#160; Semiconductor Test 
+
+&#160; $ 472.9 &#160; &#160; $ 262.8 &#160; System Test 
+
+&#160; &#160; 108.8 &#160; &#160; &#160; 96.1 &#160; Wireless Test 
+
+&#160; &#160; 33.4 &#160; &#160; &#160; 37.0 &#160; Industrial Automation 
+
+&#160; &#160; 0.6 &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; $ 615.7 &#160; &#160; $ 395.9 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Of the backlog at December 31, 2015, approximately 99% of the Semiconductor Test backlog, 93% of System Test backlog, 46% of Wireless Test backlog and 100% of the Industrial Automation backlog, is expected to be delivered in 2016. 
+
+Customers may delay delivery of products or cancel orders suddenly and without advanced notice, subject to possible cancellation penalties. Due to possible customer changes in delivery schedules and cancellation of orders, our backlog at any particular date is not necessarily indicative of the actual sales for any succeeding period. Delays in delivery schedules or cancellations of backlog during any particular period could have a material adverse effect on our business, financial condition or results of operations. 
+
+Raw Materials 
+
+Our products contain electronic and mechanical components that are provided by a wide range of suppliers. Some of these components are standard products, while others are manufactured to our specifications. We can 
+
+&#160; 
+
+experience occasional delays in obtaining timely delivery of certain items. While the majority of our components are available from multiple suppliers, certain items are obtained from sole sources. We may experience a temporary adverse impact if any of our sole source suppliers delay or cease to deliver products. 
+
+Intellectual Property and Licenses 
+
+The development of our products, both hardware and software, is based in significant part on proprietary information, our brands and technology. We protect our rights in proprietary information, brands and technology through various methods, such as: 
+
+&#160;
+
+&#160; &#149; &#160; patents; 
+
+&#160;
+
+&#160; &#149; &#160; copyrights; 
+
+&#160;
+
+&#160; &#149; &#160; trademarks; 
+
+&#160;
+
+&#160; &#149; &#160; trade secrets; 
+
+&#160;
+
+&#160; &#149; &#160; standards of business conduct and related business practices; and 
+
+&#160;
+
+&#160; &#149; &#160; technology license agreements, software license agreements, non-disclosure agreements, employment agreements, and other agreements. 
+
+However, these protections might not be effective in all circumstances. Competitors might independently develop similar technology or exploit our proprietary information and our brands in countries where we lack enforceable intellectual property rights or where enforcement of such rights through the legal system provides an insufficient deterrent. Also, intellectual property protections can lapse or be invalidated through appropriate legal processes. We do not believe that any single piece of intellectual property or proprietary rights is essential to our business. 
+
+Employees 
+
+As of December 31, 2015, we employed approximately 4,100 people. Since the inception of our business, we have experienced no work stoppages or other labor disturbances. 
+
+Engineering and Development Activities 
+
+The highly technical nature of our products requires a large and continuing engineering and development effort. For the years ended December 31, 2015, 2014 and 2013, our engineering and development expenditures were $292.3 million, $291.6 million, and $264.1 million, respectively. These expenditures accounted for approximately 17.8%, 17.7%, and 18.5%, of our consolidated revenues in 2015, 2014, and 2013, respectively. 
+
+Environmental Affairs 
+
+We are subject to various federal, state, and local government laws and regulations relating to the protection of employee health and safety and the environment. We accrue for all known environmental liabilities when it becomes probable that we will incur cleanup costs and those costs can reasonably be estimated. Estimated environmental costs are not expected to materially affect the financial position or results of our operations in future periods. However, estimates of future costs are subject to change due to protracted cleanup periods and changing environmental remediation laws and regulations. 
+
+&#160; 
+
+OUR EXECUTIVE OFFICERS 
+
+Pursuant to General Instruction G(3) of Form 10-K, the following table is included in Part I of this Annual Report on Form 10-K in lieu of being included in the Proxy Statement for the Annual Meeting of Shareholders. The table sets forth the names of all of our executive officers and certain other information relating to their positions held with Teradyne and other business experience. Our executive officers do not have a specific term of office but rather serve at the discretion of the Board of Directors. 
+
+&#160;
+
+Executive Officer 
+
+&#160; Age &#160; &#160; Position 
+
+&#160; Business Experience For The Past 5 Years 
+
+Mark E. Jagiela 
+
+&#160; &#160; 55 &#160; &#160; Chief Executive Officer and President &#160; Chief Executive Officer since February 2014; President of Teradyne since January 2013; President of Semiconductor Test from 2003 to February 2016; Vice President of Teradyne from 2001 to 2013. Gregory R. Beecher 
+
+&#160; &#160; 58 &#160; &#160; Vice President, Chief Financial Officer and Treasurer &#160; Vice President and Chief Financial Officer of Teradyne since 2001; Treasurer of Teradyne from 2003 to 2005 and since 2006. Charles J. Gray 
+
+&#160; &#160; 54 &#160; &#160; Vice President, General Counsel and Secretary &#160; Vice President, General Counsel and Secretary of Teradyne since April 2009. Bradford B. Robbins 
+
+&#160; &#160; 57 &#160; &#160; President of Wireless Test &#160; President of Wireless Test since August 2014; Chief Operating Officer of LitePoint Corporation from 2012 to 2014; Vice President of Teradyne since 2001. Gregory S. Smith 
+
+&#160; &#160; 52 &#160; &#160; President of Semiconductor Test &#160; President of Semiconductor Test since February 2016; Vice President, SOC Business Group and Marketing Manager for Semiconductor Test Group from January 2014 to February 2016; Business Unit Manager, Complex SOC Business Unit from 2009 to January 2014. Walter G. Vahey 
+
+&#160; &#160; 51 &#160; &#160; President of System Test &#160; President of System Test since July 2012; Vice President of Teradyne since 2008; General Manager of Storage Test since 2008; General Manager of Production Board Test since April 2013; General Manager of Defense/Aerospace from 2004 to July 2012. &#160;
+

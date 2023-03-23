@@ -1,0 +1,370 @@
+ Item 1. Business 
+
+Company Overview 
+
+Synopsys, Inc. provides software, intellectual property, and services used by designers across the entire silicon to software spectrum, from engineers creating advanced semiconductors to software developers seeking to ensure the quality and security of their applications. We are a global leader in supplying the electronic design automation (EDA) software that engineers use to design and test integrated circuits (ICs), also known as chips. We also offer intellectual property (IP) products, which are pre-designed circuits that engineers use as components of larger chip designs rather than design those circuits themselves. We provide software and hardware used to develop the electronic systems that incorporate chips and the software that runs on them. To complement these offerings, which are sold primarily to semiconductor and electronics companies, we provide technical services and support to help our customers develop advanced chips and electronic systems. We are also a leading provider of software tools that developers use to improve the quality and security of software code in a wide variety of industries, including electronics, financial services, energy, industrials, and automotive. 
+
+Corporate Information 
+
+We incorporated in 1986 in North Carolina and reincorporated in 1987 in Delaware. Our headquarters are located at 690 East Middlefield Road, Mountain View, California 94043, and our headquarters&#8217; telephone number is (650) 584-5000. We have approximately 103 offices worldwide. 
+
+Our annual and quarterly reports on Forms 10-K and 10-Q (including related filings in XBRL format), current reports on Form 8-K, and Proxy Statements relating to our annual meetings of stockholders (including any amendments to these reports, as well as filings made by our executive officers and directors) are available through the Investor Relations page of our website (www.synopsys.com) &#32;free of charge as soon as practicable after we file them with, or furnish them to, the SEC (www.sec.gov) . We use our Investor Relations page as a routine channel for distribution of important information, including news releases, analyst presentations, and financial information. The contents of our website are not part of this Form 10-K. 
+
+Background 
+
+Recent years have seen a remarkable proliferation of consumer and wireless electronic products, particularly mobile devices. The growth of the Internet and cloud computing has provided people with new ways to create, store and share information. At the same time, the increasing use of electronics in cars, buildings, appliances and other consumer products is creating a connected landscape of &#8220;smart&#8221; devices. Many thousands of software applications (&#8220;apps&#8221;) have been developed to expand the potential of these connected devices. 
+
+These developments have been fueled by innovation in the semiconductor and software industries. It is common for a single chip to combine many components (processor, communications, memory, custom logic, input/output) and embedded software into a single system-on-chip (SoC), necessitating highly complex chip designs. The most complex chips today contain more than a billion transistors. Transistors are the basic building blocks for ICs, each of which may have features that are less than 1/1,000th the diameter of a human hair. At such small dimensions, the wavelength of light itself can become an obstacle to production, proving too big to create such dense features and requiring creative and complicated new approaches from designers. Designers have turned to new manufacturing techniques to solve these problems, such as multiple-patterning lithography and FinFET transistors, which in turn have introduced new challenges to design and production. 
+
+The popularity of mobile devices and other electronic products has increased demand for chips and systems with greater functionality and performance, reduced size, and lower power consumption. Our customers are the designers of these products and are facing intense pressure to deliver innovative products in shorter timeframes and at lower prices. In other words, innovation in chip and system design often hinges on providing products &#8220;better,&#8221; &#8220;sooner,&#8221; and &#8220;cheaper&#8221; than competitors. The designs of these chips and systems are extremely complex and necessitate state-of-the-art design solutions. 
+
+A similar dynamic is at work in the software industry, where the pace of innovation often requires developers-also our customers-to deliver high-quality software, which can include millions of lines of code, in increasingly frequent 
+
+release cycles. Bugs, defects, and security vulnerabilities in code can be difficult to detect and expensive to fix. But at a time when software is prevalent in many industries across a growing array of smart devices, it is crucial to have high-quality, secure code to ensure consumers&#8217; privacy and safety. 
+
+Our Role-The Silicon to Software &#8482; &#32;Partner 
+
+Synopsys' products and services enable innovators across a variety of markets-from mobile electronics and finance to medical, industrial, and automotive-to develop smart and secure products and applications. Across all industries, our customers face tremendous pressure to build differentiated chips and develop robust code more quickly and cost-effectively than ever before. With the increasing amount of embedded software in today&#8217;s devices, quality and security are top concerns. Synopsys technologies and services are designed to help our customers - both hardware designers and software developers - speed time to market, achieve the highest quality of results, mitigate risk, and maximize profitability. Our offerings span from silicon to software . 
+
+The task of the chip and system designer is to determine how best to design, locate, and connect the building blocks of chips, and to verify that the resulting design behaves as intended and can be manufactured efficiently and cost-effectively. This task is a complex, multi-step process that is both expensive and time-consuming. We offer a wide range of products that help designers at different steps in the overall design process, both for the design of individual ICs (or chips) and for the design of larger systems. Our products can increase designer productivity and efficiency by automating tasks, keeping track of large amounts of design data, adding intelligence to the design process, facilitating reuse of past designs and reducing errors. Our IP products offer proven, high-quality pre-configured circuits that are ready-to-use in a chip design, saving customers time and enabling them to direct resources to features that differentiate their products. Our global service and support engineers also provide expert technical support and design assistance to our customers. 
+
+The task of the software developer is to write code that not only accomplishes the developer's goal as efficiently as possible, but also runs securely and is free of errors. We offer products that can help developers write higher quality, more secure code by analyzing their code for quality defects and security vulnerabilities, adding intelligence and automation to the software testing process, and helping to eliminate quality and security defects in a systematic manner. To the extent that developers make use of third-party components in their code, our products can help developers better manage its composition and security. Our products enable software developers to catch flaws earlier in the development cycle, when they are less costly to fix. 
+
+Products and Services 
+
+Revenue from our products and services is categorized into four groups: 
+
+&#8226; 
+
+Core EDA, which includes our digital and custom IC design software, our verification products, and our field-programmable gate array (FPGA) design software; 
+
+&#8226; 
+
+IP, Systems and Software Integrity, which includes our DesignWare &#174; &#32;IP portfolio, system-level design products, and software quality and security testing solutions; 
+
+&#8226; 
+
+Manufacturing Solutions; and 
+
+&#8226; 
+
+Professional Services and Other. 
+
+Core EDA 
+
+The process of designing ICs contains many complex steps: architecture definition, register transfer level (RTL) design, functional/RTL verification, logic design or synthesis, gate-level verification, floorplanning, and place and route, to name just a few. Designers use our Core EDA products to automate the IC design process and to reduce errors. We offer a large number of Core EDA products intended to address the process comprehensively. Our Core EDA products generally fall into the following categories: 
+
+&#8226; 
+
+Digital and custom IC design, which includes software tools to design an IC; 
+
+&#8226; 
+
+Verification, which includes technology to verify that an IC design behaves as intended; and 
+
+&#8226; 
+
+FPGA design, which includes software tools to design FPGAs-the complex, configurable form of ICs. 
+
+Digital and Custom IC Design 
+
+Our Galaxy&#8482; Design Platform provides customers with a comprehensive design implementation solution that includes industry-leading products and incorporates common libraries and consistent timing, delay calculation, UPF 
+
+power intent descriptions, and constraints throughout the design process. The platform gives designers the flexibility to integrate internally developed and third-party tools. With innovative technologies, a common foundation, and flexibility, our Galaxy Design Platform helps reduce design times, decrease uncertainties in the design steps, and minimize the risks inherent to advanced, complex IC design. Our products span digital, custom, and analog/mixed-signal designs. 
+
+Our principal design products, available as part of the Galaxy Design Platform or as individual point tools, are our IC Compiler&#8482; and IC Compiler&#8482; II physical design solutions, Design Compiler &#174; &#32;logic synthesis product, Custom Compiler&#8482; full custom design solution, PrimeTime &#174; &#32;static timing analysis products, StarRC&#8482; tool for extraction, and IC Validator tool for physical verification. 
+
+Verification 
+
+Our Verification Continuum&#8482; platform is built from our industry-leading and fastest verification technologies, providing virtual prototyping, static and formal verification, simulation, emulation, FPGA-based prototyping, and debug in a unified environment with verification IP and planning and coverage technology. By providing a consistent model and debug environment across the flow of verification tasks and by enabling seamless transitions between simulation, emulation, and prototyping, the platform helps our customers accelerate hardware verification, bring up software earlier, and get to market sooner with advanced SoCs. 
+
+The individual products included in the Verification Continuum platform span both our Core EDA and Systems categories. The solutions reported in our Core EDA revenue include the following: 
+
+&#8226; 
+
+SpyGlass &#174; &#32;family of static verification technologies including lint, CDC (clock domain crossing), RDC (reset domain crossing), DFT (design for test) , &#32;and power verification; 
+
+&#8226; 
+
+VCS &#174; &#32;functional verification solution, our comprehensive RTL and gate-level simulation technology; 
+
+&#8226; 
+
+Verdi &#174; debug technology, the industry&#8217;s most compressive SoC debug; 
+
+&#8226; 
+
+VC Formal, our next-generation formal verification product; 
+
+&#8226; 
+
+Verification IP portfolio; 
+
+&#8226; 
+
+Verdi Coverage, our verification planning and coverage technology-in addition to its inclusion in our Verification Compiler&#8482; solution, this verification technology also continues to be sold as individual point tools; 
+
+&#8226; 
+
+ZeBu &#174; &#32;emulation systems, which use high-performance hardware to emulate SoC designs so that designers can accelerate verification of large complex SoCs and perform earlier verification of the SoC together with software; and 
+
+&#8226; 
+
+Other principal individual verification solutions, including CustomSim&#8482; FastSPICE and FineSim &#174; &#32;SPICE/FastSPICE circuit simulation and analysis products, HSPICE &#174; &#32;circuit simulator, SpyGlass static verification products, and CustomExplorer&#8482; Ultra mixed-signal regression and analysis environment. 
+
+The virtual prototyping and FPGA-based prototyping solutions that are part of our Verification Continuum platform are included in our Systems category. 
+
+FPGA Design 
+
+FPGAs are complex chips that can be customized or programmed to perform a specific function after they are manufactured. For FPGA design, we offer Synplify &#174; &#32;(Pro &#174; &#32;and Premier) implementation and Identify &#174; &#32;debug software tools. 
+
+IP, Systems and Software Integrity 
+
+IP Products 
+
+As more functionality converges into a single device or even a single chip, and as chip designs grow more complex, the number of third-party IP blocks incorporated into designs is rapidly increasing. Synopsys is a leading provider of high-quality, silicon-proven IP solutions for SoCs. Our broad DesignWare IP portfolio includes: 
+
+&#8226; 
+
+High-quality solutions for widely used wired and wireless interfaces such as USB, PCI Express, DDR, Ethernet, SATA, MIPI, HDMI, and Bluetooth Low Energy; 
+
+&#8226; 
+
+Logic libraries and embedded memories, including memory compilers, non-volatile memory, standard cells, and integrated test and repair; 
+
+&#8226; 
+
+Processor solutions, including configurable ARC &#174; &#32;processor cores, software, and application-specific instruction-set processor (ASIP) tools for embedded applications; 
+
+&#8226; 
+
+IP subsystems for audio, sensor, and data fusion functionality that combine IP blocks, an efficient processor, and software into an integrated, pre-verified subsystem; 
+
+&#8226; 
+
+Security IP solutions, including cryptographic cores and software, security subsystems, platform security and content protection IP; 
+
+&#8226; 
+
+Analog IP including data converters and audio codecs; and 
+
+&#8226; 
+
+SoC infrastructure IP, datapath and building block IP, mathematical and floating point components, ARM &#174; &#32;AMBA &#174; &#32;interconnect fabric and peripherals, and verification IP. 
+
+Our IP Accelerated initiative augments our established, broad portfolio of silicon-proven DesignWare IP with IP Prototyping Kits, IP Virtualizer Development Kits, and customized IP subsystems to accelerate prototyping, software development, and integration of IP into SoCs. This category also includes our Verification IP portfolio. 
+
+We also offer a broad portfolio of IP that has been optimized to address specific application requirements for the mobile, automotive, digital home, IoT, and cloud computing markets, enabling designers to quickly develop SoCs in these areas . 
+
+System-Level Solutions 
+
+Escalating software content and complexity in today&#8217;s electronic devices are driving the adoption of advanced tools and methods to accelerate architectural exploration, software development, hardware-software integration, and system validation. Our prototyping solutions are supported by extensive libraries of pre-verified models and DesignWare IP Prototyping Kits to speed development and reduce risk. The solutions are also an important component of Synopsys&#8217; Verification Continuum platform. They include the following: 
+
+&#8226; 
+
+Platform Architect&#8482; tool for SoC architecture analysis and optimization for performance and power; 
+
+&#8226; 
+
+Virtual prototyping solution, including the Virtualizer&#8482; tool and broad portfolio of transaction-level models (TLMs) for creating virtual prototypes and Virtualizer Development Kits (VDKs) for early software development and services to ensure project success; 
+
+&#8226; 
+
+Physical prototyping solution, consisting of HAPS &#174; &#32;hardware and HAPS ProtoCompiler tools, that dramatically accelerates high-performance hardware and software tools with real-world interfaces to enable faster hardware-software integration and full system validation; and 
+
+&#8226; 
+
+Hybrid prototyping solution, which integrates Virtualizer virtual prototypes with HAPS series FPGA-based prototyping. 
+
+Synopsys also provides a series of tools used in the design of optical systems and photonic devices. Our CODE V &#174; &#32;solution enables engineers to model, analyze and optimize designs for optical imaging and communication systems. Our LightTools &#174; &#32;design and analysis software allows designers to simulate and improve the performance of a broad range of illumination systems, from vehicle lighting to projector systems. 
+
+Software Integrity Products 
+
+Synopsys&#8217; Software Integrity platform includes software quality and security testing tools that help companies reduce the risk of defects and vulnerabilities in development, and across the software supply chain before their software is released. Our products include: 
+
+&#8226; 
+
+Coverity &#174; &#32;static analysis tool, which analyzes software code to find crash-causing bugs, incorrect program behavior, memory leaks and other performance-degrading flaws, as well as security vulnerabilities, violations of software best practices, and other critical code issues, many of which may be difficult to detect by other means; 
+
+&#8226; 
+
+Defensics &#174; &#32;fuzz testing tools, which test for security vulnerabilities in software binaries and libraries, particularly network protocols and file formats, by systematically sending invalid or unexpected inputs to the system under test; 
+
+&#8226; 
+
+Protecode&#8482; compositional analysis tools, which scan binary and source code for license issues and other known security vulnerabilities stemming from incorporated third-party and open source code; 
+
+&#8226; 
+
+Seeker &#174; &#32;IAST tool, which finds confirmed vulnerabilities in web applications with a zero-false positive rate; and 
+
+&#8226; 
+
+AbuseSA&#8482; situational awareness tool, which aggregates, contextualizes, and visualizes security threat data from a variety of sources. 
+
+Manufacturing Solutions 
+
+Our Manufacturing Solutions software products and technologies enable semiconductor manufacturers to more quickly develop new fabrication processes that produce production-level yields. These products are used in the early research and development phase, as well as in the production phase where manufacturers use these products to convert IC design layouts into the masks used to manufacture the devices. 
+
+Our Manufacturing Solutions include Sentaurus&#8482; technology computer-aided design (TCAD) device and process simulation products, Proteus&#8482; mask synthesis tools, CATS &#174; &#32;mask data preparation software, Yield Explorer &#174; &#32;Odyssey, and Yield-Manager &#174; &#32;yield management solutions. 
+
+Professional Services and Other 
+
+Synopsys provides consulting and design services that address all phases of the SoC development process. These services assist our customers with new tool and methodology adoption, chip architecture and specification development, functional and low-power design and verification, and physical implementation and signoff. We also provide a broad range of expert training and workshops on our latest tools and methodologies. 
+
+Customer Service and Technical Support 
+
+A high level of customer service and support is critical to the adoption and successful use of our products. We provide technical support for our products through both field-based and corporate-based application engineering teams. Customers who purchase Technology Subscription Licenses (TSLs) receive post-contract customer support bundled with their license fee. Customers who purchase term licenses and perpetual licenses may purchase these services separately. See Product Sales and Licensing Agreements &#32;below. 
+
+Post-contract customer support includes providing frequent updates and upgrades to maintain the utility of the software due to rapid changes in technology. Post-contract customer support for our EDA and IP products also includes access to the SolvNet &#174; &#32;portal, where customers can explore Synopsys&#8217; complete design knowledge database. Updated daily, the SolvNet portal includes technical documentation, design tips, and answers to user questions. Customers can also engage, for additional charges, with our worldwide network of applications consultants for additional support needs. 
+
+In addition, Synopsys offers training workshops designed to increase customer design proficiency and productivity with our products. Workshops cover our EDA products and methodologies used in our design and verification flows, as well as specialized modules addressing system design, logic design, physical design, simulation, and test. We offer regularly scheduled public and private courses in a variety of locations worldwide, as well as online training (live or on-demand) through our Virtual Classrooms. 
+
+Product Warranties 
+
+We generally warrant our products to be free from defects in media and to substantially conform to material specifications for a period of 90 days for our software products and for up to 6 months for our hardware products. In many cases, we also provide our customers with limited indemnification with respect to claims that their use of our software products infringes on United States patents, copyrights, trademarks or trade secrets. We have not experienced material warranty or indemnity claims to date. 
+
+Support for Industry Standards 
+
+We actively create and support standards that help our EDA and IP customers increase productivity, facilitate efficient design flows, improve interoperability of tools from different vendors, and ensure connectivity, functionality and interoperability of IP building blocks. Standards in the electronic design industry can be established by formal accredited organizations, industry consortia, company licensing made available to all, de facto usage, or through open source licensing. 
+
+Synopsys&#8217; EDA products support more than 35 standards, including the most commonly used hardware description languages: SystemVerilog, Verilog, VHDL, and SystemC &#174; &#32;language. Our products utilize numerous industry-standard data formats, application programming interfaces (APIs), and databases for the exchange of design data among our tools, other EDA vendors&#8217; products, and applications that customers develop internally. We also comply with a wide range of industry standards within our IP product family to ensure usability and interconnectivity. 
+
+Our Software Integrity products support several existing and emerging industry standards for software coding and security such as the Motor Industry Software Reliability Association (MISRA) coding standards for the automotive industry. In addition, our products support multiple major programming languages-including Objective C, JavaScript, and security vulnerability coverage for C#-and are compatible with numerous common industry language compilers, development environments, and data and file formats. 
+
+Sales, Distribution and Backlog 
+
+Our EDA and IP customers are primarily semiconductor and electronics systems companies. The customers for our Software Integrity products include many of these companies as well as companies from a wider array of industries including electronics, financial services, energy, industrials, and automotive. We market our products and services principally through direct sales in the United States and principal foreign markets. We typically distribute our software products and documentation to customers electronically, but provide physical media (e.g., DVD-ROMs) when requested by the customer. 
+
+We maintain sales and support centers throughout the United States. Outside the United States, we maintain sales, support, or service offices in Canada, multiple countries in Europe, Israel and multiple countries in Asia including Japan, China, Korea, and Taiwan. Our international headquarters are located in Dublin, Ireland. Our offices are further described under Part I, Item 2, Properties . 
+
+In fiscal 2016 , 2015 &#32;and 2014 , an aggregate of 50% , 49% &#32;and 50% , respectively, of Synopsys&#8217; total revenue was derived from sales outside of the United States. Geographic revenue, which is based on where individual "seats" or licenses to our products are located, is shown below as a percentage of total revenue for the last three fiscal years. 
+
+Additional information relating to domestic and foreign operations, including revenue and long-lived assets by geographic area, is contained in Note 13 of Notes to Consolidated Financial Statements &#32;in Part II, Item 8, Financial Statements and Supplementary Data . Risks related to our foreign operations are described in Part I, Item 1A, Risk Factors . 
+
+Our backlog was approximately $3.5 billion &#32;on October 31, 2016 , a slight decrease from backlog of $3.6 billion &#32;on October 31, 2015 , resulting primarily from the timing of large multi-year contract renewals. Backlog represents committed orders that are expected to be recognized as revenue over the following three years. We currently expect that $1.6 billion &#32;of our backlog will be recognized after fiscal 2017 . Backlog may not be a reliable predictor of our future sales as business conditions may change and technologies may evolve, and customers may seek to renegotiate their arrangements or may default on their payment obligations. For this and other reasons, we may not be able to recognize expected revenue from backlog when anticipated. 
+
+Revenue attributable to each of our four product categories is shown below as a percentage of total revenue for the last three fiscal years. 
+
+*Our IP, Systems and Software Integrity category was referred to as IP and Software Solutions in fiscal 2014. 
+
+Aggregate revenue derived from Intel Corporation and its subsidiaries through multiple agreements accounted for 15.9% , 12.8% &#32;and 10.5% &#32;of our total revenue in fiscal 2016 , 2015 &#32;and 2014 , respectively. No other customer accounted for more than 10% of our revenue during such periods. 
+
+Product Sales and Licensing Agreements 
+
+We typically license our software to customers under non-exclusive license agreements that transfer title to the media only and restrict use of our software to specified purposes within specified geographical areas. The majority of our licenses are network licenses that allow a number of individual users to access the software on a defined network, including, in some cases, regional or global networks. License fees depend on the type of license, product mix and number of copies of each product licensed. 
+
+Generally, we provide our customers the right to &#8220;re-mix&#8221; a portion of the software they initially licensed for other specified Synopsys products. For example, a customer may use our front-end design products for a portion of the license term and then exchange such products for back-end place-and-route software for the remainder of the term in order to complete the customer&#8217;s IC design. This practice helps ensure the customer&#8217;s access to the complete design flow needed to design their product. Offering remix rights to customers gives us an advantage over competitors who offer a narrower range of products because customers can obtain more of their design flow from a single vendor. At the same time-because in such cases the customer need not obtain a new license and pay an additional license fee for the use of the additional products-the use of these arrangements could result in reduced revenue compared to licensing the individual products separately without re-mix rights. 
+
+We currently offer our software products under various license types: renewable TSLs, term licenses and perpetual licenses. For a full discussion of these licenses, see Part II, Item 7, Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8212;Critical Accounting Policies and Estimates &#32;and Results of Operations&#8212;Revenue Background . 
+
+We typically license our DesignWare IP products under nonexclusive license agreements that provide usage rights for specific applications. Fees under these licenses are typically charged on a per design basis plus, in some cases, royalties. Royalty arrangements are not material to our total revenue. 
+
+Our hardware products, which principally consist of our prototyping and emulation systems, are either sold or leased to our customers. Hardware revenue is not material to our total revenue. 
+
+Finally, our Global Technical Services team typically provides design consulting services to our customers under consulting agreements with statements of work specific to each project. 
+
+Research and Development 
+
+Our future performance depends in large part on our ability to further enhance and extend our design and verification platforms and to expand our IP, System-Level, Software Integrity, and Manufacturing product offerings. Research and development of existing and new products is primarily conducted within each product group. We also use targeted acquisitions to augment our own research and development efforts. 
+
+Our research and development expenses were $856.7 million , $776.2 million &#32;and $718.8 million &#32;in fiscal 2016 , 2015 &#32;and 2014 , respectively. Our capitalized software development costs were approximately $4.1 million , $3.7 million &#32;and $3.6 million &#32;in fiscal 2016 , 2015 &#32;and 2014 , respectively. 
+
+Competition 
+
+The EDA industry is highly competitive. We compete against other EDA vendors and against our customers&#8217; own design tools and internal design capabilities. In general, we compete principally on technology leadership, product quality and features (including ease-of-use), license terms, price and payment terms, post-contract customer support, and interoperability with our own and other vendors&#8217; products. We also deliver a significant amount of engineering and design consulting for our products. No single factor drives an EDA customer&#8217;s buying decision, and we compete on all fronts to capture a higher portion of our customers&#8217; budgets. Our competitors include EDA vendors that offer varying ranges of products and services, such as Cadence Design Systems, Inc. and Mentor Graphics Corporation. We also compete with other EDA vendors, including new entrants to the marketplace, that offer products focused on one or more discrete phases of the IC design process, as well as with customers&#8217; internally developed design tools and capabilities. 
+
+In the area of IP products, we compete against numerous other IP providers, including Cadence Design Systems, Inc., and our customers' internally developed IP. We generally compete on the basis of product quality and features, ease of integration with customer designs, compatibility with design tools, license terms, price and payment terms, and customer support. 
+
+In the area of Software Integrity products, the market is still developing. We compete with numerous tool providers, some of which focus on specific aspects of software security or quality analysis, as well as with frequent new entrants, which include start-up companies and more established software companies. 
+
+Proprietary Rights 
+
+Synopsys primarily relies upon a combination of copyright, patent, trademark, and trade secret laws and license and non-disclosure agreements to establish and protect its proprietary rights. We have a diversified portfolio of more than 2,600 United States and foreign patents issued, and we will continue to pursue additional patents in the future. Our issued patents have expiration dates through 2035. Our patents primarily relate to our products and the technology used in connection with our products. Our source code is protected both as a trade secret and as an unpublished copyrighted work. However, third parties may develop similar technology independently. In addition, effective copyright and trade secret protection may be unavailable or limited in some foreign countries. While protecting our proprietary technology is important to our success, our business as a whole is not significantly dependent upon any single patent, copyright, trademark, or license. 
+
+In many cases, under our customer agreements and other license agreements, we offer to indemnify our customers if the licensed products infringe on a third party&#8217;s intellectual property rights. As a result, we may from time to time need to defend claims that our customers&#8217; use of our products infringes on these third-party rights. 
+
+We license software and other intellectual property from third parties, including, in several instances, for inclusion in our products. Risks related to our use of third-party technology are described in Part I, Item 1A, Risk Factors . 
+
+Employees 
+
+As of October 31, 2016 , Synopsys had 10,669 employees, of which 3,870 were based in the United States. 
+
+Executive Officers of the Registrant 
+
+The executive officers of Synopsys and their ages as of December 9, 2016 &#32;were as follows: 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Aart J. de Geus 
+
+&#160; 
+
+&#160; 
+
+Co-Chief Executive Officer and Chairman of the Board of Directors 
+
+Chi-Foon Chan 
+
+&#160; 
+
+&#160; 
+
+Co-Chief Executive Officer and President 
+
+Trac Pham 
+
+&#160; 
+
+&#160; 
+
+Chief Financial Officer 
+
+Brian M. Beattie 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Business Operations and Chief Administrative Officer 
+
+Joseph W. Logan 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Worldwide Sales and Corporate Marketing 
+
+John F. Runkel, Jr. 
+
+&#160; 
+
+&#160; 
+
+General Counsel and Corporate Secretary 
+
+Aart J. de Geus co-founded Synopsys and has served as Chairman of our Board of Directors since February 1998 and Chief Executive Officer since January 1994. He has served as Co-Chief Executive Officer with Dr. Chi-Foon Chan since May 2012. Since the inception of Synopsys in December 1986, Dr. de Geus has held a variety of positions, including President, Senior Vice President of Engineering and Senior Vice President of Marketing. He has served as a member of Synopsys&#8217; Board of Directors since 1986, and served as Chairman of our Board from 1986 to 1992 and again from 1998 until present. Dr. de Geus has also served on the board of directors of Applied Materials, Inc. since July 2007. Dr. de Geus holds an M.S.E.E. from the Swiss Federal Institute of Technology in Lausanne, Switzerland and a Ph.D. in Electrical Engineering from Southern Methodist University. 
+
+Chi-Foon Chan has served as our Co-Chief Executive Officer since May 2012 and as our President and a member of our Board of Directors since February 1998. Prior to his appointment as our Co-Chief Executive Officer in May 2012, he had served as our Chief Operating Officer since April 1997. Dr. Chan joined Synopsys in May 1990 and has held various senior management positions, including Executive Vice President, Office of the President from September 1996 to February 1998 and Senior Vice President, Design Tools Group from February 1994 to April 1997. Dr. Chan has also held senior management and engineering positions at NEC Electronics and Intel Corporation. Dr. Chan holds a B.S. in Electrical Engineering from Rutgers University, and an M.S. and a Ph.D. in Computer Engineering from Case Western Reserve University. 
+
+Trac Pham is our Chief Financial Officer. Mr. Pham joined Synopsys in November 2006 as Vice President, Financial Planning and Strategy. He became our Vice President, Corporate Finance, in August 2012, assuming additional responsibility for our tax and treasury functions, before being appointed Chief Financial Officer in December 2014. Mr. Pham holds a Bachelor of Arts in Economics from the University of California, Berkeley and an MPIA (Master of Pacific International Affairs) from the University of California, San Diego. He is an active status California CPA. 
+
+Brian M. Beattie &#32;is our Executive Vice President, Business Operations and Chief Administrative Officer. Prior to his promotion to that role in December 2014, Mr. Beattie had served as our Chief Financial Officer since January 2006. Prior to Synopsys, from October 1999 to January 2006, he was Executive Vice President of Finance and Administration and Chief Financial Officer of SupportSoft, Inc. From May 1998 to May 1999, he served as Vice President of Finance, Mergers and Acquisitions, of Nortel Networks Corporation. Mr. Beattie currently serves on the board of directors and audit committee for Lattice Semiconductor Corporation. He served on the board of directors of Unwired Planet, Inc. from December 2010 until November 2012. Mr. Beattie holds a Bachelor of Commerce and an M.B.A. from Concordia University in Montreal. 
+
+Joseph W. Logan &#32;serves as our Executive Vice President of Worldwide Sales and Corporate Marketing. He became Senior Vice President of Worldwide Sales in September 2006, assumed responsibility for our Corporate Marketing organization in August 2013, and became Executive Vice President in December 2013. Previously, Mr. Logan was head of sales for Synopsys&#8217; North America East region from September 2001 to September 2006. Prior to Synopsys, Mr. Logan was head of North American Sales and Support at Avant! Corporation. Mr. Logan holds a B.S.E.E. from the University of Massachusetts, Amherst. 
+
+John F. Runkel, Jr. &#32;has served as our General Counsel and Corporate Secretary since May 2014. From October 2008 to March 2013, he was Executive Vice President, General Counsel, and Corporate Secretary of Affymetrix, Inc. He served as Senior Vice President, General Counsel and Corporate Secretary of Intuitive Surgical, Inc. from 2006 to 2007. Mr. Runkel served in several roles at VISX, Inc. from 2001 to 2005, most recently as Senior Vice 
+
+President of Business Development and General Counsel. Mr. Runkel was also a partner at the law firm of Sheppard, Mullin, Richter &#38; Hampton LLP for 11 years. He holds a Bachelor of Arts and a Juris Doctorate from the University of California, Los Angeles. 
+
+There are no family relationships among any Synopsys executive officers or directors. 
+

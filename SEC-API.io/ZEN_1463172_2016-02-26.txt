@@ -1,0 +1,548 @@
+ Item 1. Business. 
+
+Overview
+
+Zendesk believes the fundamental relationship between organizations and their customers is changing. As consumers, we have more choices, have access to more information, and are more connected than ever before. We expect to be heard, engaged, and valued by the organizations we interact with. At the same time, organizations are increasingly recognizing the value of these deeper relationships. As a result, a new customer service philosophy is emerging.
+
+Zendesk was formed to help organizations capitalize on this profound shift. We are a software development company that provides a SaaS customer service platform. Our beautifully simple platform helps organizations engage with people in new ways that foster long-term customer loyalty and satisfaction. We empower organizations to better answer customers&#8217; questions, and to solve their problems through the channels that people use every day when seeking help, such as email, chat, voice, social media, and websites. Our platform also helps people find answers on their own through knowledge bases and communities, capitalizing on the increasing customer preference for self-service. Our customer engagement capabilities allow organizations to proactively serve their customers, reaching out to those who may need help and soliciting feedback about their experience. The openness of our customer service platform makes it easy for organizations to integrate with other applications and embed our platform&#8217;s functionality natively into their own websites and mobile applications. Our platform consolidates the data from customer interactions and provides organizations with powerful analytics and performance benchmarking. We also provide SaaS live chat software that can be utilized independently to facilitate proactive communications between organizations and their customers or integrated easily into our platform.
+
+Our business model is designed to drive organic growth, leverage positive word-of-mouth, and remove friction from the evaluation and purchasing process. We enable and encourage customers to try our products through free trials and subscribe to them directly through our website. Our sales team largely focuses on a land and expand strategy, which leverages this grassroots adoption and seeks to expand our footprint within organizations.
+
+As of December 31, 2015, we had approximately 69,100 paid customer accounts for our customer service platform and live chat software in the aggregate. This includes approximately 35,700 customer accounts for paid subscription plans on our customer service platform (other than our low-cost Starter plan) and approximately 33,400 customer accounts for paid subscription plans of our live chat software. Organizations are able to access &#8220;freemium&#8221; plans on our customer service platform and live chat software, as well as email collaboration software, that are provided by us free of charge or at very low cost. As of December 31, 2015, we had more than 121,100 active accounts using these services. Our customers represent organizations across a broad array of sizes, industries, and geographies. They are located in 150 countries and territories and provide service through our customer service platform in over 40 languages.
+
+In October 2015, we completed the acquisition of We Are Cloud SAS, or WAC, a maker of analytics software. Over time, we expect to integrate our analytics software across our products to become a core technology within our customer service platform and to enable us to enhance the data analytics capabilities across our products. We also expect to continue to sell our analytics software on a standalone basis.
+
+Our financial performance reflects our significant customer growth and strong customer retention and expansion. For the years ended December 31, 2015, 2014, and 2013, our revenue was $208.8 million, $127.0 million, and $72.0 million, respectively, representing a 64% growth rate from 2014 to 2015 and a 76% growth rate from 2013 to 2014. For the years ended December 31, 2015, 2014, and 2013 we derived $92.5 million, or 44%, $54.8 million, or 43%, and $29.6 million, or 41%, respectively, of our revenue from customers located outside of the United States. 
+
+We were founded in Copenhagen, Denmark in 2007. We reincorporated in Delaware in 2009. Our principal executive offices are located at 1019 Market Street, San Francisco, California 94103, and our telephone number is (415) 418-7506. Our website address is www.zendesk.com . Information contained on or that can be accessed through our website does not constitute part of this Annual Report on Form 10-K and inclusions of our website address in this Annual Report on Form 10-K are inactive textual references only. Unless expressly indicated or the context requires otherwise, the terms &#8220;Zendesk,&#8221; &#8220;company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; and &#8220;our&#8221; in this Annual Report on Form 10-K refer to Zendesk, Inc., a Delaware corporation, and its consolidated subsidiaries.
+
+The Zendesk Approach 
+
+Zendesk&#8217;s mission is to help organizations and their customers build better relationships. Our comprehensive customer service platform is carefully designed for organizations to address the new customer-driven economy, in which customer service is a key business principle. Our intuitive customer service platform facilitates listening to the customer, finding the best possible answer, communicating through the appropriate channel, and sharing the knowledge gained with the whole organization.
+
+&#160;
+
+&#183; 
+
+Beautifully Simple. We have an overarching philosophy to be beautifully simple. This approach begins with the look and feel of our customer service platform. We take intuitive design elements that people have grown to expect from consumer software and incorporate them into our customer service platform. The complexity of our underlying technology is wrapped in an easy-to-use interface built to simplify the tough work of customer service. However, beautifully simple at Zendesk extends far beyond that. We offer a free trial and a transparent purchase process with numerous self-service options that are suitable for small and medium sized businesses, or SMBs, and enterprise departments as well as assisted options for larger customers. Once purchased, our customer service platform provides fast results due to an easy set-up with a detailed tutorial and we assist organizations with questions or concerns through our product support team, community forum, and other software tools. 
+
+&#160;
+
+&#183; 
+
+Omni-Channel and Contextual. Our customer service platform is built to support customers across a wide variety of integrated channels&#8212;email, voice, social media, and websites. We offer live chat as a standalone service and as a means to integrate chat-enabled agents into our customer service platform. We also offer upgraded features for the voice channel as an add-on subscription to our customer service platform. With little to no setup, our customer service platform can receive, manage, track, and report on customer interactions regardless of where they occur. This enables employees to listen to and engage with customers through the appropriate channels. In addition, our customer service platform provides important contextual information around customer issues by encouraging employee collaboration and enabling real-time information sharing. Based on our belief that the best customer service involves a whole organization, our customer service platform makes it easy for multiple departments to work together on as well as stay informed about customer interactions. 
+
+&#160;
+
+&#183; 
+
+Affordable. &#160; We believe that customer service practices and philosophy affect the bottom line and that by using our customer service platform organizations can successfully manage customer service in a manner that generates a high return on investment. We believe our subscription plans are significantly less expensive and offer greater pricing transparency than many legacy customer support software applications (especially when software updates, ongoing maintenance and consultant fees required for integration, installation, customization, and training are taken into account). Furthermore, our customer service platform is designed to increase productivity by enabling faster responses, customer self-service tools, and automation. 
+
+&#160;
+
+&#183; 
+
+Natively Mobile. Mobile apps were not an afterthought at Zendesk. We have designed our customer service platform to enable great customer service on-the-go. Through native mobile apps, employees can access our customer service platform anywhere with robust product functionality, an elegant interface, and performance analytics. Our help centers are mobile optimized, allowing people to quickly find answers on their own with mobile devices. 
+
+&#160;
+
+&#183; 
+
+Cloud-Based Architecture. The dynamic cloud-based architecture that powers our customer service platform allows SMBs and large enterprises alike to invest their time and energy in their customers rather than managing their software. This architecture automates frequent software updates and introduction of new features while also allowing our platform to easily scale within organizations. Configurations made with simple tools, including workflow automations and best practice templates, tailor the functionality and design of our customer service platform to an organization&#8217;s particular needs and keep customer service efforts of any size organized. 
+
+&#160;
+
+&#183; 
+
+Open Platform. Integrations openly exchange information and product functionality between our customer service platform and other applications, leading to better informed customer conversations. Our platform includes over 350 pre-built integrations with CRM, e-commerce, telephony, live chat, and other apps, which are enabled through our app marketplace. Developed with our open APIs, our platform can also be customized, integrated, or expanded upon with private apps. Through Zendesk Embeddables, we enable customers to simply and natively integrate critical functionality directly into their own websites and applications, including optimized integrations for mobile applications. 
+
+&#160;
+
+&#183; 
+
+Proactive and Predictive Engagement. Our customer service platform is designed to provide customer service on the customer&#8217;s terms. Organizations are equipped to proactively communicate with customers at the most relevant and critical moments. For example, organizations can automatically trigger workflow to proactively reach out to customers that may signal they have had a bad experience or need particular attention. We also offer organizations tools that assist organizations with making predictions on potential customer service outcomes, enabling organizations to turn potential bad customer service interactions into good interactions. 
+
+&#160;
+
+&#183; 
+
+Strategic Analytics. Our customer service platform provides analytics that are mission critical for an organization&#8217;s operations , including the option to provide managers with access to real-time operational efficiency and customer satisfaction analytics at the interaction , agent, and organizational level. We continuously collect anonymized data, through the Zendesk Benchmark, to regularly report relevant comparisons of an organization&#8217;s metrics relative to its peers based on size, industry, and geographic region. Managers can be informed through our customer service platform on the strengths and weaknesses of their customer service efforts on an hourly basis, as well as provided with recommendations of how to improve performance. 
+
+Growth Strategy
+
+Zendesk was founded in 2007, aiming to help organizations build successful long-term relationships with their customers. We strive to continue the work our three founders began when they looked at the state of customer service and said: &#8220;we can do better.&#8221; We are focused on the following key areas of growth:
+
+&#160;
+
+&#183; 
+
+Introducing New Products and Broadening Our Platform Functionality. We are continuously investing in building a customer service platform that elegantly facilitates and improves customer service and ultimately creates successful long-term customer relationships. Significant research and development efforts are currently focused on broadening our existing customer engagement, data analytics and reporting, and communication tools. We intend to continue to develop new products and functionality to expand our platform and support that mission. In addition, we may selectively pursue acquisition opportunities of technologies that can broaden the functionality of our platform. 
+
+&#160;
+
+&#183; 
+
+Furthering Our Data-Driven Approach. We believe our platform is unique for empowering a data-driven approach to customer interactions. For example, we have introduced the Zendesk Benchmark to enable organizations to compare their critical customer service performance metrics with their peers. Through Zendesk Insights, organizations can compute and display advanced analytics based on their raw data. In October 2015, we completed the acquisition of WAC. Over time, we expect to integrate this analytics software to become a core technology within our customer service platform and to enable us to further integrate data analytics capabilities across our products. We also expect to continue to develop and sell our analytics software on a standalone basis. 
+
+&#160;
+
+&#183; 
+
+Maintaining Leadership in SMB Market. Our customer base today includes a large number of SMBs across industries and geographies. Our customer service platform&#8217;s ease-of-use, fast results, and flexible pricing are well suited for their needs. We will continue to expand sales in existing organizations, target new organizations, and advance our leadership position in the SMB market. 
+
+&#160;
+
+&#183; 
+
+Expanding Our Enterprise Customer Base. Larger enterprises make up an increasing portion of our customer base. Our enterprise sales strategy is focused on land and expand, in which we sell our customer service platform into a single department or location and grow by adding agents in other departments, product divisions, and geographies. In addition to increasing the number of users, our customers often upgrade to our more expensive and feature rich subscription plans. We intend to continue to invest in research and development efforts designed to introduce features that are important to larger enterprises. We expect our recent sales initiatives to increase sales to new larger enterprises as well as increase our penetration in existing customers through expansion and subscription plan upgrades. 
+
+&#160;
+
+&#183; 
+
+Continuing to Increase Our Global Customer Footprint. We serve a global market. As of December 31, 2015, 2014, and 2013, we generated 44%, 43%, and 41%, respectively, of our revenue outside of the United States. Our international sales efforts will be focused on certain countries outside of the United States, including Brazil, France, Germany, Japan, and the United Kingdom, where we have demonstrated significant organic customer traction or believe represent particularly strategic opportunities. 
+
+&#160;
+
+&#183; 
+
+Broaden Our Integrations and Partnerships. Our customer service platform is deep and extendible, with over 350 applications integrated with our software, and a network of partner and third-party developers building additional applications which integrate with and embed our platform&#8217;s functionality. By growing this Zendesk ecosystem, we plan to build on relationships with third-party organizations and developers who further extend our customer service platform into new customers and use cases. 
+
+&#160;
+
+&#183; 
+
+Developing Our Brand. We are focused on strengthening our reputation as a differentiated and category-defining company in customer service. Our brand attributes&#8212;airy, humble, charming, and uncomplicated&#8212;distinguish us from the traditional attitudes about organizations and the customer relationship. Our marketing emphasizes our customer service platform&#8217;s ease-of-use and unique aesthetic in a voice that we believe is memorable and fun (especially relative to legacy enterprise software). We currently host user-groups across the country, and regularly create other opportunities and events to bring together the best in the business to discuss and network. We also regularly publish content with advice for organizations of all sizes about becoming more customer-focused and effectively managing customer service. We believe these branding efforts and thought leadership have accelerated our growth to date and will fuel our future growth by driving organic leads. 
+
+The Zendesk Customer Service Platform 
+
+Our customer service platform allows organizations to focus on the customer service experience within an environment designed for ease-of-use and efficiency. We offer a range of subscription plans to meet the needs of SMBs and larger organizations with the appropriate level of advanced features and product support.
+
+Customer Support
+
+Our platform provides organizations with a single customer service interface to manage all their one-on-one customer interactions, no matter where those conversations start or who needs to be involved to resolve them. Our platform facilitates customer service in an efficient way through application of business rules and automations. This allows for both a reduction in ticket backlog and scaling up to accommodate growing organizations with large global audiences. Our platform is currently available in 14 languages for customer service agents. Key features include:
+
+&#160;
+
+&#183; 
+
+Single Omni-Channel Interface. Our customer service platform pulls in customer questions&#8212;from email, chat, voice, and social media&#8212;and brings them into our beautifully simple interface. 
+
+&#160;
+
+&#183; 
+
+Email . Consolidate customer emails from multiple customer accounts into one interface for routing, assignments, and a single system of record for all conversations. 
+
+&#160;
+
+&#183; 
+
+Chat . Communicate live with one on one chat sessions, which allow customers to initiate real-time support from employees through a web interface. All chat conversations are automatically transcribed into a ticket. We offer our live chat software on a standalone basis and provide a seamless integration of this software as the primary means through which we offer chat functionality on our customer service platform. 
+
+&#160;
+
+&#183; 
+
+Voice . Make or receive calls through our customer service platform. Organizations can natively create support phone numbers or use existing telephony systems through our open API. Voicemails are automatically transcribed into a ticket and employees can record key information from calls in tickets. Through our Advanced Voice service, we offer organizations upgraded features for communicating with their customers, including interactive voice response capabilities, the ability to provide additional context when transferring voice conversations between agents, and advanced features to analyze these voice interactions at an additional cost per enabled agent. 
+
+&#160;
+
+&#183; 
+
+Social Media . Convert Tweets and Facebook posts into tickets and reply through our customer service platform to keep a record of all conversations in one interface. 
+
+&#160;
+
+&#183; 
+
+Business Rules. Initiate workflows triggered by ticket field changes or time-based conditions. Our customer service platform comes with pre-configured business rules that we recommend as best practices. 
+
+&#160;
+
+&#183; 
+
+Add-on Features. For Professional and Enterprise plan subscribers, choose to add additional features that are important to support critical business needs. These add-ons include features such as data encryption at rest, the ability to specify the region in which account data is stored, enhanced disaster recovery, priority support, the ability to allow non-support employees to collaborate internally, and the ability to provide support for multiple business units from a single instance of our customer service platform. 
+
+&#160;
+
+&#183; 
+
+Mobile Apps. View and respond to requests through our native agent mobile apps for the iPhone, iPad, Android devices, Windows Phone, and Kindle Fire. Our channel agnostic SaaS architecture ensures the same information and product functionality is available regardless of the device used. 
+
+Customer Self-Service Help Center
+
+Our customer service platform helps organizations track and predict common questions and provides a seamless path to answers. This allows customers to help themselves, find what they need, and minimize their frustration. Available in more than 40 languages for end-users, help centers can be formatted with our self-service optimized themes and customized with organization-specific functionality. Key features include:
+
+&#160;
+
+&#183; 
+
+Knowledge Base . Create a repository of articles, support documents, and how-to-guides that answers customers&#8217; most popular questions. Sections within the knowledge base can be restricted to certain groups of customers or internal employees. Moderators can easily manage multi-lingual content in one place. 
+
+&#160;
+
+&#183; 
+
+Community . Provide customers an opportunity to engage with one another along with the organization through the community. Customers can start a discussion, ask a question, or suggest an idea. Posts can be organized by topic and followed by customers. 
+
+&#160;
+
+&#183; 
+
+Customer Portal . Allow customers to view their customer service history, track outstanding requests, and manage community subscriptions through the customer portal. 
+
+Customer Enga gement 
+
+With customer engagement, customer service becomes less about the ticket and more about people. Our customer service platform lets organizations gather customer data and proactively engage with customers based on the insights the data provides. This turns interactions into proactive conversations and makes them more meaningful, personal, and productive. Key features include:
+
+&#160;
+
+&#183; 
+
+Custom User and Organization Fields. Create custom user and organization fields to provide context for proactive customer service and set customer-centric workflows around these fields. 
+
+&#160;
+
+&#183; 
+
+Customer Lists. Organize customers into lists based on tags and user fields to enable proactive engagement with those customers. 
+
+&#160;
+
+&#183; 
+
+Customer Satisfaction Ratings. Automatically send a customer satisfaction survey after a customer service request is solved to collect feedback. 
+
+&#160;
+
+&#183; 
+
+Net Promoter Score. Send a simple, single question survey to customers to measure willingness to recommend a product or service and enable organizations to easily identify vocal promoters and detractors as well as customers most likely to spread positive or negative sentiment. 
+
+&#160;
+
+&#183; 
+
+Apps and Integrations. Provide full context for customer interactions through third-party apps and integrations that allow our customer service platform to plug into other important sources of customer and employee data, such as third-party applications for CRM, time tracking, bug tracking, and e-commerce. 
+
+Leveraging Strategic Analytics
+
+Our customer service platform offers unique tools for organizations to understand their customers and track the efficiency and effectiveness of their customer service. Key features include:
+
+&#160;
+
+&#183; 
+
+Reporting and Analytics. Track real-time key performance indicators at the customer interaction, agent, or department level through customer service dashboards that are built into our interface. Metrics included cover customer satisfaction, first response time, ticket volume, and usage of self-service features. Through Zendesk Insights, organizations with advanced plans can create custom reports and filter data, as well as compute and display advanced analytics based on their raw data that is updated as frequently as every hour. As we integrate our analytics software across our products, we expect that such software will enable us to provide additional analytics capabilities within our customer service platform. 
+
+&#160;
+
+&#183; 
+
+Zendesk Benchmark. Compare customer service performance against similarly-sized organizations in the same industry and geographic region with the Zendesk Benchmark. Aggregating data to create relevant indices, performance metrics are shown on managers&#8217; interfaces for real-time feedback and published in a quarterly report on our website. 
+
+Zendesk Embeddables
+
+Through Zendesk Embeddables, we make it simple to extend our customer service platform and live chat software and integrate critical functionality natively into an organization&#8217;s website or mobile application. Key features include:
+
+&#160;
+
+&#183; 
+
+Web Widgets. Easily incorporate contact forms, knowledge base search, and our live chat software directly into websites to allow customers to seek and obtain support at the point of interaction with an organization. Our web widgets are optimized for mobile browsing and tuned to customer browser settings to ensure fidelity in language settings. 
+
+&#160;
+
+&#183; 
+
+Mobile SDK. Build support natively and intuitively directly into mobile applications on both the iOS and Android platforms. Using our SDK, native support in applications is highly customizable, allowing organizations to better maintain their brand in the support environment and highly contextual, enabling organizations to capture and collect information about device and application usage to improve the customer experience. 
+
+&#160;
+
+&#183; 
+
+Zendesk APIs. Through custom development, tie together our customer support, customer self-service, and customer engagement elements in even more advanced customizations. We construct our own software from the same APIs that we make available, demonstrating our commitment to the Zendesk developer community and up-to-date code. 
+
+Subscription Plans 
+
+We currently offer a number of subscription plans for our customer service platform that vary based on the level of advanced features and dedicated product support. After a free trial, our customers use a credit card or execute a service order to purchase a subscription plan, typically for a monthly or annual subscription term. Our packaging and pricing philosophy is centered in transparency and simplicity, with all information publicly available on our website. Our subscription plans include:
+
+&#160;
+
+&#183; 
+
+Essential. The Essential plan provides access to our customer service platform for employees to customer communications gathered through email, social media, and websites, as well as performance analytics comparisons with the Zendesk Benchmark. 
+
+&#160;
+
+&#183; 
+
+Team. Well-suited for small organizations and enterprise departments, the Team plan provides organizations more control over workflow, including options for group views and customer business rules, and allows employees to engage with customers through more channels, including community forums. Team plan subscribers also have the ability to use our public apps with their subscription, to receive email-based product support and to track performance with customer satisfaction metrics and dashboards. 
+
+&#160;
+
+&#183; 
+
+Professional. To upgrade customer service for organizations of all sizes, extra features in the Professional plan include custom analytics through Zendesk Insights, multi-lingual content management, and internal knowledge base for employees. Professional plan subscribers have the ability to develop their own private apps for use on our customer support platform. In addition to email, customers on our Professional plan receive product support from our dedicated customer advocates via phone. 
+
+&#160;
+
+&#183; 
+
+Enterprise. As our deployments grow across departments to be the primary customer service software solution, the Enterprise plan incorporates tools to share customer interactions with the whole organization including unlimited light agents. In addition, we provide 24/7 email, phone and chat support to drive customer success during deployment and ongoing use. 
+
+Live Chat Software
+
+Through our live chat software we enable organizations to communicate in real-time with their customers through online chat. Our live chat software offers advanced features to capture, analyze, and automate these conversations, enabling organizations to more effectively engage with their customers, including by proactively reaching out to them before they&#8217;ve indicated a need for support. We offer our live chat software on a standalone basis and also integrate it as a means to provide chat functionality on our customer service platform for chat enabled agents. 
+
+Subscription Plans
+
+We currently offer three subscription plans for our live chat software that vary based on the level of advanced features provided. As with the subscription plans for our customer service platform, we provide all prospective customers a free trial. Following this free trial, our customers may use a credit card or execute a service order to purchase a subscription plan, typically for a monthly or annual subscription term. Customers that do not purchase a paid subscription plan, or who terminate a paid subscription plan, are defaulted into the Lite plan. Our subscription plans include the following:
+
+&#160;
+
+&#183; 
+
+Lite. The Lite plan enables organizations of any size to engage their customers using chat at no cost. An organization is a permitted a single agent enabled to engage in chat on a non-concurrent basis. Up to 14 days of chat history is maintained. 
+
+&#160;
+
+&#183; 
+
+Basic. The Basic plan allows agents to engage in unlimited number of concurrent chats, group chat enabled employees into up to two relevant departments, and deploy up to two triggers to help identify high value visitors and initiate conversations with them. Basic plan subscribers have full access to their chat history and the ability to fully customize their chat window. 
+
+&#160;
+
+&#183; 
+
+Advanced. The Advanced plan enables organizations to group chat enabled employees into an unlimited number of departments, deploy unlimited triggers, and establish operating schedules where agents are shown as available or not visible automatically. In addition, our Advanced plan offers powerful analytics to enable organizations to track and monitor activity and increase efficiency. 
+
+&#160;
+
+&#183; 
+
+Premium. The Premium plan enables organizations to track both broad and specific agent metrics, as well as real time metrics. The Premium plan also permits subscribers with additional options to customize the experience for the customers seeking support via the chat. In addition, our Premium plan offer subscribers with 24/7 chat-based support. 
+
+Analytics Software 
+
+Through our analytics software, we enable organizations to analyze and visualize data from a diverse set of applications. Our analytics software allows subscribers to connect and build queries across multiple data sources and analyze results through a variety of data visualizations. Over time, we expect to integrate our analytics software across our products to become a core technology within our customer service platform and to enable us to enhance the data analytics capabilities across our products.
+
+Subscription Plans
+
+We currently offer two subscription plans for our analytics software that are based on the level of advanced features provided. As with the subscription plans for our other products, we provide prospective customers with a free trial. Following this free trial, our customers may use a credit card or execute a service order to purchase a subscription plan, typically for a monthly or annual subscription term. Our subscription plans include the following:
+
+&#160;
+
+&#183; 
+
+Base Plan. The Base plan enables organizations to quickly visualize their data that may be stored in a variety of data sources. This plan is designed to allow organizations to use our data connectors to quickly build and deploy visualizations of this data. 
+
+&#160;
+
+&#183; 
+
+Big Data. The Big Data plan enables organizations to connect to a wider set of data sources, with a focus on connections to and integrations of data from larger and more complex data sources as compared to our Base plan. 
+
+Customers
+
+As of December 31, 2015, we had approximately 69,100 paid customer accounts for our customer service platform and live chat software in the aggregate. This includes approximately 35,700 customer accounts for paid subscription plans on our customer service platform (other than our low-cost Starter plan) and approximately 33,400 customer accounts for paid subscription plans of our live chat software.
+
+Our freemium plans include the Starter plan for our customer service platform, our Lite plan for live chat software, and our Zendesk Inbox service for facilitating and simplifying email collaboration on group email aliases. We believe these services provide exposure to our brand and establish a relationship that can facilitate further adoption of our customer service platform and live chat software as organizations grow in size and their service needs grow more complex. As of December 31, 2015, we had more than 121,100 active customer accounts on our freemium plans. A customer account on our freemium plans is considered active based on whether functionality of the service has been utilized within the 90-day period preceding the measurement date. In the quarter ended December 31, 2015, we introduced our Essential plan for our customer service platform. This plan replaced our Starter plan as the least expensive paid plan on our customer service platform. Following the introduction of our Essential plan, we no longer made our Starter plan available for new accounts. Accounts that subscribe to our Essential plan are included in the determination of the number of paid customer accounts.
+
+Our customers represent organizations across a broad array of sizes, industries, and geographies. Our customers are located in 150 countries and territories and provide service through our customer service platform in over 40 languages.
+
+Sales and Marketing
+
+Subscriptions to our customer service platform and live chat software are designed to be easy to purchase. A substantial number of our customers subscribe to our customer service platform or live chat software with limited or no direct interaction with our sales team.
+
+We also deploy a direct sales approach, which includes an inside sales team based in three regional hubs: the Americas, EMEA (Europe, Middle East, and Africa), and APAC (Asia-Pacific). This team qualifies and manages prospective and current customers, aiming to initiate, retain, and expand their use of our customer service platform and live chat software over time. Our inside sales team partners with technical sales and product engineers to provide pre-sales technical support and is also responsible for driving renewals of existing contracts.
+
+We are developing and expanding our field sales and marketing teams responsible for discovery, qualification, and account management for larger organizations. We expect to increase penetration into larger organizations through a land and expand strategy whereby we attempt to capitalize on the limited use of our customer service platform and live chat software by a functional or geographic department to expand the use of our solutions throughout other parts of the organization.
+
+We also utilize indirect sales channels, including referral p artners and resellers, as well as implementation partners. These channels provide additional sales coverage, particularly in geographic markets where we may have limited presence, as well as implementation services to our customers. Sales from indirect cha nnels have not been significant to date, but we plan to continue to invest in these relationships to help us in certain markets and to complement our direct sales efforts. 
+
+Our marketing efforts are focused on generating awareness of our products, creating sales leads, establishing and promoting our brand, and cultivating a community of successful and vocal customers. Based on our belief that the best method to sell subscriptions to our platform is to actively use and explore their capabilities, one focus of the marketing team is to drive and encourage free trials and the successful conversion of trials to paid subscriptions. At any time during this limited-time trial, the prospective customer may elect to subscribe to simply-priced plans by providing their credit card information. We utilize both online and offline marketing initiatives, including search engine and email marketing, display and video advertising, blogs, corporate communications, whitepapers, case studies, user events, conferences and webinars.
+
+As of December 31, 2015, we had 511 employees in our sales and marketing organization. Our sales and marketing expenses were $114.1 million, $77.9 million and $37.6 million for the years ended December 31, 2015, 2014, and 2013, respectively.
+
+Product Support and Professional Services
+
+We strive to exemplify the great customer service that organizations of all sizes can provide with our customer service platform and live chat software by offering multi-channel service from our product support team, a rich self-help knowledge center with detailed product guides, and active community forums for agents, managers, and developers.
+
+We offer different levels of product support for our platform based upon the subscription plans purchased by our customers. Essential and Starter plan customers rely exclusively on our knowledge base and community forums for support. Support from our product support team is offered to all other subscribers, with 24/7 email, voice, and chat support available for our Enterprise plan subscribers. Regardless of the plan purchased, our customer service platform provides an intuitive interface, connectivity to our self-help knowledge base and community forums, and step-by-step tutorials to help employees learn, use and deploy our platform effectively.
+
+Along with our global partners, our professional services team assists our customers in implementing more complex deployments of our customer service platform. These services include mapping our customer service platform to new and existing business processes, data migration, and integration with existing systems. Service engagements are typically scoped on a time and materials or project milestone basis and billed separately from the subscription to our customer service platform.
+
+Through Zen U, our training platform, we offer courses to help our customers quickly learn how to effectively use our customer service platform as well as implement customer service best practices. Courses are available online, in-person at events, and, as requested by certain customers, on-site. Zen U sessions are typically targeted at specific levels of employee seniority and product experience, such as agent essentials or administrator expert, to more effectively tailor training to intended audiences.
+
+We maintain separate dedicated product support teams for our live chat software and our analytics software. In the future, we intend to integrate the separate dedicated product support team for our live chat software into our support organization.
+
+Technology
+
+The technology infrastructure used for our customer service platform and live chat software is designed to provide an available and scalable multi-tenant cloud-based platform with industry-standard security measures. We utilize industry leading hardware and software components to provide for and enable the rapid growth of our business. We employ virtualization to maximize utilization where appropriate. Maintaining the integrity and security of our technology infrastructure is critical to our business, and as such we leverage industry-standard security and monitoring tools to ensure performance across our network.
+
+The architecture and deployment of our customer service platform and live chat software are described and guided by the key characteristics below:
+
+&#160;
+
+&#183; 
+
+Reliability. Our customers are highly dependent on our customer service platform, which is designed to be available 24 hours a day, 365 days a year. Servers and software components are replicated to ensure fault-tolerance and high availability. Customer data is backed up and is stored in remote data centers. We regularly report to customers on platform availability and technical operations matters through our website and social media alerts. 
+
+&#160;
+
+&#183; 
+
+Scalability. Our application infrastructure is highly scalable and regularly processes more than 100 million data driven requests that each require the processing of specific data, on a daily basis. 
+
+&#160;
+
+&#183; 
+
+Security. Our platform hosts a large quantity of customer data. We maintain a comprehensive security program designed to help safeguard the security and integrity of our customers&#8217; data, which includes both organizational and technical measures such as perimeter security, industry standard intrusion detection systems, security protocols, authentication of customers and employees prior to accessing our platform, and testing of each released update before deployment. We regularly review our security program. In add ition, we regularly obtain third-party security audits and examinations of our technical operations and practices covering data security, including a Statement on Standard Attestation Engagement No. 16 (SSAE16), Service Organization Controls #2 (SOC 2) Typ e I I Attestation and International Organization for Standardization 27001:2013 certification . 
+
+We originally utilized third-party managed hosting facilities located in the United States exclusively for hosting our customer service platform. Beginning in 2012, we added use of third-party data centers in which we lease space and where we manage our own hosting and network equipment, or self-managed colocation data centers. We currently operate out of four third-party data centers in which we lease space and where we manage our own hosting and network equipment, or self-managed colocation data centers, located in California, Virginia, Ireland, and Germany. We intend to increase capacity in self-managed colocation data centers and/or with third-party managed hosting services over time to support our growth.
+
+Our self-managed and third-party managed hosting services utilized for our platform provide both physical security measures, including year-round manned security, biometric access controls and video surveillance systems, and systems security measures, including firewalls, environmental controls, and redundant power and Internet connectivity. These facilities have SSAE16 or ISO 27001 attestations or equivalent certifications with respect to service availability and information security management.
+
+We utilize managed hosting facilities located in the United States to host our analytics software. In the future, we intend to conform our analytics software to the technical and other operational and security measures applicable to our customer service platform and live chat software.
+
+Research and Development
+
+Our research and development organization is responsible for the development, design, and testing of all aspects of our platform and other products. We invest heavily in these efforts to continuously improve and innovate. In addition to our hosted software solution, we have developed multi-functional APIs that we utilize to build our products as well as facilitate integrations of our products with third-party applications.
+
+Our global research and development team is based in San Francisco, California; Copenhagen, Denmark; Melbourne, Australia; Dublin, Ireland; Singapore; and Montpelier, France. To foster rapid innovation, our team is further apportioned into smaller, agile development teams. 
+
+We deploy new features, functionality, and technologies across our products through weekly software releases or updates in order to minimize disruption and provide for constant improvement.
+
+To create a roadmap that meets our customers&#8217; needs, we emphasize collaboration during the development process. Customers provide input through feedback forums, dialogue with our product support team, and feature utilization. As a result of using our platform internally to support our customers, we also develop new or improved features based on our employees&#8217; feedback.
+
+As of December 31, 2015, we had 324 employees in our research and development organization. Our research and development expenses were $62.6 million, $36.4 million and $15.3 million for the years ended December 31, 2015, 2014, and 2013, respectively.
+
+Competition
+
+There are a number of established and emerging competitors in the broader customer service software market. This market is fragmented, rapidly evolving, and highly competitive, with relatively low barriers to entry in some segments. We consider the principal competitive differentiators in our market to include:
+
+&#160;
+
+&#183; 
+
+Ease-of-deployment and use; 
+
+&#160;
+
+&#183; 
+
+Enablement of customer communications across channels; 
+
+&#160;
+
+&#183; 
+
+Availability of self-service options; 
+
+&#160;
+
+&#183; 
+
+Data analytics and performance recommendations; 
+
+&#160;
+
+&#183; 
+
+Mobile and multi-device capabilities; 
+
+&#160;
+
+&#183; 
+
+Proactive outreach tools; 
+
+&#160;
+
+&#183; 
+
+Complete customer profiles; 
+
+&#160;
+
+&#183; 
+
+Customization and integration with third-party applications; 
+
+&#160;
+
+&#183; 
+
+Brand recognition and thought leadership; and 
+
+&#160;
+
+&#183; 
+
+Total cost of ownership for the customer (including software updates, ongoing maintenance, and consultant fees). 
+
+While we believe that we successfully compete with respect to these dynamics, given the large number, disparate sizes and varying areas of focus of other customer service software companies with which we compete, we may not always compare favorably with respect to some or all of the foregoing factors.
+
+For small to medium-sized organizations, we often compete with general use computer applications and other tools that organizations have adapted for customer service, including shared accounts for email communication, phone banks for voice communication, and pen and paper, text editors, and spreadsheets for tracking and management. For larger organizations, we compete with custom software systems and large enterprise software vendors, including salesforce.com, Inc., Oracle Corporation, Verint Systems, Inc., and Microsoft Corporation. Additionally, for organizations seeking software to support employee service and other internal use cases, we compete with companies such as ServiceNow, Inc., BMC Software, Inc., Atlassian Pty Ltd, and Hewlett-Packard Enterprise Co. In addition, we compete with a number of smaller SaaS providers with focused customer service applications, including desk.com (a salesforce.com service), Kayako Helpdesk Pvt. Ltd., Freshdesk, Inc., Brightwurks, Inc. (Help Scout), SupportBee, Inc., and Tenmiles Technologies Pvt. Ltd. (Happy Fox). We also compete with a number of providers of live chat software, including LivePerson, Inc, BoldChat (a LogMeIn, Inc. service), Velaro, Inc., SnapEngage, LLC, Habla, Inc. (Olark), and LiveChat, Inc. and a number of providers of analytics software, including Tableau Software, Inc., Looker Data Sciences, Inc., and Domo, Inc. Pricing pressures and increased competition generally could result in reduced sales, reduced margins, losses or the failure of our customer service platform and live chat software to achieve or maintain more widespread market acceptance, any of which could harm our business.
+
+In order to maintain and improve our competitive position in the market, we remain focused in our development, operations, and sales and marketing efforts on evolving customer service needs of all organizations.
+
+Intellectual Property
+
+We rely on a combination of patent, trade secret, copyright, and trademark laws, a variety of contractual arrangements, such as license agreements, assignment agreements, confidentiality and non-disclosure agreements, and confidentiality procedures and technical measures to gain rights to and protect the intellectual property used in our business.
+
+We have developed a patent program, and a strategy to identify, apply for, and secure patents for innovative aspects of our platform and technology. We have two issued U.S. patents and five U.S. patent applications pending. We also have four pending patent applications in jurisdictions outside of the United States. We intend to pursue additional patent protection to the extent we believe it would be beneficial and cost-effective.
+
+We actively pursue registration of our trademarks, logos, service marks, and domain names in the United States and in other key jurisdictions. We are the registered holder of a variety of United States and international domain names that include the term Zendesk, Zopim or certain variations. We use several trademarks for our products and services, including &#8220;Zendesk,&#8221; &#8220;Zopim,&#8221; and several logos and images.
+
+We also rely on certain intellectual property rights that we license from third parties, including under certain open source licenses. Though such third-party technologies may not continue to be available to us on commercially reasonable terms, we believe that alternative technologies would be available to us.
+
+Our policy is to require employees and independent contractors to sign agreements assigning to us any inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf and agreeing to protect our confidential information, and all of our key employees and contractors have done so. In addition, we generally enter into confidentiality agreements with our vendors and customers. We also control and monitor access to, and distribution of our software, documentation, and other proprietary information.
+
+Culture and Employees 
+
+As a company we are highly focused on our customers and their success. To support this focus, we highly value simplicity, agility, sincerity, as well as a sense of humor and humility often absent from enterprises that sell business software. These values guide our communication, work, and company culture and are a cornerstone of the team of employees that we have assembled and seek to develop. We are a global and diverse group of individuals that strive to balance work with play and a focus on big-scale thinking.
+
+We believe strongly in our obligation to participate in and improve the communities where we work and live. We do this through an active program of corporate social responsibility. In 2015, we launched the Zendesk Neighbor Foundation, a nonprofit organization to provide financial and strategic support to organizations that operate near our offices across the world. We have committed to provide a $1 donation to the foundation for every new agent added during the first year of a new subscription to paid subscription plans on our customer service platform and to our live chat software. In addition, we have entered into and implemented a series of community benefits agreements, including extensive volunteer efforts, workforce development and training, financial support for critical community programs, and promotion of local arts and culture, with the communities in which our offices are located and our employees live and work.
+
+As of December 31, 2015, we had a total of 1,268 employees, including 532 employees located outside the United States. Although we have statutory employee representation obligations in certain countries, our U.S. employees are not represented by a labor union. We have not experienced any work stoppages, and we consider our relations with our employees to be good.
+
+Regulatory Considerations
+
+The legal environment of Internet-based businesses is evolving rapidly in the United States and elsewhere. The manner in which existing laws and regulations are applied in this environment, and how they will relate to our business in particular, both in the United States and internationally, is often unclear. For example, we sometimes cannot be certain which laws will be deemed applicable to us given the global nature of our business, including with respect to such topics as data privacy and security, pricing, credit card fraud, advertising, taxation, content regulation, and intellectual property ownership and infringement.
+
+Our customers, and those with whom they communicate using our customer service platform and live chat software, upload and store customer service and other data onto our platform and provide access to their data sources to our analytics software, generally without any restrictions imposed by us. This presents legal challenges to our business and operations, such as rights of privacy or intellectual property rights related to the content loaded onto our platform. Both in the United States and internationally, we must monitor and comply with a host of legal concerns regarding the data stored and processed on our platform or within our analytics software as well as the operation of our business. These laws include, without limitation, the following:
+
+&#160;
+
+&#183; 
+
+Data Privacy and Security Laws. Data privacy and security with respect to the collection of personally identifiable information, or PII, continues to be the focus of worldwide legislation and regulation. We are subject to data privacy and security regulation by data protection authorities in countries throughout the world, by the U.S. federal government and by the states in which we conduct our business. In recent years, there have been a number of well-publicized data breaches involving the improper use and disclosure of individuals&#8217; personal information of individuals. Many governing authorities have responded to these incidents by enacting laws requiring holders of personal information to maintain safeguards and to take certain actions in response to a data breach, such as providing prompt notification of the breach to affected individuals and public officials or amending existing laws to expand compliance obligations. 
+
+In the European Union, where U.S. companies must meet specified privacy and security standards, Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data established in the European Union, or the Data Protection Directive, and data protection laws of each of the European Member countries require comprehensive information privacy and security protections for consumers with respect to PII collected about them. We have in the past relied on adherence to the U.S. Department of Commerce&#8217;s Safe Harbor Privacy Principles and compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks as agreed to and set forth by the U.S. Department of Commerce, and the European Union and Switzerland, which established a means for legitimating the transfer of personally identifiable information, or PII, by U.S. companies doing business in Europe from the European Economic Area to the U.S. As a result of a recent opinion of the European Union Court of Justice regarding the adequacy of the U.S.-EU Safe Harbor Framework, the U.S.-EU Safe Harbor Framework is no longer deemed to be a valid method to ensure compliance with restrictions set forth in the Data Protection Directive and data protection legislation of individual member states restricting the transfer of data outside of the European Economic Area. On February 2, 2016, European Union and U.S. officials announced an agreement on a new framework, the EU-U.S. Privacy Shield, to replace the U.S.-EU Safe Harbor Framework. Details regarding the new EU-U.S. Privacy Shield have not been finalized, published, or interpreted. We have and expect to continue to engage in efforts to ensure that data transfers from the European Economic Area comply with the Data Protection Directive and the data protection legislation of individual member states.
+
+Certain laws and regulations that protect the collection, use and disclosure of particular types of data may hinder our ability to provide services to customers and potential customers subjected to such laws. For example , the Gramm-Leach-Bliley Act of 1999 imposes specific obligations on companies that process certain financial data on behalf of covered entities. We do not currently certify that our customer service platform , live chat software , or analytics software complies with these regulations. In order to compete in such highly regulated markets we will have to invest in additio nal resources, establish processes, and introduce additional measures to satisfy regulatory requirements applicable to companies serving such covered entities. 
+
+&#160;
+
+&#183; 
+
+Copyrights. U.S. and international copyright and trademark laws protect the rights of third parties from infringement of their intellectual property. Our customers and those with whom they communicate on our customer service platform can generally use our customer service platform to upload and present a wide variety of content. We maintain an active copyright infringement policy and respond to takedown requests by third-party intellectual property right owners that might result from content uploaded to our customer service platform. As our business expands to other countries, we must also respond to regional and country-specific intellectual property considerations, including takedown and cease-and-desist notices in foreign languages, and we must build infrastructure to support these processes. The Digital Millennium Copyright Act, or DMCA, also applies to our business. This statute provides relief for claims of circumvention of copyright-protected technologies but includes a safe harbor that is intended to reduce the liability of online service providers for listing or linking to third-party websites or hosting content that infringes copyrights of others. The copyright infringement policies that we have implemented for our customer service platform and live chat software are intended to satisfy the DMCA safe harbor. 
+
+Geographic Information
+
+For a description of our revenue and long-lived assets by geographic location, see Note 12 of the Notes to our Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K.
+
+Additional Information 
+
+Our website is located at http://www.zendesk.com, and our investor relations website is located at http://investor.zendesk.com. Copies of our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, are available, free of charge, on our investor relations website as soon as reasonably practicable after we file such material electronically with or furnish it to the Securities and Exchange Commission, or the SEC. The SEC also maintains a website that contains our SEC filings. The address of the site is http://www.sec.gov. Further, a copy of this Annual Report on Form 10-K is located at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. Zendesk has used, and intends to continue to use, our investor relations website, as well as our Twitter accounts (@Zendesk), as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD. Further corporate governance information, including our certificate of incorporation, bylaws, governance guidelines, board committee charters, and code of business conduct and ethics, is also available on our investor relations website under the heading &#8220;Corporate Governance.&#8221; The contents of our websites are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only.
+
+&#160;
+
+&#160;
+

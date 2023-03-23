@@ -1,0 +1,366 @@
+ ITEM 1. 
+
+BUSINESS 
+
+ANSYS, a Delaware corporation formed in 1994, develops and globally markets engineering simulation software and services widely used by engineers, designers, researchers and students across a broad spectrum of industries and academia, including aerospace and defense, automotive, industrial equipment, electronics, biomedical, energy, materials and chemical processing, and semiconductors. Headquartered south of Pittsburgh, Pennsylvania, the Company and its subsidiaries employed approximately 2,800 &#32;people as of December 31, 2015 . The Company focuses on the development of open and flexible solutions that enable users to analyze designs directly on the desktop, providing a common platform for fast, efficient and cost-conscious product development, from design concept to final-stage testing and validation. The Company distributes its ANSYS &#174; &#32;suite of simulation technologies through a global network of independent resellers and distributors (collectively, channel partners) and direct sales offices in strategic, global locations. It is the Company's intention to continue to maintain this hybrid sales and distribution model. 
+
+The Company's product portfolio consists of the following: 
+
+Simulation Platform: ANSYS &#174; &#32;Workbench &#8482; &#160; 
+
+ANSYS Workbench is the framework upon which the Company's suite of advanced engineering simulation technologies is built. The innovative project schematic view ties together the entire simulation process, guiding the user through complex multiphysics analyses with drag-and-drop simplicity. With bi-directional computer-aided design ("CAD") connectivity, powerful highly-automated meshing, a project-level update mechanism, pervasive parameter management and integrated optimization tools, the ANSYS Workbench platform delivers unprecedented productivity, enabling Simulation-Driven Product Development &#8482; . 
+
+Simulation Process and Data Management 
+
+ANSYS Engineering Knowledge Manager &#8482; &#32;("ANSYS EKM") is a comprehensive solution for simulation-based process and data management challenges. ANSYS EKM provides solutions and benefits to all levels of a company, enabling an organization to address the critical issues associated with simulation data, including backup and archival, traceability and audit trail, process automation, collaboration and capture of engineering expertise, and intellectual property protection. 
+
+High-Performance Computing 
+
+The Company's high-performance computing ("HPC") product suite enables enhanced insight into product performance and improves the productivity of the design process. The HPC product suite delivers cross-physics parallel processing capabilities for the full spectrum of the Company's simulation software by supporting structures, fluids, thermal and electronics simulations. This product suite decreases turnaround time for individual simulations, allowing users to consider multiple design ideas and make the right design decisions early in the design cycle. 
+
+Geometry Interfaces 
+
+The Company offers comprehensive geometry handling solutions for engineering simulation in an integrated environment with direct interfaces to all major CAD systems, support of additional readers and translators, and an integrated geometry modeler exclusively focused on analysis. 
+
+Meshing 
+
+Creating a mesh that transforms a physical model into a mathematical model is a critical and foundational step in almost every engineering simulation study. Accurate meshing is especially challenging today with increasing product design complexity and heightened expectations of product performance. The Company's meshing technology provides a means to balance these requirements, obtaining the right mesh for each simulation in the most automated way possible. The technology is built on the strengths of world-class leading algorithms that are integrated in a single environment to produce extremely robust and reliable meshing. 
+
+Customization 
+
+ANSYS Workbench enables companies to create a customized simulation environment to deploy specialized simulation best practices and automations unique to their product development process or industry. With ANSYS ACT, end users or ANSYS partners can modify the user interface, process simulation data or embed third-party applications to create specialized tools based on ANSYS Workbench. 
+
+Structures 
+
+The Company's structural analysis product suite offers simulation tools for product design and optimization that increase productivity, minimize physical prototyping and help to deliver better and more innovative products in less time. These tools tackle real-world analysis problems by making product development less costly and more reliable. In addition, these tools have capabilities that cover a broad range of analysis types, elements, contacts, materials, equation solvers and coupled physics capabilities all targeted toward understanding and solving complex design problems. 
+
+Explicit Dynamics 
+
+The Company's explicit dynamics product suite simulates events involving short duration, large strain, large deformation, fracture, complete material failure or structural problems with complex interactions. This suite is ideal for simulating physical events that occur in a short period of time and may result in material damage or failure. Such events are often difficult or expensive to study experimentally. 
+
+Composites 
+
+Composites blend two or more materials that possess very different properties. The Company's composite analysis and optimization technology efficiently defines materials, plies and stacking sequences, and also offers a wide choice of state-of-the-art failure criteria. The Company's composite software provides all necessary functionalities for finite element analysis of layered composites structures. 
+
+Fluids 
+
+The Company's fluids product suite enables modeling of fluid flow and other related physical phenomena. Fluid flow analysis capabilities provide all the tools needed to design and optimize new fluids equipment and to troubleshoot already existing installations. The suite contains general-purpose computational fluid dynamics software and specialized products to address specific industry applications. 
+
+Electronics 
+
+The Company's electronics product suite provides field simulation software for designing high-performance electronic and electromechanical products. The software streamlines the design process and predicts performance of mobile communication and internet-access devices, broadband networking components and systems, integrated circuits ("ICs") and printed circuit boards ("PCBs"), as well as electromechanical systems such as automotive components and power electronics equipment, all prior to building a prototype. 
+
+Semiconductors 
+
+Advancements in semiconductor design and manufacturing enable smaller electronic architectures. Shrinking geometries, especially in the emerging 3D IC, FinFET and stacked-die architectures, reveal design challenges related to power and reliability. The Company's power analysis and optimization software suite manages the power budget, power delivery integrity and power-induced noise in an electronic design, from initial prototyping to system sign off. These solutions deliver accuracy with correlation to silicon measurement; the capacity to handle an entire electronic system, including IC, package and PCB, efficiency for ease-of-debug and fast turnaround time; and comprehensiveness to facilitate cross-domain communications and electronic ecosystem enablement. 
+
+Multiphysics 
+
+The Company's Workbench framework allows engineers and designers to incorporate the compounding effects of multiple physics into a virtual prototype of their design and simulate its operation under real-world conditions. As product architectures become smaller, lighter and more complex, companies must be able to accurately predict how products will behave in real-world environments, where multiple types of physics interact in a coupled way. ANSYS multiphysics software enables engineers and scientists to simulate the interactions between structures, heat transfer, fluids and electronics all within a single, unified engineering simulation environment. 
+
+Embedded Software 
+
+The Company's SCADE product suite is a comprehensive solution for embedded software simulation, code production and automated certification. It has been developed specifically for use in critical systems with high dependability requirements, including aerospace, rail transportation, nuclear, industrial applications and, more recently, automotive. SCADE software supports the entire development workflow, from requirements analysis and design, through verification, implementation and deployment. SCADE solutions easily integrate with each other and the rest of the ANSYS product suite, allowing for development optimization and increased communication among team members. 
+
+Systems 
+
+The Company delivers a unique and comprehensive system simulation capability that is ideal for the design of today's increasingly automated products. This collaborative environment leverages the Company's multiphysics, multibody dynamics, circuit and embedded software simulation capabilities, enabling users to simulate the complex interactions between components, circuits and control software within a single environment. These technologies provide a complete view into predicted product performance, which creates greater design confidence for engineers. 
+
+3-D Direct Modeling 
+
+The Company's 3-D direct modeling technology provides a CAD-neutral environment to modify and prepare geometry for simulation. This approach allows engineers to dramatically reduce the pre-processing step in simulation, and ultimately delivers product design insights much faster in the earliest stages of development. 
+
+Academic 
+
+The Company's academic product suite provides a highly scalable portfolio of academic products based on several usage tiers, including associate, research and teaching. Each tier includes various noncommercial products that bundle a broad range of physics and advanced coupled field solver capabilities. The academic product suite provides entry-level tools intended for class demonstrations and hands-on instruction. It includes flexible terms of use and more complex analysis suitable for doctoral and post-doctoral research projects. The Company also provides a special product at no cost to students that is suitable for use away from the classroom and in non-commercial applications. 
+
+PRODUCT DEVELOPMENT 
+
+The Company makes significant investments in research and development and emphasizes frequent, integrated product releases. The Company's product development strategy centers on ongoing development and innovation of new technologies to increase productivity and to provide engineering simulation solutions that customers can integrate into enterprise-wide product lifecycle management ("PLM") systems. The Company's product development efforts focus on extensions of the full product line with new functional modules, further integration with CAD, electronic CAD ("ECAD"), PLM products and the development of new products. The Company's products run on the most widely used engineering computing platforms and operating systems, including Windows, Linux and most UNIX workstations. 
+
+During the year ended December 31, 2015 &#32;and in the period from January 1, 2016 until the filing date, the Company completed the following major product development activities and releases: 
+
+&#8226; 
+
+In January 2016, the Company released ANSYS 17.0. HPC solutions, with demonstrable order of magnitude speed-ups, were made across fluids, structures and electromagnetic simulation. Engineering teams can leverage this power from their desktop or Cloud environments. Significant innovation was delivered across all physics domains in ANSYS 17.0 as well as in the area of complete virtual prototyping, allowing for full systems simulations. The ANSYS Workbench platform expanded its integrated interface for customization to cover virtually the entire portfolio as well as third-party solutions, sustaining its leadership as the industry's broadest engineering simulation platform. 
+
+&#8226; 
+
+In December 2015, the Company released a version of ANSYS SpaceClaim&#8482; with new features to empower users to quickly and easily manipulate 3-D models across the entire product development cycle. This will decrease the time needed to reverse-engineer parts or prepare models for 3-D printing. At the same time, ANSYS FENSAP-ICE&#8482; and ANSYS FENSAP-ICE Turbo&#8482; were launched with comprehensive state-of-the-art capabilities for aircraft icing simulation. These releases provide integration with ANSYS CFX &#174; &#32;and enable aerospace engineers to predict in-flight icing for aircraft, engines, probes and components more efficiently and accurately. 
+
+&#8226; 
+
+In August 2015, the Company announced the release of ANSYS 16.2, which features enhancements to the Company's multiphysics and systems capabilities. New capabilities include heat transfer and thermal stress, gas flows, and structural deformation and stress. The release also features improvements in systems engineering, workflow and automation for developing embedded software systems for avionics, as required by the aerospace and defense industries. New capabilities were added in the ANSYS Workbench platform and ANSYS ACT to customize simulation tools to accelerate the overall design process and workflows. In addition, the release enhances the abilities of ANSYS Simplorer &#174; , which can now assemble and simulate electrical, electronic, thermo-fluid, mechanical and embedded software components. 
+
+&#8226; 
+
+In May 2015, ANSYS 16.1 and ANSYS Enterprise Cloud&#8482; were launched to allow customers to deploy consistent, enterprise-specific simulation workflows and data to more engineers, regardless of their geographic location or business unit. The new solution, running on Amazon Web Services ("AWS"), simplifies and accelerates the transition to cloud-based simulation by providing a reference architecture for end-to-end simulation that can be deployed within days, which minimizes risk while boosting productivity. 
+
+&#8226; 
+
+In January 2015, the Company announced the release of ANSYS 16.0 with major advancements across the Company's entire product portfolio. The release includes capabilities to verify electronics reliability and performance throughout the design process and complex electronics industry supply chains. It also includes enhancements to help engineers reduce product weight while improving structural performance and design aesthetics. Modeling capabilities were extended to enable hardware and software engineers to define the intricacies of a system's and its subsystems' operations. In addition, engineers are now able to study more complex designs and physical phenomena involving fluid flow in less time. This was also the first release of ANSYS AIM &#174; , the first integrated and comprehensive multiphysics simulation environment designed for engineers. 
+
+The Company's total research and development expenses were $168.8 million , $165.4 million &#32;and $151.4 million &#32;in 2015 , 2014 &#32;and 2013 , respectively, or 17.9% , 17.7% &#32;and 17.6% &#32;of total revenue, respectively. As of December 31, 2015 , the Company's product development staff consisted of approximately 1,000 &#32;employees, most of whom hold advanced degrees and have industry experience in engineering, mathematics, computer science or related disciplines. The Company has traditionally invested significant resources in research and development activities and intends to continue to make investments in expanding the ease of use and capabilities of its broad portfolio of simulation software products. More specifically, this includes the evolution of its ANSYS Workbench platform, expansion of high-performance computing capabilities, ANSYS AIM immersive user interface, offerings on ANSYS Enterprise Cloud, robust design and ongoing integration of acquired technology. 
+
+PRODUCT QUALITY 
+
+The Company's employees generally perform product development tasks according to predefined quality plans, procedures and work instructions. Certain technical support tasks are also subject to a quality process. These plans define for each project the methods to be used, the responsibilities of project participants and the quality objectives to be met. The majority of software products are developed under a quality system that is certified to the ISO 9001:2008 standard. The Company establishes quality plans for its products and services, and subjects product designs to multiple levels of testing and verification in accordance with processes established under the Company's quality system. 
+
+SALES AND MARKETING 
+
+The Company distributes and supports its products through a global network of independent channel partners, as well as through its own direct sales offices. This channel partner network provides the Company with a cost-effective, highly-specialized channel of distribution and technical support. It also enables the Company to draw on business and technical expertise from a global network, provides relative stability to the Company's operations to offset geography-specific economic trends and provides the Company with an opportunity to take advantage of new geographic markets. The Company derived 24.2% , 24.9% &#32;and 25.3% &#32;of its total revenue through the indirect sales channel for the years ended December 31, 2015 , 2014 &#32;and 2013 , respectively. 
+
+The channel partners sell ANSYS products to new customers, expand installations within the existing customer base, offer training and consulting services, and provide the first line of ANSYS technical support. The Company's channel partner 
+
+certification process helps to ensure that each channel partner has the ongoing capability to adequately represent the Company's expanding product lines and to provide an acceptable level of training, consultation and customer support. 
+
+The Company also has a direct sales management organization in place to develop an enterprise-wide, focused sales approach and to implement a worldwide major account strategy. The sales management organization also functions as a focal point for requests to ANSYS from the channel partners and provides additional support in strategic locations through the presence of direct sales offices. 
+
+During 2015 , the Company continued to invest in its existing domestic and international strategic sales offices. In total, the Company's direct sales organization comprises 1,300 &#32;employees who are responsible for the sales, technical support, consulting services, marketing initiatives and administrative activities designed to support the Company's overall revenue growth and expansion strategies. 
+
+The Company's products are utilized by organizations ranging in size from small consulting firms to the world's largest industrial companies. No single customer accounted for more than 5% of the Company's revenue in 2015 , 2014 &#32;or 2013 . 
+
+Information with respect to foreign and domestic revenue may be found in Note 17 to the consolidated financial statements in Part IV, Item 15 of this Annual Report on Form 10-K and in the section entitled &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; in Part II, Item 7 of this Annual Report on Form 10-K. 
+
+STRATEGIC ALLIANCES AND MARKETING RELATIONSHIPS 
+
+The Company has established and continues to pursue strategic alliances with advanced technology suppliers, hardware vendors, specialized application developers, and CAD, ECAD and PLM providers. The Company believes that these relationships facilitate accelerated incorporation of advanced technology into the Company's products, provide access to new customers, expand the Company's sales channels, develop specialized product applications and provide direct integration with leading CAD, electronic design automation ("EDA"), product data management and PLM systems. 
+
+The Company has technical and marketing relationships with leading CAD vendors, such as Autodesk, PTC and Siemens Product Lifecycle Management Software, to provide direct links between products. These links facilitate the transfer of electronic data models between the CAD systems and ANSYS products. 
+
+Similarly, the Company maintains marketing and software development relationships with leading EDA software companies, including Cadence Design Systems, Synopsys, Mentor Graphics, Zuken and National Instruments. These relationships support transfer of data between electronics design and layout packages and the ANSYS electronics simulation portfolio. 
+
+The Company has established various initiatives with partners to increase customers' engineering productivity by simplifying and increasing the adoption of HPC. For example, the Company has partnered with companies like Fujitsu, HPE and Lenovo, and developed turn-key HPC appliances which are out-of-the-box, plug-and-simulate, externally managed HPC clusters, optimized for ANSYS applications, and pre-configured with ANSYS software and job management software. In addition, the Company joined the OpenHPC community to enable customers to reduce risk and to save time with specifying, deploying and managing HPC systems. In 2015, ANSYS and Cray, working in conjunction with the supercomputing centers NCSA and NERSC, established a new simulation world record by scaling ANSYS Fluent &#174; &#32;to 129,000 compute cores. 
+
+In the area of cloud computing, the Company has tightened its partnership with Amazon Web Services by providing enterprise customers a reference architecture for end-to-end simulation that can be globally deployed in a virtual private cloud on demand within days. Due to the Company's participation in the AWS Partner Network, the Company was able to work with other partners who had extensive expertise running workloads in the Cloud, such as Cycle Computing and NICE Software, to develop the new ANSYS Enterprise Cloud solution. In addition, the Company strengthened its cloud-hosting service partnerships with Atos, CPU 24/7, Gompute, Nimbix, R Systems and Penguin Computing by further improving best practices for executing engineering simulation in the Cloud. 
+
+The Company's Enhanced Solution Partner Program actively encourages specialized developers of software solutions to use the Company's technology as a development platform for their applications and provides customers with enhanced functionality related to their use of the Company's software. With over 100 active enhanced solution partnerships, spanning a wide range of technologies, including optimization, electronics, mechanical simulation, fluid simulation and CAD, this partner ecosystem extends the depth and breadth of the Company's technology offerings. 
+
+The Company has a software license agreement with Livermore Software Technology Corporation ("LSTC") whereby LSTC has provided LS-DYNA software for explicit dynamics solutions used in applications such as crash test simulations in automotive and other industries. Under this arrangement, LSTC assists in the integration of the LS-DYNA software with the 
+
+Company's pre- and post-processing capabilities and provides updates and problem resolution in return for royalties from sales of the ANSYS/LS-DYNA combined product. 
+
+The Company has a software license agreement with HBM that provides the advanced fatigue capabilities of nCode DesignLife&#8482;, a leading durability software from HBM. ANSYS nCode DesignLife&#8482; technology leverages the open architecture of the ANSYS platform and enables mechanical engineers to more easily address complex product life and durability issues before a prototype is built. 
+
+The Company has a software license agreement with NICE that targets the emerging paradigm of data-center-based deployment of simulation. EngineFrame from NICE is bundled with ANSYS EKM and facilitates running interactive ANSYS applications on remote data centers. 
+
+COMPETITION 
+
+The Company believes that the principal factors affecting sales of its software include ease of use, breadth and depth of functionality, flexibility, quality, ease of integration with other software systems, file compatibility across computer platforms, range of supported computer platforms, performance, price and total cost of ownership, customer service and support, company reputation and financial viability, and effectiveness of sales and marketing efforts. 
+
+The Company continues to experience competition across all markets for its products and services. Some of the Company's current and possible future competitors have greater financial, technical, marketing and other resources than the Company, and some have well-established relationships with current and potential customers of the Company. The Company's current and possible future competitors also include firms that have or may in the future elect to compete by means of open source licensing. These competitive pressures may result in decreased sales volumes, price reductions and/or increased operating costs, and could result in lower revenues, margins and net income. 
+
+PROPRIETARY RIGHTS AND LICENSES 
+
+The Company regards its software as proprietary and relies on a combination of trade secret, copyright, patent and trademark laws, license agreements, nondisclosure and other contractual provisions, and technical measures to protect its proprietary rights in its products. The Company distributes its software products under software license agreements that grant customers nonexclusive licenses, which are typically nontransferable, for the use of the Company's products. License agreements for the Company's products are directly between the Company and end users. Use of the licensed software product is restricted to specified sites unless the customer obtains a multi-site license for its use of the software product. Software security measures are also employed to prevent unauthorized use of the Company's software products and the licensed software is subject to terms and conditions prohibiting unauthorized reproduction. Customers may purchase a perpetual license of the technology with the right to annually purchase ongoing maintenance, technical support and upgrades, or may lease the product on a fixed-term basis for a fee that includes the license, maintenance, technical support and upgrades. 
+
+The Company licenses its software products utilizing a combination of web-based and hard-copy license terms and forms. For certain software products, the Company primarily relies on "click-wrapped" licenses. The enforceability of these types of agreements under the laws of some jurisdictions is uncertain. 
+
+The Company also seeks to protect the source code of its software as a trade secret and as unpublished copyrighted work. The Company has obtained federal trademark registration protection for ANSYS and other marks in the U.S. and foreign countries. Additionally, the Company was awarded numerous patents by the U.S. Patent and Trademark Office, and has a number of patent applications pending. To the extent the Company does not choose to seek patent protection for its intellectual property, the Company primarily relies on the protection of its source code as a trade secret. 
+
+Employees of the Company have signed agreements under which they have agreed not to disclose trade secrets or confidential information. These agreements, where legally permitted, restrict engagement in or connection with any business that is competitive with the Company anywhere in the world while employed by the Company (and, in some cases, for specified periods thereafter) and state that any products or technology created by employees during their term of employment are the property of the Company. In addition, the Company requires all channel partners to enter into agreements not to disclose the Company's trade secrets and other proprietary information. 
+
+Despite these precautions, there can be no assurance that misappropriation of the Company's technology and proprietary information (including source code) will be prevented. Further, there can be no assurance that copyright, trademark, patent and trade secret protection will be available for the Company's products in certain jurisdictions, or that restrictions on the ability of employees and channel partners to engage in activities competitive with the Company will be enforceable. Costly and time-consuming litigation could be necessary in the future to enforce the Company's rights to its trade secrets and proprietary 
+
+information or to enforce its patent rights and copyrights, and it is possible that, in the future, the Company's competitors may be able to obtain the Company's trade secrets or to independently develop similar, unpatented technology. 
+
+The software development industry is characterized by rapid technological change. Therefore, the Company believes that factors such as the technological and creative skills of its personnel, new product developments, frequent product enhancements, name recognition and reliable product maintenance are also important to establishing and maintaining technology leadership in addition to the various legal protections of its technology that may be available. 
+
+The Company does not believe that any of its products infringe upon the proprietary rights of third parties. There can be no assurance, however, that third parties will not claim such infringement by the Company or its licensors or licensees with respect to current or future products. The Company expects that software suppliers will increasingly be subject to the risk of such claims as the number of products and suppliers continues to expand and the functionality of products continues to increase. Any such claims, with or without merit, could be time consuming, result in costly litigation, cause product release delays or require the Company to enter into royalty or licensing agreements. Such royalty or licensing agreements, if required, may not be available on terms acceptable to the Company. 
+
+SEASONAL VARIATIONS 
+
+The Company's business has experienced seasonality, including quarterly reductions in software sales resulting from slowdowns of customer activities during the summer months, particularly in Europe, as well as from the seasonal purchasing and budgeting patterns of the Company's global customers. The Company's revenue is typically highest in the fourth quarter. 
+
+DEFERRED REVENUE AND BACKLOG 
+
+Deferred revenue consists of billings made or payments received in advance of revenue recognition from software license and maintenance agreements. The deferred revenue on the Company's consolidated balance sheets does not represent the total value of annual or multi-year, noncancellable software license and maintenance agreements. The Company's backlog represents installment billings for periods beyond the current quarterly billing cycle and custom er orders received but not processed. The Company's deferred revenue and backlog as of December 31, 2015 &#32;and 2014 &#32;consisted of the following: 
+
+&#160; 
+
+Balance at December 31, 2015 
+
+(in thousands) 
+
+Total 
+
+&#160; 
+
+Current 
+
+&#160; 
+
+Long-Term 
+
+Deferred revenue 
+
+$ 
+
+379,740 
+
+&#160; 
+
+$ 
+
+364,644 
+
+&#160; 
+
+$ 
+
+15,096 
+
+Backlog 
+
+124,290 
+
+&#160; 
+
+47,015 
+
+&#160; 
+
+77,275 
+
+Total 
+
+$ 
+
+504,030 
+
+&#160; 
+
+$ 
+
+411,659 
+
+&#160; 
+
+$ 
+
+92,371 
+
+&#160; 
+
+Balance at December 31, 2014 
+
+(in thousands) 
+
+Total 
+
+&#160; 
+
+Current 
+
+&#160; 
+
+Long-Term 
+
+Deferred revenue 
+
+$ 
+
+345,305 
+
+&#160; 
+
+$ 
+
+332,664 
+
+&#160; 
+
+$ 
+
+12,641 
+
+Backlog 
+
+122,985 
+
+&#160; 
+
+41,390 
+
+&#160; 
+
+81,595 
+
+Total 
+
+$ 
+
+468,290 
+
+&#160; 
+
+$ 
+
+374,054 
+
+&#160; 
+
+$ 
+
+94,236 
+
+Revenue associated with deferred revenue and backlog that will be recognized in the subsequent twelve months is classified as current in the table above. 
+
+EMPLOYEES 
+
+As of December 31, 2015 , the Company employed approximately 2,800 &#32;people. At that date, there were also contract personnel and co-op students providing ongoing development services and technical support. Certain employees of the Company are subject to collective bargaining agreements and have local work councils. 
+
+ACQUISITIONS 
+
+The Company makes targeted acquisitions in order to support its long-term strategic direction, accelerate innovation, provide increased capabilities to its existing products, supply new products and services, expand its customer base and enhance its distribution channels. 
+
+The Company completed various acquisitions during the year ended December 31, 2015 &#32;to accelerate the development of new and innovative products to the marketplace while lowering design and engineering costs for customers. These acquisitions were not individually significant. The combined purchase price of the acquisitions was approximately $49.7 million , which included cash and equity. 
+
+During the years ended December 31, 2014 &#32;and 2013 , the combined purchase price for acquisitions was $104.0 million &#32;and $8.1 million , respectively. The acquisitions during these years are further described in the table below: 
+
+Date of Closing 
+
+&#160; 
+
+Company 
+
+&#160; 
+
+Details 
+
+April 30, 2014 
+
+&#160; 
+
+SpaceClaim Corporation 
+
+&#160; 
+
+SpaceClaim Corporation ("SpaceClaim"), a leading provider of 3-D modeling technology, was acquired for $85.0 million. SpaceClaim's software provides customers with a powerful and intuitive 3-D direct modeling solution to author new concepts and then leverage the power of simulation to rapidly iterate on these designs to drive innovation. 
+
+January 3, 2014 
+
+&#160; 
+
+Reaction Design 
+
+&#160; 
+
+Reaction Design, a leading developer of chemistry simulation software, was acquired for $19.1 million. Reaction Design's solutions enable transportation manufacturers and energy companies to rapidly achieve their clean technology goals by automating the analysis of chemical processes via computer simulation and modeling solutions. 
+
+April 2, 2013 
+
+&#160; 
+
+EVEN - Evolutionary Engineering AG 
+
+&#160; 
+
+EVEN - Evolutionary Engineering AG ("EVEN"), a leading provider of composite analysis and optimization technology relying on cloud computing, was acquired for $8.1 million. The acquisition of EVEN strengthens the Company's simulation solutions for composites technology. The use of composites has become a standard in manufacturing in a wide range of industries due to its combination of light weight, high strength and outstanding flexibility. 
+
+For further information on the Company's business combinations, see Note 3 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+AVAILABLE INFORMATION 
+
+The Company's website is www.ansys.com . The Company also maintains a presence on social media through its blog at www.ansys-blog.com , Facebook page at www.facebook.com/ANSYSInc , Twitter account at twitter.com/ANSYS, YouTube account at www.youtube.com/user/ansysinc &#32;and LinkedIn page at www.linkedin.com/company/ansys-inc . The Company makes available on its website, free of cha rge, Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, interactive data files, Current Reports on Form 8-K, reports filed pursuant to Section 16 and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after such materials are electronically filed or furnished to the Securities and Exchange Commission ("SEC "). The Company's reports may also be obtained by accessing the EDGAR database of the SEC's website at www.sec.gov . In addition, the Company has posted the charters for its Audit Committee, Compensation Committee, Nominating and Corporate Governance Committee, and Strategy Committee, as well as the Company's Code of Business Conduct and Ethics, Standard Business Practices and Corporate Governance Guidelines on its website. Information posted on the Company's website or social media accounts is not incorporated by reference in this Annual Report on Form 10-K. 
+

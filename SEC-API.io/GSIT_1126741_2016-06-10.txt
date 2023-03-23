@@ -1,0 +1,462 @@
+ Item 1. Business 
+
+Overview 
+
+For many years we have developed and marketed high performance memory products, including "Very Fast" static random access memory, or SRAM, and low latency dynamic random access memory, or LLDRAM, that are incorporated primarily in high-performance networking and telecommunications equipment, such as routers, switches, wide area network infrastructure equipment, wireless base stations and network access equipment. We sell these products to leading original equipment manufacturer, or OEM, customers including Alcatel-Lucent, Cisco Systems and Huawei Technologies. In addition, we serve the ongoing needs of the military, industrial, test and measurement equipment, automotive and medical markets for high-performance SRAMs. Based on the performance characteristics of our products and the breadth of our product portfolio, we consider ourselves to be a leading provider of Very Fast SRAMs. We utilize a fabless business model, which allows us both to focus our resources on research and development, product design and marketing, and to gain access to advanced process technologies with only modest capital investment and fixed costs. 
+
+Subsequent to our acquisition of MikaMonu Group Ltd. (&#8220;MikaMonu&#8221;), discussed below, we have expanded our strategy to include the development of in-place associative computing solutions for applications in evolving new markets such as &#8220;big data&#8221; (including machine learning and deep convolutional neural networks (&#8220;CNNs&#8221;)), computer vision, and cyber security. 
+
+We were incorporated in California in 1995 under the name Giga Semiconductor, Inc. We changed our name to GSI Technology in December 2003 and reincorporated in Delaware in June 2004 under the name GSI Technology, Inc. Our principal executive offices are located at 1213 Elko Drive, Sunnyvale, California, 94089, and our telephone number is (408) 331-8800. 
+
+Recent Developments 
+
+Recent Acquisition 
+
+On November 23, 2015, we acquired all of the outstanding capital stock of privately held MikaMonu, a development-stage, Israel-based company that specializes in in-place associative computing for markets including 
+
+&#160;
+
+big data, computer vision and cyber security. MikaMonu, located in Tel Aviv, held 12 United States patents and a number of pending patent applications. &#160; 
+
+With the vast amount of data currently being generated, and the increasing demand for faster processing of that data, memory bus speeds are not keeping up with processor speeds. MikaMonu&#8217;s in-place associative computing technology addresses this issue by changing the concept of computing from serial data processing &#8211; where data is moved back and forth from the processor to the memory &#8211; to parallel data processing, computation and search directly in the main processing array. This new computing model has the potential to greatly expedite computation and response times in &#8220;big data&#8221; applications. Fast response times are also needed in the computer vision and cyber security markets. For example, in the automotive market, advanced driver assistance systems (ADAS) require a tremendous amount of image processing to be accomplished in real-time. MikaMonu&#8217;s massively parallel computing technology is well suited to address these needs. We believe that our state-of-the-art circuit design expertise will enable the development of high quality associative processors incorporating MikaMonu&#8217;s patented, in-place associative computing technology and algorithms, potentially creating a new category of computing products with substantial target markets and a large new customer base in those markets. Realization of the potential synergies of the acquisition, however, will require a substantial development effort over more than a year, with initial products not expected to be introduced until late calendar 2017. 
+
+The acquisition has been accounted for as a purchase under authoritative guidance for business combinations. The purchase price of the acquisition has been preliminarily allocated to the intangible assets acquired, with the excess of the purchase price over the fair value of assets acquired recorded as goodwill. The results of operations of MikaMonu and the estimated fair value of the assets acquired were included in our consolidated financial statements beginning November 23, 2015. 
+
+Under the terms of the acquisition agreement, we paid the former MikaMonu shareholders initial cash consideration of approximately $4.4 million at the closing on November 23, 2015. We will make cash payments of up to $484,000 to the three former MikaMonu shareholders in May 2017 upon the release of cash held in escrow for potential indemnification claims. Additionally, we will make cash retention payments of up to an additional $2.5 million to the three former MikaMonu shareholders in installments over a four-year period, conditioned on the continued employment of Dr. Avidan Akerib, MikaMonu&#8217;s co-founder and chief technologist. We will also make &#8220;earnout&#8221; payments to the former MikaMonu shareholders in cash or shares of our common stock, at our discretion, during a period of up to ten years following the closing if certain product development milestones and revenue targets for products based on the MikaMonu technology are achieved. Earnout amounts of $750,000 will be payable if certain product development milestones are achieved by December 31, 2017. Additional earnout amounts of $2,750,000 and $4,000,000 will be payable if certain revenue milestones are achieved by January 1, 2021 and January 1, 2022, respectively; and additional payments, up to a maximum of $30 million, equal to 5% of net revenues from the sale of qualifying products in excess of certain thresholds, will be made quarterly through December 31, 2025. 
+
+Settlement of Protracted Litigation with Cypress Semiconductor Corporation 
+
+On May 6, 2015, we entered into a settlement agreement with Cypress Semiconductor Corporation to resolve a lawsuit filed by Cypress in the United States District Court for the Northern District of California alleging that certain of our products infringe patents held by Cypress and a separate lawsuit pending in the same court in which we had alleged that Cypress violated federal and state antitrust laws. Reference is made to &#8220;Item 3. Legal Proceedings&#8221; for information regarding this protracted litigation that began in 2011. Under the settlement agreement: 
+
+&#183; 
+
+Each of the parties agreed to dismiss its lawsuit in consideration of the dismissal of the lawsuit brought by the other party; and 
+
+&#160;
+
+&#183; 
+
+Each party released all claims against the other with respect to issues raised in the two lawsuits. 
+
+The parties agreed that the settlement agreement was entered into to resolve disputed claims, and that each party denies any liability to the other party. 
+
+Industry Background 
+
+SRAM, LLDRAM and Bandwidth Engine Market Overview 
+
+Virtually all types of high-performance electronic systems incorporate some form of volatile memory. An SRAM is a memory device that retains data as long as power is supplied, without requiring any further user intervention. In contrast, dynamic random access memory, or DRAM, is a memory device that requires user intervention in the form of refresh operations to retain data while power is supplied, due to the capacitive nature of its memory cell. However, a DRAM memory cell is much smaller than an SRAM memory cell, so several times more DRAM bits than SRAM bits can be implemented in any given unit area of silicon. The fundamentally different characteristics of SRAM and DRAM memory cells have resulted in the emergence of markedly different architectures for SRAM-based and DRAM-based memory products, and the two types of memory serve different applications. Classically, SRAM-based products have served high performance requirements while DRAM-based products have been used in cost-optimized applications. Today, SRAM- and DRAM-based products serve both performance and cost-based applications. As the volatile memory market fragments into a variety of specialized products, more meaningful distinctions between volatile memory products can be made. 
+
+There is an increasingly broad variety of volatile memory products on the market, characterized by a number of attributes, such as speed, memory capacity, or density, I/O interface and power consumption. There are several different industry measures of speed: 
+
+&#183; 
+
+latency , which is the delay between the request for data and the delivery of such data for use and is measured in nanoseconds, or ns, or when used to describe performance of synchronous memory products may be described in terms of numbers of clock cycles required between the load of an address and the delivery of valid data; 
+
+&#183; 
+
+random access time, which is the minimum amount of time required between accesses to random locations within the memory array, typically measured in nanoseconds, or ns; 
+
+&#183; 
+
+bandwidth , which is the rate at which data can be streamed to or from a device and is often measured in megabits or gigabits per second (Mb/s or Gb/s); 
+
+&#183; 
+
+clock frequency , which is the cycle rate of a clock within a synchronous device and is often measured in megahertz or gigahertz (MHz or GHz); and 
+
+&#183; 
+
+transaction rate, which is the rate at which new commands can be executed by the memory device, and is often measured in millions or billions of transactions per second (MT/s or BT/s). 
+
+Historically, SRAMs have been utilized wherever other lower price-per-bit memory technologies have been inadequate. SRAMs demonstrate lower latency and faster random access times relative to DRAMs and other types of memory technologies, but at a higher price-per-bit. Historically, the volatile memory market has had three price-performance points, DRAM at the low end, Fast SRAM at the high end, and slow SRAM in the middle. Over the past two decades, alternative memory technologies have been introduced to address certain applications that formerly used slow SRAMs. For example, new types of DRAM have displaced slow SRAM in applications such as cell phones. However, in the networking memory market a technology vacuum formed between Fast SRAMs on one end and commodity DRAMs at the other, with no high bandwidth, high transaction rate, moderate capacity, 
+
+&#160;
+
+moderate latency, and moderate cost volatile memory product to fill the void. In the past decade, low latency DRAMs, or LLDRAMs, have been developed to fill that void. Like the slow SRAMs that came before them, LLDRAMs have a much higher price-per-bit than commodity DRAMs (in order to deliver higher transaction rates) but demonstrate slower random access times and longer latencies than Fast SRAMs. 
+
+All of these SRAM and DRAM technologies utilize traditional parallel I/O interfaces that require a significant number of pins. Recently we have partnered with another company to provide a new serial I/O (SerDes) memory device called &#8220;Bandwidth Engine&#8221; which is fabricated using embedded DRAM technology. The Bandwidth Engine has capacity comparable to LLDRAMs but offers far greater transaction rate and data bandwidth capability (greater even than Fast SRAMs) through its serial interface. It can also execute a variety of read-modify-write operations previously unavailable in any other memory device. The networking market is just beginning to take advantage of the unique and powerful capabilities of Bandwidth Engine technology. 
+
+The need for increasingly greater capacity, data bandwidth and transaction rates from the various memory technologies continues unabated as the networking market begins to make preparations for Terabit networking in the latter half of the current decade. We believe that Fast SRAM, LLDRAM and Bandwidth Engine products, optimized for networking applications, will play an increasingly essential role in enabling continued improvements in network performance. 
+
+As a result of the displacement of low performance SRAMs, the total market size for SRAMs is diminishing. However, due to their inherent higher latency characteristics, DRAMs cannot match the random access speed of high-performance SRAMs. Gartner Dataquest divides the SRAM market into segments based on speed. The highest performance segment is comprised of SRAMs that operate at speeds of less than 10 nanoseconds, which we refer to as "Very Fast SRAMs." Very Fast SRAMs are predominantly utilized in high-performance networking and telecommunications equipment. 
+
+Increasing Need for Networking Memory Products 
+
+Growth in data, voice and video traffic has driven the need for both greater networking bandwidth and more complex routing and switching equipment, resulting in the continued expansion of the networking and telecommunications infrastructure. The continued growth in the level of Internet usage has led to the proliferation of a wide variety of equipment throughout the networking and telecommunications infrastructure, including routers, switches, wireless local area network infrastructure equipment, wireless base stations and network access equipment, and a continuing demand for new equipment with faster and higher performance. Moving data in and out of high performance volatile memory is the core task of every piece of networking equipment. The access patterns or workload of most memory arrays used in networking equipment are significantly different from those of memory devices typically used in the computer market, such as the DRAMs used for main storage in PCs. As a result, distinct classes of memory products optimized for the demands of the networking market have been emerging over the last fifteen years. The sharply rising demand for increasing worldwide network performance is expected to drive a continuing need for ever more specialized memory products. High-performance networking and telecommunications equipment requires a variety of memory types; both SRAM-based and DRAM-based. Some of the required memory arrays are embedded in specialized processors or ASICs but many tasks require more bits than can be accommodated on a processor or ASIC, and must be provided in some form of external volatile memory. SRAM-based and DRAM-based networking memory products address this requirement. For example, in a typical router or switch, multiple networking-optimized memory devices are required to temporarily store, or buffer, data traffic and to provide rapid lookup of information in data tables. As networking equipment must increasingly support advanced traffic content such as Voice over Internet Protocol, or VoIP, video streaming and bi-directional video, demand for even higher performance networking memory is expected to continue to increase. 
+
+&#160;
+
+Demanding Requirements for Success in the Networking Memory Market 
+
+The pressure on networking and telecommunications OEMs to bring higher performance equipment to market rapidly to support not only more traffic but also more advanced traffic content is compounded by the requirement that this new equipment occupy no more space than the equipment it replaces, which results in increased circuit density requirements and the need for lower power operations. In response to these pressures, OEMs have increasingly relied on providers that are capable of rapidly developing and introducing advanced, higher density, low power networking memory. The variety of memory applications within the networking and telecommunications markets has also driven a need for more specialized products available in relatively low volumes. These specialized products include high-speed synchronous memory products implemented in both SRAM and DRAM memory technologies with a range of density, latency and bandwidth capabilities. In general, OEMs prefer to work with a supplier who can address the full range of their high-performance networking memory product requirements and, just as importantly, can offer the technical and logistic support necessary to sustain and accelerate their efforts. 
+
+We believe the key success factors for a networking memory vendor are the ability to offer a broad catalog of high-performance, high-quality and high-reliability networking memory products, to continuously introduce new products with higher speeds, lower power and greater densities, to maintain timely availability of prior generations of products for several years after their introductions, and to provide effective logistic and technical support throughout their OEM customers' product development and manufacturing life cycles. 
+
+The GSI Solution 
+
+We endeavor to address the overall needs of our OEM customers, not only satisfying their immediate requirements for our latest generation, highest performance networking memory, but also providing them with the ongoing long-term support necessary during the entire lives of the systems in which our products are utilized. Accordingly, the key elements of our solution include: 
+
+Innovative Product Performance Leadership 
+
+High Speed. Through the use of advanced architectures, design methodologies and silicon process technologies, we have developed a wide variety of high-performance networking memory products. Our SRAM product line has evolved from BurstRAMs with an average transaction rate of about 0.125 BT/s to our SigmaQuad&#8482;-IVe SRAMs with transaction rates up to 2.66 BT/s and data bandwidths of up to 192 Gb/s, greater than any other SRAM commercially available today. Our current Low Latency DRAMs deliver transaction rates of up to 0.533 BT/s and data bandwidths of up to 38 Gb/s. Our Bandwidth Engine products provide transaction rates exceeding 4 BT/s and data bandwidths of up to 400 Gb/s. Our SRAM products can produce data at latencies of 4 to 5 ns while LLDRAM and Bandwidth Engine latencies are approximately 15 ns. By providing higher performance networking memory, we enable our networking and telecommunications customers to continually design and develop higher performance products that support increasingly complex traffic content. 
+
+Low Power Consumption. Many of our products require significantly less power than comparable products offered by our principal competitors. Because these products utilize less power and generate less heat, the reliability of the networking or telecommunications equipment in which they are employed increases. Furthermore, the low power utilization of our products helps enable OEMs to add capabilities to their systems, which otherwise might not have been possible due to overall system power constraints. 
+
+Process Technology Leadership. We maintain our own process engineering capability and resources, which are located in close physical proximity to our SRAM wafer manufacturing partner, Taiwan Semiconductor Manufacturing Company, or TSMC. This enhances our ability to work closely with TSMC to develop modifications of the advanced process technologies used in the manufacturing of our Fast SRAMs in order to maximize product 
+
+&#160;
+
+performance, optimize yields, lower manufacturing costs and improve quality. Our most advanced 144 and 288 Mb synchronous Very Fast SRAMs are manufactured using 40 nanometer process technology. Our LLDRAMs are being produced using 63 nanometer DRAM process technology at Powerchip Technology Corporation, or Powerchip, in Taiwan. 
+
+Product Innovation. We believe that we have established a position as a technology leader in the design and development of Very Fast SRAMs. We were the first supplier to introduce 72-bit-wide SRAMs as single monolithic ICs. In 2010, we were the first supplier to introduce a Fast Synchronous SRAM capable of one billion transactions per second &#8211; SigmaQuad-IIIe &#8211; whose 1.45 BT/s capability was more than double any other SRAM commercially available at the time. In early 2015, we further solidified our position as a technology leader by being the first vendor to introduce and ship 288 megabit monolithic SRAMs. In addition, we are the only vendor to offer a full line of Very Fast Synchronous SRAMs that operate and interface at 1.8 to 3.3 volts, giving our OEM customers the ability to use the same product in systems that operate at any voltage within that range. Moreover, we are the only vendor to offer a Very Fast Synchronous SRAM product that operates at 1.8 volts and uses approximately one-half to two-thirds the power of our competitors' 2.5 volt products. 
+
+Broad and Readily Available Product Portfolio 
+
+Extensive Product Catalog. The Very Fast SRAM market is highly fragmented in terms of product features and specifications. This is especially true of the networking segment of the fast SRAM market and is becoming true of the LLDRAM segment as well. To meet our OEM customers' diverse needs, we have what we believe is the broadest catalog of Very Fast SRAM products currently available, and our LLDRAM and Bandwidth Engine product lines further expand our position in the networking market. Our product line includes a wide range of devices with varying densities, features, clock speeds, and voltages, as well as several operating temperature ranges and numerous package options in both 5/6 RoHS (leaded) and 6/6 RoHS (lead-free) versions, which are compliant with the European Union's Restriction on the Use of Hazardous Substances Directive 2002/95/EC. 
+
+Advanced Feature Sets. Our products offer features that address a broad range of our networking and telecommunications OEMs' system requirements. Among these features is a JTAG test port, named for the IEEE Joint Test Action Group, which enables post-assembly verification of the connection between our product and an OEM customer's system board, thereby allowing an OEM customer of ours to develop, test and ship their products more rapidly. Additionally, we offer our FLXDrive&#8482; feature, which allows system designers to optimize the signal integrity for any given requirement. We also provide OEMs the ability to employ certain of our products in various modes of operation by using our products' mode control pins, thus increasing the flexibility of those products and their ready availability from our inventory. 
+
+Superior Lifetime Availability of Products. Unlike the market for consumer electronics, the markets in which we compete, particularly the networking and telecommunications markets, generally are characterized by system designs that remain in production for extended periods of time, and maintenance of those systems in the field for even longer periods is critical to their success. Our foundry-based manufacturing strategy, our process technology selections, our master-die design strategy and the design of our packaging, burn-in and test work-flows all contribute to allow us to meet and exceed our guarantee of providing a product life of at least seven years for any new product family we bring to market. These techniques also allow us to keep our delivery lead-times relatively short even for specialized, infrequently ordered members of those product families. We believe our approach is better suited to address the needs of our target markets than attempts to apply mass market manufacturing strategies to networking memory products. 
+
+Multiple Temperature Grades. We offer both commercial and industrial temperature grades for all of our products. This ability to perform at specification throughout the industrial temperature range of -40&#176;C to +85&#176;C is critical for memory products used in a broad variety of networking and telecommunications applications, where the 
+
+&#160;
+
+operating environments may be harsh. We now also offer a portfolio of off-the-shelf military temperature SRAM products and can also offer military customers additional and extended temperature grades upon request. 
+
+Master Die Methodology 
+
+Our master die methodology enables multiple product families, and variations thereof, to be manufactured from a single mask set. As a result, based upon the way available die from a wafer are metalized, wire bonded, packaged and tested, from 25 mask sets we have created over 15,000 different products. Using these mask sets, we produce wafers that can be further processed upon customer orders into the final specified product thereby significantly shortening the overall manufacturing time. For example, from a 72 megabit mask set, we can produce three families of 72 megabit SRAM products. Our unique methodology results in the following benefits: 
+
+Rapid Order Fulfillment. We maintain a common pool of wafers that incorporate all available master die. Because we can typically create several different products from a single master die, we can respond to unforecasted customer orders more quickly than our competitors. 
+
+Reduced Cost. Our master die methodology allows us to reduce our costs through the purchase of fewer mask sets by allowing faster and less expensive internal product qualifications, by enabling more cost-efficient use of engineering resources and by reducing the incidence of obsolete inventory. 
+
+Customer Responsiveness 
+
+Customer-driven Solutions. We work closely with leading networking and telecommunications OEMs, as well as their chip-set suppliers, to better anticipate their requirements and to rapidly develop and implement solutions that allow them to meet their specific product performance objectives. Customer demand drives our business. For example, to address near term needs, we offer critical specification variations, such as special operating ranges or wire bond options on currently available products, while we also design new families of products to meet their emerging long term needs. As a consequence, our portfolio not only includes the widest selection of catalog parts available, it also includes an extensive list of custom, customer-specific products. This degree of responsiveness enables us to provide our OEM customers with the exact products required for their applications. 
+
+Preemptive Service. Our extensive open libraries of design support tools as well as our ability to deliver the specific device required for system prototyping with very short notice enables networking and telecommunication OEMs to design and introduce differentiated products quickly as well as to reduce their development costs. Our open model libraries give designers access 24 hours a day, seven days a week to electrical and behavioral simulation models. Behavioral models are offered in both Verilog and very high speed integrated circuits hardware description language ("VHDL") format to better fit different customers' simulation environments, further streamlining the customers' development process. We currently offer our FPGA controller IP free of charge for use with our Type II+ and Type IIIe SigmaQuad and SigmaDDR Fast SRAM devices to help enable our customers to design FPGA-based systems quickly and efficiently, and reach the market with their products faster, and are also developing new FPGA controller IP for use with our next generation Type IVe SigmaQuad and SigmaDDR SRAMs, as well as for our next generation LLDRAMs. Controller IP is also available for our Bandwidth Engine products. Our open model libraries and support tools, coupled with the FPGA controller IP, can save our customers months of design effort and leverage the extensive evaluation and timing already performed by our engineers to enhance their products&#8217; performance, reduce development costs and shorten time-to-market. We refer to this customer support as &#8220;Preemptive Service.&#8221; 
+
+Quality and Reliability. Networking and telecommunications equipment typically have long product lives, and the cost to repair or replace this equipment due to product failure at any time is prohibitively expensive. The 
+
+&#160;
+
+high-quality and reliability of memory products incorporated in our OEM customers' products is, thus, critical. Every product family we offer is subjected to extensive long term reliability testing before receiving qualification certification, and every device shipped is first subjected to burn-in and then to final tests in which the device is operated beyond its specified operating voltage and temperature ranges. 
+
+The GSI Strategy 
+
+Our objective is to profitably increase our market share in the high performance memory market. Our strategy includes the following key elements: 
+
+Continue to Focus on the Networking and Telecommunications Markets. We intend to continue to focus on designing and developing high transaction rate, low latency, high bandwidth and feature-rich memory products targeted primarily at the networking and telecommunications markets. Increasing network complexity due to higher traffic volume and more advanced traffic content continues to drive OEMs' demand for high-performance networking memory. We believe our active high-performance memory product development and manufacturing expertise coupled with established strategic partnerships will continue to enable us to provide networking and telecommunications OEMs with the early access to next generation Very Fast SRAMs, Low Latency DRAMS, and Bandwidth Engine products that offer superior performance, advanced feature sets and continued high reliability, which they need to design and develop new products that support increasingly complex traffic content and to bring networking and telecommunications equipment to market quickly. 
+
+Strengthen and Expand Customer Relationships. We are focused on maintaining close relationships with industry leaders to facilitate rapid adoption of our products and to enhance our position as a leading provider of high-performance memory. We work with both our customers and with their non-memory IC suppliers that require high-performance memory support. We will continue to work with both groups at the pre-design and design stage of their projects in order to anticipate their future high-performance memory needs and to identify and respond to their immediate requests for currently available products and variants on currently available products. We plan to enhance our relationships with these leading OEMs and IC vendors and to develop similar relationships with additional OEMs and IC vendors. 
+
+Continue to Invest in Research and Development to Extend Our Technology Leadership. We believe we have established a position as a technology leader in the design and development of Very Fast SRAMs. Our Very Fast SRAM products most often provide the highest speed available at a given density for a given device configuration. We intend to maintain and advance our technology leadership through continual enhancement of our existing Very Fast SRAM products, particularly our SigmaQuad/SigmaDDR family of low latency, high-bandwidth synchronous SRAMs, while we continue to broaden our product line with the introduction of other new high performance memory technologies targeted to address the evolving needs of the high performance memory market. 
+
+Collaborate with Wafer Foundries to Leverage Leading-edge Process Technologies. We will continue to rely upon advanced complementary metal oxide semiconductor, or CMOS, technologies, the most commonly used process technologies for manufacturing semiconductor devices, from TSMC for SRAM-based products and from Powerchip for DRAM-based products. We provide our technology partners with the sort of in-depth feedback for yield and performance improvement that can best come from very large array structures like those found in our products. Our most advanced products currently in production were designed using 40 nanometer process technology on 300 millimeter wafers. 
+
+Exploit Opportunities to Expand the Market for Our Memory Products. While we develop our high-performance memory products specifically for the networking and telecommunications markets, they are often applicable across a wide range of industries and applications. We have experienced growth in product sales for 
+
+&#160;
+
+military, industrial, test and measurement, and medical markets and intend to continue penetrating these and other new markets with similar needs for high-performance memory technologies. 
+
+Develop Products for New Markets . Following our recent acquisition of MikaMonu, we are devoting substantial efforts to the development of in-place associative computing solutions utilizing patented technology obtained in the acquisition. Products based on this cutting edge technology will address evolving new markets such as &#8220;big data&#8221; (including machine learning and deep convolutional neural networks (CNNs&#8221;)), computer vision and cyber security. We intend to supplement our internal development activities by seeking additional opportunities to acquire other businesses, product lines or technologies, or enter into strategic partnerships, that would complement our current product lines, expand the breadth of our markets, enhance our technical capabilities, or otherwise provide growth opportunities. 
+
+Products 
+
+We design, develop and market a broad range of high-performance memory products primarily for the networking and telecommunications markets. We specialize in high performance memory products featuring very high transaction rates, high density, low latency, high bandwidth, fast clock access times and low power consumption. We commit to offering our products for longer periods of time than our competitors, typically seven years or more following their initial introduction. Accordingly, we continue to offer products in a variety of package types that have been discontinued by other suppliers. 
+
+We currently offer more than 30 families of SRAMs, two families of LLDRAMs, and one family of Bandwidth Engine products. These basic product configurations are the basis for over 15,000 individual products that incorporate a variety of performance specifications and optional features. Our products can be found in a wide range of networking and telecommunications equipment, including core routers, multi-service access routers, universal gateways, enterprise edge routers, service provider edge routers, optical edge routers, fast Ethernet switches and wireless base stations. We also sell our products to OEMs that manufacture products for military applications such as radar and guidance systems, for professional audio applications such as sound mixing systems, for test and measurement applications such as high-speed testers, for automotive applications such as smart cruise control, and for medical applications such as ultrasound and CAT scan equipment . 
+
+We have also begun developing and marketing in-place associative computing solutions, leveraging the patented technology obtained in our acquisition of MikaMonu and our 20-plus years of high-performance SRAM development experience. Our new associative computing solutions will address evolving new markets, such as &#8220;big data&#8221; (including machine learning and deep convolutional neural networks (&#8220;CNNs&#8221;)), computer vision and cyber security. 
+
+Synchronous SRAM Products 
+
+Synchronous SRAMs are controlled by timing signals, referred to as clocks, which make them easier to use than older style asynchronous SRAMs with similar latency characteristics in applications requiring high bandwidth data transfers. Synchronous SRAMs that employ double data rate interface protocols can transfer data at much higher bandwidth than both single data rate and asynchronous SRAMs. We currently supply synchronous SRAMs that can cycle at operating frequencies as high as 1,333 MHz. 
+
+BurstRAM&#8482; and NBT&#8482; SRAMs. We currently offer BurstRAMs and No Bus Turnaround, or NBT, SRAMs that implement a single data rate bus protocol. BurstRAMs were originally developed for microprocessor cache applications and have become the most widely used synchronous SRAMs on the market. They are used in applications where large amounts of data are read or written in single sessions, or bursts. NBT SRAMs are a variation on the BurstRAM theme and were developed to address the needs of moderate performance networking 
+
+&#160;
+
+applications. NBT SRAMs feature a single data rate bus protocol designed to minimize or eliminate wasted data transfer time slots on the bus when BurstRAMs switch from read to write operations. Both families of products can perform burst data transfers or single cycle transfers at the discretion of the user. 
+
+Our BurstRAMs and NBT SRAMs are offered in both pipeline and flow-through modes. Flow-through SRAMs allow the shortest latency. Pipelined SRAMs break the access into discrete clock-controlled steps, allowing new access commands to be accepted while an access is already in progress. Therefore, while flow-through SRAMs offer lower latency, pipelined SRAMs offer greater data bandwidth. Our BurstRAM and NBT SRAM products incorporate a number of features that reduce our OEM customers' cost of ownership and increase their design flexibility, including a JTAG test port and our FLXDrive feature, which allows system designers to optimize signal integrity for a given application. 
+
+We currently offer BurstRAMs and NBT SRAMs with storage densities of up to 144 megabits with clock frequency of up to 333 MHz and clock access times as fast as 2 nanoseconds that operate at 3.3, 2.5 or 1.8 volts. 
+
+SigmaQuad and SigmaDDR Products. High-performance double data rate and quad data rate synchronous SRAMs have become the de facto standard for the networking and telecommunications industry. We offer a full line of quad data rate separate I/O SRAMs, known as our SigmaQuad family, as well as a companion line of double data rate common I/O SRAMs, known as our SigmaDDR family. SigmaQuad SRAMs feature two uni-directional (one input and one output) double data rate data ports (two data ports times double data rate transfers equals quad data rate), controlled via a single address and control port. SigmaDDR SRAMs feature a single bi-directional double data rate data port. We currently offer our SigmaQuad and SigmaDDR devices in multiple bus protocol versions and data burst lengths, and with various power supply and interface voltages, all under the names SigmaQuad, SigmaQuad-II and SigmaQuad-IIIe, and (coming soon) SigmaQuad-IVe, and their SigmaDDR equivalents. An additional variant in this family of SRAMs is the SigmaSIO DDR, which is designed to address some segments of the market currently served by dual-port SRAMs. 
+
+We currently offer SigmaQuad/SigmaDDR products in five storage densities, 18 megabits, 36 megabits, 72 megabits, 144 megabits and 288 megabits. These SRAMs are capable of speeds up to 1,333 MHz and operate on main power supply voltages that range from 2.5 volts to 1.2 volts and interface voltages that range from 1.8 volts to 1.2 volts. 
+
+Low Latency DRAM Products 
+
+Our low latency DRAM family fills an under-served market segment between commodity DRAMs and Fast SRAMs. Offering moderate density, moderate speed and moderate cost, LLDRAM technology gives system designers a middle choice when commodity DRAM performance is insufficient but Fast SRAM performance is unnecessary. LLDRAMs offer one-third the latency of commodity DRAMs and four times the density of Fast SRAMs, giving networking equipment designers another tool for solving difficult data management problems. 
+
+Our current LLDRAM portfolio includes both 288 megabit and 576 megabit devices that are capable of speeds of up to 533 MHz, and that operate on a 1.8 volt power supply and support both 1.8 volt and 1.5 volt interfaces. They are available in five distinct configurations including common I/O and separate I/O types and data bus widths of x36, x18 and x9. These devices serve as an alternate source for users of a popular, functionally equivalent device from a competing vendor. We plan to expand our LLDRAM portfolio later in fiscal 2017 with the introduction of 1.25 Gigabit devices capable of speeds of up to 800 MHz, that operate on a 1.5 volt power supply and support 1.2 volt and 1.0 volt interfaces, and that will be available in common I/O configurations with data bus widths of x36 and x18. 
+
+&#160;
+
+Bandwidth Engine Products 
+
+The serial I/O interface and high transaction rate and data bandwidth capability of our Bandwidth Engine products, along with their ability to perform atomic read-modify-write operations, provide a level of performance well-suited for the next generation of high-speed networking systems. 
+
+The Bandwidth Engine products are 576 megabit devices that support SerDes speeds of up to 15 Gb/s per transceiver. They are capable of performing in excess of 4 billion transactions per second, can achieve sustained data bandwidth of up to 400 Gb/s (200 Gb/s input, 200 Gb/s output) and can support four different SerDes lane configurations. 
+
+Customers 
+
+Our primary sales and marketing strategy is to achieve design wins with leading OEMs in the networking and telecommunications markets and the other markets we serve. The following is a representative list of our OEM customers that directly or indirectly purchased more than $600,000 of our products in the fiscal year ended March 31, 2016 : 
+
+&#160; 
+
+Alcatel-Lucent 
+
+&#160; 
+
+Cisco Systems 
+
+&#160; 
+
+General Dynamics 
+
+Huawei Technologies 
+
+&#160; 
+
+IBM 
+
+&#160; 
+
+Lockheed 
+
+Raytheon 
+
+&#160; 
+
+Rockwell 
+
+&#160; 
+
+ZTE 
+
+&#160; 
+
+Many of our OEM customers use contract manufacturers to assemble their equipment. Accordingly, a significant percentage of our net revenues is derived from sales to these contract manufacturers and to consignment warehouses who purchase products from us for use by contract manufacturers. In addition, we sell our products to OEM customers indirectly through domestic and international distributors. 
+
+In the case of sales of our products to distributors and consignment warehouses, the decision to purchase our products is typically made by the OEM customers. In the case of contract manufacturers, OEM customers typically provide a list of approved products to the contract manufacturer, which then has discretion whether or not to purchase our products from that list. 
+
+Direct sales to contract manufacturers and consignment warehouses accounted for 37.6%, 33.1% and 37.5% of our net revenues for fiscal 2016 , 2015 and 2014 , respectively. Sales to foreign and domestic distributors accounted for 50.4%, 58.7% and 50.0% of our net revenues for fiscal 2016 , 2015 and 2014 , respectively. 
+
+&#160;
+
+The following direct customers accounted for 10% or more of our net revenues in one or more of the following periods: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Fiscal Year Ended 
+
+&#160; 
+
+March 31, 
+
+&#160; 
+
+2015 
+
+Contract manufacturers and consignment warehouses: 
+
+SMART Modular Technologies 
+
+- 
+
+% 
+
+5.2 % 
+
+14.4 % 
+
+Flextronics Technology 
+
+13.7 
+
+8.1 
+
+11.9 
+
+Sanmina 
+
+16.4 
+
+12.6 
+
+8.5 
+
+Distributors: 
+
+Avnet Logistics 
+
+28.2 
+
+35.2 
+
+30.3 
+
+Nexcomm 
+
+13.3 
+
+12.3 
+
+10.2 
+
+&#160; 
+
+Alcatel-Lucent was our largest customer in fiscal 2016 and 2015. Alcatel-Lucent purchases products directly from us and through contract manufacturers and distributors. Based on information provided to us by Alcatel-Lucent&#8217;s contract manufacturers and our distributors, purchases by Alcatel-Lucent represented approximately 32%, 25% and 19% of our net revenues in fiscal 2016 , 2015 and 2014 , respectively. Cisco Systems, historically our largest OEM customer, purchases our products primarily through its consignment warehouses, and also purchases some products through its contract manufacturers and directly from us. &#160; Based on information provided to us by Cisco Systems' consignment warehouses and contract manufacturers, purchases by Cisco Systems represented approximately 9%, 13% and 19% of our net revenues in fiscal 2016 , 2015 and 2014 , respectively. To our knowledge, none of our other OEM customers accounted for more than 10% of our net revenues in any of these periods. 
+
+Sales, Marketing and Technical Support 
+
+We sell our products primarily through our worldwide network of independent sales representatives and distributors. As of March 31, 2016 , we employed 18 sales and marketing personnel, and were supported by over 200 independent sales representatives. We believe that our relationship with our U.S. distributor, Avnet, puts us in a strong position to address the Very Fast SRAM and LLDRAM memory markets in the United States. We currently have regional sales offices located in Canada, China, Hong Kong, Israel and the &#160; United States. &#160; We believe this international coverage allows us to better serve our distributors and OEM customers by providing them with coordinated support. We believe that our customers' purchasing decisions are based primarily on product performance, availability, features, quality, reliability, price, manufacturing flexibility and service. Many of our OEM customers have had long-term relationships with us based on our success in meeting these criteria. 
+
+Our sales are generally made pursuant to purchase orders received between one and six months prior to the scheduled delivery date. Because industry practice allows customers to reschedule or cancel orders on relatively short notice, these orders are not firm and hence we believe that backlog is not a good indicator of our future sales. We typically provide a warranty of up to 36 months on our products. Liability for a stated warranty period is usually limited to replacement of defective products. 
+
+Our marketing efforts are, first and foremost, focused on ensuring that the products we develop meet or exceed our customers' needs. Historically, those efforts have been focused on defining our high-performance SRAM and LLDRAM product roadmaps by working closely with key customers to understand their roadmaps and to ensure that the products we develop meet their requirements (primary aspects of which include functionality, performance, electrical interfaces, power, and schedule). More recently, our marketing efforts have been expanded to include defining the new in-place associative computing products that we are developing. Our marketing group 
+
+&#160;
+
+also provides technical, strategic and tactical sales support to our direct sales personnel, sales representatives and distributors. This support includes in-depth product presentations, datasheets, application notes, simulation models, sales tools, marketing communications, marketing research, trademark administration and other support functions. We also engage in various activities to increase brand awareness. 
+
+We emphasize customer service and technical support in an effort to provide our OEM customers with the knowledge and resources necessary to successfully use our products in their designs. Our customer service organization includes a technical team of applications engineers, technical marketing personnel and, when required, product design engineers. We provide customer support throughout the qualification and sales process and continue providing follow-up service after the sale of our products and on an ongoing basis. In addition, we provide our OEM customers with comprehensive datasheets, application notes and reference designs and access to our FPGA controller IP for use in their product development. 
+
+Manufacturing 
+
+We outsource our wafer fabrication, assembly and wafer sort testing, which enables us to focus on our design strengths, minimize fixed costs and capital expenditures and gain access to advanced manufacturing technologies. Our engineers work closely with our outsource partners to increase yields, reduce manufacturing costs, and help assure the quality of our products. 
+
+Currently, all of our wafers are manufactured by TSMC and Powerchip under individually negotiated purchase orders. We do not currently have a long-term supply contract with either of these foundries, and, therefore, neither of them is obligated to manufacture products for us for any specified period, in any specified quantity or at any specified price, except as may be provided in a particular purchase order. Our future success depends in part on our ability to secure sufficient capacity at TSMC, Powerchip or other independent foundries to supply us with the wafers we require. 
+
+Our newest, leading edge SRAM and Bandwidth Engine products are manufactured using 40 nanometer process technology at TSMC. The majority of our current SRAM products are manufactured using 0.13 micron, 90 nanometer and 65 nanometer process technologies on 300 millimeter wafers at TSMC. Our LLDRAM production at Powerchip uses 72 nanometer and 63 nanometer process technologies. On-going development programs are underway to extend, expand and/or cost reduce most our product families. 
+
+Our master die methodology enables multiple product families, and variations thereof, to be manufactured from a single mask set. As a result, based upon the way available die from a wafer are metalized, wire bonded, packaged and tested, we can create a number of different products. The manufacturing process consists of two phases, the first of which takes approximately eight to twelve weeks and results in wafers that have the potential to yield multiple products within a given product family. After the completion of this phase, the wafers are stored pending customer orders. Once we receive orders for a particular product, we perform the second phase, consisting of final wafer processing, assembly, burn-in and test, which takes approximately four to eight weeks to complete. This two-step manufacturing process enables us to significantly shorten our product lead times, providing flexibility for customization and to increase the availability of our products. 
+
+All of our manufactured wafers are tested for electrical compliance and most are packaged at Advanced Semiconductor Engineering, or ASE, which is located in Taiwan. Our test procedures require that all of our products be subjected to accelerated burn-in and extensive functional electrical testing which is performed at our Taiwan and U.S. test facilities. 
+
+&#160;
+
+Research and Development 
+
+Research and development expenses were $12.1 million in fiscal 2016, $11.9 million in fiscal 2015 and $13.1 million in fiscal 2014. Our research and development staff includes engineering professionals with extensive experience in the areas of high-speed circuit design, including SRAM design, DRAM design and systems level networking and telecommunications equipment design. The design process for our products is complex. As a result, we have made substantial investments in computer-aided design and engineering resources to manage our design process. Our current development focus is on our new in-place associative computing products and further enhancements to our SigmaQuad SRAM family and our family of LLDRAM products. 
+
+Competition 
+
+Our existing competitors include many large domestic and international companies, some of which have substantially greater resources, offer other types of memory and/or non-memory technologies and may have longer standing relationships with OEM customers than we do. Unlike us, some of our principal competitors maintain their own semiconductor fabs, which may, at times, provide them with capacity, cost and technical advantages. 
+
+Our principal competitors include Cypress Semiconductor, Integrated Silicon Solution, Micron and REC. While some of our competitors offer a broad array of memory products and offer some of their products at lower prices than we do, we believe that our focus on, and performance leadership in, low latency, high density Very Fast SRAMs provide us with key competitive advantages. 
+
+We believe that our ability to compete successfully in the rapidly evolving markets for memory products for the networking and telecommunications markets depends on a number of factors, including: 
+
+&#183; 
+
+product performance, features, quality, reliability and price; 
+
+&#183; 
+
+manufacturing flexibility, product availability and customer service throughout the lifetime of the product; 
+
+&#183; 
+
+the timing and success of new product introductions by us, our customers and our competitors; and 
+
+&#183; 
+
+our ability to anticipate and conform to new industry standards. 
+
+We believe we compete favorably with our competitors based on these factors. However, we may not be able to compete successfully in the future with respect to any of these factors. Our failure to compete successfully in these or other areas could harm our business. 
+
+The market for networking memory products is competitive and is characterized by technological change, declining average selling prices and product obsolescence. Competition could increase in the future from existing competitors and from other companies that may enter our existing or future markets with solutions that may be less costly or provide higher performance or more desirable features than our products. This increased competition may result in price reductions, reduced profit margins and loss of market share. 
+
+In addition, we are vulnerable to advances in technology by competitors, including new SRAM architectures as well as new forms of DRAM and other new memory technologies. Because we have limited experience developing IC products other than Very Fast SRAMs and LLDRAMs, any efforts by us to introduce new products based on new technology, including the in-place associative computing products currently under development, may not be successful and, as a result, our business may suffer. 
+
+&#160;
+
+Intellectual Property 
+
+Our ability to compete successfully depends, in part, upon our ability to protect our proprietary technology and information. We rely on a combination of patents, copyrights, trademarks, trade secret laws, non-disclosure and other contractual arrangements and technical measures to protect our intellectual property. We currently hold 44 United States patents and have in excess of a dozen patent applications pending. We do not consider our existing patents to be materially important to our business, and we cannot assure you that any patents will be issued as a result of our pending applications or that any patents issued will be valuable to our business. We believe that factors such as the technological and creative skills of our personnel and the success of our ongoing product development efforts are more important than our patent portfolio in maintaining our competitive position. We generally enter into confidentiality or license agreements with our employees, distributors, customers and potential customers and limit access to our proprietary information. Our intellectual property rights, if challenged, may not be upheld as valid, may not be adequate to prevent misappropriation of our technology or may not prevent the development of competitive products. Additionally, we may not be able to obtain patents or other intellectual property protection in the future. Furthermore, the laws of certain foreign countries in which our products are or may be developed, manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as do the laws of the United States and thus make the possibility of piracy of our technology and products more likely in these countries. 
+
+The semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights, which have resulted in significant and often protracted and expensive litigation. We or our foundry from time to time are notified of claims that we may be infringing patents or other intellectual property rights owned by third parties. We have recently been involved in patent infringement litigation. See Item 3. Legal Proceedings. We have been subject to other intellectual property claims in the past and we may be subject to additional claims and litigation in the future. Litigation by or against us relating to allegations of patent infringement or other intellectual property matters could result in significant expense to us and divert the efforts of our technical and management personnel, whether or not such litigation results in a determination favorable to us. In the event of an adverse result in any such litigation, we could be required to pay substantial damages, cease the manufacture, use and sale of infringing products, expend significant resources to develop non-infringing technology, discontinue the use of certain processes or obtain licenses to the infringing technology. Licenses may not be offered or the terms of any offered licenses may not be acceptable to us. If we fail to obtain a license from a third party for technology used by us, we could incur substantial liabilities and be required to suspend the manufacture of products or the use by our foundry of certain processes. 
+
+Employees 
+
+As of March 31, 2016 , we had 142 full-time employees, including 78 engineers, of which 47 are engaged in research and development and 40 have PhD or MS degrees, 18 employees in sales and marketing, ten employees in general and administrative capacities and 68 employees in manufacturing. Of these employees, 56 are based in our Sunnyvale facility and 60 are based in our Taiwan facility. &#160; We believe that our future success will depend in large part on our ability to attract and retain highly-skilled, engineering, managerial, sales and marketing personnel. Our employees are not represented by any collective bargaining unit, and we have never experienced a work stoppage. We believe that our employee relations are good. 
+
+Investor Information 
+
+You can access financial and other information in the Investor Relations section of our website at www.gsitechnology.com . We make available, on our website, free of charge, copies of our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or 
+
+&#160;
+
+furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC. 
+
+The charters of our Audit Committee, our Compensation Committee, and our Nominating and Governance Committee, our code of conduct (including code of ethics provisions that apply to our principal executive officer, principal financial officer, controller, and senior financial officers) and our corporate governance guidelines are also available at our website under "Corporate Governance." These items are also available to any stockholder who requests them by calling (408) 331-8800. The contents of our website are not incorporated by reference in this report. 
+
+The SEC maintains an Internet site that contains reports, proxy statements and other information regarding issuers that file electronically with the SEC at www.sec.gov . 
+
+Executive Officers 
+
+The following table sets forth certain information concerning our executive officers as of June 1, 2016: 
+
+&#160; 
+
+Name 
+
+Age 
+
+Title 
+
+Lee-Lean Shu 
+
+President, Chief Executive Officer and Chairman 
+
+Didier Lasserre 
+
+Vice President, Sales 
+
+Douglas Schirle 
+
+Chief Financial Officer 
+
+Bor-Tay Wu 
+
+Vice President, Taiwan Operations 
+
+Ping Wu 
+
+Vice President, U.S. Operations 
+
+Robert Yau 
+
+Vice President, Engineering, Secretary and Director 
+
+&#160; 
+
+&#160; 
+
+&#160; Lee-Lean Shu co-founded our company in March 1995 and has served as our President and Chief Executive Officer and as a member of our Board of Directors since inception. Since October 2000, Mr. Shu has also served as Chairman of our Board. From January 1995 to March 1995, Mr. Shu was Director, SRAM Design at Sony Microelectronics Corporation, a semiconductor company and a subsidiary of Sony Corporation, and from July 1990 to January 1995, he was a design manager at Sony Microelectronics Corporation. 
+
+&#160; Didier Lasserre has served as our Vice President, Sales since July 2002. From November 1997 to July 2002, Mr. Lasserre served as our Director of Sales for the Western United States and Europe. From July 1996 to October 1997, Mr. Lasserre was an account manager at Solectron Corporation, a provider of electronics manufacturing services. From June 1988 to July 1996, Mr. Lasserre was a field sales engineer at Cypress Semiconductor Corporation, a semiconductor company. 
+
+&#160; Douglas Schirle has served as our Chief Financial Officer since August 2000. From June 1999 to August 2000, Mr. Schirle served as our Corporate Controller. From March 1997 to June 1999, Mr. Schirle was the Corporate Controller at Pericom Semiconductor Corporation, a provider of digital and mixed signal integrated circuits. From November 1996 to February 1997, Mr. Schirle was Vice President, Finance for Paradigm Technology, a manufacturer of SRAMs, and from December 1993 to October 1996, he was the Controller for Paradigm Technology. Mr. Schirle was formerly a certified public accountant. 
+
+&#160; Bor-Tay Wu has served as our Vice President, Taiwan Operations since January 1997. From January 1995 to December 1996, Mr. Wu was a design manager at Atalent, an IC design company in Taiwan. 
+
+&#160;
+
+&#160; Ping Wu has served as our Vice President, U.S. Operations since September 2006. He served in the same capacity from February 2004 to April 2006. From April 2006 to August 2006, Mr. Wu was Vice President of Operations at QPixel Technology, a semiconductor company. From July 1999 to January 2004, Mr. Wu served as our Director of Operations. From July 1997 to June 1999, Mr. Wu served as Vice President of Operations at Scan Vision, a semiconductor manufacturer. 
+
+&#160; Robert Yau co-founded our company in March 1995 and has served as our Vice President, Engineering and as a member of our Board of Directors since inception. From December 1993 to February 1995, Mr. Yau was design manager for specialty memory devices at Sony Microelectronics Corporation. From 1990 to 1993, Mr. Yau was design manager at MOSEL/VITELIC, a semiconductor company. 
+

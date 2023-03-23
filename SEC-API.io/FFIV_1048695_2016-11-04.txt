@@ -1,0 +1,428 @@
+ Item 1. 
+
+Business 
+
+General 
+
+F5 Networks is the leading developer and provider of software defined application services designed to ensure that applications delivered over Internet Protocol (IP) networks are secure, fast and available to any user, anywhere, anytime, on any device. Our core technology is a full-proxy, programmable, massively-scalable software platform called TMOS (Traffic Management Operating System). 
+
+Introduced in 2004, the TMOS platform supports the industry&#8217;s broadest array of application services, including local and global traffic management, network and application security, access management, web acceleration and a number of other network and application services. These services are available as software modules that can run individually or as part of an integrated solution on our high-performance, scalable, purpose-built BIG-IP appliances and chassis-based VIPRION systems; or as software-only Virtual Editions that run on major hypervisors in public and private clouds. Our cloud-based Silverline software-as-a-service (SaaS) offerings allow customers to subscribe to online denial-of-service protection and application security services. In conjunction with our BIG-IQ management software, the availability of our application services as software on our purpose-built hardware, software-only and Silverline subscription services gives customers the flexibility to create a dynamic hybrid infrastructure with consistent policies and centralized management across public and private clouds as well as traditional data centers. 
+
+The core features and functions of TMOS enable our products to inspect and modify the content of IP traffic flows at network speeds and sessions between users and applications and support a broad and growing array of services. iRules, a built-in scripting language, enables customers and third parties to write customized rules to inspect and modify traffic. TMOS also has an open software interface called iControl, which allows our products to communicate with one another and with third-party products; a set of powerful features called iApps that speed deployment of our services and give users an application-centric view of how applications are managed and delivered; and a scripting framework called iCall that lets users configure their F5 devices inline. 
+
+The majority of our revenue today is derived from sales of BIG-IP and VIPRION products. Our hardware products include our BIG-IP family of appliances and our scalable VIPRION systems, and a new line of security appliances. These purpose-built devices integrate industry-standard components, such as Intel based general-purpose processors, high performance cryptographic offload components, and FPGAs (Field-Programmable Gate Arrays). The architecture of these systems is designed to accelerate and optimize the performance of our software by offloading repetitive, compute-intensive functions such as encryption and compression to specific components, and enabling complex application-layer processing at network speed. Typically deployed in front of web and application servers, our hardware products deliver massive performance and scalability that enable customers to consolidate multiple application services on a single device. This consolidation reduces their total cost of ownership and helps drive down operating costs by simplifying the management of servers and applications. 
+
+As information technology architecture continues to evolve, there is growing demand for software-only application services that can be deployed in virtual environments next to each instance of an application. Our Virtual Edition (VE) products are software-only versions of the same application delivery services we sell as modules on our purpose-built hardware. Designed to run on all standard hypervisors, they are portable across major cloud environments, deliver faster throughput than competing products, and offer the broadest array of integrated application services available. While VEs have lower performance than our hardware-based solutions, they give customers the flexibility to deploy a mix of integrated application services as needed, spin them up and down with each instance of an application, and move them easily between traditional data centers and private or public clouds. 
+
+Whether they are deployed as VEs or as modules on our purpose-built hardware, all of our application delivery services can be centrally managed from our BIG-IQ management platform. 
+
+In addition to our VEs and hardware-based solutions, our cloud-based Silverline SaaS platform gives customers the option to subscribe to enterprise-grade application delivery services available online. Current Silverline services include DDoS protection and application security. Subscriptions include 24/7 access to our Security Operations Center (SOC) support teams. 
+
+Our products also include our Traffix solutions for Diameter signaling and routing, load balancing and gateway connectivity, designed to enable service providers to meet the multiple challenges associated with the growth of mobile data. 
+
+In connection with our products, we offer a broad range of services including consulting, training, installation, maintenance and other technical support services. 
+
+F5 Networks was incorporated on February 26, 1996 in the State of Washington. Our headquarters is in Seattle, Washington, and our mailing address is 401 Elliott Avenue West, Seattle, Washington 98119. The telephone number at our executive offices is (206) 272-5555. We have subsidiaries or branch offices in Argentina, Australia, Belgium, Brazil, the British Virgin Islands, Canada, Chile, China, Colombia, Croatia, Finland, France, Germany, Hong Kong, India, Israel, Italy, Japan, Kingdom of Saudi Arabia, Malaysia, Mexico, Netherlands, New Zealand, Norway, Poland, Russia, Singapore, South Africa, South Korea, Spain, Sweden, Taiwan, Turkey, the United Arab Emirates and the United Kingdom. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports are available free of charge on our website, www.f5.com, as soon as reasonably practicable after they are electronically filed with the Securities and Exchange Commission. Copies of these filings may also be obtained by visiting the Public Reference Room of the SEC at 100 F Street, NE, Washington, D.C. 20549, or by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains a website (www.sec.gov) that contains current, quarterly and annual reports, proxy and information statements and other information regarding issuers that file electronically. 
+
+Industry Background 
+
+Growth and Evolution of IP-Based Infrastructures 
+
+Internet Protocol (IP) is a communications language used to deliver applications and data over the Internet. For more than two decades, large business and government organizations have been gradually replacing older data center architectures with IP-based infrastructures, deploying new IP-based applications and replacing or upgrading legacy applications with new IP-enabled versions. This trend has been accompanied by the proliferation of mobile devices such as smartphones, tablets and laptops that allow users to access data and applications from almost anywhere. At the same time, virtualization of data centers and networks and the emergence of public clouds have given rise to dynamic hybrid infrastructures where applications are increasingly hosted off-premise as well as in traditional data centers and can move freely between locations as demand or other circumstances require. 
+
+Emergence of the Dynamic Data Center and Hybrid IT Infrastructures 
+
+From a broad perspective, the goal of IT organizations is to optimize the secure delivery of applications to users wherever they are and whenever they need them, regardless of where those applications exist. Server virtualization has enabled organizations to group or partition data center resources to meet user demand and reconfigure these virtual resources easily and quickly as demand changes. More recently, Software Defined Networks (SDN) offer organizations ways to reduce costs, increase the flexibility, and simplify the deployment and management of IT infrastructure through network virtualization. Many organizations are also taking advantage of the growing availability of external private and public cloud resources as a flexible, secure and reliable alternative to owning and managing everything themselves. As a result, IT infrastructure has become increasingly dynamic, complex and reliant on IP-based networks for the delivery of applications and data. 
+
+At the same time, these changes have created new challenges to the security of IP networks and the applications and data accessible over the Internet. With increasing frequency, sophisticated denial-of-service attacks have exposed a major vulnerability in the security perimeter of corporate networks by overwhelming firewalls and effectively shutting down the networks. In addition, many network-level security threats are directly related to the improper use of the same protocols applications depend on to transmit data. Intrusion detection and prevention devices, which rely on signature databases of known threats, afford some protection against these types of attack. However, they offer no protection against many of the most common threats, including information leakage, content spoofing, cross-site request forgery or &#8220;day zero&#8221; attacks designed to exploit a variety of application vulnerabilities. 
+
+In addition to preventing the threat of attacks designed to disrupt, destroy or block access to network applications, organizations are faced with the equally daunting challenge of controlling access to applications and data. The proliferation of mobile devices has given users with smart phones, tablets, and laptops the ability to access corporate private and public data centers from virtually anywhere. This, in turn, has increased the difficulty of ensuring that mobile users are able to access applications and data for which they are authorized, and that applications and data are protected from access by unauthorized users. 
+
+Need to Optimize the Secure Delivery of Applications and Data 
+
+With the ongoing evolution and increasing complexity of IT infrastructures, there is a growing need to optimize the secure delivery of applications and data over IP networks. IP-based traffic passing between end-user devices and servers is divided into discrete packets that travel by multiple routes to their destination where they are reassembled. The disassembly, routing, and reassembly of transmissions are relatively straightforward and require little intelligence. By contrast, managing, inspecting, modifying, redirecting and securing application traffic going to and from servers requires intelligent systems capable of performing an expanding array of functions. Broadly speaking, all of those functions are aspects of application delivery. 
+
+Application Delivery Services dynamically manage, secure and optimize the flow of traffic between users and servers (physical or virtual), freeing up other resources by offloading common network functions, such as encryption, IPv4/IPv6 translation, compression, authentication, rate-shaping, and a variety of specialized functions, including network and application security services, policy management, and WAN optimization, that would otherwise have to be coded into applications. Since most large enterprises have hundreds &#8212; if not thousands &#8212; of applications, it isn't practical to replicate these functions within each instance of an application and maintain consistent policies across a broad spectrum of different applications. In traditional data centers, it has been common practice to deploy an array of point products in front of server farms to provide various services, but that typically requires integrating, maintaining and upgrading disparate technologies from different vendors, a process that is time-consuming and expensive in terms of both capital and operating costs. From a security standpoint, it is also much more difficult to audit traffic passing through multiple devices. In such environments, a more practical and efficient solution is a comprehensive set of integrated application delivery services on a single, high-performance device. In virtual and 
+
+cloud environments where flexibility is a priority, software designed to run on standard hypervisors provides the same services and many of the benefits associated with hardware-based solutions. 
+
+Although application delivery services are broadly applicable within enterprise and service provider IT infrastructures, service providers face unique challenges as they attempt to modernize and scale their networks to deal with the flood of data generated by smart phones, tablets, wearables and other mobile devices. To cope with these challenges, service providers are migrating legacy 2G/3G infrastructures to 4G/LTE networks and Evolved Packet Core (EPC) data centers that require an array of network and application services. Today, most of those services are deployed on separate appliances from different vendors, and service providers are actively seeking solutions that will enable them to lower costs and improve reliability and performance by consolidating services and reducing the number of devices. Increasingly, they are also demanding software solutions designed to run on commodity hardware that can be repurposed as needed. To cope with the dramatic increase in signaling traffic associated with 4G/LTE networks, the challenges of migrating legacy infrastructure, and the need to integrate charging and enforcement functions with subscriber data, service providers have also adopted the Diameter signaling protocol as the de facto standard for communication within their evolving data centers. 
+
+F5&#8217;s Strategy 
+
+Our goal is to lead the industry in providing IP network services that ensure the safe, fast and reliable delivery of applications to any user, anywhere, anytime regardless of a user's location or where the application resides. These services include availability, security, performance, mobility, and identity. They also include managing and orchestrating resources, as well as coordinating services across multiple data centers, networks and cloud-based resources. Our products are designed to be strategic points of control in the IT infrastructure that allow business policies to be implemented where information is exchanged. Key components of our strategy include: 
+
+Offering a complete, integrated suite of application services. 
+
+Since the introduction of TMOS, we have developed TMOS-based versions of our own legacy products, such as Local Traffic Manager (LTM), BIG-IP DNS and Link Controller; new products, such as Advanced Firewall Manager (AFM), Carrier Grade Network Address Translation (CGNAT) and Policy Enforcement Manager (PEM); and products that incorporate acquired technology, including Application Security Manager (ASM), Application Acceleration Manager (AAM), Access Policy Manager (APM) and our end-user protection services, WebSafe and MobileSafe. All of these products are currently available as integrated software modules on our BIG-IP and VIPRION hardware and as Virtual Editions that run on any standard hypervisor. Recently, we introduced our first stand-alone security appliances, DDoS Hybrid Defender and SSL Orchestrator. In addition, we offer online DDoS protection and application security as subscription services on our cloud-based Silverline SaaS platform. Regardless whether these services are deployed as software-only solutions or as modules running on our purpose-built hardware, our BIG-IQ management platform allows customers to apply and update consistent policies across all of their F5 services from a centralized resource. We believe this approach addresses the needs of today's evolving hybrid infrastructures and sharply differentiates our products from our competitors&#8217; offerings. 
+
+Investing in technology to meet evolving customer needs. 
+
+We meet with our customers often, and we host an annual invitational customer advisory board to ensure that our development efforts are aligned with their needs. We continue to invest in research and development efforts that leverage the unique attributes of our TMOS platform to deliver new features and functions that address the complex, changing needs of our customers. Although the bulk of our investment is software development, concurrent development of tightly integrated hardware that delivers consistent, guaranteed high-performance is a key part of our investment strategy. We also look for opportunities to acquire technologies that will enable us to broaden the scope of our offerings and expand into adjacent markets. 
+
+Expanding our addressable market. 
+
+Since the introduction of TMOS, we have continually expanded our addressable market and the definition of application delivery through the acquisition and development of new technology. In 2003, for example, we entered the market for secure remote access through the acquisition of uRoam, Inc. and its FirePass SSL VPN technology that has become the core of our current Access Policy Manager (APM) offering. The following year we entered the web application firewall market with the acquisition of Magnifire Websystems, Inc. and its TrafficShield security appliance, which became the foundation of our Application Security Manager (ASM). In 2013, we introduced Advanced Firewall Manager (AFM), our network firewall. In 2013, we also continued to expand our security offerings with the acquisition of Versafe, a provider of web anti-fraud, anti-phishing, and anti-malware solutions, and in 2014 we acquired Defense.Net, a cloud-based DDoS protection service that complements our on-premise DDoS solution and is currently available on our Silverline SaaS platform. During fiscal year 2016, we added new standalone security appliances, DDoS Defender and SSL Orchestrator, to our family of security products. These products are all integral components of our comprehensive Security offering and tightly integrated with LTM and the other features and functions available on our products. As a result of this strategy and our development and acquisition of technology in other related markets such as WAN optimization, Java Script programming, and Diameter signaling and routing, we believe our current addressable market is significantly broader and more diverse than the ADC market as industry analysts have traditionally defined it. 
+
+Continuing to build and expand relationships with strategic technology partners. 
+
+Early on, we developed strategic technology partnerships with enterprise software vendors, such as Microsoft, Oracle, VMware and others, who had an established presence in large enterprises. By taking advantage of iControl, our open application programming interface, and iCall, a scripting framework that provides the ability to define data plane events such as threshold breaches and adjust the behavior of our products accordingly, these vendors were able to equip their applications to control our products in the network, enhancing overall application performance. In return, they provided us significant leverage in the selling process by recommending our products to their customers. More recently, we have worked closely with several of these vendors to develop configurations of our products, called iApps, that are specifically designed to simplify deployment and optimize the performance of their applications. These solutions are available as templates which allow quick and easy configuration of our products for specific applications. 
+
+Within the past two years, we have developed partnerships with Cisco, HP, Microsoft and VMware to provide integrated application services for their Software Defined Networking (SDN) offerings. In addition, we have established partnerships with Amazon AWS, Microsoft Azure, VMware vCloud Air, Cisco ACI and many others to provide cloud-based application services and solutions. We plan to continue building on our existing relationships and to extend our competitive edge by developing new strategic partnerships with other technology leaders. 
+
+Leveraging DevCentral, our online community of network architects and developers. 
+
+Customization of our TMOS-based products using iRules enhances their &#8220;stickiness&#8221; by allowing customers to solve problems in both their applications and their networks that would be difficult if not impossible to solve by other means. To promote the use of iRules, we host an online community, DevCentral, where customers and partners discuss and share the ways in which they use iRules to solve problems and enhance the security, performance and availability of applications. A corollary benefit is that many of the iRules solutions posted by DevCentral participants have become standard features in new releases of TMOS. DevCentral also provides a valuable window into our customers&#8217; constantly evolving needs that guide our product development. 
+
+F5 Solutions 
+
+Our integrated family of TMOS-based application services are available as software modules on our purpose-built hardware, as software-only Virtual Editions, or VEs, that run on standard hypervisors, and as online services on our Silverline SaaS platform. These products function as strategic points of control in IP networks, inspecting, modifying and directing traffic to optimize the security, availability and delivery of applications and data to any user, anywhere, anytime and on any device. Our Traffix Diameter signaling and routing solutions address the complex needs of service providers and complement our TMOS-based products by enabling fast, reliable communications among the elements of their legacy infrastructures and their evolving packet-based 4G/LTE networks and data centers. We believe our products offer the most intelligent services and advanced functionality in the marketplace along with performance and flexibility that enable organizations to simplify management of their IP networks and data center operations by integrating disparate resources to reduce operating costs, enhance productivity and improve service to employees, customers and partners. 
+
+Since 2004 we have expanded the breadth of features and functionality we offer well beyond the scope of application delivery networking as it has been traditionally defined. Today, we also offer solutions that include application security, secure 
+
+remote access, firewall protection, WAN optimization, access policy management, carrier grade network address translation, Diameter signaling policy enforcement, and fraud detection, opening up large opportunities in several adjacent markets. 
+
+Software 
+
+The core of our application delivery technology is TMOS, our Traffic Management Operating System, introduced in September 2004. The full-proxy characteristics of the TMOS architecture enable our products to intercept, inspect and act on the contents of traffic from virtually every type of IP-enabled application. In addition, the modularity of the TMOS architecture allows us to deliver tightly integrated solutions that secure, optimize and ensure the availability of applications and the networks they run on. 
+
+Traffic Management Operating System (TMOS) 
+
+Since TMOS was launched, we have added thousands of new features designed to interpret and act on specific content in the traffic passing between users and applications. TMOS includes several features and functions that are unique to our products: 
+
+&#8226; 
+
+iApps is a set of portable, customizable, reusable templates that enable the rapid and predictable deployment of our products in front of dozens of applications from vendors including Cisco, Citrix, Microsoft, Oracle and VMware. iApps also allows customers and partners to create templates that simplify the deployment and provisioning of their own applications. 
+
+&#8226; 
+
+iCall is a control plane scripting framework that provides the ability to define data plane events such as threshold breaches and adjust the behavior of our products accordingly. iCall enables administrators to react to specified data plane events by executing services on the management plane. It can also be used periodically to manage backups or repopulate DNS, or to provide regularly scheduled services such as configuration audits. 
+
+&#8226; 
+
+iRules is a powerful, built-in scripting language that enables users to customize how our products intercept, inspect, transform, and direct inbound or outbound application traffic. 
+
+&#8226; 
+
+Scale N &#32;is a set of three unique capabilities that enhance the flexibility of our products: 
+
+&#9702; 
+
+Clustered Multiprocessing (CMP) allows customers to cluster and aggregate processors (cores) within BIG-IP appliances or VIPRION chassis products. 
+
+&#9702; 
+
+Virtual Clustered Multiprocessing (vCMP) enables the creation of separate virtual instances of TMOS within an appliance or chassis, each with a different configuration and assigned to a different application. 
+
+&#9702; 
+
+Device Service Clustering (DSC) gives customers the ability to group devices and services across an array of physical and virtual devices (BIG-IP appliances, VIPRION chassis, or Virtual Editions). Devices can be added to or removed from a DSC without disrupting application services, and application services can be independently managed within the cluster. 
+
+TMOS includes features that enhance the ability of our products to protect and hide networks and applications from denial-of-service attacks and other types of security threats. Other enhancements include gateway support for software defined networks (SDN), symmetrical and asymmetrical application acceleration, subscriber and application aware enforcement for service providers, management and orchestration of multiple devices, and improved visibility that allows customers to monitor and record the performance of applications and users. The latest release of TMOS (BIG-IP 12.1) delivers leading application services with enhanced public cloud integration and more sophisticated security policies for on-premises and hybrid cloud environments. Enhancements in iRules LX enable programmability across traditional, cloud, and hybrid architectures and leverage an extensive Node.js library that allows DevOps teams to create customized services quickly and easily. 
+
+Software Modules and Virtual Editions 
+
+The features and functions embedded in TMOS support a family of integrated software services that cover a broad range of application-aware network functions from load-balancing to security. These services are available as software modules designed to run on our purpose-built hardware and as software only Virtual Editions designed to run on any standard hypervisor. 
+
+&#8226; 
+
+Local Traffic Manager (LTM) provides intelligent load-balancing, traffic management and application health checking. 
+
+&#8226; 
+
+BIG-IP DNS (DNS) improves the performance and availability of global applications by intelligently directing users to the closest or best-performing physical, virtual, or cloud environment. In addition, it enhances DNS security by automatically scaling to absorb a rapid increase in queries resulting from a denial-of-service attack and mitigates complex threats from malware and viruses by blocking access to malicious IP domains. 
+
+&#8226; 
+
+Link Controller: For organizations with more than one Internet Service Provider (ISP), Link Controller monitors the health and availability of each connection. In the event of a failure, traffic is dynamically directed across other available links so users and external customers stay connected. Link Controller includes an optional compression feature that reduces WAN link bandwidth for lower ISP costs and cuts down on bandwidth bottlenecks for faster application delivery. 
+
+&#8226; 
+
+Advanced Firewall Manager (AFM) is a high-performance network firewall designed to ensure that traffic isn&#8217;t interrupted even under the most intense attacks. AFM scales to support millions of concurrent connections per second and uses the flexibility of iRules, sophisticated filtering, immediate blacklisting, and over a hundred built-in threat vectors to identify and mitigate DDoS attacks. We also offer a carrier-class version of AFM designed to meet the rigorous requirements of an S/Gi firewall in service provider networks. 
+
+&#8226; 
+
+Application Security Manager (ASM) is a web application firewall that provides comprehensive, proactive, application-layer protection against both generalized and targeted attacks. Combining a positive security model (&#8220;deny all unless allowed&#8221;) with signature-based detection, ASM can prevent &#8220;day-zero&#8221; attacks in addition to known security threats. 
+
+&#8226; 
+
+Access Policy Manager (APM) provides secure, granular, context-aware access to networks and applications while simplifying authentication, authorization, and accounting (AAA) management. Our endpoint security service validates client devices, including personal devices used by employees to access corporate applications and data, to protect organizations from viruses or malware infections, accidental data loss, and rogue device access. This allows users to apply repeatable access policies across many devices, networks, applications and servers with centralized visibility of their authorization infrastructure. 
+
+&#8226; 
+
+Carrier-Grade Network Address Translation (CGNAT) offers a broad set of tools that enables service providers to successfully migrate to IPv6 while continuing to support and interoperate with existing IPv4 devices and content. BIG-IP CGNAT offers service providers tunneling solutions with Dual-Stack Lite capabilities as well as native network address translation solutions such as NAT44 and NAT64. It provides carrier-grade scalability by offering a very high number of IP address translations, very fast NAT translation setup rates, high throughput, and high-speed logging. 
+
+&#8226; 
+
+Policy Enforcement Manager (PEM) offers service providers a comprehensive set of traffic classification capabilities to accurately identify the specific applications and services subscribers are using and how they&#8217;re using them. This information allows them to steer application and subscriber traffic to the most appropriate value-added services (such as web caching, video optimization, or parental control) and reduce the burden on other services. PEM also provides deep reporting, enabling service providers to build tailored services and packages based on subscribers&#8217; application usage and traffic classification. 
+
+All software modules and Virtual Editions can be licensed individually. In addition, our &#8220;Better&#8221; and &#8220;Best&#8221; offerings bundle certain modules or VEs and are sold at a discount to the price customers would pay if each of the included items were purchased separately. We also offer a variety of licensing options for VEs, including subscriptions, utility pricing, and volume licensing. 
+
+Cloud-Based Subscription Services 
+
+&#8226; 
+
+Silverline is a SaaS platform that allows customers to subscribe to application services running on our own high-performance, massively-scalable hardware in cloud-based points of presence around the globe. Two services are currently available on Silverline: DDoS protection and Web Application Firewall (WAF). Depending on the level of protection they require, customers can route traffic through Silverline 24/7 or only when an attack is detected. For customers who want to minimize the upfront costs and expense of maintaining on-premise solutions, these services are an easy and affordable alternative. For large enterprises, subscribing to these services in conjunction with our on-premise DDoS solution (AFM) and application firewall (ASM) can provide a first line of defense against attacks before they reach the data center. 
+
+Other Subscription Services 
+
+&#8226; 
+
+WebSafe and MobileSafe are software modules that inject code into traffic between a large enterprise, such as a major financial institution, and its online customers or clients. The code is then downloaded transparently onto the client device and provides real-time protection against malware, phishing, and other cyberthreats, including fraud, without any impact to the user experience. WebSafe protects against all web-based threat types, and MobileSafe protects against advanced threats targeting the mobile user. 
+
+&#8226; 
+
+Secure Web Gateway Services is a function of APM that protects enterprises against both inbound and outbound malware. Integrated with cloud-based threat intelligence provided by Websense, Secure Web Gateway enables enterprises to manage user access to websites, as well as to hundreds of web-based applications, protocols, and videos, ensuring adherence to corporate acceptable use policies, and compliance regulations. 
+
+&#8226; 
+
+IP Intelligence uses contextual awareness and analysis of traffic and constantly refreshed data from a global threat-sensor network to block threats from a dynamic set of high-risk IP addresses. 
+
+Diameter Signaling and Routing 
+
+&#8226; 
+
+Traffix Signaling Delivery Controller: The Diameter signaling protocol is a de facto standard adopted by service providers to deal with the massive increase in signaling traffic that has accompanied the mobile industry&#8217;s transition to 4G/LTE networks. The Traffix Signaling Delivery Controller (SDC) is a software platform consolidating Traffix&#8217;s widely deployed Diameter Gateway, Diameter Load Balancer and Diameter Router solutions to deliver cost-effective connectivity, scalability and control to service providers migrating from legacy infrastructures to LTE and IMS networks. Traffix SDC solutions include interoperability of legacy and next-generation networks, mobile and fixed elements, and all third-party vendors. 
+
+Hardware 
+
+All of our purpose-built hardware products are designed to enhance the performance of our software. Currently we offer two types of hardware configurations: BIG-IP appliances; and our chassis-based VIPRION products. Both BIG-IP and VIPRION run TMOS and support all of our product software modules. We also sell specialty appliances that integrate specific software services and are only available as standalone products. 
+
+Data sheets for all of our hardware platforms are available in the products section of our website. 
+
+BIG-IP Appliances 
+
+Products in our family of BIG-IP appliances differ primarily in their performance characteristics resulting from the hardware components and configurations that make up each system. Our current line of BIG-IP appliances includes BIG-IP 2000 series, BIG-IP 4000 series, BIG-IP 5000 series, BIG-IP 7000 series, BIG-IP 10000 series and BIG-IP 12000 series. During the fourth quarter of fiscal year 2016, we began the rollout of a complete refresh of the BIG-IP appliance family that will replace all current products and is scheduled for completion during the first quarter of fiscal year 2017. Enhancements in performance, scalability and hardware programmability will enable all the new products to run all of our software services, including virtual clustered multiprocessing (vCMP), which allows complete segmentation of BIG-IP systems into independent virtual BIG-IPs. 
+
+VIPRION Chassis-Based Systems 
+
+Currently we offer four chassis-based systems: VIPRION 4800, VIPRION 4480, VIPRION 2400 and VIPRION 2200. VIPRION&#8217;s unique architecture distributes traffic across all available processors and allows customers to add or remove blades without disrupting traffic. It also helps customers simplify their networks by consolidating application delivery services, saving management costs as well as power, space, and cooling in the datacenter. During the third quarter of fiscal year 2016, we introduced the VIPRION 4450 blade for VIPRION 4800 (our 8-blade chassis) and VIPRION 4480 (our 4-blade chassis). Each blade delivers 100Gb of throughput, and a fully loaded VIPRION 4800 can support more than 1 billion concurrent connections. 
+
+Management and Orchestration 
+
+BIG-IQ Centralized Management 
+
+BIG-IQ Centralized Management is an intelligent management framework that enables customers to manage their F5 devices across on-premise data centers and public and private clouds. From a single console, customers can: 
+
+&#8226; 
+
+Manage up to 200 physical and/or virtual BIG-IP devices, including inventory, status, backups, updates and upgrades, and handle licensing for up to 5,000 virtual devices, spinning them up or down as needed. 
+
+&#8226; 
+
+Manage configurations and policies for F5 security products and view reports and alerts for recognized security events. 
+
+BIG-IQ Centralized Management is available as a Virtual Edition or as an enterprise-grade appliance. 
+
+iWorkflow 
+
+iWorkflow is a software platform designed to accelerate the deployment of applications and services, while reducing exposure to the operational risk that comes with manual processes. Available as a virtual appliance, iWorkflow lets customers deploy configurable, administrator-defined application policies, in the form of iApp templates, in minutes rather than days. Compatible with a range of technologies and platforms, including Cisco APIC and VMware NSX, as well as BIG-IP, iWorkflow&#8217;s REST API enables easy integration with third-party management and orchestration systems. 
+
+Product Development 
+
+We believe our future success depends on our ability to maintain technology leadership by continuing to improve our products and by developing new products to meet the changing needs of our customers and partners. Our product development organization, which includes product management and marketing, employs standard processes for the development, documentation and quality control of software and systems that are designed to meet these goals. These processes include working with our business development and marketing teams, customers and partners to identify new or improved solutions that meet the evolving needs of our addressable markets. 
+
+More than 90 percent of our product development organization is engaged in software development. Our principal software engineering team is located at our headquarters in Seattle, Washington. Product development for APM and PEM is located in San Jose, California. ASM, Traffix SDC and Versafe product development is located in Tel Aviv, Israel. Our hardware engineering team is located in Spokane, Washington, San Jose and Tel Aviv. In addition, we recently opened a dedicated facility for product testing and quality control in Warsaw, Poland. 
+
+Members of all our product development teams collaborate closely with one another to ensure the interoperability and performance of our hardware and software systems. 
+
+During the fiscal years ended September 30, 2016 , 2015 &#32;and 2014 , we had research and product development expenses of $334.2 million , $296.6 million , and $263.8 million , respectively. 
+
+Customers 
+
+Our customers include a wide variety of enterprises and service providers among Fortune 1000 and Business Week Global 1000 companies, including those in technology, telecommunications, financial services, transportation, education, manufacturing and healthcare, along with government customers. In fiscal year 2016 , sales outside of the Americas represented 43.6% &#32;of our net revenues. Refer to Note 9 of our consolidated financial statements included in this Annual Report on Form 10-K for additional information regarding our revenues by geographic area. 
+
+Sales and Marketing 
+
+Sales 
+
+We sell our products and services to large enterprise customers and service providers through a variety of channels, including distributors, value-added resellers (VARs) and systems integrators. A substantial amount of our revenue for fiscal year 2016 &#32;was derived from these channel sales. Our sales teams work closely with our channel partners and also sell our products and services directly to major accounts. 
+
+F5 sales teams. Our inside sales team generates and qualifies leads for regional sales managers and helps manage accounts by serving as a liaison between the field and internal corporate resources. Our field sales personnel are located in major cities in four sales regions: the Americas (primarily the United States); Europe, the Middle East, and Africa (EMEA); Japan; and the Asia Pacific region (APAC). Field sales personnel work closely with our channel partners to assist them, as necessary, in the sale of our products and services to their customers. We also sell our products and services directly to customers, primarily large enterprises, whose accounts are managed by our major account team. Field systems engineers support our regional sales managers and channel partners by participating in joint sales calls and providing pre-sale technical resources as needed. 
+
+Distributors and VARs. As a key component of our sales strategy, we have established relationships with a number of large national and international distributors, local and specialized distributors and VARs. We derive a majority of our product sales from VARs and rely on our large distributors primarily for fulfillment. 
+
+Our agreements with these channel partners are not exclusive and do not prevent them from selling competitive products. These agreements typically have terms of one year with no obligation to renew, and typically do not provide for exclusive sales territories or minimum purchase requirements. 
+
+For fiscal year 2016 , sales to four of our worldwide distributors, Westcon Group, Inc., Ingram Micro, Inc., Avnet Technology Solutions and Arrow ECS represented 18.7% , 14.9% , 13.3% &#32;and 10.1% &#32;of our total revenues, respectively. Our agreements with these distributors are standard, non-exclusive distribution agreements that renew automatically on an annual basis and generally can be terminated by either party with 30 days written notice prior to the start of any renewal term. The agreements grant Westcon Group, Inc., Ingram Micro, Inc., Avnet Technology Solutions, and Arrow ECS the right to distribute our products to resellers, with no minimum purchase requirements. 
+
+Systems integrators. We also market our products through strategic relationships with systems integrators, including Dell Services, HP Enterprise Services and IBM Global Services, who include our products as core components of application deployments or network-based solutions they deploy for their customers. In most cases, systems integrators do not directly purchase our products for resale to their customers. Instead they typically recommend our products as part of broader solutions, such as enterprise resource planning (ERP) or customer relationship management (CRM) solutions that incorporate our products for high availability and enhanced performance. 
+
+Resellers and Technology Partners . Historically, our ability to compete with much larger companies has been strengthened through partnerships with large systems and software vendors. Currently we partner with Dell and Hewlett-Packard, who resell our products, and with other large technology companies, including Microsoft, Oracle, VMware and Cisco, who recommend our products to their customers. Management of these relationships is the responsibility of our business development team, which closely monitors technology companies in adjacent and complementary markets for opportunities to partner with those whose solutions are complementary to ours and could enable us to expand our addressable market. 
+
+Marketing 
+
+Our marketing strategy is driven by the belief that our continued success depends on our ability to understand and anticipate the dynamic needs of our addressable markets and to develop valuable solutions that meet those needs. In line with this belief, our marketing organization works directly with customers, partners and our product development teams to identify and create innovative solutions to further enhance our leadership position. 
+
+To support the growing number of developers using our products, including network and application architects, we continue to promote and expand DevCentral, our on-line community website that provides technical resources to customers, prospects and partners wanting to extend and optimize F5 solutions using iRules and iCall. A key aspect of DevCentral is an on-line forum where developers as well as application and network architects discuss and share solutions they have written with iRules and iCall. At the end of fiscal year 2016 , DevCentral had more than 278,000 &#32;registered members. 
+
+We also engage in a number of marketing programs and initiatives aimed at promoting our brand and creating market awareness of our technology and products. These include actively participating in industry trade shows and joint marketing events with channel and technology partners, and briefing industry analysts and members of the trade press on our latest products, business relationships and technology partnerships. In addition, we market our products to chief information officers and other information technology professionals through targeted advertising, direct mail and high-profile Web events. 
+
+Backlog 
+
+At the end of fiscal years 2016 &#32;and 2015 , we had product backlog of approximately $33.4 million &#32;and $38.1 million , respectively. Backlog represents orders confirmed with a purchase order for products to be shipped generally within 90 days to customers with approved credit status. Orders are subject to cancellation, rescheduling by customers or product specification changes by customers. Although we believe that the backlog orders are firm, purchase orders may be cancelled by the customer prior to shipment without significant penalty. For this reason, we believe that our product backlog at any given date is not a reliable indicator of future revenues. 
+
+Customer Service and Technical Support 
+
+We believe that our ability to provide consistent, high-quality customer service and technical support is a key factor in attracting and retaining large enterprise customers. Accordingly, we offer a broad range of support services that include installation, phone support, hardware repair and replacement, software updates, online tools, consulting and training services. 
+
+We provide these services directly to end users and also utilize a multi-tiered support model, leveraging the capabilities of our channel partners when applicable. Our technical support staff is strategically located in regional service centers to support our global customer base. 
+
+Prior to the installation of our products, our services personnel work with customers to analyze their network needs and determine the best way to deploy our products and configure product features and functions to meet those needs. Our services personnel also provide on-site installation and training services to help customers make optimal use of product features and functions. 
+
+Our customers typically purchase a one-year maintenance contract which entitles them to an array of services provided by our technical support team. Maintenance services provided under the contract include online updates, software error correction releases, hardware repair and replacement, and, in the majority of cases, round-the-clock call center support. Free updates of our software are available to customers with a current maintenance contract. We also offer an online, automated, 
+
+self-help customer support function called &#8220;Ask F5&#8221; that provides answers to many commonly asked questions, allowing customers to get information and solve problems quickly while significantly reducing the number of calls to our support desk. This enables us to provide comprehensive customer support while keeping our support-related expenses at a manageable, consistent level. We also offer an online service called iHealth, which allows customers to diagnose up-to-the-minute snapshots of their BIG-IP systems. Diagnoses include tailored feedback about configuration issues or code defects, a description of the issue, recommendations for resolution, and a link to further information in the AskF5&#8482; Knowledge Base. 
+
+F5 offers training classes for customers on the configuration and use of products, including local and wide area network system administration and management. We have a complete certification program that qualifies our partners and customers for having the appropriate skills to implement and use the functionality of our products. To provide our customers with onsite and remote help, we have a professional services team able to provide a full range of fee-based consulting services, including comprehensive network management, documentation and performance analysis, and capacity planning to assist in predicting future network requirements. 
+
+Manufacturing 
+
+We outsource the manufacturing of our pre-configured hardware platforms to third party contract manufacturers for assembly according to our specifications. 
+
+Our purpose-built systems are manufactured by Flextronics International LTD. Subcontracting activity at Flextronics encompasses prototype builds, full production and direct fulfillment. Flextronics also performs the following activities on our behalf; material procurement, PCB assembly and test, final assembly, system test, quality control, direct shipment and warranty repairs. We provide a rolling forecast that allows our contract manufacturers to stock component parts and other materials, plan capacity and build finished goods inventory in anticipation of end user demand. Flextronics procures components in volumes consistent with our forecast, assembles the products and tests them according to our specifications. Products are then shipped to our distributors, value-added resellers, or end users. Generally, we do not own the components. Title to the products transfers from the contract manufacturers to us and then to our customers upon shipment from a designated fulfillment location. If the components are unused or the products are not sold within specified periods of time, we may incur carrying charges or obsolete material charges for components that our contract manufacturers purchased to build products to meet our forecast or customer orders. 
+
+Hardware components for our products consist primarily of commodity parts and certain custom components designed and approved by our hardware engineering group. Most of our components are purchased from sources which we believe are readily available from other suppliers. However, some components used in the assembly of our products are purchased from a single or limited source. 
+
+Certain sub-assembly and testing processes of our products are performed at Flextronics' facility in Zhuhai, China. The majority of our sub-assemblies are shipped to Flextronics' Milpitas, California plant for configuration and final testing and eventual distribution to our end users. We also have capabilities to complete this process for some of our products in Flextronics' Zhuhai, China plant for distribution to APAC and Japan end users. 
+
+Competition 
+
+The expanding capabilities of our product offerings have enabled us to address a growing array of market opportunities, many of which are outside the bounds of the application delivery networking market as defined and measured by industry analysts such as Gartner Group, Dell&#8217;Oro and others. In addition to server load-balancing, traffic management and other functions normally associated with application delivery, our suite of integrated product modules has expanded our addressable market into security, WAN optimization, application acceleration, policy management, and Diameter signaling and routing, where we compete with a growing number of companies not included among traditional ADC vendors. The ability to create custom network services using iRules, iControl and iCall has also enabled us, our customers, and our partners to design solutions to problems for which there is no off-the-shelf solution. As a result, we believe the traditional definitions of our market do not encompass all of the features, functions and capabilities of our products or accurately represent the addressable market for those products. 
+
+Within the more narrowly defined traditional ADC market, several companies sell server load-balancing products. These include Brocade Communications Systems, Inc., Citrix Systems, Inc. and a number of smaller competitors: A10 Networks, Array Networks, Inc., Barracuda Networks, Inc., Kemp Technologies, and Radware Ltd. 
+
+In related markets we compete with the following: 
+
+&#8226; 
+
+Cisco, Juniper Networks and Checkpoint Systems in the network firewall market; 
+
+&#8226; 
+
+Cisco, Imperva, Citrix and Barracuda Networks in the web application firewall market; 
+
+&#8226; 
+
+Cisco, Juniper and A10 in Carrier Grade NAT; 
+
+&#8226; 
+
+Procera, Allot, Sandvine and other DPI vendors with our PEM offerings; 
+
+&#8226; 
+
+Oracle via the acquisition of Tekelec and Acme Packet in the Diameter signaling market; 
+
+&#8226; 
+
+IBM in end-user protection against malware, phishing and other cyberthreats; 
+
+&#8226; 
+
+Akamai Networks in cloud-based DDoS protection; and 
+
+&#8226; 
+
+Blue Coat Systems in protecting enterprises from inbound and outbound malware. 
+
+The principal competitive factors in the markets in which we compete include product features and performance, customer support, brand recognition, the scope of distribution and sales channels and pricing. Certain of our competitors have employed and may in the future adopt aggressive pricing policies to gain market share. However, because of the superior performance, broad functionality and unique capabilities of our products, which have resulted in high levels of customer satisfaction and growing brand awareness, we believe that we can and will compete effectively against such pricing policies. 
+
+Intellectual Property 
+
+We rely on a combination of patent, copyright, trademark and trade secret laws and restrictions on disclosure to protect our intellectual property rights. F5 holds 283 &#32;patents in the United States and has 46 international patents (with applications pending for various aspects of our technology). Our future success depends in part on our ability to protect our proprietary rights to the technologies used in our principal products. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use trade secrets or other information that we regard as proprietary. In addition, the laws of some foreign countries do not protect our proprietary rights as fully as do the laws of the United States. Any issued patent may not preserve our proprietary position, and competitors or others may develop technologies similar to or superior to our technology. Our failure to enforce and protect our intellectual property rights could harm our business, operating results and financial condition. 
+
+In addition to our own proprietary software, we incorporate software licensed from several third-party sources into our products. These are generally term licenses which may renew annually and that generally provide for certain rights and licenses to support our customers post termination. While we may not be able to renew certain of these licenses in the future, we believe that alternative technologies for these licenses are available both domestically and internationally. 
+
+Employees 
+
+As of September 30, 2016 , we had 4,395 full-time employees, including 1,202 &#32;in product development, 1,617 in sales and marketing, 1,120 &#32;in professional services and technical support and 456 &#32;in accounting and finance, administration and operations. None of our employees is represented by a labor union. We have experienced no work stoppages and believe that our employee relations are good. 
+
+Executive Officers of the Registrant 
+
+The following table sets forth certain information with respect to our executive officers as of November 4, 2016 : 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+John McAdam 
+
+&#160; 
+
+&#160; 
+
+President, Chief Executive Officer, and Director 
+
+John DiLullo 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President of Worldwide Sales 
+
+Edward J. Eames 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Operations Officer 
+
+Benjamin Gibson 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Marketing Officer 
+
+Ryan Kearny 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President of Product Development and Chief Technology Officer 
+
+Andy Reinland 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Financial Officer 
+
+Scot Rogers 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and General Counsel 
+
+John McAdam &#32;served as our President, Chief Executive Officer and member of our Board of Directors from July 2000 until his retirement in July 2015. He subsequently served as Non-Executive Chairman of the Board until December 2015, when 
+
+he stepped down as Chairman and resumed the role of President and Chief Executive Officer in December 2015, following the resignation of Manuel Rivelo. Mr. McAdam has announced his intention to remain in his current position until the Board hires a replacement. A search for his replacement is currently underway. Prior to joining F5 in 2000, Mr. McAdam served as General Manager of the Web server sales business at International Business Machines Corporation from September 1999 to July 2000. From January 1995 until August 1999, Mr. McAdam served as the President and Chief Operating Officer of Sequent Computer Systems, Inc., a manufacturer of high-end open systems, which was sold to International Business Machines Corporation in September 1999. Mr. McAdam holds a B.S. in Computer Science from the University of Glasgow, Scotland. 
+
+John DiLullo has served as our Executive Vice President of Worldwide Sales since October 2015. Responsible for F5&#8217;s global sales strategy, Mr. DiLullo brings over 25 years of experience in global business, sales, market and channel development, operations, and team management. Prior to joining F5, Mr. DiLullo ran the Worldwide Sales and Services team at Aruba Networks, through their acquisition by Hewlett-Packard. Before this role, he served Avaya Communications in three progressive General Manager roles-first as President of Asia-Pacific, then Latin America and Canada, and ultimately the entire Americas Theater. Before joining Avaya, Mr. DiLullo spent seven years at Cisco Systems, most recently as Vice President of Channels, and three years at SonicWALL as Vice President of Sales, Channels, and Field Operations. He holds a B.S. from Villanova University and was a Fellow and Ph.D. candidate at Stanford University. 
+
+Edward J. Eames &#32;has served as our Executive Vice President and Chief Operations Officer since October 2015. Mr. Eames joined F5 in October 2000 as our Vice President of Professional Services and was promoted to Executive Vice President of Business Operations in January 2001. Prior to joining F5, Mr. Eames served as Vice President of e-Business Services for International Business Machines Corporation from September 1999 to October 2000. From June 1992 to September 1999, Mr. Eames served as the European Services Director and the Worldwide Vice President of Customer Service for Sequent Computer Systems, Inc., a manufacturer of high-end open systems. Mr. Eames holds a Higher National Diploma in Business Studies from Bristol Polytechnic and in 1994 completed the Senior Executive Program at the London Business School. 
+
+Benjamin Gibson &#32;has served as our Executive Vice President and Chief Marketing Officer since August 2016. Prior to joining F5, Mr. Gibson was Chief Marketing Officer at Veritas, where he led the company&#8217;s rebranding efforts, following a spin-off from Symantec. Prior to Veritas, Mr. Gibson served as Chief Marketing Officer at Aruba Networks. During his five-year tenure, Aruba doubled in annual revenue as it expanded into new markets. Before joining Aruba, Mr. Gibson spent five years at Cisco Systems, most recently as Vice President of Data Center/Virtualization Marketing, where he ran the outbound marketing strategy and execution for a number of Cisco&#8217;s application networking products. Mr. Gibson has a B.A. in Journalism from California State University, Long Beach. 
+
+Ryan Kearny &#32;has served as our Executive Vice President of Product Development and Chief Technology Officer since October 2016. Mr. Kearny is responsible for overseeing F5's products and technology roadmap and leading our engineering team. Mr. Kearny joined F5 in 1998 and was named Vice President of Product Development in May 2004 and Senior Vice President of Product Development in January 2012. Prior to joining F5, Mr. Kearny held a variety of software application architect positions with various Northwest companies. Mr. Kearny holds a B.S. in Electrical Engineering from the University of Washington. 
+
+Andy Reinland &#32;has served as Executive Vice President since October 2005 and Chief Financial Officer since October 2012. From October 2005 to October 2012, he served as our Chief Finance Officer. Mr. Reinland joined F5 in 1998 as a senior financial analyst and served as our Vice President of Finance from January 2004 to October 2005. Prior to joining F5, Mr. Reinland was Chief Financial Officer for RTIME, Inc., a developer of real-time 3D software for Internet applications, which was acquired by Sony. Mr. Reinland started his career in public accounting. Mr. Reinland holds a B.A. in Business from Washington State University. 
+
+Scot Rogers has served as our Executive Vice President and General Counsel since January 2014. Mr. Rogers has held a variety of positions in F5's legal department since 2005, including most recently as Senior Vice President and Associate General Counsel immediately prior to his promotion to Executive Vice President. From 2002 through 2005, Mr. Rogers was the General Counsel for Xpediate Consulting, a healthcare technology and consulting company located in the San Francisco Bay Area. Prior to becoming a corporate counsel, he spent eight years in private practice as a commercial litigator. Mr. Rogers is a graduate of the University of Texas and holds a J.D. from the Dedman School of Law of Southern Methodist University. 
+

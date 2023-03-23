@@ -1,0 +1,650 @@
+ ITEM 1. DESCRIPTION OF BUSINESS. 
+
+&#160;
+
+Some of the statements contained in this Annual Report on Form 10-K discuss future expectations, contain projections of results of operations or financial condition or state other &#8220;forward-looking&#8221; information. Those statements include statements regarding the intent, belief or current expectations of Telkonet, Inc. (&#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221;) and our management team. Words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;targets,&#8221; &#8220;goals,&#8221; &#8220;projects,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;estimates,&#8221; &#8220;continues,&#8221; &#8220;may,&#8221; and variations of these words, as well as similar expressions, are intended to identify such forward-looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth, trends in our businesses, and other characterizations of future events or circumstances are forward-looking statements. Any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, and actual results may differ materially from those projected in the forward-looking statements. These risks and uncertainties include but are not limited to those risks and uncertainties set forth in Item 1A of this report. In light of the significant risks and uncertainties inherent in the forward-looking statements included in this report, the inclusion of such statements should not be regarded as a representation by us or any other person that our objectives and plans will be achieved. 
+
+&#160;
+
+GENERAL 
+
+&#160;
+
+Business 
+
+&#160;
+
+Telkonet, Inc. (the &#8220;Company&#8221;, &#8220;Telkonet&#8221;), formed in 1999 and incorporated under the laws of the state of Utah, is the creator of the EcoSmart Platform of intelligent automation solutions designed to optimize energy efficiency, comfort and analytics in support of the emerging Internet of Things (&#8220;IoT&#8221;). Telkonet&#8217;s business is based on two synergistic divisions, its EcoSmart division offering intelligent automation solutions and its EthoStream division providing the underlying networking technology.
+
+&#160;
+
+ECOSMART 
+
+&#160;
+
+Telkonet&#8217;s EcoSmart Platform is comprised of four main pillars.
+
+&#160;
+
+&#183; EcoSmart Suite: The suite of intelligent hardware products designed and developed to provide monitoring, management, command and control over individual and grouped energy consumption throughout building environments. &#160;
+
+&#183; EcoCentral: The cloud-based dashboard and analytics platform that provides visualization and remote management of Telkonet&#8217;s monitoring, reporting and analytics through deployed EcoSmart and integrated products. &#160;
+
+&#183; EcoCare: Telkonet&#8217;s full offering of professional support and maintenance services including 24/7 monitoring, engineering, analytics, reporting, software and hardware updates, extended warranty, project and relationship management and onsite support. &#160;
+
+&#183; EcoMobile: Native iOS and Android applications provided by Telkonet to its partners, customers and end users and guests enabling provisioning, management and access and control over EcoSmart deployments and functionality. &#160;
+
+The EcoSmart Platform provides comprehensive energy and operational savings, management monitoring, reporting, analytics and virtual engineering of a customer&#8217;s portfolio and/or property&#8217;s room-by-room energy consumption and increased comfort and productivity through a more intelligent and automated environment. Telkonet has deployed more than a half million intelligent devices worldwide in properties and buildings within the hospitality, military, educational, healthcare and other commercial markets. The EcoSmart Platform is rapidly being recognized as a leading solution for reducing energy consumption, operational costs and carbon footprints, and eliminating the need for new energy generation in these markets &#8211; all whilst improving occupant comfort and convenience.
+
+&#160;
+
+&#160;
+
+&#160; 1 &#160; 
+
+&#160;
+
+&#160;
+
+Controlling energy consumption can make a significant impact on a building owner&#8217;s bottom line, as heating, ventilation and air conditioning (&#8220;HVAC&#8221;) costs represent a substantial portion of a facility&#8217;s overall utility bill. Hospitality is a key market for Telkonet. According to the EPA EnergySTAR for Hospitality analysis, the median hotel uses approximately 70,000 Btu/ft2 from all energy sources. 1 On average, America&#8217;s approximately 53,000 hotels spend $2,196 per available room each year on energy. 2 This represents about 6% of all operating costs. Through a strategic approach to energy efficiency, a 10% reduction in energy consumption would have the same financial effect as increasing the average daily room rate by $0.60 in limited-service hotels and by $2.00 in full-service hotels.
+
+&#160;
+
+Energy is very often wasted through the lighting, powering, heating and cooling of unoccupied spaces. These spaces with intermittent occupancy constitute Telkonet&#8217;s target markets, and our experience, supported by independent research and customer data, suggests these rooms are unoccupied as much as 70% of the time.
+
+&#160;
+
+EcoSmart Suite 
+
+&#160;
+
+EcoSmart offers a product suite capable of creating a network of in-room energy management devices that can be configured to meet the requirements of most building environments. Telkonet can provide and install any combination of its proprietary intelligent thermostats, occupancy sensors, door contacts, and lighting and plug load control devices to create an intelligent automated environment. All products can be wirelessly networked to enhance energy efficiency, provide remote monitoring capability and develop increased analytical savings based on the in-room performance. Telkonet offers a modular approach that can be scaled from small deployments to portfolios of large properties - the heart of the network is the thermostat, once installed all other devices can be effortlessly added at any time using an industry-standard mesh networking technology.
+
+&#160;
+
+&#183; EcoTouch: One of the newest additions to Telkonet&#8217;s suite of hardware, the EcoTouch is an all touch capacitive thermostat interface available in wired and wireless models offering the most aesthetic alternative to building controls available on the market today. &#160;
+
+&#183; EcoInsight: A programmable and controllable wired thermostat with over 125 configurable settings used to control the efficiency of HVAC through the use of environment variables and triggers. &#160;
+
+&#183; EcoAir: A wireless thermostat interface mirroring the EcoInsight footprint while enabling the relocation of in room controls without the usual construction expense and downtime. &#160; 
+
+&#183; EcoSource: The remote HVAC control device associated with Telkonet&#8217;s thermostat interfaces allowing control while removing the need for expensive rewiring and construction. The EcoSource may also be used for third-party integrations, monitoring and control scenarios. &#160;
+
+&#183; EcoConnect: An Ethernet to Zigbee interpreter that serves as the bridge for all EcoSmart devices connected to the intelligent automation network, managing approximately 30 - 70 device connections each. &#160;
+
+&#183; EcoCommander: EcoSmart&#8217;s network-edge gateway server that provides real-time proactive data aggregation, analytics, reporting and management of the EcoSmart product suite. &#160;
+
+&#183; EcoSense: A remote occupancy sensor that monitors environments with ultra, high-sensitive sensors designed to detect motion, body heat, humidity and ambient light level. All sensors are programmed to ensure accurate occupancy detection. EcoSense may be hardwired or programmed to communicate wirelessly and may be battery operated or utilize external power. &#160;
+
+&#183; EcoWave: The 2-component package that includes a revolutionary remote interface wireless thermostat (EcoAir) and powerful mechanical control solution (EcoSource) offering distributed management over in-room HVAC units. The wireless EcoAir allows the user interface to be mounted in a convenient location with good visibility of the room to optimize occupancy detection and can be battery operated or utilize external power. &#160;
+
+&#183; EcoSwitch: The EcoSmart energy management product with the appearance of a traditional &#8216;rocker&#8217; light switch. Turning lights off, even for a short time, saves energy and extends lamp life. The EcoSwitch stops the flow of electricity to lights, conserving electricity that would have otherwise been wasted on an empty space and monitoring the consumption and efficiency of energy flow when a light is enabled. &#160;
+
+_______________
+
+1 Facility Type: Hotels &#38; Motels - http://www.energystar.gov/ia/business/EPA_BUM_CH12_HotelsMotels.pdf 
+
+2 AH&#38;LA 2013 At-a-Glance Statistical Figures - http://www.ahla.com/content.aspx?id=36332 
+
+&#160;
+
+&#160; 2 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; EcoGuard: The EcoSmart control that acts as the replacement for an in-wall outlet and has the ability to monitor and control the flow of power to one or both outlets, based on occupancy, it can turn off lamps, televisions, appliances, and any other energy-consuming loads that are plugged in, preventing a property from consuming power in an empty room. The EcoGuard completely disconnects devices from the power supply, preventing lights and other in-room electronics from needlessly consuming energy as well as providing monitoring of energy flow and efficiency when a plug is enabled. &#160;
+
+&#183; EcoContact: A remote, wireless door/window contact with the ability to provide additional occupancy data and control HVAC operability and other consumption measures when doors or windows are open. &#160;
+
+EcoCentral 
+
+&#160;
+
+Telkonet&#8217;s EcoSmart Platform functions as a comprehensive solution for intelligent automation and energy management. The platform has a well-developed upgrade path with the final and complete version of the platform offering real-time control and analytics provided through a cloud computing platform called EcoCentral. EcoCentral earns its name through its ability to direct user resources where they add the most value. From monitoring equipment operation to determine where engineering efforts are needed to notifying staff when performance is degrading, EcoCentral creates a comprehensive tool for providing insight and access into EcoSmart Platform deployments either individually or across an entire building portfolio.
+
+&#160;
+
+EcoCare 
+
+&#160;
+
+EcoCare is Telkonet&#8217;s complete offering of professional services including call support, repair and replacement services, periodic reporting, communication with customers&#8217; utility and ISP partners and more. Telkonet provides three static packages of EcoCare services as well as allows customers to create their own package of services ala carte. EcoCare allows EcoSmart customers to ensure that they continue to recognize the savings estimated and benefit from the intended return on investment (ROI). Standard EcoCare contracts range from three to five years and have automatic renewal terms built into the individual contract.
+
+&#160;
+
+EcoMobile 
+
+&#160;
+
+Telkonet&#8217;s EcoMobile tools provide native iOS and Android applications for use by partners, customers and end users or guests. These mobile tools extend the value of the EcoSmart Platform and give greater functionality and more efficient commissioning and deployment abilities to the user. We have identified where, by providing more accessibility, we can create additional charged-for services that increase customer savings, improve guest experience and integrate more fully with customer environments to create a tight relationship with our customers.
+
+&#160;
+
+Target Markets 
+
+&#160; 
+
+Rooms with intermittent occupancy are most commonly found in the following market sectors:
+
+&#160;
+
+&#183; Hospitality : hotels, motels, resorts, timeshares, casinos, etc. &#160;
+
+&#183; Educational : residence halls, dormitories and other campus living options. Also K-12 environments with distributed and portable classrooms. &#160;
+
+&#183; Military : residence halls, barracks, apartments and other campus living options. &#160;
+
+&#183; Health care : medical office buildings, assisted and independent living facilities. &#160;
+
+&#183; Public Housing : apartments and other. &#160;
+
+Continually powered equipment and appliances in vacant rooms also increases the maintenance overhead and shortens its&#8217; working life. As a result, building owners and managers experience unnecessary waste and cost.
+
+&#160;
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160;
+
+Intelligent Energy Management 
+
+&#160; 
+
+Telkonet&#8217;s EcoSmart energy management platform is a leading intelligent and advanced automation solution designed to deliver at all levels by controlling a building&#8217;s lighting, plugload and HVAC usage and improving energy efficiency one room at a time. All data may be presented on a grouped, property or room-by-room basis, allowing very granular management of in-room energy use and environmental conditions. The platform achieves this by using a combination of wired and wireless technology components, including occupancy sensors and intelligent programmable thermostats connected with packaged terminal air conditioner (&#8220;PTAC&#8221;) controllers or any other terminal equipment HVAC products, managed wireless light switches and in wall electrical plugs to adjust and maintain energy consumption including a room&#8217;s temperature according to occupancy, eliminating wasteful heating and cooling of unoccupied rooms. All these things can be done from the in-room devices or via any web-connected device, such as smart phones, tablets and laptop computers.
+
+&#160;
+
+EcoSmart is an energy management platform that delivers optimal, individual room energy savings without compromising occupant comfort, thanks to a proprietary technology named &#8211; Recovery Time.
+
+&#160;
+
+Recovery Time Technology 
+
+&#160; 
+
+EcoSmart&#8217;s entire solution features Recovery Time, technology designed to maximize energy efficiency without sacrificing occupant comfort. When a room is occupied, the temperature selected by the occupant will be maintained by the EcoSmart system. However, whenever the occupancy sensor determines that the room is unoccupied, the system adjusts the room temperature using Recovery Time. Unlike other systems, Recovery Time technology constantly performs calculations that evaluate how far each individual room&#8217;s temperature can drift from the occupant&#8217;s preferred setting (&#8220;set-point&#8221;), to harvest energy savings while still being able to return to the occupant&#8217;s set-point within a customer&#8217;s pre-defined period of time.
+
+&#160;
+
+When determining the temperature setting, Recovery Time technology considers how long it will take to return the temperature to the occupant&#8217;s set-point once they return to their room. The temperature will only drift far enough to ensure the system will return to the occupant&#8217;s preferred temperature setting within minutes upon their return to the room. The specific length of the recovery time is selected by property management at the time of the installation; however, it can be altered at any time by management.
+
+&#160;
+
+How do others do it? 
+
+&#160;
+
+The occupant selects a set-point when the room is occupied. When the occupant leaves, the thermostat reverts to an energy-saving set-point which is a fixed number of degrees different than the occupant set-point (lower in winter and higher in summer). In some products the set-point is a fixed temperature selected by the property owner. The problem is that each room will take a different amount of time to return to the occupant set-point &#8211; variables such as the outdoor temperature and the room orientation to sun or wind will dramatically affect the length of time the HVAC unit has to run to recover the room temperature to set-point. Maintenance condition of the HVAC unit will also affect the time (a dirty filter or coil offers less heat transfer and will take longer causes the unit to work harder). Other variables affect time as well, like whether the drapes are open or closed. The result is a very uneven distribution of temperatures from room to room and ultimately an unsatisfied occupant/guest.
+
+&#160;
+
+EcoSmart Delivers Room-by-Room Savings 
+
+&#160; 
+
+Telkonet&#8217;s approach is different, since each room&#8217;s environment is different; every room is evaluated independently in real-time to determine its energy efficient temperature, or setback. Recovery Time technology constantly calculates in real-time how far the room temperature can drift by taking into consideration all the environmental characteristics that impact the temperature in the room, including:
+
+&#160;
+
+&#183; The occupant&#8217;s preferred temperature setting; &#160;
+
+&#183; The location of the room within the building; &#160;
+
+&#183; The window placement &#8211; facing the sun or shade; &#160;
+
+&#183; If the drapes are open or closed; &#160;
+
+&#183; If the climate is dry or humid; &#160;
+
+&#160;
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; The varying weather conditions throughout the day; and &#160;
+
+&#183; The condition of the HVAC unit, such as age and efficiency. &#160;
+
+Through the constant monitoring of the HVAC unit&#8217;s ability to drive the temperature and the real-time adjustment of the setback temperature, rooms are never excessively hot or cold when an occupant returns to the room. The room will always be just minutes away from an occupant&#8217;s desired comfort setting. As a result, Recovery Time technology delivers room-by-room, occupant-by-occupant savings.
+
+&#160;
+
+Our EcoSmart Platforms maximize energy reductions while at the same time ensuring occupant comfort, maximizing energy savings and extending equipment life expectancy &#8211; often by more than 40%. This technology is particularly attractive to customers in the hospitality industry, as well as the education, healthcare, public housing and government/military markets, who are continually seeking ways to reduce costs and meet federal and state mandates without impacting building occupant comfort. By reducing energy consumption automatically when a space is unoccupied, our customers are able to realize significant cost savings without diminishing occupant comfort.
+
+&#160;
+
+Telkonet&#8217;s EcoSmart technology may also be integrated with utility controls, property management systems and building automation systems to be used in load shedding initiatives using industry standard communication protocols to ensure widespread adoption and easy to use interfaces. This feature provides management companies and utilities enhanced opportunities for cost savings, environmental protections and energy management. Telkonet&#8217;s energy management systems are lowering HVAC costs in hundreds of thousands of rooms worldwide and qualify for most state and federal energy efficiency and rebate programs.
+
+&#160;
+
+Competitive Advantages 
+
+&#160;
+
+We believe our intelligent automation platform, with our proprietary Recovery Time technology, delivers extensive benefits over competing products, including:
+
+&#160;
+
+&#183; Maximum energy savings - evaluating each room&#8217;s environmental conditions, including room location, window placement, humidity, time-of-day, weather conditions, and operating efficiency of HVAC equipment; &#160;
+
+&#183; Longer life and reduced maintenance of HVAC units through reduced run times and proactive equipment monitoring; &#160;
+
+&#183; Increased occupant control &#38; comfort; &#160;
+
+&#183; Simple to use and easy to read thermostat options. Backlight friendly for visually impaired; &#160;
+
+&#183; Web-based access with extremely powerful yet simple to use EcoCentral dashboard web interface; &#160;
+
+&#183; Speed and ease of installation of in-room devices and network infrastructure; &#160;
+
+&#183; Extensive range of HVAC system compatibility; &#160;
+
+&#183; Adaptive learning and system programming; &#160;
+
+&#183; Utility-integrated events capabilities; &#160;
+
+&#183; Remote HVAC control network; &#160;
+
+&#183; 24/7 EcoCare remote monitoring and diagnostics services; &#160;
+
+&#183; Plug load, lighting and HVAC controls; &#160;
+
+&#183; Extensive 3rd-party integrations; &#160;
+
+&#183; Based on industry standard software and communication protocols (Linux, ZigBee); &#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Offers rapid return on investment, typical ROI of two to three years; and &#160;
+
+&#183; Mobile applications facilitating installation, management and end-user accessibility. &#160;
+
+Our open, scalable and standards-based architecture allows the EcoSmart Platform to integrate seamlessly with back-office management systems, property management systems, building automation systems and utility demand/response programs as well as additional third-party network architecture to recognize increased efficiency and savings. This approach enables the development of customized energy management deployments while protecting existing investments.
+
+&#160;
+
+Based on these platform features and capabilities, we&#8217;ve been awarded, and continue to receive, contracts in the hospitality, military, educational, multiple dwelling unit (&#8220;MDU&#8221;), healthcare and utility industries. In addition, we believe our relationships with utility-sponsored direct install and rebate-funded programs provide us with a significant advantage over our competitors in the commercial occupancy-based energy management market 
+
+Our EcoSmart Platform has been developed to maximize energy efficiency and savings. Our technology allows users to decrease heating and cooling, lighting and plugload energy consumption and extend equipment life without diminishing occupant comfort. By providing Internet-based remote management over in-room energy efficiency, EcoSmart decreases the cost to operate an enterprise-wide system by improving the efficiency and operational effectiveness of onsite engineering resources.
+
+&#160;
+
+Given the population growth in the United States and the increasing demand for energy, we believe additional energy-related infrastructure will be needed. We believe the use of Smart Grid technologies and energy efficiency management platforms are affordable alternatives to building additional power generation through leveraging existing resources and providing enhanced energy savings. While requiring investments that are not typical for most utilities, we believe the long-term savings resulting from these investments will outweigh the costs.
+
+&#160; 
+
+Industry and Market Overview 
+
+&#160;
+
+According to the U.S. Department of Energy, 18% of all the energy produced in the United States is employed to cool, heat, light, or accomplish other functions within commercial buildings. 3 In an effort to remain competitive and manage expenses, governments, building owners, building tenants, and companies in general are looking for ways to become more efficient both fiscally and environmentally. The American Council for an Energy Efficient Economy reported that the cost of saving one unit of energy through energy efficiency is one-fifth (1/5) the cost required to generate that same unit of energy. As a result, we feel that the growth opportunities in the energy management market are in their infancy. 
+
+&#160;
+
+A 2014 report issued by Navigant Research, titled, &#8220;Energy Efficient Buildings: Global Outlook&#8221;, stated that the global market for energy efficient building products and services is on the rise. 4 With buildings being one of the largest sources of energy consumption, the opportunity to improve efficiency is significant, ranging from high-efficiency HVAC systems to the utilization of energy-efficient lighting technologies to business models such as energy performance contracting as employed by energy service companies (&#8220;ESCOs&#8221;) around the world. According to the Navigant report, the total market for energy efficiency in buildings will reach $623 billion by 2023, an increase of more than 100% from the 2014 market value of $307 billion.
+
+&#160;
+
+Simply put, all industries are prime candidates for energy management and the industries that are most ripe for undertaking these initiatives are those that utilize energy &#8220;on-demand&#8221; or intermittently, such as those in the hospitality, educational, military, MDU and healthcare industries. Providing energy, and engaging the equipment to supply it, to those rooms and spaces only when occupied results in significant energy savings in addition to affording longer life and reduced maintenance to the HVAC systems.
+
+&#160;
+
+_______________
+
+3 Center for Climate and Energy Efficiency - http://www.c2es.org/technology/overview/buildings
+
+4 Energy Efficient Buildings: Global Outlook - https://www.navigantresearch.com/research/energy-efficient-buildings-global-outlook
+
+&#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+&#160; COST OF ENERGY Electricity District Heat &#160; Fuel Oil Natural Gas &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Educational Buildings 76% 7% &#160; 2% 15% &#160; &#160; ($8,111 million) &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Healthcare Buildings 80% N/A &#160; 1% 19% &#160; &#160; ($4,882 million) &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Office Buildings 87% 4% &#160; 1% 8% &#160; &#160; ($17,005 million) &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Lodging Buildings 79% N/A &#160; % 8% &#160; &#160; ($5,228 million) &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Source: Energy Information Administration, 2003 &#160; &#160; &#160; &#160; &#160; Commercial Buildings Energy Consumption Survey &#160; 
+
+&#160;
+
+Education Industry 
+
+&#160;
+
+Telkonet&#8217;s most rapidly emerging market is the educational industry where we continue to expand our presence in this space through a concerted and focused approach, which involves strategic relationships with enterprise ESCOs throughout the USA. Telkonet partners with ESCOs to include our EcoSmart energy management platform for deployment within residence halls on university campuses. The ESCOs bundle our technology with other facility improvement measures designed to reduce operating costs across the entire campus, some of these initiatives provide attractive returns on customer investments, such as EcoSmart for dormitories and lighting upgrades, while others such as roofs and windows have poor returns on investment but are needed infrastructure improvements. ESCOs bundle these facility improvements into a project that has acceptable returns and meets state mandated guidelines. The ESCOs then structure self-funding financial transactions called &#8220;Performance Contracts&#8221; in which the savings are greater than the repayment costs. The ESCOs will typically guarantee the financial and operational performance in this type of engagement. This approach removes many of the capital funding issues that stand in the way of implementing energy efficient technologies and shifts the technology and performance risk from the institution to the ESCOs.
+
+&#160;
+
+In July 2008, we entered into an agreement with New York University to implement Telkonet&#8217;s networked energy management platform to centrally manage energy consumption in its dormitories. Telkonet worked with the University to use its existing building infrastructure to remotely manage and track energy consumption. Approximately 4,600 rooms across 14 dormitories have been completed and have yielded run-time and energy consumption reductions, operational savings from reduced field labor expenses and extension of equipment lifecycle. Since this time, we have grown our Educational deployments to include such customers as the University of California Davis, Northern Oklahoma College, the Massachusetts Institute of Technology, Kansas State University, North Carolina State University, University of Akron, University of Notre Dame, Fordham University, Military Academy at West Point, Columbia University, University of Wisconsin-Oshkosh and others.
+
+&#160;
+
+The opportunities in this market are certainly not limited to higher education institutions. A report by EnergySTAR, a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy, showed that our nation&#8217;s 17,450 K-12 schools spend more than $6 billion on energy and that as much as 30% of a district&#8217;s total energy is used inefficiently or unnecessarily [5 
+
+&#160;
+
+We believe that our EcoSmart Platform is an important tool for participants in the education industry seeking to control student-related energy costs. We have focused our sales efforts on members of the education industry who are seeking to expand their energy efficiency initiatives as well as the ESCOs who target the educational marketplace and have thus far had success with at least one school district installing EcoSmart in each classroom throughout the district.
+
+&#160;
+
+Hospitality Industry 
+
+&#160;
+
+According to EnergySTAR, the cost of energy for America's 47,000 hotels averages $2,196 per available room each year. As the cost of energy continues to increase, energy efficiency projects can provide an immediate and significant reduction in energy expenses. A 10% reduction in energy costs is equivalent to increasing revenue per available room by $0.60 for limited service hotels and by more than $2.00 for full-service hotels. 6 With EcoSmart, Telkonet can also reduce equipment runtime in unoccupied rooms by 20% to 45% while maintaining guest comfort, making the solution uniquely suited for energy management projects in the hospitality market. The Company has proven that its EcoSmart Platform can deliver a return on investment in less than three years for hospitality customers.
+
+&#160;
+
+_______________
+
+5 https://www.energystar.gov/ia/news/downloads/K-12_Challenge.pdf
+
+6 http://www4.eere.energy.gov/alliance/sites/default/files/uploaded-files/better-buildings-alliance-annual-report-2013.pdf
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+Any successful hotelier must focus on achieving the critical balance between guest comfort and operating margins and maintaining this balance in the long-term. Telkonet's proprietary Recovery Time technology allows EcoSmart to maximize energy savings without compromising guest comfort. In fact, hoteliers with EcoSmart can guarantee an indoor environment unique for each property or brand, where each room returns to the guest set-point within six minutes, regardless of room assignment. This dynamic technology sets Telkonet apart from fixed setback energy management systems, where the setback temperature is a fixed temperature or a fixed deviation. Both fixed setback approaches make it extremely difficult to predict how long it will take the room to return to the set-point after the guest re-enters the room, resulting in potentially lower energy savings and uncomfortable room temperatures.
+
+&#160;
+
+Military Industry 
+
+&#160; 
+
+With the Department of Defense (&#8220;DOD&#8221;) being the single largest energy consumer in the United States, accounting for about 90 percent of the federal government&#8217;s energy use and using over 30 million mega-watt hours of electricity per year, we view this market as strategically significant to Telkonet&#8217;s interests. 7 
+
+&#160;
+
+Our energy management platform is already successfully incorporated into the energy initiatives in several military housing sites, military academies and barracks. In October 2009, Executive Order 13514, &#34;Federal Leadership in Environmental, Energy and Economic Performance,&#34; was signed and set into action numerous energy requirements in areas such as Sustainable Buildings and Communities, Greenhouse Gas Management and Pollution Prevention and Waste Reduction, among others. 8 The American Recovery and Reinvestment Act (&#8220;ARRA&#8221;) jump-started energy management throughout US government and military facilities by providing $4.26 billion in funding for the Department of Defense Facilities Sustainment, Restoration, and Modernization Program. Telkonet benefited and continues to make use of government funding and other government contracts to provide EcoSmart for use on military bases and other facilities, helping both the DOD and the government as a whole achieve their long-term energy efficiency goals.
+
+&#160;
+
+Healthcare Industry 
+
+&#160; 
+
+Healthcare is an emerging market for energy management as currently healthcare organizations in the United States spend over $6.5 billion on energy each year and that number continues to rise to meet patients&#8217; needs. 9 Although hospitals have many specific regulatory mandates, we have been working closely with operators and developers of healthcare support facilities, like medical office buildings, assisted living and other similar facilities, to integrate our EcoSmart energy management initiatives into efficiency opportunities supported by state and federal energy programs. These types of facilities offer a commercial environment similar to the hospitality or educational housing markets, and the increasing growth of the elderly and assisted living markets presents attractive potential for energy efficiency. This market is expected to grow rapidly over the next several years due to its energy savings capabilities. For example, hospital energy managers can use energy efficiency strategies to offset high costs caused by growing plug loads and rising energy prices. A typical 200,000-square-foot, 50-bed hospital in the U.S. annually spends $680,000&#8212;or roughly $13,611 per bed&#8212;on electricity and natural gas. By increasing energy efficiency, hospitals can improve the bottom line and free up funds to invest in new technologies and improve patient care.
+
+&#160; 
+
+Utility Industry 
+
+&#160; 
+
+We believe that the utility industry is one of the fastest developing market segments in the United States. With more than $4.5 billion released to the industry through ARRA for programs related to Smart Grids, the utility industry has become a growing percentage of our revenue, both through direct sales to utilities and partnerships with energy service companies executing state and local energy efficiency programs. Strategic relationships with regional ESCOs are key to the continued expansion of energy efficiency initiatives. In Pike&#8217;s 2011 research report, it was estimated that the ESCO market will represent the largest segment of the energy efficient buildings industry in the coming years, with revenues more than doubling from $30.1 billion in 2011 to $66.0 billion worldwide by 2017, a projected compound annual growth rate of 14%.
+
+&#160;
+
+______________
+
+7 http://en.wikipedia.org/wiki/Energy_usage_of_the_United_States_military
+
+8 https://www.whitehouse.gov/administration/eop/ceq/sustainability
+
+9 http://www.epa.gov/statelocalclimate/local/topics/commercial-industrial.html
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+We continue to strengthen our focus on our targeted market segments in order to expand market share and take advantage of existing incentives for energy management. We expect continued expansion in the space, and specifically in commercial segments due to increasing state and federal programs promoting energy efficiency. Our residential initiatives are also key to the future expansion of Telkonet&#8217;s EcoSmart programs within the developing Smart Grid environment.
+
+&#160;
+
+Public Housing 
+
+&#160; 
+
+Another emerging market for Telkonet&#8217;s platform is public housing, which are properties owned and managed by the government. The tenants occupying these properties must meet specific eligibility requirements, and their utility bills are typically paid for by government programs. Many of the ESCO clients that Telkonet supports today have dedicated teams pursuing opportunities with the owners and operators of government-subsidized housing. Our solutions are tailor made for these applications to conserve energy, enable remote monitoring control and improve occupant comfort.
+
+&#160;
+
+Competition 
+
+&#160; 
+
+We currently compete primarily within commercial and industrial markets, including the hospitality, education, healthcare, public housing, MDU, government, utility and military sectors. Within each target market, we offer savings through our intelligent automation platform. Our products offer significant competitive and complementary benefits when compared with alternative offerings including Building Automation Systems (&#8220;BAS&#8221;) or Building Management Systems (&#8220;BMS&#8221;), static temperature occupancy-based systems, scheduling/programmable thermostats and high-efficiency HVAC systems.
+
+&#160;
+
+We participate in a relatively small competitive field within the hospitality industry, with the majority of the energy management sales handled by fewer than seven manufacturers. The key competitors in the market segment are Inncom and Schneider Electric, with each offering some level of comparable products to our standalone and/or networked products. Telkonet&#8217;s key differentiators in the hospitality segment include:
+
+&#160;
+
+&#183; Recovery Time technology; &#160; &#160; &#160; &#183; Mesh-networked environment; &#160; &#160; &#160; &#183; Comprehensive four pillar platform; &#160; &#160; &#160; &#183; Integration with property and building management systems (PMS &#38; BMS); &#160; &#160; &#160; &#183; Utility demand-based program integration; &#160; &#160; &#160; &#183; Existing customer relationships through extensive history in the market; and &#160; &#160; &#160; &#183; Broad HVAC compatibility. 
+
+&#160;
+
+The educational space is a relatively new market for occupancy-based controls. We&#8217;ve introduced our EcoSmart Platform for use within student dormitories, which traditionally had few, if any, controls. More recently we have also been requested to install our products into classrooms, which traditionally have been an environment for building automated systems or building management systems. Since the dormitory environment is very similar to the hospitality market, we believe we offer similarly scaled energy savings. Since the market is still in its infancy, very few comparable offerings have entered the market but competitors within the hospitality segment are beginning to respond. Our EcoSmart Platform provides a significant advantage within the educational industry through:
+
+&#160;
+
+&#183; Reduced cost as compared to BAS/BMS systems; &#160; &#160; &#160; &#183; Ease of installation relative to traditional wired systems; &#160; &#160; &#160; &#183; Range of product compatibility; &#160; &#160; &#160; &#183; Centralized platform management with room by room performance reporting; and &#160; &#160; &#160; &#183; Data that is widely and easily available to promote student engagement. 
+
+&#160;
+
+&#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160;
+
+The healthcare and government/military markets are very similar in scope when relating to energy management systems. A key differentiator in these environments is the specific implementation that is being considered. Each market utilizes BAS/BMS for wide scale energy management initiatives. When specifically addressing housing environments including elderly care and assisted living facilities and military dormitories or barracks, Telkonet&#8217;s EcoSmart Platform is able to provide increased energy savings and efficiency. Competitors operating in the BAS/BMS space include Honeywell, Schneider Electric, Johnson Controls, Siemens, Trane and others, many of whom Telkonet partners with to provide a comprehensive and integrated energy management solution to effectively address energy efficiency opportunities in all types of facilities.
+
+&#160;
+
+ETHOSTREAM HIGH SPEED INTERNET ACCESS (HSIA) NETWORK 
+
+&#160;
+
+EthoStream is one of the largest public High-Speed Internet Access (&#8220;HSIA&#8221;) providers in the world, providing services to more than 8.0 million users monthly across a network of approximately 2,300 locations. With a wide range of product and service offerings and one of the most comprehensive management platforms available for HSIA networks, EthoStream offers solutions for any public access location.
+
+&#160;
+
+EthoStream provides cutting-edge technology, proactive system monitoring and 24/7/365 in-house technical support and will engineer a seamless browsing experience to produce quality network access for users. EthoStream has the ability to power mobile computing in any market, and can provide a complete family of wired, wireless, and custom-designed hybrid solutions to outfit diverse property types. From hospitality properties to university campuses, coffee shops to municipal buildings, the high-speed Internet access solutions EthoStream has developed are versatile enough to deploy in any venue. EthoStream offers customized gateway servers to provide solutions that are infinitely scalable and easily upgradable, giving customers the benefit of future-proof connectivity.
+
+&#160;
+
+Our EthoStream Gateway Server line provides industry-leading HSIA technology to the hospitality and public Internet access industry, with advanced features based on in-house product design and development, including the following:
+
+&#160;
+
+&#183; Dual ISP bandwidth aggregation for faster overall speed; &#160;
+
+&#183; ISP redundancy to eliminate network downtime; &#160;
+
+&#183; Enhanced quality of service; &#160;
+
+&#183; Real-time meeting room scheduling; &#160;
+
+&#183; Comprehensive service analytics; &#160;
+
+&#183; Standards-based monitoring and control; and &#160;
+
+&#183; Major franchise certified. &#160;
+
+We maintain a U.S.-based customer support center operating 24 hours a day, seven days a week, and employ a dedicated, in-house support team using integrated, web-based management tools enabling proactive industry-leading support. We believe our customer service offerings, along with established relationships through our vendor agreements with some of the largest hospitality franchises and management groups, distinguish us from our competitors in the hospitality HSIA industry. Current customers include:
+
+&#160;
+
+&#183; Benchmark Hospitality &#183; Choice Hotels International &#183; Crescent Hotels &#38; Resorts &#183; Cobblestone Hotels &#183; Destination Hotels &#38; Resorts &#183; Hilton Worldwide &#183; Hyatt Hotels &#38; Resorts &#183; Intercontinental Hotels Group &#183; Kohler Hospitality &#183; Marcus Hotels &#38; Resorts &#160; 10 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Marriott International &#183; Red Lion Hotels &#183; Shaner Hospitality &#183; Starwood Hotels &#38; Resorts &#183; Summit Hotel Properties &#183; TMI Communications &#183; White Lodging Services &#183; Wyndham Hotels &#38; Resorts &#160; 
+
+EthoStream Advantages 
+
+&#160; 
+
+The Total Solution 
+
+&#160;
+
+EthoStream offers a complete package of services required for quality wired and wireless high-speed Internet access. Dedicated employees conduct site surveys, install equipment, and provide service after installation with on-site and remote support. EthoStream employs a knowledgeable, well-trained staff of support technicians, so users can rely on an in-house team to provide rapid, friendly assistance for any issue.
+
+&#160;
+
+Properties Have Control over Their HSIA 
+
+&#160;
+
+EthoStream has a unique product at the core of every Internet solution: the Remote Management Console (&#8220;RMC&#8221;). This web-based management platform interacts in real-time with a property's EthoStream server and integrates directly with the support center in Milwaukee. The RMC allows managers to make instant changes to the entire high-speed Internet system and access information to generate usage reports.
+
+&#160;
+
+Pro-active 24/7 In-House Support Team 
+
+&#160; 
+
+Thanks to the unique capabilities of the RMC, EthoStream support representatives have an active presence at each location and can easily assist users with any issues that may arise. Rather than working from a script-based support program, the support center anticipates user needs and quickly resolves issues.
+
+&#160;
+
+Custom-Designed Internet Solutions 
+
+&#160; 
+
+By developing products and services within the Company instead of outsourcing, EthoStream ensures that customers receive only top-tier equipment. As engineers continue to improve product capabilities, technicians will remotely update product software on a monthly basis.
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+Telkonet&#8217;s EthoStream Hospitality Network competes with a wide variety of companies in the hospitality industry ranging from media companies to traditional HSIA solution providers. Although this industry has many service providers, according to publicly available data, only a few HSIA service providers have significant customer bases. Those competitors include Guest-tek, Sonifi Solutions and AT&#38;T.
+
+&#160; 
+
+Market Outlook 
+
+&#160;
+
+We believe that growth of the EthoStream Hospitality Network will be derived from several key areas : 
+
+&#183; New customer growth within the full-service hospitality market and through additional preferred vendor agreements with franchisors; &#160;
+
+&#183; Competitive customer acquisition through a superior product and service offering; &#160;
+
+&#183; Upgrading of EthoStream&#8217;s approximately 2,300 customers due to aging equipment and standards; and &#160;
+
+&#183; Ongoing sales to current customers through integration of additional in-room technologies such as lighting, telephony, media centers and energy management products. &#160; 
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160; 
+
+Inventory 
+
+&#160;
+
+While we are dependent, in certain situations, on a limited number of vendors to provide certain inventory and components, we&#8217;ve not experienced significant problems or issues purchasing any essential materials, parts or components. We contract manufacture the majority of our inventory with ATR Manufacturing, a Chinese company, which provides substantially all the manufacturing requirements for Telkonet&#8217;s energy management platform. For our HSIA networks, we obtain the majority of our inventory from WAV, Inc.
+
+&#160; 
+
+Customers 
+
+&#160;
+
+We are neither limited to, nor reliant upon, a single or narrowly segmented customer base to derive our revenues. Our current primary focus is in the hospitality, commercial, education, utility, MDU, healthcare and government/military markets and expanding into the consumer market as part of our long term strategic growth.
+
+&#160;
+
+For the years ended December 31, 2015 and 2014, no single customer represented 10% or more of our revenues. Recurring revenue distributed across a network of approximately 2,300 customers approximated $4,200,000 for the year ended December 31, 2015.
+
+&#160;
+
+Intellectual Property 
+
+&#160;
+
+We acquired certain intellectual properties by acquisition, including but not limited to, Patent No. D569, 279, titled &#8220;Thermostat.&#8221; Patent No. D569279 issued by the USPTO in May 2008 was granted on the ornamental design of a thermostat device and will expire in May of 2022. The expiration of this patent could allow third parties to launch competing products. While we viewed this patent as valuable, we do not view any single patent as material to the Company as a whole.
+
+&#160;
+
+There can be no assurance that any of our current or future patent applications will be granted, or, if granted, that such patents will provide necessary protection for our technology or our product offerings, or be of commercial benefit to us.
+
+&#160;
+
+Government Regulation 
+
+&#160;
+
+We are subject to regulation in the United States by the Federal Communications Commission (&#8220;FCC&#8221;). FCC rules permit the operation of unlicensed digital devices that radiate radio frequency emissions if the manufacturer complies with certain equipment authorization procedures, technical requirements, marketing restrictions and product labeling requirements.
+
+&#160;
+
+Future products designed by us will require testing for compliance with FCC and European Commission (&#8220;EC&#8221;) standards. Moreover, if in the future, the FCC or EC changes its technical requirements, further testing and/or modifications may be necessary in order to achieve compliance.
+
+&#160;
+
+Research &#38; Development 
+
+During the years ended December 31, 2015 and 2014, we spent $1,605,667 and $1,312,488, respectively, on research and development activities. Telkonet&#8217;s EcoSmart related development efforts in 2015 and continuing into 2016 are focused on three major areas. The first is around continuous software improvements to maintain compatibility with changing industry equipment and standards as well as moving towards a more mobile platform. The second area is a focus on development with third party device providers for integrated solutions. The growth in connected devices is driving demand for a smart hotel room with many devices working together. This new smart room requires working closely with strategic partners to build a more tightly integrated solution. The final area we continue to focus on is new product development. Telkonet is preparing new product releases and is continuing to innovate with hardware development beyond its current EcoSmart Platform.
+
+&#160;
+
+The focus of EthoStream during 2015 and continuing into 2016 has been in both software and infrastructure improvements to better support and grow its customer base. Development efforts have focused on portal design changes and hotel property management system interface enhancements to attract new brands. The development of new updated web based management tools will be necessary to maintain our competitiveness. Continuous development of EthoStream&#8217;s EGS platform will be required by several brands to maintain compliance as an approved vendor.
+
+&#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160; 
+
+Other Information 
+
+&#160;
+
+Employees 
+
+&#160;
+
+As of March 22, 2016, we had 108 full-time employees. During 2015, significant positions filled included chief financial officer, controller and channel account manager. We will continue to hire additional personnel as necessary to meet future operating requirements. We anticipate that we may need to hire additional staff in the areas of customer support, field services, engineering, sales and marketing, and administration.
+
+&#160;
+
+Environmental Matters 
+
+&#160;
+
+We do not anticipate any material effect on our capital expenditures, earnings or competitive position due to compliance with government regulations involving environmental matters.
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+

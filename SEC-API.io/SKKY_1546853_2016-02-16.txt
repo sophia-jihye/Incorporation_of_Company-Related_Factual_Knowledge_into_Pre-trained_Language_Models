@@ -1,0 +1,592 @@
+ ITEM 1: BUSINESS. 
+
+&#160;
+
+Overview 
+
+&#160;
+
+Skkynet is a Nevada corporation headquartered in Mississauga, Canada. Skkynet operates three different lines of business through its wholly-owned subsidiaries Cogent Real-Time Systems, Inc. ("Cogent"), Skkynet, Inc. ("Skkynet (USA)"), Skkynet Corp. ("Skkynet (Canada)"), and Nic Corporation ("NiC"). Skkynet was established to enhance Cogent's existing business lines through the integration of Cloud-based systems, and to deliver a Software-as-a-Service ("SaaS") product targeting the Industrial Internet of Things ("IoT") market, now referred to by the terms "Industry 4.0" and "Industrial Internet Consortium". We will also expand the areas of business activity to which our products and services are applied. 
+
+&#160;
+
+In a report dated December 2, 2014 International Data Corporation ("IDC") predicted that worldwide Information and Telecommunications Technology ("IT") spending would grow 3.8% year over year to over $3.8 trillion in 2015, with IoT being one of the most important innovation accelerators for growth and expansion of IT-based value in third-party platforms 1 . Gartner, Inc. ("Gartner") issued a similar prediction for worldwide IT spending to grow 2.4% year over year to $3.8 trillion in 2015 2 . IDC also forecasted in October, 2014 that public IT Cloud services spending will approach $127 billion in 2018 3 . The same IDC research report states that over the next five years spending on public IT Cloud services will expand at a compound annual growth rate (CAGR) of 22.8 percent from over $56 billion in 2014, which is six times that of the IT industry as a whole. Moreover, IDC predicts that public IT cloud services will account for more than half of worldwide software, server, and storage spending growth. Gartner reports a similar growth trend in IT spending on public Cloud services, which is five times faster than growth in IT spending across all other categories 4 . In December, 2014, IDC released a report forecasting that worldwide SaaS enterprise applications will increase to $50.8 billion by 2018, from $22.6 billion in 2013, at a CAGR of 17.6% over this five-year period 5 . On November 10, 2014, Gartner forecasted that by 2018, much of what will drive digital business will only be viable in SaaS 6 . 
+
+&#160;
+
+Boston Consulting Group issued reports on Industry 4.0 and how the future of productivity and growth in manufacturing industries will be impacted by the convergence of nine new technologies 7 , and how it will transform the industrial workforce 8 . Of the nine new technologies, several fit within the scope of Skkynet's core technical expertise: the cloud, cybersecurity, the industrial internet of things, and horizontal and vertical system integration. Specifically, we provide software and related systems and facilities to collect process and distribute real-time information over a network. This capability allows our customers to both locally and remotely manage, supervise and control industrial processes and financial information systems. By using our software and web-based assets we provide our clients and their end-customers, the ability and tools to observe and interact with these processes in real-time. We give our customers the power to analyze, change and control their local and remote systems to meet regulatory requirements and exceed target objectives. Through NiC, we also provide custom hardware and firmware development for embedded systems. This capability allows us to connect industrial hardware directly to our SaaS Cloud-based service. 
+
+&#160;
+
+We believe there is a steady movement of manufacturing facilities from developed countries to underdeveloped countries because of the economic advantages of lowering production costs; however, this relocation process should not be viewed in traditional frameworks alone. In the United States there is a movement from high to low-cost states such as Alabama, and, for other reasons, European and Asian manufacturers are locating their own manufacturing facilities within the United States. The tendency is to relocate physical plants while preserving the overall engineering skills, process analytics and related intellectual property and management systems at home. This geographical distinction between production and engineering requires the ability to remotely monitor these systems during operations to control processes in real-time while preserving the safety, confidentiality and integrity of the manufacturer's process and information. Our products and Cloud-based services are designed to address these issues and concerns. 
+
+_______________ 
+
+1 http://www.idc.com/getdoc.jsp?containerId=prUS25285614
+
+&#160;
+
+2 http://www.gartner.com/newsroom/id/2959717
+
+&#160;
+
+3 http://www.idc.com/getdoc.jsp?containerId=prUS25219014
+
+&#160;
+
+4 https://www.gartner.com/doc/2858118/forecast-public-cloud-services-worldwide
+
+&#160;
+
+5 http://www.idc.com/getdoc.jsp?containerId=252568
+
+&#160;
+
+6 http://gartnernews.com/gartner-forecasts-it-spending-growth-and-trends/
+
+&#160;
+
+7 https://www.bcgperspectives.com/content/articles/engineered_products_project_business_industry_40_future_productivity_growth_manufacturing_industries/
+
+&#160;
+
+8 https://www.bcgperspectives.com/content/articles/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4/
+
+&#160;
+
+&#160; 5 
+
+&#160; &#160;
+
+Although we are primarily involved thus far in the areas of industrial processing and financial services, the concepts and software underlying our existing products and services are applicable to a variety of areas including fleet tracking , energy usage monitoring and control including wind power, solar power and agriculture. Our products are modular in design, and are therefore well-suited for use in OEM and embedded products. We have obtained existing clients in some of these areas, but to date we have not had the resources to pursue systematically the marketing and sale of our products and services to these industries. 
+
+&#160;
+
+Our Status as an Emerging Growth Company 
+
+&#160;
+
+We are an "emerging growth company ("EGC") as defined in the Jumpstart Our Business Startups Act (the "JOBS Act"). An EGC is defined as a company with total annual gross revenues of less than $1 billion in its most recently completed fiscal year. An EGC will retain such status until the earlier of: (1) the fifth anniversary of the date it first sold securities pursuant to an IPO registration statement; (2) the last day of the fiscal year in which it first exceeds $1 billion in annual gross revenues; (3) the time it becomes a large accelerated filer (an SEC registered company with a public float of at least $700 million); or (4) the date on which the EGC has, within the previous three years, issued $1 billion of nonconvertible debt. 
+
+&#160;
+
+The JOBS Act affords an EGC an opportunity to get a temporary reprieve from certain SEC regulations by exempting an EGC from these regulations for up to five years. These eased requirements include an exemption from certain financial disclosure and governance requirements and relaxed restrictions on the sale of securities. The JOBS Act also increases the number of shareholders a company must have before becoming subject to the U.S. Securities and Exchange Commission's ("SEC") reporting and disclosure rules. The JOBS Act provides scaled disclosure provisions for EGCs, including, among other things: 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+permitting EGCs to include only two years of audited financial statements in the registration statement filed under the Securities Act of 1933 (the "Securities Act") for an IPO of common equity securities;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+allowing EGCs to comply with the smaller reporting company version of Item 402 of Regulation S-K;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+removing the requirement that EGCs comply with Sarbanes-Oxley Act Section 404(b) auditor attestation of internal control over financial reporting;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+removing the requirement to comply with the "say on pay" rules of the Securities Exchange Act of 1934 (the "Exchange Act"); and
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+the formation of certain committees and preparation of charters for such committees including compensation and nominating committees.
+
+&#160; 
+
+Section 107(b) of the JOBS Act also permits an EGC to elect an extended transition period for complying with new or revised accounting standards that have different effective dates for public and private companies until such time as these new or revised standards are made applicable to all private companies. If the Company made this election it would mean that our financial reporting would not conform to that of existing smaller reporting companies formed prior to the passage of the JOBS Act. Accordingly, we have elected to opt out of the extended transition period for complying with new or revised accounting standards pursuant to section 107(b) of the JOBS Act which means that our accounting and financial reporting requirements will conform to all requirements of existing "smaller reporting companies" under the Exchange Act of 1934. Under the JOBS Act our election is irrevocable. 
+
+&#160;
+
+&#160; 6 
+
+&#160; &#160;
+
+Our acquisition of Cogent 
+
+&#160;
+
+In March 2012, we completed the acquisition of all of the issued and outstanding shares of common stock of Cogent from Sakura Software Inc. and Benford Consultancy Inc. in exchange for a total of thirty million (30,000,000) restricted shares of our common stock, as a result of which Cogent became our wholly-owned subsidiary. As part of the exchange transaction we also issued 5,000 Series A Preferred shares to Sakura Software and Benford Consultancy. Prior to the closing of the exchange transaction, we did not have any operating revenues. At the acquisition closing, Cogent's business consisted primarily of providing connectivity and data acquisition to a wide variety of industrial and office hardware and software products, and then making that data available over a network using industry-standard protocols. Cogent currently markets its products and services primarily to manufacturers in industrial processes and financial services companies. Cogent had approximately $916,000 in annual revenues from its operations for its fiscal year ended October 31, 2014 and $952,000 in annual revenues for the fiscal year ended October 31, 2015. 
+
+&#160;
+
+Our acquisition of NiC 
+
+&#160;
+
+In November 2014, we completed the acquisition of all of the issued and outstanding shares of common stock of Nic Corporation in Osaka, Japan from Mr. Akira Iwata, Mrs. Takako Nishikawa and Mr. Mitsuharu Sekiguchi in exchange for a total of one-hundred and ten thousand ($110,000.00) U.S. dollars and fifty thousand (50,000) restricted shares of our common stock, as a result of which NiC became our wholly-owned subsidiary. At the acquisition closing, NiC's business consisted primarily of providing custom hardware and software development services to a variety of embedded industrial and office hardware and software products. NiC currently markets its products and services primarily to manufacturers in industrial processes and financial services companies. 
+
+&#160;
+
+Our business 
+
+&#160;
+
+We are an industrial middleware vendor that has specialized in providing connectivity and data acquisition to a wide variety of industrial and office hardware and software products, and making that data available over a network using industry-standard protocols. We have introduced a number of innovations to our real-time data products including a high speed redundancy facility and a web-based user interface providing desk-top quality graphics. We have patented and patent-pending technology that addressesthe data transmission problems of data rate, latency, redundancy, and security in Cloud based systems with a unique push-pull system that insulates both a plant and a remote user from opening their firewalls to the Internet. 
+
+&#160;
+
+Our system can operate as a simple add-on to existing Supervisory Control and Data Acquisition (SCADA) or as the basis for new deployment. SCADA is a system that collects information from various sensors installed at a factory or other remote locations. All of the collected data is sent to a common or central computer for further processing and storage and is used to describe control processes in various industries such as water treatment, manufacturing processes, and environmental procedures. 
+
+&#160;
+
+Skkynet's newly-released award-winning SkkyHub&#8482; service is compatible with our existing DataHub &#210; and Embedded Toolkit (ETK) software. Current customers of our DataHub &#210; software can easily configure it to immediately take advantage of our Cloud services. Our DataHub &#210; software includes applications for all of the following uses: 
+
+&#160;
+
+&#8211; 
+
+real-time graphical web display of data, which includes collaborative screen development and full permissions-based access; 
+
+&#160;
+
+&#8211; 
+
+connection to data from OPC (open process control), DDE (dynamic data exchange) and Modbus servers to produce immersive real-time displays to analyze the current status of factory production, embedded systems or financial strategies; 
+
+&#160;
+
+&#160; 7 
+
+&#160; &#160;
+
+&#8211; 
+
+a feature that enables full data mirroring designed to overcome DCOM (distributed component object models) server issues to permit connection to the most recent data available if a server is temporarily unavailable; 
+
+&#160;
+
+&#8211; 
+
+data logging which enables both reading and writing of data with any ODBC (open database connectivity) database such as most Windows and Linux databases; 
+
+&#160;
+
+&#8211; 
+
+creation of a data bridging interface to permit association of data points in one system with corresponding data points in another control system; 
+
+&#160;
+
+&#8211; 
+
+the ability to provide historical data for both QuickTrend and WebView trend displays; 
+
+&#160;
+
+&#8211; 
+
+data redundancy features; and 
+
+&#160;
+
+&#8211; 
+
+network system monitoring with the ability to query the operating system it is running on for system status and resource capacity such that this system wide monitoring of critical network resources can help identify problems. 
+
+&#160;
+
+These DataHub &#210; features make our existing customer base a logical first marketing source for the adoption of our Cloud services. Our SkkyHub&#8482; service provides the following additional functionality and features over the DataHub &#210; : 
+
+&#160;
+
+&#8211; 
+
+scalable remote networking of industrial SCADA systems and embedded devices in real-time with built-in consolidation of data; 
+
+&#160;
+
+&#8211; 
+
+lower cost of ownership by not requiring any programing, no software to buy, no additional PC or server hardware to buy; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+high-speed data throughput with the ability to collect, send, and receive up to 50,000 data changes per second at speeds just a few milliseconds over Internet latency; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+robust security model, where no inbound connection requests to the SCADA system or embedded device are required; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+full supports of industry standard SSL encryption protection, and no requirement for virtual private networks (VPNs) or additional security hardware; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+no changes to the hardware or software of an existing system. Our customers can decide what data to transmit, and how: one-way or bidirectional, where all configuration changes are in the customers' control; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+view any connected process in a fully web-based interface, providing immersive graphics and real-time response that replicates or exceeds the performance of traditional human-machine-interfaces (HMIs); 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+granular security permissions so that qualified users can configure security settings to provide read-only access to limited data sets for public use, while giving bi-directional access to insiders. Authorized developers can access the complete online design interface; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+create and edit screens from any location, all within a standard web browser; no coding or development system is required, and our customers can drag-and-drop desktop-quality graphics to build HMI screens right inside a web browser as it populates and displays data in real-time on the same screen; changes can be deployed to all users instantly; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8211; 
+
+DataHub &#210; Embedded Toolkit (ETK) provides a direct link to SkkyHub&#8482; from a wide range of devices and operating systems, a seamless, end-to-end solution for M2M and viewing customer data from their device on the Internet 
+
+&#160;
+
+&#160; 8 
+
+&#160; &#160;
+
+Our customers 
+
+&#160;
+
+Currently, our customers can be broadly categorized into two groups: industrial automation and financial trading. Industrial automation systems (including remote monitoring and tracking systems) account for approximately 80% of revenue, while financial trading, software support, custom development and legacy system support account for the remainder. 
+
+&#160;
+
+In the industrial automation space, we have customers in a wide variety of business sectors including aerospace, automation and control, chemicals, communications, education, engineering, food and beverage, financial services, healthcare and pharmaceuticals, instrumentation, natural resources, and systems integrators, including several Fortune 100 and large multinational companies. Over a 5 year period we, including the historical operations of Cogent have provided our products and services to more than 600 customers in the following industries: Aerospace, Automation &#38; Control, Chemicals, Communications, Education, Engineering, Energy &#38; Utilities, Financial, Food&#38; Beverage, Government &#38; Municipal, Healthcare &#38; Pharmaceutical, Instrumentation, Manufacturing, Natural Resources and System Integrators. 
+
+&#160;
+
+We sell to end user customers' primarily through resellers and directly. Two resellers accounted for 44% of sales in 2015 and 48% of sales in 2014. We have all the information on their end users and if a reseller should go out of business, we can contact the end users directly and continue to sell to them. In the last two years, none of our end user customers, with one exception, is responsible for more than 10% of our revenues, and twenty eight (28) end user customers account for approximately 50% of our gross revenues. During our last twofiscal years ended October 31, 2014 and 2015 one end user customer accounted for 14% and 8%, of our gross revenues. Our customers have included many companies among the Fortune 500, and we have sold our products and services to approximately 280 such customers in 2015 and 209 in 2014. 
+
+&#160;
+
+Our financial customers are typically small to medium sized specialist trading firms or hedge funds targeting specific niches. We have customers working in risk management, futures trading, commodities trading, arbitrage, energy spot trading and other areas. Our software is used as a data transmission middleware allowing the customer's analysts to apply proprietary algorithms to market data and then to distribute it to their clients at very high speed. Our customers in the financial sector are generally reluctant to share the details of their deployments due to competitive concerns, making sales by example more difficult. 
+
+&#160;
+
+Our products and services 
+
+&#160;
+
+Our business is organized such that we license our software under a variety of packaging and financial arrangements. Our software is designed to be modular, such that the customer can choose from a variety of Product Packs and features to create the type of system that they require. There are currently twelve (12) different Product Packs such as DataHub &#210; OPC Tunneler and DataHub &#210; WebView. Each Product Pack is a selection of different functionalities chosen from a total of 17 different available features. The customer selects the set of features it requires for its particular application, with the software licensing price determined by that feature set. 
+
+&#160;
+
+In addition, we offer customers the ability to license our products for use as SaaS with a view to relicensing them to others with whom they do business. We also offer our licenses with upgrades in the form of an on-going maintenance program and service program for which we charge additional fees depending upon the package of services requested. 
+
+&#160;
+
+We offer OEM customers the ability to re-brand our software to integrate it with their own product offering. This re-branding can be "shallow" or "deep." Shallow rebranding modifies the icons, images, name and contact information our software presents to the end user. There is no attempt to hide the fact that the software was developed by us. Deep rebranding attempts to remove all visible indications that our software is being used by the OEM customer. This requires more work and ongoing maintenance, as well as formal agreements with regard to our intellectual property. 
+
+&#160;
+
+&#160; 9 
+
+&#160; &#160;
+
+Industrial automation systems require expertise to configure properly. Generally the customer has in-house IT expertise regarding its particular process, but may have limited experience with our software or the details of communication integration. We offer consulting services to assist customers in configuring their systems and our software to smoothly integrate into their processes. We provide a limited amount of assistance at no charge as part of the sales cycle. Where the customer requires more involved assistance, we offer consulting services at market rates. 
+
+&#160;
+
+As part of our expansion into Cloud services, we provide two types of Cloud service: remotely hosted Cloud systems, and locally hosted Cloud systems. In the remotely located case, we maintain and manage the operating system infrastructure that allows users to access their industrial automation data via the Internet. We subcontract the Cloud hardware infrastructure from large, established vendors. In the locally hosted case, the customer is responsible for the hardware and data connectivity, and we will provide the software, and optionally the system administration for that software. A customer who wants a remotely located Cloud system will still be required to run some software locally. Our existing on-premise software acts as a bridge between the plant and the remote Cloud system. If the Cloud system becomes unavailable due to communication outage or hardware failure, the customer's plant will still continue to run in isolation from the remote Cloud system, simply reconnecting once the remote system becomes available again. In effect, our Cloud offering acts as an extension of the local process to a wide-area network or to the Internet. For reasons of speed, security and resiliency we do not anticipate that customers will accept a purely Cloud-based system for their immediate industrial automation data needs. We believe that this may change in the future as technology and market expectations change, as they have done in other markets that have adopted purely Cloud-based services, such as, for example, Salesforce.com and customer relations management (CRM) software. 
+
+&#160;
+
+Our on-premise software is available for download from our website, http://cogentdatahub.com. Our Cloud-based service is available for registration at http://skkynet.com . A customer can install and use the on-premise software in demonstration mode for a limited time, after which they can re-start the software to reset the time limit. This allows a potential customer to configure and test the software in their system before purchase, both to ensure that it will meet their needs and to determine which product features they will want to purchase. Similarly, the Cloud-based service is available to potential customers to sign up and use it for a paid trial to configure and test, as well as other service levels for full system implementations. 
+
+&#160;
+
+To ensure smooth implementation of our software in a customer's environment we have organized approximately 50 different technical partners and resellers in different geographic areas with whom we cooperate. Some of them also sell related hardware and software products of their own, and assist us in the installation, monitoring and maintenance of our products within their customer base. These technical partners may be listed on our website. We continuously seek to recruit new technical partners. We have made recent progress on partnering with world-class hardware companies such as Renesas Electronics (world's largest microcontroller vendor) and Red Lion Controls (a major industrial hardware vendor, and subsidiary of Spectris plc, a constituent of the FTSE 250 Index). 
+
+&#160;
+
+Our service support to potential and existing customers 
+
+&#160;
+
+The nature of our market and our sales style demand timely and thorough customer support both before and after a sale is made. Because a potential customer can download and test our software, we provide service support even before the sale is made. This supplies the customer with a no-risk mechanism for ensuring that the software will work in their system, and gives us early feedback from the customer. If the customer has questions or concerns, they are answered immediately, making the subsequent sale and installation process simpler. 
+
+&#160;
+
+&#160; 10 
+
+&#160; &#160;
+
+During the sales process, we work with customers via telephone or email to help them understand which product features are necessary for their projects. This starts with asking the customer to fill out a short questionnaire explaining their project needs when they ask for a cost quotation. If the customer is unsure about their software requirements, we assist by asking pertinent questions regarding the intended application and by providing clarification on the types of features they need. 
+
+&#160;
+
+We offer customer support via telephone email, fax and Internet message board during office hours. Where appropriate, we offer live desktop-sharing sessions with customers via Cisco WebEx. This dramatically reduces the time to resolution when the customer's network and security policy allow it. We have distributors in different parts of the world who offer support in the customer's time zone and language. We place a high priority on support of distributors, including joint phone calls and WebEx sessions with their customers to arrive at quick and satisfactory resolutions. 
+
+&#160;
+
+We incentivize distributors and resellers to develop their technical support capabilities by offering a price discount structure on software sales based on the degree to which the distributor can handle technical support requests from customers. Our goal is to have our sales occur through a combination of our direct efforts and reliance upon our global network of distributors, where the distributor provides support to the customer, and we provide support to the distributor. 
+
+&#160;
+
+Our marketing 
+
+&#160;
+
+We have a variety of marketing activities. In 2013, we launched a new website at http://skkynet.com focused on general company information, updates and press releases regarding the general operations of the business, and as an information portal for the SkkyHub&#8482; service. We also maintain a complete library information section of blog articles, whitepapers and industry news on implementing real-time data access over the Cloud. 
+
+&#160;
+
+Our primary means of contacting customers is through direct telephone and email contact; appearances at tradeshows, publications in recognized industry magazines and periodicals, our websites coupled with Google advertising and marketed WebEx presentations, including joint promotions with key partners and resellers. We use Google ad-words and search engine optimization to draw the attention of customers in our market. Some of our website materials can be technical in nature, and may include live demonstrations, training videos and instruction manuals. We invite potential customers to download trial versions of our software prior to purchase. 
+
+&#160;
+
+We maintain distribution relationships with approximately 50 companies around the world. These companies perform their own marketing and promotion to varying degrees, using both original material and material that we provide. We continue to seek new qualified distribution partners. 
+
+&#160;
+
+In addition to the foregoing, we engage in the following activities as part of our marketing efforts. We maintain targeted banner advertising on the OPC Foundation website (www.opcfoundation.org). This is augmented by a quarterly publication, OPConnect, in which we place product announcements and case studies. We send a monthly newsletter to an opt-in mailing list of more than 1,300 customers and contacts. We produce periodic press releases through a press release service. We maintain LinkedIn, Twitter, YouTube and blog accounts for outreach to our customers and to draw attention to aspects of our software and market. 
+
+&#160;
+
+&#160; 11 
+
+&#160; &#160;
+
+We write and publish case studies of successful implementations of our software. These are sometimes produced in cooperation with distributors, and are occasionally published in industry trade magazines. We publish white papers on technical subjects and send them to prospects and distributors, as well as distribute them on our website and through trade magazine websites. These activities are focused on education rather than promotion. 
+
+&#160;
+
+Our revenue sources 
+
+&#160;
+
+Our revenue comes from the following sources: 
+
+&#160;
+
+&#183; 
+
+Software licensing for industrial automation systems 
+
+&#160;
+
+&#183; 
+
+Software licensing for OEM customers 
+
+&#160;
+
+&#183; 
+
+Software licensing for financial trading systems 
+
+&#160;
+
+&#183; 
+
+Software support program renewals 
+
+&#160;
+
+&#183; 
+
+Legacy installation support 
+
+&#160;
+
+&#183; 
+
+Custom integration and development 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+SaaS revenue from financial clients of Skkynet's VINE&#8482; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+SaaS revenue from industrial clients of SkkyHub&#8482; 
+
+&#160;
+
+More than 80% of our revenues are derived from software licensing for industrial automation systems; while financial trading, software support, custom development and legacy system support account for the remainder. 
+
+&#160;
+
+Our expenses 
+
+&#160;
+
+Our typical expenses are primarily incurred in the following areas: wages, benefits and contractors of which about half is for software development; office and general; sales, marketing, advertising and promotion. In future years we expect the proportion of expenses in our operating budgets allocable to the categories of programming development and sales personnel to increase as well as the expenses associated with maintaining and improving our Cloud-based site for our customers. 
+
+&#160;
+
+Our business plans 
+
+&#160;
+
+We believe that we have substantial room for growth in three primary areas of our business. The first is the expansion of our current lines of business providing real-time data middleware to the industrial automation and financial trading markets. Second, is the deployment of our products and services through Cloud-based SaaS products. Third, is the application of our products and services to new business lines such as embedded products; where "edge-processing" is required (e.g. remote monitoring and control of assets over third party networks). We have had limited resources to apply to marketing and sales in these areas. We believe that this revenue can be improved through dedicated marketing and sales effort. 
+
+&#160;
+
+We expect the second area of growth to be in the provision of Cloud services for real-time data. This is a market that is still in its formative stages around the world, and our technology is well suited to its development. We will expand and focus our software development on modifying our existing products to provide a smoother and more secure user experience for real-time data handling in the Cloud. Real-time Cloud systems require two components &#8211; a local component running at the customer's site, and a Cloud component running on a managed Cloud infrastructure system. Our software development will focus on improving the security and reducing the friction for users to deploy the local component on their systems. At the same time, we will improve the user experience and automation of the Cloud component to reduce the cost of management, deployment and scaling as the number of customers grows. We rent Cloud server space from Cloud infrastructure providers such as Amazon, and/or run and maintain our own servers. In the future, we may transition to our own servers as resources permit, and if there is an economic rationale to do so. 
+
+&#160;
+
+&#160; 12 
+
+&#160; &#160;
+
+We recognize that not all customers will be willing to entrust some of their data transmission to a third party, or to an Internet-based server. In these cases, we offer to deploy our software on private servers managed by the customer or local Cloud infrastructure providers. These "private Cloud" systems will require IT professionals to maintain them, and will further require the attention of experts knowledgeable in real-time data systems. We offer our expertise on an ongoing basis to partially or completely manage private Cloud systems on behalf of our customers. For this reason, we are currently working to partner with Cloud infrastructure providers in other countries where there is sensitivity over customer data remaining inside those countries. In 2015, one such partner launched a new private Cloud service, iBRESS&#8482;, in Japan. 
+
+&#160;
+
+The third area of growth is also related to Cloud systems. For the past 15 years, commercial activity on the Internet has been dominated by business-to-consumer or business-to-business applications. The advent of extremely low-cost and low power consumption sensors will change that, making the Internet into a viable medium for machine-to-machine applications. That is, sensors, machines, appliances and other devices will become directly-connected data transmitters, numbering in the billions. This rise of machine-to-machine communication will require the kinds of real-time data distribution that will be at the center of our Cloud activity. We believe that our Cloud services will be positioned to take advantage of the future development of this "Internet of Things." Some examples of applications that need this kind of data access are home energy monitoring, commercial building energy management, agricultural monitoring, weather monitoring, remote seismic sensing, fleet tracking and asset maintenance. 
+
+&#160;
+
+Currently, we have a growing customer based in this area, but it is too soon to foresee to what extent, if at all, this aspect of our potential business will develop. However, recently we garnered significant industry recognition for our technology and SkkyHub&#8482; service by winning Nokia's Open Innovation Challenge 2015 in Helsinki, Finland. 
+
+&#160;
+
+These business areas are inter-related. A customer of our Cloud services may also want to install our middleware software in their plant facility. Any existing middleware customer is a potential customer for our Cloud services. In effect, each of our commercial offerings will act as a possible source of sales for the others. Our goals in increasing our sales of middleware software are both to improve short-term revenue and to create a market for our Cloud services. Once established, our Cloud services will further create a market for our middleware products. 
+
+&#160;
+
+In order to pursue all of these business areas, we will require capital to hire the personnel needed to explore and develop a strategy to pursue potential customers in each area. 
+
+&#160;
+
+Our intellectual property 
+
+&#160;
+
+We have an exclusive license of all of our intellectual property from an affiliated corporation that is 100% indirectly owned by our CEO and COO. See "Certain Relationships and Related Transactions." As a result of this license we have two U.S. patents and several patent applications pending for the real-time technologies employed in our software products. The first patent family is directed toward a system and method for providing real-time data to a web browser through use of a Rich Internet Application ("RIA"). Specifically, the graphical and networking features of RIA frameworks allow our software to provide low-latency, real-time data applications in a traditional web browser. The patent family includes U.S. Utility Patent Serial No. 8,661,092, International Patent Application Serial No. PCT/CA2010/001616 (published as WO 2011/044686, with International Search Report and Written Opinion), and National Phase applications currently filed pending in Europe, Japan, China, Canada, South Korea, Brazil, Australia and India. 
+
+&#160;
+
+&#160; 13 
+
+&#160; &#160;
+
+The second patent family includes U.S. Patent Serial No. 9,100,424 directed towards a system and method for secure real-time cloud services. The system and method provides a communication framework between sensors, devices, and machinery and the users of that data from any remote location that is connected to the Internet without requiring open inbound firewall ports, while at the same time enabling high data rates, low latency and full bi-directionality. The graphical and networking features of RIA frameworks in combination with the patented system and method provide low-latency, real-time data applications in a web browser securely over the Internet. We have filed U.S. continuation and PCT applications for this patent application family. 
+
+&#160;
+
+As part of our license we have the exclusive right to use several registered trademarks including "DATAHUB" &#210; which is registered in the United States and Canada. We have a registered trademark for "SKKYNET" in Canada. We also have pending trademark application for the "SKKYNET" mark in the United States. We have trade secrets and technical know-how that we protect through confidentiality and restrictive covenants with our employees and contractors. Finally, under our license agreement, we have exclusive rights to all copyrighted software and written materials, which are stored as backups in several different physical locations, and in secure, encrypted format. 
+
+&#160;
+
+Our competition 
+
+&#160;
+
+We face competition from several vendors who offer products similar to ours in the industrial automation space. Some of these competitors have resources and revenues larger than ours; however, our software is compatible with their products, making it common for a customer to install software from both us and our competition in the same system. We are not aware of direct competition for our products in the financial services sector. Two companies, Tibco and Lightstreamer, provide software that overlaps with some of the capabilities of our software; however, to our knowledge the Cogent DataHub &#210; and VINE&#8482; are the only products that provides real-time data links between Excel spreadsheets over the Internet or on a network. 
+
+&#160;
+
+There are also a number of large industrial automation vendors who offer SCADA systems to their clients. Examples include Siemens, ABB, Emerson Process Management, Rockwell Automation, Honeywell Process Solutions, GE Invensys and PTC. We view these companies and others performing similar services as potential competitors inasmuch as they have resources to link their SCADA functions to a Cloud based system; however, we are not currently aware that any vendor is doing so yet. Since these companies already have an installed base of SCADA customers whose systems can be easily connected to our software, these companies may also represent an opportunity for joint sales or OEM licensing. A number of these companies are already our customers. 
+
+&#160;
+
+There do not currently appear to be Cloud system companies organized for the purpose of hosting real-time industrial data and connectivity. One company, LogMeIn, Inc. (previously Pachube and then Cosm Ltd.), is providing Cloud storage services branded under Xively&#8482; for sensor data, but we do not regard them as competitive due to their focus on storage rather than real-time collection and distribution. Cloud infrastructure companies such as Amazon, Microsoft (Azure) and Google offer pre-configured applications or computing platforms for remotely hosting a customer's IT activities. Their primary purpose is to provide the computing substrate for the customer's applications. As such, these companies, as presently operated, act as suppliers of computing resources to us, not as competition. 
+
+&#160;
+
+&#160; 14 
+
+&#160; &#160;
+
+Employees 
+
+&#160;
+
+Currently,other than our five officers, we have five full time employees, one part time employee, and four consultants. 
+
+&#160;
+

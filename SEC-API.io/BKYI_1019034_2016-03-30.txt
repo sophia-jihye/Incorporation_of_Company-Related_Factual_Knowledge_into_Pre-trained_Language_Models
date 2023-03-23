@@ -1,0 +1,432 @@
+ ITEM 1. DESCRIPTION OF BUSINESS 
+
+&#160; 
+
+BIO-key International, Inc., a Delaware corporation (the &#8220;Company,&#8221; &#8220;BIO-key,&#8221; &#8220;we,&#8221; or &#8220;us), was founded in 1993 to develop and market advanced fingerprint biometric technology and related security software solutions. First incorporated as BBG Engineering, the company was renamed SAC Technologies in 1994 and, again, renamed BIO-key International, Inc. in 2002. 
+
+&#160; 
+
+We develop and market advanced fingerprint biometric identification and identity verification technologies, as well as related identity management and credentialing software solutions. We were pioneers in developing automated, finger identification technology that supplements or compliments other methods of identification and verification, such as personal inspection identification, passwords, tokens, smart cards, ID cards, PKI, credit card, passports, driver&#8217;s licenses, OTP or other form of possession or knowledge-based credentialing. Additionally, advanced BIO-key&#174; technology has been, and is, used to improve both the accuracy and speed of competing finger-based biometrics. 
+
+&#160; 
+
+In 2015, we entered into the fingerprint hardware device business through a strategic relationship with China Goldjoy Group (&#8220;CGG&#8221;), an entity that is affiliated with two of our directors. We distribute directly to end users our SideSwipe&#8482; and EcoID&#8482; readers which can be used on any laptop, tablet or other device which contains a USB port. For additional information on our strategic relationship with CGG, refer to &#8220;Item 13. Certain Relationships and Related Transactions, and Director Independence.&#8221; and &#8220;Item 8. Financial Statements and Supplementary Data - Note J &#8211; Related Party.&#8221; 
+
+&#160; 
+
+We have developed what we believe is the most discriminating and effective commercially available finger-based biometric technology. Our primary focus is in marketing and selling this technology into commercial logical and physical privilege entitlement and access control markets. Our primary market focus includes mobile payments and credentialing, healthcare records and data security, among other things. Our secondary focus includes government markets, large scale identity projects such as voter&#8217;s registration, driver&#8217;s license, national ID programs, and SIM card registration. 
+
+&#160; 
+
+We continue to develop advancements in our capabilities, as well as explore potential strategic relationships, including business combinations and acquisitions, which could help us leverage our capability to deliver our solutions. We have built a direct sales force, and additionally, utilize resellers, integrators and partners with substantial experience in selling technology solutions to government and corporate customers in their respective markets. 
+
+&#160; 
+
+Products 
+
+&#160; 
+
+Finger-based Biometric Identification and Personal Identity Verification 
+
+&#160; 
+
+We are a leader in finger-based biometric identification and personal identity verification, as well as authentication-transaction security. Stand-alone, or in partnerships with OEMs, integrators, and solution providers, we provide biometric security solutions to private and public sector customers. We help customers reduce risk by providing the ability to control access to facilities and services, in either the logical or physical domain. Our solutions positively identify individuals and verify, or confirm, their identity before granting access to, among other things, corporate resources, subscribed data and services, web portals, applications, physical locations or assets. 
+
+&#160; 
+
+We also develop and distribute hardware components, through our strategic relationship with CGG that are used in conjunction with our software. Additionally, we sell third-party hardware components with our software in various configurations required by our customers, as do our partners. Our products are interoperable with all major fingerprint reader and hardware manufacturers, enabling application developers, value added resellers (&#8220;VARs&#8221;), and channel partners to integrate our fingerprint biometrics into their application, while dramatically reducing maintenance, upgrade and life-cycle costs. Our core technology supports interoperability on over 40 different commercially available fingerprint readers. The technology is also interoperable across Windows and Linux, as well as Apple iOS and Android mobile operating systems. This interoperability is unique in the industry and a key differentiator for our products in the biometric market and, in our opinion, makes our technology more viable than competing technologies and expands the size of the overall market for our products. 
+
+&#160; 
+
+In November 2015, we entered into a license agreement with CGG pursuant to which we obtained a license to certain software from CGG, known as FingerQ, which is currently being integrating into our core WEB-key&#174; platform and will be used in a number of application areas, including mobile payments and personal identity devices for the Asia Pacific markets. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Our biometric identification technology improves both the accuracy and speed of screening individuals, for identification purposes or for personal identity verification, by extracting unique data from a fingerprint and comparing it to existing similar fingerprint data. The technology has been built to be completely scalable and can handle databases containing millions of fingerprints. We achieve the highest levels of discrimination without requiring any other identifying data (multi-factor) such as a user ID, smart ID cards, or tokens, although our technology can be used in conjunction with such additional factors. Users of our technology have the option of on device or cloud authentication. This flexible authentication option in conjunction with our interoperable capabilities, is another key differentiator of our biometric identification solutions. 
+
+&#160; 
+
+We support industry standards, such as FIDO, BioAPI, and have received National Institute of Standards and Technology independent laboratory certification of our ability to support Homeland Security Presidential Directive #12 (HSPD-12) and ANSI/INCITS-378 templates, as well as validation of our fingerprint match speed and accuracy in large database environments. 
+
+&#160; 
+
+Our finger identification algorithm, Vector Segment Technology (VST&#8482;), is the core intellectual property behind our full suite of biometric products that include: 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Vector Segment Technology SDK (VST )&#8212;Our biometric software development kit (&#8220;SDK&#8221;) that provides developers the ability to incorporate our biometric capabilities into their respective product offerings or infrastructure. VST is available as a low level SDK for incorporation into any application architecture to increase security while not sacrificing convenience. VST runs on Windows and Linux as well as within WEB-key&#174; on iOS and Android systems. 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Intelligent Image Indexing&#174; &#8212;Our biometric identification solution that offers both large-scale one-to-many and one-to-one user identification. This solution enables customers to perform false alias and fast entry checks, including preventing fraudulent access to systems and privileges. Intelligent Image Indexing scales identification capabilities from thousands to millions of users. The solution runs on commercially available hardware making it scalable for any size system. 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Biometric Service Provider &#8212;We provide support for the BioAPI (a standards-based solution meeting worldwide needs) for a compliant interface to applications using biometrics for verification and identification. We enhance the traditional use of BioAPI by adding 64-bit support and other advanced features, supporting identification calls and also providing a single user interface for multiple fingerprint readers. 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+ID Director&#8482; &#8212;Our Single Sign On (SSO) is a suite of solutions for integration with CA Technologies SiteMinder, Oracle&#8217;s Fusion Middleware SSO, IBM Tivoli Access Manager and other solutions, utilizing the power and security of WEB-key. This solution provides a simple to implement, custom authentication scheme for companies looking to enhance authentication. ID Director is designed to add a level of security and convenience to the transaction level of any application. 
+
+&#160; 
+
+In 2015, Microsoft announced native support for biometrics in the Windows 8.1 and Windows 10 Operating platforms as well as Office 2016. With Microsoft Hello any user can replace their PIN or password to access their device without any special software downloads by using our recently introduced finger scanners, SideSwipe and EcoID, which are plug and play compatable with the Microsoft platforms. BIO-key has been the exclusive partner, in particular at the Microsoft &#8220;Ignite your Business&#8221; Windows 10 and Office 2016 launch events, which has generated a number of leads and opportunities for both our hardware and software offerings. Moving forward, we intend to aggressively pursue these opportunities. 
+
+&#160; 
+
+Authentication Transaction Security 
+
+&#160; 
+
+Our authentication-transaction security technology, WEB-key&#174;, provides the ability to conduct identification and identity verification transactions in potentially insecure environments, including the World Wide Web or in off-site cloud environments. 
+
+&#160; 
+
+WEB-key makes cloud-based biometric user-authentication viable and eliminates technology constraints on online service providers, who are otherwise held dependent on handset provider hardware and software platform decisions. It extends all features and functionalities of the VST algorithm to customers looking to add an enhanced level of security to their thin client and client/server applications. WEB-key is currently supported by both Windows and Linux operating systems. Clients are available on Windows, iOS and Android operating systems. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Intellectual Property Rights 
+
+&#160; 
+
+We develop and own significant intellectual property and believe that our intellectual property is fundamental to our biometric operation: 
+
+&#160; 
+
+Patents 
+
+&#160; 
+
+We own patented technologies and trade secrets developed or acquired by us. 
+
+&#160; 
+
+In May 2005, the U.S. Patent &#38; Trademark Office issued patent 6,895,104 for our Vector Segment fingerprint technology (VST), BIO-key&#8217;s core biometric analysis and identification technology. With the payment of all maintenance fees, this patent will expire on March 4, 2023. 
+
+&#160; 
+
+On October 3, 2006, we announced that our patent for a biometric authentication security framework had been granted by the U.S. Patent &#38; Trademark Office. The patent No. 7,117,356 was issued to us for a biometric authentication security framework that enhances commercial and civil biometric use. Our authentication security framework protects privacy and security of cloud or network based authentications while also facilitates ease of use of biometric systems. The technology that this patent is based on is the foundation for the authentication security incorporated in our WEB-key product line. WEB-key is a mature enterprise authentication solution that functions in a wide variety of application environments. The solution supports a variety of implementation alternatives including card technologies for &#8220;two-factor&#8221; authentication and also supports &#8220;single-factor&#8221; authentication. Partners and customers implementing our WEB-key software to provide convenient and secure user identity include a number of institutions including the Allscripts Healthcare Solutions, Computer Associates Site Minder, Oracle Access Manager and many other enterprise and solutions based systems. With the payment of all maintenance fees, this patent will expire on May 20, 2023. 
+
+&#160; 
+
+On December 26, 2006, we were issued US patent No. 7,155,040 covering our unique image processing technology, which is critical for enhancing information used in the extraction of biometric minutiae. The issued patent protects a critical part of an innovative four-phase image enhancement process developed by us. With the payment of all maintenance fees, this patent will expire on January 29, 2025. 
+
+&#160; 
+
+On April 15, 2008, we were issued US patent No. 7,359,553 covering our image enhancement and data extraction core algorithm components. The solution protected under this patent provides the capability to quickly and accurately transform a fingerprint image into a computer image that can be analyzed to determine the critical data elements. With the payment of all maintenance fees, this patent will expire on January 3, 2025. 
+
+&#160; 
+
+On August 19, 2008, we were issued US patent No. 7,415,605 for our &#8220;Biometric Identification Network Security&#8221; method. The solution protected under this patent provides a defense against hackers and system attacks, while leveraging the industry standard Trusted Platform Module (TPM) specification for encryption key management. With the payment of all maintenance fees, this patent will expire on May 20, 2023. 
+
+&#160; 
+
+On November 18, 2008, we were issued US patent No. 7,454,624 for our &#8220;Match Template Protection within a Biometric Security System&#8221; method. The solution protected under this patent limits the scope of enrollment templates usage and also eliminates the need for revocation or encryption processes, which can be expensive and time consuming. With the payment of all maintenance fees, this patent will expire on May 17, 2025. 
+
+&#160; 
+
+On March 10, 2009, we were issued US patent No. 7,502,938 for our &#8220;Trusted Biometric Device&#8221; which covers a simple, yet secure method of protecting a user&#8217;s biometric information. It covers the transmission of information from the point the information is collected at the biometric reader until the data reaches the computer or device that is authenticating the user&#8217;s identity. With the payment of all maintenance fees, this patent will expire on October 25, 2025. 
+
+&#160; 
+
+On May 26, 2009, we were issued US patent No. 7,539,331 for our &#8220;Image Identification System&#8221; method for improving the performance and reliability of image analysis within an image identification system. With the payment of all maintenance fees, this patent will expire on March 22, 2022. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+On November 8, 2011, we were issued US Patent No. 8,055,027 for our &#8220;Generation of Directional Information in the Context of Image Processing&#8221; method for image enhancement and processing. With the payment of all maintenance fees, this patent will expire on October 10, 2027. 
+
+&#160; 
+
+On July 3, 2012, we were issued US Patent No. 8,214,652 for our &#8220;Biometric Identification Network Security&#8221;, an expanded method of network and related network authentication security systems utilizing hardware based support for encryption and key management for authentication purposes. With the payment of all maintenance fees, this patent will expire on April 24, 2024. 
+
+&#160; 
+
+We have also been granted parallel patents to the US Patent portfolio to certain of our patents in many foreign countries offering protection of our intellectual property rights around the world. 
+
+&#160; 
+
+Licensed Technology 
+
+&#160; 
+
+In the fourth quarter of 2015, we entered into a license agreement with affiliates of CGG. The license agreement provides for the grant to our subsidiary, BIO-key Hong Kong Limited, of a perpetual, irrevocable, exclusive, worldwide, fully-paid license to all software and documentation regarding the software code, toolkit, electronic libraries and related technology currently known as or offered under the Finger Q name, together with perpetual license under all related patents held by the licensors and any other intellectual property rights owned by the licensors related to the forgoing software. This portfolio includes 16 patents focused on, among other things, mobile payment systems and mobile payment methods based on biometric authentication as well finger print authentication systems and a finger print authentication method based on NFC. The license agreement grants us the exclusive right to reproduce, create derivative works and distribute copies of the FingerQ software and documentation, create new FingerQ related products, and grant sublicenses of the licensed technology to end users. In addition, in the event the licensors make any derivatives or improvement in the FingerQ software or make any product or service that may compete with or which includes functionality similar to the FingerQ technology, they are required to license such derivative, improvement, product or service to us on the terms set forth in the license agreement at no additional charge. The license arrangement also allows us to create new, innovative solutions to address the growing demand for secure mobile transactions. 
+
+&#160; 
+
+Trademarks 
+
+&#160; 
+
+We have registered our trademarks &#8220;BIO-key&#8221;, &#8220;True User Identification&#8221;, &#8220;Intelligent Image Indexing&#8221;, &#8220;WEB-key&#8221;, &#8220;SideSwipe&#8221; and &#8220;EcoID&#8221; with the U.S. Patent &#38; Trademark Office, as well as many foreign countries, protecting our companies name and key technology offering names. 
+
+&#160; 
+
+Copyrights and trade secrets 
+
+&#160; 
+
+We take measures to ensure copyright and license protection for our software releases prior to distribution. When possible, the software is licensed in an attempt to ensure that only licensed and activated software functions to its full potential. We also take measures to protect the confidentiality of our trade secrets. 
+
+&#160; 
+
+Markets 
+
+&#160; 
+
+Identity Management, User Authentication, Privilege Entitlement and Access Control 
+
+&#160; 
+
+Our products reduce risk of theft, fraud, loss and attack by limiting access to valuable assets, privileges, data, services, networks and places, to only authorized individuals. Conversely, our products enhance the monetary value and/or viability of privileged assets, places and services by ensuring only subscribers and otherwise entitled holders can enjoy full access to their privileges. In effect, our products replace traditional credentialing systems, which utilize a physical or electronic credential document to represent the holder&#8217;s privilege entitlement, and access control systems that guard access to such privileges. Examples of such privileges include, but are not limited to: international travel and immigration privileges; employment ID, campus ID and corporate ID privileges; healthcare service privileges; citizen entitlement privileges such as Medicare, Medicaid and Social Security; and bank, credit account and financial transaction privileges such as checking accounts, debit and credit cards, payments, online services and subscription privileges. Examples of access points include doorways, gates, computers, point-of-sale terminals, smart-phones or web-portals and automobiles. In our opinion, the market for advanced user authentication, including fingerprint biometrics, is conceptually enormous, represented by virtually any doorway, gate, computer network or internet end-point like smart-phones, desktops, laptops PCs and tablets, and compounded by the number of individuals privileged to access something guarded by those access points. We believe the market opportunity for our products is massive, global and growing encompassing nearly all privilege entitlement and access control systems. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; &#160; 
+
+Historically, our largest market has been access control within highly regulated industries like healthcare. However, we believe the mass adoption of advanced smart-phone and hand-held wireless devices have caused commercial demand for advanced user authentication to emerge as viable. The introduction of smart-phone capabilities, like mobile payments and credentialing, could effectively require biometric user authentication on mobile devices to reduce risks of identity theft, payment fraud and other forms of fraud in the mobile or cellular based World Wide Web. As more services and payment functionalities, like mobile wallets and NFC, migrate to smart-phones, the value and potential risk associated with such systems should grow substantially and drive demand and mass adoption of advanced user authentication technologies, including fingerprint biometrics and our solutions. 
+
+&#160; 
+
+Upon introducing a series of compact fingerprint readers, we saw an immediate uptick in inquiries from both large commercial companies seeking an alternative to passwords, and from consumers recognizing that they could use SideSwipe or EcoID to replace their Windows password. 
+
+&#160; 
+
+In October 2015, we established a wholly owned subsidiary in Hong Kong &#8220;BIO-key Hong Kong&#8221; for purposes of establishing relationships and conducting business is the Asia Pacific Region. Through our new Hong Kong subsidiary, we will staff to support the growing demand for secure identification and authentication in the region. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+We believe there is potential for significant market growth in five key areas: 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Corporate network access control, corporate campuses, computer networks, and applications. 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Consumer mobile credentialing, including mobile payments, credit and payment card programs, data and application access, and commercial loyalty programs. &#160; 
+
+&#160;
+
+&#160; 
+
+&#9679; 
+
+Demand for BIO-key hardware products from Windows 10 users and Fortune 500 companies. 
+
+&#160;
+
+&#160; 
+
+&#9679; 
+
+Government services and highly regulated industries including, Medicare, Medicaid, Social Security, Drivers Licenses, Campus and School ID, Passports/Visas. &#160; 
+
+&#160; &#160; &#160; &#160; &#9679; Growth in the Asia Pacific region. &#160; 
+
+Business Model 
+
+&#160; 
+
+Our business model for 2016 and beyond is focused on the following key areas: 
+
+&#160; 
+
+Market Drivers: The primary drivers for fingerprint authentication are identity theft, data breaches, and compliance in highly regulated industries such as government, financial services, and healthcare. However, the number one driver might be the world&#8217;s dissatisfaction with passwords. Introduced as a way to offer a personal layer of security when the Internet was first launched, and long before the term &#8220;hacker&#8221; was coined, the password was a great solution to protect access to email accounts and basic internet activities. Yet, none of us could envision that the internet and smart mobile devices would expose us to a new boundary-less world, one that would require a much better understanding of cybersecurity. 
+
+&#160;
+
+&#160; Education has been an important factor in the growth of the biometric industry. Expanded utilization provides use cases and helps increase awareness. Even as myths about the technology are discussed, eventually, industry leaders educate the public about the facts versus fiction. BIO-key has taken a keen focus on championing biometric technology across all verticals and is viewed as a thought leader in the space. We have been featured in the national media and participate in national and international trade conferences commenting on key topics and issues within the industry 
+
+&#160;
+
+OEM Customers 
+
+We will continue to prioritize securing agreements with OEM customers. The history of success supporting NCR, McKesson and LexisNexis provides an established footprint that we intend to build upon. As OEM customers embed BIO-key solutions within their products, the customer benefits from the enhanced security and workflow. OEM customers ordering patterns are more predictable and OEM customers generally require lower service and support resourcing. 
+
+&#160;
+
+Highly Regulated 
+
+Industries 
+
+Government projects and healthcare, including hospitals, clinics, private practices and blood centers provide a significant opportunity for BIO-key. In healthcare, we anticipate that patient identification will emerge as a highly regulated requirement for all healthcare organizations and we are developing our software to accommodate this need. The financial services industry in the U.S. has been slow to adopt biometric authentication while Asia and Europe have been more receptive to incorporating biometrics. We anticipate that the U.S. market will grow rapidly once the first major institution adopts a biometric solution. &#160; &#160; 
+
+Partner Model 
+
+We remain committed to a partner sales model. In the Identity and Access Management (IAM) space, we have adjusted our targets to include working with resellers, and are developing a security assertion markup language (SAML) solution for ease of installation purposes. In healthcare, HealthCast and other partners, such as Caradigm and Aventura, identified and sold our solutions to a number of new customers in 2015. 
+
+&#160; 
+
+Consumer Market 
+
+We are working with Amazon and developing packaging so that our compact fingerprint readers can be featured and sold through retail outlets directly to consumers. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Microsoft Partnership 
+
+In November of 2015, we established a partnership with Microsoft initiated by our participation at the &#8220;Ignite your Business&#8221; Windows 10 &#8211; Hello twelve city launch tour. BIO-key was featured as the exclusive biometric technology vendor during the launch, resulting in the accumulation of over 700 inquiries from participants at the events. 
+
+&#160;
+
+Hardware Almost immediately after launching SideSwipe, we witnessed an increase in inquiries inspiring us to develop a series of compact readers with different features and form factors. Hardware has played a significant role in increasing the visibility of our company and has become a catalyst for our software. By offering hardware to customers, we offer a more full and complete solution and eliminate the need for us to engage a hardware vendor on certain projects, which can sometimes inhibit the process and margins. The launch of our hardware division was one of the most significant developments in 2015. &#160; 
+
+&#160;
+
+Research and Development 
+
+&#160; 
+
+We concentrate our research and development efforts on enhancing the functionality, reliability and integration of our current products as well as developing new and innovative products and solutions. Although we believe that our identification technology is one of the most advanced and discriminating fingerprint technologies available today, the markets in which we compete are characterized by rapid technological change and evolving standards. In order to maintain our position in the market, we will continue to upgrade and refine our existing technologies. We have also licensed mobile platform software from China Goldjoy Group which will be integrated with our core WEB-key offerings and introduced to the Asian markets during 2016. This presents a significant opportunity for us going forward. 
+
+&#160; 
+
+Products On Demand (POD) 
+
+&#160; 
+
+Our technology and development team welcomes the opportunity to develop customer specific solutions if they are funded. Our strategy to support POD is to utilize internal resources, outsource support services and strategic partners to satisfy unique customer requirements. Our flexible, nimble business model and interoperable capabilities are key differentiators. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+In addition to companies that provide existing commonplace methods of restricting access to facilities and logical access points such as pass cards, PIN numbers, passwords, locks and keys, there are numerous companies involved in the development, manufacturing and marketing of fingerprint biometrics products to commercial, government, law enforcement and prison markets. These companies include, but are not limited to, 3M (Cogent), NEC, and MorphoTrak. 
+
+&#160; 
+
+The majority of sales for automated fingerprint identification products in the market to date have been deployed for government agencies, healthcare facilities, and law enforcement applications. The consumer and commercial markets represent areas of significant growth potential for biometrics, led by the use of mobile devices. 
+
+&#160; 
+
+The epidemic of security and data breaches reported over the past few years is one of the driving factors for identifying new methods of protecting valuable data. After attempting to create a more sophisticated password or more efficient token or PIN, it has become apparent that each of these methods are easily compromised, and the downside risks are significant. 
+
+&#160; 
+
+With respect to competing biometrics technologies, each has its strengths and weaknesses and none has emerged as a market leader: 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Fingerprint identification is generally viewed as very accurate, inexpensive and non-intrusive and is the dominant biometric in use today and will be for the foreseeable future. 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Palm Vein &#160; scanning is expensive, technique-sensitive, and offers mobility challenges; 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Iris scanning is viewed as accurate, but the hardware is significantly more expensive; and 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Facial recognition can have accuracy limitations and is typically highly dependent on ambient lighting conditions, angle of view, and other factors. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Government Regulations 
+
+&#160; 
+
+We are not currently subject to direct regulation by any government agency, other than regulations generally applicable to businesses or related to specific project requirements. In the event of any international sales, we would be subject to various domestic and foreign laws regulating such exports and export activities. 
+
+&#160; 
+
+Environmental Regulations 
+
+&#160; 
+
+As of the date of this report, we have not incurred any material expenses relating to our compliance with federal, state, or local environmental laws and do not expect to incur any material expenses in the foreseeable future. 
+
+&#160; 
+
+Employees and Consultants 
+
+&#160; 
+
+As of March 25, 2016, we employed nineteen individuals on a full-time basis as follows: (i) ten in engineering, customer support, research and development; (ii) three in finance and administration; and (iii) six in sales and marketing. We also use the services of four consultants (full-time) who provide engineering and technical services, and one part-time contracts administrator. Additionally, our Hong Kong subsidiary employs two administrative individuals. 
+
+&#160; 
+

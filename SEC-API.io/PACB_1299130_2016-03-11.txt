@@ -1,0 +1,266 @@
+ ITEM 1. BUSI NESS 
+
+Overview 
+
+&#160; 
+
+We design, develop and manufacture sequencing systems to help scientists resolve genetically complex problems. Based on our novel Single Molecule, Real-Time (SMRT &#174; ) Sequencing technology, our products enable: de novo genome assembly to finish genomes in order to more fully identify, annotate and decipher genomic structures; full-length transcript analysis to improve annotations in reference genomes, characterize alternatively spliced isoforms and find novel genes; targeted sequencing to more comprehensively characterize genetic variations; and DNA base modification identification to help characterize epigenetic regulation and DNA damage. Our technology combines very high consensus accuracy and long read lengths with the ability to detect real-time kinetic information. 
+
+&#160; 
+
+Our customers and our scientific collaborators have published numerous peer-reviewed articles in journals including Nature, Science, Cell, PNAS and The New England Journal of Medicine highlighting the power and applications of SMRT sequencing in projects such as finishing genomes, structural variation discovery, isoform transcriptome characterization, rare mutation discovery and the identification of chemical modifications of DNA related to virulence and pathogenicity. Our research and development efforts are focused on developing new products and further improving our existing products, including continuing chemistry and sample preparation improvements to increase throughput and expand our supported applications. By providing access to genetic information that was previously inaccessible, we enable scientists to confidently increase their understanding of biological systems. 
+
+Pacific Biosciences of California, Inc., formerly Nanofluidics, Inc. was incorporated in the State of Delaware in 2000. Our executive offices are located at 1380 Willow Road, Menlo Park, California 94025, and our telephone number is (650) 521-8000. 
+
+The Underlying Science 
+
+Genetic inheritance in living systems is conveyed through a naturally occurring information storage system known as deoxyribonucleic acid, or DNA. DNA stores information in linear chains of the chemical bases adenine, cytosine, guanine and thymine, represented by the symbols A, C, G and T respectively. Inside living cells, these chains usually exist in pairs bound together in a double helix by complementary bases, with A of one strand always binding to a T of the other strand and C always binding to G. 
+
+In humans, there are approximately three billion DNA base-pairs in the molecular blueprint of life, called the genome. These three billion bases are divided into 23 chromosomes ranging in size from 50 million to 250 million bases. Normally, there are two complete copies of the genome contained in each cell, one of maternal origin and the other of paternal origin. When cells divide, the genomes are replicated by an enzyme called DNA polymerase , which visits each base in the sequence , creating a complementary copy of each chromosome using building blocks called nucleotides. Contained within these chromosomes are approximately 23,000 smaller regions, called genes, each one containing the recipe for a protein or group of related proteins. The natural process of protein production takes place in steps. In a simplified model, the first step is transcription , a process in which an enzyme called RNA polymerase uses DNA as a template to synthesize new strands of messenger RNA, or mRNA. The mRNAs are then translated into proteins by ribosomes. The resulting proteins go on to play crucial roles in cellular structure and function and thus the operation of biological systems. 
+
+Numerous scientific approaches have evolved to adapt to the emerging awareness of the magnitude of complexity embedded in biological systems. The field of genomics developed to study the interactions among components in the genome and the massive quantities of associated data. Subsequently, proteomics, transcriptomics and a number of other related fields emerged. 
+
+Advances in biology over the next decade are expected to be shaped by a more detailed understanding of the fundamental complexity of biological systems. These systems vary among individuals in previously unrecognized ways and are influenced by factors including time, molecular interactions, and cell type. 
+
+Importantly for the future of genomics, the first few whole-genome sequencing studies of disease have shown that rare mutations play a critical role in human disease. These mutations would not have been detected in earlier studies because too few people, or perhaps only one person, carry the specific mutation. In addition, it is now understood that structural changes to the genome in which whole sections are deleted, inverted, copied or moved may be responsible for a significant fraction of variation among individuals. The scope of these structural changes challenges the very idea of a reference genome . &#160; 
+
+Recent discoveries have highlighted additional complexities in the building blocks of DNA and RNA, including the presence of modified bases. It has long been known that in humans and many other organisms, the cytosine bases can be chemically modified through the addition of a methyl group in a process called methylation, resulting in modified bases such as 5-methylcytosine (5-mC) and N 4 -methylcytosine (4-mC). These chemical modifications have been shown to play a role in embryonic development, have important impacts on diseases such as cancer and can even affect the characteristics of offspring for multiple generations. More recently, it has been discovered that other modified bases, such as 5-hydroxymethylcytosine, 8-oxoguanine and many others, play important physiological roles. For example, in bacteria, N 6 -methyladenine (6-mA) has been shown to play an important role in pathogenicity. 
+
+Another source of complexity derives from the processing of RNA molecules after being transcribed from the genome. The majority of all genes code for different forms of a protein that can be made depending on the structure of the RNA molecule, referred to 
+
+&#160;
+
+as splice variants. A detailed understanding of both the expression pattern and regulation of these variants is believed to play an important role in a number of critical biological processes. 
+
+Recent advances in our understanding of biological complexity have highlighted the need for advanced tools such as the PacBio &#174; RS II System and the Sequel&#8482; System &#160; to study DNA, RNA and proteins. In the field of DNA sequencing, incremental technological advances have provided novel insights into the structure and function of the genome. Despite these advances, scientists have not been able to fully characterize the human genome and the genomes of other living organisms because of inherent limitations in these tools. 
+
+Evolution of Sequencing 
+
+In order to understand the limitations of current DNA sequencing technologies, it is important to understand the sequencing process. This consists of three phases: sample preparation, physical sequencing, and analysis. The first step of sample preparation is to either break the target genome into multiple small fragments or, depending on the amount of sample DNA available, amplify the target region using a variety of molecular methods. In the physical sequencing phase, the individual bases in each fragment are identified in order, creating individual reads. The number of individual bases identified contiguously is defined as read length. In the analysis phase, bioinformatics software is used to align overlapping reads, which allows the original genome to be assembled into contiguous sequence. The longer the read length, the easier it is to assemble the genome. 
+
+Sanger Sequencing 
+
+The first automated sequencing methodology, often referred to as &#8220;Sanger sequencing,&#8221; was developed by Frederick Sanger in 1977. With this technology, during sample preparation, scientists first make different sized fragments of DNA each starting from the same location. Each fragment ends with a particular base that is labeled with one of four fluorescent dyes corresponding to that particular base. Then all of the fragments are distributed in order of their length by driving them through a gel. Information regarding the last base is used to determine the original sequence. Under standard conditions, this method results in a read length that is approximately 700 bases on average, but may be extended to 1,000 bases. These are relatively long read lengths compared with many next-generation sequencing methods. However, Sanger sequencing is limited by the small amounts of data that can be processed per unit of time, referred to as throughput. 
+
+Short-read Sequencing 
+
+Several commercial DNA sequencing tools emerged in 2005 in response to the low throughput of Sanger sequencing. Now commonly referred to as &#8220;short-read sequencing&#8221;, these methods achieve much higher throughput by sequencing a large number of DNA molecules in parallel, but with the tradeoff of shorter read lengths. 
+
+In most short-read sequencing methodologies, tens of thousands of identical strands are anchored to a given location to be read in a process consisting of successive flushing and scanning operations. The &#8220;flush and scan&#8221; sequencing process involves sequentially flushing in reagents, such as labeled nucleotides, incorporating nucleotides into the DNA strands, stopping the incorporation reaction, washing out the excess reagent, scanning to identify the incorporated base and finally treating that base so that the strand is ready for the next &#8220;flush and scan&#8221; cycle. This cycle is repeated until the reaction is no longer viable. 
+
+Due to the large number of flushing, scanning and washing cycles required, the time to result for short-read sequencing methods can be longer, sometimes taking days. This repetitive process also limits the average read length produced by most of these systems under standard sequencing conditions to approximately 35 to 400 bases. 
+
+The short-read sequencing technologies require a large number of DNA molecules during the sequencing process. To generate enough DNA molecules, a copying method called PCR amplification is required during sample preparation. This amplification process can introduce errors known as amplification bias. The effect of this bias is that resulting copies are not uniformly representative of the original template DNA. In cases where the original template DNA contains regions of relatively high G-C content or relatively high A-T content, the PCR amplification process tends to under-represent these regions. As a result, these regions, which may contain entire genes, can be completely missed. 
+
+In summary, while short-read sequencing methods can offer very high throughput and low cost per identified base, their disadvantages can include limited read length, variation in sequence coverage with regard to representation bias and accuracy, dependence on amplification, long time to result, and/or a need for many samples to justify machine operation . 
+
+The PacBio Solution &#8212; Single Molecule, Real-Time Technology &#160; 
+
+We have developed our SMRT technology, which enables single molecule, real-time detection of biological processes, to address many of the limitations of previous sequencing technologies. By providing long read lengths, elimination of the dependence on amplification during sample preparation (which can result in amplification bias), very high consensus accuracy, and the ability to detect DNA base modifications, the PacBio RS II System and the Sequel System provide more comprehensive and higher quality information of DNA and RNA sequence as well as epigenetic regulation and DNA damage. 
+
+&#160;
+
+Pacific Biosciences&#8217; SMRT Technology 
+
+SMRT technology enables the observation of DNA synthesis as it occurs in real time by harnessing the natural process of DNA replication, which in nature is a highly efficient and accurate process actuated by the DNA polymerase. The DNA polymerase attaches itself to a strand of DNA to be replicated, examines the individual base at the point it is attached, and then determines which of four building blocks, or nucleotides, is required to complement that individual base. After determining which nucleotide is required, the polymerase incorporates that nucleotide into the growing strand being produced. After incorporation, the enzyme advances to the next base to be replicated and the process is repeated. 
+
+To overcome the challenges inherent in real-time observation of the natural activity of the DNA polymerase, an enzyme measuring approximately 15 nanometers (nm) in diameter, we offer three key innovations: 
+
+&#8226; The SMRT Cell 
+
+&#8226; Phospholinked nucleotides 
+
+&#8226; The PacBio RS II and Sequel instruments &#160; 
+
+The SMRT Cell 
+
+One of the fundamental challenges with observing a single DNA polymerase molecule working in real time is the ability to detect the incorporation of a single nucleotide, taken from a large pool of potential nucleotides, during DNA synthesis. To resolve this problem, we utilize our nanoscale innovation, the zero-mode waveguide, or ZMW. 
+
+The ZMWs in our SMRT Cells consist of holes in an opaque layer, measuring only tens of nanometers in diameter forming nanoscale wells. The small size of the ZMW causes the intensity of visible laser light, which has a wavelength of approximately 600nm, to decay exponentially in the ZMW. Therefore, laser light shined into the ZMW from below is blocked from reaching the sequencing solution above the ZMW, providing selective illumination of only the bottom portion of the nanoscale well. DNA polymerases are anchored to the bottom of the glass surface of the nanoscale wells using proprietary techniques. Nucleotides, each type labeled with a different colored fluorophore, are then flooded above an array of ZMWs at the required concentration. When the labeled nucleotides diffuse into the bottom portion of the nanoscale wells, which contain the anchored DNA polymerases, their fluorescence can be monitored. When the correct nucleotide is detected by the polymerase, it is incorporated into the growing DNA strand in a process that takes milliseconds in contrast to simple diffusion which takes microseconds. This difference in time results in higher signal intensity for incorporated versus unincorporated nucleotides, which creates a high signal-to-noise ratio. Thus, the ZMW provides the ability to detect a single incorporation event against the background of fluorescently labeled nucleotides at biologically relevant concentrations. Our DNA sequencing is performed on proprietary SMRT Cells, each having an array of ZMWs. The SMRT Cells for the PacBio RS II System each contain approximately 150,000 ZMWs, whereas the SMRT Cells for the Sequel System each contain approximately one million ZMWs. Each ZMW is capable of containing a DNA polymerase molecule bound to a single DNA template. Currently, our immobilization process randomly distributes polymerases into ZMWs across the SMRT Cell, resulting in approximately one-third of the ZMWs having a single template. 
+
+Phospholinked Nucleotides 
+
+Our proprietary phospholinked nucleotides have a fluorescent dye attached to the phosphate chain of the nucleotide rather than to the base. As a natural step in the synthesis process, the phosphate chain is cleaved when the nucleotide is incorporated into the DNA strand. Thus, upon incorporation of a phospholinked nucleotide, the DNA polymerase naturally frees the dye molecule from the nucleotide when it cleaves the phosphate chain. Upon cleaving, the label quickly diffuses away, leaving a natural piece of DNA without evidence of labeling. 
+
+The PacBio RS II and Sequel Instruments 
+
+The PacBio RS II and Sequel instruments conduct, monitor, and analyze single molecule biochemical reactions in real time. The instruments use extremely sensitive imaging systems to collect the light pulses emitted by fluorescent reagents allowing the observation of biological processes. Computer algorithms are used to translate the information that is captured by the optics system. Using the recorded information, light pulses are converted into either an A, C, G or T base call with associated quality metrics. Once sequencing is started, the real-time data is delivered to the system&#8217;s primary analysis pipeline, which outputs base identity and quality values, or QVs. To generate a consensus sequence from the data, an assembly process assembles the different fragments from each ZMW based on common sequences. 
+
+SMRT Sequencing Advantages 
+
+Sequencing based on our SMRT technology offers the following key benefits: 
+
+&#183; 
+
+Longer read lengths 
+
+SMRT technology has been demonstrated to produce read lengths that are significantly longer than those of previous sequencing technologies. Long read lengths are necessary to span repetitive regions to efficiently assemble genomes. Long 
+
+&#160;
+
+read lengths are an important factor in enabling a comprehensive view of the genome, as they can reveal multiple types of genetic variation such as structural variants. 
+
+&#183; 
+
+High consensus accuracy 
+
+Users of SMRT technology can achieve very high consensus accuracy due to the attributes of SMRT sequencing, including long read lengths, lack of reliance on amplification during sample preparation (which can result in amplification bias), and lower systematic bias. Users of short-read sequencing technologies often cannot achieve comparable results due to their shorter read lengths and systematic bias. 
+
+&#183; 
+
+More uniformity and less systematic error 
+
+The sample preparation step for SMRT sequencing is compatible with but does not require amplification; when amplification is not used during sample preparation, the reads are not subject to amplification bias. Importantly, this allows for uniform identification of all bases present in a DNA sample and uniform sequence coverage. As a result, SMRT sequencing can detect and identify regions and entire genes that may be missed by short-read sequencing technologies. 
+
+&#183; 
+
+Ability to observe and capture kinetic information 
+
+The ability to observe the activity of a DNA polymerase in real time enables the PacBio RS II and Sequel Systems to collect, measure and assess the dynamics and timing of nucleotides being added to a growing DNA strand, referred to as kinetics. It is well established in the scientific community that chemical modification of DNA such as the addition of a methyl group, known as methylation, can alter the biological activity of the affected nucleotide. The PacBio RS II and Sequel Systems detect changes in kinetics automatically by capturing and recording changes in the duration of, and time period between, each of the fluorescent pulses during a typical sequencing analysis. Integrated software can then translate these kinetic signatures into uniquely characterized modified bases such as 6-mA, 4-mC and 5-mC. Other sequencing systems, which rely on a sample preparation amplification step or are limited by signal resolution, are unable to directly measure this type of kinetic data. 
+
+&#183; 
+
+Flexibility 
+
+Our sequencing systems have the ability to scale the throughput and cost of sequencing across a range of small to large projects. They can be used with a variety of sample types and can output a range of DNA lengths. 
+
+&#160; 
+
+Our Products 
+
+We entered the market with our first commercial product, the PacBio RS System, during the second quarter of 2011 and launched the higher performance PacBio RS II System during the second quarter of 2013. In September of 2015, we announced the Sequel System, which is based on the same underlying SMRT technology as the PacBio RS II System, but can achieve up to approximately seven times the throughput with newly-designed SMRT Cells. Our sequencing systems provide access to a wide range of applications and are designed for expandable improvements to performance capability and new application capabilities through chemistry and software enhancements without necessitating changes to instrument hardware. 
+
+PacBio Systems 
+
+The PacBio RS II and Sequel Systems conduct, monitor, and analyze biochemical sequencing reactions. The PacBio RS II and Sequel instruments are integrated units that include high performance optics, automated liquid handling, a touchscreen control interface and computational hardware and software. Each instrument&#8217;s high performance optics monitor the ZMWs in a SMRT Cell in real time. The automated liquid handling system performs reagent mixing and prepares SMRT Cells. Each instrument&#8217;s touchscreen control interface is the user&#8217;s primary control center to design and monitor experiments. The computational hardware and software in each instrument is responsible for processing the sequencing data produced by the SMRT Cells. Both the PacBio RS II System and the Sequel System have been designed to allow for performance improvements to be easily integrated into the systems. 
+
+Consumables 
+
+Customers must purchase proprietary consumable products to run either the PacBio RS II System or Sequel System. Our consumable products include our proprietary SMRT Cells and reagent kits. One SMRT Cell is consumed per sequencing reaction, and scientists can choose the number of SMRT Cells they use per experiment. For the PacBio RS II instrument, eight SMRT Cells containing approximately 150,000 ZMWs each are individually and hermetically sealed then packaged together into a streamlined 8Pac format. Sequel System customers purchase a similarly packaged, four SMRT Cell format with approximately one million ZMWs each. 
+
+We offer several reagent kits, each designed to address a specific step in the workflow. A template preparation kit is used to convert DNA into SMRTbell&#8482; double-stranded DNA library formats and includes typical molecular biology reagents, such as ligase, buffers and exonucleases. Our binding kits include our modified DNA polymerase, and are used to bind SMRTbell libraries to the polymerase in preparation for sequencing. Our sequencing kits contain reagents required for on-instrument, real-time sequencing, including the phospholinked nucleotides. 
+
+&#160;
+
+Product Enhancements 
+
+Since the introduction of our products in 2011, we have continued to significantly enhance the performance of PacBio sequencing systems through a combination of sample preparation protocol enhancements, software releases, and new sequencing reagent chemistries. By providing an increasing number of longer reads per instrument run, the new chemistries have enabled users to assemble more genomes to a high quality. We have continually improved our software to expand the number of supported applications such as large genome assembly, sequencing of transcript isoforms produced from genes, and phasing of haplotypes in large amplicons. During 2016, we plan to further improve our existing products, including chemistry and sample preparation improvements to increase throughput and expand our supported applications, and to continue to develop new products. 
+
+Market for Our Products 
+
+Our customers use our products for sequencing genomes and transcriptomes across a wide range of organisms. Initially, customers in research, government and commercial markets used the PacBio RS and RS II Systems to generate more complete assemblies of small and medium size genomes, such as bacteria and fungi, and for sequencing targeted regions of larger genomes such as humans and plants. As throughput and read lengths have increased, the complexity and size of genomes being resolved with SMRT sequencing have grown. Scientists now use SMRT sequencing to generate genome assemblies of humans, plants &#38; animals, characterize transcriptomes through full-length isoform sequencing, and phase complex genomic regions like full-length human leukocyte antigen, or HLA, genes. With the introduction of the Sequel System, our new higher throughput and lower cost platform for SMRT sequencing, we anticipate increasing both mindshare and market share within research and commercial markets such as human biomedical research, plant and animal sciences, microbiology &#38; infectious disease, and immunogenomics. 
+
+There are a number of emerging markets for sequencing-based tests, including molecular diagnostics, which represent significant potential opportunities for our products. The development of these markets is subject to variability driven by ongoing changes in the competitive landscape, evolving regulatory requirements, government funding of research and development activities, and macroeconomic conditions. Introductions of new technologies and products, while positive to the overall development of these markets, may result in greater competition for the limited financial resources available. As we continue to expand into these emerging markets, the development of our business will be impacted by the variability of the factors affecting the growth of these markets. 
+
+Pacific Biosciences&#8217; Strategy 
+
+Key elements of our strategy include: 
+
+&#183; 
+
+Offer differentiated products based on our proprietary SMRT technology 
+
+Our SMRT technology provides a window into biological processes that has not previously been available. The combination of our products&#8217; and underlying SMRT technology&#8217;s ability to deliver long read lengths, high consensus accuracy, low bias, and kinetic information affords the scientific community a new tool to conduct research not possible with other sequencing technologies. 
+
+&#183; 
+
+Enhance product performance and introduce new products to increase market share. &#160; 
+
+The design of our sequencing systems allows for significant performance improvements. Our flexible platforms are designed to generate a recurring revenue stream through the sale of proprietary SMRT Cells and reagent kits. We plan to introduce additional product enhancements over time to further reduce DNA sequencing project costs and time to result while expanding application solutions. During 2015, we introduced a new sequencing system called the Sequel System as well as a variety of sample preparation improvements, and made significant enhancements to our software analysis toolkit. In addition, software analysis tools have improved the ease of use of our products and have enabled our customers to take greater advantage of their SMRT sequencing data. With the introduction of the Sequel System, our new higher throughput and lower cost platform for SMRT sequencing, we anticipate increasing both market recognition and market share within the markets for our products. We plan to continue introducing enhancements to our products over time and to develop new products. 
+
+&#183; 
+
+Create a global community of users to enhance informatics capabilities, develop sample preparation solutions, and drive adoption of our products in new application and market areas. 
+
+We work closely with our customers and collaborators to develop new applications and demonstrate SMRT sequencing capabilities on scientifically relevant projects. We partner with members of the informatics community to develop and define standards for working with single molecule, real-time sequence data. We maintain the PacBio DevNet site, a website on which we make available various software tools and information about our SMRT sequencing technology to support academic informatics developers, scientists and independent software vendors interested in creating tools to work with SMRT sequencing data. This gives the user flexibility to perform further analysis of the sequencing data through third-party software or share data with collaborators. To help maximize the flexibility and functionality for users, our secondary analysis algorithms are made available under open source licenses. We also make available on our main corporate website various methods developed internally and externally for simplifying and enhancing sample preparation protocols. 
+
+&#183; 
+
+Leverage SMRT technology and community engagement to expand application capabilities and penetrate new markets. 
+
+&#160;
+
+We plan to leverage our customers&#8217; successes with SMRT sequencing to expand the capabilities of our products for applications our customers have identified as high-value based on the differentiating attributes of our technology. Early applications identified by our customers include: whole genome sequencing, targeted sequencing of complex regions, isoform discovery and characterization, resolution of complex populations, and epigenetic analysis. We plan to develop whole product solutions around these applications, making it easier for customers who are not typically early adopters of new technology to take advantage of SMRT sequencing. 
+
+In the long term, we believe that our SMRT technology may also be adapted for RNA transcription monitoring, direct RNA sequencing, protein translation and ligand binding. We believe these applications can create substantial new markets for our technology. 
+
+&#183; 
+
+Partner with Roche to sell to the in vitro diagnostics market. 
+
+In 2013, we entered into a collaboration agreement with F. Hoffman-La Roche Ltd (&#8220;Roche&#8221;), to jointly develop products based on our SMRT technology for the human in vitro diagnostics market. As a world leader in in vitro diagnostics, Roche brings valuable expertise in designing products for clinical use and obtaining regulatory approvals to sell clinical products in the U.S. and around the world. We believe the combination of our SMRT sequencing technology with Roche&#8217;s market position and expertise in in vitro diagnostics will allow accelerated commercial success for both companies. 
+
+&#160; 
+
+Marketing, Sales, Service and Support 
+
+We market our products through a direct sales force in North America and Europe and primarily through distributors in Asia. Our sales strategy involves the use of a combination of sales personnel and field application scientists. The role of our sales personnel is to educate customers on the advantages of SMRT technology and the applications that our technology makes possible. The role of our field application scientists is to provide on-site training and scientific technical support to prospective and existing customers. Our field application scientists are technical experts, often with advanced degrees, and generally have extensive experience in academic research and core sequencing lab experience. 
+
+Service for our instruments is performed by field service engineers. These field service engineers are trained by experienced personnel to test, trouble-shoot, and service instruments installed at customer sites. 
+
+In addition, we maintain an applications lab team in Menlo Park, California composed of scientific experts who can transfer knowledge from the research and development team to the field application scientists. The applications lab team also runs foundational scientific collaborations and proof of principle studies, which help demonstrate the value of our product offering to prospective customers. 
+
+Customers 
+
+Our customers include research institutions, commercial laboratories, genome centers, clinical, government and academic institutions, genomics service providers, pharmaceutical companies and agricultural companies. In general, our customers will isolate, prepare and analyze genetic samples using PacBio sequencing systems in their own research labs to address their specific applications and scientific questions. For example, customers in academic research institutions may have bacteria, animal, or human DNA samples isolated from various sources while agricultural biology companies may have DNA samples isolated from different strains of rice, corn or other crops. For the year ended December 31, 2015, 2014 and 2013, excluding contractual revenue, no single end customer accounted for more than 10% of our total revenue, respectively. 
+
+We believe that the majority of our current customers are early adopters of sequencing technology. By focusing our efforts on high-value applications, and developing whole product solutions around these applications, we seek to drive the adoption of our products across a broader customer base and into numerous large-scale projects. In general, the broader adoption of new technologies by mainstream customers can take a number of years. 
+
+We currently sell our products to a number of customers outside the United States, including customers in other areas of North America, Europe, and Asia. Roche related contractual revenue is classified as revenue from the United States. Revenue from customers outside the United States totaled $24. 9 million, or 27% of our total revenue during fiscal 2015, compared to $26.2 million, or 43% of our total revenue, during fiscal 2014, and compared to $14.6 million, or 52% of our total revenue, during fiscal 2013. 
+
+Backlog 
+
+As of December 31, 2015, our instrument backlog was approximately $16.7 million, compared to $8.4 million as of December 31, 2014. We define backlog as purchase orders or signed contracts from our customers which we believe are firm and for which we have not yet recognized revenue. We expect to convert this backlog to revenue during 2016; however, our ability to do so is subject to customers who may seek to cancel or delay their orders even if we are prepared to fulfill them. 
+
+Manufacturing 
+
+Our principal manufacturing facilities are located at our headquarters in Menlo Park, California. We currently perform some of the manufacturing and all of the final integration of our instruments in-house, while outsourcing most sub-assemblies to third-party manufacturers. With respect to the manufacture of SMRT Cells, we subcontract wafer fabrication and processing to semiconductor 
+
+&#160;
+
+processing facilities, but conduct critical surface treatment processes internally. In addition, we currently manufacture critical reagents in-house, including our phospholinked nucleotides and our DNA polymerase. 
+
+We purchase both custom and off-the-shelf components from a large number of suppliers and subject them to significant quality specifications. We periodically conduct quality audits of most critical suppliers and have established a supplier certification program. We purchase components through purchase orders. Some of the components required in our products are currently either sole sourced or single sourced. 
+
+Research and Development 
+
+Our SMRT technology requires the blending of a number of unique disciplines, namely nanofabrication, physics, photonics, optics, molecular biology, engineering, signal processing, high performance computing, and bioinformatics. Our research and development team is a blend of these disciplines creating a single, cross-functional /operating unit. We have also established productive working relationships with technology industry leaders, as well as leading academic centers, to augment and complement our internal research and development efforts. Research and development expenses incurred were $60.4 million, $48.2 million and $45.2 million during 2015, 2014 and 2013, respectively. &#160; We plan to continue our investment in research and development to enhance the performance and expand the application of our current products, and introduce additional products based on our SMRT technology. Our goals include further improvements in sequencing read length and mappable data per SMRT Cell, chemistry and software enhancements, and enhancements in sample preparation and bioinformatics tools that take advantage of the capabilities of our products. In addition, our engineering teams will continue their focus on increasing instrument component and system reliability, reducing costs, and implementing additional system flexibility and versatility through the enhancement of existing products and development of new products. 
+
+Intellectual Property 
+
+Developing and maintaining a strong intellectual property position is an important element of our business. We have sought, and will continue to seek, patent protection for our SMRT technology, for improvements to our SMRT technology, as well as for any of our other technologies where we believe such protection will be advantageous. 
+
+Our current patent portfolio, including patents exclusively licensed to us, is directed to various technologies, including SMRT nucleic acid sequencing and other methods for analyzing biological samples, ZMW arrays, surface treatments, phospholinked nucleotides and other reagents for use in nucleic acid sequencing, optical components and systems, processes for identifying nucleotides within nucleic acid sequences and processes for analysis and comparison of nucleic acid sequence data. Some of the patents and applications that we own, as well as some of the patents and applications that we have licensed from other parties, are subject to U.S. government march-in rights, whereby the U.S. government may disregard our exclusive patent rights on its own behalf or on behalf of third parties by imposing licenses in certain circumstances, such as if we fail to achieve practical application of the U.S. government funded technology, because action is necessary to alleviate health or safety needs, to meet requirements of federal regulations, or to give preference to U.S. industry. In addition, U.S. government funded inventions must be reported to the government and U.S. government funding must be disclosed in any resulting patent applications. 
+
+As of December 31, 2015, we own or hold exclusive licenses to 203 issued U.S. patents, 113 pending U.S. patent applications, 91 granted foreign patents and 85 pending foreign patent applications, including foreign counterparts of U.S. patent and patent applications. The full term of the issued U.S. patents will expire between 2016 and 2033. We also have non-exclusive patent licenses with various third parties to supplement our own large and robust patent portfolio. 
+
+Of our exclusively licensed patent applications, 22 issued U.S. patents, one pending U.S. patent application, 14 granted foreign patents and one pending foreign patent application are licensed to us by the Cornell Research Foundation, which manages technology transfers on behalf of Cornell University. We have also entered into a license agreement with Indiana University Research and Technology Corporation, or IURTC, for U.S. Patent No. 6,399,335, which relates to nucleoside triphosphates that include a labeling group attached through the terminal phosphate group in the triphosphate chain. We have also entered into a license agreement with GE Healthcare Bio-Sciences Corp, or GE Healthcare, for several U.S. and foreign patents and pending patent applications related to labeled nucleoside polyphosphate compounds. 
+
+In September 2013, we entered into a Development, Commercialization and License Agreement (the &#8220;Roche Agreement&#8221;) with Roche, pursuant to which we: (i) will develop diagnostic products for clinical use including sequencing systems and consumables based on our proprietary SMRT technology; (ii) granted to Roche an exclusive right to commercialize, and an exclusive license to sell, the developed diagnostic products for clinical use; and (iii) will manufacture and supply certain products intended for clinical use as the exclusive supplier to Roche. We received a non-refundable up-front payment of $35.0 million in 2013, and milestone payments totaling $40.0 million in 2014 and 2015 pursuant to the Roche Agreement. No further milestone payments are expected under the Roche Agreement . The Roche Agreement has an initial term of thirteen years and provisions allowing Roche five-year renewals. 
+
+Where patent protection is difficult to obtain or difficult to enforce for a particular technological development or the technological development derives greater value from being maintained as confidential information, we seek to protect such information as trade secrets. 
+
+&#160;
+
+Competition 
+
+Given the market opportunity, there are a significant number of competing companies offering DNA sequencing equipment or consumables. These include Illumina, Inc. and Thermo Fisher Scientific, Inc. These companies currently have greater financial, technical, research and/or other resources than we do. They also have larger and more established manufacturing capabilities and marketing, sales and support functions. We expect the competition to intensify within this market as there are also several companies in the process of developing new, potentially competing technologies, products and/or services, including Oxford Nanopore Technologies Ltd. Increased competition may result in pricing pressures, which could harm our sales, profitability or market share. 
+
+In order for us to successfully compete against these companies, we will need to demonstrate that our products deliver superior performance and value as a result of our key differentiators, including single molecule, real-time resolution, the combination of very high consensus accuracy and long read lengths with the ability to detect real-time kinetic information, fast time to result and flexibility, as well as the breadth and depth of current and future products and applications. 
+
+Employees 
+
+As of December 31, 2015, we had 394 full-time employees. Of these employees, 146 were in research and development, 81 were in operations, 113 were in marketing, sales, service and support, and 54 were in general and administration. With the exception of our field-based sales and service teams, substantially all of our employees are located at our headquarters in Menlo Park, California. None of our employees are represented by labor unions or are covered by a collective bargaining agreement with respect to their employment. We have not experienced any work stoppages, and we consider our relationship with our employees to be good. 
+
+Available Information 
+
+Our website is located at www.pacb.com. The information posted on our website is not incorporated into this Annual Report on Form 10 -K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge through the &#8220;Investors&#8221; section of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. 
+
+Additionally, we use our website as a channel of distribution for important company information. Important information, including press releases, analyst presentations and financial information regarding us, as well as corporate governance information, is routinely posted and accessible on the &#8220;Investor Relations&#8221; section of the website, which is accessible by clicking on the tab labeled &#8220;About Us - Investors&#8221; on our website home page. In addition, important information is routinely posted and accessible on the blog section of our website, which is accessible by clicking on the tab labeled &#8220;Blog&#8221; on our website home page, as well as our Twitter account (@pacbio). Information on or that can be accessed through our website or our Twitter account is not part of this Annual Report on Form 10 -K, and the inclusion of our website address is an inactive textual reference only. 
+
+&#160; 
+
+&#160;
+
+&#160; 
+

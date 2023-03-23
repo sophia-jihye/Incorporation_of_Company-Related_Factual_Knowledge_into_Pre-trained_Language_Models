@@ -1,0 +1,568 @@
+ Item 1. 
+
+Business 
+
+Overview 
+
+Model N is a leader in Revenue Management solutions for life science and technology companies. Driving mission critical business processes such as configure, price and quote (CPQ), rebates management and regulatory compliance, our solutions transform the revenue lifecycle from a series of disjointed operations into a strategic end-to-end process. With deep industry expertise, we support the unique business needs of the world&#8217;s leading brands in life science and technology across tens of thousands of users located in more than 120 countries. A representative list of our customers based on our total revenues for the fiscal year ended September 30, 2016 includes Allergan, Amgen, Boston Scientific, Bristol-Myers Squibb, Boehringer Ingelheim, Johnson &#38; Johnson and Merck in life science, and our technology customers include Intel, Fairchild, Maxim and ST Micro.
+
+Many companies, in particular in the life science and technology industries experience a gap between the strategic importance of revenue management and the current state of their revenue management processes. Historically, companies tended to rely on a disjointed patchwork of manual processes, spreadsheets, point applications and legacy systems to manage their revenue processes. These processes and systems operate in isolation from one another and are labor intensive, error prone, inflexible and are costly, often resulting in missed revenue opportunities, suboptimal margins and increased revenue compliance risk. Current industry trends, including shortening product lifecycles, tightening compliance and regulatory controls, increasing channel complexity and growing volumes of transactional data are causing these outdated processes and legacy systems to become increasingly ineffective. 
+
+Our expertise in revenue management cloud solutions for the life science and technology industries has enabled us to develop applications designed to meet the unique, strategic needs of these industries, such as managed care and government pricing for life science companies and channel incentives based on design wins, for technology companies. Our solutions are also applicable to companies in industries that sell complicated configurations of products, such as in manufacturing, and to those that sell a complex combination of products and services, such as in financial services. 
+
+&#160;
+
+Our solutions include several complementary suites of software applications: 
+
+&#160;
+
+&#8226; 
+
+Revenue Enterprise Cloud (REC) &#8212;a broad set of transactional applications that serve as a system of record for, and automate the execution of, revenue management processes such as pricing, contracting, compliance, and incentive and rebate management. Specific products include Price Management, Deal Management, Contract Management, Incentive and Rebate Management and Regulatory Compliance Management applications, which can be purchased together as a suite or as separate applications. 
+
+&#160;
+
+&#8226; 
+
+Revenue Intelligence Cloud (RIC) &#8212;a broad set of business intelligence applications that provide the analytical tools to define and optimize revenue management strategies. Specific products include Price Analytics, Brand and Payer Analytics, Channel Analytics, Deal Analytics, and Global Pricing Market Analytics, which can be purchased together as a suite or as separate applications. 
+
+&#160;
+
+&#8226; 
+
+Revvy Revenue Management (Revvy) &#8212;a broad set of multi-tenant cloud applications natively built on the Salesforce1 platform from Salesforce&#174;. The Revvy solutions provide customers with predictable pricing, elastic infrastructure, and ease of implementation. Our partnership with Salesforce presents us with an opportunity to combine customer relationship management (CRM), with focus on the Lead-to-Cash process, with our Revenue Management solutions. Revvy delivers vertical-specific applications to the pharmaceutical, manufacturing, medical devices, and semiconductor and component manufacturing industries. Specific products include Configure, Price and Quote (CPQ), Global Pricing Management (GPM), Contract Lifecycle Management (CLM), Rebates Management and Customer Relationship Management. 
+
+These applications can be configured to meet the specific needs of an enterprise and enable it to maximize: 
+
+&#160;
+
+&#8226; 
+
+revenue by developing more effective pricing and contracting strategies using internal data and third-party market data; 
+
+&#160;
+
+&#8226; 
+
+selling time 
+
+&#160;
+
+&#8226; 
+
+for both their direct sales force and indirect channels; 
+
+&#160;
+
+&#8226; 
+
+by responding rapidly to quote and proposal requests; 
+
+&#160;
+
+&#8226; 
+
+by processing high volumes of rebates and incentives quickly and accurately; and 
+
+&#160;
+
+&#8226; 
+
+revenue per opportunity by monitoring contract performance and compliance; 
+
+Our customer deployments range from individual applications to our complete suites. Our on premise implementations are typically purchased through perpetual licenses with related implementation services typically including ongoing maintenance and application support. We recognize revenues from the sale of our licenses and related implementation services on a percentage-of-completion basis over the expected implementation period. We have taken several steps to transform our business model in order to increase the percentage of our business coming from Software as a Service (SaaS) and maintenance revenues (our recurring revenues). The Revenue Enterprise Cloud and Revenue Intelligence Cloud suites are available to customers both through the cloud and on-premise. The Revvy solutions are available only through the cloud with a subscription. We believe we have accelerated the shift in our business model to recurring revenues, as cloud-based software delivery gained wider acceptance in general and in particular in the life science and technology industries. In our SaaS arrangements where subscription fees and implementation services have a standalone value, we allocate revenue to each element in the arrangement based on a selling price hierarchy. The consideration allocated to subscription fees is recognized as revenue ratably over the term of the contract. The consideration allocated to implementation services is recognized as revenue as services are delivered.
+
+Overview of the Life Science and Technology Industries 
+
+The life science and technology industries are large and highly fragmented. Companies in both industries market their products to a global customer base through diverse channels. Significant costs are required to launch a drug to the market globally. Regulatory pressures, consolidation, and other factors in these industries continue to drive significant focus on revenue management.
+
+Management of the revenue lifecycle is a strategic imperative and source of competitive advantage for life science and technology companies as they address increasingly globalized markets, sophisticated buyers, complex channels and expanding volumes of data from internal and market sources. 
+
+Several trends specific to these industries further complicate revenue management.
+
+Life Science: 
+
+&#160;
+
+&#8226; 
+
+the emergence of large group purchasing, managed care organizations and integrated healthcare delivery networks drive increased pricing pressure, contract volume and complexity; 
+
+&#160;
+
+&#8226; 
+
+increased customer and channel incentives and rebates result in the increased risk of extending unearned discounts and the overpayment of rebates; 
+
+&#160;
+
+&#8226; 
+
+shift of purchasing influence from physicians to economic buyers makes price and commercial terms key decision making factors; 
+
+&#160;
+
+&#8226; 
+
+increased spending on healthcare by governments instead of commercial entities adds further regulatory oversight to transactions; and 
+
+&#160;
+
+&#8226; 
+
+increased scope of government mandates, frequency of regulatory reporting and audits, and fines, all of which increase administrative burden and monitoring costs. 
+
+Technology: 
+
+&#160;
+
+&#8226; 
+
+shortened product lifecycles drive rapid pricing changes and require quick responses to quotes and competitive bidding; 
+
+&#160;
+
+&#8226; 
+
+increased number of core technology products sold into different end markets with segment-specific pricing; 
+
+&#160;
+
+&#8226; 
+
+cyclicality and rising R&#38;D costs are contributing to a focus on maximizing sell time, margins and revenues; 
+
+&#160;
+
+&#8226; 
+
+increased complexity of multi-tiered global distribution channels, which intensify channel conflict and price erosion; 
+
+&#160;
+
+&#8226; 
+
+changing financial reporting requirements due to channel complexity; and 
+
+&#160;
+
+&#8226; 
+
+increased use of off-invoice discounting to offset upfront discounts and mask end-customer pricing result in a lack of price transparency that can erode gross margins. 
+
+Challenges to Effective Revenue Management 
+
+Traditionally, companies addressed revenue management through a patchwork of manual processes and inflexible and costly custom solutions. This outdated approach to revenue management impedes the ability of companies to respond to changing market conditions, preventing them from maximizing revenue and increasing their revenue compliance risk. Critical challenges include: 
+
+&#160;
+
+&#8226; 
+
+Incomplete and unreliable information for key strategic decisions . &#160; Legacy manual processes and systems used to manage the revenue lifecycle creates silos of data cause companies to make strategic marketing, pricing and resource allocation decisions that are often based on incomplete or inaccurate information. As a result, revenue strategies can be suboptimal, budgets may be misallocated, and sales and marketing efforts can fail to positively impact revenues. 
+
+&#160;
+
+&#8226; 
+
+Revenue leakage due to inadequate contract management and enforcement . &#160; Customer-tailored contracts with complex pricing and commercial terms are common in many industries, in particular life science and technology. When the commercial terms of these contracts are not automated and monitored systematically, deviations from contract pricing can occur, volume commitments can be missed, unearned discounts may be given, and revenue can be lost. 
+
+&#160;
+
+&#8226; 
+
+Revenue leakage due to overpayment of incentives . Life science and technology companies process massive volumes of rebates and incentives. A lack of centralized, automated and enforceable processes can result in overpayment of incentives. Revenue leakage is also driven by inconsistent global pricing, poor price concession controls, and unmet contractual volume commitments. 
+
+&#160;
+
+&#8226; 
+
+Ineffective pricing across geographies and complex channels . Sophisticated buyers deploy global procurement strategies to discover and exploit regional and channel differences in pricing and contracting. The inability to enforce a single price for a specific sales opportunity across regions and channels can result in channel conflicts, which result in price and revenue erosion. 
+
+&#160;
+
+&#8226; 
+
+Inaccurate financial reporting . Complex contracts and distribution channels have made it more difficult to obtain and process financial informatio n, which can result in inaccurate financial reporting. For example, technology companies face significant complexity in financial reporting and revenue recognition at the point of sale in their distribution channels. Life science companies have significant challenges correctly accruing their massive rebate and incentive claim volumes. 
+
+&#160;
+
+&#8226; 
+
+Difficulty complying with complicated government regulations. Satisfying the regulatory requirements of numerous federal and state programs is increasingly complex for life science companies. For example, government-driven programs require complex monitoring and reporting to compute and pay mandated rebates and fees under numerous federal and state programs. Government audits can expose ineffective management of these regulatory requirements and can result in penalties or program ineligibility. 
+
+Our Solutions 
+
+Customers use our solutions to achieve significant returns on investment, improve gross margins and address vital business objectives by: 
+
+&#160;
+
+&#8226; 
+
+Driving optimal pricing and contracting strategies . Our customers use our solutions to develop, deploy, monitor and drive optimal pricing and contracting strategies. Our solutions consolidate information across the revenue lifecycle and provide visibility into historical volume, price and contract performance trends. Our pricing analytics enable our customers to identify untapped revenue opportunities across customers or products and make better pricing and contracting decisions. 
+
+&#160;
+
+&#8226; 
+
+Realizing greater value from contracts . Our solutions enable customers to codify and automate complex pricing, incentives and financial and fulfillment terms that previously resided mainly on paper contracts. Our customers are able to maximize the value of contracts and realize additional revenue by tracking their customers&#8217; performance and enforcing contract terms. Our solutions automatically price orders in real-time and enforce contract pricing and commercial terms. Our solutions also enable customers to track and execute other revenue-enhancing financial terms, such as negotiated price increases. 
+
+&#160;
+
+&#8226; 
+
+Maximizing revenue by standardizing and enforcing pricing and discounting policies . Our solutions allow customers to standardize pricing policies that can be automatically enforced across the enterprise and the channels to restrict unauthorized sales practices and discounting by sales personnel. By raising the visibility of, requiring authorization of, and enabling rapid resolution of, non-standard pricing, our customers can use our solutions to reduce unauthorized discounting. Through our channel solutions, our customers can gain visibility into and enforce channel pricing, and reduce price erosion caused by different price quotes for the same end customer. 
+
+&#160;
+
+&#8226; 
+
+Executing and optimizing channel incentives . Our solutions enable customers to manage the entire incentive lifecycle, from contracting to recognition and payment. Accurate management allows our customers to eliminate unearned discounts and overpayment of incentives. Our solutions also provide our customers with greater cross channel visibility to manage the effectiveness of their channel incentive programs. With this insight, our customers can better utilize their channel incentives to positively influence channel behavior and thus increase revenue. 
+
+&#160;
+
+&#8226; 
+
+Achieving accurate financial reporting . With our solutions, customers can manage all aspects of the contract-to-payment process related to calculating, monitoring, processing and triggering payments to end customers and channel intermediaries. For example, by automating all rebates, these liabilities can be accurately accrued, enabling our customers to consistently record accruals in compliance with financial accounting requirements, while ensuring customers and channels are credited on a timely basis. 
+
+&#160;
+
+&#8226; 
+
+Automating government regulatory compliance to reduce revenue risk . Our solutions enable customers to systematically comply with government regulations, policies, procedures, and pricing and reporting requirements. Further, by automating and integrating contract terms, incentives and pricing into mandated price and payment calculations, our life science customers are better able to manage compliance with the terms of critical government programs that provide significant sources of revenue. 
+
+Our Competitive Strengths 
+
+We believe our key competitive strengths include: 
+
+&#160;
+
+&#8226; 
+
+Comprehensive approach to revenue management . Our solutions address the end-to-end revenue management lifecycle. Our integrated, end-to-end application suites enable our customers to transform their revenue management processes from disjointed tactical operations into a cohesive, strategic, end-to-end process. Providing suites of both intelligence and transactional applications is an advantage that enables us to address both decision making and process automation. 
+
+&#160;
+
+&#8226; 
+
+Deep domain knowledge . Our expertise in the revenue management needs of life science and technology companies enables us to develop solutions that address the unique demands of these industries. By incorporating best practices into our industry-specific solutions, implementation methodologies and support programs, our customers can experience significantly accelerated time to value. Our team possesses the deep industry expertise in life science and technology to enable our customers to maximize and accelerate the transformational benefits of our solutions. 
+
+&#160;
+
+&#8226; 
+
+Strong installed customer base . We have established a reputation for delivering revenue management solutions to leading life science and technology customers. Our close customer relationships provide us with insight into how these companies use our solutions and help us to maintain a competitive advantage by anticipating their future requirements. We also believe that the use of our products by respected industry leaders also increases the value of our brand in these industries. 
+
+&#160;
+
+&#8226; 
+
+Talented team focused on customer success . We employ experts from the life science and technology industries in key customer-facing and development roles. Additionally, we have established strong core values that start with a focus on customer success. Our customer focus has resulted in close relationships with our customers and a strong reference base for sales opportunities. 
+
+&#160;
+
+&#8226; 
+
+Strategic partnerships . We have established a strategic partnership with Salesforce, a leading provider of CRM and lead-to-cash solutions. We believe this partnership will provide the opportunity to offer our Revvy and certain other solutions to many companies of all sizes in various industries. 
+
+Our Strategy 
+
+Our leadership strategy for revenue management solutions includes the following key elements: 
+
+&#160;
+
+&#8226; 
+
+Increasing sales to existing customers . We plan to improve our sales execution in order to increase revenues from our existing customers by expanding their use of our solutions across their business, including selling into additional divisions and product lines, as well as international operations, and by cross-selling additional applications. 
+
+&#160;
+
+&#8226; 
+
+Expanding our customer base . We believe the global market for revenue management solutions is large and underserved, and we intend to continue to make investments to drive awareness and adoption of revenue management solutions in our target industries. We intend to continue to aggressively pursue new customers by targeting senior level decision-makers and highlighting the strategic benefits of integrated revenue management. 
+
+&#160;
+
+&#8226; 
+
+Introducing new applications and enhancing existing solutions . We have a long history of product innovation which has driven the development of both industry specific and horizontally applicable applications across our several complementary product suites. We have a number of new products under development as well as continued innovations to our existing products. We intend to continue to develop innovative products and expand platform capabilities and functionality to meet the evolving needs of the market. 
+
+&#160;
+
+&#8226; 
+
+Expanding through the cloud . We intend to expand our customer base through continued development and deployment of our cloud-based solutions. Our cloud-based solutions significantly reduce the time and cost of implementing our revenue management solutions and, when combined with our subscription sales model, provide cost-effective, end-to-end revenue management suite. 
+
+&#160;
+
+&#8226; 
+
+Expanding within the technology industry . Our first customer in the technology industry was in the semiconductor vertical and we subsequently expanded into other technology verticals such as consumer electronics and software. We plan to continue to expand into these and adjacent technology markets, including by continuing to leverage our channel data management offering. 
+
+&#160;
+
+&#8226; 
+
+Expanding in the pharmaceutical industry with Global Pricing Management. A highly unoptimized area of pharmaceutical market is pricing and product launch decisions that satisfy regulatory reporting requirements across countries. This can be enabled by analyzing internal and external pricing data in a t imely manner and by fostering efficient and proactive global pricing collaboration. Our applications to enable the pricing stakeholders to connect globally in real time and around a common global pricing repository, including prices and price structures, e xpected price events and global pricing market rules. 
+
+&#160;
+
+&#8226; 
+
+Expanding into new geographies. We will evaluate taking our solutions to new geographies. We intend to evaluate markets in the Asia-Pacific region, such as Japan, as well as other markets where our life science, technology, and other solutions are in demand. 
+
+&#160;
+
+Products 
+
+We provide solutions that span the organizational and operational boundaries of functions such as sales, marketing and finance, and serve as a system of record for key revenue management processes including pricing, contracts, rebates, incentives, channel management, and regulatory compliance. Our application suites are purpose-built for the life science and technology industries and are designed to work with enterprise resource planning (ERP) and customer relationship management (CRM) applications that do not typically provide revenue management capabilities. Our solutions enable real-time pricing, contract management, vertical sales management (such as for the semiconductor industry), and channel incentives management, including rebates, incentives and regulatory compliance. Our application suites are comprised of several applications, which are integrated to work together but which may be deployed individually. For example, when deployed as an interconnected suite, our applications allow prices that are set up in the price management process to flow into the quoting process. Similarly, closed deals are captured in contract management and can be synchronized with ERP systems and into regulatory reporting as required by government agencies. Our solutions provide critical data that is typically not available in either CRM or ERP systems, such as prices, quotes, contracts, incentives and rebate claims. Our applications can also provide customers predictive revenue insight optimization of sales and marketing investments and offers, as well as and customer profitability intelligence. 
+
+Revenue Enterprise Cloud &#8212;a suite of enterprise applications designed to automate end-to-end revenue management processes including: 
+
+&#160;
+
+&#8226; 
+
+Price Management . Manage the entire pricing lifecycle from price strategy to execution, serving often as the pricing engine and system of record for pricing. Implement sophisticated pricing rules and guidelines to enforce pricing consistency across geographies and transactions, resulting in accurate, real-time pricing and improved margins. By using a transactional pricing engine that references various price sources, price points and business rules, this application enables customers to reduce quote turnaround time and ensures accurate pricing across overlapping contracts, quotes, agreements or other pricing documents. 
+
+&#160;
+
+&#8226; 
+
+Deal Management . Develop and optimize deals and contracts to maximize revenues by integrating lead and opportunity tracking, offer development, pricing and contract compliance to drive more accurate pricing, contract terms and performance metrics. The application supports an iterative negotiation process by escalating special discount requests based on configurable business conditions, suggests pricing guidelines and provides tools for decision makers to analyze the deal and its margins and compare the deal to similar deals. The approved quote or activated contract creates, through standard integration, a record in the ERP system so that orders posted against the contract or quote are priced correctly. 
+
+&#160;
+
+&#8226; 
+
+Contract Management . Improve execution of pricing and incentives strategies on contracts, capture and enforce pricing policies and manage the entire contract lifecycle from offer development to contract compliance. The application manages all the steps to create and review contracts by pulling pricing information from the pricing engine. It includes sophisticated conditional workflow capabilities that route the contract for review and approval. The application also includes industry-specific capabilities that are designed to allow our customers to maximize individual contract value, increase overall contract revenue and reduce price erosion by systematically tracking and enforcing compliance with contract terms and customer commitments. 
+
+&#160;
+
+&#8226; 
+
+Incentive and Rebate Management . Drive more effective and accurate management of a wide range of customer and channel incentives, such as healthcare provider rebates, managed care rebates, wholes aler chargebacks and inventory management agreements by monitoring, processing, calculating and approving the payment of incentives based on contract terms, direct and indirect sales, product utilization, customer eligibility and other internal and externa l performance data. This application supports the process of creating and defining incentive and rebate programs and routing them through complex multi-step approval processes for final approval. Once programs are activated, the application processes direc t and indirect sales lines and validates whether they are subject to and eligible for an incentive payment. The application rejects incorrect data and calculates and approves payment information that is submitted to the financial systems. This application can also be used by finance functions to calculate and track the accrual of financial liabilities and enables customers to create reports that track the effectiveness of their incentive programs. 
+
+&#160;
+
+&#8226; 
+
+Regulatory Compliance Management . Enforce compliance with statutory and financial regulations and their revenue recognition policies by calculating and reporting mandatory government prices such as Average Manufacturer Price, Best Price and Non-Federal Average Manufacturer&#8217;s Price, as well as process and pay government claims for Medicaid, Tricare and other mandated federal and state healthcare programs. The application can be used in conjunction with our other applications to promote effective risk management and reduce compliance risk. 
+
+Revenue Intelligence Cloud &#8212;a suite of revenue management business intelligence applications that enable customers to analyze revenue drivers and optimize revenue outcomes by delivering industry-specific visualizations, analyses and actions including: 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+Price Strategy. Develop, analyze and optimize price strategies by combining internal revenue management data and external market data across customers, products, geographies and channels. Utilizing this data, this application measures and analyzes performance by employing industry-specific data visualizations and custom analyses to provide visibility into all elements of the pricing process, in addition to insights into profitability and revenue risks. 
+
+&#160;
+
+&#8226; 
+
+Brand Strategy . Identify and pinpoint drivers of brand performance that influence market demand to optimize sales and marketing spend at national and regional levels from product launch to sunset with insights from internal and external syndicated data providing meaningful insights into customer behavior and competitive dynamics. Marketing and brand managers can leverage these advanced analytics capabilities to validate their sales forecasts and gain insights into how formulary status or other payer and physician dynamics affect brand performance at a regional level. Sales personnel receive actionable targeting guidance and performance against plans in order to optimize their sales efforts. 
+
+&#160;
+
+&#8226; 
+
+Channel Strategy . Increase the effectiveness of global distribution by aggregating and tracking channel data for accurate and timely visibility into revenue and profit trends. This application aggregates and tracks a broad set of internal and external channel data, such as design registrations, point-of-sale claims, opportunity registrations, quotes, wins, contracts, contract compliance data, inventory and chargeback. Robust analytical capabilities allow channel and trade managers, sales teams and executives to gain accurate and timely visibility into revenue and profit trends by distributor, wholesaler, end customer, product, region and country and actionable intelligence on market trends through key metrics and alerts. 
+
+&#160;
+
+&#8226; 
+
+Managed Markets Strategy . Analyze and optimize market strategy by determining which healthcare payers or insurance plans have the biggest impact on brand revenues, how formulary status influences market access across regions and how market share is trending against competition in key markets by using syndicated data to assess performance against market strategy. This application integrates external syndicated data sets with internal sales and promotional data, such as call plans, samples and sales alignment, to provide actionable intelligence. 
+
+Revvy Revenue Management &#8212;a suite of multi-tenant, software-as-a-service (SaaS) applications built on the Salesforce1 Platform designed to automate the Revenue Management lifecycle including: 
+
+&#160;
+
+&#8226; 
+
+Configure, Price, Quote (CPQ): Streamlines the quote to contract process by enabling the configuration of complex services, bundles and solutions in an easy to use, intuitive user interface. This application provides seamless integration with the SAP ERP system and SAP Variant Configurator. This application can significantly reduce the average time needed for sales representatives to present a professional proposal to a prospective customer. 
+
+&#160;
+
+&#8226; 
+
+Global Pricing Management (GPM): Optimize pricing and product launch decisions and satisfy regulatory reporting requirements across countries by analyzing internal and external pricing data in a timely manner and by fostering efficient and proactive global pricing collaboration. This application connects pricing stakeholders globally in real time and around a common global pricing repository, which includes prices and price structures, expected price events and international reference pricing rules. 
+
+&#160;
+
+&#8226; 
+
+Customer Relatio nship Management (CRM) : Provides sales management a consolidated view of their sales funnel with analytical capabilities to assess funnel trends overall and by customers, products, geographies, or people. This application delivers a 360 view of customer a ccounts such that sales representatives have full visibility into account information that will help them drive customer adoption. This application also provides powerful solution selling capabilities that allow sales representatives to maximize socket wi ns. This feature is also very relevant for new sales representatives or post-acquisitions when selling a consolidated portfolio. 
+
+&#160;
+
+&#8226; 
+
+Contract Lifecycle Management (CLM): Enables organizations to create and manage all types of sell-side contracts in one place including service contracts, sales contracts, NDAs, statements of work, and more. The solution enables users to create and manage contracts directly from within Salesforce&#174; or Microsoft Word&#174; with complete visibility and control of the entire contract lifecycle. Capabilities include the ability to define and configure contract lifecycles, template and clause libraries, and the ability to redline documents directly in Microsoft Word. 
+
+&#160;
+
+&#8226; 
+
+Rebates Management: Simplifies rebate and channel incentive administration to help align partners and customers with their goals. The solution enables companies to make strategic decisions with their rebate and channel incentives, define rebate programs, track and calculate rebate earnings and accruals on transactions, point-of-sale, inventory, or any data set, and provide visibility across the organization. With this application, companies can enhance the performance of their channel, distributors, partners and customers to deliver greater sales growth. 
+
+&#160;
+
+Technology 
+
+The Revenue Management application suites are architected in layers. The first layer is composed of end-user operational and analysis applications. The middle layer consists of supporting services and business engines, and the lowest layer consists of a unified technology platform used to construct and support all modules at the higher layers. The platform also provides access to the normalized operational database where the transactional revenue management data used by the operational applications are stored. It also provides access and facilitates the synchronization with the de-normalized analytics database where the revenue management data used by the analytics applications are stored.
+
+The Revenue Enterprise Cloud and Revenue Intelligence Cloud suites are built on industry standards, such as Java EE and HTML5, which give the end-users of our applications an intuitive and familiar browsing experience. These standard technologies enable us to offer our customers a familiar technology environment that is widely understood and utilized. 
+
+The Revvy suite is built on the Salesforce1 Platform with engines built using industry standards such as Node.js. These technologies enable us to offer our customers cloud-based applications through desktop, tablet, and mobile devices including smart phones running iOS and Android.
+
+Our technology platform has allowed us to quickly develop new applications, features and functionalities. We believe that the platform is configured to meet the needs of broad horizontal markets as well as specific vertical markets and, within each instance, to meet the specific needs of each of our customers. The flexibility of the technology platform has also allowed us to add mobile device support and deploy cloud-based solutions in a rapid and efficient manner, and we believe it will enable us to continue to add new capabilities in the future. 
+
+Our technology is designed specifically to handle the complex calculations and massive data sets associated with revenue management processes typical in the life science and technology industries. With the expansion of global deployments, scalability has also been a key requirement of our customers and has been a focus for us across all of the layers of our application suites. 
+
+Our solutions have been designed to ensure high reliability, strong security and the technology platform includes a comprehensive set of built-in features and management tools to allow optimal and continuous operation. The Revenue Enterprise Cloud and Revenue Intelligence Cloud suites are available to customers both through the cloud and on premise. The Revvy suite is available only through the cloud. We operate a reliable architecture designed to reduce the risk associated with infrastructure outages, improve system scalability and security, and allow for flexibility in deployment. The environment for our cloud-based solutions is secure and is designed to provide high availability with disaster recovery capabilities. Our cloud-based solutions are primarily operated through third-party data centers located in Colorado, Missouri, Texas, and Massachusetts and through Amazon Web Services.
+
+Services and Customer Support 
+
+Leveraging deep industry and subject matter expertise, we offer a comprehensive set of services to assist our customers through the full lifecycle of new business transformations or upgrades of existing solutions. We help our customers define, implement and support or manage our solutions. We provide implementation services, managed services and strategic services both on and off-shore, as described below. 
+
+&#160;
+
+&#8226; 
+
+Implementation services . We assist our customers in the implementation or upgrade of our Revenue Enterprise Cloud and Revenue Intelligence Cloud solutions, including project management, design and solution blueprint, process improvement, application configuration or customization, systems integration, data cleansing and migration, testing and performance tuning, production cutover and post go-live support. 
+
+&#160;
+
+&#8226; 
+
+Managed services . We offer managed services for customers using either our on premise solutions or our cloud-based solutions, which include systems administration and infrastructure management, application support, and education services, including process, application and end-user training. 
+
+&#160;
+
+&#8226; 
+
+Strategic services . We assist our customers in defining best practices and strategies in revenue management, assessing the capability of existing transaction and decision support solutions, developing business cases for change and transformation plans and answering strategic questions using our Revenue Intelligence Cloud suite to analyze available market data. 
+
+&#160;
+
+&#8226; 
+
+Customer support . We deliver 24x7x365 customer support from support centers located at our corporate headquarters in Redwood City, California, as well as at our offices in Hyderabad, India. We offer a wide range of support offerings packaged into varying levels of access to our support resources. 
+
+For project delivery, we use a standard implementation methodology incorporating lessons learned from past work to ensure the success of our current projects. This methodology enables us to predictably estimate project costs and schedule, and proactively mitigate most implementation challenges. 
+
+In addition, we have cultivated relationships to promote and assist with the implementation of our solutions with consulting firms, including industry specialists such as HighPoint Solutions, LLC. While we do not maintain formal contractual relationships with these firms that require them to promote our solutions to their clients, we work with them for implementation and other professional services projects. As a result, these firms have expertise in our technologies and best practices and have invested in building out their practice areas with our revenue management solutions. 
+
+We deploy our resources globally through offices located in the United States, India, the United Kingdom and Switzerland. 
+
+&#160;
+
+&#160;
+
+Customers 
+
+We market and sell our solutions to customers in life sciences, technology, manufacturing, and other industries. As of September 30, 2016, we had 122 customers across all industries. For the fiscal year ended September 30, 2016, revenues from our life science and technology customers accounted for approximately 78% and 22% of our total revenues, respectively. Our customers range in size from the largest multi-national corporations to smaller companies. Our customers represent a range of sub-verticals within the larger life sciences and technology industries, including biotechnology, pharmaceutical, medical device, semiconductor, electronic component, consumer electronics and software. 
+
+We pursue close, long-term relationships with our customers because we believe strong customer relationships are the key to our success. Our agreements with our on premise customers typically provide for the purchase of a perpetual license to the software and related implementation services. A majority of these implementation services are determined at the initial purchase of the software. Customers can order additional implementation services pursuant to additional statements of work on a project by project basis, but they do not have any obligation for future purchases beyond what is agreed to in the initial contract or statement of work. Customers also purchase, at their discretion, maintenance and support services on an annual basis. Customers of our SaaS offerings enter into a subscription agreement that provides for a subscription to our applications as well as related implementation services for a specified term. We sell to multiple divisions within our customers&#8217; organizations, which have the ability to independently purchase solutions and services directly. However, we treat multiple divisions as a single customer to the extent they are part of a single organization. During the fiscal year ended September 30, 2016, no customer accounted for more than 10% of our total revenues. During the fiscal year ended September 2015 and 2014, one customer, Johnson &#38; Johnson, accounted for approximately 11% and 15% of our total revenues. 
+
+Sales and Marketing 
+
+Our sales and marketing teams are focused on expanding relationships with existing customers and adding new customers. We primarily target large and mid-sized organizations worldwide through our direct sales force. Our sales and marketing programs are also organized by geographic region. We have historically focused our sales efforts in the United States and Western Europe, but we believe markets outside of these regions offer a significant opportunity for growth and we intend to make additional investments in sales and marketing to expand in these markets. We augment our sales professionals with solutions engineers and industry domain experts via our Center of Excellence. These professionals work closely with prospective customers during the sales process. Our marketing team supports sales with demand generation, competitive analysis and sales tools, and contributes to the sales process through lead generation, brand building, industry analyst relations, public relations and industry research. 
+
+Our sales and marketing efforts are tailored to communicate effectively to senior executives at all relevant organizations and especially in our target industries. We believe our industry expertise enables a better understanding of our customers&#8217; unique needs, including the specialized business requirements of industry segments, such as pharmaceutical, biotechnology, medical device, semiconductor, consumer electronics, manufacturing and software. As a result, we believe we are able to engage our customers during the sales process using quantitative and qualitative benchmarks built on a combination of comparative data from our customers and from surveys of these industries. 
+
+We host an annual customer conference, Rainmaker, which plays a significant role in driving sales of our solutions. Customers are invited both as attendees and participants to deliver sessions relevant to the interests and practices of the life science and technology industries. We also invite potential customers to this conference in order to leverage our strong customer relationships to accelerate sales cycles. In addition, Rainmaker provides a forum to build our eco-system of strategic partner relationships, offering partners the opportunity to work closely with our sales force on joint sales pursuits. 
+
+&#160;
+
+&#160;
+
+Research and Development 
+
+Our reputation benefits from our continuous commitment to research and development and our ability to make timely introductions of new products, technologies, features and functionality. Our research and development organization is responsible for the definition, design, development, testing, certification and ongoing maintenance of our applications. Our research and development expenses were $23.7 million, $17.9 million, and $18.7 million in the fiscal years ended September 30, 2016, 2015, and 2014, respectively. We also capitalized $1.1 million, $2.5 million and $0.4 million of software development costs in the fiscal years ended September 30, 2016, 2015, and 2014, respectively, related to the development of certain additional software as a service offering that will only be offered through the cloud. These capitalized costs include all direct employee related costs. Our efforts are focused on developing new applications and technologies and further enhancing the functionality, reliability, performance and flexibility of existing solutions. When considering improvements and enhancements to our applications, we communicate with our customers and partners who provide significant feedback for product development and innovation. We focus our efforts on anticipating customer demand and bringing our new solutions and enhancements of existing solutions to market through a seasonal release schedule (Spring, Summer, and Winter) in order to remain competitive in the marketplace. We also closely monitor the changes in business environment and regulations in our target industries, particularly in life science, where quick deliveries of updates to our applications are critical to allowing our customers to remain in compliance with government regulations. 
+
+Because our solutions often serve as a system-of-record for our customers&#8217; revenue management processes, our research and development efforts reflect the extensive IT needs of our customers in both life science and technology. Our research and development efforts continue to focus on enhancing our solutions to meet the increasingly complex infrastructure requirements of our customers in these industries. 
+
+Our product development process is based on deep industry knowledge and familiarity with the specific requirements of individual customers, combined with continued innovation using state of the art software development processes and tools. We follow an &#8220;agile&#8221; development process, which helps us clarify requirements and receive feedback early, accommodate changes and deliver products that better match the overall needs of our customers with higher quality. 
+
+As of September 30, 2016, our research and development team consisted of 262 full-time employees globally. 
+
+Competition 
+
+The market for revenue management solutions is highly competitive, fragmented and subject to rapid changes in technology. We face competition from spreadsheet-assisted manual processes, internally developed solutions, large integrated systems vendors, providers of business process outsourcing services, horizontal revenue management solutions and smaller companies that offer point solutions. Companies lacking information technology (IT) resources often resort to spreadsheet-assisted manual processes or personal database applications. In addition, some potential customers, particularly large enterprises, may elect to develop their own internal solutions, including custom-built solutions that are designed to support the needs of a single organization. Companies with large investments in ERP or CRM applications, which do not typically provide revenue management capabilities, may extend these horizontal applications with customizations or point solution applications in order to address single or a small set of revenue management sub processes or drivers. Common horizontal applications that customers attempt to configure for this purpose in the life science and technology industries include large integrated systems vendors like SAP AG and Oracle Corporation. We also encounter competition from small independent companies, which compete on the basis of price, unique product features or functions and custom developments. 
+
+We believe we compete based primarily on the following factors: 
+
+&#160;
+
+&#8226; 
+
+industry expertise; 
+
+&#160;
+
+&#8226; 
+
+comprehensiveness of solution; 
+
+&#160;
+
+&#8226; 
+
+reliability, scalability and performance; 
+
+&#160;
+
+&#8226; 
+
+access to prospective customers through strategic partnerships; 
+
+&#160;
+
+&#8226; 
+
+global system and support capabilities; and 
+
+&#160;
+
+&#8226; 
+
+industry brand, reputation and customer base. 
+
+While we believe that we compete favorably on the basis of each of the factors listed above, many of our competitors have greater name recognition, larger sales and marketing budgets and greater resources than we do and may have pre-existing relationships with our potential customers, including relationships with, and access to, key decision makers within these organizations, and major distribution agreements with consultants and system integrators. Moreover, many software vendors could bundle solutions or offer them at a low price as part of a larger product sale. 
+
+&#160;
+
+With the introduction of new technologies and market entrants, we expect competition to intensify in the future. We also expect enterprise software vendors that focus on enterprise resource planning or back-office applications to enter our market with competing products. In addition, we expect sales force automation vendors to acquire or develop additional solutions that may compete with our solutions. 
+
+Intellectual Property 
+
+We rely upon a combination of copyright, trade secret, trademark and, to a lesser extent, patent laws, and we also rely on contractual restrictions, such as confidentiality agreements and licenses, to establish and protect our proprietary rights. As of September 30, 2016, we had five U.S. patent applications, one international patent application, and five issued patents expiring between 2023 and 2034. We have a number of registered and unregistered trademarks. We maintain a policy requiring our employees, consultants and other third parties to enter into confidentiality and proprietary rights agreements and to control access to our software, documentation and other proprietary information. We also believe that factors resulting from our length of presence in the market and significant research and development investments, such as our deep expertise in life science and technology revenue management practices, the ability of our solutions to handle the complexities of revenue management processes, the technological and creative skills of our personnel, the creation of new features and functionality and frequent enhancements to our solutions are essential to establishing and maintaining our technology leadership position. 
+
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy or obtain and use our technology to develop products with the same functionality as our solutions. Policing unauthorized use of our technology is difficult. The laws of other countries in which we market our application suite may offer little or no effective protection of our proprietary technology. Our competitors could also independently develop technologies equivalent to ours, and our intellectual property rights may not be broad enough for us to prevent competitors from selling products incorporating those technologies. Reverse engineering, unauthorized copying or other misappropriation of our proprietary technology could enable third parties to benefit from our technology without paying us for it, which would significantly harm our business. 
+
+Employees 
+
+As of September 30, 2016, we employed 814 people, including 369 in services and customer support, 262 in research and development, 119 in sales and marketing and 64 in a general and administrative capacity. As of such date, we had 405 employees in the United States and 409 employees in international locations. We also engage a number of temporary employees and consultants. None of our employees are represented by a labor union with respect to his or her employment with us. We have not experienced any work stoppages and we consider our relations with our employees to be good.
+
+Segments 
+
+We have one business activity, developing and monetizing revenue management solutions, and there are no segment managers who are held accountable for operations, operating results or plans for levels or components below the consolidated unit level. Accordingly, we have determined that we operate in a single reporting segment. For a discussion of revenues, operating profit or loss and total assets, please see Part II, Item 8 of this Form 10-K. 
+
+Geographic Information 
+
+See Note 10 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Form 10-K. 
+
+Corporate Information 
+
+We were incorporated in Delaware on December 14, 1999. Our principal offices are located at 1600 Seaport Boulevard, Suite 400, Pacific Shores Center, Building 6, Redwood City, CA 94063, and our telephone number is (650) 610-4600. Our website address is www.modeln.com. The information contained on, or that can be accessed through, our website is not part of this report. Model N is our registered trademark in the United States and in various international jurisdictions. Model N, the Model N logo and all of our product names appearing in this report are our trademarks. Other trademarks appearing in this report are the property of their respective holders. 
+
+&#160;
+
+Available Information 
+
+We file annual, quarterly and other reports, proxy statements and other information with the Securities and Exchange Commission (SEC) under the Securities Exchange Act of 1934, as amended (Exchange Act). We also make available, free of charge on the investor relations portion of our website at investor.modeln.com, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after they are filed electronically with the SEC. You can inspect and copy our reports, proxy statements and other information filed with the SEC at the offices of the SEC&#8217;s Public Reference Room located at 100 F Street, NE, Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the operation of Public Reference Rooms. The SEC also maintains an Internet website at http://www.sec.gov/ where you can obtain most of our SEC filings. You can also obtain paper copies of these reports, without charge, by contacting Investor Relations at (650) 610-4600. 
+

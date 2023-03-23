@@ -1,0 +1,502 @@
+ Item 1. Business Overview 
+
+We provide a complete technology solution to automate the purchase and sale of advertising for both buyers and sellers. Our highly scalable platform reaches approximately one billion &#32;Internet users globally on some of the world&#8217;s leading websites and mobile applications. We help increase the volume and effectiveness of advertising, improving revenue for sellers and return on advertising investment for buyers. We believe our integration with leading global buyers and sellers of advertising and the benefits we provide to them give us a critical position in the digital advertising ecosystem. 
+
+Advertising takes different forms, referred to as advertising units, and is purchased and sold through different transactional methodologies, referred to as inventory types. Finally, it is presented to users through different channels. Our solution enables buyers and sellers to purchase and sell: 
+
+&#8226; 
+
+a comprehensive range of advertising units, including display and video; 
+
+&#8226; 
+
+utilizing various inventory types, including (i) direct sale of premium inventory, which we refer to as Orders, on a guaranteed, or fully reserved basis, as well as on a non-guaranteed basis; (ii) real-time bidding, or RTB; and (iii) static bidding; 
+
+&#8226; 
+
+across digital channels, including mobile web, mobile application, and desktop, as well as across various out of home channels, such as digital billboards, that are in the early stages of leveraging our advertising automation platform. 
+
+Our platform features applications for digital advertising sellers, including websites, mobile applications and other digital media properties, to sell their advertising inventory; applications and services for buyers, including advertisers, agencies, agency trading desks, or ATDs, demand side platforms, or DSPs, and ad networks, to buy advertising inventory; and a marketplace over which such transactions are executed. Together, these features power and optimize a comprehensive, transparent, independent advertising marketplace that brings buyers and sellers together and facilitates intelligent decision-making and automated transaction execution for the advertising inventory we manage on our platform. 
+
+Sellers of digital advertising use our platform to maximize revenue by accessing a global market of buyers representing top advertiser brands around the world to monetize their advertising inventory across inventory types, advertising units, and channels. We also help sellers decrease costs and protect their brands and user experience. Our relationships with our sellers are built on technical integration, which differentiates us from many other participants in the advertising ecosystem. 
+
+At the same time, buyers leverage our platform to manage their advertising spending across inventory types, advertising units, and channels, simplify order management and campaign tracking, obtain actionable insights into audiences for their advertising, and access impression-level purchasing from hundreds of sellers. We believe buyers need our platform because of our powerful solution and our direct relationships and integrations with some of the world&#8217;s largest sellers. 
+
+Our platform incorporates proprietary machine-learning algorithms, sophisticated data processing, high-volume storage, detailed analytics capabilities, and a distributed infrastructure. We analyze billions of data points in real time to enable our solution to make approximately 300 &#32;data-driven decisions per transaction in milliseconds, and to execute up to 5 million &#32;peak queries per second, and over 9 trillion &#32;bid requests per month. Since 2012, we have processed approximately 200 trillion &#32;bid requests. Our solution is constantly self-optimizing based on our systems&#8217; ability to analyze and learn from vast volumes of data. The additional data we obtain from the volume of transactions on our platform help make our machine-learning algorithms more intelligent, leading to higher quality matching between buyers and sellers, better return on investment for buyers, and higher revenue for sellers. As a result of that high quality matching, we attract even more sellers which in turn attracts more buyers and vice versa. We believe this self-reinforcing dynamic creates a strong platform for growth. 
+
+During the early stages of our business following our incorporation in April 2007, our solution helped sellers to automate their existing advertising network relationships to match the right buyer with each impression, as well as increase their revenue and decrease their costs. Between 2008 and 2009, we developed direct relationships with buyers and created applications to assist buyers to increase their return on investment. During 2010, we added RTB capabilities, allowing sellers&#8217; inventory to be sold in an auction to buyers, creating a real time unified auction where buyers compete to purchase sellers&#8217; advertising inventory. During 2012, we launched our private marketplace orders application, which allows sellers to connect directly with pre-approved buyers to execute direct sales of previously unsold advertising inventory. 
+
+Measured by inventory type, in 2015 the fastest-growing sources of our managed revenue were RTB and Orders, which also represent our most significant growth opportunities for the future. In December 2015, International Data Corporation, or IDC, estimated that RTB was a $10.3 billion &#32;global market in 2015 and will increase to $20.5 billion &#32;by 2019, and Orders was a $3.7 billion &#32;global market in 2015 and will grow to $34.1 billion &#32;by 2019. The compound annual growth rate for these market opportunities is 41% &#32;on a combined basis. In addition, we are facilitating increasing spending in RTB and Orders on our platform via our expanded range of buyer capabilities. From a channel perspective, mobile advertising automation also represents a fast-growing market opportunity. Mobile advertising (excluding search advertising) was a $28.1 billion &#32;global market in 2015 that is expected to increase to $85.1 billion &#32;by 2019, according to IDC estimates. 
+
+To further capitalize on the growth opportunity in Orders, in 2014 we introduced the first-generation of our guaranteed orders solution to automate the buying and selling of premium digital inventory on a fully reserved, or guaranteed, basis. In late 2014, we further expanded our orders automation technology and further increased our capabilities in the automated guaranteed market with the acquisition of two companies, iSocket, Inc., or iSocket, and Shiny Inc., or Shiny. The addition of iSocket and Shiny provided additional solutions to automate the buying and selling of direct-sold and guaranteed deals. Combined with our pre-existing orders technology, these acquisitions enabled us in 2015 to create a fully integrated solution for automating, streamlining, and managing the processes of direct buying and selling of guaranteed and non-guaranteed advertising. 
+
+In April 2015, we advanced our buyer capabilities through the strategic acquisition of Chango Inc., or Chango, an intent marketing technology company. The acquisition expanded our buyer capabilities and expertise and our direct integrations with premium brands and advertising agencies. The acquisition also reinforced our order automation technology, specifically through the advancement of our Orders (Guaranteed Orders and Non-Guaranteed Orders) platform. 
+
+In 2015, we also significantly advanced our mobile capabilities and grew our mobile managed revenue by 126% &#32;year-over-year through a combination of internal product development, strategic customer wins, driving increased revenue from existing buyer and seller customers, and international expansion. 
+
+We operate our business on a worldwide basis, with an established operating presence in North America and Europe and a developing presence in Asia and Latin America. Based on the location of sellers that use our platform, for the year ended December 31, 2015 , approximately 35% &#32;of our managed revenue was generated from international markets. 
+
+Rubicon Project is a Delaware corporation established in 2007. We are headquartered in Los Angeles, California. 
+
+Our Industry 
+
+Continued Shift Towards Digital Advertising 
+
+The advertising industry is experiencing significant change and extraordinary growth in advertising automation, highlighted by the growth in RTB and Orders. According to IDC estimates (December 2015), RTB was a $10.3 billion &#32;global market in 2015 expected to increase to $20.5 billion &#32;by 2019, and Orders was a $3.7 billion &#32;global market in 2015 expected to grow to $34.1 billion &#32;by 2019. The compound annual growth rate for these market opportunities is 41% &#32;on a combined basis. 
+
+The growth in RTB and Orders demonstrates the powerful shift underway in the global advertising industry from advertising in analog and print media, such as newspapers, magazines, broadcast radio, and television, to digital advertising. This decades-long shift has resulted in content being increasingly delivered to users over the Internet, mobile networks and digital television, creating an opportunity for buyers to target audiences more accurately using data-driven strategies and deliver more relevant advertising in real time on multiple screens. Buyers are able to utilize various technologies to analyze data relating to return on investment, demographics, user behavior, location, and other attributes that enable them to create and deliver targeted advertisements to users, which helps achieve specific advertising goals. As a result, digital advertising has the potential to drive return on advertising investment significantly higher than traditional print, broadcast radio, and television. Technological advances have also enabled sellers to sell their inventory on an impression-by-impression basis, as well as in bulk, making it easier for sellers to better optimize and expand the monetization of their inventory. 
+
+Despite these inherent advantages of automated digital advertising for buyers, according to IDC, automated digital advertising represented just 2% &#32;of global advertising industry spending in 2015. As a result, the anticipated continued shift of advertising spending to automated digital channels in the future represents a significant growth opportunity. 
+
+Development of a Complex Digital Advertising Ecosystem Comprising a Large Number of Buyers, Sellers, and Other Participants 
+
+In the early stages of the digital advertising market, buyers and sellers of inventory transacted directly with one another or through a small number of intermediaries. As Internet usage increased and the scale of sellers and data expanded, it became increasingly difficult for buyers to effectively target users and for sellers to effectively monetize their inventory. To address these challenges, buyers and sellers of inventory have come to rely on an ecosystem of multiple technology and service providers. Some of the various types of buyers and sellers are described below. 
+
+Buyers: &#32;At one end of the ecosystem, spending begins with advertisers, who execute digital advertising campaigns directly or through various intermediaries. Buyers include: 
+
+&#8226; 
+
+Advertisers: Companies marketing their brands, products and services through advertising campaigns. 
+
+&#8226; 
+
+Agencies: Advertising holding companies and their owned agencies that plan and execute advertising campaigns for their commercial clients. 
+
+&#8226; 
+
+Agency trading desks, or ATDs: Typically, agencies plan and execute media purchases by interacting with DSPs through their own in-house ATDs. Advertising agencies often centralize their digital advertising expertise into an ATD in order to better optimize advertiser campaigns and digital media purchases. 
+
+&#8226; 
+
+DSPs: There are many DSPs in the digital advertising industry and they generally use real-time bidding, or RTB, to purchase advertising inventory from sellers on an automated, impression-by-impression basis. DSPs may earn revenue through arbitrage, like ad networks, or they may charge fees for their services. 
+
+&#8226; 
+
+Ad networks: There are hundreds of ad networks that seek to optimize campaigns to achieve advertiser and agency goals. Ad networks often arbitrage by purchasing advertising inventory from sellers and then selling it to advertisers at higher prices. 
+
+Sellers: &#32;At the other end of the ecosystem, sellers create websites and mobile applications that contain viewable space for advertisements, or impressions, that can be delivered to users as they visit and navigate through websites, and applications across different channels, such as desktop, mobile devices, satellite, cable, smart TV, or set-top boxes. These impressions can be sold to buyers, either in advance via manual or automated direct sales efforts, or in real time on an impression-by-impression basis via a third party through the digital advertising ecosystem. Sellers include: 
+
+&#8226; 
+
+Website publishers (desktop): Operators of browser-based websites optimized for desktop computers. 
+
+&#8226; 
+
+Website publishers (mobile web): Operators of browser-based websites optimized for mobile devices, such as smartphones or tablets. 
+
+&#8226; 
+
+Mobile application developers: Operators of Internet application software designed to efficiently display publisher content on mobile devices such as smartphones or tablets, typically without requiring a browser. 
+
+&#8226; 
+
+Ad networks: In certain instances, ad networks can also serve as sellers to advertising automation platforms (such as Rubicon Project) by supplying desktop or mobile inventory via integrations the ad network established with publishers. 
+
+Complicated and Manual Workflow for Direct Buying and Selling of Digital Advertising 
+
+Due to the size and complexity of the advertising ecosystem and purchasing process, manual processes can no longer effectively optimize or manage digital advertising. In addition, both buyers and sellers are demanding more transparency, better controls and more relevant insights from their advertising purchases and sales. Buyers and sellers benefit from a platform that enables them to leverage the targeting capabilities of their proprietary data assets. This has created a need to automate the digital advertising industry and to simplify the process of buying and selling advertising. 
+
+Digital Advertising is Complex and Challenging to Automate 
+
+A variety of factors make the digital advertising ecosystem highly complex and challenging to automate: 
+
+&#8226; 
+
+Perishable Inventory. &#32;An Internet user&#8217;s visit to a website or mobile application creates a unique opportunity to reach the user by inserting advertisements into one or more of the impressions designed into the website or mobile application. In order to generate revenue for a seller these impressions must be filled before the page content loads. The inventory of available impressions is highly perishable due to the fact that each impression must be identified, valued, auctioned, and successfully purchased, and the advertisement must be delivered into that impression, in the split second between the time a user types in a web-address or is redirected to a website or mobile application and the time the page is loaded. Buyers and sellers need a solution that can analyze and execute on their objectives in an automated fashion at virtually instantaneous speed, or real time. 
+
+&#8226; 
+
+Complex Impression-Level Matching. &#32;Sellers aim to sell impressions to maximize revenue while enhancing the users&#8217; experience and preserving the sellers&#8217; brand. Buyers seek to purchase impression-level inventory to maximize targeting of specific audiences and return on investment for their advertising spending. As a result of this dynamic, there is a need for a technology solution that can match buyer and seller objectives at a large scale to optimize the delivery of advertising on an impression-by-impression basis. 
+
+&#8226; 
+
+Large Multi-Variate Datasets. &#32;Trillions of data points relating to browsing behavior, geographic information, user preferences, engagement with an advertisement, and effectiveness of an advertisement are created as users visit sellers&#8217; websites and mobile applications. Each piece of data represents a valuable piece of information that can facilitate and improve current and subsequent targeting and monetization of impressions. However, the volume of data available is so large that it is difficult for buyers and sellers to effectively manage the information flow to extract maximum value from the data. As a result, buyers and sellers need a solution capable of analyzing, processing, and interpreting large amounts of data and executing buy and sell orders informed by such data, all in real time. 
+
+&#8226; 
+
+Fragmented Buyer and Seller Base. &#32;There is an enormous number and variety of buyers and sellers of digital advertising. Historically, inefficient manual transaction techniques have been inadequate to cope with this fragmentation, making it difficult for sellers to efficiently transact with many buyers to maximize revenue, and for buyers to make large volume buys safely and securely to meet their investment objectives. This inefficiency has created a need for a solution that is capable of seamlessly connecting a highly fragmented global buyer and seller base. 
+
+&#8226; 
+
+Brand Security and Inventory Quality Concerns. &#32;Buyers are concerned about being associated with content they consider inappropriate, competitive, or inconsistent with their advertising themes. Sellers want to prevent advertisements that are inappropriate, competitively sensitive, or otherwise do not comport with their brand image from appearing on their websites or mobile applications. As sellers try to make their inventory available to a wider group of buyers, and buyers extend their reach in pursuit of target audiences, the importance of brand security increases for both buyers and sellers. Moreover, the indirect nature of many relationships between buyers and sellers on advertising exchanges or ad networks can, in the absence of sufficient quality controls, result in inferior inventory quality that places the advertiser buyer at risk or inferior quality advertisements that place the publisher at risk. Both buyers and sellers need a solution that is capable of following specified rules to maintain brand integrity and deliver relevant advertisements and inventory that meets quality standards to create a positive user experience, while efficiently executing a large volume of transactions. 
+
+&#8226; 
+
+Consumer Experience Concerns. Consumers prefer digital experiences featuring advertising that is relevant to their personal interests, non-intrusive, and that does not detract from or slow down their enjoyment of digital content. 
+
+&#8226; 
+
+Large and Highly Unpredictable Traffic Volumes. The scale of user traffic and the dollar value of digital advertisements is difficult to manage efficiently. A large seller may have tens of millions of users per month, creating hundreds of millions of monthly impressions. The volume of traffic for any given seller is extremely difficult to predict. Breaking news stories, as an example, create spikes in traffic on news websites for a period of time. As a result, sellers need a platform that can effectively respond to and monetize inventory during unpredictable spikes in volumes. 
+
+&#8226; 
+
+Lack of Standardized Ad Formats and Data. An available advertising impression can vary based on a number of factors, such as seller, ad format, screen size, pricing mechanism, content type, and audience demographic. It is challenging for buyers to efficiently evaluate and bid on trillions of impressions that are based on hundreds of ad formats in the context of millions of highly customized data fields. As a result, buyers and sellers require a platform that can, on a real time basis, match a large variety of available advertising impressions with those potential buyers. Buyers and sellers also often work with multiple technology platforms to develop their advertising automation solutions, creating integration challenges required to manage multiple advertising technology vendors and resulting in significant operational complexity. 
+
+Rubicon Project: Our Platform Enables the Digital Advertising Marketplace 
+
+Rubicon Project was founded to address the inherent challenges associated with the digital advertising ecosystem and to enable a marketplace where buyers and sellers can transact in a highly efficient and safe manner. 
+
+Our technology platform creates and powers a marketplace for buyers and sellers to readily buy and sell advertising at scale. Our solution provides a critical connection between buyers and sellers and allows large numbers of buyers and sellers to transact on an automated basis. Buyers can direct their spending towards the impressions that are of most value to them based on demographics, pricing, timing, and other targeting objectives. Sellers can optimize the amount of revenue per impression, while adhering to their own specific rules around advertising that is permissible on their websites and mobile applications. Our platform enables the real time exchange of high volumes of information in a transparent marketplace that in turn enables sellers to match buyers&#8217; advertising campaigns with their available advertising inventory. 
+
+Sellers have a broad spectrum of advertising inventory available for sale, ranging from premium inventory located on their homepages, to secondary placements, which are generally located on pages deeper within their websites or mobile applications. Sellers may also have different versions of their websites and mobile applications optimized for a variety of devices, from computers to tablets to smartphones, which also increases the variety of advertising inventory available for sale. 
+
+Our buyer capabilities &#32; enable advertising agencies, brand advertisers, DSPs and other buyers to efficiently find and connect with a target audience to build brand awareness, acquire new customers, and re-engage existing customers via site-based retargeting campaigns. These capabilities can enable buyers to target individuals using rich consumer intent data available on our platform that is continuously updated in milliseconds. 
+
+Optimizing for a Broad Universe of Buyers and Sellers Across a Full Spectrum of Inventory Types, Advertising Units, and Channels 
+
+As shown in the illustration below, our solution enables buyers and sellers to transact across a full spectrum of inventory types, advertising units, and channels. 
+
+Different inventory types have different characteristics to address different client objectives. 
+
+Guaranteed Orders &#8212;automates one-to-one guaranteed inventory purchases between buyers and sellers. 
+
+Non-Guaranteed Orders &#8212;automates one-to-one non-guaranteed inventory purchases arranged directly between specific buyers and sellers on the platform. 
+
+Real Time Bidding &#8212;enables the sale and purchase of inventory on an impression-by-impression basis. Buyers are able to leverage our platform to select individual impressions that meet their targeting criteria and sellers are able to leverage our platform to auction their inventory on an impression-by-impression basis to optimize revenue. 
+
+Static Bidding &#8212;enables buyers to provide static or pre-set bids, to buy targeted inventory in bulk, while providing additional monetization for sellers of their lower-value inventory that they may not otherwise be able to sell. 
+
+As shown in the illustration below, our platform integrates these inventory types into a unified auction across a broad universe of buyers, while matching available impressions with advertisements based upon various criteria. 
+
+By accommodating a full spectrum of digital advertising inventory, our solution provides greater coverage of all websites and mobile applications owned by a range of sellers, and attracts all types of buyers, thereby giving buyers the ability to fulfill their audience needs in a more cost-effective manner and optimizing the price at which sellers&#8217; inventory is sold. In addition, our Orders integrations further our access to premium inventory not historically available to us because it was sold through manual efforts. 
+
+Big Data Analytics and Machine-Learning Algorithms 
+
+A core aspect of our value proposition is our big data and machine-learning platform that is able to discover unique insights from our massive data repositories containing proprietary information on trillions of bid requests and served advertisements. Our systems collect and analyze non-personally identifiable information such as pricing of advertisements, historical clearing prices, bid responses, what types of ads are allowed on a particular website, which sellers&#8217; websites a buyer prefers, what ad formats are available to be served, advertisement size and location, where a user is located, which users a buyer wants to target, how many ads the user has seen, browser or device information, and sellers&#8217; proprietary data about users. We have developed proprietary machine-learning algorithms that analyze billions of these data points to enable our solution to make approximately 300 &#32;data-driven decisions per transaction in real time and to execute approximately 9 trillion &#32;bid requests per month. 
+
+Dual Network Effects Drive an Efficient and Self-Optimizing Marketplace 
+
+We bring value to both buyers and sellers through the dual network effects created by our solution&#8212;large volumes of data lead to better matching, which attracts more buyers and sellers, leading to more data. We have one of the largest digital advertising data repositories in the world, which puts us in a unique position to develop differentiated insights to help both buyers and sellers. Our solution is constantly self-optimizing based on our ability to analyze and learn from vast volumes of data. As our platform processes more volume in the form of bid requests, user visits, events, and transactions, we accumulate more data. This additional data helps make our machine-learning algorithms more intelligent and this leads to higher-quality matching between buyers and sellers, leading to better return on investment for buyers and higher revenue for sellers. As a result of that high-quality matching, we attract even more sellers, which in turn attracts more buyers and vice versa. We believe this self-reinforcing dynamic creates a strong platform for growth. 
+
+Competitive Strengths 
+
+Critical Position in Digital Advertising Ecosystem 
+
+Our platform and the applications we provide for buyers and sellers are a critical element of the digital advertising ecosystem. We have direct relationships and integrations with sellers of inventory. In order to maximize the monetization of their advertising inventory through our platform, sellers integrate with our seller applications, train their teams to use our platform for planning and executing campaigns, and automate their workflow to leverage our platform. We believe that there are few market participants that are directly integrated with sellers in a way that allows sellers to make a full range and volume of their advertising inventory readily available in the marketplace. Sellers use our platform to access actionable insights from the data we have amassed and to consolidate and compile payments and billing. The selling, planning, training, integration, and optimization period for each seller requires an investment of time and effort. Once integrated, we believe sellers would experience high switching costs to move large volumes of their inventory to a new platform, and would lose monetization while new algorithms relearn data characteristics. We also believe few competitors can match our comprehensive solution and sellers are not motivated to implement a replacement solution requiring multiple platforms. At the same time, buyers leverage our platform to manage their advertising spending, simplify order management and campaign tracking, attain actionable insights, and get access to impression-level purchasing from hundreds of sellers. We believe that buyers need our platform to take advantage of our direct relationships and integrations with some of the world&#8217;s largest sellers. The benefits we provide to both buyers and sellers, and the time and effort spent by both buyers and sellers to integrate with our applications, give Rubicon Project a critical position in the digital advertising ecosystem. As a result, we have historically been highly successful in retaining our clients and growing our seller base. 
+
+Ensuring a Positive User Experience for Consumers 
+
+Our advertising automation platform helps protect consumer interests and promotes a favorable user experience for consumers by proactively enforcing quality standards across our ecosystem of buyers and seller customers. We maintain industry-leading quality standards for all advertising transacted on our marketplace by evaluating all available types of seller inventory and pre-screening every piece of advertising creative, providing safeguards against malware and other forms of non-human traffic, and ensuring compliance with the Children&#8217;s Online Privacy Protection Act (COPPA) governing advertising placements targeting children. During 2015, Rubicon Project was the only platform consistently ranked in the top three for both desktop and mobile inventory quality by Pixalate&#8217;s Global Seller Trust Index, an independent measure of advertising inventory quality. Our platform also promotes a positive consumer experience by delivering increased advertising relevance through effective matching of buyers&#8217; interests with sellers&#8217; available inventory via our machine-learning algorithms in privacy compliant methods that do not result in collecting any personally identifiable consumer information. 
+
+Platform Applications 
+
+To enhance the value our technology platform brings to the marketplace, we offer a number of applications to address the critical needs of buyers and sellers as depicted in the image below: 
+
+Applications for Sellers. We have direct relationships and integrations with the sellers on our platform. Our user interface offers key time savings features and granular reporting and analytics capabilities that help sellers optimize the use of our platform to fit their needs. Our solution includes applications to help them increase their digital advertising revenue, reduce costs, protect their brands and user experience, and reach more buyers efficiently to increase digital advertising revenue by monetizing their full variety and volume of inventory. 
+
+Sellers realize the following benefits from our platform: 
+
+&#8226; 
+
+Maximized Revenue Across Inventory Types, Advertising Units, and Channels Without Volume or Geographic Constraints. &#32;We provide applications that help a seller monetize inventory across a comprehensive range of inventory types (Orders, RTB and static bidding), advertising units (display or video) and channels (desktop, mobile web, and mobile application). We enable them to monetize a broad base of advertising inventory with virtually no constraints on the type or volume of inventory that can be sold or the number or location of potential buyers. We support placements throughout various areas of our sellers&#8217; properties, which may include designated in-content placements commonly referred to as engagement, outstream video, and right rail. 
+
+&#8226; 
+
+Automated Sales with Leading Buyers Via RTB, Static Bidding, and Orders. &#32;Through our solution, sellers gain instant access to the world&#8217;s largest automated digital advertising buyers, including approximately 350 &#32;DSPs and ad networks. Our platform offers sellers significant flexibility by enabling them to sell their advertising inventory in an automated fashion on an impression-by-impression basis, such as with RTB, in bulk, or in Orders pursuant to arrangements directly between the seller and the buyer. 
+
+&#8226; 
+
+Integrated Solution for Digital Advertising Needs. &#32;We provide sellers with a single web-based interface that serves as their central location to manage, analyze, and maximize digital advertising spending from hundreds of different buyers. This centralized view allows sellers to cost-effectively optimize monetization, control workflow, run analytics, and perform other critical functions across a comprehensive range of inventory placements (Orders, RTB, and static bidding), advertising units (display and video), and channels (desktop and mobile). 
+
+&#8226; 
+
+Significantly Streamlined Sales, Operations, and Finance Workflow. &#32;Our platform streamlines the management of digital advertisement sales by aggregating demand and providing a suite of software applications that automate the process of making inventory available for sale. Our expansive marketplace allows sellers to connect quickly and efficiently with hundreds of thousands of brands. Additionally, we provide a web interface that transforms time-consuming and manual order entry and processing into an automated process. 
+
+&#8226; 
+
+Security for Brand and User Experience. &#32;Our platform is designed to ensure that advertisements shown on a seller website or mobile application conform to the seller&#8217;s guidelines, which specify what advertisers, type of product, or type of advertisement may not be shown on the seller&#8217;s website or mobile application. Our systems scan all advertisements to verify, in real time, that each advertisement is appropriate for the seller and conforms to our platform-wide advertising quality requirements. 
+
+&#8226; 
+
+Advanced Reporting and Analytics and Actionable Insights. &#32;We have developed a robust set of reporting features that sellers can access and use to analyze the vast array of data we collect for them. We provide sellers with actionable insight in order to leverage that data. Using our analytics, sellers can readily gather impression data, yield optimization data, brand security data, and pricing data needed to manage their digital business effectively. For example, sellers can benefit from big-data-driven insights to understand the optimal pricing of their inventory, including setting optimal price floors for RTB auctions, and leveraging vast quantities of historical bid data to calculate the financial impact of blocking bids from certain advertisers or industry segments. 
+
+&#8226; 
+
+Consolidated Payments and Transparent Tracking and Billing System. &#32;We provide consolidated billing and collection for sellers who would otherwise be required to dedicate additional resources to cost-effectively manage financial relationships with a large base of buyers. 
+
+&#8226; 
+
+Independence. Some competitors working with sellers have their own owned and operated properties to which they have an incentive to give preferred treatment, which can lead to sub-optimal pricing and access for others in the market. We believe our independent market position enables us to better serve buyers and sellers because we are not burdened with any structural conflicts. 
+
+&#8226; 
+
+Header Bidding Solution that Helps Generate Higher Revenue for Sellers Through More Efficient Allocation of Buyer Demand . We offer a &#8220;header bidding&#8221; solution that integrates technology directly on a publisher website or mobile application to enable Rubicon Project to sit much higher in the publisher&#8217;s ad stack. The innovation allows the strength and scale of our buyer demand to compete for many more of a seller&#8217;s impressions, creating much higher demand, which leads to higher revenue for sellers. Similarly, we offer a solution that helps sellers to maximize revenue across advertising inventory types and sales channels by ensuring that inventory is optimally allocated between direct and indirect demand, thereby creating as much buyer demand as possible for a given impression. 
+
+Applications for Buyers. Buyers leverage our applications to access a large audience and to purchase advertising inventory based on their key demographic, economic, and timing criteria. These applications help streamline a buyer&#8217;s purchasing operations and increase the efficiency of its spending and the effectiveness of its advertising campaigns. Buyers can execute highly automated campaigns and take advantage of unique targeting data and optimization technology that is provided by our platform. Buyers are also able to use unified reporting and analytics through our buyer-user interface that has been designed to specifically address buyer preferences. Our capabilities for buyers also enable advertising agencies and brand advertisers to build brand awareness, acquire new customers, and re-engage existing customers via site-based retargeting campaigns. 
+
+Buyers realize the following benefits from our platform: 
+
+&#8226; 
+
+Direct Access to a Global Audience and Hundreds of Premium Sellers. &#32;By leveraging our platform, buyers can reach approximately one billion &#32;Internet users globally, including many of the world's largest and most premium sellers. Furthermore, unlike many organizations in the digital advertising industry, we have direct relationships with sellers and can enable buyers to circumvent a multistep, expensive, and inefficient process to connect to the seller. 
+
+&#8226; 
+
+Flexible Access to Inventory. &#32;Our platform allows buyers to purchase advertising inventory in their preferred manner, whether by RTB, static bidding, or Orders. Our solution also has the flexibility to allow buyers to integrate their purchases on our platform through their existing buying technologies or to buy directly through our platform. 
+
+&#8226; 
+
+Optimized Return on Investment by Consolidating Spending on One Platform. By concentrating more of their spending on our platform, buyers can construct a larger data set specific to our platform, which results in superior targeting and more effective campaigns over time. They also benefit from our machine-learning algorithms, which are constantly analyzing their data in order to improve the effectiveness of their campaigns. Our solution provides access to a comprehensive range of inventory placements (Orders, RTB, and static bidding), advertising units (display and video), and channels (desktop and mobile). 
+
+&#8226; 
+
+Intent Marketing Solution for Efficiently Finding a Target Audience . Our capabilities for buyers include a marketing solution to enable advertising agencies and brands to build brand awareness, acquire new customers, and re-engage existing customers via site-based retargeting campaigns. 
+
+&#8226; 
+
+Ability to Automate the Direct Purchase of Fully Reserved Inventory Through our Guaranteed Orders Platform. &#32; Our direct orders &#32; capability enables buyers to significantly streamline the workflow associated with purchasing fully reserved inventory through our Orders platform, while leveraging their first-party data assets. 
+
+&#8226; 
+
+Simplified Order Management and Campaign Tracking. &#32;By eliminating most manual steps, our applications enable buyers to efficiently manage their digital campaigns and significantly reduce the time it would otherwise take to effectively execute their digital advertising programs. 
+
+&#8226; 
+
+Ability to Purchase Desktop and Mobile Inventory at Scale. &#32;As of Q4 2015, 84% &#32;of our top 100 sellers were working with Rubicon Project to monetize desktop and mobile inventory. Similarly, in Q4 2015, 99% &#32;of the largest 2,000 advertiser buyers on our platform purchased both desktop and mobile inventory through our marketplace. 
+
+&#8226; 
+
+Transparency and Control Over Advertising Spending. Our platform is designed to let buyers know and control where their dollars are being spent. Buyers can easily navigate through our interface to choose the list of sellers they want to purchase inventory from and see an indicative price range that they should expect to pay. 
+
+&#8226; 
+
+Brand Security. &#32;Our suite of brand-security technologies and premium seller base ensure buyers that their advertisements will appear in an environment they have pre-approved. 
+
+&#8226; 
+
+Inventory Quality. We provide systems and processes to detect and minimize questionable inventory, such as non-human traffic. 
+
+&#8226; 
+
+Independence. Some industry participants have incentives to isolate their viewers and deploy specialized technology for their audiences, making buyers dependent on them to reach the users of their particular websites, mobile applications, devices, or other hardware. By comparison, our platform provides access to a wide range of leading sellers globally. 
+
+Our Market Opportunity 
+
+We believe that important trends greatly enhance our market opportunity, namely the shift in advertising spending to digital advertising, the move towards automation, and the convergence of media across multiple channels, including desktop and mobile. 
+
+Rapid Growth in Digital Advertising Spending 
+
+While media consumption and time spent by consumers have shifted relatively quickly from traditional television, broadcast radio, and print to Internet, digital television, and mobile devices, the shift in advertising spending from analog and print to digital lagged initially and is still catching up. This is consistent with historical patterns, in which audience adoption of new channels has preceded the migration of advertiser spending, with that gap decreasing over time. The rapid growth in digital media consumption has driven growth in digital advertising spending, which is growing at a significantly faster rate than advertising spending on analog and print media. Furthermore, we believe that there will be continued expansion of digital advertising as advertising spending catches up to time spent on the Internet and mobile devices. According to IDC, display, mobile, and video digital advertising are forecasted to grow from approximately $73 billion &#32;in 2015 to $137 billion &#32;in 2019, a 17% &#32;compounded annual growth rate, while traditional television advertising is forecasted to grow from approximately $241 billion &#32;in 2015 to $278 billion &#32;in 2019, a 4% &#32;compounded annual growth rate. The continued growth in overall advertisement spending, and the shift in that spending to digital media to keep up with the migration of consumers, yield significant additional opportunities to monetize Internet and mobile traffic. 
+
+Increasing Demand for Automation and Real-Time Bidding 
+
+According to IDC estimates (December 2015), RTB was a $10.3 billion &#32;market in 2015 that is expected to increase to $20.5 billion &#32;by 2019, and Orders was a $3.7 billion &#32;global market in 2015 expected to grow to $34.1 billion &#32;by 2019. The compound annual growth rate for these market opportunities is 41% &#32;on a combined basis. 
+
+Trend Towards Automation of Analog and Print Advertising Markets 
+
+Over time, we also expect the analog and print advertising markets to automate, and we view our long-term mission, and opportunity, as the automation of the buying and selling of all advertising. We believe buyers want to be able to reach users across multiple channels and to have a platform that can unify their advertising spending. Consumption patterns for television are changing, with viewers migrating to digital channels and using multiple devices to view video programming. According to media measurement company Nielsen, television viewership is increasingly moving to the Internet, with 40% of U.S. households watching television content online via a streaming video on demand (SVOD) service such as Netflix (Nielson, The Total Audience Report: Q4 2014, March 11, 2015). At the same time, as more content is being delivered to users digitally, television and Internet content are beginning to converge, blurring the historical distinctions between analog and print media and digital media, and requiring buyers to consider their advertising strategies over multiple media. We believe these trends give us the opportunity to automate an increased portion of the larger advertising market. 
+
+The need for automation of advertising will grow as complexity increases and as digital media continues to converge with analog and print media. While the primary market we serve today is the digital advertising market, we expect to be able to leverage our unique marketplace and technology to ultimately automate all of these markets and enhance the experience of buyers and sellers across the entire advertising ecosystem. 
+
+Demonstrated Ability to Generate Increased Managed Revenue from Buyer and Seller Customers 
+
+As depicted in the chart below, we have been successful in deploying different inventory types and channels to our buyer and seller customers, which have increasingly used our complete solution. Our customers have adopted more of our offerings and increased utilization of our capabilities, which has helped drive a significant increase in average managed revenue per buyer and per seller generated on our platform. We believe that our existing customers represent a source of continued revenue growth as we expand our solution. 
+
+The propensity of buyer and seller customers to adopt more offerings from our solution has contributed to strong growth in our mobile managed revenue. As depicted in the chart below, mobile managed revenue has significantly expanded as a percentage of total Rubicon Project managed revenue in recent years. 
+
+As depicted in the chart below, average managed revenue per buyer on our platform has grown considerably over our history. We expect the average spending per buyer to further increase over time as buyers continue to increase their use of our solution. 
+
+Managed revenue per seller has also increased considerably throughout our history, as depicted in the image below that analyzes the growth in managed revenue for seller customer cohorts (grouped by the year the seller cohorts became a customer on our platform). 
+
+Growth Strategies 
+
+The core elements of our growth strategy include: 
+
+&#8226; 
+
+Increasing Penetration of Our Mobile and Video Offerings into Buyers and Sellers Globally. We believe we can significantly expand the penetration of our fast-growing mobile and video offerings among existing buyer and seller customers and by attracting new buyer and seller customers across the globe. Consumer consumption of mobile and video content continues to rapidly increase and we see an attractive opportunity to significantly strengthen our presence as a leading global platform for enabling buyers to reach consumers with relevant mobile and video advertising via our existing sellers and by attracting new seller relationships. We intend to aggressively invest in developing additional product features and marketing initiatives to support our mobile and video growth objectives. 
+
+&#8226; 
+
+Growing Our Business with Existing Buyers by Promoting Increased Use of Our Complete Technology Solution and Attracting New Buyers to Our Platform. &#32;We believe we can attract a greater portion of buyers&#8217; spending by promoting increased use of our complete technology solution featuring capabilities across a comprehensive range of inventory placements (Orders, RTB, and static bidding), ad units (display and video), and channels (desktop and mobile). We will also focus on delivering continued improvement of our matching and pricing algorithms as well as enhanced features, functionality, and service of our solution. We see an opportunity with existing buyers to offer them additional inventory to make buying more efficient on our platform. We plan to invest in our sales organization to drive increased spending by existing buyers on our platform and to attract new buyers to our platform. 
+
+&#8226; 
+
+Increasing Penetration of Existing Sellers by Promoting Increased Use of Our Complete Technology Solution and Attracting New Sellers. &#32;We see an opportunity to increase the share of seller inventory that we currently monetize by promoting increased use of our complete technology solution featuring capabilities across a comprehensive range of inventory placements (Orders, RTB, and static bidding), ad units (display and video), and channels (desktop and mobile). We will also focus on enhancing our cloud and applications, offering additional applications, and increasing our relationships with buyers and sellers that engage in Orders relationships through our solution. In addition, we expect to benefit generally from the growing adoption of automation for sales of advertising inventory, particularly in the Orders market for premium inventory that is a very large global market opportunity that is predominantly a manual sales process currently. We also see an opportunity to form relationships with new sellers for which our platform offers the best solution for monetizing all types of their digital advertising inventory across mobile and desktop channels. 
+
+&#8226; 
+
+Enhancing Our Leadership Position by Investing in Innovation and Expansion. &#32;We intend to build upon our current technology and extend our market leadership through innovation. Our investments will focus on improving our machine-learning algorithms, expanding further into mobile and video, data analytics, audience extension, API integration, building additional features to extend further into order management, building self-service capabilities for buyers and sellers, and enhancing and expanding our current server infrastructure. 
+
+&#8226; 
+
+Building Our Orders Business. A significant portion of premium inventory is purchased and sold on a guaranteed basis. We believe that some sellers will continue to rely on their own sales forces for sales of premium inventory, but will benefit from automation to better price, match, and place campaigns, and to automate manual operations such as ad trafficking, quality assurance, and billing and collections. We have invested in workflow capabilities and automation of premium inventory transactions to enable sales teams to increase their productivity and process more sales of inventory at optimal prices. Workflow capabilities enable buyers and sellers to communicate directly and use shared data to execute campaigns. These capabilities support sales functions rather than replacing them, enhancing their adoption without friction. Buyers and sellers can also leverage their first-party data assets in our platform to increase the value of the seller&#8217;s inventory and precision of the buyer&#8217;s targeting efforts. We plan to build upon these investments to capitalize upon the growth we anticipate in the market for automation of direct transactions. In addition, we believe that our guaranteed orders capabilities will help to position us to automate the purchase and sale of television advertising. 
+
+&#8226; 
+
+Expanding Our Buyer Offerings. The various buyers in the market, including brand advertisers, agencies, ATDs, ad networks, and DSPs, utilize a variety of inventory placements to purchase inventory. Our offering covers all primary forms of digital inventory placement, giving us the ability to serve all buyers. We intend to expand our relationships across all buyer types and inventory placements. We plan to utilize our offerings that facilitate the direct processing of transactions between buyers and sellers to increase our participation in the direct purchase of premium inventory by agencies and their advertisers through our Orders business. 
+
+&#8226; 
+
+Accelerating Our Global Expansion and Entering New Markets. &#32;We currently operate globally from our offices in ten &#32;countries. We believe we can extend our marketplace platform through international expansion to help automate and improve advertising for buyers and sellers globally. In 2014, we initiated operations in Japan and we intend to grow our market share in our existing international markets. We also plan to further expand our operations in Asia and Latin America. 
+
+&#8226; 
+
+Bringing Automation to Additional Media. &#32;Historically, our solution has focused on display advertising. We believe, however, that television and other analog and print media will eventually converge with existing digital channels, creating opportunities for us to expand our solution beyond digital media to analog and print media, such as television, radio, and magazines, as well as out-of-home media like billboards. We intend to extend our solution to track this convergence and support increasingly complex volumes of advertisements spanning multiple media. Our combined offering of inventory placements and advertising units may be packaged for multiple distribution channels, including mobile, desktop, and television (satellite, cable, smart TV, and set-top box). We intend to accelerate our expansion in mobile for both mobile web and mobile applications and to build the foundation to automate television advertising. In addition to platform expansion, we intend to extend beyond our current capabilities for display, video, and engagement to other forms of advertising units as they may arise. 
+
+Our Technology 
+
+To support our solution, we have developed a network of remote servers hosted on the Internet that run our proprietary software, including analytics and decision-making algorithms, and store, manage, and process rules set by buyers and sellers and data about demographics, economics, timing, and preferences. We have specially engineered a high-volume transaction processing hardware, called the Rubicube, that provides significant scale and is programmed for high-frequency, low-latency trading. This infrastructure is supported by a real-time data pipeline, a system that quickly moves volumes of data generated by our business into reporting systems that allow usage both internally and by buyers and sellers, and a 24-hour Network Operations Center, which provides failure protection by monitoring and rerouting traffic in the event of equipment failure or network performance issues between buyers and our marketplace. 
+
+We estimate that our platform currently executes up to 5 million &#32;peak queries per second and averages approximately 19 billion &#32;transactions per week, and since 2012, we have transacted over 200 trillion &#32;bid requests. It utilizes over 45,000 &#32;central processing units, which read and execute our program instructions. In addition, our platform supports more than 100 &#32;gigabytes of data transfer per second and stores more than 5.0 petabytes of data, backed by our globally distributed infrastructure hosted at data centers in the U.S., Europe, and Asia. 
+
+Our infrastructure is distributed across leased commercial data center locations in the US, Europe, and Asia to reduce latency, and its massive scale supports the volume, diversity, and complexity of buyers&#8217; bids on sellers&#8217; advertising inventory to increase market liquidity and achieves optimal pricing using our machine-learning algorithms. Our platform&#8217;s architecture allows for additional scale through enhancements and additions to the infrastructure, which enables us to better evolve and adapt to the demands of buyers and sellers and remain competitive in the marketplace. 
+
+Our proprietary data-driven machine-learning algorithms enable our solution to make decisions that maximize revenue for sellers and improve return on investment for buyers. These algorithms combine and analyze multiple types of data and enable our systems to execute over 60 million &#32;decisions per second, all in time to allow transactions to be executed in milliseconds. 
+
+Decisions processed through these algorithms relate to the following types of data: 
+
+&#8226; 
+
+Pricing Metadata &#8212;We provide information on historical pricing, bids, buyer type and buyers to determine auction winners between RTB and static bidding. This data includes approximately 9 trillion &#32;bid requests per month, 5 million &#32;peak bids per second and data from hundreds of thousands of brands and all major DSPs, ad networks, and ATDs; 
+
+&#8226; 
+
+Audience Data &#8212;We reach approximately one billion &#32;Internet users globally. We have direct relationships with many of the world's largest and most premium sellers. This reach provides us with a large volume of data about users and audiences, such as pricing of advertisements, historical clearing prices, bid responses, what types of ads are allowed on a particular website, which sellers&#8217; websites a buyer prefers, what ad formats are available to be served, advertisement size and location, where a user is located, what users a buyer wants to target, how many ads the user has seen, browser or device information, and sellers&#8217; proprietary data about users. 
+
+Auction and security algorithms use matchmaking algorithms with both historical and real-time data to drive automated decision-making processes. 
+
+Pricing algorithms perform the following functions, among many others: 
+
+&#8226; 
+
+Impression Profiling &#8212;to determine key data related to the impression, such as demographic data, geographic data and historical data to send to potential bidders and collect for reporting and analysis by buyers and sellers. 
+
+&#8226; 
+
+Algorithmic Pricing &#8212;to adjust pricing for impressions based on historical bidding activity and valuation signals to increase marketplace liquidity. 
+
+&#8226; 
+
+Rules Management &#8212;to ensure adherence to seller rules that set minimum prices for advertising inventory, determine which buyers are eligible to purchase advertising, identify buyers and categories of advertisements that are not allowed on a seller&#8217;s website, mobile application or other digital media property, and specify security and other criteria. 
+
+Technology solutions that deliver value for buyers and sellers include the following, among many others: 
+
+&#8226; 
+
+FastLane &#8212;A header bidding solution that integrates technology directly on a publisher website or mobile application to enable Rubicon Project to compete for a greater proportion of seller&#8217;s impressions than without header bidding. 
+
+&#8226; 
+
+Exchange API &#8212;Helps sellers to maximize revenue across all types of advertising inventory and sales channels by ensuring that inventory is optimally allocated between direct and indirect demand, thereby creating as much buyer demand as possible for a given impression. 
+
+&#8226; 
+
+Mobile SDK &#8212;Our mobile software development kit (SDK) is a code embedded in a mobile application that performs advertising technology functions within the mobile application, including collecting and displaying ad content, handling device interactions and enhancing the user experience through ad quality intelligence. Advertising formats supported by our SDK include rich media, video and engagement. Our SDK also supports our FastLane header bidding solution that is designed to maximize demand for available impressions. 
+
+&#8226; 
+
+Buyer Bidder &#8212;Our buyer bidder allows advertising agencies and brands to connect buyers with their target audience through branding, new customer acquisition and site retargeting campaigns. Our bidder evaluates large volumes of intent marketing data (that is continuously updated in milliseconds) in order to execute buys on highly targeted consumer audiences with intention of providing the highest likelihood of achieving the advertisers&#8217; campaign objectives. 
+
+Proprietary protection technologies we have developed include: 
+
+&#8226; 
+
+Protective Screening &#8212;Helps protect sellers and users from malware (software that can infect computers with malicious software), checks advertisements delivered through our solution for the presence of any malicious or questionable activity or characteristics, screens for unsanctioned advertisements, and reduces recurrence. 
+
+&#8226; 
+
+AdCheq &#8212;Reviews and categorizes advertisement creatives so that our systems can automatically enforce each seller&#8217;s specific advertisement quality policies. 
+
+&#8226; 
+
+PubCheq - Leverages a variety of proprietary and third party data sources to evaluate and categorize websites and mobile applications, score inventory quality and guide the company&#8217;s inventory quality team. Maintains a comprehensive database of all inventory reviewed by internal systems and teams and powers a global blacklist that blocks fraudulent or otherwise problematic seller properties from entering the Rubicon Project marketplace. 
+
+&#8226; 
+
+Brand Security Dashboard &#8212;Provides visibility into quality-related activity, showing how different buyers behave relating to advertisement quality, details on the level of malware threats, and data leakage reporting (shows questionable activity related to third parties gathering data on their inventory). 
+
+&#8226; 
+
+Vantage &#8212;An extension for Web browsers that lets sellers monitor ads served in context on their sites, providing insight, diagnostic applications, and ad-quality controls. 
+
+&#8226; 
+
+Creative Approval API &#8212;A programmatic interface that sellers can use to retrieve a comprehensive set of individual advertising creatives that have bid or served on their sites, and instruct our delivery systems to approve or reject those creatives for future impressions. 
+
+Bid efficiency algorithms provide bid prediction (which buyers are most likely to bid on a given impression) and throttling (the volume of bid requests a given buyer can process), to optimize infrastructure load and execute transactions in the most timely manner possible by only sending bid requests to those buyers of advertising inventory who can handle the volume and are likely to respond. 
+
+Technology and Development 
+
+Innovation is key to our success. In addition to the substantial investments we make in improving and extending our technology, we have developed a research and development center through which we invest in exploratory concepts. In addition, our core technology and development team is responsible for the design, development, maintenance, and operation of our platform. Our technology and development process emphasizes frequent, iterative, and incremental development cycles, and we typically release improvements and new features weekly. Within the technology and development team, we have several highly aligned, independent sub-teams that focus on particular features of our platform. Each of these sub-teams includes engineers, quality assurance specialists, and product developers responsible for the initial and ongoing development of each sub-team&#8217;s feature. In addition, the technology and development team includes our technical operations sub-team, which is responsible for the performance and capacity of our platform. While our sub-teams operate independently, the combined work is coordinated by our project management team, which manages dependencies and optimizes the schedule of the entire team towards common goals. 
+
+Technology and development expenses are included in both cost of revenue and technology and development on our consolidated statements of operations. These combined expenses, excluding amounts paid to sellers, were $79.4 million , $43.5 million &#32;and $34.0 million &#32;for the years ended December 31, 2015 , 2014 , and 2013 , respectively. Amounts paid to sellers were $21.2 million &#32;for the year ended December 31, 2015 . Before our acquisition of Chango in April 2015 and our resulting Buyer Cloud integration, we recorded all revenue on a net basis and therefore payments to sellers were not included in cost of revenue for the years ended December 31, &#32; 2014 &#32;and 2013 . We believe that continued investment in our platform, including its technologies and functionalities, is critical to our success and long-term growth. We therefore expect technology and development expenses to increase as we continue to invest in technology infrastructure to support an increased volume of advertising spending on our platform and international expansion, as well as to expand our engineering and technology teams to maintain and support our technology and development efforts. We also intend to invest in new and enhanced technologies and functionalities to enhance our platform and further automate our business processes with the goal of enhancing our future profitability. 
+
+Sales and Marketing 
+
+We sell our solution to buyers and sellers through our global direct sales team, which operates from various locations around the world. This team leverages its market knowledge and expertise to demonstrate the benefits to buyers and sellers of advertising automation and our solution. We deploy a professional services team with each seller integration to ensure that a seller extracts the most value from our solution. We are focused on managing our brand, increasing market awareness, and generating new advertising campaigns. To do so, we often present at industry conferences, create custom events, and invest in public relations. In addition, our marketing team advertises online, in print, and in other forms of media, creates case studies, sponsors research, authors whitepapers, publishes marketing collateral, generates blog posts, and undertakes customer research studies. 
+
+Our Competition 
+
+Our industry is highly competitive and fragmented. We compete for buyer spending against many digital media companies, including Google and Facebook. We compete for advertising inventory with supply side platforms, or SSPs, and advertising exchanges, also including Google. As we introduce new offerings, as our existing offerings evolve, or as other companies introduce new products and services, we may be subject to additional competition. 
+
+We compete for advertising spending and seller inventory made available on our platform. Our offering must remain competitive in terms of scope, ease of use, scalability, speed, brand security, customer service, and other technological features that assist buyers in increasing the return on their advertising investment. We compete for digital advertising inventory based on our ability to maximize the value of sellers&#8217; inventory, provide the greatest array of product components covering their various inventory types, and increase fill rates. We compete on the basis of our technology and the competitive strengths described above, including our ability to enable buyers and sellers to purchase and sell a comprehensive range of advertising units (including display and video), utilizing various inventory types (including direct sale of premium inventory on a guaranteed or non-guaranteed basis, real-time bidding, and static bidding), and across digital channels (including mobile web, mobile application, and desktop). While our industry is evolving rapidly and becoming increasingly competitive, we believe that our solution enables us to compete favorably on the factors described above. However, competitive differentiation is difficult to achieve, both in terms of capabilities and in terms of customer perception. We lack the scale of some of our competitors, which may have the ability to compete effectively with us on the basis of their capabilities or ability to offer more aggressive pricing. Other competitors with capabilities inferior to ours may nevertheless compete effectively with us if customers do not perceive, or value, what we believe to be our competitive advantages. 
+
+Our Team and Culture 
+
+Our management team consists of founders of ad serving and paid search companies, as well as RTB pioneers, and our team draws from a broad spectrum of experience, including data science, artificial intelligence, machine-learning algorithms, auctions, infrastructure, and software development. 
+
+We focus heavily upon developing and maintaining a company culture that supports our goals, and we manage our culture like a product, with a dedicated product manager, budget, measurement, and roadmap. We have a goal of building and growing a truly unique company, focused on the automation of advertising and solving problems through innovation, both internally and for buyers and sellers, to help deliver value. We strive to make our company an exciting place to work, not just a &#8220;job.&#8221; We reward team and individual excellence and constantly strive to build a stronger, more innovative team and a consistent culture across all our locations. 
+
+As of December 31, 2015 , we had 699 &#32;full-time employees, of whom 496 &#32;were in the United States, 306 &#32;were in sales and marketing functions, 248 &#32;were in &#32; technology and development, and 145 &#32;were in general and administrative functions. 
+
+Our Intellectual Property 
+
+Our proprietary technologies are an important component of our success, and we rely upon trade secret, trademark, copyright, and patent laws in the United States and abroad to establish and protect our intellectual property and protect our proprietary technologies. 
+
+We have seven issued U.S. patents, as described below. Additionally, we have nine pending patent applications in the United States and two pending non-U.S. patent applications. None of these patents has been litigated and we are not licensing any of the patents. Their importance to our business is uncertain and there are no guarantees that any of the patents will serve as protection for our technology or market in the United States or any other country in which an application has been filed. Our seven issued U.S. patents include: U.S. Patent No. 8,472,728, titled System and Method for Identifying and Characterizing Content within Electronic Files Using Example Sets, issued on June 25, 2013; U.S. Patent No. 8,473,346, titled Ad Network Optimization System and Method Thereof, issued on June 25, 2013; U.S. Patent No. 8,554,683, titled Content Security for Real-Time Bidding, issued on October 8, 2013; U.S. Patent No. 8,831,987, titled Managing Bids in a Real-Time Auction for Advertisements, issued on September 9, 2014; U.S. Patent No. 9,076,151, titled Graphical Certifications of Online Advertisements Intended to Impact Click-Through Rates, issued on July 7, 2015; U.S. Patent No. 9,202,248, titled Ad Matching System and Method Thereof, issued on December 1, 2015; and U.S. Patent No. 9,208,507, titled Ad Network Optimization System and Method, issued on December 8, 2015. 
+
+We register certain domain names, trademarks and service marks in the United States and in certain locations outside the United States. We also rely upon common law protection for certain trademarks. We generally enter into confidentiality and invention assignment agreements with our employees and contractors, and confidentiality agreements with parties with whom we conduct business, in order to limit access to, and disclosure and use of, our proprietary information. We also use measures designed to control access to our technology and proprietary information. We view our trade secrets and know-how as a significant component of our intellectual property assets, which we believe differentiate us from our competitors. 
+
+Any impairment of our intellectual property rights, or any unauthorized disclosure or use of our intellectual property or technology, could harm our business, our ability to compete and our operating results. 
+
+Customer Dynamics 
+
+While we serve many customers, certain buyers and sellers account for a large share of business transacted through our platform. 
+
+On the buy-side of our business, while demand for advertising is diffuse, spending by advertisers on digital advertising has historically been channeled through intermediaries, including principally advertising agencies and DSPs, both of which are important to us. We have generated a majority of our revenue through RTB, and most RTB inventory purchases are executed by a relatively small number of DSPs that have the bidding technologies, data assets, and client bases necessary to enable them to execute RTB purchases at scale on behalf of their clients. We have relationships with almost all of these major DSPs, but because there are relatively few of them, each of these relationships is important to us because it represents a source of demand that would be difficult for us to replace. Similarly, the majority of spending to date on our Orders product has been by a relatively small number of advertising agencies. Creating new agency relationships and expanding our business with existing agency customers is important to our growth, and loss of any agency customers would adversely affect our Orders business. We are working to develop relationships directly with advertisers, both to provide them with direct access to advertising inventory to supplement their DSP and agency relationships, and also to encourage them to influence their DSPs and agencies to route their spending through our platform. 
+
+On the sell-side of our business, while we work with many customers, a relatively small number of them provide a large share of the unique user audiences accessible by buyers. In addition, most of the application providers that make inventory available through our platform utilize SDKs and other proprietary technology of third parties, such as aggregators, and it is those third parties, not the application providers themselves, that contract with us to help monetize the inventory. Termination or diminution of our relationships with these third parties could result in a material reduction of the amount of mobile inventory available through our platform. We encourage application developers to use our own SDK, but it is difficult to displace existing SDKs. 
+
+Our contracts with buyers and sellers generally do not provide for any minimum volumes and may be terminated on relatively short notice. Buyer and seller needs and plans can change quickly, and buyers and sellers are free to terminate their arrangements with us or direct their spending and inventory to competing sources of inventory and demand, quickly and without penalty. Loss of a major buyer would represent direct loss of fees charged to that buyer for its spending, and loss of a major seller representing a unique audience would result in direct loss of fees charged to that seller for sale of that seller&#8217;s inventory. In addition, just as growth in the inventory strengthens buyer activity in a network effect, loss of unique inventory or substantial buyers could degrade our marketplace. Loss of major DSP sources of demand could adversely affect bid density or pricing in our RTB auctions, and reduction in seller fees if we are not able to redirect inventory to other demand sources. Loss of important unique inventory could reduce buyer fees that cannot be shifted to other sellers. 
+
+Because of these factors, we seek to expand and diversify our customer relationships. However, the number of large media buyers and sellers in the market is finite, and it could be difficult for us to replace the losses from any buyers or sellers whose relationships with us diminish or terminate. 
+
+Geographic Scope of Our Operations 
+
+In addition to the United States, we have significant personnel and operations in Canada, England, France, and Australia, and additional personnel and operations in Germany, Italy, Japan, Singapore, and Brazil. As of December 31, 2015 , 203 &#32;of our 699 &#32;employees were based outside the United States. 
+
+Our international operations and expansion plans expose us to various risks. International operations require significant investment in developing the technology infrastructure necessary to deliver our solution and establishing sales, delivery, support, and administrative capabilities in the countries where we operate. We face staffing challenges, including difficulty in recruiting, retaining, and managing a diverse and distributed workforce across time zones, cultures, and languages. We must also adapt our practices to satisfy local requirements and standards (including differing privacy requirements that are sometimes more stringent than in the U.S.), and manage the effects of global and regional recessions and economic and political instability. Transactions denominated in various non-U.S. currencies expose us to potentially unfavorable changes in exchange rates and added transaction costs. Foreign operations expose us to potentially adverse tax consequences in the United States and abroad and costs and restrictions affecting the repatriation of funds to the United States. 
+
+In the years ended December 31, 2015 , 2014 , and 2013 , approximately 31% , 42% , and 39% , respectively, of our revenue was generated from international markets, and approximately 35% , 42% , and 40% , respectively, of our managed revenue was generated from international markets based on the location of our sellers. With the exception of approximately $40.9 million &#32;in intangible assets in Canada, substantially all of our assets are U.S. assets. Excluding Canada, our non-U.S. subsidiaries and operations perform primarily sales and service functions. 
+
+User Reach 
+
+It is not practicable to determine the exact number of unique users we reach because we do not collect personally identifiable information. In order to estimate our user reach, we start with data we track on devices we see through our platform in a given time period: for web browsers, we identify each combination of browser user agent and originating IP address, and for mobile application users, we identify unique device identifiers. The resulting aggregated total counts some devices more than once because the same device creates different user agent and IP address combinations by using different browsers to access the internet and/or accessing the internet from locations with different IP addresses. We therefore make assumptions about the amount of duplication, as well as assumptions about the average numbers of devices per person, which can vary by geography and over time, and apply these assumptions to estimate of the number of users we reach. Following this methodology, we estimate that we reach approximately 1 billion users globally through our platform. This figure depends upon our assumptions and is therefore inherently imprecise and may differ from third-party estimates of our reach. 
+
+Regulation 
+
+Interest-based advertising, or the use of data to draw inferences about a user&#8217;s interests and deliver relevant advertising to that user, has come under increasing scrutiny by legislative, regulatory, and self-regulatory bodies in the United States and abroad that focus on consumer protection or data privacy. In particular, this scrutiny has focused on the use of cookies and other technology to collect or aggregate information about Internet users&#8217; online browsing activity. Because we, and our customers, rely upon large volumes of such data collected primarily through cookies, it is essential that we monitor developments in this area domestically and globally, and engage in responsible privacy practices, including providing consumers with notice of the types of data we collect and how we use that data to provide our services. 
+
+We provide this notice through our privacy policy, which can be found on our website at http://www.rubiconproject.com/privacy. As stated in our privacy policy, we do not collect information, such as name, address, or phone number, that can be used directly to identify a real person, and we take steps not to collect and store such personally identifiable information from any source. Instead, we rely on non-personally identifiable information about Internet users and do not attempt to associate this data with other data that can be used to identify real people. However, we typically do collect and store IP addresses, geo-location information, and persistent identifiers that or may be considered personal data in some jurisdictions or otherwise may be the subject of future legislation or regulation. The definition of personally identifiable information, or personal data, varies by country, and continues to evolve in ways that may require us to adapt our practices to avoid violating laws or regulations related to the collection, storage, and use of consumer data. For example, some European countries consider IP addresses or unique device identifiers to be personal data subject to heightened legal and regulatory requirements, whereas the United States does not. As a result, our technology platform and business practices must be assessed regularly in each country in which we do business. 
+
+There are also a number of specific laws and regulations governing the collection and use of certain types of consumer data relevant to our business. For example, the Children&#8217;s Online Privacy Protection Act, or COPPA, imposes restrictions on the collection and use of data about users of child-directed websites. To comply with COPPA, we have taken various steps to implement a system that: (i) flags seller-identified child-directed sites to buyers, (ii) limits advertisers&#8217; ability to serve interest-based advertisements, (iii) helps limit the types of information that our advertisers have access to when placing advertisements on child-directed sites, and (iv) limits the data that we collect and use on such child-directed sites. 
+
+The use and transfer of personal data in EU member states is currently governed under the EU Data Protection Directive, which generally prohibits the transfer of personal data of EU subjects outside of the EU, unless the party exporting the data from the EU implements a compliance mechanism designed to ensure that the receiving party will adequately protect such data. A recent opinion by the Court of Justice of the European Union concluded that the Safe Harbor Framework we previously relied upon is not sufficient to allow transfers of personal data of EU subjects to the United States. Therefore, we must rely on alternative compliance measures, which are complex, which may also be subject to legal challenge, and which, unlike the Safe Harbor Framework, directly subject us to regulatory enforcement by data protection authorities located in the European Union. In addition, the European Union has finalized a General Data Protection Regulation, or GDPR, that will become effective sometime in 2018. The GDPR sets out higher potential liabilities for certain data protection violations, as well as a greater compliance burden for us in the course of delivering our solution in Europe; among other requirements, the GDPR obligates companies that process large amounts of personal data about EU residents to implement a number of formal processes and policies reviewing and documenting the privacy implications of the development, acquisition, or use of all new products, technologies, or types of data. Further, the European Union has indicated that it intends to propose reforms to the EU Cookie Directive governing the use of technologies to collect consumer information. 
+
+Additionally, our compliance with our privacy policy and our general consumer privacy practices are also subject to review by the Federal Trade Commission, which may bring enforcement actions to challenge allegedly unfair and deceptive trade practices, including the violation of privacy policies and representations therein. Certain State Attorneys General may also bring enforcement actions based on comparable state laws. Outside of the United States, our privacy and data practices are subject to regulation by data protection authorities and other regulators in the countries in which we do business. 
+
+Beyond laws and regulations, we are also members of self-regulatory bodies that impose additional requirements related to the collection, use, and disclosure of consumer data, including the Internet Advertising Bureau, or IAB, the Digital Advertising Alliance, the Network Advertising Initiative, and the Europe Interactive Digital Advertising Alliance. Under the requirements of these self-regulatory bodies, in addition to other compliance obligations, we provide consumers with notice via our privacy policy about our use of cookies and other technologies to collect consumer data, and of our collection and use of consumer data to deliver interest-based advertisements. We also allow consumers to opt-out from the use of data we collect for purposes of interest-based advertising through a mechanism on our website, linked through our privacy policy. 
+
+Business Seasonality 
+
+Our managed revenue, revenue, cash flow from operations, Adjusted EBITDA, operating results, and other key operating and financial measures may vary from quarter to quarter due to the seasonal nature of buyer spending. For example, many buyers devote a disproportionate amount of their advertising budgets to the fourth quarter of the calendar year to coincide with increased holiday purchasing. We expect our revenue, cash flow, operating results and other key operating and financial measures to fluctuate based on seasonal factors from period to period and expect these measures to be higher in the fourth quarters than in prior quarters. 
+
+Working Capital Requirements 
+
+Our revenue is generated from advertising spending transacted over our platform using our technology solution. Generally, we invoice and collect from buyers the full purchase price for impressions they have purchased, retain our fees (where applicable), and remit the balance to sellers. However, in some cases, we may be required to pay sellers for impressions delivered before we have collected, or even if we are unable to collect, from the buyer of those impressions. There can be no assurances that we will not experience bad debt in the future. Any such write-offs for bad debt could have a materially negative effect on our results of operations for the periods in which the write-offs occur. In addition, we attempt to coordinate collections from our buyers so as to fund our payment obligations to our sellers. However, some buyers and sellers are beginning to require direct billing and collection arrangements between themselves, particularly for our Guaranteed Orders solution. Further, growth and increased competitive pressure in the digital advertising industry is causing brand spenders to become more demanding, resulting in overall increased focus by all industry participants on pricing, transparency, and cash and collection cycles. Some buyers have experienced financial pressures that have motivated them to challenge some details of our invoices or to slow the timing of their payments to us. If buyers slow their payments to us or our cash collections are significantly diminished as a result of these dynamics, our revenue and/or cash flow could be adversely affected and we may need to use working capital to fund our accounts payable pending collection from the buyers. This may result in additional costs and cause us to forego or defer other more productive uses of that working capital. 
+
+Available Information 
+
+The Company is subject to the reporting requirements of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and accordingly files Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements, and related amendments and other information with the Securities and Exchange Commission, or the SEC, pursuant to Sections 13(a) and 15(d) of the Exchange Act. Information filed by the Company with the SEC is available free of charge on the Company&#8217;s website at investor.rubiconproject.com as soon as reasonably practicable after such materials are filed with or furnished to the SEC. The public may read and copy any materials filed by the Company with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, DC 20549 on official business days during the hours of 10:00 am to 3:00 pm. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents of these websites are not incorporated into this Annual Report on Form 10-K or into any other report or document we file with the SEC, and any references to the URLs for these websites are intended to be inactive textual references only. 
+

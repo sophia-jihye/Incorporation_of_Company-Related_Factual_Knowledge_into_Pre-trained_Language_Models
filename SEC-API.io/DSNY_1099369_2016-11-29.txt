@@ -1,0 +1,196 @@
+ ITEM 1. BUSINESS. 
+
+OVERVIEW AND CORPORATE BACKGROUND 
+
+Destiny Media Technologies, Inc. was incorporated in August 1998 under the laws of the State of Colorado and the corporate jurisdiction was changed to Nevada effective October 8, 2014. We carry out our business operations through our wholly owned subsidiary, Destiny Software Productions Inc., a British Columbia company that was incorporated in 1992, MPE Distribution, Inc. a Nevada company that was incorporated in 2007 and Sonox Digital Inc. incorporated under the Canada Business Corporations Act in 2012. The &#147;Company&#148;, &#147;Destiny Media&#148;, &#147;Destiny&#148;, &#147;we&#148; or &#147;us&#148; refers to the consolidated activities of all four companies. 
+
+Our principal executive office is located at Suite 1110, 885 West Georgia Street, Vancouver, British Columbia V6C 3E8. Our telephone number is (604) 609-7736 and our facsimile number is (604) 609-0611. 
+
+Our common stock trades on TSX Venture Exchange in Canada under the symbol &#147;DSY&#148;, on the OTCQB U.S. (&#147;OTCQB&#148;) under the symbol &#147;DSNY&#148;, and on various German exchanges (Frankfurt, Berlin, Stuttgart and Xetra) under the symbol DME, WKN 935 410. 
+
+Our corporate website is located at http://www.dsny.com. 
+
+OUR PRODUCTS AND SERVICES 
+
+Destiny develops and markets services that enable the secure distribution of digital media content over the Internet. Destiny services are based around proprietary security, watermarking and instant play streaming media technologies. 
+
+1. &#160; The Clipstream&#174; Online Video Platform (OVP) is a self-service, high capacity, and high performance system, for encoding, hosting and reporting on video playback which can be embedded in third party websites or emails. Playback is currently through the Company&#146;s proprietary JavaScript codec engine, which is only available on the internet through the Company. Support for other video playback technologies and new features are being built out for the solution. Until additional features are added, this product is marketed in a limited way and has incidental revenues. 
+
+The encoding and hosting platform also includes a solution for companies that intend to offer Clipstream&#174; functionality within their own services. This offering is a &#147;connector&#148; that enables the integration of the encoding and rendering engine and the hosting back end into other solutions. An &#147;Application Program Interface&#148; (API) connects the same encoding and playback infrastructure used by the Company's cloud solution into their own software and web based solutions. The Company can target many niches with the API. Examples of potential applications we could target include realtors uploading video to their local real estate site, consumers uploading video to classified and dating sites, enabling online retailers to provide product videos to manufacturers, ISP's offering video to their own hosting customers and many others. 
+
+2. &#160; The Clipstream&#174; JavaScript codec engine was updated in October 2016 replacing a proprietary compression format the Company abandoned because of quality concerns. This new codec engine is based on the latest compression techniques from the next-generation HEVC standard, and is a significant improvement. It offers double the quality at a 62% bandwidth reduction from the previous proprietary codec. Similarly, it offers a large bandwidth improvement over H.264, the compression technology commonly used by other OVP solutions. As an example, video which would take 2.5 Mbps in H.264 (a format used by Youtube) only takes 1.8Mbps. This can lead to reduced costs, and less re-buffering for end users. 
+
+The unique software based approach to rendering video, is protected by over two dozen patents claiming initial priority to 2011 has a number of advantages over the more traditional approach of using plug-ins (for example, Flash), browser supported formats (for example, H.264) or installed chips. With the JavaScript codec approach, the Company can offer new features such as enhanced security, interactivity, and future proofing of their content. A new feature can be created and applied cross platform for all HTML5 compliant devices without a rollout period. This feature is currently only available as a component of the Clipstream&#174; OVP solution but the Company will seek licensing opportunities in the future. 
+
+3. &#160; The Play MPE&#174; digital distribution service is used commercially by the recording industry to distribute new pre-release music and music videos to trusted recipients such as radio and press before that content is generally available for sale to the public. 
+
+Play MPE&#174; is a digital delivery service for securely moving broadcast quality audio, video, images, promotional information and other digital content securely through the internet. The system is currently used by the recording industry for transferring pre-release broadcast quality music, radio shows, and music videos to trusted recipients such as radio stations, media reviewers, VIP&#146;s, DJ&#146;s, film and TV personnel, sports stadiums and retailers. The system replaces the physical distribution (mail, courier or hand delivery) of CD&#146;s. The financial model is transaction based, where the price per delivery varies with the number of songs and videos delivered. 
+
+Record labels around the world, including all three major labels (Universal Music Group, Warner Music Group and Sony Music Entertainment), are regularly using Play MPE&#174; to deliver their content to radio. 
+
+Each distribution is initiated by our customers, who &#147;encode&#148; the content and enter the appropriate data. Our software has a tiered permissions based access allowing our clients to assign varying rights, capabilities and responsibilities to different members of their staff. For example, some customer staff may manage assets (album cover imagery, music videos, the raw music, promotional information and other metadata), while others manage hierarchical permission based lists of recipients. Larger labels are normally structured into label groups, each with their own labels with varying access (permissions) to various subsets of the master recipient lists. 
+
+The release dates for music can be dependent on the territory and, where administrative settings permit, local promotions staff may generate a localized distribution of the song with modified marketing information in the local language. Local staff may select pre-existing assets from the system and combine them together with a local recipient lists to form a &#147;send&#148;. Our customers also choose the level of access for the recipients assigned to the release by designating whether the release can be streamed, downloaded, exported into an unlocked digital format or burned to a CD. 
+
+While many clients are set up to manage and upload recipient lists, most rely on the proprietary Play MPE&#174; network, which is quickly becoming a valuable asset to the industry. Our staff manages lists of recipients in various formats and those lists are made available to our customers using the Play MPE&#174; system. The Play MPE&#174; system provides Play MPE&#174; staff with the feedback and resources necessary to manage and maintain this network of recipients which is not available with physical distribution or by smaller competitors. Customers select lists of recipients within the proprietary network based on music format and geography. In 2016 these lists were expanded to new territories, including Sweden and Denmark, and to include a list of music supervisors and influencers responsible for music selection for TV and Movie production was added. Expanding these lists allows customers to reach more recipients with each release increase the value of the Play MPE&#174; system. 
+
+Staff who &#147;encode&#148; each release have control over the access rights, whether the system should automatically generate a template driven marketing email alert, whether the song should be locked to the recipient computer and which partner sites should have access to the content. 
+
+On the impact date, the &#147;send&#148; appears in the &#147;available tracks&#148; section of a recipient&#146;s account. Recipients can access these tracks through proprietary iPhone, Mac and Windows based players, through a Direct to Web browser interface supporting playerless streaming and download, or through partner sites, including integration into reporting systems, radio automation systems, or through custom direct integration. Destiny's proprietary applications offer popular features, such as the ability to drag and drop to build and burn playlists to CD's for music meetings, the ability to convert and export into a wide variety of formats and to export metadata automatically into third party applications and solutions. In 2016 we made it even easier for decision makers in radio, press, TV, and film to use the Play MPE&#174; service with a new secure streaming audio preview feature. The enhancement allows Play MPE&#174; recipients to quickly hear a short preview of a song directly from the notification email without having to login. 
+
+Destiny's servers also generate a marketing website ( http://daily.plaympe.com ) which promotes new music. The system automatically generates charts of the most popular music on the system. These charts can be syndicated to third parties. 
+
+All exported songs are marked in real time with Destiny&#146;s watermark technology, which has received three US patents and a number of analogous patents globally. Songs that appear on the internet are scanned by the International Federation of the Phonographic Industry&#146;s (&#147;IFPI&#148;) for our watermark. Headquartered in London, UK, the IFPI is the organization that represents the interests of the recording industry worldwide and one of its missions is to safeguard the rights of record producers. IFPI web crawlers visit torrents, peer to peer networks and websites searching for unauthorized content. When problem files are identified, the IFPI software looks for Destiny&#146;s watermark in the content to identify the originating source. If a mark is found, Destiny's server and the originating label are automatically contacted so that recipient can be disabled from the system and appropriate action can be taken against the individual to hold that recipient accountable for the unauthorized distribution. 
+
+After the content is released, all activity by the recipient is logged in real time, providing record labels and promotions staff real time detail on which songs are accessed, streamed, downloaded and exported. This contrast with physical distribution where record labels may be unsure whether the courier package went to the correct individual or whether it was ever opened. This information provides invaluable feedback in real time to marketing and promotions staff who can cater their programs appropriately. Recipients receive a custom library of available tracks and are able to repeat the download if music is lost. 
+
+Real time usage statistics for Play MPE&#174; are available at: http://www.dsny.com/play-mpe-stats 
+
+Starting in July 2016 the first stage of a completely browser based encoder was launched. When all stages are complete, this system will be accessible on any computer without installation and will completely replace many of the current Windows based desktop tools. It is expected that this new solution will increase usage of Play MPE&#174; by providing an easier to use, more intuitive experience, providing access to both Mac and PC users, providing new release creation workflows, and more configuration options. It also allows for easy translation to accelerate international expansion. 
+
+In 2016 all Play MPE&#174; services were migrated to a cloud computing platform. Previously, the system was hosted at five server facilities (three in North America, one in Europe and one in Australia). This process required Destiny staff to manage multiple physical servers and operating systems at each location and to deal with remote hardware equipment maintenance. A large investment in infrastructure was required on an ongoing basis as storage arrays and servers were regularly replaced. Scalability was limited by physical real estate at the co-location facilities and access to electricity and cooling. The new approach increased Destiny's global server footprint by 1,500% with the ability to scale further in response to market demand. Audio encoding capacity increased 600%, and global streaming capacity increased 265%, allowing individual watermarks to be embedded faster. Server capacity is virtually unlimited and can respond to market demands. Migrating to a cloud platform provides the ability to scale automatically in response to market demand and expanded the logging and failover recovery services that ensure the system remains available. Other system features added since the migration to a cloud platform have enabled more rapid and proactive support of customer issues and leverage the latest cloud computing technologies to reduce the time required for the development and testing of new services. 
+
+We continue to invest in new development which should lead to higher usage. 
+
+BUSINESS DEVELOPMENT 
+
+Play MPE&#174; 
+
+During the year ended August 31, 2016, we generated revenues of $3,337,813, of which 98% was derived from Play MPE&#174;. 
+
+In November 2015, a new Play MPE logo and website were launched. The updated website focused on clearly communicating with customers.
+
+Also in November 2015, a reselling partner was added in Scandinavia covering Denmark, Norway, Sweden, Finland, Iceland. Responsible for working with both existing and new clients within the industry they provide vital sales and service in the same language and time zone. 
+
+In July 2016, we announced the availability of a release creation tool for Play MPE&#174;. This tool significantly reduces the time required for creating a release, making it easier for full-service Play MPE&#174; customers to load their assets into the system and define the promotional content of their release. The new service also adds more detailed access to release history for full-service labels and promoters using the Play MPE&#174; system. 
+
+Play MPE&#174; staff regularly attend various industry conferences including: 
+
+September 2015 Christian Music Broadcasters Momentum 2015, Lake Buena Vista, FL October 2015 CMJ Week, New York, NY January 2016 Country Radio Seminar, Nashville, TN April 2016 Momentum Summit, Nashville, TN May 2016 Non COMM Conference, Philadelphia, PA August 2016 FMQB Triple A Convention, Boulder, CO 7 
+
+Clipstream&#174; 
+
+In October 2015, we announced the roll out of a fall release of the Clipstream including new features and back-end improvements for the cloud product, the introduction of technology for the advertising industry, and a new player API allowing third parties to build Clipstream&#174; into their own offerings. An encoding API to further advance third party integration is in development. Since the previous release, a major focus on improving proprietary server management logic resulted in a 300% reduction in encoding operating costs while increasing customer satisfaction through responsiveness.
+
+In October 2016, we announced that the latest generation of the compression engine powering the Clipstream&#174; platform. The new compression engine, based on the HEVC standard, reduced bandwidth usage for the Clipstream&#174; platform by over 62% and increased the highest resolution delivered by 78%. The video industry began work on HEVC, also known as H.265, as early as 2004 to replace H.264 and deliver higher quality video at lower bandwidth; however, the standard struggles to gain traction in the industry due to slow adoption by web browsers. Clipstream&#146;s proprietary JavaScript playback overcomes this limitation and delivers the latest compression technologies to any browser without requiring special plug-ins or changes from browser developers. 
+
+Other improvements announced in October a new project organization that enables quick sorting of hosted videos into different projects to streamline organization and management for customers with thousands of videos. Also included in project organization was a new feature to apply the same settings across all videos within a project and by default, greatly increasing video workflow efficiency to get videos live to viewers as quickly and securely as possible. In addition to the new compression engine and project organization we also announced Clipstream&#174; HD Audio support to provide audio with twice the sample rate of competing options and allow the playback of videos with higher than CD quality audio, a first in the online video platform industry. 
+
+Significant Customers 
+
+During the year ended August 31, 2016, we generated 42% of total revenue from one customer (2015 - one customer represented 45%). 
+
+OUR BUSINESS OPERATIONS 
+
+We lease approximately 9,106 square feet of office space, with the lease expiring in June of 2017, and we currently have 23 total employees, including 22 full time employees and 1 part time employee. Our employees include our President and Chief Executive Officer, Chief Financial Officer, two finance personnel, ten sales and technical support personnel, and eight software developers. We also employ contractors as needed. 
+
+In fiscal 2014, the Company began running many Clipstream&#174; services on cloud systems owned by Google and Amazon. Because these services run on the latest hardware, are able to use non-standard networking and storage hardware for speed within the facility and because they are managed by dedicated experts in the hosting field, it was found that the Company could enjoy better performance, security, reliability and lower costs. 
+
+In 2015, the Company secured the expertise of an Amazon Web Services (AWS) consulting partner and entered into a series of significant phased contracts to plan new architecture to move Company server services to AWS while maintaining the highest level of security, automation, performance, data warehousing and compliance. Because of the nearly unlimited number of processing and storage servers around the world, it became possible for the Company to re-engineer critical proprietary server processes to become highly parallel and much faster and more reliable, while significantly reducing hardware costs. 
+
+As of the end of fiscal 2015, all Clipstream&#174; services were moved to AWS. In early 2016, the Company migrated all MPE&#174; services to AWS and is currently completing the closure of most remaining co-located facilities.
+
+This new outsourcing to AWS allows both Clipstream&#174; and MPE&#174; to scale rapidly as customer demand requires it, but then to automatically scale back in real time as demand reduces, matching costs closely to actual transactional usage and revenues
+
+Research and Development 
+
+Total research and development expenditures for the year ended August 31, 2016 were $1,292,996 (2015: $1,376,386). 
+
+COMPETITION 
+
+Play MPE&#174; 
+
+Play MPE&#174; has regional competitors with limited global presence and limited functionality while Play MPE&#174; has major label use globally. A network effect entrenches the system, as it is difficult for any single user to switch to an alternative without the entire industry switching. The system was built to facilitate sharing of assets and content with regional subsidiaries and affiliates of our major label customers. This allows local representatives to localize the release resulting in costs savings and efficiencies not available in competing solutions. The player software is available in 27 languages. 
+
+Play MPE&#174; has several advantages over physical distribution (mail, courier or hand delivery) of manufactured CD&#146;s. Digital distribution through Play MPE&#174; is faster, less expensive, more reliable, more secure, provides additional real time and more accurate reporting of usage, provides a great deal of added functionality and provides the error free and automatic transmission of &#147;metadata&#148;. Metadata includes International Standard Recording Codes (ISRC) &#150; which is a standard code for uniquely identifying sound recordings and music video recordings - song and artist names, beats per minute, release and impact dates, etc. The automatic transmission of this metadata reduces the time required for manual data entry into radio automation software on the receiving side and eliminates inaccuracies in royalty reporting. This benefits labels who want to be in third party databases as the transmission of this data is immediate and reliable. 
+
+The Play MPE&#174; system provides our clients with a sophisticated content management tool that includes privilege control, release sharing amongst global territories (saving our clients time and money when conducting global distributions), enhanced email notification and promotions tools, social media announcements, recipient player apps (iPhone, iPad, Android, Android Tablet and Blackberry), with a fully redundant high speed infrastructure that is more sophisticated and has higher functionality than quickly developed lower cost alternatives. The Company expects that competition will be strongest where audio quality, security, recipient network, and reporting are not as important as cost. 
+
+Clipstream&#174; 
+
+The online video platform market is relatively crowded with at least three dozen large competitors in North America alone. It is a growing market with strong margins, recurring revenues and &#147;sticky&#148; customers. Competitors include Youtube, Vimeo, Kaltura, Brightcove, Ooyala, and many others. 
+
+To address this market, we are using our expertise in security and high volume hosting, where reliability is important, to build out world-class back end infrastructure. This infrastructure is implemented has a software layer on top of Amazon's AWS server network, creating a partially proprietary distribution network based on their hardware. 
+
+In addition to the back-end infrastructure, we are building out features to better fit additional customer workflows and adding support for standards based codec solutions in addition to our proprietary JavaScript codec solution. Our strategic goal is to be a best of breed provider in the OVP industry across a variety of verticals. 
+
+Additional differentiation from competition will come from our JavaScript codec engine based on the HEVC standard. As a software solution, we are able to offer new video compression techniques, such as parts of the next generation HEVC standard, that cannot be supported elsewhere. Beyond compression techniques, other online video distribution features like increased security, more flexible playback, future proofing &#150; ensuring videos can play back without re-encoding in the future - and custom requests from customers can be more easily implemented. Customer driven custom features can be developed and rolled out instantly cross platform as the software requires only standard HTML support from the browser. For example, we have built in support for a 96 KHz audio sampling rate which is much higher fidelity than CD's 44.1 KHz, this allows us to offer a unique competitive differentiation to music industry customers. 
+
+The newest generation of the JavaScript codec was launched on October 4, 2016 and is commercially available as part of the OVP, but is not being marketed yet as memory, CPU and timing issues on resource limited devices are being addressed. 
+
+GOVERNMENT REGULATION 
+
+We are not currently subject to direct regulation by any governmental agency other than laws and regulations generally applicable to businesses. It is possible that a number of laws and regulations may be adopted in both the United States and Canada with particular applicability to the Internet. Governments have and may continue to enact legislation applicable to us in areas such as content distribution, performance and copying, other copyright issues, network security, encryption, the use of key escrow data, privacy protection, caching of content by server products, electronic authentication or &#147;digital&#148; signatures, illegal or obscene content, access charges and retransmission activities. The applicability to the Internet of existing laws governing issues such as property ownership, content, taxation, defamation and personal privacy is also uncertain. Export or import restrictions, new legislation or regulation or governmental enforcement of existing regulations may limit the growth of the Internet, increase our costs of doing business or increase its legal exposure. 
+
+The Company owns proprietary algorithms, source code, web domain addresses, patents, trademarks and other intellectual property. 
+
+Patents 
+
+1. Digital Locking "Digital Media Distribution Method and System" (US Patent No. 7466823) 
+
+This patent provides a method of locking digital content which prevents play back on unauthorized machines and devices. Claims include separating security from the content, so that content files can be shared securely over peer to peer networks. This is one of the earliest patents for securing peer to peer distributed content. 
+
+One of the more important claims in this patent is the ability to uniquely recognize a particular computer. Uniquely identifying a person&#146;s computer is a common issue which is usually approached by saving cookies or beacons to the user&#146;s computer or by tracking IP addresses. These are not reliable solutions as cookies are easily deleted and IP addresses easily changed. Destiny&#146;s propriety hash code process creates a serial number that can be used to recognize the user on subsequent visits without ever saving anything to that user&#146;s computer. 
+
+2. Watermarking "Methods for Watermarking Media Data" 
+
+&#160; a. US Patents No. 7983441,8300885, 9165560
+
+&#160; b. US pending application No. 14/857716
+
+&#160; c. Japan Patent No. 5103479
+
+&#160; d. Canada patent No. 2682926
+
+&#160; e. Europe Patent No. 2082527 (which has now been granted in Switzerland, the UK, the Netherlands, France, Sweden, and Denmark under No. 2082527 and in Germany under DE602007038680.2)
+
+We have a developed a watermarking technology which can uniquely identify the individual who originally accessed a particular song. Our watermark is unique as it can be embedded and identified rapidly, it is inaudible, it survives on air broadcast, compression and conversion to other formats and is virtually impossible to remove. Our watermarking technology is used in the Play MPE&#174; distribution system when songs are exported or when streaming a track. Other watermarking technologies are slow and provide a trade-off between a destruction of audio quality and the ease that they can be filtered out. When the original patent claims were granted in the US, the Company filed a set of new additional, broader claims in a continuation application in Canada and the US to further protect the technology. 
+
+&#160; 3. Cross Platform Streaming Video &#147;Script Based Video Rendering&#148; 
+
+&#160; a. US Patents No. 9143826, 9137567, 9215499, 9380338, 9432726 and 9432727
+
+&#160; b. South Africa Patent No. 2014/01618d
+
+&#160; c. Singapore Patent No. 2014008775
+
+&#160; d. Pending US application No. 13/517574 (publication No. US-2013-0044823)
+
+&#160; e. Pending Canadian patent application No. 2843766
+
+&#160; f. Pending China (Publication No. CN 103891303/Application No. 201280050754.7)
+
+&#160; g. Pending Europe (Publication No. 2745526/Application No. 12824114.8)
+
+&#160; h. Pending Japan (Application No. 2014-525268)
+
+&#160; i. Pending Australia (Application No. 2012297524)
+
+&#160; j. Pending India (Application No. 1961/DELNO/2014)
+
+&#160; k. Pending Israel (Publication No. WO2013/023287/Application No. 230898)
+
+&#160; l. Pending New Zealand (Application No. 622065)
+
+&#160; m. Pending Russian Federation (Application No. 2014110047)
+
+&#160; n. Pending Hong Kong (Application No. 14112896.4)
+
+&#160; o. Pending Cooperation Treaty (Application No. PCT/CA2012/05034)
+
+This solution enables publishers to serve streaming video from their web site without the need for a separate streaming server. The solution will play instantly in all recent browsers, including mobile devices, without the need for a separate video player. 
+
+Registered Trademarks 
+
+Clipstream&#174; Granted: USA, Canada, Japan, Israel, European Community, China and Australia 
+
+Play MPE&#174; Granted: USA, Canada, Japan, European Community, China and Australia 
+
+MPE&#174; Granted: USA, Canada, Japan, European Community Pending: Australia 
+
+Sonox Digital&#174; Granted: Japan, China, European Community, Canada Published: USA
+
+Domain Names 
+
+We own a large number of domain names, including many valuable four letter domain names (dice.net, dsny.com) and URL&#146;s featuring common words (radio-play.com, streamingaudio.com, pirateradio.com and many others.)
+

@@ -1,0 +1,454 @@
+ Item 1. Business 
+
+Business Overview 
+
+Overview 
+
+Ubiquiti Networks develops high performance networking technology for service providers and enterprises. Our technology platforms focus on delivering highly-advanced and easily deployable solutions that appeal to a global customer base in underserved and underpenetrated markets. Our differentiated business model has enabled us to break down traditional barriers such as high product and network deployment costs and offer solutions with disruptive price-performance characteristics. This differentiated business model, combined with our innovative proprietary technologies, has resulted in an attractive alternative to traditional high touch, high cost providers, allowing us to advance the market adoption of our platforms for ubiquitous connectivity. 
+
+We offer a broad and expanding portfolio of networking products and solutions for service providers and enterprises. Our service provider product platforms provide carrier-class network infrastructure for fixed wireless broadband, wireless backhaul systems and routing. Our enterprise product platforms provide wireless LAN infrastructure, video surveillance products, switching and routing solutions and machine-to-machine communication components. We believe that our products are highly differentiated due to our proprietary software protocol innovation, firmware expertise, and hardware design capabilities. This differentiation allows our portfolio to meet the demanding performance requirements of video, voice and data applications at prices that are a fraction of those offered by our competitors. 
+
+In May 2016, we announced Ubiquiti Labs, a division focusing on research and development of consumer electronics. At the same time, we announced a new consumer product platform, called AmpliFi, which is a Wi-Fi system solution designed to serve the demands of the modern connected home. 
+
+As a core part of our strategy, we have developed a differentiated business model for marketing and selling high volumes of carrier and enterprise-class communications platforms. Our business model is driven by a large, growing and highly engaged community of service providers, distributors, value added resellers, systems integrators and corporate IT professionals, which we refer to as the Ubiquiti Community. The Ubiquiti Community is a critical element of our business strategy as it enables us to drive: 
+
+&#8226; 
+
+Rapid customer and community driven product development. &#32;We have an active, loyal community built from our customers that we believe is a sustainable competitive advantage. Our solutions benefit from the active engagement between the Ubiquiti Community and our development engineers throughout the product development cycle, which eliminates long and expensive multistep internal processes and results in rapid introduction and adoption of our products. This approach significantly reduces our development costs and time to market. 
+
+&#8226; 
+
+Scalable sales and marketing model. &#32;We do not currently have, nor do we plan to hire, a direct sales force, but instead utilize the Ubiquiti Community to drive market awareness and demand for our products and solutions. This community-propagated viral marketing enables us to reach underserved and underpenetrated markets far more efficiently and cost-effectively than is possible through traditional sales models. Leveraging the information transparency of the Internet allows customers to research, evaluate and validate our solutions with the Ubiquiti Community and via third party web sites. This allows us to operate a scalable sales and marketing model and effectively create awareness of our brand and products. Word of mouth referrals from the Ubiquiti Community generate high quality leads for our distributors at relatively little cost. 
+
+&#8226; 
+
+Self-sustaining product support. The engaged members of the Ubiquiti Community have enabled us to foster a large, cost efficient, highly-scalable and, we believe, self-sustaining mechanism for rapid product support and dissemination of information. 
+
+By reducing the cost of development, sales, marketing and support we are able to eliminate traditional business model inefficiencies and offer innovative solutions with disruptive price performance characteristics to our customers. 
+
+Our revenues were $666.4 million , $595.9 million &#32;and $572.5 million &#32;in the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 , respectively. We reported net income of $213.6 million , $129.7 million &#32;and $176.9 million &#32;in the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 , respectively. In this Annual Report on Form 10-K, we refer to the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 &#32;as fiscal 2016 , fiscal 2015 &#32;and fiscal 2014 , respectively. 
+
+Industry Overview 
+
+Internet traffic worldwide has grown rapidly in recent years, driven by an increase in the number of users, increasing mobility of those users and high bandwidth applications, such as video, audio, cloud-based applications, online gaming and social networking. According to Cisco Visual Networking Index, global Internet protocol, or IP, traffic is expected to increase from 72.5 exabytes per month in 2015 to 194.4 exabytes per month in 2020, representing an approximate 22% compound annual growth rate, or CAGR, over that period. Additionally, it is estimated that there will be 3.4 networked devices per capita connected to IP networks in 2020, up from 2.2 networked devices per capita in 2015. Wired networking solutions have traditionally been used to address increasing consumer and enterprise bandwidth needs. However, the high initial capital requirements and ongoing operating costs and long market lead times associated with building and installing infrastructure for wired networks has severely limited the widespread deployment of these networks in underserved and underpenetrated markets. Wireless networks are emerging as an attractive alternative for addressing the broadband access needs of underserved and underpenetrated markets in both emerging and developed countries. 
+
+Underserved and underpenetrated markets . There is a significant market opportunity in both emerging and developed economies. In &#8220;unconnected&#8221; emerging markets, the lack of an established network infrastructure and the high initial deployment costs associated with traditional wired network infrastructure build-outs have encouraged adoption of wireless networking infrastructure. In &#8220;under-connected&#8221; markets, bandwidth demand exceeds either the available capacity from existing infrastructure or the affordable supply of new infrastructure, resulting in an attractive market opportunity for wireless systems to bolster connectivity. Additionally, we believe there is a large market opportunity in connected markets serving customers that want to deploy reliable, scalable and customizable wireless networks and whose primary buying criterion is based on price-performance characteristics. 
+
+Increasing use of the unlicensed spectrum . In the absence of affordable broadband access in the licensed spectrum, the number of users of the unlicensed RF spectrum has increased for communications equipment, as well as consumer devices such as cordless phones, baby monitors and microwave ovens. This increasing use of unlicensed RF spectrum has made providing high quality wireless networking more challenging due to increasing congestion in the unlicensed spectrum. The Federal Communications Commission continues to regulate use of unlicensed RF spectrum. Existing and contemplated regulations may affect the cost and/or effectiveness of products that rely on access to such unlicensed RF spectrum. 
+
+Government incentives for broadband access . Governments around the world are increasingly taking both regulatory and financial steps to expand access to broadband networks and increase availability of advanced broadband services to consumers and businesses. 
+
+Challenges facing incumbent solutions. To provide robust wireless networks that meet the price-performance needs of service providers and enterprises, vendors of wireless networking solutions must address the problems facing incumbent solutions: 
+
+&#160; 
+
+&#8226; 
+
+Poor performance . To deliver high performance, wireless networking solutions need to satisfy diverse performance requirements for video, voice and data. The challenges of operating in the unlicensed RF spectrum, including spectrum noise and interference resulting from the proliferation of devices, often result in difficulty establishing network connections and unreliable or poor performance. Additionally, the performance and reliability of existing wireless networking solutions decline rapidly as the number of subscribers and range of service delivery increases. Lack of hardware and software integration between products, technologies and vendor devices can diminish network performance significantly and increase the complexity of network management, integration and expansion. 
+
+&#8226; 
+
+High cost of ownership . Existing alternative solutions, such as fiber-to-the-premises, cable, digital subscriber line, or DSL, worldwide interoperability for microwave access, or WiMAX, LTE and traditional backhaul, provide high capacity, high performance broadband access; however, these solutions can be extremely costly, and often do not meet the demanding price-performance requirements of underserved markets. 
+
+&#8226; 
+
+Complexity . Existing alternative solutions are often difficult to deploy and manage and require skilled employees or high cost consultants to install and operate. In addition, existing enterprise solutions often offer a large variety of features and functionalities that enterprise customers may find overwhelming or unnecessary. 
+
+&#8226; 
+
+Lack of product support and customer-driven features. &#32;Product support and feedback for alternative suppliers&#8217; wireless networking solutions are often costly and ineffective. Existing wireless solutions are not accompanied by dynamic product support to assist customers in efficiently setting up and troubleshooting their networks. Additionally, alternative suppliers generally lack an effective mechanism to communicate with their end-users and incorporate feedback from usage into product roadmaps. 
+
+Market opportunity . Existing service provider wireless networking technologies have been developed to satisfy the increasing demand for broadband access, support mobility and provide the performance and reliability demanded by customers. However, these existing solutions based upon wired, satellite or cellular technologies, often fail to meet the price-performance requirements of fixed wireless networking in emerging markets, rural markets, or price-sensitive markets, which in turn has led to low penetration of wireless broadband access and large populations of unaddressed users in these areas. Within the enterprise, existing WLAN deployments are often relatively complex and costly, providing customers with a large number of non-critical features and functionalities at a high cost. Given the growth in Internet connected devices, and the consumer&#8217;s desire for constant connectivity, there exists growing demand for WLAN solutions that provide critical features at significantly lower cost than existing solutions. 
+
+Our Solutions 
+
+Our products and solutions enable both service providers and enterprises to cost effectively deploy the infrastructure for high performance, scalable and reliable wireless networks. Our wireless networking solutions offer the following key benefits: 
+
+&#160; 
+
+&#8226; 
+
+High performance proprietary technology solutions. Our proprietary products and solutions include high performance radios, antennas, software, communications protocols and management tools that have been designed to deliver carrier and enterprise class wireless broadband access and other services primarily in the unlicensed RF spectrum. Our radios and antennas, which incorporate our innovative proprietary technologies and firmware, are designed and field tested to deliver carrier-class network speeds, throughput, range and coverage, while simultaneously meeting the varying performance requirements of video, voice and data traffic. Our products and solutions overcome significant performance challenges such as dynamic spectrum noise, device interference, outdoor obstacles and unpredictable levels of video, voice and data performance. Importantly, we are able to utilize the Ubiquiti Community to validate the 
+
+effectiveness of our end user experience and focus our development efforts on those features and functionality that are critical to their requirements. 
+
+&#8226; 
+
+Price disruptive offering . Our products and solutions have been designed to enable service providers and enterprises to deliver high performance to their users at highly disruptive price points. The deployment and operation of our solutions require a fraction of the capital expenditures, implementation expenses and network maintenance costs of those associated with existing solutions. 
+
+&#8226; 
+
+Integrated and easy to deploy and manage . Our integrated products and solutions reduce the complexity associated with the installation, management and expansion of wireless networks. Within each of our product families, products are based on firmware that is built on a common codebase. This allows us to offer common features and functionality and leads to consistent usability across each product family. The integration between our products is designed to enable service providers and enterprises to deliver wireless broadband access and other services that have high performance characteristics without significant management, deployment costs or upgrade complexity. 
+
+&#8226; 
+
+Scalable community-led approach . Purchasing our proprietary products and solutions enables immediate access to the Ubiquiti Community, including current and historical troubleshooting and technical information as well as best practices and deployment advice for our end users. Product support from the Ubiquiti Community is self-sustaining and scales efficiently, with growth and relevance driven by the size and engagement of our customer base. This scalable community-led approach to customer support contributes to the lower total cost of ownership of our products and solutions relative to incumbent providers. Additionally, the Ubiquiti Community provides an effective channel for product feedback from our customer base. 
+
+We are growing our intellectual property portfolio to help protect the development of our proprietary software, hardware and complete solutions. We believe that protecting the innovation and technology underlying our comprehensive wireless networking solutions is key to ensuring our continued ability to provide customers with differentiated value . 
+
+Our Strategy 
+
+Our goal is to disrupt the market for communications technology with innovative solutions that provide leading performance at prices that are a fraction of those of alternative solutions. Key elements of our strategy include the following: 
+
+&#160; 
+
+&#8226; 
+
+Continue to deliver high performance characteristics at disruptive price points. We intend to expand the market opportunity for service providers by continuing to provide products and solutions with disruptive price-performance characteristics. We also intend to expand the market and displace high-priced alternative solutions in enterprise markets. We believe that we can sustain our disruptive strategy through our unique business model, focusing on the features and functionalities most critical to customers and avoiding the fringe features, which add both cost and complexity. 
+
+&#8226; 
+
+Leverage our technologies and business model in adjacent markets. We intend to continue to leverage our technologies and business model to target other large and growing markets that we believe are ripe for disruption such as video surveillance, machine-to-machine communications, routing, switching and licensed microwave wireless backhaul markets. For the enterprise market, we enhanced our enterprise WLAN product line, UniFi, in fiscal 2015 and fiscal 2016 and have experienced strong adoption by a largely new customer base. We believe we are well positioned to gain traction in these new addressable markets and will continue to accelerate our innovation in these products. 
+
+&#8226; 
+
+Maintain and extend our technological leadership . We intend to continue to develop innovative solutions for our target markets. We believe that our continued focus on developing such technologies with customer-driven feedback from the Ubiquiti Community will allow us to deliver products and solutions with disruptive price-performance characteristics that are specifically targeted to our markets. In addition, we believe our continued innovation is key to the value our products and solutions provide, and is a critical component to achieving user lock-in. 
+
+&#8226; 
+
+Continue to grow our powerful user community. &#32;We believe our differentiated business model, powered by the Ubiquiti Community, provides us with a significant and sustainable competitive advantage over competitors. The Ubiquiti Community facilitates streamlined and efficient product development coupled with a highly efficient sales and distribution model that allows us to avoid the costs associated with expensive direct and channel organizations. The self-sustaining product support aspect of the Ubiquiti Community simplifies the deployment process and provides a highly effective real-time support system for customers. 
+
+&#32; &#160; 
+
+&#8226; 
+
+Continue to sell to our existing customers. &#32;We plan to continue to provide our customers with high performance, reliable, and cost-effective integrated products and solutions. In particular, we believe our use of differentiated proprietary protocols and the scalability of our products position us to grow with our customers as they build out their networks. Furthermore, we intend to cross-sell complementary solutions to our existing customers. For example, we believe customers of our airMAX solutions can benefit significantly from the incremental deployment of our EdgeMAX and airFiber products. 
+
+Our Technology and Products 
+
+We offer products and solutions based on our proprietary technology with disruptive price-performance characteristics across multiple markets. Utilizing low cost hardware, consumer chipsets and innovative software and firmware, we build price-performance solutions to address both service providers and enterprises. In addition, our technology allows us to design our products for ease of manufacture. Our focus on cost efficiency, robust product design and high performance drives the development of our technology, products and solutions. 
+
+Technology Platforms 
+
+Our current major service provider and carrier solutions include: 
+
+Base Station/Backhaul/Customer Premise Equipment (&#8220;CPE&#8221;)/Bridge&#8212;airMAX 
+
+We offer end-to-end solutions that incorporate our proprietary RF technology, antenna design and firmware technologies. These technologies simplify the adoption and use of our products and provide our products and solutions with performance characteristics usually found only in the carrier-class wireless networking solutions and solve significant performance, reliability, scalability and ease-of-use challenges in the unlicensed RF spectrum. 
+
+Our airMAX platform includes proprietary protocols developed by us that contain advanced technologies for minimizing signal noise. These proprietary protocols help our products deliver carrier-class wireless networking performance for video, voice and data applications. airMAX is able to support a wireless network that can scale to hundreds of clients per base station over long distances while maintaining low latency and high throughput. Unlike most systems using 802.11 standard protocols, which are primarily designed for indoor networks, our airMAX systems use a proprietary Time Division Multiple Access, or TDMA, protocol to manage the sending and receiving of data over the network to maximize air time efficiency. Since the initial launch, we have expanded the airMAX product line with significant improvements in performance, including the airMAX ac products. 
+
+A majority of our airMAX products and solutions can leverage multiple input multiple output, or MIMO, technology, which relates to the use of multiple antennas at both the transmitter and receiver to improve performance. Most of our radios employ multiple independent transmitters and receivers to create independent communication channels using the same frequency spectrum. We use advanced array signal processing techniques to combine our radios&#8217; communications channels into a single, higher data rate channel. Our high performance outdoor antennas are designed to amplify signal power, resulting in stronger signals and better link quality, and to block noise. Our design produces a better signal-to-noise ratio for each channel and 
+
+simplified signal processing to combine the channels, which in turn effectively doubles the throughput of our antennas, when compared to single input single output devices. Our devices support various WPA and WPA2 encryption protocols. 
+
+Network Routing Platform&#8212;EdgeMAX 
+
+Our EdgeMAX platform is a disruptive price-performance software and systems routing platform. EdgeMAX is powered by our full-featured EdgeOS operating system that includes advanced QoS, firewall, dynamic routing and VPN functionality. Since the initial launch we have introduced a full series of routers and switches that address our core markets. 
+
+Point-to-point Wireless Backhaul&#8212;airFiber 
+
+Our AirFiber platform is a point-to-point radio system. Components of the airFiber product, including the radio, were designed to provide low latency with high throughput. Our airFiber product uses an integrated split antenna and a global positioning system to simultaneously send data packets from each side of the link. We engineered proprietary communication protocols so that airFiber does not suffer from the traditional packet overhead associated with Wi-Fi based standards. In February 2015, we introduced airFiber 5X, the first airFiber X radio with full 5GHz global 5GHz band operation. We believe the airFiber family of products offers a compelling alternative to wired backhaul as airFiber is not easily susceptible to vandalism, copper theft, and fiber optic damage because only the endpoints need to be secured. airFiber does not require physical infrastructure such as laying cable or fiber, and by utilizing unlicensed spectrum, customers achieve significantly faster deployment. 
+
+Solar Platform - sunMAX 
+
+In October 2015, we introduced sunMAX, an end-to-end, plug and play solar solution that offers simplified installations for reduced deployment time. 
+
+Our current major enterprise solutions include: 
+
+Enterprise WLAN&#8212;UniFi 
+
+Our UniFi Enterprise Wi-Fi System is a scalable Wi-Fi solution that includes Wi-Fi certified hardware with a software based management controller, targeting enterprise customers. UniFi hardware utilizes MIMO technology, works with 802.11a/b/g/n and ac standards and uses a single cable for data transmission and power-over-Ethernet. UniFi uses a virtual controller that allows for on-site management or remote management through the cloud, allowing customers to deploy UniFi in both indoor and outdoor applications. Each UniFi access point can be managed centrally with the UniFi Controller software, which we provide free of charge. The UniFi Controller enables enterprise WLAN managers to centrally configure and administer a UniFi network and individual access points. The UniFi platform provides UniFi access point detection, firmware updates, real-time status, map loading, advanced security options and &#8220;zero handoff roaming,&#8221; our proprietary innovation for seamless roaming for mobile devices. Since the initial launch, we have expanded our UniFi Enterprise system to include UniFi AC products. 
+
+Video Surveillance&#8212;UniFi Video 
+
+Our line of UniFi Video IP cameras use a single cable for data transmission and power-over-Ethernet. Our management controller software can be used to manage multiple UniFi Video IP cameras as well as manage digital video recorder devices. UniFi Video software is available for download at no cost on our website and only manages Ubiquiti Network camera devices. Similar to our other network management products, UniFi Video can be accessed securely from any web browser, provides detailed statistical reporting and advanced analytics and provides a management console with multiple views, versatile camera settings and customizable event recordings. Since the initial launch, we have expanded the UniFi Video platform to include new products such as UniFi Video Camera G3 products, our 1080p cameras with infrared, and UniFi Video Micro products, our smaller 720p cameras. 
+
+UniFi Switch 
+
+Managed by the UniFi Controller software, UniFi Switches deliver performance, switching, and PoE+ support for enterprise networks. The UniFi Switches can power UniFi AP's, and UniFi Video Cameras. 
+
+UniFi Security Gateway 
+
+The UniFi Security Gateway extends the UniFi enterprise solutions to provide cost-effective, reliable routing and advanced network security. Managed by the UniFi Controller software, the UniFi Security Gateway offers advanced firewall, virtual network segments, a site-to-site VPN, QoS priority and other functionalities. 
+
+Machine-To-Machine Communication&#8212;mFi 
+
+Our mFi platform includes hardware sensors, power devices, and management software that allows devices to be monitored and controlled remotely via Wi-Fi. For example, mFi allows users to manage and monitor their building temperature and power consumption. The management controller software is IP based and can be accessed from any browser locally or through the cloud. mFi software allows management to create rules to control numerous devices. 
+
+New product line introductions 
+
+In May 2016, we announced a new consumer product platform called AmpliFi, a cost-effective Wi-Fi system solution designed to serve the demands of the modern connected home. More specifically, AmpliFi products are designed to excel in demanding homes serving multiple connected devices, high-quality video streaming, and distributing fast Internet bandwidth ubiquitously while eliminating Wi-Fi dead zones. &#32; We started shipping AmpliFi products in the first quarter of fiscal 2017. 
+
+The table below summarizes information about our major product platforms: 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Target Applications 
+
+&#160; 
+
+Bands of 
+
+Operation (GHz) 
+
+&#160; 
+
+MSRP 
+
+Service Provider Products 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+airMAX 
+
+&#160; 
+
+Base station/Backhaul/CPE/Bridge 
+
+&#160; 
+
+0.9/ 2.4/ 3/ 5/10 
+
+&#160; 
+
+$49 - $499 
+
+EdgeMAX 
+
+&#160; 
+
+Routing/Switching 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+$49 - $999 
+
+airFiber 
+
+&#160; 
+
+Wireless Backhaul 
+
+&#160; 
+
+2.4/3/4/5/11/24 
+
+&#160; 
+
+$399 - $3,000( 1) 
+
+Enterprise Products 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+UniFi 
+
+&#160; 
+
+WLAN 
+
+&#160; 
+
+2.4/5 
+
+&#160; 
+
+$59 - $1,540 
+
+UniFi Video 
+
+&#160; 
+
+IP Video Surveillance 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+$23 - $679 
+
+UniFi Switch 
+
+&#160; 
+
+Switching 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+$199 - $1,025 
+
+mFi 
+
+&#160; 
+
+Machine-To-Machine Communication 
+
+&#160; 
+
+2.4/5 
+
+&#160; 
+
+$8 - $99 
+
+(1) 
+
+MSRP listed is for one airFiber unit only, but is typically sold in pairs. 
+
+The Ubiquiti Community 
+
+We established the Ubiquiti forum, wiki and newsletter to foster a large, growing and engaged online community of service providers and distributors, customers and employees among others. The Ubiquiti Community powers our business model by facilitating rapid introductions and development of customer-oriented products. The Ubiquiti Community provides best practices, advice, troubleshooting and product feedback. It also acts as a source of product support and drives viral marketing. 
+
+The following describes the key aspects of our sustainable business model that are powered by the Ubiquiti Community: 
+
+&#160; 
+
+&#8226; 
+
+Rapid customer and community-driven product development . We seek to identify features and products that are, or are expected to be, needed or desired by the majority of customers for that product. We rely on the Ubiquiti Community as a significant source of requests for features that we translate into new product ideas and designs. 
+
+&#8226; 
+
+Scalable sales and marketing model . We rely on the Ubiquiti Community to drive market awareness and demand for our products and solutions. This community-propagated viral marketing enables us to reach underserved and underpenetrated markets far more efficiently and cost effectively than is possible through traditional sales models. For example, there have been many instances where members of the Ubiquiti Community, who happen to be on online forums not affiliated with us, have strongly recommended that users of other wireless networking solutions try our products and solutions. We also hold conferences as an effective way to introduce and promote our products and solutions to the global Ubiquiti Community. 
+
+&#8226; 
+
+Self-sustaining product support. Our service providers and IT professionals, who enthusiastically support each other through the Ubiquiti forum, as well as other blogs and online groups, have fostered a large, scalable and, we believe, self-sustaining mechanism for rapid product support and dissemination of information. The members of the Ubiquiti Community respond to user questions posted on our forum in a rapid manner. These responses are then rated by other members of the Ubiquiti Community to help ensure that the users are receiving the best possible answers. Top answers to common questions are stored in the Ubiquiti Networks Community Knowledge Base. In addition, our internal customer support organization provides feedback on critical product issues, and augments the information in the Ubiquiti Community. 
+
+Research and Development 
+
+Our research and development organization is responsible for the design, development and testing of our products. Our engineering team has deep expertise and experience in networking and antenna design, and we have a number of personnel with longstanding experience with network architecture and operation. We have developed and intend to continue to develop our technology in part by operating with a relatively flat reporting structure that relies on individual contributors or small development teams to develop, test and obtain feedback for our products. Our products and solutions benefit from the active engagement between the Ubiquiti Community and our research and development personnel throughout the product development cycle, resulting in rapid introduction and adoption of new products. Our research and development personnel evaluate the input from service providers, IT professionals and enterprises and respond to their needs by modifying our products or developing new products based on the input received. 
+
+As of June 30, 2016 , our research and development team consisted of 308 full time equivalent employees, including contractors, located in the United States, Taiwan, China, Lithuania, Poland, China, the Czech Republic, Latvia and elsewhere. Our research and development operations work on product development of new products and new versions of existing products. Our research and development expenses were $57.8 million , $54.6 million &#32;and $34.0 million &#32;for fiscal 2016 , fiscal 2015 &#32;and fiscal 2014 , respectively. We expect that the number of our research and development personnel will increase over time and that our research and development expenses will also increase. 
+
+Manufacturing and Suppliers 
+
+We retain contract manufacturers to manufacture, control the quality of and ship our products. We primarily utilize contract manufacturers located in China. Our relationships with contract manufacturers allow us to conserve working capital, reduce manufacturing costs and minimize delivery lead times while maintaining high product quality and the ability to scale quickly to handle increased order volume. We make substantially all of our purchases from our contract manufacturers on a purchase order basis. Over the long term, our contract manufacturers are not required to manufacture our products for any specific period or in any specific quantity. We expect that it would take approximately three to six months to transition manufacturing, quality assurance and shipping services to new providers. 
+
+Our internal manufacturing organization consists of supply chain managers, logistics employees and contractors who supervise the manufacture of our products at contract manufacturer sites and test engineers. We rely on our contract manufacturers and our internal quality assurance resources to implement quality assurance programs designed to achieve high product quality and reliability. We believe that our low warranty expenses and product return rate to date reflect a high level of product quality. We tightly integrate our research and development efforts with our supplier selection process. Once product manufacturing quality reaches a satisfactory level, we move full scale production to the contract manufacturer site. We also evaluate and utilize other suppliers for components from time to time. 
+
+We rely on third party components and technology to build and operate our products, and we rely on our contract manufacturers to obtain the components, subassemblies and products necessary for the manufacture of our products. While components and supplies are generally available from a variety of sources, we and our contract manufacturers currently depend on a single or limited number of suppliers for several components for our products. We and our contract manufacturers rely on purchase orders rather than long-term contracts with these suppliers. The majority of our product revenues are dependent upon the sale of products that incorporate components from Qualcomm Atheros, Inc. ("Qualcomm Atheros"). We are party to a non-exclusive license agreement with Qualcomm Atheros whereby we license certain technology that we incorporate into our products. This agreement automatically renews for successive one year periods unless the agreement is terminated by written notice of nonrenewal at least 90 days prior to the end of its then-current term. The Company has not received a termination notice as of the date of this Report. We depend on this license agreement to modify and replace firmware that Qualcomm Atheros provides with the chipsets with our proprietary firmware. While our agreement with Qualcomm Atheros remains effective, in accordance with the current terms of the agreement, either party may terminate the agreement without cause at the end of the annual contract term. 
+
+We do not stockpile sufficient chipsets to cover the time it would take to re-engineer our products to replace the Qualcomm Atheros chipsets which comprise the raw materials for our product offerings. If we need to seek a suitable second source for Qualcomm Atheros in our products, there can be no assurance that we would be able to successfully source our chipsets on suitable terms, if at all. In any event, our use of chipsets from multiple sources may require us to significantly modify our designs and manufacturing processes to accommodate these different chipsets. 
+
+In addition to utilizing contract manufacturers, we outsource most of our logistics warehousing and order fulfillment functions, which are located primarily in China, and to a lesser extent, Taiwan and United States. We also evaluate and utilize other vendors for various portions of our supply chain from time to time. Our operations organization consists of employees and consultants engaged in the management of our contract manufacturers, new product introduction activities, logistical support and engineering. 
+
+Sales and Distribution 
+
+Historically, we have not employed a direct sales force, nor do we plan to in the future. We sell our products and solutions globally to service providers and enterprises primarily through our extensive network of distributors, and, to a lesser extent, direct customers. During fiscal 2016 , we sold our products to over 100 distributors and direct customers (collectively, &#8220;customers&#8221;) in over 60 countries. In fiscal 2014 , Flytec Computers Inc. represented 13% &#32;of our revenues. No other customer accounted for 10% or more of our revenues in fiscal 2016 , fiscal 2015 &#32;or fiscal 2014 . 
+
+A substantial majority of our sales are made to distributors outside the United States and we anticipate that non-U.S. sales will continue to be a significant portion of our revenues. Sales in South America accounted for 13% , 16% &#32;and 19% &#32;of our revenues in fiscal 2016 , fiscal 2015 &#32;and fiscal 2014 , respectively. Sales in Europe, the Middle East and Africa accounted for 39% , 40% , and 43% &#32;of our revenues in fiscal 2016 , fiscal 2015 &#32;and fiscal 2014 , respectively. Sales in Asia Pacific accounted for 12% , 11% , and 13% &#32;of our revenues in fiscal 2016 , fiscal 2015 &#32;and fiscal 2014 , respectively. We do not have any visibility on the location or extent of purchases of our products by individual network operators and service providers from our distributors. Information regarding financial data by geographic areas is set forth in Item 7 and Item 15 of this Form 10-K. See Note 12 of Notes to Consolidated Financial Statements under Item 15. 
+
+Although we publish a manufacturer's suggested retail price, or MSRP, for our products, our distributors have control of pricing to the ultimate purchaser. Historically, we have not provided our distributors with any substantial sales training or marketing materials; however, currently, we are expanding our product education offerings for distributors, as well as increasing marketing support. Our agreements with our distributors do not limit their ability to carry products that compete with ours. Our distribution agreements generally have a one year term, subject to automatic renewal unless cancelled by one of the parties. Our distributors typically provide us with purchase orders for delivery within six weeks, which we use to forecast future demand and estimate desired inventory builds. 
+
+We have expanded the scope of our training certification program for distributors and other interested individuals through updated classroom curriculum and new online courses. In fiscal 2016, Ubiquiti recertified 264 trainers across our various product platforms with more than 21,000 students enrolled in training. 
+
+The goal is for those completing the certification process to in turn educate and train service providers and enterprise customers on the effective deployment and use of our products and solutions. We offer the training program to distributors and other interested individuals in different languages throughout the world. 
+
+Backlog 
+
+Our sales are primarily made through standard purchase orders for delivery of products. As we allow customers to cancel or change orders with limited advance notice prior to shipment and because some orders remain in backlog due to concerns about the credit worthiness of the customer, we do not consider backlog to be firm and do not believe our backlog information is a reliable indicator of our ability to achieve any particular level of revenue of financial performance. 
+
+Competition 
+
+The markets for networking solutions for service providers, enterprise WLAN, video surveillance, microwave backhaul and machine-to-machine communications technology are highly competitive and are influenced by the following competitive factors, among others: 
+
+&#160; 
+
+&#8226; 
+
+total cost of ownership and return on investment associated with the solutions; 
+
+&#8226; 
+
+simplicity of deployment and use of the solutions; 
+
+&#8226; 
+
+ability to rapidly develop high performance integrated solutions; 
+
+&#8226; 
+
+reliability and scalability of the solutions; 
+
+&#8226; 
+
+market awareness of a particular brand; 
+
+&#8226; 
+
+ability to provide secure access to wireless networks; 
+
+&#8226; 
+
+ability to offer a suite of products and solutions; 
+
+&#8226; 
+
+ability to allow centralized management of the solutions; and 
+
+&#8226; 
+
+ability to provide quality product support. 
+
+We believe we compete favorably with respect to these factors. Although we are a recent entrant in the video surveillance, microwave backhaul, routing and machine-to-machine communication markets, we believe our products compete favorably in these product categories. We have been successful in rapidly developing high performance integrated solutions because we use individual contributors and small, experienced development teams that focus on the key needs of underserved and underpenetrated markets. Our products and solutions are designed to meet the price-performance characteristics demanded by our customers to achieve a strong overall return on their investment. Our products are designed to operate in growing networks without degradation in performance or operational complexity. 
+
+In the backhaul market, our competitors include Cambium Networks, Ceragon Networks, DragonWave, Mikrot&#238;kls, Mimosa, SAF Tehnika and Trango. In the CPE market, our competitors include Cambium Networks, Mikrot&#238;kls, Ruckus Wireless and TP-LINK Technologies. In the antenna market, we primarily compete with PCTEL, ARC, ITELITE and Radio Waves. In the enterprise WLAN market, we primarily compete with Aerohive Networks, Aruba Networks, Ruckus Wireless and Cisco. In the video surveillance market, we primarily compete with Axis Communications, HIKVISION, Mobotix and Vivotek. In the 
+
+machine-to-machine communications market, we primarily compete with AlertMe.com, EnergyHub and Motorola. We expect increased competition from other established and emerging companies if our market continues to develop and expand. As we enter new markets, we expect to face competition from incumbent and new market participants. 
+
+Intellectual Property 
+
+We rely on a combination of patent, copyright, trademark and trade secret laws, as well as confidentiality procedures and contractual restrictions, to establish and protect our proprietary rights. These laws, procedures and restrictions provide only limited protection and the legal standards relating to the validity, enforceability and scope of protection of intellectual property rights are uncertain and still evolving. Furthermore, effective patent, trademark, copyright and trade secret protection may not be available in every country in which our services and products are available. We seek patent protection for certain of our key concepts, components, protocols, processes and other inventions. 
+
+As of June 30, 2016 , we had 39 issued patents in the United States, 20 issued patents in foreign countries and over 130 pending U.S. and foreign patent applications. These patent applications relate to various features embedded in certain of our products, including the integration of components in a microwave system and certain performance improvements to radio receivers, and certain technologies in developments. We have filed, and will continue to file, patent applications in the United States and other countries where we believe there to be a strategic technological or business reason to do so. Any patents issued to us now or in the future may be challenged, invalidated or circumvented and may not provide sufficiently broad protection or may not prove to be enforceable in actions against alleged infringers. 
+
+As of June 30, 2016 , we owned U.S. trademark registrations in Ubiquiti, Ubiquiti Networks, the U logo, the beam logo, UBNT, airMAX, airControl, airOS, airFiber, airGateway, airGrid, airPRISM, airView, UniFi, mFi, EdgeMAX, Edgepoint, InnerFeed, Litebeam, NanoBeam, NanoStation, NanoBridge, PowerBeam, PowerBridge, Poweroverfiber, Rocket, and a number of trademark applications and registrations in the United States and other countries. 
+
+We endeavor to enter into agreements with our employees and contractors and with parties with whom we do business in order to limit access to and disclosure of our proprietary information. We cannot be certain that the steps we have taken will prevent unauthorized use or reverse engineering of our technology. Moreover, others may independently develop technologies that are competitive with ours or that infringe on our intellectual property. The enforcement of our intellectual property rights also depends on the success of our legal actions against infringers and counterfeiters, but these actions may not be successful, even when our rights have been infringed. 
+
+Employees 
+
+As of June 30, 2016 , we employed and or contracted with 537 full time equivalent employees, which included 308 in research and development, 77 in sales, general and administrative and 152 in operations. None of our employees are represented by a labor union or is a party to a collective bargaining agreement. We consider our relations with our employees to be good. 
+
+Corporate Information 
+
+We were incorporated in the State of California in 2003 as Pera Networks, Inc., and we commenced our current operations in 2005 and changed our name to Ubiquiti Networks, Inc. at that time. In June 2010, Ubiquiti Networks, Inc., a California corporation, changed its state of organization to Delaware by merging with and into Ubiquiti Networks, Inc., a Delaware corporation. Our executive offices are located at 2580 Orchard Parkway, San Jose, California 95131, and our telephone number is (408) 942-3085. Our website address is www.ubnt.com. The information on, or that can be accessed through, our website is not part of this Annual Report on Form 10-K. 
+
+Unless the context requires otherwise, the words &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; &#8220;Company&#8221; and &#8220;Ubiquiti&#8221; refer to Ubiquiti Networks, Inc. and its subsidiaries as a whole. 
+
+Financial Information About Geographic Areas 
+
+Refer to Note 12 in our Notes to Consolidated Financial Statements included under Part IV, Item 15 of this report for financial information about our geographic areas. 
+
+Available Information 
+
+The Company&#8217;s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (&#8220;Exchange Act&#8221;), are filed with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;). Such reports and other 
+
+information filed by the Company with the SEC are available free of charge on the Company&#8217;s website at http://ir.ubnt.com/sec.cfm &#32;when such reports are available on the SEC website. The public may read and copy any materials filed by the Company with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov . The contents of these websites are not incorporated into this filing. Further, the Company&#8217;s references to the URLs for these websites are intended to be inactive textual references only. 
+

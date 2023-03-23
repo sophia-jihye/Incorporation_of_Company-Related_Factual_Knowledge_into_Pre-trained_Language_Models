@@ -1,0 +1,642 @@
+ Item 1. Business 
+
+Business Overview 
+
+ON Semiconductor Corporation and its subsidiaries (&#147;we,&#148; &#147;us,&#148; &#147;our,&#148; &#147;ON Semiconductor,&#148; or the &#147;Company&#148;) is driving innovation in energy efficient electronics. Our extensive portfolio of analog, digital and mixed signal ICs, standard products, image sensors and custom devices helps customers efficiently solve their design challenges in advanced electronic systems and products. Our power management and motor driver semiconductor components control, convert, protect and monitor the supply of power to the different elements within a wide variety of electronic devices. Our custom ASICs use analog, DSP, mixed-signal and advanced logic capabilities to act as the brain behind many of our automotive, medical, aerospace/defense, consumer and industrial customers&#146; products. Our signal management semiconductor components provide high-performance clock management and data flow management for precision computing, communications and industrial systems. Our image sensors, optical image stabilization and auto focus devices provide advanced imaging solutions for automotive, wireless, industrial and consumer applications. Our standard semiconductor components serve as &#147;building blocks&#148; within virtually all types of electronic devices. These various products fall into the logic, analog, discrete, image sensors and memory categories used by the WSTS group. 
+
+We serve a broad base of end-user markets, including automotive, communications, computing, consumer electronics, medical, industrial electronics, networking and aerospace/defense. Our devices are found in a wide variety of end products including automotive electronics, smartphones, media tablets, wearable electronics, personal computers, servers, industrial building and home automation systems, consumer white goods, advanced imaging systems, LED lighting, power supplies, networking and telecom equipment, medical diagnostics, imaging and hearing health, sensor networks and the IoT. 
+
+Our portfolio of devices enables us to offer advanced ICs and the &#147;building block&#148; components that deliver system level functionality and design solutions. Our extensive product portfolio consisted of approximately 50,000 products in 2015, and we shipped approximately 49.0 billion units in 2015 as compared to 48.2 billion units in 2014. We offer micro packages, which provide increased performance characteristics while reducing the critical board space inside today&#146;s ever shrinking electronic devices and power modules, delivering improved energy efficiency and reliability for a wide variety of high power applications. We believe that our ability to offer a broad range of products, combined with our global manufacturing and logistics network, provides our customers with single source purchasing on a cost-effective and timely basis. 
+
+&#160;
+
+From time to time, we reassess the alignment of our product families and devices to our operating segments and may move product families or individual devices from one operating segment to another. We are currently organized into four operating segments, which also represent four reporting segments: Application Products Group, Image Sensor Group, Standard Products Group, and System Solutions Group. Each of our major product lines has been assigned to a segment, as illustrated in the table below, based on our operating strategy. 
+
+&#160;
+
+Application Products Group 
+
+&#160; Image Sensor Group 
+
+&#160; Standard Products Group 
+
+&#160; System Solutions Group 
+
+Automotive ASSPs (1)
+
+&#160; CCD Image Sensors (7)
+
+&#160; Bipolar Power (8)
+
+&#160; Power MOSFETs (10)
+
+Analog Automotive (2)
+
+&#160; CMOS Image Sensors (7)
+
+&#160; Thyristor (8)
+
+&#160; IGBTs (10)
+
+Automotive Power Switching (3)
+
+&#160; Linear Light Sensors (7)
+
+&#160; Small Signal (8)
+
+&#160; Power and Signal Discretes (10)
+
+Automotive Mixed-Signal Solutions (1)
+
+&#160; Proximity Sensors (13)
+
+&#160; Zener (8)
+
+&#160; Intelligent Power Modules (11)
+
+Medical ASICs &#38; ASSPs (1)
+
+&#160; &#160; Protection (3)
+
+&#160; Motor Driver ICs (12)
+
+Mixed-Signal ASICs (1)
+
+&#160; &#160; Rectifier (8)
+
+&#160; Display Drivers (12)
+
+Industrial ASSPs (1)
+
+&#160; &#160; Filters (3)
+
+&#160; ASICs (12)
+
+High Frequency / Timing (4)
+
+&#160; &#160; MOSFETs (3)
+
+&#160; Microcontrollers (12)
+
+IPDs (5)
+
+&#160; &#160; Signal &#38; Interface (2)
+
+&#160; Flash Memory (12)
+
+Foundry and Manufacturing Services (5)
+
+&#160; &#160; Standard Logic (6)
+
+&#160; Touch Sensor (12)
+
+Hearing Components (1)
+
+&#160; &#160; LDO&#146;s &#38; VREGs (2)
+
+&#160; Power Supply IC (12)
+
+DC-DC Conversion (2)
+
+&#160; &#160; EE Memory and Programmable Analog (9)
+
+&#160; Audio DSP (12)
+
+Analog Switches (6)
+
+&#160; &#160; IGBTs (3)
+
+&#160; Audio Tuners (12)
+
+AC-DC Conversion (2)
+
+&#160; &#160; Smart Passive Sensors (13)
+
+&#160; Image Stabilizer ICs (12)
+
+Low Voltage Power Management (2)
+
+&#160; &#160; PIM (14)
+
+&#160; Auto Focus ICs (12)
+
+Power Switching (2)
+
+&#160; &#160; &#160; RF Antenna Tuning Solutions (1)
+
+&#160; &#160; &#160; &#160;
+
+&#160; (1) ASIC/ASSP products
+
+&#160; (8) Discrete products
+
+&#160; (2) Analog products
+
+&#160; (9) Memory products
+
+&#160; (3) TMOS products
+
+&#160; (10) HD products
+
+&#160; (4) ECL products
+
+&#160; (11) IPM products
+
+&#160; (5) Foundry products / services
+
+&#160; (12) LSI products
+
+&#160; (6) Standard logic products
+
+&#160; (13) Other sensor products
+
+&#160; (7) Image sensor / ASIC products
+
+&#160; (14) PIM products
+
+We currently have domestic design operations in Arizona, California, Idaho, New York, Oregon, Pennsylvania, Rhode Island, Texas and Utah. We also have foreign design operations in Belgium, Canada, China, the Czech 
+
+&#160;
+
+Republic, France, Germany, India, Ireland, Japan, Korea, Philippines, Romania, Slovakia, Slovenia, Switzerland and Taiwan. Additionally, we currently operate domestic manufacturing facilities in Idaho, New York and Oregon and have foreign manufacturing facilities in Belgium, Canada, China, Czech Republic, Japan, Malaysia, Philippines and Vietnam. We also have global distribution centers in China, Japan, Philippines and Singapore. 
+
+Company Highlights for the year ended December 31, 2015 
+
+&#160;
+
+&#160; &#149; &#160; Total revenues of approximately $3,495.8 million 
+
+&#160; &#149; &#160; Gross margin of approximately 34.1% 
+
+&#160; &#149; &#160; Net income of $0.48 per diluted share 
+
+&#160; &#149; &#160; Cash and cash equivalents of $617.6 million 
+
+&#160; &#149; &#160; Issued $690.0 million of the Company&#146;s 1.00% Notes 
+
+&#160; &#149; &#160; Amended the Senior Revolving Credit Facility, increased the borrowing capacity to $1.0 billion and reset the five year maturity 
+
+&#160; &#149; &#160; Completed the repurchase of approximately 30.4 million shares of common stock under our previously announced share repurchase program 
+
+&#160; &#149; &#160; Announced the acquisition of Fairchild for $2.4 billion in cash 
+
+Recent Company Mergers and Acquisitions 
+
+We have historically pursued strategic acquisitions to leverage our existing capabilities and further build our business. Such activities continued during 2015. 
+
+Pending Acquisition of Fairchild 
+
+On November 18, 2015, we entered into an Agreement and Plan of Merger (the &#147;Fairchild Agreement&#148;), with each of Fairchild Semiconductor International, Inc., a Delaware corporation (&#147;Fairchild&#148;), and Falcon Operations Sub, Inc., a Delaware corporation and our wholly-owned subsidiary, which provides for a proposed acquisition of Fairchild by us (the &#147;Fairchild Transaction&#148;). The total transaction value is expected to be approximately $2.4 billion. 
+
+Pursuant to the terms and conditions set forth in the Fairchild Agreement, we, through Falcon Operations Sub, Inc., have commenced an offer (the &#147;Offer&#148;) to acquire all of the outstanding shares of Fairchild&#146;s common stock, par value $0.01 per share (the &#147;Shares&#148;), for $20.00 per share in cash, without interest (the &#147;Offer Price&#148;). The Offer is subject to certain conditions, including the tender of at least a majority of the then outstanding Shares. Following successful completion of the Offer and subject to the satisfaction or waiver of certain conditions set forth in the Fairchild Agreement, including the receipt of certain required regulatory approvals, Falcon Operations Sub, Inc. will be merged with and into Fairchild, with Fairchild surviving as our wholly-owned subsidiary (the &#147;Merger&#148;). At the effective time of the Merger (the &#147;Effective Time&#148;), each outstanding Share (other than Shares held by (i) ON Semiconductor, Fairchild or their respective subsidiaries immediately prior to the Effective Time and (ii) stockholders of Fairchild who properly exercised their appraisal rights under the Delaware General Corporation Law) will be canceled and automatically converted into the right to receive an amount in cash equal to the Offer Price. In addition, immediately prior to the Effective Time, all outstanding options to purchase Shares, restricted stock units, deferred stock units and performance units will become fully vested and be converted into the right to receive the Offer Price (net of any applicable exercise price with respect to options). 
+
+&#160;
+
+We intend to finance the estimated $2.4 billion of cash consideration with a combination of cash on hand, proceeds from the issuance of debt or equity securities and new, fully-committed debt financing. On November 18, 2015, we entered into a commitment letter (the &#147;Commitment Letter&#148;) with Deutsche Bank Securities Inc. (&#147;DBSI&#148;), Deutsche Bank AG, New York Branch (&#147;Deutsche Bank&#148;), Bank of America, N.A. (&#147;Bank of America&#148;) and Merrill Lynch, Pierce, Fenner &#38; Smith Incorporated (&#147;Merrill Lynch&#148;) pursuant to which Deutsche Bank and Bank of America have committed to provide a $2.4 billion term loan facility (the &#147;Term Loan&#148;) and a $300 million revolving credit facility that may be increased by an additional $200 million (the &#147;Revolver,&#148; together with the provision of the Term Loan and Revolver as set forth in the Commitment Letter, the &#147;Financing&#148;) subject to satisfaction of customary closing conditions. The Term Loan is available to (i) finance the Offer and related Merger pursuant to the Fairchild Agreement, and (ii) pay fees and expenses related to the Merger and the Financing. Under the Commitment Letter, DBSI and Merrill Lynch will act as joint lead arrangers and bookrunners. The Commitment Letter provides, among other matters, for an initial commitment period until August 18, 2016 to effect the Financing, subject to three one-month extensions for regulatory approvals. The actual documentation governing the Financing has not been finalized, and accordingly, the actual terms may differ from the description of such terms in the Commitment Letter. 
+
+The transactions contemplated by the Fairchild Agreement have been unanimously approved by the boards of directors of both companies. Consummation of the transactions contemplated by the Fairchild Agreement is subject to the satisfaction or waiver of the conditions set forth in the Fairchild Agreement, as well as other customary closing conditions. 
+
+A detailed description of the transactions contemplated by the Fairchild Agreement can be found in the 8-K filed by us with the SEC on November 18, 2015, the Tender Offer Statement on Schedule TO (including the related tender offer materials, including the offer to purchase, the related letter of transmittal and certain other tender offer documents) filed by us with the SEC on December 4, 2015, the Solicitation/ Recommendation Statement on Schedule 14D-9 filed by Fairchild with the SEC with respect to the tender offer on December 4, 2015 and all subsequent amendments and supplements to those documents filed with the SEC by us and Fairchild. We currently expect the transactions contemplated by the Fairchild Agreement to close late in the second quarter of 2016. Factors, such as the possibility of an intervening offer for Fairchild or our ability to obtain the debt financing we need to consummate the Fairchild Transaction, may affect when and whether the Merger will occur. 
+
+See Part I, Item 1A &#147;Risk Factors&#148; and Part II, Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; for additional information. See also Note 20: &#147;Recent Developments and Subsequent Events&#148; of the notes to our audited consolidated financial statements, included elsewhere in this Form 10-K for additional information and recent developments. 
+
+Completed Mergers and Acquisitions 
+
+On July 15, 2015, we completed the purchase of AXSEM, whereby AXSEM became our wholly-owned subsidiary. The aggregate purchase price of this transaction was approximately $8.0 million in cash consideration, plus an additional unlimited contingent consideration with a fair value of $5.0 million as of the acquisition date. We believe the acquisition of AXSEM expands the Company&#146;s industrial and timing business and is another step forward in expanding the Company&#146;s presence in select segments of the industrial end-market. See Note 4: &#147;Acquisitions&#148; of the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information. 
+
+On August 15, 2014, we completed the purchase of Aptina, whereby Aptina became our wholly-owned subsidiary. The aggregate purchase price of this transaction was approximately $405.4 million in cash, subject to customary closing adjustments. We believe the acquisition of Aptina expands our image sensor business and 
+
+&#160;
+
+establishes ON Semiconductor as one of the leaders in the fast growing segment of image sensors in the automotive and industrial end-markets. See Note 4: &#147;Acquisitions&#148; of the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information. 
+
+On April 30, 2014, we completed the purchase of Truesense, whereby Truesense became our wholly-owned subsidiary. The aggregate purchase price of this transaction was approximately $95.7 million, subject to customary closing adjustments. We believe that the acquisition of Truesense strengthens our product portfolio targeting industrial end-markets such as machine vision, surveillance and intelligent transportation systems by complementing our existing high-speed, high-resolution, power-efficient image sensing solutions with Truesense&#146;s high-performance image sensors for low-light, low-noise. See Note 4: &#147;Acquisitions&#148; of the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information. 
+
+On February 27, 2011, we acquired 100% of the CMOS ISBU from Cypress Semiconductor for $34.1 million in cash. The ISBU includes a portfolio of custom and standard image sensors used in multi-megapixel machine vision, linear and two dimensional bar code imaging, medical x-ray imaging, biometrics, digital photography and cinematography, and aerospace applications. The acquired products include the VITA, LUPA, STAR, and IBIS families. 
+
+On January 1, 2011, we paid SANYO Electric $142.1 million in cash and issued a $377.5 million note payable to SANYO Electric, through SCI LLC, in exchange for a 100% interest in SANYO Semiconductor and certain other semiconductor related assets held by SANYO Electric. In the second quarter of 2011, we received approximately $39.7 million in cash from SANYO Electric for working capital and pension adjustments as determined in accordance with the purchase agreement, which resulted in a net purchase price of $479.9 million. 
+
+The acquisition of SANYO Semiconductor provided us with a stronger market presence in Japan, with many leading Japan-based customers, some of which were previously our customers. We believe that this acquisition has provided and will continue to provide us with access to market-leading Japanese and Asian customers, while providing our System Solutions Group&#146;s customers with access to front-end mixed-signal and analog manufacturing, and ultra high volume back-end facilities. Since acquiring SANYO Semiconductor in 2011, we have incurred material restructuring expenses to achieve cost savings in order to align the System Solutions Group&#146;s cost structure with expected revenue levels as the System Solutions Group experienced revenue and financial performance declines which were greater than our expectations and greater than cyclical declines in our other operating segments. These revenue declines were at least partially attributable to the impact from the October 2011 Thailand flood, a softening of the Japanese consumer market and, to a lesser extent, political tensions between Japan and China. See Part II, Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations - Operating Expenses&#148; under the heading &#147;Restructuring, asset impairments and other, net&#148; and in Note 6: &#147;Restructuring, Asset Impairments and Other, Net&#148; of the notes to our audited consolidated financial statements included elsewhere in this report for additional information on our System Solutions Group restructuring activities. 
+
+Products and Technology 
+
+The following provides certain information regarding our operating segments. See &#147;Business Overview&#148; above and Note 18: &#147;Segment Information&#148; of the notes to our audited consolidated financial statements included elsewhere in this report for other information regarding our segments and their revenues and property, plant and equipment and the income derived therefrom. 
+
+&#160;
+
+Application Products Group 
+
+The Application Products Group designs and develops analog, mixed-signal and advanced logic ASIC and ASSP solutions for a broad base of end-users in the automotive, consumer electronics, computing, industrial, communications, medical and military / aerospace markets. Our product solutions enable industry leading active mode and standby mode efficiency now being demanded by regulatory agencies around the world. Additionally, the Application Products Group offers Trusted Foundry, Trusted Design, and manufacturing services, and IPD products technology, which leverage the Company&#146;s broad range of manufacturing, IC design, packaging and silicon technology offerings to provide flexible turn-key solutions for our customers. Certain of the Application Products Group&#146;s broad portfolio of products and solutions are summarized below: 
+
+&#160;
+
+End-Market 
+
+&#160; Certain Focused Products and Solutions 
+
+Automotive electronics 
+
+&#160; Energy efficient solutions that reduce emissions, improve fuel economy and safety, enhance lighting, and make possible an improved driving experience.
+
+Computing 
+
+&#160; Solutions for a wide range of voltage and current options ranging from multi-phase 30 volt power for VCORE processors to single cell battery point of load. Thermal and battery charging solutions are also supported.
+
+Industrial electronics 
+
+&#160; Power efficient communication and sensor interface products. Wired and low power RF wireless connectivity for IoT applications. Circuit breaking products for applications. FDA-compliant assembly and packaging manufacturing services.
+
+Communications 
+
+&#160; Power management products that allow lowest possible current consumption at high efficiency, RF tuning to enhance radio performance.
+
+Image Sensor Group 
+
+The Image Sensor Group designs and develops CMOS and CCD image sensors, as well as proximity sensors and image signal processors for a broad base of end-users in the automotive, industrial, consumer electronics, wireless, medical, and military\aerospace markets. Our broad product offering delivers excellent pixel performance, sensor functionality and camera systems capabilities to a world going more visual. With our high-quality imaging portfolio, camera system and applications expertise, our customers can deliver new and differentiated imaging solutions to their end-markets. Certain of the Image Sensor Group&#146;s broad portfolio of products and solutions are summarized below: 
+
+&#160;
+
+End-Market 
+
+&#160; Certain Focused Products and Solutions 
+
+Automotive imaging 
+
+&#160; High dynamic range, low-light, fast video frame rates with near-IR sensitivity for scene viewing to dramatically reduce injuries and help eliminate backover fatalities, and scene understanding for ADAS to improve safety and the overall driving experience.
+
+Industrial Imaging 
+
+&#160; A broad range of both CMOS and CCD image sensors for aerial surveillance, intelligent traffic systems, Internet protocol cameras, one dimensional light and proximity sensor modules and emerging applications in the IoT market for security and surveillance, smart home, lighting, industrial automation and smart cities.
+
+Wireless and Consumer Electronics 
+
+&#160; A broad range of CMOS sensors for high performance mobile phones, PCs, tablets and high-speed video camera, and various unique consumer applications. Our solutions offer superior image quality, fast frame rates, high definition, and low light sensitivity to provide customers with a compelling visual experience.
+
+&#160;
+
+Standard Products Group 
+
+The Standard Products Group offers a wide array of discrete and integrated semiconductor products that perform multiple application functions, including power switching, signal conditioning, circuit protection, signal amplification and voltage reference functions. The trends driving growth within our end-user markets are primarily the demand for greater functionality in small hand-held devices, faster data transmission rates in all communications applications and higher efficiency in all power applications. The proliferation of electronic content in automobiles has induced tremendous stress on the existing 12 volt electrical infrastructure. Power efficiency and exceptionally low power drain modes have now become a critical automotive issue as more and more electronic features exist. The new technologies being developed to support these market trends include lower capacitance protection and integrated signal conditioning products to support faster data transmission rates, micro packages for multiple hand-held applications and switching and rectification technologies that allow for high-efficiency energy usage and conversion. Certain of the Standard Product Group&#146;s broad portfolio of products and solutions are summarized below: 
+
+&#160;
+
+End-Market 
+
+&#160; Certain Focused Products and Solutions 
+
+Automotive electronics 
+
+&#160; Over 4,000 products AEC qualified. Known Good Die to support automotive modules. Precision OpAmps to support rapid growth in sensors. A battery free wireless sensor solution for occupant detection, HVAC control, fluid level and vehicle leak monitoring. Auto grade EEPROMs to support Imaging. FS IGBT and HE FETs, PIMs and eFuse to support proliferation of electric motors. Protection devices to support growing number of interface standards used in automotive. LED drivers and MV FETs to support rapid growth of LED lighting in both AFS and ambiance.
+
+Computing 
+
+&#160; MOSFETs and protection devices supporting latest chipsets. Multichip power solutions and advanced LDOs to support power efficiency requirements in new computing platforms. GaN technology enables drastic reduction in power adaptor size.
+
+Industrial electronics 
+
+&#160; Focused on advanced power technologies to support high performance power conversion for high-end power supply/UPS, alternative energy, industrial motors. Latest technologies include: HV FETs, FS IGBTs, PIMs, Gate Drivers, GaN, and HV LDOs. A battery free wireless sensor solution for moisture, temperature, pressure and proximity detection to meet the rapidly growing needs of IoT.
+
+Wireless Communications 
+
+&#160; Continue to introduce world&#146;s smallest packages: DFN MOSFETs, Chip Scale Package, EEPROMs and LDOs, DFN 01005 for small signal devices and protection. Low capacitance ESD and common mode filters for high speed serial interface protection. High PSRR LDOs for clean power rails and low power LDOs for increased efficiency. Precision OpAmps to support proliferation of sensors and CSP EEPROMs to facilitate storage of security information. GaN technology enables significant reduction in power adaptor size.
+
+&#160;
+
+System Solutions Group 
+
+Our System Solutions Group designs and develops analog and mixed signal ICs, DSPs, analog and digital tuners, intelligent power modules, memory and discrete semiconductors for the automotive, communications, consumer and industrial end-markets. The continuing transformation to make all electronics systems &#147;smart,&#148; connected and more power efficient presents a substantial opportunity to draw on our diverse product portfolio and applications expertise to provide customers with comprehensive systems solutions for their applications. We further possess unique packaging capabilities that help customers reduce device size, weight and improve power efficiency as more semiconductor content is incorporated into electronics systems and device dimensions shrink to increase portability. These advanced packaging capabilities allow us to provide complete, fully tested solutions resulting in faster time to market for our customers. Certain of the System Solutions Group&#146;s broad portfolio of products and solutions are summarized below: 
+
+&#160;
+
+End-Market 
+
+&#160; Certain Focused Products and Solutions 
+
+Wireless Communications 
+
+&#160; Auto Focus and optical image stabilizer ICs improve the picture quality of smartphones; our power management ASSPs reduce the charging time and extend battery life of Lithium-ion Batteries, as well as help to power today&#146;s high efficiency displays. Our original IP can be found in ASICs such as our new &#147;touch and pen interface&#148; solutions that reduce power consumption and increase hand writing accuracy in tablets.
+
+Consumer 
+
+&#160; We provide a full range of discrete products, ASSPs and IPMs for home appliances. Our products provide improved power management and help to increase the power efficiency of a wide range of motors. Various power efficient audio solutions for a wide range of portable consumer &#38; automotive applications including SoC&#146;s for the next generation wearable applications.
+
+Automotive 
+
+&#160; Innovative solutions that reduce size and weight: our strength and expertise in smart motor control solutions, including our IPMs enable simple and low cost design for BLDC motors used in fans and pumps (examples: EPS, wiper, oil &#38; water pumps, radiator fan, sliding doors, fuel pump and HVAC fan). Ignition control ASSPs that reduce adoption cycle time for OEMs for fuel efficient engines.
+
+Industrial 
+
+&#160; Broad portfolio of power solutions including smart motor drivers, MOSFETs, IGBT&#146;s and Intelligent Power Modules.
+
+Customers 
+
+In general, we have maintained long-term relationships with our key customers. Sales agreements with customers are renewable periodically and contain certain terms and conditions with respect to payment, delivery, warranty and supply, but typically do not require minimum purchase commitments. Most of our OEM customers negotiate pricing terms with us on an annual basis near the end of the calendar year, while our other customers, including electronic manufacturer service providers and distributors, generally negotiate pricing terms with us on a quarterly basis. Our products are ultimately purchased for use in a variety of end-markets, including computing, automotive electronics, consumer electronics, industrial electronics, wireless communications, networking, military aerospace and medical. For the years ended December 31, 2015, December 31, 2014, and December 31, 2013, we had no sales to individual customers, including distributors, that accounted for 10% or more of our total consolidated revenues. 
+
+&#160;
+
+For the year ended December 31, 2015, aggregate revenue from our five largest customers per segment, including distributors, for our Application Products Group, Image Sensor Group, Standard Products Group, and System Solutions Group comprised approximately 29% , 59%, 43%, and 51% of total revenue for each respective operating segment. The loss of certain of these customers or distributors may have a material adverse effect on the operations of the respective segment. 
+
+We generally warrant that products sold to our customers will, at the time of shipment, be free from defects in workmanship and materials and conform to our approved specifications. Subject to certain exceptions, our standard warranty extends for a period of two years. Generally, our customers may cancel orders 30 days prior to shipment for standard products and 90 days prior to shipment for custom products without incurring a significant penalty. For additional information regarding agreements with our customers, see &#147;Backlog&#148; below. 
+
+&#160;
+
+End-Markets for Our Products 
+
+The following table sets forth our principal end-markets, the estimated percentage (based in part on information provided by our distributors and electronic manufacturing service providers) of our revenues generated from each end-market during 2015, sample applications for our products and representative OEM customers and end-users. 
+
+&#160;
+
+&#160; &#160; Computing &#160; Consumer Electronics &#160; Automotive Electronics &#160; Industrial Electronics &#160; Communications &#160; Networking &#160; Military - 
+
+Aerospace 
+
+&#160; Medical Approximate 
+
+percentage of 
+
+2015 Revenue 
+
+&#160; 12% &#160; 14% &#160; 33% &#160; 19% &#160; 15% &#160; 3% &#160; 1% &#160; 3% Sample 
+
+applications 
+
+&#160; Notebooks, Ultrabooks, &#38; 2-in-1s &#160; Music Players, Digital Cameras &#38; Video Recorders &#160; Fuel Economy &#38; Emission Reduction &#160; Smart Grid &#38; Metering &#160; Tablets &#160; Switches &#160; Cockpit Displays &#160; Hearing Devices &#160; Desktop PCs &#38; All-in-Ones &#160; Flat TVs &#38; Set-Top Boxes &#160; Active Safety (ADAS and Viewing Cameras) &#160; Security &#38; Surveillance &#160; Smart phones &#160; Routers &#160; Guidance Systems &#160; Imaging &#160; Graphics &#160; Gaming &#38; Home Entertainment Systems &#160; Body Electronics &#38; Lighting &#160; Motor Controls &#160; Wearables Devices &#160; Base Stations &#160; Infrared
+
+Imaging
+
+&#160; Diagnostic, Therapy, &#38; Monitoring &#160; Servers &#38; Workstations &#160; White Goods &#160; Infotainment &#38; Connectivity &#160; Smart Buildings &#160; Back lighting &#38; Display Control &#160; Network Cards &#160; Image Sensors &#160; Implantable Devices &#160; Internal &#38; External Power Supplies &#160; Power Supplies &#160; Power Supplies &#160; Power Supplies &#160; Power Supplies &#160; Power Supplies &#160; &#160; &#160; PC Cameras &#160; Drones &#160; &#160; Industrial Automation &#160; RF Tuning &#160; &#160; &#160; &#160; &#160; &#160; &#160; Drones &#160; &#160; &#160; &#160; Representative 
+
+OEM customers 
+
+and end-users 
+
+&#160; Apple Inc. &#160; GoPro, Inc. &#160; Bosch GMBH &#160; Dahua Technology &#160; Apple Inc. &#160; Alcatel Lucent &#160; Aeroflex &#160; Boston Scientific &#160; Asus &#160; Gree, Inc. &#160; Continental Automotive Systems &#160; Delta Electronics &#160; Huawei Tech Co., Ltd. &#160; Cisco &#160; British Aerospace &#160; General Electric Co &#160; Dell Computer &#160; LG Electronics &#160; Delphi &#160; Emerson Electric Co &#160; Lenovo &#160; Delta Electronics &#160; General Electric Co. &#160; Intricon Corp &#160; Delta Electronics, Inc. &#160; Microsoft &#160; Denso Corporation &#160; Flir Systems &#160; LG Eletronics &#160; Ericsson &#160; Honeywell Inc &#160; Medtronic &#160; Foxconn &#160; Midea &#160; Fujitsu Ten LTD &#160; Hikvision Digital Technology Co., Ltd. &#160; Samsung Electronics &#160; Huawei &#160; ITT Corporation &#160; Mindray &#160; Gigabyte &#160; Panasonic Corporation &#160; Hella &#160; Honeywell Inc. &#160; Sony Mobile &#160; Nokia Solutions and Networks &#160; L-3 Communications &#160; Philips &#160; Hewlett Packard Co &#160; Philips &#160; Hyundai Mobis Co., Ltd. &#160; Kionix INC &#160; Xiaomi Inc. &#160; ZTE Hong Kong LTD &#160; Lockheed Martin &#160; St. Jude Medical &#160; Lenovo &#160; Samsung Electronics &#160; Magna International &#160; Schneider Electric &#160; ZTE Hong Kong Ltd &#160; Apple Inc. &#160; Raytheon Co &#160; Starkey Laboratories &#160; Seagate Technology &#160; Sony Corp &#160; Magneti Marelli &#160; Siemens Industrial &#160; &#160; &#160; Rockwell Collins &#160; &#160; Western Digital Corporation &#160; Whirlpool Corp &#160; TRW Inc &#160; Tyco International &#160; &#160; &#160; Sofradir &#160; &#160; &#160; &#160; Valeo
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Visteon
+
+&#160; &#160; &#160; &#160; &#160; &#160;
+
+OEMs Direct sales to OEMs accounted for approximately 39% of our revenues in 2015, 42% of our revenues in 2014 and 48% of our revenues in 2013. OEM customers include a variety of companies in the electronics industry such as Continental Automotive Systems, Delphi, Hella, Huawei Technologies Co. Ltd., Magna International, Panasonic Corporation and Samsung Electronics. We focus on three types of OEMs: multi-nationals, selected regional accounts and target market customers. Large multi-nationals and selected regional accounts, which are significant in specific markets, are our core OEM customers. The target market customers for our end-markets are OEMs that are on the leading edge of specific technologies and provide direction for technology and new product development. Generally, our OEM customers do not have the right to return our products following a sale other than pursuant to our standard warranty. 
+
+Distributors Sales to distributors accounted for approximately 54% of our revenues in 2015, 50% of our revenues in 2014 and 44% of our revenues in 2013. Our distributors, which include Arrow, Avnet, Macnica, OS Electronics, World Peace and WT Microelectronics, resell to mid-sized and smaller OEMs and to electronic manufacturing service providers and other companies. Sales to certain distributors are made pursuant to agreements that provide return rights with respect to discontinued or slow-moving products. Under certain agreements, distributors are allowed to return any product that we have removed from our price book. In addition, agreements with certain of our distributors contain stock rotation provisions permitting limited levels of product returns. Due to current limitations on the feasibility of estimating the upfront effect of returns and allowances with these distributors, we defer recognition of revenue and gross profit on sales to these distributors until these distributors resell the product. As a result, sales returns have minimal impact on our results of operations. 
+
+Electronic Manufacturing Service Providers Direct sales to electronic manufacturing service providers accounted for approximately 7% of our revenues in 2015, and 8% of our revenues in 2014 and 2013. Among our largest electronic manufacturing service customers are Benchmark Electronic, Celestica, Flextronics, Jabil and Sanmina . These customers are manufacturers who typically provide contract manufacturing services for OEMs. Originally, these companies were involved primarily in the assembly of printed circuit boards, but they now typically provide design, supply management and manufacturing solutions as well. Many OEMs now outsource a large part of their manufacturing to electronic manufacturing service providers in order to focus on their core competencies. We are pursuing a number of strategies to penetrate this increasingly important marketplace. Generally, our electronic manufacturing service customers do not have the right to return our products following a sale other than pursuant to our standard warranty. 
+
+See Part II, Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; and Note 18: &#147;Segment Information&#148; of the notes to our audited consolidated financial statements included elsewhere in this report for revenues by geographic locations. 
+
+Manufacturing Operations 
+
+We operate front-end wafer site facilities in Belgium, Canada, Czech Republic, Japan, Malaysia, and the United States and back-end assembly and test site facilities in Canada, China, Japan, Malaysia, Philippines, Vietnam and the United States. In addition to these front-end and back-end manufacturing operations, our facility in Roznov, Czech Republic manufactures silicon wafers that are used by a number of our facilities. 
+
+&#160;
+
+The table below sets forth information with respect to the manufacturing facilities we operate either directly or through our joint venture, as well as the reporting segments that use these facilities, along with the approximate gross square footage of each site&#146;s building, which includes, among other things, manufacturing, laboratory, warehousing, office, utility, support and unused areas. 
+
+&#160;
+
+Location &#160; Reporting Segment &#160; Size (sq. ft.) Front-end Facilities: 
+
+&#160; &#160; Burlington, Canada (1) (2) (3)
+
+&#160; Application Products Group
+
+&#160; 95,440 Gresham, Oregon
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 558,457 Pocatello, Idaho
+
+&#160; Application Products Group and Standard Products Group
+
+&#160; 575,276 Roznov, Czech Republic
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 740,349 Oudenaarde, Belgium
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 719,892 Seremban, Malaysia (Site 2) (3)
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 123,496 Niigata, Japan
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 1,106,779 Rochester, New York (4)
+
+&#160; Image Sensor Group
+
+&#160; 265,594 Back-end Facilities: 
+
+&#160; &#160; Burlington, Canada (1) (2) (3)
+
+&#160; Application Products Group
+
+&#160; 95,440 Leshan, China (3)
+
+&#160; Application Products Group and Standard Products Group
+
+&#160; 406,696 Seremban, Malaysia (Site 1) (3)
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 328,204 Carmona, Philippines (1)
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 518,592 Tarlac City, Philippines (1)
+
+&#160; Application Products Group and System Solutions Group
+
+&#160; 354,861 Shenzhen, China (1)(3)
+
+&#160; System Solutions Group
+
+&#160; 277,984 Bien Hoa, Vietnam (3)
+
+&#160; Standard Products Group and System Solutions Group
+
+&#160; 294,418 Gunma, Japan (1) (3)
+
+&#160; System Solutions Group
+
+&#160; 85,226 Rochester, New York (4)
+
+&#160; Image Sensor Group
+
+&#160; 265,594 Nampa, Idaho (1)
+
+&#160; Image Sensor Group
+
+&#160; 157,760 Other Facilities: 
+
+&#160; &#160; Roznov, Czech Republic
+
+&#160; Application Products Group, Standard Products Group and System Solutions Group
+
+&#160; 740,349 Thuan An District, Vietnam (3)
+
+&#160; System Solutions Group
+
+&#160; 32,619 (1) These facilities are leased. 
+
+(2) This facility is used for both front-end and back-end operations with a total square footage of 95,440. 
+
+(3) These facilities are located on leased land. 
+
+(4) This facility is used for both front-end and back-end operations with a total square footage of 265,594. Consists of one leased and one owned building. 
+
+&#160;
+
+We operate all of our manufacturing facilities directly, with the exception of our assembly and test operations facility located in Leshan, China, which is owned by a joint venture company, Leshan-Phoenix Semiconductor Company Limited (&#147;Leshan&#148;), of which we own a majority of the outstanding equity interests. Our investment in Leshan has been consolidated in our financial statements. Our joint venture partner, Leshan Radio Company Ltd., is formerly a state-owned enterprise. Pursuant to the joint venture agreement, requests for production capacity are made to the board of directors of Leshan by each shareholder of the joint venture. Each request represents a purchase commitment by the requesting shareholder, provided that the shareholder may elect to pay the cost associated with the unused capacity (which is generally equal to the fixed cost of the capacity) in lieu of satisfying the commitment. We committed to purchase 80% of Leshan&#146;s production capacity in 2015, 70% in 2014 and 2013 and are currently committed to purchase approximately 80% of Leshan&#146;s expected production capacity in 2016. During the year ended December 31, 2014, we acquired an additional equity interest in Leshan, see Note 9: &#147;Earnings Per Share and Equity&#148; of the notes to our audited consolidated financial statements included elsewhere in this report for additional information. 
+
+We use third-party contractors for some of our manufacturing activities, primarily for wafer fabrication and the assembly and testing of finished goods. Our agreements with these contract manufacturers typically require us to forecast product needs and commit to purchase services consistent with these forecasts. In some cases, longer-term commitments are required in the early stages of the relationship. These contract manufacturers, including Amkor, ASE, LFoundry S.r.l., Kingpak, TSMC and UMC, accounted for approximately 39%, 30% and 26% of our manufacturing costs in 2015, 2014 and 2013, respectively. 
+
+For information regarding risks associated with our foreign operations, see Part I, Item 1A &#147;Risk Factors&#148; under the heading &#147;Trends, Risks and Uncertainties Related to Our Business&#148; included elsewhere in this report. 
+
+Raw Materials 
+
+Our manufacturing processes use many raw materials, including silicon wafers, gold, copper, and lead frames, mold compound, ceramic packages and various chemicals and gases. We obtain our raw materials and supplies from a large number of sources, generally on a just-in-time basis, and material agreements with our suppliers that impose minimum or continuing supply obligations are reflected in our contractual obligations table in Part II, Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#148; under the heading &#147;Contractual Obligations&#148; included elsewhere in this report. From time to time, suppliers may extend lead times, limit supplies or increase prices due to capacity constraints or other factors. Although we believe that supplies of the raw materials we use are currently and will continue to be available, shortages could occur in various essential materials due to interruption of supply, increased demand in the industry or other factors. 
+
+Sales, Marketing and Distribution 
+
+As of December 31, 2015, our global sales and marketing organization consisted of approximately 1,200 professionals, servicing customers in approximately 70 countries. We support our customers through logistics organizations and just-in-time warehouses. Global and regional distribution channels further support our customers&#146; needs for quick response and service. We offer efficient, cost-effective global applications support from our Technical Information Centers and Solution Engineering Centers, allowing for applications which are developed in one region of the world to be instantaneously available throughout all other regions. 
+
+Patents, Trademarks, Copyrights and Other Intellectual Property Rights 
+
+We market our products under our registered trademark ON Semiconductor &#174; and our ON logo, and, in the United States and internationally, we rely primarily on a combination of patents, trademarks, copyrights, trade secrets, 
+
+&#160;
+
+employee and non-disclosure agreements and licensing agreements to protect our intellectual property. We acquired or were licensed or sublicensed to a significant amount of IP, including patents and patent applications, in connection with our acquisitions, and we have numerous U.S. and foreign patents issued, allowed and pending. Our patents have expiration dates ranging from 2016 to about 2035, and none of the patents that expire in the near future materially affect our business. Our policy is to protect our products and processes by asserting our IP rights where appropriate and prudent and by obtaining patents, copyrights and other IP rights used in connection with our business when practicable and appropriate. 
+
+Seasonality 
+
+Historically, our revenues have been affected by the cyclical nature of the semiconductor industry and the seasonal trends of related end-markets consisting of a stronger second half of the year for certain end-markets as compared to the first half of the year. We have, in the past, experienced substantial quarter-to-quarter fluctuations in revenues and operating results and, in the future, could continue to experience period-to-period fluctuations in operating results due to general industry or economic conditions or for other reasons. 
+
+Backlog 
+
+Our trade sales are made primarily pursuant to orders that are predominantly booked as far as 26 weeks in advance of delivery. Generally, prices and quantities are fixed at the time of booking. Backlog as of a given date consists of existing orders and forecasted demand from our Electronic Data Interface customers, in each case scheduled to be shipped over the 13-week period following such date. Backlog is influenced by several factors, including market demand, pricing and customer order patterns in reaction to product lead times. For those shipments to distributors who are allowed sales return rights and allowances, we record revenues on a &#147;sell-through&#148; basis. Thus, backlog comprised of orders from these distributors will not result in revenues until these distributors sell the products ordered. During 2015, our backlog at the beginning of each quarter represented between 80% and 85% of actual revenues during such quarter, which is consistent with backlog levels in recent prior periods. As manufacturing capacity utilization in the industry increases, customers tend to order products further in advance and, as a result, backlog at the beginning of a period as a percentage of revenues during such period is likely to increase. 
+
+In the semiconductor industry, backlog quantities and shipment schedules under outstanding purchase orders are frequently revised to reflect changes in customer needs. Agreements calling for the sale of specific quantities are either contractually subject to quantity revisions or, as a matter of industry practice, are often not enforced. Therefore, a significant portion of our order backlog may be cancelable. For these reasons, the amount of backlog as of any particular date may not be an accurate indicator of future results. 
+
+We sell products to key customers pursuant to contracts that allow us to schedule production capacity in advance and allow the customers to manage their inventory levels consistent with just-in-time principles while shortening the cycle times required for producing ordered products. However, these contracts are typically amended to reflect changes in customer demands and periodic price renegotiations. 
+
+Competition 
+
+The semiconductor industry, particularly the market for general-purpose semiconductor products like ours, is highly competitive. We face significant competition within each of our product lines from major international semiconductor companies, as well as smaller companies focused on specific market niches. Because our 
+
+&#160;
+
+components are often building block semiconductors that, in some cases, can be integrated into more complex ICs, we also face competition from manufacturers of ICs, ASICs and fully-customized ICs, as well as customers who develop their own IC products. See Part I, Item 1A &#147;Risk Factors - Trends, Risks and Uncertainties Related to Our Business&#148; located elsewhere in this report for additional information. 
+
+In comparison, several competitors noted below are larger in scale and size, have substantially greater financial and other resources with which to pursue development, engineering, manufacturing, marketing and distribution of their products and may generally be better situated to withstand adverse economic or market conditions. The following discusses the effects of competition on our four operating segments: 
+
+Application Products Group 
+
+The principal methods of competition in the Application Products Group are with other custom semiconductor vendors based on design experience, manufacturing capability, depth and quality of IP, ability to service customer needs from the design phase to the shipping of a completed product, length of design cycle, longevity of technology support and experience of sales and technical support personnel. 
+
+Our ability to compete successfully depends on internal and external variables, both inside and outside of our control. These variables include, but are not limited to, the timeliness with which we can develop new products and technologies, product performance and quality, manufacturing yields and availability, customer service, pricing, industry trends and general economic trends. Select competitors for certain of our products and solutions include: NXP Semiconductors N.V.; Infineon Technologies AG; Intersil Corporation; Maxim Integrated Products, Inc.; Melexis N.V.; STMicroelectronics N.V.; Texas Instruments Inc.; and Silicon Labs. 
+
+Image Sensor Group 
+
+The Image Sensor Group differentiates itself from the competition by leveraging deep technical knowledge and close customer relationships to drive the most compelling imaging experience for end users. The Image Sensor Group has over four decades of CCD imaging experience and was the first to commercialize CMOS active pixel sensors. The Image Sensor Group was the first to introduce CMOS technology into many of our markets, leveraging this expertise into market leading positions in automotive and industrial applications, bringing a wealth of technical and end-user applications knowledge to help customers develop innovative imaging solutions across a broad range of end-user needs. Select competitors for certain of our products and solutions include: Sony Semiconductor; Samsung; Omnivision; STMicroelectronics N.V.; and Toshiba. 
+
+Standard Products Group 
+
+The Standard Products Group&#146;s competitive strengths are in our market leading protection and filtering products, the breadth of our portfolio, technical performance, micro-packaging expertise, our high quality, low cost structure, and supply chain management which ensures supply to key customers. In addition, our strengths include our strong IP portfolio and our ability to leverage IP blocks across the Company to develop high value-added ASSPs. 
+
+The principal methods of competing in our discrete semiconductor products are through new product and package innovations with enhanced performance over existing products. Of particular importance is our ESD portfolio for hi-speed serial interface protection products where we believe we enjoy significant performance advantages over our competition, as well as, power switching and rectification products. Select competitors for 
+
+&#160;
+
+certain of our products include: Diodes Incorporated; Infineon Technologies AG; KEC Corporation; NXP B.V.; Rohm Co., Ltd.; Semtech Corporation; STMicroelectronics N.V.; Fairchild; and Vishay Intertechnology, Inc. 
+
+System Solutions Group 
+
+The principal methods of competition for the System Solutions Group are technical performance, quality, service and price. Our competitive strengths are strong technology and design capability, breadth of product portfolio, systems design expertise and long-standing supply relationships with leading OEM customers. Select competitors for certain of our products include: Infineon Technologies AG; Mitsubishi Electric; NXP B.V.; Renesas Electronics Corporation; Rohm Co. Ltd.; Sanken Electric; STMicroelectronics N.V.; Texas Instruments Incorporated; Fairchild; and Toshiba Corporation. 
+
+Research and Development 
+
+Company-sponsored research and development costs in 2015, 2014 and 2013 were $396.7 million (11% of revenue), $366.6 million (12% of revenue) and $334.2 million (12% of revenue), respectively. We seek to maximize the investment of our people and capital in research and development by targeting innovative products and solutions for high growth applications that position the company to outperform the industry. Our design expertise in analog, digital, mixed signal and imaging ICs, combined with our extensive portfolio of standard products enable the company to offer comprehensive, value added solutions to our global customers for their electronics systems. 
+
+Government Regulation 
+
+Our manufacturing operations are subject to environmental and worker health and safety laws and regulations. These laws and regulations include those relating to emissions and discharges into the air and water, the management and disposal of hazardous substances, the release of hazardous substances into the environment at or from our facilities and at other sites, and the investigation and remediation of contamination. 
+
+Our headquarters in Phoenix, Arizona is located on property that is a &#147;Superfund&#148; site, a property listed on the National Priorities List and subject to clean-up activities under the Comprehensive Environmental Response, Compensation, and Liability Act. Motorola and now Freescale have been actively involved in the cleanup of on-site solvent contaminated soil and groundwater and off-site contaminated groundwater pursuant to consent decrees with the State of Arizona. As part of our separation from Motorola in 1999, Motorola retained responsibility for this contamination, and Motorola and Freescale (which became a wholly-owned subsidiary of NXP Semiconductors N.V. on December 7, 2015) have agreed to indemnify us with respect to remediation costs and other costs or liabilities related to this matter. 
+
+Our former manufacturing location in Aizu, Japan is located on property where soil and ground water contamination has been detected. We believe that the contamination originally occurred during a time when the facility was operated by a prior owner. We have been working with local authorities to implement remediation actions and expect all remaining remediation costs to be covered by insurance. Based on information available, any net costs to us in connection with this matter are not expected to be material. 
+
+Our manufacturing facility in the Czech Republic has ongoing remediation projects to respond to releases of hazardous substances that occurred during the years that this facility was operated by government-owned entities. The remediation projects consist primarily of monitoring groundwater wells located on-site and off-site, with 
+
+&#160;
+
+additional action plans developed to respond in the event activity levels are exceeded. The government of the Czech Republic has agreed to indemnify us and the respective subsidiaries, subject to specified limitations, for remediation costs associated with this historical contamination. Based upon the information available, we do not believe that total future remediation costs to us will be material. 
+
+Our design center in East Greenwich, Rhode Island is located on property that has localized soil contamination. When we purchased the East Greenwich facility, we entered into a Settlement Agreement and Covenant Not To Sue with the State of Rhode Island. This agreement requires that remedial actions be undertaken and a quarterly groundwater monitoring program be initiated by the former owners of the property. Based on the information available, we do not believe that any costs to us in connection with this matter will be material. 
+
+As a result of the acquisition of AMIS in 2008, we are a &#147;primary responsible party&#148; to an environmental remediation and cleanup at AMIS&#146;s former corporate headquarters in Santa Clara, California. Costs incurred by AMIS include implementation of the clean-up plan, operations and maintenance of remediation systems and other project management costs. However, AMIS&#146;s former parent company, a subsidiary of Nippon Mining, contractually agreed to indemnify AMIS and us for any obligations relating to environmental remediation and clean-up at this location. Based on the information available, we do not believe that any future costs to us in connection with this matter will be material. 
+
+We were notified by the Environmental Protection Agency (&#147;EPA&#148;) that we have been identified as a &#147;potentially responsible party&#148; (&#147;PRP&#148;) in the Chemetco Superfund matter. Chemetco is a defunct reclamation services supplier who operated in Illinois at what is now a Superfund site. We used Chemetco for reclamation services. The EPA is pursuing Chemetco customers for contribution to the site cleanup activities. We have joined a PRP group which is cooperating with the EPA in the evaluation and funding of the cleanup. Based on the information available, any costs to us in connection with this matter have not been, and are not expected to be, material. 
+
+We believe that our operations are in material compliance with applicable environmental and health and safety laws and regulations. We do not expect the cost of compliance with existing environmental and health and safety laws and regulations, and liability for currently known environmental conditions, to have a material adverse effect on our business or prospects. It is possible, however, that future developments, including changes in laws and regulations, government policies, customer specification, personnel and physical property conditions, including currently undiscovered contamination, could lead to material costs. See Note 12: &#147;Commitments and Contingencies&#148; of the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for information on certain environmental matters. 
+
+Employees 
+
+As of December 31, 2015, we had approximately 24,500 employees worldwide, of which approximately 3,200 employees were in the United States. None of our employees in the United States are covered by collective bargaining agreements. Certain of our foreign employees are covered by collective bargaining arrangements (e.g., those in Japan and Belgium) or similar arrangements or are represented by workers councils. For information regarding employee risk associated with our international operations, see Part I, Item 1A &#147;Risk Factors - Trends, Risks and Uncertainties Related to Our Business&#148; elsewhere in this report. Of the total number of our employees as of December 31, 2015, approximately 20,300 were engaged in manufacturing, approximately 1,200 were engaged in our sales and marketing organization, which includes customer service, approximately 800 were engaged in administration and approximately 2,200 were engaged in research and development. 
+
+&#160;
+
+Executive Officers of the Registrant 
+
+Certain information concerning our executive officers as of February 17, 2016 is set forth below. 
+
+&#160;
+
+Name 
+
+&#160; Age 
+
+&#160; Position 
+
+Keith D. Jackson &#160; 60 &#160; President, Chief Executive Officer and Director* Bernard Gutmann &#160; 56 &#160; Executive Vice President, Chief Financial Officer and Treasurer* George H. Cave &#160; 58 &#160; Executive Vice President, General Counsel, Chief Compliance &#38; Ethics Officer, Chief Risk Officer and Corporate Secretary* William M. Hall &#160; 60 &#160; Executive Vice President and General Manager, Standard Products Group* Robert A. Klosterboer &#160; 55 &#160; Executive Vice President and General Manager, Application Products Group* Mamoon Rashid &#160; 56 &#160; Senior Vice President and General Manager, System Solutions Group* Taner Ozcelik &#160; 48 &#160; Senior Vice President and General Manager, Image Sensor Group* Paul E. Rolls &#160; 53 &#160; Executive Vice President, Sales and Marketing* William A. Schromm &#160; 57 &#160; Executive Vice President and Chief Operating Officer* * Executive Officers of both ON Semiconductor and SCI LLC. 
+
+The present term of office for the officers named above will generally expire on the earliest of their retirement, resignation or removal. There is no family relationship among such officers. 
+
+Keith D. Jackson . Mr. Jackson was elected as a Director of ON Semiconductor and appointed as President and Chief Executive Officer of ON Semiconductor and SCI LLC in November 2002. Mr. Jackson has more than 30 years of semiconductor industry experience. Before joining ON Semiconductor, he was with Fairchild, serving as Executive Vice President and General Manager, Analog, Mixed Signal, and Configurable Products Groups, beginning in 1998, and, more recently, was head of its Integrated Circuits Group. From 1996 to 1998, he served as President and a member of the board of directors of Tritech Microelectronics in Singapore, a manufacturer of analog and mixed signal products. From 1986 to 1996, Mr. Jackson worked for National Semiconductor Corporation, most recently as Vice President and General Manager of the Analog and Mixed Signal division. He also held various positions at Texas Instruments Incorporated, including engineering and management positions, from 1973 to 1986. Mr. Jackson joined the board of directors of Veeco Instruments, Inc. in February 2012 and has served on the board of directors of the Semiconductor Industry Association since 2008. In February of 2014, Mr. Jackson became a National Association of Corporate Directors Board Leadership Fellow, the highest level of credentialing for corporate directors and corporate governance professionals. 
+
+Bernard Gutmann . Mr. Gutmann was promoted and appointed Executive Vice President and Chief Financial Officer of ON Semiconductor and SCI LLC in September 2012 and has served as ON Semiconductor&#146;s and SCI LLC&#146;s Treasurer since January 2013. Before his promotion, he worked with the corporation as Vice President, Corporate Analysis &#38; Strategy of SCI LLC, serving in that position from April 2006 to September 2012. In these roles, his responsibilities have included finance integration, financial reporting, restructuring, tax, treasury, and financial planning and analysis. From November 2002 to April 2006, Mr. Gutmann served as Vice President, Financial Planning &#38; Analysis and Treasury of SCI LLC. From September 1999 to November 2002, he held the position of Director, Financial Planning &#38; Analysis of SCI LLC. Prior to joining ON Semiconductor, Mr. Gutmann served in various financial positions with Motorola from 1982 to 1999, including controller of various divisions and an off-shore wafer and backend factory, finance and accounting manager, financial planning manager and financial analyst. He holds a Bachelor of Science in Management Engineering from Worcester Polytechnic Institute in Massachusetts (U.S.). Additionally, he is fluent in English, French, Spanish, and conversant in German. 
+
+&#160;
+
+George H. &#147;Sonny&#148; Cave . Mr. Cave is the founding General Counsel and Corporate Secretary at ON Semiconductor since the 1999 spin-out from Motorola Inc. He is also Executive Vice President, Chief Compliance &#38; Ethics Officer and Chief Risk Officer. His extensive legal and business experience spans over 30 years, including seven years with Motorola. For two years prior to ON Semiconductor&#146;s spin-out, he was an ex patriate stationed in Geneva, Switzerland as Regulatory Affairs Director for Motorola&#146;s Semiconductor Components Group. Before that assignment, he spent five years with Motorola&#146;s Corporate Law Department in Phoenix, Arizona where he was Senior Counsel for global Environmental Health and Safety. Mr. Cave also practiced law for six years with two large firms in Denver and Phoenix. He has extensive experience in corporate law, governance, enterprise risk management and compliance and ethics. He holds a Juris Doctorate Degree from the University of Colorado School of Law (1985), a Master of Science Degree from Arizona State University (1982) and a Bachelor of Science Degree cum laude from Duke University (1979). 
+
+William M. Hall . Mr. Hall joined the Company in May 2006 and is currently the Executive Vice President and General Manager of the Standard Products Group of ON Semiconductor and SCI LLC. During his career, Mr. Hall has held various marketing and product line management positions. Before joining the Company, he served as Vice President and General Manager of the Standard Products Group at Fairchild. Between March 1997 and May 2006, Mr. Hall served at different times as Vice President of Business Development, Analog Products Group, Standard Products Group, and Interface and Logic Group, as well as serving as Vice President of Corporate Marketing at Fairchild. He has also held management positions with National Semiconductor Corp. and was a RADAR design engineer with RCA. 
+
+Robert A. Klosterboer . Mr. Klosterboer joined the Company in March 2008 and currently serves as Executive Vice President and General Manager of the Application Products Group for ON Semiconductor and SCI LLC. From March 2008 to September 2012, he was Senior Vice President and General Manager of the business unit then known as the Automotive, Industrial, Medical, &#38; Mil/Aero Group. He has more than three decades of experience in the electronics industry. During his career, Mr. Klosterboer has held various engineering, marketing and product line management positions and responsibilities. Prior to joining ON Semiconductor in 2008, Mr. Klosterboer was Senior Vice President, Automotive &#38; Industrial Group for AMI Semiconductor, Inc. Mr. Klosterboer joined AMIS in 1982 as a test engineer, and during his tenure there, he also was a design engineer, field applications engineer, design section manager, program development manager, and product marketing manager. Mr. Klosterboer holds a Bachelor&#146;s degree in electrical engineering technology from Montana State University. 
+
+Mamoon Rashid . Mr. Rashid has over 30 years of experience in the semiconductor and electronics industry spanning marketing, manufacturing, sales and product line management positions. In January 2013, Mr. Rashid was appointed as Senior Vice President and General Manager, SANYO Semiconductor Group (now known as the System Solutions Group) for ON Semiconductor and SCI LLC. Prior to his promotion, Mr. Rashid held the position of Vice President of strategic business development, during which time he led the integration and restructuring of SANYO Semiconductor. Mr. Rashid joined ON Semiconductor in October 2004 and has held several leadership positions during his time with us. Prior to September 2008, Mr. Rashid served as Vice President and General Manager of our discrete products division, where he improved the growth and profitability of the business by entering several new product areas. From September 2008 to 2010, Mr. Rashid led our global supply chain organization as Vice President and General Manager during a transformational period for the Company. In these positions, he has supported the growth of ON Semiconductor into a multi-technology leading supplier of power solutions and helped improve profitability, efficiency and new product successes. Prior to joining ON Semiconductor, Mr. Rashid held leadership positions at market leading companies such as Intersil, Semtech and General Semiconductor. 
+
+&#160;
+
+Taner Ozcelik . Mr. Ozcelik joined ON Semiconductor in August 2014 as the Senior Vice President of the Aptina Imaging Business and on February 20, 2015, he was named the Senior Vice President and General Manager of the Image Sensor Group of ON Semiconductor and SCI LLC. Mr Ozcelik has served at the intersection of semiconductors, consumer electronics, computing and automotive industries for more than two decades. Most recently, he served as Senior Vice President of Aptina&#146;s Automotive and Embedded business. Prior to this, Mr. Ozcelik was Vice President and General Manager of NVIDIA&#146;s automotive business. While at NVIDIA, he developed several award winning firsts in automotive, which spanned a variety of applications including infotainment systems, digital instrument clusters, automotive tablets and advanced driver assistance systems, which are now featured in cars worldwide. During his career, Mr. Ozcelik has also held positions as President and CEO at MobileSmarts and as Vice President and General Manager at Sony Semiconductor for its Digital Home Platform Division. Mr. Ozcelik holds an MBA from the Wharton School of the University of Pennsylvania, a PhD in Electrical Engineering from Northwestern University, and a BS in Electrical Engineering from Bogazici University, Turkey. He is listed as an inventor on 23 U.S. patents. 
+
+Paul E. Rolls . Mr. Rolls was promoted and appointed Executive Vice President, Sales and Marketing of ON Semiconductor and SCI LLC in July 2013. Before his promotion, he served as Senior Vice President, Japan Sales and Marketing and Senior Vice President of Global Sales Operations, serving in that position from October 2012 to July 2013. Mr. Rolls has more than 26 years of technology sales, sales management and operations experience, with more than 19 years of sales and sales management experience in the semiconductor industry. Before joining the Company, Mr. Rolls was the Senior Vice President, Worldwide Sales and Marketing at Integrated Device Technology, Inc. from January 2010 to April 2012. From August 1996 to December 2009, he held multiple sales positions at International Rectifier Corp., most recently as Senior Vice President, Global Sales. During his career, he has also held management roles at Compaq Computer Corporation. 
+
+William A. Schromm Mr. Schromm has more than 30 years of semiconductor industry experience, has been with the Company since August 1999 and has served as Executive Vice President and Chief Operating Officer of ON Semiconductor and SCI LLC since August 2014. Prior to becoming Chief Operating Officer, he was a Senior Vice President responsible for quality, external manufacturing, System Solutions Group manufacturing, global supply chain, information technology, corporate program management. Prior to this role, Mr. Schromm served as Senior Vice President and General Manager of the Company&#146;s former Computing and Consumer Products Group from June 2006 through September 2012. During his tenure with the Company, he has held various positions. From August 2004 through May 2006, he served as the Vice President and General Manager of the Company&#146;s former High Performance Analog Division and also led the Company&#146;s former Analog Products Group. Beginning in January 2003, he served as Vice President of the Clock and Data Management business and continued in that role with additional product responsibilities when this business became the High Performance Analog Division in August 2004. Prior to that, he served as the Vice President of Tactical Marketing from July 2001 through December 2002, after leading the Company&#146;s Standard Logic Division since August 1999. Since April 2015, Mr. Schromm has served on the board of directors of II-VI, Inc. Mr. Schromm earned a BS degree from Boston College and an MBA from the University of Phoenix. 
+
+Geographical Information 
+
+For certain geographic operating information, see Note 15: &#147;Income Taxes&#148; and Note 18: &#147;Segment Information&#148; of the notes to our audited consolidated financial statements and Part II, Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations,&#148; in each case, as included elsewhere in this report. For information regarding other aspects of risks associated with our foreign operations, see Part I, Item 1A &#147;Risk Factors - Trends, Risks and Uncertainties Related to Our Business&#148; elsewhere in this report. 
+
+&#160;
+
+Available Information 
+
+We make our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports available, free of charge, in the &#147;Investor Relations&#148; section of our Internet website as soon as reasonably practicable after we electronically file these materials with, or furnish these materials to, the Securities and Exchange Commission (the &#147;SEC&#148;). Our website is www.onsemi.com . 
+
+You may also read or copy any materials that we file with the SEC at its Public Reference Room at 100 F. Street, N.E., Washington, DC 20549. You may obtain additional information about the Public Reference Room by calling the SEC at 1-800-SEC-0330. Additionally, you will find these materials on the SEC Internet site at http://www.sec.gov that contains reports, proxy statements and other information regarding issuers that file electronically with the SEC. 
+

@@ -1,0 +1,410 @@
+ ITEM 1. BUSINESS &#160; 
+
+Neonode Inc. (collectively with its subsidiaries, is referred to in this Annual Report as &#8220;Neonode&#8221;, &#8220;we&#8221;, &#8220;us&#8221;, &#8220;our&#8221;, &#8220;registrant&#8221;, or &#8220;Company&#8221;) develops and licenses user interfaces and optical interactive touch solutions. Our patented technology offers multiple features including the ability to sense an object&#8217;s size, depth, velocity, pressure, and proximity to any type of surface. We license our multi-touch technology to Original Equipment Manufacturers (&#8220;OEMs&#8221;) and Original Design Manufacturers (&#8220;ODMs&#8221;) who incorporate it into devices that they develop, manufacture and sell. In addition, in 2016, we expect to begin manufacturing and selling touch modules to OEMs, distributors and directly to end users. 
+
+&#160; 
+
+Our Company 
+
+&#160; 
+
+Neonode Inc., formerly known as SBE, Inc., was incorporated in the State of Delaware on September 4, 1997. SBE&#8217;s name was changed to Neonode Inc. upon the completion of a merger on August 10, 2007 between SBE and the parent company of Neonode AB, a company founded in February 2004 and incorporated in Sweden. As a result of the merger, the business and operations of Neonode AB became the primary business and operations of Neonode Inc. Our principal executive office is located in Stockholm, Sweden. Our office in the United States is located in San Jose, California. 
+
+&#160; 
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+In 2008, we established a wholly owned subsidiary Neonode Technologies AB (Sweden) to develop and license touchscreen technology. In 2013, we established additional wholly owned subsidiaries: Neonode Japan Inc., (Japan); Neno User Interface Solutions AB (Sweden); NEON Technology Inc. (U.S.); and Neonode Americas Inc. (U.S.). In 2014, we established one additional wholly owned subsidiary: Neonode Korea Ltd. (South Korea). In 2015, we established one additional wholly owned subsidiary: Neonode Taiwan Ltd (Taiwan). In 2015, we established a 51% majority owned consolidated subsidiary: Pronode Technologies AB (Sweden). 
+
+&#160; 
+
+Trademarks 
+
+&#160; 
+
+We use Neonode, our logo, zForce, MultiSensing, AirBar and other marks as trademarks. This Annual Report contains references to our trademarks and service marks and to those belonging to other entities. Solely for convenience, trademarks and trade names referred to in this Annual report, including logos, artwork and other visual displays, may appear without the &#174; or &#8482; symbols, but such references are not intended to indicate in any way that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. 
+
+&#160; 
+
+Our Touch Solution 
+
+&#160; 
+
+We develop and license user interface and touch technology. We also are developing, and intend to manufacture and sell, hardware solutions incorporating our interface and touch technology. 
+
+&#160; 
+
+We offer a patented family of optical touch solutions under the zForce and MultiSensing brands . Our optical touch technology is capable of projecting a full plane of light beams in free air or over any flat touch surface. Our technology can also send light into a fluid or a glass to achieve a flush design without a bezel. An object touching the touch surface obstructs a portion of the projected light beams. This small variance of signal is detected with sensitive light sensors connected to our touch controllers that process the analog signals and produce touch object coordinates. 
+
+&#160;
+
+Licensing Solutions 
+
+&#160; 
+
+As of December 31, 2015, we had forty technology license agreements with global OEMs and ODMs. Sixteen of our customers are currently shipping products and we anticipate other customers will initiate product shipments as they complete their final product development and release cycle throughout 2016 and onwards. In addition, we are currently developing prototype products and are engaged in product engineering design discussions with numerous global OEMs and ODMs who are in the process of qualifying our touch technology for incorporation in various products. The development and release cycle for these products typically takes six to thirty-six months. 
+
+&#160; 
+
+Consumers experience our technology in products such as laptop computers, all-in-one computers and stand-alone monitors running on Microsoft Windows and Google Chrome operating systems, printer products, GPS devices, e-readers, tablets, touch panels for automobiles, household appliances, mobile phones, wearable electronics, games and toys. In addition to traditional screens, our technology can make any surface &#8211; including water and air &#8211; touch functional. 
+
+&#160; 
+
+For OEMs and ODMs, our solution offers industrial design flexibility, low power consumption, and cost-effective manufacturing. OEMS and ODMs can incorporate our touch technology into a wide range of devices such as tablets and e-readers, printers, computers, mobile phones, wearables, toys and gaming consoles, and advanced automotive infotainment systems. 
+
+&#160; 
+
+We also offer engineering consulting services to our OEM and ODM customers on a flat rate or hourly rate basis. 
+
+&#160; 
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160; 
+
+Hardware Solutions 
+
+&#160; 
+
+In 2015, we announced the development of AirBar. Through a simple USB connection, the AirBar hardware module will enable touch functionality for non-touch PCs. The AirBar &#8220;Plug-and-Touch&#8221; solution is based on our zForce AIR sensing platform.
+
+&#160; 
+
+We expect to begin manufacturing and selling AirBar in 2016. Initially, we intend to offer AirBar for notebook PCs. We expect to market AirBar through consumer electronics retailers, online stores, and resellers to the education and enterprise customers. We have signed agreements with Ingram Micro to act as our direct customer and distribution channel. 
+
+&#160; 
+
+Beyond direct purchasers of AirBar, we anticipate demand from PC OEMs to bundle AirBar with their non-touch notebooks to add greater value and functionality to their low to mid-end notebooks. 
+
+&#160; 
+
+Touch Technologies 
+
+&#160; 
+
+Background 
+
+&#160; 
+
+There are various technologies for touchscreen and touch-enabled surfaces available in the market with differing profiles, power consumption, level of maturity, and cost: 
+
+&#160; 
+
+&#160; &#9679; Optical touch technology uses light beams that are broken, reflected by a finger or other non-conductive object to detect a touch. 
+
+&#160; &#9679; Capacitive touchscreens typically use one or several layers of transparent conductive material typically indium tin oxide applied to the inner structure of the LCD or on a glass or plastic layer in front on the LCD to sense touch activation. 
+
+&#160; &#9679; Resistive touchscreens use conductive and resistive layers separated by thin space. 
+
+&#160; &#9679; Acoustic pulse recognition touch technology uses piezoelectric transducers located at positions of the screen to turn the mechanical energy of a touch vibration into an electronic signal. 
+
+&#160; &#9679; Surface acoustic wave touchscreens use ultrasonic waves that pass over the screen. 
+
+&#160; &#9679; In-cell optical touch technology embeds photo sensors or conductive sensors directly into a Liquid Crystal Display (&#8220;LCD&#8221;) glass to act like a low-resolution camera to &#8220;see&#8221; the shadow of the finger. 
+
+&#160; &#9679; Dispersive signal touch technology uses sensors to detect the mechanical energy in the glass occurring due to a touch. &#160; 
+
+The two dominant types of touchscreen technologies available are capacitive and resistive. A capacitive touchscreen reacts to a conductive object by sensing the difference in capacitance between two areas on the sensor surface or between the finger and the ground. Capacitive touchscreens are suitable if the user has unimpeded contact between the finger and the screen. A resistive touchscreen is pressure-sensitive. Resistive touchscreens are suitable for detailed work and for selection of particular spot on a screen. Resistive technology is not useful for sweeping gestures or motion, such as zooming in and out. 
+
+&#160; 
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+Optical Touch Advantages 
+
+&#160; 
+
+Our optical technology projects light across the touch surface or detection area without any need for an extra physical layer to be added. It can be used with thick gloves or any other object. Our optical touch technology also can be fully waterproofed and will provide touch functionality even when fully submerged. In addition to traditional touch interaction on the screen, our optional touch technology can be used in the free space around the screen or product using proximity sensing. 
+
+&#160; 
+
+We believe our optical touch technology has a number of key advantages over other touch screen technologies: 
+
+&#160; 
+
+&#160; &#9679; Our optical technology does not require additional layers that may dilute the image quality of the display or cause unwanted reflections and glare making reading the display difficult; &#160; &#9679; Our optical technology is more responsive than capacitive sensor technology and, as a result, is quicker and less prone to misread; &#160; &#9679; Our optical technology requires no downward pressure on the touch surface in order to select or move items on the touch surface in stark contrast to resistive touch screens; &#160; &#9679; Our optical technology is cost-efficient due to the lower cost of materials and simple and high yield manufacturing process; &#160; &#9679; Our optical technology enables multiple methods of input, such as continuous tracking of multiple fingers, taps to hit keys, sweeps to zoom in or out, and gestures to write text or symbols directly on the touch surface; &#160; &#9679; Our optical technology works in all climates and environments and does not require any special properties from the object used; and &#160; &#9679; Our optical technology does not require any black space or borders on the sides of the display and can therefore enable a slimmer design around a display leading to smaller and better looking devices. &#160; 
+
+Unlike competing technologies, our optical touch screen technology does not require glass. The removal of the glass reduces glare, enhances image clarity, optimizes power consumption, lightens weight, and lowers cost. In contrast, other touch technologies such as capacitive and resistive require a physical touch sensor layer, typically covering the display, in order to detect touches. Layering technology required to activate the capacitive and resistive sensors can be very costly. Glass or plastic layers used in capacitive touch may also increase the friction of the touch surface giving a less enjoyable feel. 
+
+&#160; 
+
+Our Market 
+
+&#160; 
+
+Automotive 
+
+&#160; 
+
+Touch interface displays are becoming standard equipment in vehicles. Display sizes are increasing and curved displays are appearing on the market. Our touch technology is able to support size and shape in a cost-effective manner. We develop our touch technology to meet stringent operating requirements for automotive environments, including electrical, temperature, moisture and vibration standards. Unlike competing technologies such as resistive and projected capacitive, our optical touch solutions does not require an additional layer to be placed in front of the screen which otherwise would reduce the readability of the screen and causes glare and reflections. We believe our technology delivers the highest performance and the highest reliability in the market. 
+
+&#160; 
+
+In 2015, our ten automotive OEM customers had a total of twenty automobile models in the market. The majority of these are in China and include SUVs (Boojun 560 and Haval H6 ) and the two top-selling sedans (Chevrolet Cruize and Buick Excelle). In the fourth quarter of 2014, Volvo launched their new XC90 incorporating a 9.7 inch display using our touch technology. In the fourth quarter of 2014, the new MG GT was launched also using our technology. 
+
+&#160;
+
+We believe that our optical touch solutions are positioned to make further inroads in the global automotive market by providing brighter, more readable displays, with a full operating temperature range that are easily usable while wearing gloves. The Volvo XC90 and S90 infotainment systems have received awards citing properties such as responsiveness and gloved operation. These properties are based upon our zForce touch technology. 
+
+&#160; 
+
+In addition to infotainment displays, our zForce AIR technology is adaptable to other automobile components: 
+
+&#160; 
+
+&#9679; our zForce DRIVE technology enables high fidelity detection of hands and fingers positions on the steering wheel. This helps create a safer and more natural interaction with the automobile&#8217;s systems and the driver&#8217;s smart phone to decrease driver distraction. In 2015, we entered into an agreement with Autoliv Development AB, a leading supplier of safety products for the automotive industry, to explore and industrialize our zForce technology for the steering wheel. 
+
+&#9679; our zForce AIR technology is being deployed in door handles and other exterior parts of the automobile to enable keyless entry and automation of door functions. We estimate that the first systems will be available in early 2017. &#160; 
+
+We currently are engaged with several global automotive OEMs and their tier one suppliers developing automotive Human Machine Interface (&#8220;HMI&#8221;) infotainment and entry systems. These projects typically have long development cycles that can take as long as four to five years before any meaningful production and license fee generation will occur. 
+
+&#160; 
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160; 
+
+Printers and Office Equipment 
+
+&#160; 
+
+Photo printers and printers combining printer/scanner/fax functions typically require feature-rich menus and settings to deliver the best user experience, and printer OEMs are increasingly replacing mechanical buttons with interactive displays. We have signed agreements with five of the leading global printers and office equipment OEMs including Hewlett Packard (&#8220;HP&#8221;) and Samsung. HP started shipping the first consumer printer with our touch technology integrated in early 2014 and today the majority of their printer models with interactive displays are using our technology. Lexmark released seven new models of next generation color printers with a touch interface in January 2016. Samsung and two other customers are currently finalizing their development phase and are expected to have printers and office equipment ready for retail rollouts throughout 2016 and 2017. 
+
+&#160; 
+
+E-Readers and Tablets 
+
+&#160; 
+
+Our touch technology is widely used in e-readers and tablets. Since 2011, over 23 million e-reader and tablet units have been shipped containing our touch technology by customers such as Amazon, Kobo, Deutsche Telekom, Barnes &#38; Noble and Sony. Sony is currently shipping a 13.3 inch writing tablet named &#8220;Digital Paper&#8221; that integrates our technology. Customers such as LeapFrog Enterprises and LG are shipping tablets with our technology. 
+
+&#160; 
+
+Computers and Monitors 
+
+&#160; 
+
+Our touch technology is suitable for laptops, all-in-one computers and stand-alone monitors. Our technology provides for a state of the art modern looking industrial design with no bezels and a flush edge to edge design optimized for the new generation of LCD panels with only a few millimeters of black frame. Because it does not require any expensive and brittle glass in front of the LCD to carry the touch sensors, our touch solution can result in more reduction in the cost to implement touch functionality, and in a glare free product with less weight and more usage time on the same battery. In addition, our technology scales over different display sizes and can handle curved displays as well as large transparent displays. We have technology license agreements and are in product design phase with tier one computer and monitor OEMs that we expect will begin shipping products in 2016. We are also in the process of attaining Microsoft Windows 10 certification on top of our already received Windows 8.1 certification. 
+
+&#160; 
+
+Distribution, Sales and Marketing 
+
+&#160; 
+
+In our licensing business, we consider OEMs and ODMs to be our primary customers. OEMs and ODMs determine the design requirements and make the overall decision regarding the use of our user interface and touch technology in their products. The use and pricing of our user interface and touch technology are governed by a technology licensing agreement. 
+
+&#160; 
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160; 
+
+Our sales staff solicits prospective customers and receives substantial technical assistance and support from our internal engineering resources because of the highly technical nature of our product solutions. We expect that sales will frequently result from our sales efforts that involve executive/senior management, design engineers, and our sales personnel interacting with our potential customers&#8217; decision-makers throughout the product development and order process. 
+
+&#160; 
+
+Our sales are normally negotiated and executed in U.S. Dollars. 
+
+&#160; 
+
+Our sales force and marketing operations are managed out of our office in Stockholm, Sweden. Our current sales force is comprised of sales offices located in the U.S., Sweden, South Korea, Japan and Taiwan. 
+
+&#160; 
+
+We intend initially to produce AirBar through partners in Sweden in a highly automated manufacturing process. From this production facility we will ship to distributors such Ingram Micro in various global locations. Ingram Micro will fulfill retailer, online stores, and reseller customer orders. Ingram Micro also will be the fulfillment partner for all online sales which take place through www.air.bar.
+
+&#160; 
+
+Controller Chips 
+
+&#160; 
+
+Under our licensing model, our OEM and ODM customers may use customized single optical controller chips developed in collaboration with Texas Instruments or STMicroelectronics designed specifically for our optical touch technology. These controller chips can only be sold to customers who have a technology license agreement with Neonode.
+
+&#160; 
+
+The NN1001, the first generation optical controller chip, was developed pursuant to an Analog Device Development Agreement between Neonode and Texas Instruments entered into on February 4, 2011 and effective as of January 24, 2010. The NN1001 began shipping to customers in May 2012. 
+
+&#160; 
+
+The NN1002, the second generation optical controller chip, was developed pursuant to an Analog Device Development Agreement between Neonode and Texas Instruments entered into on April 25, 2013 effective December 6, 2012. The NN1002 began sampling to customers in May 2014. 
+
+&#160; 
+
+The NN1003 is the third generation controller chip and is currently in development with STMicroelectronics. The NN1003 is designed for large screen applications.
+
+&#160; 
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160; 
+
+The NN1001, NN1002, and NN1003 controller chips are designed to simplify integration, reduce cost, and increase performance. 
+
+&#160;
+
+&#160; &#9679; The NN1001 and NN1002 have scanning speeds of 1000 Hz (latency down to 1ms). &#160; &#9679; The NN1002 is designed to support advanced power management and enables touch detection even when the device is in sleep or off mode. &#160; &#9679; The NN1002 is designed to consume less than 1mW at 100Hz. &#160; &#9679; The NN1002 and NN1003 are designed to be synchronized to touch enabled larger areas by using multiple chips. &#160; &#9679; The NN1002 and NN1003 are designed to support simultaneous scanning leading to significantly higher scanning speeds and reduced power consumption. &#160; 
+
+Technology License Agreements 
+
+&#160; 
+
+As of December 31, 2015, we have entered into forty technology license agreements compared to thirty-five and thirty-three license agreements as of December 31, 2014 and 2013, respectively. The products related to these license agreements include e-readers, tablets, mobile phones, commercial and consumer printers, automotive consoles, home appliances, toys and games and GPS devices. 
+
+&#160; 
+
+We are dependent on a limited number of OEM and ODM customers and the loss of any one of these customers could have a material adverse effect on our future revenue stream. In the short term, we anticipate that we remain dependent on a limited number of customers for substantially all of our future license revenues. Failure to anticipate or respond adequately to technological developments in our industry, changes in customer or supplier requirements or changes in regulatory requirements or industry standards, or any significant delays in the development or introduction of products or services could have a material adverse effect on our business, operating results and cash flows.
+
+&#160; 
+
+Our customers are located in the United States of America (&#8220;U.S.&#8221;), Europe and Asia. 
+
+&#160; 
+
+As of December 31, 2015 three customers represented approximately 78% of our consolidated accounts receivable.
+
+&#160;
+
+As of December 31, 2014 three customers represented approximately 87% of our consolidated accounts receivable.
+
+&#160; 
+
+Our net revenues for the year ended December 31, 2015 were earned from thirty-five customers. Customers who accounted for 10% or more of our net revenues during the year ended December 31, 2015 are as follows. 
+
+&#160; 
+
+&#160; &#9679; Hewlett-Packard Company &#8211; 25% &#160; &#9679; Autoliv &#8211; 21% &#160; &#9679; Amazon &#8211; 14% &#160; 
+
+Our net revenues for the year ended December 31, 2014 were earned from thirty-two customers. Customers who accounted for 10% or more of our net revenues during the year ended December 31, 2014 are as follows. 
+
+&#160; 
+
+&#160; &#9679; Hewlett-Packard Company &#8211; 24% &#160; &#9679; KOBO Inc. &#8211; 10% &#160; &#9679; Leap Frog Enterprises Inc. &#8211; 11% &#160; &#9679; Sony Corporation &#8211; 10% &#160; 
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160; 
+
+Our revenues for the year ended December 31, 2013 were earned from twenty-nine customers. Customers who accounted for 10% or more of our net revenues during the year ended December 31, 2013 are as follows. 
+
+&#160; 
+
+&#160; &#9679; KOBO Inc. &#8211; 28% &#160; &#9679; Netronix Inc. &#8211; 18% &#160; &#9679; Leap Frog Enterprises Inc. &#8211; 12% &#160; &#9679; Sony Corporation &#8211; 11% &#160; 
+
+Geographical Data 
+
+&#160; 
+
+The following table presents our net revenues by geographic region as a percentage of total revenues for the years ended December 31: 
+
+&#160; 
+
+&#160; &#160; 2015 &#160; &#160; 2014 &#160; &#160; 2013 &#160; U.S. &#160; &#160; 56 % &#160; &#160; 60 % &#160; &#160; 51 % Sweden &#160; &#160; 21 % &#160; &#160; 1 % &#160; &#160; 9 % Japan &#160; &#160; 8 % &#160; &#160; 11 % &#160; &#160; 12 % China &#160; &#160; 5 % &#160; &#160; 11 % &#160; &#160; 9 % Germany &#160; &#160; 4 % &#160; &#160; - &#160; &#160; &#160; - &#160; Taiwan &#160; &#160; 3 % &#160; &#160; 8 % &#160; &#160; 18 % South-Korea &#160; &#160; 1 % &#160; &#160; 4 % &#160; &#160; - &#160; Italy &#160; &#160; - &#160; &#160; &#160; 3 % &#160; &#160; - &#160; Other &#160; &#160; 2 % &#160; &#160; 2 % &#160; &#160; 1 % Total &#160; &#160; 100 % &#160; &#160; 100 % &#160; &#160; 100 % &#160; 
+
+The following table presents our total assets by geographic region for the years ended December 31 (in thousands): 
+
+&#160; 
+
+&#160; &#160; 2015 &#160; &#160; 2014 &#160; &#160; 2013 &#160; U.S. &#160; $ 4,341 &#160; &#160; $ 7,314 &#160; &#160; $ 10,280 &#160; Sweden &#160; &#160; 1,308 &#160; &#160; &#160; 1,231 &#160; &#160; &#160; 1,161 &#160; Asia &#160; &#160; 278 &#160; &#160; &#160; 57 &#160; &#160; &#160; 30 &#160; Total &#160; $ 5,927 &#160; &#160; $ 8,602 &#160; &#160; $ 11,471 &#160; &#160; 
+
+Competition 
+
+&#160; 
+
+The touch technologies market is intensely competitive and characterized by rapidly changing technology, evolving standards and new product releases by our competitors. Implementation of resistive touch technologies in consumer devices is exponentially declining due to limitations regarding sweep gestures, limitations on industrial design, and the negative impact on screen clarity due to film overlays. 
+
+&#160; 
+
+Neonode is one of few companies that offer optical touch technology. Our major competition is companies offering projected capacitive (&#8220;PCAP&#8221;) technologies. PCAP is a prevalent standard in mobiles and tablets offering finger based touch and industrial design flexibility. PCAP has many suppliers competing to offer the same solution with price being a major differentiation point. OEMs regularly change PCAP suppliers in order to maintain the best pricing. 
+
+&#160; 
+
+Our competitors, and the interface technology we believe they offer, include the following: 
+
+&#160; 
+
+&#160; Company &#160; Technology &#160; Synaptics &#160; Capacitive; In-cell &#160; ATMEL &#160; Capacitive; In-cell &#160; Cypress &#160; Capacitive; In-cell &#160; Maxim &#160; Capacitive; In-cell &#160; Tyco Electronics &#160; Capacitive; Resistive; Surface acoustic wave &#160; Touch International &#160; Resistive; Capacitive &#160; 
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160; 
+
+Intellectual Property 
+
+&#160; 
+
+We rely on a combination of intellectual property laws and contractual provisions to establish and protect the proprietary rights in our technology. The number of our issued and pending patents and patents filed in each jurisdiction as of December 31, 2015 is set forth in the following table: 
+
+&#160; 
+
+Jurisdiction &#160; No. of Issued Patents &#160; &#160; No. of Patents Pending &#160; United States &#160; &#160; 44 &#160; &#160; &#160; 38 &#160; Europe &#160; &#160; 3 &#160; &#160; &#160; 16 &#160; Japan &#160; &#160; 12 &#160; &#160; &#160; 7 &#160; China &#160; &#160; 5 &#160; &#160; &#160; 14 &#160; South Korea &#160; &#160; 8 &#160; &#160; &#160; 6 &#160; Canada &#160; &#160; 8 &#160; &#160; &#160; 8 &#160; Australia &#160; &#160; 13 &#160; &#160; &#160; 6 &#160; Singapore &#160; &#160; 13 &#160; &#160; &#160; 4 &#160; Patent Convention Treaty &#160; &#160; Not Applicable &#160; &#160; &#160; 2 &#160; Total: &#160; &#160; 106 &#160; &#160; &#160; 101 &#160; &#160; 
+
+Our patents cover six main categories: user interfaces, optics, controller integrated circuits, drivers, mechanics and applications. The following table groups our patents into these six categories: 
+
+&#160; 
+
+Patents &#160; UI &#160; &#160; Optics &#160; &#160; ASICs &#160; &#160; Drivers &#160; &#160; Mechanical &#160; &#160; Applications &#160; &#160; Total &#160; Issued &#160; &#160; 22 &#160; &#160; &#160; 37 &#160; &#160; &#160; 5 &#160; &#160; &#160; 10 &#160; &#160; &#160; 4 &#160; &#160; &#160; 28 &#160; &#160; &#160; 106 &#160; Pending &#160; &#160; 16 &#160; &#160; &#160; 52 &#160; &#160; &#160; 2 &#160; &#160; &#160; 5 &#160; &#160; &#160; 6 &#160; &#160; &#160; 20 &#160; &#160; &#160; 101 &#160; Total &#160; &#160; 38 &#160; &#160; &#160; 89 &#160; &#160; &#160; 7 &#160; &#160; &#160; 15 &#160; &#160; &#160; 10 &#160; &#160; &#160; 48 &#160; &#160; &#160; 207 &#160; &#160; 
+
+Our user interface software may also be protected by copyright laws in most countries, including Sweden and the European Union, which do not grant patent protection for the software itself, if the software is deemed new and original. Protection can be claimed from the date of creation. 
+
+&#160; 
+
+AirBar is powered by Neonode&#8217;s zForce AIR platform which is protected by a number of granted patents. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+In fiscal years 2015, 2014 and 2013, we spent $6.3 million, $7.4 million and $7.2 million, respectively, on research and development activities. Our research and development is predominantly in-house, but is also may be taken in collaboration with external partners and specialists.
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+On December 31, 2015, we had sixty employees and seventeen part-time or full-time consultants. There were a total of six employees in our general and administrative group, eight in our sales and marketing group and forty-six in our engineering group. We have employees located in the U.S., Sweden, Israel, Japan, South-Korea and Taiwan. None of our employees are represented by a labor union. We have experienced no work stoppages. We believe our employee relations are positive. 
+
+&#160; 
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160; 
+
+Additional Information 
+
+&#160; 
+
+We are subject to the informational requirements of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;) and we file or furnish reports, proxy statements, and other information with the Securities and Exchange Commission (&#8220;SEC&#8221;). The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The reports and other information filed by us with the SEC are available free of charge on the SEC&#8217;s website. The public may read and copy any materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. 
+
+&#160; 
+
+Our website is www.neonode.com . Through our website, we make available free of charge all of our filings with the SEC, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K as well as Form 3, Form 4, and Form 5 reports for the Company&#8217;s directors, officers, and principal stockholders, together with amendments to those reports filed or furnished pursuant to Sections 13(a), 15(d), or 16 under the Exchange Act. These reports are available as soon as reasonably practicable after their electronic filing or furnishing with the SEC. Our website also includes corporate governance information, such as our Code of Business Conduct (including Code of Ethics for the Chief Executive Officer and Senior Financial Officers) and Board Committee Charters. We are not including the information contained on our website as part of, nor incorporating it by reference into, this Annual Report. 
+
+&#160; 
+

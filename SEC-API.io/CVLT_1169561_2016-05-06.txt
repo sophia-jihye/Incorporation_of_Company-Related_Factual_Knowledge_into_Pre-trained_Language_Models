@@ -1,0 +1,324 @@
+ Item 1. 
+
+Business 
+
+Company Overview 
+
+Commvault is a leading provider of data and information management software applications and related services. Commvault was incorporated in 1996 as a Delaware corporation. The Commvault software platform is an enterprise level, integrated data and information management solution, built from the ground up on a single platform and unified code base. All software functionality share the same back-end technologies to deliver the benefits of a holistic approach to protecting, managing, and accessing data. The software addresses many aspects of data management in the enterprise, while providing scalability and control of data and information. Key features of our software platform include: 
+
+&#8226; 
+
+Data protection solutions supporting all major operating systems, applications, and databases on virtual and physical servers, NAS shares, cloud-based infrastructures, and mobile devices; 
+
+&#8226; 
+
+Management through a single console; view, manage, and access all functions and all data and information across the enterprise; 
+
+&#8226; 
+
+Multiple protection methods including backup and archive, snapshot management, replication, and content indexing for eDiscovery; 
+
+&#8226; 
+
+Efficient storage management using deduplication for disk, tape and cloud; 
+
+&#8226; 
+
+Integration with the industry's top storage arrays to automate the creation of indexed, application-aware hardware snapshot copies across multi-vendor storage environments; 
+
+&#8226; 
+
+Complete virtual infrastructure management supporting multiple hypervisors, including VMware and Hyper-V; 
+
+&#8226; 
+
+Security capabilities to limit access to critical data, provide granular management capabilities, and provide single sign on access for Active Directory users; 
+
+&#8226; 
+
+Policy based data management, allowing users to manage data based on business needs and not physical location; and 
+
+&#8226; 
+
+An end-user experience that allows them to protect, find and recover their own data using common tools such as web browsers, Microsoft Outlook and File Explorer. 
+
+Commvault software enables our customers to simply and cost effectively protect and manage their enterprise data throughout its lifecycle, from the mobile worker to the remote office, to the data center, covering the leading operating systems, relational databases, virtualized environments and applications. In addition to addressing today&#8217;s data and information management challenges, our customers can realize lower capital costs through more efficient use of their enterprise-wide storage infrastructure assets. This includes the automated movement of data from higher cost to lower cost storage devices throughout its lifecycle, and through sharing and better utilization of storage resources across the enterprise. We can also provide our customers with reduced operating costs through a variety of methods, including fast application deployment, reduced training time, lower cost of storage media consumables, proactive monitoring and analysis, and lower administrative overhead. We also provide our customers with a broad range of professional services that are delivered by our worldwide support and field operations. 
+
+Commvault software is built upon an innovative single platform architecture. We refer to the single, unified code base underlying each of our applications as our Single Platform. Our Single Platform is unique and differentiates us from our competitors, some of whom address market needs by offering multiple and disparate point products that have come together as a collection often as a result of acquisition strategies. We believe that the disparate and point product approach forces users to install and maintain separate products requiring their own infrastructure, training, maintenance and management which can result in a complex and costly environment for customers who are looking for a single solution that will improve operations, minimize risk and reduce overall costs. 
+
+We have established a worldwide, multi-channel distribution network to sell our software and services to large global enterprises, small and medium sized businesses and government agencies, both directly through our sales force and indirectly through our global network of value-added reseller partners, systems integrators, corporate resellers and original equipment manufacturers. As of March 31, 2016 , we had licensed our data and information management software to over 22,500 &#32;registered customers. 
+
+Our internet address is www.commvault.com. On this website, we post the following filings as soon as reasonably practicable after they are electronically filed with or furnished to the U.S. Securities and Exchange Commission (SEC): our Annual Reports on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K, our proxy statements related to our annual stockholders&#8217; meetings and any amendment to those reports or statements filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended. All such filings are available on the Investors Relations portion of our web site free of charge. The contents of our web site are not incorporated by reference into this Form 10-K or in any other report, statement or document we file with the SEC. 
+
+Industry Background 
+
+The driving force behind the growth of the data and information management software industry is the rapid growth of data, coupled with the need to reliably protect and quickly access that data, while maintaining the ability to effectively manage the emerging regulations around compliance and e-discovery. 
+
+Data is widely considered to be one of an organization&#8217;s most valued and strategic assets. The increasing reliance on critical enterprise software applications such as e-mail, relational databases, enterprise resource planning, customer relationship management and workgroup collaboration tools is resulting in the rapid growth of data across all enterprises. Government regulations, such as those issued under the Sarbanes-Oxley Act, the Health Insurance Portability and Accountability Act ("HIPAA"), Government Paper Elimination Act ("GPEA"), Homeland Security, the Patriot Act, Freedom of Information Act ("FOIA"), the Basel Committee on Banking Supervision ("The Basel Accords"), the Dodd-Frank Wall Street Reform and Consumer Protection Act, as well as company policies requiring data access, protection and preservation, are expanding the proportion of data that must be archived and easily accessible for future use. In addition, ensuring the security, availability and integrity of the data has become a critical task as regulatory compliance and corporate governance objectives affecting many organizations mandate the creation of multiple copies of data with longer and more complex retention requirements. 
+
+In addition to rapid data growth, data storage has transitioned from being server-attached to becoming widely distributed across local and global networked storage systems. Data previously stored on primary disk and backed up on tape is increasingly being backed up, managed and stored on a broader array of storage tiers ranging from high-cost, high-performance disk systems, to lower-cost mid-range and low-end disk systems, to tape libraries and both public and private cloud storage services. This transition has been driven by the growth of data, the pervasive use of distributed critical enterprise software applications, the decrease in disk cost, and the demand for 24/7 business continuity. 
+
+The recent innovations in storage and networking technologies, coupled with the rapid growth of data, have caused information technology managers to redesign their data and storage infrastructures to deliver greater efficiency, broaden access to data and reduce costs. The result has been the wide adoption of virtualized environments with larger and more complex networked data and storage solutions. We also believe cloud computing, in its various forms, represents a long term industry trend in the way that applications are delivered, data is stored and information is retrieved. 
+
+The rapid growth of data and the need to securely protect, manage and access this data is driving substantial opportunities for managed service providers ("MSPs") to help organizations deploy and manage solutions that deliver data management capabilities. The result is reduced long-term management costs with increased offerings to customers, which we believe represents a long-term industry trend in the way that services are offered. 
+
+We believe that these trends are increasing the demand for software applications that can simplify data and information management, provide secure and reliable access to all data across a broad spectrum of tiered storage and computing systems and seamlessly scale to accommodate growth, while reducing the total cost of ownership to the customer. 
+
+Our Software 
+
+Our software licenses typically provide for a perpetual right to use our software and are sold on a per terabyte capacity basis, per-copy, as site licenses or as a solution set. In recent years, the vast majority of our software revenue has been sold on a capacity basis and we expect this to remain true in the near future. Software licenses sold on a capacity basis provide the customer with unlimited licenses of specified software products based on a defined level of terabytes of data under management. As a result, when we sell our platform through a capacity license, certain of the various functionalities discussed below are bundled into one capacity based price. Site licenses give the customer the additional right to deploy the software on a limited basis during a specified term. 
+
+Our solution sets are generally sold on a per unit basis such as per virtual machine for our virtual machine backup, recovery and cloud management solution set; per mailbox for our email archive solution set, and per user for our endpoint data protection solution set. These Solution Sets are purpose-built offerings designed to accelerate private, public and hybrid cloud adoption that seamlessly integrate with our single platform software, offering a path towards holistic data management while allowing customers to utilize functionality that addresses the point solution requirements their business dictates. We primarily sell Solution Sets for virtual machine backup, recovery and cloud management; endpoint data protection; and email archive. 
+
+Historically, an insignificant amount of our revenue has been sold under subscription, or term based, license arrangements. In these arrangements the customer has the right to use the software over a designated period of time. Revenue in these arrangements is recognized ratably over the term of the agreement. Over the next several years we expect revenue from these types of arrangements to become a more significant portion of our total revenue. 
+
+&#160; 
+
+Commvault Software Solutions 
+
+The Commvault software suite contains solutions that are all built on a single unified code base and platform to protect, manage and access data and information. Within the platform, tightly integrated, powerful software features deliver functionality throughout physical and virtual environments to help protect and recover data, manage costs and complexity and gain better insight into information. Our primary software solutions are Data Protection, Backup and Recovery; Cloud and Infrastructure Management; and Retention and Compliance. 
+
+Data Protection, Backup and Recovery 
+
+Our Data Protection, Backup and Recovery software solutions provide enterprise-level backup and recovery from a single, centralized management console. It covers the full range of data sources, file types, storage media and backup modes - from snapshots to streaming. Our integrated, automated data protection approach provides a single, complete view of all stored data no matter where if it is on premise or in the cloud. Our software solution allows for the backup of databases, files, applications, endpoints and virtual machines (VMs) with maximum efficiency according to data type and recovery profile. It also helps to optimize storage with deduplication, recover data rapidly and easily and leverage reports to continually improve backup and recovery processes. 
+
+Virtual Machines (VMs) and Cloud Platforms 
+
+Our software solution for VM backup, recovery and cloud management delivers a number of benefits such as: VM recovery with live recovery options; backup to and in the cloud; custom-fit data protection for SLAs; broad hardware snapshot management; and workload portability across physical, virtual and cloud platforms. We offer a cloud management solution across multiple VM and cloud platforms, including Amazon Web Services (AWS), Microsoft Azure and VMware. 
+
+Databases 
+
+We provide a simple way to protect and recover business-critical databases through automatic discovery, push-button recovery, intuitive deduplication, cloning/replication, and by hardware snapshots through built-in application integration. We believe we eliminate the need for multiple, costly backup tools and complex scripting, while improving database performance. Our objective is to accelerate recovery and shrink backup windows, while providing granular, table-level recovery. 
+
+Email and Enterprise Applications 
+
+Email along with enterprise applications are critical to a business. We believe a significant portion of business-critical information is stored in email so reliable backup and recovery is essential. Commvault Data Protection, Backup and Recovery gives users self-service access to search and restore messages without IT intervention. Our solution provides an enterprise a single solution to backup, restore and archive their important messaging applications. In addition, we provide our customers the ability to protect a wide range of applications, such as SharePoint, Exchange, Outlook, Office 365, and SAP enterprise software solutions. 
+
+File Protection and Recovery 
+
+Our software solution brings unstructured data into management. Our File Protection and Recovery solution make it easy to find, recover and restore lost or damaged files at any level of granularity, from single files to whole file systems. In addition, business files stored in third-party file sharing applications can be protected in a secure, searchable and centralized virtual repository. Our integrated snapshot management indexes snapshots to make them searchable, making file recovery an easy process. 
+
+Endpoint Data Protection 
+
+Our Endpoint Data Protection solution enables data created and stored on laptops and desktops to be accessible anytime with a self-service recovery portal accessible from any web browser or mobile device. Our solution covers endpoint data on laptops, desktops and other devices with source-side deduplication, opportunistic scheduling and bandwidth throttling. 
+
+Source-side Deduplication 
+
+Our software solutions integrate deduplication functionality directly into our software for a backup and recovery approach that is scalable and cost effective. Source-side deduplication can boost backup speeds while decreasing storage and network resource consumption whether protecting data in private or public clouds, remote office servers, laptops or critical applications in the data center. 
+
+Cloud and Infrastructure Management 
+
+Our Cloud and Infrastructure Management software solutions provide an efficient way to manage storage hardware and virtual infrastructure as data volumes grow and more applications move to the cloud. 
+
+VM and Cloud Management 
+
+Our holistic approach to cloud management allows companies to manage a virtual infrastructure across multiple hypervisors and cloud platforms. Our VM and Cloud Management solution can streamline operations over the entire VM lifecycle, from provisioning to protection to decommissioning. With our software solution, companies can manage VMware, Microsoft Hyper-V, Amazon Web Services EC2 and Microsoft Azure hypervisors through a single solution to get the most out of all their technologies. 
+
+Snapshot Management 
+
+Our software solutions can simplify snapshot management with a single console for many hardware storage vendors. Our built-in reporting and alerting lets users perform more detailed utilization and capacity planning for hardware snapshots. With our Snapshot Management software solution, hardware snapshots can be managed across a wide selection of vendors such as DataCore, Dell, EMC, Fujitsu, Hewlett Packard, Hitachi Data Systems, Huawei, IBM, INFINIDAT, NetApp, Nimble Storage, Nutanix, Oracle ZFS and Pure Storage. Our underlying IntelliSnap&#8482; technology provides the multi-vendor flexibility. 
+
+Workflow Automation 
+
+Our software solutions automate repetitive or highly complex data management tasks by combining individual process sets in a specific order or decision tree. Configuring our software to meet company specific IT needs can be achieved whether using our pre-built workflows or design or a company&#8217;s own with our graphical user interface. 
+
+Retention and Compliance 
+
+Our single virtual content repository makes it easier to index, archive and search managed data using our Retention and Compliance software solutions. 
+
+Content Based Retention 
+
+Our Content Based Retention solution provides for user-defined retention policies to automatically organize, classify and store information based on relevant and usable criteria, such as file name, type, content, tags and keywords which can reduce complexity and risk of storing massive volumes of data. 
+
+Enterprise Search and E-Discovery 
+
+Our Enterprise Search and E-Discovery solution allows users to find information needed to satisfy internal search requirements or respond to external eDiscovery requests. We believe our software solution can minimize risk and exposure by providing a single, integrated platform for enterprise search and eDiscovery across the full range of devices, apps and file types. 
+
+Email Archiving 
+
+Our single, unified data management platform supports detailed archiving policies for email environments, including cloud email solutions like Microsoft Office 365. Users can classify data by application and automate email data management, even as volumes continue to grow. We also streamline eDiscovery across data silos, making email data accessible via a single, comprehensive platform. 
+
+Data Loss Prevention 
+
+Our software solutions include a number of built-in endpoint data protection and security features to help prevent unauthorized access and, if necessary, quickly restore files or applications to a new device. We believe our comprehensive approach to data loss prevention makes it easy to minimize compliance and litigation risks associated with losing critical business data. 
+
+Secure File Sharing 
+
+Our enterprise file-sharing capabilities allow for anytime access to data through a private cloud that is more secure than email or consumer file-sharing services. End-users can collaborate and still remain compliant with data-governance requirements while reducing the risk of exposing sensitive corporate data to unauthorized access. 
+
+Services 
+
+A comprehensive global offering of customer support and other professional services is critical to the successful marketing, sale and deployment of our software. From planning, to deployment, to operations, we offer a complete set of technical services, training and support options that maximize the operational benefits of our suite of software applications. Our commitment to superior customer support is reflected in the breadth and depth of our service offerings as well as in our ongoing initiatives to engineer resiliency, automation and serviceability features directly into our products. 
+
+We have established a global customer support organization built specifically to handle our expanding customer base. We offer multiple levels of customer support that can be tailored to the customer&#8217;s response needs and business sensitivities. Our customer support services consist of: 
+
+&#8226; 
+
+Real-Time Support. Our support staff is available 24/7 by telephone to provide first response and manage the resolution of customer issues. In addition to phone support, our customers have access to an online product support database for help with troubleshooting and operational questions. Innovative use of web-based diagnostic tools provides problem analysis and resolution. Our software design is also an important element in our comprehensive customer support, including &#8220;root cause&#8221; problem analysis, intelligent alerting and troubleshooting assistance. Our software is directly linked to our online support database allowing customers to analyze problems without engaging our technical support personnel. 
+
+&#8226; 
+
+Significant Network and Hardware Expertise. Our support engineers have extensive knowledge of complex applications, servers and networks. We proactively take ownership of the customer&#8217;s problem, regardless of whether the issue is directly related to our products or to those of another vendor. We have also developed and maintain a knowledge library of storage systems and software products to further enable our support organization to quickly and effectively resolve customer problems. 
+
+&#8226; 
+
+Global Operations. Our global customer support headquarters is located at our state-of-the-art technical support center in Tinton Falls, New Jersey. We also have established support operations in Reading, United Kingdom; Sydney, Australia; and Shanghai, China, which are complemented by regional support centers in other worldwide locations. Our cloud-based support system creates a virtual global support center combining these locations to allow for the fastest possible resolution times for customer incidents. We have designed our support infrastructure to be able to scale with the increasing globalization of our customers. 
+
+&#8226; 
+
+Enhanced Support Options . We offer several enhanced customer support services such as Enterprise Support. Our Enterprise Support service is for customers with critical support needs and builds on our 24/7 real-time support deliverables and includes various levels of enhanced services to ensure dedicated support and customized reporting. Enterprise Support adds a specialized team of technical support engineers, an assigned support account manager and innovative tools to achieve our customers&#8217; mission. 
+
+Our technology consultants ensure that our customers software environment is designed for optimal results and will continue to deliver over the long term. This same team of experts can install, configure, personalize and validate that environment so customers can achieve a better return on investment, faster and with more confidence 
+
+&#8226; 
+
+Technology Consulting Services. Our technology consulting ensure that a customer&#8217;s software environment is designed for optimal results and will continue to deliver over the long term. We offer services such as architecture design; implementation; personalization; data migration; and health assessment. In addition, our residency services offer customers staff-augmentation options to assist with the rapid expert deployment of the Commvault software suite. 
+
+&#8226; 
+
+Business Consulting Services. Our business consultants provide transformational insights that align to how specific businesses gather, retain and employ data. We offer services such as disaster recovery readiness and policy implementation; private cloud services design; data classification and archive policy implementation; and operational efficiency assessment. 
+
+&#8226; 
+
+Education Services. We provide global onsite training, offsite training and self-paced online alternatives for our products. Packaged or customized customer training courses are available in instructor-led or computer-based formats. We offer in-depth training and certification for our resellers in pre- and post-sales support methodologies, including web access to customizable documentation and training materials. In addition, we offer a Commvault Certification Program that validates expertise and advanced knowledge in topics, including Commvault Core Fundamentals, Implementation and Maintenance. We also offer more advanced Specialist, Engineer and Master technologies. We believe certified personnel can increase a company's productivity and reduce operating costs. 
+
+Strategic Relationships 
+
+An important element of Commvault&#8217;s strategy is to establish relationships with third parties that assist us in developing, marketing, selling and implementing our software and services. We believe that strategic and technology-based relationships with industry leaders are fundamental to our success. We have forged numerous relationships with software application and hardware vendors to enhance our combined capabilities and to create the optimal combination of data and information management applications. This approach enhances our ability to expand our product offerings and customer base and to enter new markets. We have established the following types of strategic relationships: 
+
+Technology Alliance Partners . We maintain strategic product and technology relationships with major industry leaders to ensure that our software applications are integrated with, supported by and add value to our partners&#8217; hardware and software products. Collaboration with these market leaders allows us to provide applications that enable our customers to improve data and information management efficiency. Our significant strategic relationships include Bull, Cisco, Citrix, Fujitsu, HP, Microsoft, Oracle, SAP, and VMware. In addition to these relationships, we maintain relationships with a broad range of industry operating system, application and infrastructure vendors to verify and demonstrate the interoperability of our software applications with their equipment and technologies. 
+
+Distributors, Value-Added Reseller, Systems Integrator, Corporate Reseller and Original Equipment Manufacturer Relationships. Our corporate resellers bundle or sell our software applications together with their own products, and our value-added resellers resell our software applications independently. As of March 31, 2016 , we had more than 500 reseller partners and systems integrators that have distributed our software worldwide. 
+
+In order to broaden our market coverage, we work closely with our Global Original Equipment Manufacturer ("OEM") Partners, investing significant time and resources to deliver unique, joint solutions incorporating Commvault software. These partners team with our technical, engineering, marketing and sales force on helping to enhance integration, tuning, operational management, implementation and vision for solutions that are designed to meet current and future data and information management needs. Our alliance managers work directly with Global OEM Partners to design, deliver and support field activities that make it easier for customers to locate, learn about, and purchase these differentiated solutions. Our most significant OEM partner is Hitachi Data Systems. Hitachi Data Systems has no obligation to recommend or offer our software applications exclusively or at all, and they have no minimum sales requirements and can terminate our relationship at any time. Sales through our original equipment manufacturer agreements, accounted for 15% &#32;of our total revenues in fiscal 2016 &#32;and in fiscal 2015 . 
+
+Additionally, we have non-exclusive distribution agreements covering our North American commercial markets and our U.S. Federal Government markets with Arrow Enterprise Computing Solutions, Inc. (&#8220;Arrow&#8221;), a subsidiary of Arrow Electronics, Inc., and Avnet Technology Solutions (&#8220;Avnet&#8221;), a subsidiary of Avent Inc. Pursuant to these distribution agreements, these distributors' primary role is to enable a more efficient and effective distribution channel for our products and services by managing our reseller partners and leveraging their own industry experience. Sales generated through our distribution agreement with Arrow accounted for approximately 38% &#32;of our total revenue in fiscal 2016 &#32;and 36% &#32;in fiscal 2015 . 
+
+Service Provider Partners. Our software is the data protection platform for over 200 service providers, which provide cloud-based solutions to client systems worldwide. As companies of all sizes and markets rapidly adopt cloud infrastructures for improved costs, speed and agility, we remain committed to these strategic relationships to address this growing trend. Customers looking to move IT operations into the cloud depend on service providers to help them migrate, manage and protect their cloud infrastructures. We have partnered with a broad ecosystem of service provider partners so they can effectively deliver data management-as-a-service solutions based on Commvault software across geographies, vertical markets and offerings. Leading providers who have integrated Commvault software into their cloud solution portfolios include Microsoft Windows Azure, Amazon S3, Glacier, NetApp, and Rackspace. 
+
+Customers 
+
+We sell Commvault software applications and related services directly to large global enterprises, small and medium sized businesses and government agencies, and indirectly through value-added resellers, systems integrators, corporate resellers and original equipment manufacturer partners. As of March 31, 2016 , we had licensed our software applications to over 22,500 &#32;registered customers in a broad range of industries, including banking, insurance and financial services, government, healthcare, pharmaceuticals and medical services, technology, legal, manufacturing, utilities and energy. 
+
+Technology 
+
+We believe our Single Platform serves as a major differentiator versus our competitors&#8217; data and information management software products. Our Single Platform&#8217;s unique indexing, cataloging, data movement, media management and policy technologies are the source of the performance, scale, management, cost of ownership benefits and seamless interoperability inherent in all of our data and information management software applications. Additional options enable content search, data encryption and auditing features to support data discovery and compliance requirements. Each of these solutions share a common architecture consisting of three core components: intelligent agent software, data movement software and command and control software. These components may be installed on a single host server, or each may be distributed over many servers in a global network. Additionally, the modularity of our software provides deployment flexibility. The ability to share storage resources across multiple data and information management applications provides easier data and information management and lower total cost of ownership. We participate in industry standards groups and activities that we believe will have a direct bearing on the data and information management software market. 
+
+Sales and Marketing 
+
+We sell our data and information management software applications and related services to large global enterprises, small and medium sized businesses, and government agencies. We sell through our worldwide direct sales force and our global network of distributors, value-added resellers, systems integrators, corporate resellers and original equipment manufacturer partners. As of March 31, 2016 , we had 775 &#32;employees in sales and marketing. These employees are primarily located in North America, Europe, Australia and Asia. 
+
+We have a variety of marketing programs designed to create brand awareness and market recognition for our product offerings and for sales lead generation. Our marketing efforts include active participation at trade shows, technical conferences and technology seminars; advertising; content development and distribution; public relations; social media; industry analyst relations; publication of technical and educational articles in industry journals; sales training; and preparation of competitive analyses. In addition, our strategic partners augment our marketing and sales campaigns through seminars, trade shows and joint public relations and advertising campaigns. Our customers and strategic partners provide references and recommendations that we often feature in external marketing activities. 
+
+Research and Development 
+
+Our research and development organization is responsible for the design, development, testing and certification of our data and information management software applications. As of March 31, 2016 , we had 526 employees in our research and development group, of which 169 are located in our Hyderabad and Bangalore development centers in India. Our engineering efforts support product development across all major operating systems, databases, applications and network storage devices. A substantial amount of our development effort goes into certification, integration and support of our applications to ensure interoperability with our strategic partners&#8217; hardware and software products. We have also made substantial investments in the automation of our product test and quality assurance laboratories. We spent $69.3 million &#32;on research and development activities in fiscal 2016 , $64.1 million &#32;in fiscal 2015 &#32;and $55.1 million &#32;in fiscal 2014 . 
+
+Competition 
+
+The data storage management market is intensely competitive, highly fragmented and characterized by rapidly changing technology and evolving standards. We currently compete with other providers of data and information management software as well as large storage hardware manufacturers that have developed or acquired their own data and information management software products. These manufacturers have the resources and capabilities to develop their own data and information management software applications, and many have been making acquisitions and broadening their efforts to include broader data and information management and storage products. These manufacturers and/or our other current and potential competitors may establish cooperative relationships among themselves or with third parties, creating new competitors or alliances. Large operating system and application vendors have introduced products or functionality that includes some of the same functions offered by our software applications. In the future, further development by these vendors could cause some features of our software applications to become redundant. 
+
+The following are our primary competitors in the data and information management software applications market, each of which has one or more products that compete with a part of or our entire software suite: 
+
+&#8226; 
+
+EMC 
+
+&#8226; 
+
+IBM 
+
+&#8226; 
+
+Veritas 
+
+&#8226; 
+
+Veeam 
+
+The principal competitive factors in our industry include product functionality, product performance, product integration, platform coverage, ability to scale, price, worldwide sales infrastructure, global technical support, name recognition and reputation. The ability of major system vendors to bundle hardware and software solutions is also a significant competitive factor in our industry. Although some of our competitors have greater resources, a larger installed customer base and greater name recognition, we believe we compete favorably on the basis of these competitive factors. 
+
+Our unique product architecture is one of the primary reasons why we compete so successfully. Whereas other competitive solutions in the market are based on multiple, disparate products, our modular offering is based on a single, unified, underlying code base resulting in favorable efficiencies in functionality, integration, scalability and support. Our focused approach to data and information management and our ability to respond to customer feedback also drives the functionality and features of our products, which we believe lead the industry in terms of performance and usability, as evidenced by numerous industry awards we have received. 
+
+From a customer perspective, highly integrated products such as ours, which are based on a single, unified, underlying code base, are easier and less expensive to deploy, operate and manage. This flexibility, in turn, makes it significantly easier to scale our products over a customer&#8217;s entire IT environment. Supporting and enhancing our products is made more efficient due to this single, unified, underlying code base, unlike our competitors who are required to support and enhance multiple, disparate products, most of which are based on differing underlying software code. Supporting multiple, disparate products places more onerous and costly demands on our competitors&#8217; internal human and operational capital. We believe that Commvault software, because of its unique architecture, creates a compelling functional, integration, scalability and support advantage. We continue to expand our worldwide sales infrastructure and increase our distribution throughout the Americas, Europe, Middle East, Africa, Australia and Asia to meet the needs of our business. 
+
+Some of our competitors have greater financial resources and may have the ability to offer their products at lower prices than ours. In addition, some of our competitors have greater name recognition than us, which could provide them a competitive advantage with some customers. Some of our competitors also have longer operating histories, have substantially greater technical, sales, marketing and other global resources than we do, as well as a larger installed customer base and broader product offerings, including hardware. As a result, these competitors can devote greater resources to the development, promotion, sale and support of their products than we can. 
+
+Intellectual Property and Proprietary Rights 
+
+Our success and ability to compete depend on our continued development and protection of our proprietary software and other technologies. We rely primarily on a combination of trade secret, patent, copyright and trademark laws, as well as contractual provisions, to establish and protect our intellectual property rights. We provide our software to customers pursuant to license agreements that impose certain restrictions on use. These license agreements are primarily in the form of shrink-wrap or click-wrap licenses, which are not negotiated with or signed by our end-user customers. These measures may afford only limited protection of our intellectual property and proprietary rights associated with our software. We also enter into confidentiality agreements with employees and consultants involved in product development. We routinely require our employees, customers and potential business partners to enter into confidentiality agreements before we disclose any sensitive aspects of our software, technology or business plans. 
+
+As of March 31, 2016 , we had 428 issued patents and 266 pending patent applications in the United States, as well as 89 issued patents in foreign countries and 31 pending foreign patent applications. No single patent, copyright, trademark, license, or other intellectual property right is solely responsible for protecting our products or services. Moreover, we may lack adequate patent or other intellectual property protection for certain innovations that later turn out to be important to our business. Pending patent applications may receive unfavorable examination and are not guaranteed allowance as issued patents. We may elect to abandon or otherwise not pursue prosecution of certain pending patent applications due to patent examination results, economic considerations, strategic concerns or other factors. We will continue to assess appropriate occasions to seek patent and other intellectual property protection for innovative aspects of our technology that we believe provide us a significant competitive advantage. 
+
+Changes to patent laws or regulations in the U.S. and other foreign jurisdictions, or new interpretations of these laws and regulations, could also diminish the value of our patents and patent applications or narrow the scope of our patent protection. For example, changes in patent laws and regulations in the U.S. and new patent laws in Europe may affect the ability of companies, including Commvault, to protect innovations, bring patent infringement claims, and defend against claims of patent infringement. The costs of compliance with these laws and regulations are high and are likely to increase in the future. 
+
+Despite our efforts to protect our trade secrets and proprietary rights through patents and license and confidentiality agreements, unauthorized parties may still attempt to copy or otherwise obtain and use our software and technology. In addition, we intend to expand our international operations but effective patent, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries. If we fail to protect our intellectual property and other proprietary rights, our business could be negatively impacted. 
+
+We currently resell certain software from Microsoft, including Microsoft SQL Server, used in conjunction with our software applications pursuant to an independent software vendor royalty license and distribution agreement that we have and plan to continue renewing annually. We have entered into and may enter into agreements with additional third parties to license their technology for use with our software applications. 
+
+Some of the products or technologies acquired, licensed or developed by us may incorporate so-called &#8220;open source&#8221; software and we may incorporate open source software into other products in the future. The use of such open source software may ultimately subject some products to unintended conditions, such as royalty-free licensing of proprietary portions of our products, disclosing proprietary parts of our source code, or commencing costly product redesigns that could result in a loss of intellectual property rights, product performance degradation, or a delay in shipping products to customers, and which may negatively affect our business, financial condition, operating results, cash flow and ability to commercialize our products or technologies. 
+
+From time to time, we are participants or members of various industry standard-setting organizations or other industry technical organizations. Our participation or membership in such organizations may, in some circumstances, require us to enter into royalty or licensing agreements with third parties regarding our intellectual property under terms established by those organizations, which we may find unfavorable. 
+
+In the United States, we own federal registrations for or have common law trademark rights in the following marks: Commvault, the &#8220;C hexagon&#8221; logo &#38; Commvault, the &#8220;CV&#8221; Logo &#38; Commvault, the &#8220;C hexagon&#8221; logo, the &#8220;CV&#8221; logo, Commvault Systems, Solving Forward, SIM, Singular Information Management, Simpana, Simpana (logo), Commvault Galaxy, Commvault Edge, Unified Data Management, Edge Drive, QiNetix, Quick Recovery, QR, CommNet, GridStor, Vault Tracker, InnerVault, Quick Snap, QSnap, IntelliSnap, Simpana OnePass, Recovery Director, CommServe, CommCell, ROMS, Distinctly Data and CommValue. We also have several other trademarks and have obtained or are actively pursuing trademark registrations in several foreign jurisdictions. 
+
+Employees 
+
+As of March 31, 2016 , we had 2,379 employees worldwide, including 775 &#32;in sales and marketing, 526 &#32;in research and development, 842 in customer services and support and 236 in general and administration. 
+
+Executive Officers of the Registrant 
+
+The following table presents information with respect to our executive officers as of May 1, 2016: 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+N. Robert Hammer 
+
+&#160; 
+
+&#160; 
+
+Chairman, President and Chief Executive Officer 
+
+Alan G. Bunte 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Chief Operating Officer 
+
+Brian Carolan 
+
+&#160; 
+
+&#160; 
+
+Vice President, Chief Financial Officer 
+
+Ron Miiller 
+
+&#160; 
+
+&#160; 
+
+Senior Vice President of Worldwide Sales 
+
+N. Robert Hammer &#32;has served as our Chairman, President and Chief Executive Officer since March 1998. Mr. Hammer was also a venture partner from 1997 until December 2003 of the Sprout Group, the venture capital arm of Credit Suisse&#8217;s asset management business. Prior to joining the Sprout Group, Mr. Hammer served as the Chairman, President and Chief Executive Officer of Norand Corporation, a portable computer systems manufacturer, from 1988 until its acquisition by Western Atlas, Inc. in 1997. Mr. Hammer led Norand following its leveraged buy-out from Pioneer Hi-Bred International, Inc. and through its initial public offering in 1993. Prior to joining Norand, Mr. Hammer also served as Chairman, President and Chief Executive Officer of publicly-held Telequest Corporation from 1987 until 1988 and of privately-held Material Progress Corporation from 1982 until 1987. Prior to joining Material Progress Corporation, Mr. Hammer spent 15 years in various sales, marketing and management positions with Celanese Corporation, rising to the level of Vice President and General Manager of the structural composites materials business. Mr. Hammer obtained his bachelor&#8217;s degree and master&#8217;s degree in business administration from Columbia University. 
+
+Alan G. Bunte &#32;has served as our Executive Vice President and Chief Operating Officer since October 2003 and served as our Senior Vice President from December 1999 until October 2003. Since January 2008, Mr. Bunte has also served as a Director of Commvault. Prior to joining our company, Mr. Bunte was with Norand Corporation from 1986 to January 1998, serving as its Senior Vice President of planning and business development from 1991 to January 1998. Mr. Bunte obtained his bachelor&#8217;s and master&#8217;s degrees in business administration from the University of Iowa. 
+
+Brian Carolan &#32;has served as our Vice President, Finance and Chief Financial Officer since October 2012. Prior to his current role, Mr. Carolan served as our Vice President, Finance and Chief Accounting Officer from July 2006 until September 2012. He also held the position of Controller from February 2001 until June 2006. Prior to joining our company, Mr. Carolan was with Ernst &#38; Young LLP in its Technology, Communications and Entertainment audit practice from 1993 until January 2001. Mr. Carolan obtained his bachelor&#8217;s degree in accounting from Villanova University, his master&#8217;s degree in business administration from New York University and is a certified public accountant in the State of New Jersey. 
+
+Ron Miiller &#32;has served as our Senior Vice President of Worldwide Sales since April 2011. Prior to his current role, Mr. Miiller served as our Vice President of Sales, Americas from January 2005 to March 2011 and as our Central Region Sales Manager from March 2000 to December 2004. Prior to joining our company, Mr. Miiller served as Director, Central Region Sales for Softworks, Inc., an EMC company, from March 1997 through March 2000, and prior to that Mr. Miiller was with Moore Corporation, a diversified print and electronic communications company from 1989 through March 1997 in various leadership roles. Mr. Miiller received his bachelor of science degree in marketing from Ball State University. 
+

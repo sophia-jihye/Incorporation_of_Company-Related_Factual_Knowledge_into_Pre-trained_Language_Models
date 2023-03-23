@@ -1,0 +1,508 @@
+ I TEM 1 &#8211; BUSINESS 
+
+Forward-Looking Statements 
+
+This Annual Report on Form 10-K (including the section regarding Management's Discussion and Analysis of Financial Condition and Results of Operations) contains forward-looking statements regarding our business, financial condition, results of operations and prospects. Words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;estimates&#8221; and similar expressions or variations of such words are intended to identify forward-looking statements, but are not deemed to represent an all-inclusive means of identifying forward-looking statements as denoted in this Annual Report on Form 10-K. Additionally, statements concerning future matters are forward-looking statements. 
+
+&#160; 
+
+Although forward-looking statements in this Annual Report on Form 10-K reflect the good faith judgment of our management, such statements can only be based on facts and factors currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties and actual results and outcomes may differ materially from the results and outcomes discussed in or anticipated by the forward-looking statements. Factors that could cause or contribute to such differences in results and outcomes include, without limitation, those specifically addressed under the heading &#8220;Risks Factors&#8221; below, as well as those discussed elsewhere in this Annual Report on Form 10-K. Readers are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this Annual Report on Form 10-K. We file reports with the Securities and Exchange Commission (&#8220;SEC&#8221;). You can read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549. You can obtain additional information about the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including us. 
+
+&#160; 
+
+We undertake no obligation to revise or update any forward-looking statements in order to reflect any event or circumstance that may arise after the date of this Annual Report on Form 10-K. Readers are urged to carefully review and consider the various disclosures made throughout the entirety of this Annual Report on Form 10-K, which attempt to advise interested parties of the risks and factors that may affect our business, financial condition, results of operations and prospects. 
+
+&#160; 
+
+Corporate Structure 
+
+&#160; 
+
+We were formed as BioSig Technologies, Inc., a Nevada corporation, in February 2009 and in April 2011 we merged with our wholly-owned subsidiary, BioSig Technologies, Inc., a Delaware corporation, with the Delaware corporation continuing as the surviving entity. We are principally devoted to improving the quality of cardiac recordings obtained during ablation of atrial fibrillation (AF) and ventricular tachycardia (VT). We have not generated any revenue to date and consequently our operations are subject to all risks inherent in the establishment of a new business enterprise. 
+
+Business Overview 
+
+We are a development stage medical device company that is developing a proprietary technology platform to minimize noise and artifacts from cardiac recordings during electrophysiology studies and ablation. We are developing the PURE (Precise Uninterrupted Real-time evaluation of Electrograms) EP System, a surface electrocardiogram and intracardiac multichannel recording and analysis system that acquires, processes and displays electrocardiogram and electrograms required during electrophysiology studies and ablation procedures. 
+
+&#160; 
+
+The PURE EP System is designed to assist electrophysiologists in making clinical decisions in real-time by providing information that, we believe, is not always easily obtained, if at all, from any other equipment presently used in electrophysiology labs. The PURE EP System&#8217;s ability to acquire high fidelity cardiac signals will potentially increase these signals&#8217; diagnostic value, and therefore offer improved accuracy and efficiency of the EP studies and related procedures. We are developing signal processing tools within the PURE EP System. We believe that these will assist electrophysiologists in further differentiating true signals from noise, and will provide guidance in identifying ablation targets. 
+
+Since June 2011, we have collaborated with physicians affiliated with the Texas Cardiac Arrhythmia Institute at St. David&#8217;s Medical Center in Austin, Texas for initial technology validation. The physicians affiliated with the Texas Cardiac Arrhythmia Institute has provided us with digital recordings obtained with conventional electrophysiology recording systems during different stages of electrophysiology studies. Using our proprietary signal processing tools that are part of the PURE EP System, we analyzed these recordings and successfully removed baseline wander, noise and artifacts from the data thereby providing better diagnostic quality signals. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+We are focused on improving the quality of cardiac recordings obtained during ablation of atrial fibrillation, the most common cardiac arrhythmia, and ventricular tachycardia, an arrhythmia evidenced by a fast heart rhythm originating from the lower chambers of the heart, which can be life-threatening. Cardiac ablation is a procedure that corrects conduction of electrical impulses in the heart that cause arrhythmias. During this invasive procedure, a catheter is usually inserted using a venous access into a specific area of the heart. A special radiofrequency generator delivers energy through the catheter to small areas of the heart muscle that cause the abnormal heart rhythm. According to a 2009 article in Circulation: Arrhythmia and Electrophysiology , ablation is superior to pharmacological treatments and is becoming a first line of therapy for certain patients with arrhythmias (&#8220;Treatment of Atrial Fibrillation With Antiarrhythmic Drugs or Radiofrequency Ablation,&#8221; Circulation: Arrhythmia and Electrophysiology (2009) 2: 349-361). 
+
+&#160; 
+
+Our overall goal is to establish our proprietary technology as a new platform that will have the following advantages over the electrophysiology recording systems currently available on the market: 
+
+&#160; 
+
+&#160; &#9679; 
+
+Higher quality cardiac signal acquisition for accurate and more efficient electrophysiology studies; 
+
+&#160; 
+
+&#160; &#9679; 
+
+Precise, uninterrupted, real time evaluations of electrograms; 
+
+&#160; 
+
+&#160; &#9679; 
+
+Reliable cardiac recordings to better determine precise ablation targets, strategy and end point of procedures; and 
+
+&#160; 
+
+&#160; &#9679; 
+
+A portable device that can be fully integrated into existing electrophysiology lab environments. 
+
+&#160; 
+
+If we are able to develop our product as designed, we believe that the PURE EP System and its signal processing tools will contribute to an increase in the number of procedures performed in each electrophysiology lab and possibly improved patient outcomes. 
+
+&#160; 
+
+Our significant scientific achievements to date include: 
+
+&#160; 
+
+&#160; &#9679; 
+
+Initial system concept validation has been performed in collaboration with physicians at the Texas Cardiac Arrhythmia Institute at St. David&#8217;s Medical Center in Austin, Texas in June 2011. The Texas Cardiac Arrhythmia Institute provided challenging recordings obtained with electrophysiology recording systems presently in use at the institute during various electrophysiology studies. Our technology team successfully imported the data into the PURE EP System software and using proprietary signal processing, the PURE EP System software was able to reduce baseline wander, noise, and artifacts from the data and therefore provide better diagnostic quality signals. 
+
+&#160; 
+
+&#160; &#9679; 
+
+We have established clinical and/or advisory relationships for both technology development and validation studies with physicians and researchers affiliated with the following medical centers: Texas Cardiac Arrhythmia Institute, Austin, TX; Cardiac Arrhythmia Center at the University of California at Los Angeles, Los Angeles, CA; Mount Sinai Medical Center, New York, NY; Beaumont Medical Center, Detroit, MI; University Hospitals Case Medical Center, Cleveland, OH; The Heart Rhythm Institute, University of Oklahoma Health Sciences Center, Oklahoma City, OK; and Mayo Clinic, Rochester, MN. 
+
+&#160; 
+
+&#160; &#9679; 
+
+The Cardiac Arrhythmia Center at the University of California at Los Angeles and Dr. Kalyanam Shivkumar, a former member of our board of directors, have played a significant role in the initial functional testing of our hardware. Dr. Shivkumar and his team have enabled us to learn the connectivity of the lab and its devices that pertain to where our PURE EP System will fit in. In June 2013, we commenced our first proof of concept pre-clinical study with the assistance of Dr. Shivkumar in order to further test the components of the PURE EP System hardware, as further explained below. 
+
+&#160; 
+
+&#160; &#9679; 
+
+We are developing signal processing tools within the PURE EP System that will assist electrophysiologists in further differentiating true signals from noise, which may potentially provide guidance in identifying ablation targets. The signal processing tools are expected to be an integral part of the software of the PURE EP System, which we believe will significantly facilitate the locating of ablation targets. 
+
+&#160; 
+
+&#160; 
+
+&#160; &#9679; 
+
+In the second and third quarters of 2013, we performed and finalized testing of our proof of concept unit by initially using an electrocardiogram/intracardiac simulator at our lab, and subsequently by obtaining pre-clinical recordings from the lab at the University of California at Los Angeles. As part of the testing, we simultaneously recorded electrocardiogram and intracardiac signals on our proof of concept unit and GE&#8217;s CardioLab recording system. An identical signal was applied to the input of both systems and the monitor of our proof of concept unit was positioned next to the monitor of GE&#8217;s CardioLab recording system to allow for visual comparison. We believe that our proof of concept unit performed well as compared to GE&#8217;s CardioLab recording system, in that the electrocardiogram and intracardiac signals displayed on our proof of concept unit showed less baseline wander, noise and artifacts compared to signals displayed on GE&#8217;s CardioLab recording system. However, because this was a proof of concept test, without any clearly established protocols, we cannot present this data for publication and we do not have any independent verification or peer review of these findings. 
+
+&#160; 
+
+&#160; &#9679; 
+
+In the third quarter of 2013, we analyzed the results of our proof of concept unit to determine the final design of the PURE EP System prototype, which has since been completed. 
+
+&#160; 
+
+&#160; &#9679; 
+
+In the fourth quarter of 2014, we appointed Dr. Samuel J. Asirvatham from the Mayo Clinic as a member of our Scientific Advisory Board and initiated plans for pre-clinical studies at Mayo Clinic. 
+
+&#160; &#9679; 
+
+In the first quarter of 2015, we appointed Dr. K. L. Venkatachalam from the Mayo Clinic as a member of our Scientific Advisory Board. On March 31, 2015 Drs. Asirvatham and Venkatachalam performed our first pre-clinical study at the Mayo Clinic in Rochester, MN. 
+
+&#160; &#9679; 
+
+On June 10, 2015, Dr. Asirvatham performed our second pre-clinical study at the Mayo Clinic in Rochester, Minnesota. 
+
+&#160; &#9679; 
+
+On November 17, 2015, Dr. Asirvatham performed our third pre-clinical study at the Mayo Clinic in Rochester, Minnesota. 
+
+We conducted our first, second and third pre-clinical studies on March 31, 2015, June 10, 2015 and November 17, 2015 respectively, at the Mayo Clinic in Rochester, Minnesota with the PURE EP System prototype. We also intend to conduct a pre-clinical study at the Cardiac Arrhythmia Center at the University of California at Los Angeles with emphasis on the ventricular tachycardia (VT) model. We intend to conduct further pre-clinical studies, end-user preference studies, and research studies. The main objective of these studies is to demonstrate the clinical potential of the PURE EP System and show its advantages as compared to electrophysiology recorders currently on the market. We have also begun planning and implementing steps for obtaining 510(k) approval from the U.S. Food and Drug Administration for the PURE EP System. 
+
+&#160; 
+
+We believe that by the first half of 2017, we will have obtained 510(k) marketing clearance from the FDA and will be able to commence marketing and commercialization of the PURE EP System. Our ability to achieve the aforementioned milestones will be principally determined by our ability to obtain necessary financing and regulatory approvals, among other factors. 
+
+Because we are a development stage company, with our initial product under development, we currently do not have any customers. We anticipate that our initial customers will be hospitals and other health care facilities that operate electrophysiology labs. 
+
+Our Industry 
+
+&#160; 
+
+Electrophysiology is the study of the propagation of electrical impulses throughout the heart. Electrophysiology studies are focused on the diagnosis and treatment of arrhythmias, a medical condition in which conduction of electrical impulses within the heart vary from the normal. Such conditions may be associated with significant health risks to patients. The invasive cardiac electrophysiology study for the evaluation of cardiac conduction disorders has evolved rapidly from a research tool to an established clinical treatment. This technique permits detailed analyses of the mechanism underlying cardiac arrhythmias and determines precise locations of the sites of origin of these arrhythmias, thereby aiding in treatment strategies. 
+
+&#160; 
+
+&#160; 
+
+Pharmacological, or medicine-based, therapies have traditionally been used as initial treatments, but they often fail to adequately control the arrhythmia and may have significant side effects. Catheter ablation is now often recommended for an arrhythmia that medicine cannot control. Catheter ablation involves advancing several flexible catheters into the patient&#8217;s blood vessels, usually either in the femoral vein, internal jugular vein or subclavian vein. The catheters are then advanced towards the heart. Electrical impulses are then used to induce the arrhythmia and local heating or freezing is used to ablate (destroy) the abnormal tissue that is causing it. Catheter ablation of most arrhythmias has a high success rate and multiple procedures per patient have been found to be more successful. 
+
+One study found that arrhythmia-free survival rates after a single catheter ablation procedure were 40%, 37%, and 29% at one, two and five years, respectively, with most recurrences over the first six months (&#8220;Catheter Ablation for Atrial Fibrillation - Are Results Maintained at 5 Years of Follow-Up?&#8221; J Am Coll Cardiol. (2011) 57(2):160-166). Another study stated that catheter ablation of atrial fibrillation has been shown to be effective in approximately 80% of patients after 1.3 procedures per patient, with approximately 70% of such patients requiring no further antiarrhythmic drugs during intermediate follow-up (Updated Worldwide Survey on the Methods, Efficacy, and Safety of Catheter Ablation for Human Atrial Fibrillation Circulation: Arrhythmia and Electrophysiology (2010) 3: 32-38). 
+
+&#160; 
+
+Catheter ablation is usually performed by an electrophysiologist (a specially trained cardiologist) in a catheterization lab or a specialized electrophysiology lab. It is estimated that there are about 2,000 electrophysiology labs in the U.S. and 2,000 electrophysiology labs outside the U.S., each with an electrophysiology recording system costing an average of $250,000. We believe that the current value of the electrophysiology recording device market in the U.S. is approximately $500 million, based upon the number of electrophysiology labs in U.S. and the average cost of the recording system in each lab. With the potential of 12 million atrial fibrillation patients by the year 2050 (according to the Atrial Fibrillation Fact Sheet, February 2010, published by the Centers for Disease Control and Prevention) and improvements in technology for atrial fibrillation ablation therapy, significant growth is predicted for the number of hospitals building electrophysiology labs. A July 2012 report published by the Millennium Research Group predicted rapid growth in the U.S. market for electrophysiology mapping and ablation devices from 2012 to 2016, due to the medical community&#8217;s growing focus on treating atrial fibrillation. The report further predicts that even with advances in drug treatments and management devices to treat or manage arrhythmias, the electrophysiology mapping and ablation device market will be sustained by the continued development of advanced technologies that decrease ablation procedure times and improve success rates. According to the report, Electrophysiology Devices Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast, 2013 &#8211; 2019, analysts forecast the global market for EP devices will grow at a 12.1 percent compound annual growth rate, from $2.5 billion in 2012 to $5.5 billion by 2019. 
+
+&#160; 
+
+Treatment of Atrial Fibrillation and Ventricular Tachycardia 
+
+&#160; 
+
+We believe that the clearer recordings and additional information provided by the PURE EP System may improve outcomes during electrophysiology studies and ablation procedures for a variety of arrhythmias. For patients who are candidates for ablation, an electrophysiology study is necessary to define the targeted sites for the ablation procedure. Two common, yet complex, conditions for which ablation procedures are performed are atrial fibrillation and ventricular tachycardia. We believe that in the near future, the PURE EP System may have a great impact on assisting ablation strategies for these conditions. 
+
+Most cardiac arrhythmias are well understood and ablation simply requires destroying a small area of heart tissue possessing electrical abnormality. In contrast, complex arrythmias, such as atrial fibrillation and ventricular tachycardia, have complex pathophysiology and because knowledge of their origins and mechanisms are incomplete, ablation treatments for these arrhythmias are largely empirical. Catheter ablation is now an important option to control recurrent ventricular tachycardias (&#8220;EHRA/HRS Expert Consensus on Catheter Ablation of Ventricular Arrhythmias,&#8221; Europace (2009) 11 (6): 771-817). Catheter ablation of ventricular tachycardia in nonischemic heart diseases can be challenging, and outcomes across different diseases are incompletely defined (&#8220;Catheter Ablation of Ventricular Tachycardia in Nonischemic Heart Disease,&#8221; Circulation: Arrhythmia and Electrophysiology (2012) 5: 992-1000). In addition, limitations of atrial fibrillation ablation include the use of catheters designed for pinpoint lesions to perform large area ablations in a point-by-point fashion, and the dexterity required to perform the procedure (&#8220;New Technologies in Atrial Fibrillation Ablation,&#8221; Circulation (2009)). Furthermore, the length of these procedures exposes the physician and staff to extensive radiation, requiring them to wear heavy lead vests. Consequently, ablating atrial fibrillation and ventricular tachycardia have been regarded as being extremely difficult. Therefore, access to these procedures has been limited to being performed by only especially well-trained cardiologists; however, advancements in new technologies and techniques show a strong growth rate for these procedures. 
+
+&#160; 
+
+&#160; 
+
+According to the National Institute of Health National Heart Lung and Blood Institute, there are more than 3 million Americans suffering with atrial fibrillation and about 850,000 patients are hospitalized annually. As many as 600,000 new cases of atrial fibrillation are diagnosed each year. Despite the fact that physicians have been performing radiofrequency ablations since the 1990s, catheter-based treatment is offered to less than 3% of the atrial fibrillation patient population in the U.S. and Europe. According to Millenium Research Group (MRG), an increasing proportion of diagnosed atrial fibrillation cases are now being treated via ablation, as both physician confidence and the devices used in these procedures improve. A growing amount of positive clinical data has been demonstrating the efficacy of AF ablation when compared to the traditional first-line treatment of anti-arrhythmic drugs. As a result, AF ablation is becoming the fastest growing procedure type in this market, increasing at an average annual rate of 16 percent from 2012 to 2016. The American College of Cardiology Foundation/American Heart Association Task Force reported that catheter-directed ablation of atrial fibrillation represents a substantial achievement that promises better therapy for a large number of patients presently resistant to pharmacological or electrical conversion to sinus rhythm (&#8220;2011 ACCF/AHA/HRS Focused Update on the Management of Patients With Atrial Fibrillation (Updating the 2006 Guideline)&#8221;). However, rates of success and complications may vary, sometimes considerably. 
+
+&#160; 
+
+According to the Heart Rhythm Society, ventricular tachycardia is the most dangerous arrhythmia since it may result in ventricular fibrillation, a rapid chaotic heartbeat in the lower chambers of the heart. Because the fibrillating muscle cannot contract and pump blood to the brain and vital organs, ventricular fibrillation is the number one cause of sudden cardiac death accounting for more than 350,000 deaths in the U.S. each year. Ventricular tachycardia is typically treated with implantable cardioverter defibrillators, or ICDs, or a combination of ablation along with an ICD. The American College of Cardiology/American Heart Association Task Force on Practice Guidelines/European Society of Cardiology Committee for Practice Guidelines, or ACC/AHA/ESC, 2009 guidelines recommend ablation in patients who either have sustained predominantly monomorphic ventricular tachycardia that is drug resistant, are drug intolerant or do not wish for long-term drug therapy. According to a recent study, catheter ablation has been found to reduce ventricular tachycardia/ventricular fibrillation recurrences and thereby ICD interventions, including ICD shocks, by approximately 75% in patients that have undergone multiple ICD shocks (Kuck, &#8220;Should Catheter Ablation be the Preferred Therapy for Reducing ICD Shocks? Ventricular Tachycardia in Patients With an Implantable Defibrillator Warrants Catheter Ablation,&#8221; Circulation: Arrhythmia and Electrophysiology (2009) 2: 713-720). More importantly, according to Kuck, catheter ablation is the only treatment that can terminate and eliminate incessant ventricular tachycardia and acutely abolish electrical storm in ICD patients. Typically, patients who receive ICDs are at high risk for recurrent arrhythmia; hence, most patients receive one or more ICD therapies for spontaneous arrhythmias after implantation. Despite the technological evolution of ICD systems, more than 20% of shocks are due to supraventricular arrhythmia and hence are inappropriate. Although the ICD aborts ventricular tachycardia/ventricular fibrillation, many patients continue to have symptoms. These shocks are physically and emotionally painful and lead to poor quality of life and adverse psychological outcomes in patients and their families. 
+
+&#160; 
+
+According to Dr. Srijoy Mahapatra, the status of ventricular tachycardia ablation is growing at a 14-17% compound annual growth rate due to the fact that ablation of ventricular tachycardia may help patients feel better and live longer, despite the risks, including the occurrence of stroke, and the modest success rates. The success of ventricular tachycardia ablation varies, depending on the patient&#8217;s specific heart condition that caused ventricular tachycardia. The procedure is most effective in patients with otherwise normal hearts, in whom the success rate exceeds 90%. In patients with structural heart disease resulting from scar or cardiomyopathy, success rates range between 50% and 75% at six to 12 months. In cases in which a patient experiences a recurrence, two of three patients will still have less ventricular tachycardia than before the initial ablation (Circulation (2010) 122: e389-e391). Therefore, we believe that ablation will continue to become a preferred treatment for ventricular tachycardia, especially in light of the challenges presented by ICD therapies; this increase in demand for ablation procedures will likely also increase the demand for technological advances in medical devices essential to ablation procedures, including electrophysiology recorders, in order to better support and ablation procedures. 
+
+&#160; 
+
+Electrophysiology Lab Environment and Electrophysiology Recording Systems 
+
+&#160; 
+
+The electrophysiology lab environment and recording systems create significant amounts of noise and artifacts during electrophysiology procedures. Current surface and intracardiac recording systems typically consist of large workstations interconnected by a complex set of cables that contribute to significant amounts of noise during signal acquisition. Additional noise and artifacts generated from the electrophysiology lab equipment further hamper recordings of small electrophysiological potentials. Preserving spaciotemporal (space and time) characteristics of the signal in a very challenging electrophysiology recording environment is a difficult task. To remove noise and artifacts, recorders that are currently on the market offer a family of low pass, high pass and notch filters, but these filters alter signal information context. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+The shape and amplitude of electrocardiograms, unipolar and bipolar electrograms, and, consequently, reconstructed endocardial and epicardial maps, are influenced not only by electrophysiological and structural characteristics of the myocardial tissue involved, but with characteristics of the recording system. Amplitude and morphology of electrocardiogram and intracardiac signals are significantly affected by filters used to remove noise. Because of the number of amplitude and interval measurements made during an electrophysiology study, it is imperative that the recording system faithfully acquires surface electrocardiogram and intracardiac electrograms. We believe that the recording systems that are currently available on the market are ineffective in preserving the optimal amount of original information contained in the cardiac signals. 
+
+&#160; 
+
+In addition, the electrophysiology lab consists of sophisticated equipment that requires an electrophysiologist to mentally integrate information from a number of sources during procedures. There are numerous monitors in an electrophysiology lab that provide and display this variety of information. An electrophysiologist needs to evaluate the acquired cardiac signals and the patient&#8217;s responses to any induced arrhythmias during the procedure. However, it is difficult for an electrophysiologist to synthesize the disparate information produced by the numerous monitors in the lab and calculate the real-time, three-dimensional orientation of the anatomy and the location of the recording and ablation catheters. As the number of electrophysiology procedures increase, a variety of diagnostic and therapeutic ablation catheters are becoming more widely available and new highly specialized catheters are being developed. In addition, remote robotic and magnetic navigation systems are being developed to address limitations of dexterity in controlling the catheter tip, especially during complex arrhythmia ablation procedures. We believe that, considering the improvements being made with respect to other equipment used in the electrophysiology lab and the continual increase of ablation procedures, the electrophysiology recorders currently available on the market are not sufficiently advanced with respect to the quality of their recordings to deliver adequate results. We believe that the PURE EP System will be able to deliver superior quality of recordings that will allow it to successfully integrate with the other advanced equipment found in the electrophysiology lab. 
+
+&#160; 
+
+The requirement for optimal signal integrity is further amplified during ablation treatments of atrial fibrillation and ventricular tachycardia. Presently, one of the main objectives of the atrial fibrillation ablation procedure is to precisely identify, ablate and eliminate pulmonary vein potentials and one of the main objectives of the ventricular tachycardia procedure is to map the arrhythmia substrate and precisely identify, ablate and eliminate small abnormal potentials. The information provided by recorders is essential for an electrophysiologist to determine ablation strategy during termination of both pulmonary vein potentials and ventricular tachycardia. Therefore, it is important that the recording system&#8217;s noise removal technique does not alter appearance and fidelity of these potentials. As a result, it is necessary that any new signal processing preserves signal fidelity as much as possible during electrophysiology recordings; otherwise, the signals that are needed to guide the ablation procedures will be difficult to distinguish due to noise interference. 
+
+&#160; 
+
+Our Products 
+
+We intend to bring to the electrophysiology market the PURE EP System, an electrocardiogram/intracardiac recorder that will be coupled with an array of software tools intended for electrophysiology studies and procedures ranging from simple diagnostic tests to ablation for the most complex cases of arrhythmias. We believe that this system will provide unique recording capabilities because we are developing it to allow precise, uninterrupted, real-time evaluations of electrocardiograms and electrograms, and allow electrophysiologists to obtain data that cannot be acquired from present day recorders. 
+
+&#160; 
+
+The PURE EP System uses a combination of analog and digital signal processing to acquire and display cardiac data. Because our technology consists of proprietary hardware, software and algorithms, the original cardiac data is not distorted. In addition, we are developing a library of software tools that are designed to be configured to fit the needs of electrophysiologists in different settings and/or for different arrhythmia treatments. With the software, the PURE EP System can be positioned to provide information that can be used by electrophysiologists to help guide the ablation catheter; shorten procedure times; and can reduce the complexity of maneuvers necessary for identifying ablation targets for various arrhythmias, including atrial fibrillation and ventricular tachycardia. The PURE EP System is intended to be used in addition to existing electrophysiology recorders. We believe that the less distorted cardiac data provided by the PURE EP System will increase the workload ability and enhance the capabilities of the typical electrophysiology laboratory. 
+
+&#160; 
+
+&#160; 
+
+Initial Analysis 
+
+&#160; 
+
+According to S. J. Asirvatham, MD, et. al. (&#8220;Signals and Signal Processing for the Electrophysiologist,&#8221; Circ Arrhythm Electrophysiol . (2011) 4:965-973), recording environments in a typical electrophysiology laboratory presents challenging situations. S. J. Asirvatham, MD, et. al., state, &#8220;Successful mapping and ablation in the electrophysiology laboratory is critically dependent on acquiring multiple, low-amplitude, intracardiac signals in the presence of numerous sources of electric noise and interference and displaying these signals in an uncomplicated and clinically relevant fashion, with minimal artifacts. This represents a significant engineering challenge and, in real-life electrophysiology laboratory, is not always successful.&#8221; 
+
+&#160; 
+
+To determine and validate the state of present electrophysiology recording technology in the field, we completed a detailed analysis of the effect of filters used by existing EP recorders to reduce noise on spaciotemporal characteristics of electrocardiograms and intracardiac electrograms. We used a custom built electrocardiogram/intracardiac simulator with a database of various electrocardiogram signals combined with electrophysiology signals, along with waveforms from publicly available databases. The ability to faithfully reproduce database waveforms generated by an electrocardiogram/intracardiac simulator was tested using the PURE EP System and conventional electrophysiology recorders, the GE CardioLab and St. Jude EP-WorkMate. 
+
+&#160; 
+
+We evaluated the signal quality (amplitude, morphology and duration) of the different recorders, along with the ability of the recorders to reduce noise level and remove baseline wander, which are the cardiac signals that have shifted from the isoelectric line (the base line of the signal tracing). The electrocardiogram and intracardiac signals subjected to the PURE EP System&#8217;s signal processing showed less baseline wander, noise and artifacts compared to the conventional electrophysiology recorders. Further, spaciotemporal characteristics of signals were greatly distorted by the conventional electrophysiology system, particularly when a notch filter was used, as compared to the recording of the same spaciotemporal characteristics by the PURE EP System. A notch filter is used to remove a specific frequency from the signal, especially either 60Hz in the U.S. and 50Hz in Europe, and can be implemented in hardware or software. 
+
+&#160; 
+
+To date, we have not conducted any studies of the data produced by our technology that have been subjected to any third-party review, as would be required for the publication of a formal study. If we are able to demonstrate a similar level of success in removing baseline wander and reducing noise level for our planned pre-clinical and clinical studies and trials, we believe that the PURE EP System&#8217;s signal processing will become a vital part of electrophysiology labs and will greatly assist in the ablation treatment for complex arrhythmias, including atrial fibrillation and ventricular tachycardia. 
+
+Proof of Concept Testing 
+
+&#160; 
+
+We developed the PURE EP System&#8217;s proof of concept unit, which is the version of the product prior to prototype. The proof of concept unit was designed using separate analog and digital boards to allow for easier debugging and to demonstrate single channel electrocardiogram and intracardiac acquisition capabilities. The proof of concept unit was built to (i) verify that the PURE EP System performs in line with our intended design of the product, (ii) validate a portion of the hardware design that we intend to use in the prototype, and (iii) verify the software used by the PURE EP System. The main objectives of the proof of concept unit were to demonstrate that the system&#8217;s hardware and software have the ability to faithfully records small cardiac signals in an electrophysiology laboratory environment and to obtain initial performance results. 
+
+In the second and third quarters of 2013, we performed and finalized testing of our proof of concept unit by initially using an electrocardiogram/intracardiac simulator at our lab, and subsequently by obtaining pre-clinical recordings from the lab at the University of California at Los Angeles. As part of the testing, we simultaneously recorded electrocardiogram and intracardiac signals on our proof of concept unit and GE&#8217;s CardioLab recording system. An identical signal was applied to the input of both systems and the monitor of our proof of concept unit was positioned next to the monitor of GE&#8217;s CardioLab recording system to allow for visual comparison. We believe that our proof of concept unit performed well as compared to GE&#8217;s CardioLab recording system, in that the electrocardiogram and intracardiac signals displayed on our proof of concept unit showed less baseline wander, noise and artifacts compared to signals displayed on GE&#8217;s CardioLab recording system. However, because this was a proof of concept test, without any clearly established protocols, we cannot present this data for publication and we do not have any independent verification or peer review of these findings. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subsequently, in the third quarter of 2013, we analyzed the results of our proof of concept unit to determine the final design of the PURE EP System prototype. Because the proof of concept unit was designed to verify the capabilities of the main components of the PURE EP System, we established a list of tasks necessary to complete the prototype (which we intend to use for end-user preference studies, additional pre-clinical studies and research studies), which has since been completed. 
+
+Proof of Concept Testing at UCLA&#8217;s EP Lab 
+
+&#160; 
+
+The current PURE EP System prototype 
+
+&#160; 
+
+Growth Strategy 
+
+&#160; 
+
+Technology and Development Plan 
+
+&#160; 
+
+Our technology team consists of six engineers with expertise in digital signal processing, low power analog and digital circuit design, software development, embedded system development, electromechanical design, testing and system integration, and the regulatory requirements for medical devices. We have also entered into collaboration agreements with advisors and medical institutions in the fields of cardiology and electrophysiology, including the Texas Cardiac Arrhythmia Institute (see &#8220;&#8211;Strategic Alliances&#8221;). We currently intend to outsource manufacturing, assembling, and testing. 
+
+&#160; 
+
+&#160; 
+
+We conducted our first, second and third pre-clinical studies on March 31, 2015, June 10, 2015 and November 17, 2015 respectively, at the Mayo Clinic in Rochester, Minnesota with the PURE EP System prototype. We also intend to conduct a pre-clinical study at the Cardiac Arrhythmia Center at the University of California at Los Angeles with emphasis on the ventricular tachycardia (VT) model. We intend to conduct further pre-clinical studies, end-user preference studies, and research studies. The main objective of these studies is to demonstrate the clinical potential of the PURE EP System and show its advantages as compared to electrophysiology recorders currently on the market. We have also begun planning and implementing steps for obtaining 510(k) approval from the U.S. Food and Drug Administration for the PURE EP System. 
+
+&#160; 
+
+We believe that by the first half of 2017, we will have obtained 510(k) marketing clearance from the FDA and will be able to commence marketing and commercialization of the PURE EP System. Our ability to achieve the aforementioned milestones will be principally determined by our ability to obtain necessary financing and regulatory approvals, among other factors. 
+
+Because we are a development stage company, with our initial product under development, we currently do not have any customers. We anticipate that our initial customers will be hospitals and other health care facilities that operate electrophysiology labs. 
+
+Competition 
+
+&#160; 
+
+The electrophysiology market is characterized by intense competition and rapid technological advances. There are currently four large companies that share the majority of the electrophysiological recording market share. They produce the following electrophysiology recording systems, each with a unit price of approximately $250,000 per unit: 
+
+&#160; &#9679; 
+
+GE&#8217;s CardioLab Recording System was developed in the early 1990s by Prucka Engineering and was acquired by GE in 1999. 
+
+&#160; &#9679; 
+
+Bard&#8217;s LabSystem PRO EP Recording System was originally designed in the late 1980s. CR Bard&#8217;s electrophysiology business was acquired by Boston Scientific in 2013. 
+
+&#160; &#9679; 
+
+Siemens developed the Axiom Sensis XP in 2002. 
+
+&#160; &#9679; 
+
+St. Jude Medical&#8217;s EP-WorkMate Recording System was acquired from EP MedSystems in 2008, which had received approval for the product from the U.S. Food and Drug Administration in 2003. 
+
+Based upon our analysis of data taken from patent applications filed with the U.S. Patent and Trademark Office and 510(k) approval applications filed with the U.S. Food and Drug Administration, we believe that the above recording systems are built on relatively old technologies and all use the identical approach in applying digital filters to remove noise and artifacts. We are of the opinion that such an approach sacrifices cardiac signal fidelity and, in the case of ablation, the filters have a direct impact on the ablation strategy of an electrophysiologist. The imprecise method to remove noise and artifacts used by the old recorders could be a contributing factor to the multiple (or repeated) ablation procedures that are frequently required in order to completely cure patients from atrial fibrillation and ventricular tachycardia. We are not currently aware of any other companies that are developing new recording technology for electrophysiology recorders. 
+
+&#160; 
+
+Suppliers 
+
+&#160; 
+
+The PURE EP System contains proprietary hardware and software modules that are assembled into the system. Hardware boards contain components that are available from different distributors. The parts used to manufacture analog and digital boards are readily available from a number of distributors or manufacturers. We obtained components from various suppliers and have assembled our first prototype in-house. We envision outsourcing manufacturing of the complete PURE EP System to a local medical device manufacturer in California. 
+
+Research and Development Expenses 
+
+&#160; 
+
+Research and development expenses for the fiscal years ended December 31, 2015 and 2014 were $1,238,548 and $547,996, respectively. 
+
+&#160;
+
+&#160; 
+
+&#160; 
+
+Sales, Marketing and Customer Service 
+
+&#160; 
+
+We plan to implement a market development program prior to launch of our PURE EP System. As the product progresses through development and testing, we intend to gather the data produced by the PURE EP System&#8217;s processing and presenting electrocardiogram and intracardiac signals and use such data for posters, presentations at cardiology conferences, and, if appropriate, submissions to scientific journals. We believe that as we gather additional data from our existing proof of concept tests and our planned pre-clinical and clinical studies and user preference studies, we will be able to better determine the focus of our marketing efforts. We also plan to leverage our relationships with cardiac research and treatment centers to gain early product evaluation and validation. We believe that through these efforts, we may be able to gain preliminary acceptance of our PURE EP product by experienced professionals and academics in the electrophysiology field. 
+
+&#160; 
+
+We also intend to simultaneously develop a branding strategy to introduce and support the PURE EP System. The strategy may include our presence at major relevant cardiology meetings on a national and regional basis to engage and educate physicians concerning the PURE EP System and any of our other products, as well as engaging in a variety of other direct marketing methods. We also intend to develop a small direct sales force together with a distribution network that has existing relationships with hospitals and electrophysiologists. We believe that we may be able to begin commercial sales of the PURE EP System in 2016. 
+
+Intellectual Property 
+
+&#160; 
+
+Patents 
+
+&#160; 
+
+Our success depends in large part on our ability to establish and maintain the proprietary nature of our technology. Our co-founder and former chief technology officer, Budimir S. Drakulic, Ph.D., conceived of the proprietary elements of the PURE EP System in 2009 and 2010. We filed a patent application with the U.S. Patent and Trademark Office in December 2013 directed at systems and methods for the evaluation of electrophysiology systems. In March 2014, the inventors listed on the patent application filed in December 2013 assigned all of their rights to the patent application to us. In December 2014, we filed this patent application under the Patent Cooperation Treaty (PCT) with the U.S. Receiving Office. 
+
+&#160; 
+
+We intend to file one or more additional patents in the U.S. in the future. Our patent application filed in December 2013 represents a significant portion of our core proprietary intellectual property. Our patent application filed in December 2013 describes a system that can show comparative output of any two cardiac signal systems&#8212;such as the PURE EP System as compared to a competitor system, thus showing the value of the PURE EP System. 
+
+This patent application describes signal processing evaluators that assess how well a cardiac signal system reading a cardiac signal (such as the PURE EP System or another system) filters out noise, such as non-cardiac signals or other body-generated artifacts. Such noise is filtered by such systems with varying success, thus, an evaluator such as described in the patent application may be used to provide comparison data for a particular system versus another given the same or similar input. The patent application also describes a simulator that can send a simulated signal to a cardiac signal system (the PURE EP System or another system) in order to challenge such cardiac signal system to filter out typical noise. These are adjunct technologies that can be used to show the value of the PURE EP System as compared to other systems existing in the market. The additional patent applications that we intend to file in the U.S. in the future are expected to represent portions of the hardware and software technology associated with our PURE EP System, which technology includes a cardiac signal system that reads cardiac signals and filters such cardiac signals from noise such as non-cardiac signals or other body-generated artifacts. Upon filing of such patent applications, we believe that the novel aspects of our PURE EP System should be subject to pending patent application; however, we cannot be assured that all of the patents related to our patent applications, if any, will be granted. 
+
+&#160; 
+
+Trademarks 
+
+&#160; 
+
+In December 2015, our trademark for &#8220;PURE EP&#8221; went live in the U.S. 
+
+&#160; 
+
+&#160; 
+
+Government Regulation 
+
+&#160; 
+
+Our solutions include software and hardware which will be used for patient diagnosis and, accordingly, are subject to regulation by the U.S. Food and Drug Administration and other regulatory agencies. U.S. Food and Drug Administration regulations govern, among other things, the following activities that we perform and will continue to perform in connection with: 
+
+&#160; 
+
+&#160; &#9679; 
+
+Product design and development; 
+
+&#160; &#9679; 
+
+Product testing; 
+
+&#160; &#9679; 
+
+Product manufacturing; 
+
+&#160; &#9679; 
+
+Product labeling and packaging; 
+
+&#160; &#9679; 
+
+Product handling, storage, and installation; 
+
+&#160; &#9679; 
+
+Pre-market clearance or approval; 
+
+&#160; &#9679; 
+
+Advertising and promotion; and 
+
+&#160; &#9679; 
+
+Product sales, distribution, and servicing. 
+
+&#160; 
+
+U.S. Food and Drug Administration&#8217;s Pre-market Clearance and Approval Requirements 
+
+&#160; 
+
+The U.S. Food and Drug Administration classifies all medical devices into one of three classes. Devices deemed to pose lower risks are placed in either Class I or II, which requires the manufacturer to submit to the U.S. Food and Drug Administration a pre-market notification, known as a PMN, and a 510(k) approval, requesting clearance of the device for commercial distribution in the U.S. Class III devices are devices which must be approved by the pre-market approval process. These tend to be devices that are permanently implanted into a human body or that may be necessary to sustain life. For example, an artificial heart meets both these criteria. Based on analysis of predicate devices, we believe that our products will be classified as Class II. Pursuant to U.S. Food and Drug Administration guidelines, Class II devices include a programmable diagnostic computer, which is a device that can be programmed to compute various physiologic or blood flow parameters based on the output from one or more electrodes, transducers, or measuring devices; this device includes any associated commercially supplied programs. Because the PURE EP System is a surface electrocardiogram and intracardiac multichannel recording and analysis system that acquires, processes and displays electrocardiogram and electrograms, we believe it will be classified as a Class II device. We must, therefore, first receive a 510(k) clearance from the U.S. Food and Drug Administration for our PURE EP System before we can commercially distribute it in the U.S. In the event that our PURE EP System is classified as a Class III device, which we believe is unlikely to occur, the U.S. Food and Drug Administration regulatory approval process and the subsequent commercialization of our product will require significantly greater time and resources than if it is classified as a Class II device, which would require us to reassess our strategic business plan of operations. 
+
+510(k) Clearance Process 
+
+&#160; 
+
+For our PURE EP System, we must submit a pre-market notification to the U.S. Food and Drug Administration demonstrating that the proposed device is substantially equivalent to a previously cleared 510(k) device, a device that was in commercial distribution before May 28, 1976 for which the U.S. Food and Drug Administration has not yet called for the submission of pre-market approval applications, or is a device that has been reclassified from Class III to either Class II or I. 
+
+&#160; 
+
+The U.S. Food and Drug Administration&#8217;s 510(k) clearance process usually takes three to six months from the date the application is submitted and filed with the U.S. Food and Drug Administration, but it can take significantly longer. A device that reaches market through the 510(k) process is not considered to be &#8220;approved&#8221; by the U.S. Food and Drug Administration. They are generally referred to as &#8220;cleared&#8221; or &#8220;510(k) cleared&#8221; devices. Nevertheless, it can be marketed and sold in the U.S. 
+
+&#160; 
+
+After a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, will require a new 510(k) clearance or could require a pre-market approval, which requires more data and is generally a significantly longer process than the 510(k) clearance process. The U.S. Food and Drug Administration requires each manufacturer to make this determination initially, but the U.S. Food and Drug Administration can review any such decision and can disagree with a manufacturer&#8217;s determination. If the U.S. Food and Drug Administration disagrees with a manufacturer&#8217;s determination, the U.S. Food and Drug Administration can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or a pre-market approval is obtained. 
+
+&#160; 
+
+Pervasive and continuing U.S. Food and Drug Administration regulation 
+
+&#160; 
+
+After a medical device is placed on the market, numerous U.S. Food and Drug Administration regulatory requirements apply, including, but not limited to the following: 
+
+&#160; 
+
+&#160; &#9679; 
+
+Quality System regulation, which requires manufacturers to follow design, testing, control, documentation and other quality assurance procedures during the manufacturing process; 
+
+&#160; &#9679; 
+
+Establishment Registration, which requires establishments involved in the production and distribution of medical devices intended for commercial distribution in the U.S. to register with the U.S. Food and Drug Administration; 
+
+&#160; &#9679; 
+
+Medical Device Listing, which requires manufacturers to list the devices they have in commercial distribution with the U.S. Food and Drug Administration; 
+
+&#160; &#9679; 
+
+Labeling regulations, which prohibit &#8220;misbranded&#8221; devices from entering the market, as well as prohibit the promotion of products for unapproved or &#8220;off-label&#8221; uses and impose other restrictions on labeling; and 
+
+&#160; &#9679; 
+
+Medical Device Reporting regulations, which require that manufacturers report to the U.S. Food and Drug Administration if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur. 
+
+&#160; 
+
+Failure to comply with applicable regulatory requirements can result in enforcement action by the U.S. Food and Drug Administration, which may include one or more of the following sanctions: 
+
+&#160; 
+
+&#160; &#9679; 
+
+Fines, injunctions, and civil penalties; 
+
+&#160; &#9679; 
+
+Mandatory recall or seizure of our products; 
+
+&#160; &#9679; 
+
+Administrative detention or banning of our products; 
+
+&#160; &#9679; 
+
+Operating restrictions, partial suspension or total shutdown of production; 
+
+&#160; &#9679; 
+
+Refusing our request for 510(k) clearance or pre-market approval of new product versions; 
+
+&#160; &#9679; 
+
+Revocation of 510(k) clearance or pre-market approvals previously granted; and 
+
+&#160; &#9679; 
+
+Criminal penalties. 
+
+International Regulation 
+
+&#160; 
+
+International sales of medical devices are subject to foreign government regulations, which vary substantially from country to country. The time required to obtain approval by a foreign country may be longer or shorter than that required for U.S. Food and Drug Administration approval, and the requirements may differ significantly. 
+
+The European Union has adopted legislation, in the form of directives to be implemented in each member state, concerning the regulation of medical devices within the European Union. The directives include, among others, the Medical Device Directive that establishes standards for regulating the design, manufacture, clinical trials, labeling, and vigilance reporting for medical devices. Our PURE EP system may be affected by this legislation. Under the European Union Medical Device Directive, medical devices are classified into four classes, I, IIa, IIb, and III, with class I being the lowest risk and class III being the highest risk. Under the Medical Device Directive, a competent authority is nominated by the government of each member state to monitor and ensure compliance with the Medical Device Directive. The competent authority of each member state then designates a notified body to oversee the conformity assessment procedures set forth in the Medical Device Directive, whereby manufacturers demonstrate that their devices comply with the requirements of the Medical Device Directive and are entitled to bear the CE mark. CE is an abbreviation for Conformit&#233; Europ&#233;enne (or European Conformity) and the CE mark, when placed on a product, indicates compliance with the requirements of the applicable directive. Medical devices properly bearing the CE mark may be commercially distributed throughout the European Union. Failure to obtain the CE mark will preclude us from selling the PURE EP System and related products in the European Union. 
+
+Employees 
+
+&#160; 
+
+As of March 14, 2016, we had 11 full-time employees. Additionally, we use consultants as needed to perform various specialized services. None of our employees are represented under a collective bargaining agreement. 
+
+&#160; 
+

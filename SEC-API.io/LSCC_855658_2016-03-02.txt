@@ -1,0 +1,494 @@
+ Item 1. Business 
+
+Overview 
+
+Lattice Semiconductor Corporation and its subsidiaries (&#8220;Lattice,&#8221; the &#8220;Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; or &#8220;our&#8221;) develop semiconductor technologies that we monetize through products, solutions, and licenses. 
+
+We enable our customers to quickly and easily develop smart and connected products. We help their products become more aware, interact more intelligently, and make better and faster connections. In an increasingly intense global technology market, we help our customers get their products to market faster than their competitors. 
+
+Our historic focus was on the programmable logic devices (PLDs). In 2011, we made the strategic decision to competitively differentiate from other established programmable logic companies with ultra-low power and ultra-small sized field programmable gate array (FPGA) solutions, a type of PLD. As a result we acquired a leader in this technology, SiliconBlue Technologies, Inc. In 2015, we extended our capabilities beyond PLDs with the acquisition of Silicon Image, Inc. and its portfolio of standards-driven Video Connectivity application specific standard products (ASSPs), 60 GHz mmWave devices, and associated intellectual property (IP). We believe that video consumption will continue to grow strongly and our broader product portfolio will allow us to reach markets that we could not previously access. Video expertise combined with FPGA-based hardware acceleration and both wired and wireless ways to distribute data allow us to penetrate new markets. 
+
+Our results for the year ended January 2, 2016 &#32;include the results of Silicon Image for the approximately 10-month period from March 11, 2015 through &#32; January 2, 2016 . Results presented for prior fiscal years are those historically reported for Lattice only. 
+
+Our Markets and Customers 
+
+We sell globally into three markets: Consumer, Communications, and Industrial. 
+
+In the Consumer Market &#32;you can find our solutions making consumer products smarter and thinner, including: smartphones, tablets and e-readers, wearables, accessories such as chargers and docks, Ultra High-Definition (UHD) TVs, Digital SLR cameras, drones, and other connected devices. 
+
+Our Consumer customers are driven by the need to deliver richer and more responsive experiences. They typically require: 
+
+&#8226; 
+
+Higher resolution video content on larger screen sizes with minimal delays. 
+
+&#8226; 
+
+More intelligence and computing power. Products need to be always-on and always-aware. 
+
+&#8226; 
+
+Longer battery lives for handheld devices and reduced energy consumption for plugged-in devices. 
+
+&#8226; 
+
+Fast design cycles. Products must be quickly and easily differentiated. 
+
+&#8226; 
+
+Smaller form factors. Products need to lay flatter on the wall or sit more easily in people&#8217;s pockets. 
+
+Lattice solutions help solve these challenges with the following products and services (described in detail below): 
+
+&#8226; 
+
+A full suite of standards-based HDMI and MHL Video Connectivity ASSPs &#32;which enable the immersive audio-visual experience that consumers demand. 
+
+&#8226; 
+
+PLDs &#32;which bring multiple benefits to our customers. PLD&#8217;s parallel architecture enables faster processing than competing devices, such as processors, allowing for a user experience with shorter pauses and fewer delays. Our FPGAs are among the lowest power in the industry, enabling the application processor and other high power components to remain dormant longer, resulting in longer battery life. Finally, with some of the industry&#8217;s smallest packages, we enable thinner end products. 
+
+&#8226; 
+
+mmWave Devices &#32;such as our SiBEAM Snap and WirelessHD products. SiBEAM Snap is a wireless connection technology that can transfer a high definition movie to a mobile device in seconds while eliminating the connector port. WirelessHD products enable laptops, projectors, accessories, and other Consumer products to wirelessly communicate at very high speeds. 
+
+&#8226; 
+
+Intellectual Property Licensing &#32;which enables customers who wish to develop a proprietary solution to use our proven technology. 
+
+&#32;4 
+
+Our proprietary solutions help our customers get their products to market faster than typical development cycles. With re-programmability and flexibility our PLDs inherently allow our customers to have quicker product development. Our deep engagement with industry standards bodies gives us an intimate knowledge of that technology and the ability to get better products to market faster. Our mmWave technology is at the forefront of wireless connectivity innovation. These time-to-market advantages are critical given shorter product life cycles and higher competition in our customers&#8217; end markets. 
+
+In the Communications Market &#32;our solutions play key roles in HetNet small cell base stations, network backhaul, wired access aggregation, and other related applications. 
+
+Our Communications customers need to &#8220;connect anything to everything,&#8221; at ever-increasing data rates. 
+
+&#8226; 
+
+Networks typically require progressively higher bandwidth and increased reliability as more data is demanded by consumer and other connected devices. Bandwidth demands are also driven by the rapid transition to a cloud based infrastructure. 
+
+&#8226; 
+
+As wireless cells become smaller, there is a growing requirement for smaller form factors with lower costs. 
+
+We help customers solve these problems with the following products: 
+
+&#8226; 
+
+PLDs &#32;optimized for Input-Output (IO) expansion, acceleration and hardware management. Our FPGAs consume very low power, which reduces operating costs. Their small form factor enables higher functional density in less space. Finally, our FPGAs are IO rich, which allows for more connections with system application specific integrated circuits (ASICs) and ASSPs). Our programmable mixed signal devices make power and thermal management easy and reliable. 
+
+&#8226; 
+
+mmWave transceivers &#32;feature high-integration, low power design, and internal / external antenna options. Our beam-steering technology makes point-to-point links lighter, cheaper, lower power and easier to install, enabling backhaul at &#8220;wireless fiber&#8221; data rates. 
+
+Examples of our products enabling intelligent automation in the Industrial Market &#32;(Industrial) include: machine vision, robotics, factory automation, industrial handhelds, surveillance cameras and DVRs, digital signage, driver assistance, automotive infotainment , &#32;servers, and data center networks. 
+
+Our Industrial customers face numerous challenges: 
+
+&#8226; 
+
+As smart factories develop, sensors are proliferating and machine vision is becoming higher definition, in turn requiring increasing amounts of data to be gathered, connected, and processed. 
+
+&#8226; 
+
+Cars, trucks, and trains are also becoming smarter and more connected. Drivers and passengers are demanding better in-cabin experiences including entertainment, diagnostics, and enhanced safety. 
+
+&#8226; 
+
+As data center servers become smaller and power costs become more dominant, there is a growing requirement for smaller form factors with lower installed and operational costs. 
+
+Our product portfolio helps solve these challenges with the following products and services: 
+
+&#8226; 
+
+Our small-sized, low-power PLDs &#32;not only provide the IO expansion, connectivity and processing inherent in FPGAs to the full Industrial Market, but they also form the backbone of several integrated solutions, including complete HD camera and DVR solutions on a single FPGA device and Human-Machine Interfaces (HMI) on a chip. 
+
+&#8226; 
+
+Performance-tested and regulatory-approved mmWave modules &#32;greatly reduce the complexity of adding high-performance wireless video capabilities to displays, without the wires that clutter a factory floor or medical suite. 
+
+&#8226; 
+
+Automotive qualified MHL / HDMI Video Connectivity ASSPs &#32;allow consumers to stream UHD video from their mobile phones to their in-car entertainment system, delivering the ultimate connected car experience. 
+
+Our Products, Services, and Competition 
+
+We deliver three types of semiconductor devices to help solve our customers' problems: PLDs, Video Connectivity ASSPs, and mmWave devices. We also serve our customers with IP licensing and various other services. 
+
+Programmable Logic Devices (&#8220;PLDs&#8221;) 
+
+PLDs are regular arrays of logic that can be custom-configured by the user through software. This programmability allows our customers flexibility and reduced time to market while allowing us to offer the chips to many different customers in many different markets. Four product family lines anchor our PLD offerings: 
+
+&#8226; 
+
+The ECP families &#32;are our &#8220;Connectivity &#38; Acceleration FPGAs.&#8221; They offer customers the lowest cost per gate, Digital Signal Processing (DSP) capability, and Serialize-Deserialize (SerDes) connectivity. ECP devices are optimized for the Communications market but also find significant use in the Industrial market. 
+
+&#32;5 
+
+&#8226; 
+
+The MachXO families &#32;are known as &#8220;Bridging and Expansion FPGAs.&#8221; They are control oriented and offer the lowest cost per IO. MachXO3L was chosen by the trade publication EDN as one of the &#8220;100 Hot Products of 2014.&#8221; [http://www.edn.com/electronics-products/other/4437466/EDN-Hot-100-products-of-2014--MCUs--Processors---Programmable-Logic] MachXO families are widely used across our three primary target markets: Communications, Industrial, and Consumer. 
+
+&#8226; 
+
+iCE40 families &#32;are known as the &#8220;World&#8217;s Smallest FPGAs.&#8221; Their small size and ultra-low power, make them the optimal products for customizing Consumer mobile and Industrial handheld products. The most recent member of the iCE40 families, the iCE40 UltraLite, was named &#8220;Digital Semiconductor Product of the Year&#8221; by the 2015 Elektra European Electronics Industry Awards. [http://www.electronicsweekly.com/news/elektra-awards-2015-the-winners-2015-11/] 
+
+&#8226; 
+
+Programmable Mixed Signal devices , such as our Platform Manger 2 and L-ASC10 combine programmable digital logic with analog functionality to help customers manage power, thermal, and control planes in real time. 
+
+&#8226; 
+
+To enable our customers to get to market faster we support the PLDs with intellectual property cores, reference designs, development kits, and design software. 
+
+Competition for our PLDs is fragmented. 
+
+&#8226; 
+
+While ASICs, ASSPs, and microcontrollers have historically dominated high-volume market segments through low cost and reduced power consumption, our PLDs have become small enough with sufficiently low power that we are now considered by customers in cases where they need the architectural benefits of PLDs, namely programmability with its accelerated time-to-market and the speed that comes from parallelism. If a customer&#8217;s design is not working as intended, the customer can quickly change it using the programmability of our PLDs through software. In contrast, ASICs and ASSPs require time consuming and expensive redesign and fabrication. Against microcontrollers we differentiate our products with smaller sized packages and higher performance. 
+
+&#8226; 
+
+Our main PLD competitors are Xilinx and Intel/Altera. Both make PLDs but are generally focused on the high-density end of the market, making devices that are up to a full order of magnitude larger than ours with the associated increases in power and size. We differentiate from them with ultra-low power and very small sized packages. 
+
+Video Connectivity ASSPs &#32; 
+
+In the Consumer market, consumers need to connect many different types of audio-video devices and expect them to work seamlessly together. We refer to these connections as &#8220;Video Connectivity.&#8221; Industry standards, such as HDMI, MHL, and USB Type-C, ensure that consumers are able to successfully make those connections. These industry standards support resolutions up to 8K, High Dynamic Range, Deep Color, and HDCP 2.2 content protection. Our Video Connectivity ASSPs implement these standards along with value-added features and allow Consumer original equipment manufacturers (OEMs) manufacturers to quickly get feature rich and interoperable products to market. 
+
+Our Video Connectivity ASSPs perform many functions, including ensuring interoperability, enhancing picture quality, converting between resolutions, and transmitting / receiving content without the need for additional components. Specific device types include port processors, port controllers, video processors, transmitters, receivers, bridges, and converters. These devices are used in products such as mobile phones, HD TVs, home theater systems, automotive infotainment, PCs, accessories, projectors, and monitors. 
+
+In general, our Video Connectivity competition includes: 
+
+&#8226; 
+
+HDMI or MHL functionality offered in either discrete devices or integrated into system-on-a-chip products. These are offered by a small number of companies. 
+
+&#8226; 
+
+In-house semiconductor solutions designed by large consumer electronics OEMs. 
+
+&#8226; 
+
+Alternative HD connectivity technologies such as DisplayPort and MiraCast which are offered by a small number of companies. 
+
+While our competition mainly tries to win with price, we believe that we have an advantage because of our deep engagement with industry standards bodies. This involvement enables us to bring our &#8220;standards plus&#8221; products to market more quickly and gives our customers confidence that we have the expertise needed to successfully execute. 
+
+mmWave Devices 
+
+Our mmWave Devices and modules allow customers to wirelessly transfer data and UHD video content at gigabit speeds. Built using our proprietary 60 GHz SiBEAM technology, our mmWave transceivers, processors, and antenna arrays are divided into three groups, differentiated by their transmission range: 
+
+&#8226; 
+
+Gigabit Connector &#32;devices &#8220;eliminate the connectors on your mobile products.&#8221; Built with SiBEAM Snap technology these devices under development connect consumer products and are effective across centimeter distances. 
+
+&#32;6 
+
+&#8226; 
+
+Our Gigabit Indoor &#32;devices and modules &#8220;cut the wires in home, office, and factory.&#8221; Geared around the Consumer and Industrial Markets these devices reach distances measured in meters. 
+
+&#8226; 
+
+Gigabit Outdoor &#32;products provide &#8220;wireless fiber for network backhaul.&#8221; Achieving a range of 100&#8217;s of meters these devices provide the Communications market with ultra-high speed links for point-to-point connectivity. 
+
+Our competition includes a small number of established semiconductor companies that work to create an advantage by bundling mmWave technology into their reference designs and processors. We believe that the depth of our 60 GHz experience enables us to get products to market faster and when combined with advanced features, such as our advanced beam-forming technology, gives us an edge over our competition. 
+
+Intellectual Property (IP) Licensing 
+
+Lattice has a broad set of technological capabilities and many US and international patents. We generate revenue from our technology portfolio via upfront fees and on-going royalty payments with three sets of activities: 
+
+1. 
+
+Standard IP Licensing &#32;- these activities include our participation in two consortia for the licensing of HDMI and MHL technologies to customers who adopt the technology into their products and voluntarily report their usage and royalties. The royalties are split between consortia members, including us. 
+
+2. 
+
+IP Core Licensing &#32;- some customers need Lattice&#8217;s technology for specific functions or features, but for various reasons are not able to use our silicon solutions. In those cases, we may sell them IP cores which they can integrate into their own ASICs. In contrast to the use of consortia, these licensing activities are generally performed internally. 
+
+3. 
+
+Patent Monetization &#32;- we sell certain patents from our portfolio generally for technology that we are no longer actively developing. The revenue from these sales generally consists of upfront payments and potential future royalties. 
+
+Simplay Labs, LLC (&#8220;Simplay Labs&#8221;) 
+
+Simplay Labs develops performance standards, testing services, development tools, and technologies for Consumer product manufacturers. By partnering with Simplay Labs, manufacturers can reduce the time and cost to market, providing products that are distinguished by reliability and ease of operation while delivering the high-performance HD their customers demand. The products that Simplay Labs tests include televisions, A/V receivers, sound bars, set-top boxes, gaming consoles, and media hubs. Simplay Labs has service centers operating in the United States, South Korea, China, and Taiwan. Simplay&#8217;s service centers provide compliance, interoperability and performance testing. 
+
+Research and Development 
+
+&#160; 
+
+We place a substantial emphasis on new product development, with a priority on return on investment, and believe that continued investment in research and development is required to maintain and improve our competitive position. Our product development activities emphasize new proprietary products, advanced packaging, enhancement of existing products and process technologies, improvement of software development tools, development of innovative technology standards, and enhanced services. Research and development activities occur primarily in: Hillsboro, Oregon; San Jose and Sunnyvale, California; Shanghai, China; Alabang, Philippines; and Hyderabad, India. 
+
+Research and development expenses were $136.9 million &#32;in 2015, $88.1 million &#32;in 2014, and $81.0 million &#32;in 2013. The increase in fiscal 2015 as compared to fiscal 2014 is substantially due to the inclusion of approximately ten months of activity from Silicon Image following acquisition. We expect to continue to make significant investments in research and development. 
+
+Operations 
+
+We do not manufacture our own silicon products. We maintain strategic relationships with large semiconductor foundries to source our finished silicon wafers. This strategy allows us to focus our internal resources on product and market development, and eliminates the fixed cost of owning and operating semiconductor manufacturing facilities. We are also able to take advantage of the ongoing advanced process technology development efforts of semiconductor foundries. 
+
+Lattice and Fujitsu Limited ("Fujitsu") have entered into agreements pursuant to which Fujitsu manufactures our products on its 130nm, 90nm and 65nm CMOS process technologies, as well as on 130nm, 90nm and 65nm technologies with embedded flash memory that we have jointly developed with Fujitsu. Taiwan Semiconductor Manufacturing Company Ltd. (&#8220;TSMC&#8221;) manufactures our 40nm iCE and legacy Silicon Image products. United Microelectronics Corporation ("UMC") manufactures certain of our 40nm products, as well as some of our 350nm and 180nm products. Seiko Epson ("Epson") manufactures some of our 500nm, 350nm, 250nm and 180nm products. 
+
+&#32;7 
+
+All of our assembly and volume test operations are performed by outside suppliers. 
+
+We rely on third party vendors to provide cost-effective and efficient supply chain services. Among other activities, these outsourced services relate to direct sales logistics, including order fulfillment, inventory management and warehousing, and shipment of inventory to third party distributors. 
+
+We perform certain test operations as well as reliability and quality assurance processes internally. We have achieved and maintained ISO9001:2008 Quality Management Systems Certification and released a line of products qualified to the AEC-Q100 Reliability Standard. 
+
+Wafer Fabrication 
+
+We source silicon wafers from our foundry partners, Fujitsu and Epson in Japan, and TSMC and UMC in Taiwan, pursuant to agreements with each company and their respective affiliates. We negotiate wafer volumes, prices and other terms with our foundry partners and their respective affiliates on a periodic basis. 
+
+Assembly 
+
+After wafer fabrication and initial testing, we ship wafers to independent subcontractors for assembly. During assembly, wafers are separated into individual die and encapsulated in plastic packages. We have qualified assembly partners in Indonesia, Malaysia, Taiwan, the Philippines, South Korea, Singapore, Japan, and the United States. We negotiate assembly prices, volumes and other terms with our assembly partners and their respective affiliates on a periodic basis. 
+
+We currently offer an extensive list of standard products in lead (Pb) free packaging. Our lead-free products meet the European Parliament Directive entitled "Restrictions on the use of Hazardous Substances" ("ROHS"). A select and growing subset of our ROHS compliant products are also offered with a "Halogen Free" material set. 
+
+Testing 
+
+We electrically sort test the die on most wafers prior to shipment for assembly. Following assembly, but prior to customer shipment, each product undergoes final testing and quality assurance procedures. Wafer sort testing is performed by independent contractors in Malaysia, Japan, Indonesia, Taiwan, and Singapore. Final testing is performed by independent contractors in Indonesia, Malaysia, the Philippines, Singapore, Taiwan, South Korea, Japan, and the United States. We also perform certain test operations, as well as reliability and quality assurance processes, internally. 
+
+Sales and Revenue 
+
+We generate revenue by monetizing our technology and patents using two go-to-market strategies. 
+
+&#8226; 
+
+Product and Technology Sales &#32;involve direct and channel sales of silicon based products with their associated solutions and services. 
+
+&#8226; 
+
+Intellectual Property Licensing &#32;involves either the license or sale of intellectual property that we have developed, some of which is used in our products. 
+
+Seasonality 
+
+While we periodically may experience some seasonal trends in the sale of our products, general economic conditions and the cyclical nature of the end markets we serve generally have a greater impact on our business and financial results than seasonal trends. 
+
+Backlog 
+
+Our backlog consists of orders from distributors and certain OEMs which are for deliveries within the next year. Historically, our backlog is a poor predictor of future sales or customer demand for the following reasons: 
+
+&#8226; 
+
+Purchase orders, consistent with common industry practices, can generally be revised or canceled up to 30 days before the scheduled delivery date without significant penalty. 
+
+&#8226; 
+
+Our backlog for sell-through distributors is valued at list price, which in most cases is substantially higher than the prices ultimately recognized as revenue. 
+
+&#8226; 
+
+A sizable portion of our revenue comes from our "turns business," where the product is ordered and delivered within the same quarter. 
+
+&#32;8 
+
+A growing portion of our revenue arises from vendor managed inventory arrangements where the timing and volume of customer utilization is difficult to predict. 
+
+Sales and Customers 
+
+We primarily sell our products to end customers from Lattice Semiconductor Corporation or our wholly-owned subsidiary, Lattice SG Pte. Ltd. We sell both directly and through a network of independent manufacturers' representatives. Additionally, we sell indirectly through independent sell-in (primarily Japan) and sell-through distributors. We also employ a direct sales management and field applications engineering organization to support our end customers and indirect sales resources. Our end customers are primarily original equipment manufacturers ("OEMs") in the Communications, Consumer and Industrial end markets. 
+
+We have agreements with 20 manufacturers' representatives in North America. We have established sales channels in over 50 foreign countries and maintain a network of 10 international sales representatives. A substantial portion of our sales are made through distributors. 
+
+We provide global technical support to our end customers with engineering staff based at our headquarters, product development centers and selected field sales offices. We maintain numerous domestic and international field sales offices in major metropolitan areas. 
+
+Resale of product by sell-through distributors accounted for approximately 45% of our net revenue in each of fiscal 2015 , 2014 , and 2013 , and we expect our distributors to generate a significant portion of our revenue in the future. We depend on our distributors to sell our products to end customers, complete order fulfillment, and maintain sufficient inventory of our products. Our distributors also provide technical support and other value-added services to our end customers. We have two global sell-through distributors. We also have regional distribution in Asia, Japan, Israel, and North America, and we sell through three major on-line distributors. 
+
+In fiscal 2015, our revenue was broadly distributed across end markets and customers, with no individual end customer accounting for more than 10% of the total revenue for the year. In fiscal 2014, Huawei Technologies Co. Ltd. accounted for 12% of total revenue while Samsung Electronics Co., Ltd. accounted for 19% of total revenue that same year, down from 22% in fiscal 2013. No other individual end customers, in any end markets, accounted for more than 10% of total revenue in either of the fiscal years 2014 or 2013. 
+
+Revenue from foreign sales as a percentage of total revenue was 92% , 92% , and 91% , for fiscal 2015, 2014, and 2013, respectively. We assign revenue to geographies based on customer ship-to address at the point where revenue is recognized. Revenue attributed to China for fiscal 2015 was approximately 36% &#32;of total revenue, compared to 43% and 45% in fiscal 2014 and fiscal 2013, respectively. In the case of sell-in distributors and OEMs, revenue is typically recognized, and geography is assigned, when products are shipped. In the case of sell-through distributors, revenue is recognized when resale to the end customer occurs and geography is assigned based on the end customer location on the resale reports provided by the distributor. Both foreign and domestic sales are denominated in U.S. dollars, with the exception of sales in Japan, where sales to certain customers are denominated in yen. 
+
+The composition of our revenue by geography, based on ship-to location, is as follows: 
+
+&#160; 
+
+&#160; 
+
+Year Ended 
+
+&#160; 
+
+&#160;% Change in 
+
+(In thousands) 
+
+&#160; 
+
+January 2, 2016 
+
+&#160; 
+
+January 3, 2015 
+
+&#160; 
+
+December 28, 2013 
+
+&#160; 
+
+&#160; 
+
+Asia 
+
+&#160; 
+
+$ 
+
+308,534 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+266,831 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+245,689 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Europe 
+
+&#160; 
+
+55,596 
+
+&#160; 
+
+&#160; 
+
+59,041 
+
+&#160; 
+
+&#160; 
+
+47,459 
+
+&#160; 
+
+&#160; 
+
+(6 
+
+) 
+
+&#160; 
+
+Americas 
+
+&#160; 
+
+41,836 
+
+&#160; 
+
+&#160; 
+
+40,255 
+
+&#160; 
+
+&#160; 
+
+39,377 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenue 
+
+&#160; 
+
+$ 
+
+405,966 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+366,127 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+332,525 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Intellectual Property, Patents, and Licensing 
+
+Intellectual Property 
+
+We seek to protect our products and technologies primarily through patents, trade secrecy measures, copyrights, mask work protection, trademark registrations, licensing restrictions, confidentiality agreements and other approaches designed to protect proprietary information. There can be no assurance that others may not independently develop competitive technology not covered by our intellectual property rights or that measures we take to protect our technology will be effective. 
+
+&#32;9 
+
+Patents 
+
+We hold numerous United States and international patents and have patent applications pending in the United States and Internationally. Our current patents will expire at various times between 2016 and 2034, subject to our payment of periodic maintenance fees. There can be no assurance that pending or future patent applications will result in issued patents, or that any issued patents will survive challenges to their validity. Although we believe that our patents have value, there can be no assurance that our patents, or any additional patents that may be issued in the future, will provide meaningful protection from competition. We believe that our success will depend primarily upon the technical expertise, experience, and creativity, and the sales and marketing abilities, of our personnel. 
+
+Patent and other proprietary rights infringement claims are common in our industry. There can be no assurance that, with respect to any claim made against us, we would be able to successfully defend against the claim or that we could obtain a license that would allow us to use the proprietary rights on terms or under conditions that would not harm our business. 
+
+Licenses 
+
+We have acquired various licenses from third parties to certain technologies that are implemented in IP cores or embedded in our products. Those licenses support our continuing ability to make and sell these products to our customers. While our various licenses are important to our success, we believe our business as a whole is not materially dependent on any particular license, or group of licenses. 
+
+Our Team 
+
+As of January 2, 2016 , we had 1,146 full-time employees worldwide. We believe that our future success will depend, in part, on our ability to continue to attract and retain highly skilled technical, sales, and management personnel. None of our employees are represented by a collective bargaining agreement. We have never experienced any work stoppages and consider our employee relations to be good. 
+
+&#160; 
+
+Corporate Background 
+
+Lattice was incorporated in Oregon in 1983 and reincorporated in Delaware in 1985. Our headquarters is located at 111 SW Fifth Avenue, Suite 700, Portland, Oregon 97204, and our website is www.latticesemi.com. Information contained or referenced on our website is not incorporated by reference into, and does not form a part of, this Annual Report on Form 10-K. Our common stock trades on the NASDAQ Global Select Market under the symbol LSCC. 
+
+Reporting Calendar 
+
+We report based on a 52 or 53-week fiscal year ending on the Saturday closest to December 31. Our fiscal 2015 was a 52-week year that ended January 2, 2016. Our fiscal 2014 was a 53-week year, with a 14-week fourth quarter, that ended January 3, 2015. Our fiscal 2013, 2012, and 2011 were 52-week years that ended December 28, 2013, December 29, 2012, December 31, 2011, respectively. Our fiscal 2016 will be a 52-week year and will end on December 31, 2016. All references to quarterly or yearly financial results are references to the results for the relevant fiscal period. 
+
+Available Information 
+
+We make available, free of charge through the Investor Relations section of our website at www.latticesemi.com, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and amendments to those reports and statements as soon as reasonably practicable after such materials are electronically filed with, or furnished to, the SEC. You may also obtain free copies of these materials by contacting our Investor Relations Department at 111 SW Fifth Ave, Ste. 700, Portland, Oregon 97204, telephone (503) 268-8000. Our SEC filings are also available at the SEC's website at www.sec.gov, and they may be read and copied at the SEC's public reference room at 100 F Street NE, Washington, DC 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. The content on any website referred to in this filing is not incorporated by reference into this filing unless expressly noted otherwise. 
+
+&#32;10 
+

@@ -1,0 +1,208 @@
+ ITEM 1. Business Pegasystems Inc. was incorporated in Massachusetts in 1983. Our stock is traded on the NASDAQ Global Select Market under the symbol PEGA. Our Website address is www.pega.com. We are not including the information contained on our Website as part of, or incorporating it by reference into, this Annual Report on Form 10-K. Unless the context otherwise requires, references in this Annual Report on Form 10-K to &#147;the Company,&#148; &#147;Pega,&#148; &#147;we,&#148; &#147;us,&#148; or &#147;our&#148; refer to Pegasystems Inc. and its subsidiaries. 
+
+Our business: Applications Engineered for Evolution 
+
+We believe business success requires that organizations become digital, and that a new generation of strategic applications can accelerate how organizations become modern digital enterprises. We develop, market, license, and support strategic software applications for marketing, sales and onboarding, customer service, and operations, in addition to licensing our Pega 7 platform for clients that wish to build and extend their own applications. Our software is designed to assist clients in building, deploying, and evolving strategic enterprise applications, creating an environment in which business and IT can collaborate to manage back-office operations, front office sales, marketing, and/or customer service needs. 
+
+Our strategic applications are built on Pega 7, our unified on-cloud and on-premises platform (&#147;Pega 7&#148; or &#147;Pega 7 platform&#148;). Pega 7 uses a comprehensive set of visual models to build applications: process models, predictive analytics, user experience (&#147;UX&#148;) designs, decision logic, etc. This visual, model-based approach is designed to be faster in building, deploying, and evolving strategic applications than traditional programming, and to empower our clients to better engage their customers, simplify processes, and turn the power of change into a competitive advantage. 
+
+Our applications and platform intersect with and encompass several traditional software markets, including: Customer Relationship Management (&#147;CRM&#148;), Business Process Management (&#147;BPM&#148;), Business Rules Management Systems (&#147;BRMS&#148;), Dynamic Case Management (&#147;DCM&#148;), Decision Management, including Predictive and Adaptive analytics, and the Vertical Specific Software (&#147;VSS&#148;) market of industry solutions and packaged applications. 
+
+We also provide consulting services and implementation support, training, and technical support services to help clients maximize the business value from our software. Our clients include Global 3000 companies and government agencies that seek to manage complex enterprise systems and customer service issues more nimbly and cost-effectively. Our strategy is to sell a client a series of licenses, each focused on a specific purpose or area of operations. 
+
+&#160;
+
+Our partners 
+
+We maintain alliances with global systems integrators and technology consulting firms that provide consulting services to our clients. Strategic partnerships with technology consulting firms and systems integrators are important to our sales efforts because they influence buying decisions, help us to identify sales opportunities, and complement our software with their domain expertise and services capabilities. These partners may deliver strategic business planning, consulting, project management, and implementation services to our clients. Currently, our partners include well respected, major firms such as Accenture PLC, Atos SE, Capgemini SA, Cognizant Technology Solutions Corporation, EY, Infosys Limited, Tech Mahindra Limited, PricewaterhouseCoopers LLP, Tata Consultancy Services Limited, Virtusa Corporation, and Wipro Limited. 
+
+Our products 
+
+Pega&#146;s applications help streamline business operations, connect enterprises to their customers in real-time across channels, and adapt to meet changing requirements. Our applications can be deployed in the cloud or on-premises, providing our clients with the flexibility to operate the software according to their own preferences. 
+
+Pega 7 
+
+Pega 7 is a unified platform that enables clients to build enterprise applications in a fraction of the time it would take using traditional programming technologies. Pega 7 is engineered to support complex, global enterprises, allowing for application development and deployment on a patented, layered architecture that supports reuse across lines of business, geographies, and customer segments. Our platform features a model-driven, visual, code-free approach to application development that enables business and IT to collaborate, using a visual &#147;language&#148; that models the requirements and design of the application through readily understandable metaphors. This agile approach facilitates continuous improvement methodologies, such as Lean Six Sigma, to effectively manage individual projects or help drive a complete enterprise transformation. All aspects of the application are captured in the model, including business strategy mapping, business processes, data models, case definitions, rules, decisions, reporting, interfaces, intelligent work management capabilities, business activity monitoring, and the UX across both web and mobile devices. 
+
+Once defined this way, the finished application and documentation are generated and ready for use. Our approach bypasses the error-prone and time-consuming process of manually translating requirements into code. The software application is created automatically and directly from the model, helping to close the costly gap between vision and execution. Changes to the code are made by changing the model, and application documentation is generated directly from the model. The Pega 7 platform is standards-based and can leverage a client&#146;s existing technology to create new business applications that cross technology silos and bridge front and back-office. Pega 7 was previously marketed as PegaRULES Process Commander and the Build for Change platform. 
+
+Strategic Applications 
+
+Pegasystems also offers purpose or industry-specific software applications built on the Pega 7 platform. These applications for Marketing, Sales and Onboarding, Customer Service, and Operations provide a best-practice starting point as well as industry-specific business processes. As they are built on the Pega 7 platform, these applications deliver flexibility beyond traditional &#147;commercial off the shelf&#148; products. We believe our applications allow our clients to offer differentiated service and value to their customers. Pega 7 enables organizations to implement new processes quickly, refine customer experiences, bring new offerings to market, and provide customized or specialized processing to help meet the needs of different customers, departments, geographies, or regulatory requirements. 
+
+&#160;
+
+Pega Customer Relationship Management Applications 
+
+Pega&#146;s Customer Relationship Management Applications are designed to evolve to meet changing business needs. Our applications offer process-driven, customer-centric CRM software that maximizes the lifetime value of customers and helps reduce the costs of serving customers. We provide marketing, sales and onboarding, and customer service applications to optimize sales processes and customer service interactions. 
+
+Pega Marketing helps enterprises manage customer relationships across inbound and outbound channels. It incorporates predictive and adaptive analytics and business rules in real time to evaluate the context of each customer interaction, and dynamically recommends the most relevant action, offer, content, and channel. 
+
+Pega Sales Automation automates and manages the sales process from prospecting to product fulfillment. Our software allows enterprises to capture best practices, and guides sales teams through the sales and customer onboarding processes. 
+
+Pega Customer Service provides a contact center desktop, case management for customer service, mobile field service, self-service, and industry specific processes and data models. It allows enterprises to deliver consistent interactions across channels, adapt to changing business requirements, and improve employee productivity. 
+
+Pega provides Operations Applications to support a variety of business needs including risk, fraud, and compliance management; exceptions and investigations; order fulfillment; claims processing; insurance underwriting; and product development. 
+
+These applications incorporate and leverage many common technical capabilities. Our case management and business process technology facilitates the fulfillment of customer requests, while our Next-Best-Action analytics predict and adapt to customer behavior to improve both business outcomes and the customer experience. 
+
+Real-time decision management is incorporated into these applications to guide actions and optimize process outcomes based on business objectives. Capabilities for cross-sell/up-sell, retention, service recommendations, and collections that can be changed with model-driven tools, help businesses deploy automated decision-making quickly. The predictive and adaptive analytics incorporated into these applications support the creation and refinement of decision models to improve outcomes. 
+
+Social listening, text analytics, and natural language processing capabilities are also available in our Pega Customer Relationship Management Applications. These allow our clients to collect social content in tweets, blogs, and posts on Facebook or in other social communities, and enrich it by detecting language, topic, taxonomy, and sentiment. Using this capability, our clients are able to monitor, triage, and respond to social content across multiple channels, and turn it into actionable social intelligence. 
+
+Our Pega Co-Browse collaboration technology enables users to provide fast service by simultaneously &#147;co-browsing&#148; web pages with their customers. The technology is designed to allow our clients to engage customers in real time, and can also be used to enable employees to collaborate on work across physical locations. 
+
+The Pega Mobility capabilities in our Pega 7 platform are designed to help clients efficiently build, manage, and deploy mobile applications as part of a unified Omni-channel experience. By using Pega Mobility, enterprises can deploy Pega applications as packaged, branded mobile applications and manage the complex elements of the mobile application lifecycle including security, integration, testing, and management of mobile applications and devices. Our mobile application development solutions help businesses to reduce the development time, deployment cost, and complexity associated with run-the-business mobile applications. 
+
+&#160;
+
+Pega Cloud &#174; 
+
+Pega Cloud &#174; allows clients to develop, test and deploy, on an accelerated basis, our strategic applications and Pega 7 platform using a secure, flexible Internet-based infrastructure. Pega Cloud provides production and development and testing (&#147;Dev/Test&#148;) services to accelerate the development and deployment of Pegasystems&#146;s strategic applications and the Pega 7 platform. This allows our clients to minimize infrastructure cost while focusing on their core revenue generating competencies. 
+
+Our services and support 
+
+We offer services and support through our global customer success group, our global customer support group, and our PegaACADEMY training services group. We also utilize third party contractors to assist us in providing these services. 
+
+Global Customer Success 
+
+Our Global Customer Success group combines our sales and Pega consulting groups and provides guidance and implementation services to our clients and partners on how to best apply our technology and develop strong implementation expertise. 
+
+Global Customer Support 
+
+Our Global Customer Support group is responsible for technical support of our products. Support services include managing the online Support Community, proactive problem prevention through education and knowledge sharing, and problem tracking, prioritization, escalation, diagnosis, and resolution. 
+
+PegaACADEMY &#150; Training Services 
+
+The success of our sales strategy for multiple follow-on sales to target clients depends on our ability to train a large number of partners and clients to implement our technology. We offer instructor-led and online training for our staff, clients, and partners. Instructor-led training is offered at our regional training facilities in North America, the United Kingdom, India, Australia, and at third-party facilities in numerous other locations, including client sites. Online training is a convenient and cost effective way to learn our software anytime, anywhere. We expect online training to continue to help expand the number of trained and certified experts globally. We have also partnered with universities to offer Pega courseware as part of the student curriculum, taught by Pega instructors and university professors to expand our ecosystem. Our courses are designed to meet the specific requirements of various project implementation roles to include both business and system architects, system administrators, and project leaders. 
+
+Our markets 
+
+Our target clients are industry-leading Global 3000 organizations that require strategic applications to differentiate them in the markets they serve by increasing business agility, driving growth, improving productivity, attracting and retaining customers, and reducing risk. We deliver applications tailored to our clients&#146; specific industry needs. We also enable enterprise transformation initiatives by providing an application development platform that digitizes end-to-end processes and allows for multi-channel customer interactions, all enhanced by Next-Best-Action analytics. 
+
+Our clients are Global 3000 organizations in the financial services, healthcare, insurance, communications and media, public sector, manufacturing, and life sciences markets. 
+
+&#160;
+
+Financial Services 
+
+Financial services organizations rely on software to market, onboard, cross-sell, retain, and service their customers as well as automate the operations that support these customer interactions. Our customer service, sales and new account onboarding, Know Your Customer (&#147;KYC&#148;), marketing, collections, and dispute management applications allow clients to be responsive to changing business requirements. 
+
+Healthcare 
+
+Healthcare organizations seek software that integrates their front and back-offices and helps them deliver personalized care and customer service while reducing cost, automating processes, and increasing operational efficiency. Our applications allow healthcare clients to address sales, service, operations, financial, administrative, and coverage requirements of healthcare consumerism and reform. 
+
+Insurance 
+
+Insurance companies, whether competing globally or nationally for customers and channels, need software to automate the key activities of distribution management, quoting, underwriting, claims, and policy servicing. Insurers are also becoming increasingly sensitive to ways to improve customer service and the overall customer experience. Our applications for insurance carriers help increase business value by delivering customer-focused experiences and personalized interactions that help drive higher sales, lower expense ratios, and mitigate risk. 
+
+Communications and Media 
+
+Communications and media organizations need to address high levels of customer churn, growing pressure to increase revenue, and an ability to respond quickly to changing market conditions. Our applications enable organizations to reshape the way they market and sell to customers, streamline onboarding and fulfillment operations, and bring new services and products to market. 
+
+Public Sector 
+
+Government agencies need to modernize legacy systems and processes to meet the growing demands for improved constituent service, lower costs, reduced fraud and greater levels of transparency. Our applications deliver advanced capabilities to streamline operations and optimize service delivery through an agile, omni-channel approach. 
+
+Manufacturing 
+
+Manufacturers worldwide are transforming their businesses to better engage customers and suppliers, as well as to directly manage the performance of their products&#151;from the earliest designs and throughout the product life-cycle. Our manufacturing applications address field service; help reduce supplier risk; manage warranties, recalls, repairs, and returns; and extend existing enterprise resource planning system capabilities. 
+
+Life Sciences 
+
+Life sciences organizations are looking for solutions to improve customer engagement as well as increase efficiencies and transparency across the product development life-cycle. Our customer engagement, clinical, and pharmacovigilance applications are designed to deliver customer engagement, safety and risk management, and regulatory transparency. 
+
+Other Industries 
+
+We offer software to a broad range of other types of companies and industries. For example, we sell our applications and platform to clients in transportation, retail, travel, energy, utilities, and other services. 
+
+&#160;
+
+Competition 
+
+We compete in the CRM (which includes marketing, sales, and customer service), BPM, Case Management, Decision Management, co-browsing, social engagement, and mobile application development platform software markets, as well as in markets for the vertical applications we provide (e.g. KYC for Financial Services, Pharmacovigilance for Life Sciences). These markets are intensely competitive, rapidly changing, and highly fragmented, as current competitors expand their product offerings and new companies enter the market. Competitors vary in size and in the scope and breadth of the products and services they offer. We encounter competition from: 
+
+&#160;
+
+&#160; &#149; &#160; BPM vendors, including Service-Oriented Architecture (&#147;SOA&#148;) middleware vendors such as IBM, Oracle Corporation, Software AG, and Tibco Software Inc., and other BPM vendors such as Appian Corporation and the Cordys division of Open Text; &#160;
+
+&#160; &#149; &#160; Case Management vendors such as the Documentum division of EMC Corporation, the FileNet division of IBM&#146;s Information Management Group, and the BPM/Case Management division of Open Text; &#160;
+
+&#160; &#149; &#160; CRM application vendors such as Salesforce.com, the Siebel and RightNow divisions of Oracle, the Microsoft Dynamics CRM division of Microsoft, and IBM&#146;s Unica Marketing product; &#160;
+
+&#160; &#149; &#160; Decision Management vendors including Business Rules Engine vendors such as the Operational Decision Management and SPSS divisions of IBM, the Blaze division of FICO, and Oracle Real-Time Decisions and vendors of solutions that leverage decision making in managing customer relationships including IBM Omni-Channel Marketing, SAS Customer Intelligence, Salesforce Marketing Cloud and Adobe Marketing Cloud; &#160;
+
+&#160; &#149; &#160; Companies that provide application specific software for the financial services, healthcare, insurance, and other specific markets such as Guidewire Software, Inc., the Detica NetReveal Division of BAE, SmartStream Technologies Ltd., SunGard, SAP, and the TriZetto division of Cognizant; &#160;
+
+&#160; &#149; &#160; Mobile application platform vendors including Kony, IBM, SAP and Red Hat, as well as open source mobile technologies, including the jQuery Mobile platform from the jQuery Foundation and Adobe PhoneGap; &#160;
+
+&#160; &#149; &#160; Co-browsing software providers, including Oracle&#146;s RightNow Cobrowse Cloud Service; &#160;
+
+&#160; &#149; &#160; Social listening, text analytics, and natural language processing vendors, including Attensity, Visible Technologies, Conversocial, and Salesforce.com; &#160;
+
+&#160; &#149; &#160; Professional service organizations that develop their own products or create custom software in conjunction with rendering consulting services; and &#160;
+
+&#160; &#149; &#160; Clients&#146; in-house information technology departments, which may seek to modify their existing systems or develop their own proprietary systems. We have been most successful competing for clients whose businesses are characterized by a high degree of change, complexity, or regulation. We believe that the principal competitive factors within our market include: 
+
+&#160;
+
+&#160; &#149; &#160; Product adaptability, scalability, functionality, and performance; &#160;
+
+&#160; &#149; &#160; Proven success in delivering cost-savings and efficiency improvements; &#160;
+
+&#160; &#149; &#160; Proven success in enabling improved customer interactions; &#160;
+
+&#160; &#149; &#160; Ease-of-use for developers, business units, and end-users; &#160;
+
+&#160; &#149; &#160; Timely development and introduction of new products and product enhancements; &#160;
+
+&#160; &#149; &#160; Establishment of a significant base of reference clients; &#160;
+
+&#160; &#149; &#160; Ability to integrate with other products and technologies; &#160;
+
+&#160; &#149; &#160; Customer service and support; &#160;
+
+&#160; &#149; &#160; Product price; &#160;
+
+&#160; &#149; &#160; Vendor reputation; and &#160;
+
+&#160; &#149; &#160; Relationships with systems integrators. We believe we are competitively differentiated as our unified Pega 7 platform is designed to allow both client business and IT staff, using a single, intuitive user interface, to build and evolve enterprise applications in a fraction of the time it would take with the types of disjointed architectures and tools offered by our competitors. In addition, our applications, built on the Pega 7 platform, provide the same level of flexibility and ability to adapt to our clients&#146; needs. We believe we compete favorably due to our expertise in our target industries and our long-standing client relationships. We believe we compete less favorably on the basis of some of these factors with respect to our larger competitors, many of which have greater sales, marketing, and financial resources, more extensive geographical presence, and greater name recognition than we do. In addition, we may be at a disadvantage with respect to our ability to provide expertise outside our target industries. See &#147;Risk Factors&#151;The market for our offerings is intensely and increasingly competitive, rapidly changing, and highly fragmented.&#148; in Item 1A of this Annual Report on Form 10-K. 
+
+Intellectual Property 
+
+We rely primarily on a combination of copyright, patent, trademark, and trade secrets laws, as well as confidentiality and intellectual property agreements to protect our proprietary rights. We have obtained patents relating to our system architecture and products in strategic global markets. We enter into confidentiality, intellectual property ownership, and license agreements with our employees, partners, clients, and other third parties and control access to and ownership of software, services, documentation, and other proprietary information as means to protect our proprietary rights. 
+
+Sales and marketing 
+
+We market our software and services primarily through a direct sales force. In addition, strategic partnerships with management consulting firms and major systems integrators are important to our sales efforts because they influence buying decisions, help us identify sales opportunities, and complement our software and services with their domain expertise and professional services capabilities. We also partner with technology providers and application developers. 
+
+To support our sales efforts, we conduct a broad range of marketing programs, including awareness advertising, client and industry-targeted solution campaigns, trade shows, including our PegaWORLD user conference, solution seminars and Webinars, industry analyst and press relations, Web and digital marketing, community development, social media, and other direct and indirect marketing efforts. Our consulting staff, business partners, and other third parties also conduct joint and separate marketing campaigns that generate sales leads. 
+
+Sales by geography 
+
+Sales to clients based outside of the United States of America (&#147;U.S.&#148;) represented approximately 45% of our total revenue during each of the last three fiscal years. We have derived substantially all of our operating revenue from the sale and support of one group of similar products and services during each of the last three fiscal years. The majority of our long-lived assets were located within the U.S. at the end of each of the last three fiscal years. See Note 18, &#147;Geographic Information and Major Clients,&#148; included in the Notes to Consolidated 
+
+&#160;
+
+Financial Statements included in Item 8 of this Annual Report on Form 10-K. See &#147;Risk Factors&#151;We face risks from operations and clients based outside of the U.S.&#148; in Item 1A of this Annual Report on Form 10-K. 
+
+Research and development 
+
+Our development organization is responsible for product architecture, core technology development, product testing, and quality assurance. Our product development priority is to continue expanding the capabilities of our technology. We intend to maintain and extend the support of our existing strategic applications, and we may choose to invest in additional strategic applications which incorporate the latest business innovations. We also intend to maintain and extend the support of popular hardware platforms, operating systems, databases, and connectivity options to facilitate easy and rapid deployment in diverse information technology infrastructures. Our goal with all of our products is to enhance product capabilities, ease of implementation, long-term flexibility, and the ability to provide improved client service. 
+
+During 2015, 2014, and 2013, research and development expenses were approximately $126.4 million, $108.6 million, and $79.7 million, respectively. See Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; of this Annual Report on Form 10-K for further discussion. We expect that we will continue to commit significant resources to our product research and development in the future to maintain our leadership position. 
+
+Employees 
+
+As of January 31, 2016, we had 3,333 employees worldwide, of which 1,453 were based in North America, 663 were based in Europe, and 1,217 were based in Asia Pacific. 
+
+Backlog of license, maintenance, and services 
+
+As of December 31, 2015, we had software license, maintenance, cloud, and services agreements with clients expected to result in future revenue (&#147;backlog&#148;) of approximately $580.9 million, of which we expect approximately $336.9 million to be recognized in 2016. As of December 31, 2014, we had approximately $540.3 million in backlog. Under some of these agreements, we must fulfill certain conditions prior to recognizing revenue, and there can be no assurance when, if ever, we will be able to satisfy all such conditions in each instance. Backlog may vary in any given period depending on the amount and timing of when arrangements are executed, as well as the mix between perpetual license, term license, and cloud arrangements. Business conditions could change and, therefore, backlog may not be a reliable indicator of future financial performance. See Item 7 &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; of this Annual Report on Form 10-K for more detail regarding backlog. 
+
+Available Information 
+
+We make available our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and amendments to these reports, free of charge through our Website ( www.pega.com/about/investors ) as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission (&#147;SEC&#148;). The SEC maintains a Website that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. We make available on our Website reports filed by our executive officers and Directors on Forms 3, 4, and 5 regarding their ownership of our securities. Our Code of Conduct, and any amendments to our Code of Conduct, are also available on our Website. 
+
+&#160;
+

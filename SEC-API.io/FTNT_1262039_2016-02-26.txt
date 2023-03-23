@@ -1,0 +1,226 @@
+ ITEM 1. Business 
+
+&#160; 
+
+Overview 
+
+Fortinet is a global leader and innovator in network security. We provide high performance cybersecurity solutions to a wide variety of enterprises, service providers and government organizations of all sizes across the globe, including a majority of the 2015 Fortune 100. We provide protection against cyberattacks and the technology to take on increasing security performance requirements of the network. We offer a broad range of security products and solutions, providing customers with an end-to-end platform and a single source of threat intelligence to minimize security gaps. 
+
+The cyber threat environment is unprecedented both in terms of volume and sophistication of attacks. As a result, cyber security has increased in priority and management complexity for enterprises. Fortinet offers an end-to-end solution, which ensures ongoing security efficacy through a single source of threat intelligence and minimizes complexity and risk. Our cyber security platform provides a broad range of security products and solutions focused on the needs around enterprise firewall, advanced threat protection, data center security, cloud security, secure access and connected unified threat management (&#8220;UTM&#8221;). 
+
+Our flagship integrated network security solution consists of our FortiGate physical, virtual machine and cloud platforms, which are deployable in the business environments of large and medium-sized enterprise, service providers and small and medium-sized businesses, as well as government organizations. These platforms provide a broad array of integrated security and networking functions to help protect data, applications and users from network- and content-level security threats. These functions, which can be integrated in a variety of ways, include firewall, intrusion prevention (&#8220;IPS&#8221;) anti-malware, application control, virtual private network (&#8220;VPN&#8221;), web-filtering, vulnerability management, anti-spam, mobile security, wireless controller and wide area network (&#8220;WAN&#8221;) acceleration. Our FortiGate appliance platform may be deployed as core firewalls, internal segmentation firewalls, next generation firewalls (&#8220;NGFW&#8221;), distributed firewalls, virtual firewalls, cloud firewalls, carrier class firewalls, data center firewalls (&#8220;DCFW&#8221;) and connected UTM systems. For access networks, we offer our wireless access points and switch appliances, which integrate secure wireless and wired access capabilities into the FortiGate network security platform. The FortiGate products integrate our FortiASICs, which are specifically designed for accelerated processing of security and networking functions, and our FortiOS operating system, which provide a feature-rich foundation for all FortiGate security functions. Our FortiManager and FortiAnalyzer products work in conjunction with our FortiGate virtual and physical appliances. FortiManager provides customers with centralized management of multiple FortiGates, and FortiAnalyzer provides a single point of network log data collection. These products enable customers to implement security policies across large networks. 
+
+Fortinet&#8217;s cybersecurity platform also includes an array of products that further complement our FortiGate products to offer additional protection from security threats across networks. These products include our FortiMail email security, FortiSandbox advanced threat protection (&#8220;ATP&#8221;), FortiWeb web application firewall, FortiDDos, and FortiDB database security appliances, as well as our FortiClient endpoint security software, FortiAP secure wireless access points and FortiSwitch secure switch connectivity products. 
+
+Supporting virtual and cloud-based deployments, we offer virtual appliances for the FortiGate, FortiManager, FortiAnalyzer, FortiWeb, FortiMail, FortiSandbox, FortiCache and FortiADC product lines that can be used in conjunction with traditional Fortinet physical appliances to help ensure the visibility, management and protection of physical and virtual environments. We also offer on-demand cloud-based versions of FortiGate and FortiWeb. 
+
+In addition, we complement our cybersecurity platform with subscription, customer support, and training services. Our FortiGuard security subscription uses global threat feeds to create real time threat intelligence and security updates to complement Fortinet products. Our global FortiCare customer support team provides global technical support for all Fortinet products. We also provide a range of technical training for customers and partners under the Network Security Expert Program. 
+
+We typically sell our security solutions to channel partners, who in turn sell to end-customers. We also sell directly to end users. Our end users include businesses and enterprises, government organizations, and service providers, across a wide range of industries, including telecommunications, technology, government, financial services, education, retail, manufacturing and healthcare. 
+
+During our year ended December 31, 2015 , we generated total revenue of $1.01 billion &#32;and net income of $8.0 million . See Part II, Item 8 of this Annual Report on Form 10-K for more information on our consolidated balance sheets as of December 31, 2015 and 2014 and our consolidated statements of operations, comprehensive income, stockholders&#8217; equity, and cash flows for each of the three years ended December 31, 2015, 2014, and 2013. 
+
+&#32;1 
+
+We were incorporated in Delaware in November 2000. Our principal executive office is located at 899 Kifer Road, Sunnyvale, California 94086 and our telephone number at that location is (408) 235-7700. 
+
+Technology and Architecture 
+
+Our proprietary FortiASIC hardware architecture, FortiOS operating system and associated security and networking functions combine to form a platform that integrates security features and enables our products to perform sophisticated security processing for networks with high throughput requirements. 
+
+FortiASIC 
+
+Our proprietary FortiASIC family of Application-Specific Integrated Circuits (&#8220;ASICs&#8221;) is comprised of three main lines of processors: (i) the FortiASIC content processor (&#8220;CP&#8221;), (ii) the FortiASIC network processor (&#8220;NP&#8221;), and (iii) the FortiASIC system-on-a-chip (&#8220;SOC&#8221;). Our proprietary ASICs are designed to enhance the sophisticated security processing capabilities implemented in software by accelerating computationally intensive tasks such as firewall policy enforcement or IPS threat detection. This architecture provides the flexibility of implementing accelerated processing of new threat detection without requiring a new ASIC. The FortiASIC CP is currently included in most of our entry-level and all of our mid-range and high-end FortiGate appliances. The FortiASIC NP is currently included in some of our mid-range and high-end FortiGate appliances, delivering additional accelerated firewall and VPN performance. Entry-level FortiGate products (FortiGate 20 to 100 series) often use the SOC2. Mid-range FortiGate products (FortiGate 200 to 900 series) use a central processing unit (&#8220;CPU&#8221;) and include the NP and CP. The high-end FortiGate products (FortiGate 1000 to 5000 series) use multiple CPUs, CPs and NPs. 
+
+&#160; 
+
+FortiOS 
+
+Our proprietary FortiOS operating system provides the foundation for the operation of all FortiGate appliances, from the core kernel functions to the security processing feature sets. FortiOS provides (i) multiple layers of security including a hardened kernel layer providing protection for the FortiGate system, (ii) a network security layer providing security for end-customers&#8217; network infrastructures and (iii) application content protection providing security for end-customers&#8217; workstations and applications. FortiOS directs the operations of processors and ASICs and provides system management functions such as command-line and graphical user interfaces. 
+
+Key high-level functions and capabilities of FortiOS include: 
+
+&#8226; 
+
+helping enable FortiGate appliances to be configured into different security environments such as our Internal Network Firewall, Next Generation Firewall and the Data Center Firewall; 
+
+&#8226; 
+
+configuration of the physical aspects of the appliance such as ports, Wi-Fi and switching; 
+
+&#8226; 
+
+key network functions such as routing and deployment modes (network routing, transparent, sniffer, etc.); 
+
+&#8226; 
+
+implementation of security updates delivering advanced threat protection, such as IPS, antivirus, and application control; 
+
+&#8226; 
+
+access to cloud-based web and email filtering databases; 
+
+&#8226; 
+
+direct integration with both cloud and on premises FortiSandbox technology 
+
+&#8226; 
+
+security policy objects and enforcement; 
+
+&#8226; 
+
+data leak prevention and document finger printing; and 
+
+&#8226; 
+
+real-time reporting and logging. 
+
+We make updates to FortiOS available through our FortiCare technical support services. FortiOS also enables advanced, integrated routing and switching, allowing end-customers to deploy FortiGate devices within a wide variety of networks, as well as providing a direct replacement solution option for legacy switching and routing equipment. FortiOS implements a suite of commonly used standards-based routing protocols as well as address translation technologies, allowing the FortiGate appliance to integrate and operate in a wide variety of network environments. Additional features include Virtual Domain (&#8220;VDOM&#8221;), capabilities and traffic queuing and shaping. These features enable administrators to set the appropriate configurations and policies that meet their infrastructure needs. FortiOS also provides capabilities for logging of traffic for forensic analysis purposes which are particularly important for regulatory compliance initiatives like payment card industry data security standard (&#8220;PCI DSS&#8221;). FortiOS is designed to help control network traffic in order to optimize performance by including functionality such as packet classification, queue disciplines, policy enforcement, congestion management, WAN optimization and caching. 
+
+&#32;2 
+
+Products 
+
+Our core product offerings consist of our FortiGate product family, along with our FortiManager central management and FortiAnalyzer central logging and reporting product families, both of which are typically purchased to complement commercial and enterprise deployments. Our FortiGate physical and virtual appliance ships with a set of broad security services. These security services are enabled by FortiGuard which provides extensive threat research and a global cloud network to deliver protection services to each FortiGate appliance. 
+
+FortiGate 
+
+Our flagship FortiGate physical and virtual appliances offer a broad set of security and networking functions, including firewall, intrusion prevention, anti-malware, VPN, application control, web filtering, anti-spam and WAN acceleration. All FortiGate models run on our FortiOS operating system. Typically, the FortiGate physical appliances include our FortiASICs to accelerate content and network security features implemented within FortiOS. FortiGate platforms can be centrally managed through both embedded web-based and command line interfaces, as well as through FortiManager, which provides central management architecture for thousands of FortiGate physical and virtual appliances across a range of hypervisor platforms. 
+
+By combining multiple network security functions in our purpose-built security platform, the FortiGate appliances provide broad, high quality protection capabilities and deployment flexibility while reducing the operational burden and costs associated with managing multiple point products. With over 30 models in the FortiGate product line, FortiGate is designed to address security requirements for small- to medium-sized businesses, large enterprises, service providers and government organizations worldwide. 
+
+All FortiGate models run on our FortiOS operating system. Typically, all FortiGate physical appliances include our FortiASICs to accelerate content and network security features implemented within FortiOS. The significant differences between each model are the performance and scalability targets each model is designed to meet, while the security features and associated services offered are common throughout all models. The FortiGate-20 through -100 series models are designed for perimeter protection for small- to medium-sized businesses. The FortiGate-200 through -900 series models are designed for perimeter deployment in medium-sized to large enterprise networks. The FortiGate-1000 through -5000 series models deliver high performance and scalable network security functionality for perimeter, data center and core deployment in large enterprise and service provider networks. 
+
+We also incorporate additional technologies within FortiGate appliances that differentiate our solutions, including data leakage protection (&#8220;DLP&#8221;), traffic optimization, SSL inspection, threat vulnerability management and wireless controller technology. In addition to these in-built features, we offer a full range of wireless access points and controllers, complementing FortiGate with the flexibility of wireless LAN access. 
+
+Fortinet Management and Analysis Products 
+
+Our FortiManager and FortiAnalyzer physical and virtual products are typically sold in conjunction with most commercial and enterprise deployments. 
+
+FortiManager. Our FortiManager family of products provides a central and scalable management solution for our FortiGate products, including software updates, configuration, policy settings and security updates. One FortiManager product is capable of managing thousands of FortiGate units, and also provides central management for FortiClient software. FortiManager facilitates the coordination of policy-based provisioning, device configuration and operating system revision management, as well as network security monitoring and device control. 
+
+FortiAnalyzer. Our FortiAnalyzer family of products provides centralized network logging, analyzing and reporting solutions that securely aggregate content and log data from our FortiGate devices and other Fortinet products as well as third-party devices to enable network logging, analysis and reporting. 
+
+We also offer other physical and virtual appliances and software products that protect our end-customers from security threats to other critical areas in the enterprise, such as messaging, web-based applications and databases, and employees&#8217; computers or mobile devices. 
+
+&#32;3 
+
+Services 
+
+FortiGuard Security Subscription Services 
+
+Security requirements are dynamic due to the constantly changing nature of threats. Our FortiGuard Labs global threat research team uses automated and manual processes to identify emerging threats, collects threat samples, and replicates, reviews, characterizes and collates attack data. Based on this research, we develop updates for virus signatures, attack definitions, scanning engines and other security solution components to distribute to end-customers. Our FortiGuard security subscription services are designed to allow us to quickly deliver new threat detection capabilities to end-customers worldwide as new threats evolve. End-customers purchase FortiGuard security subscription services in advance, typically with terms of one to three years, to obtain access to regular updates for application control, antivirus, intrusion prevention, web filtering and anti-spam functions for our FortiGate products; antivirus, web filtering and VPN functions for our FortiClient software; antivirus and anti-spam functions for our FortiMail products; vulnerability management for our FortiGate, FortiAnalyzer and FortiMonitor products; database functions for our FortiDB appliance; web functions for our FortiWeb appliances; and advanced threat protection for our FortiSandbox on premise and cloud products. FortiSandbox is a key part of Fortinet&#8217;s integrated and automated advanced threat protection solution and offers inspection of all protocols and functions in one appliance. It is designed to detect and analyze advanced attacks designed to bypass traditional security defenses. We provide FortiGuard security subscription services 24 hours a day, seven days a week. 
+
+&#160; 
+
+FortiCare Technical Support Services 
+
+Our FortiCare services include technical support as well as an extended product warranty. In addition to our standard support service offering, we offer a premium service that offers enhanced technical support and warranty response times and semi-dedicated support oriented towards mission-critical applications. 
+
+For our standard technical support , channel partners often provide first level support to the end-customer, especially for small- and medium-sized end-customers. Fortinet also provides all levels of support to our end-customers, as well as second- and third-level support to our partners where appropriate. We also provide knowledge management tools and customer self-help portals to help augment our support capabilities in an efficient and scalable manner. We deliver technical support to partners and end-customers 24 hours a day, seven days a week through regional technical support centers located worldwide. 
+
+Professional Services 
+
+We offer professional services to end-customers primarily for large implementations where expert technical resources are required. Our professional services consultants help in the design of deployments of our products and work closely with end-customer engineers, managers and other project team members to implement our products according to design, utilizing network analysis tools, attack simulation software and scripts. 
+
+Dedicated support engineers are available to help identify and eliminate issues before problems arise. These Technical Account Managers (&#8220;TAMs&#8221;) are seasoned professionals with broad and deep experience in the security and networking arena. Each TAM acts as a single point of contact and customer advocate within Fortinet, and is focused on building and maintaining a deep understanding of the customer business and their security requirements 
+
+Training Services 
+
+We offer training services to our end-customers and channel partners through our training department and authorized training partners. We have also implemented a training certification program, Network Security Expert, to help ensure an understanding of our products and services. 
+
+Customers 
+
+We typically sell our security solutions to channel partners, who in turn sell to end-customers of various sizes and, at times, we also sell directly to end users. Our end users include small businesses, large enterprises, government organizations, and service providers, across a wide range of industries, including telecommunications, technology, government, financial services, education, retail, manufacturing and healthcare. An end-customer deployment may involve one of our appliances or thousands, depending on our end-customer&#8217;s size and security requirements. We also offer access to our products via the cloud through certain cloud providers. Many of our customers also purchase our FortiGuard security subscription services and FortiCare technical support services. For information regarding our revenue by customer based on billing address, see Note 14 to our consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K. 
+
+&#32;4 
+
+One distributor, Exclusive Networks Group, which distributed our solutions to a large group of resellers and end-customers, accounted for 18% , 15% &#32;and 12% &#32;of total revenue during 2015, 2014 and 2013, respectively. 
+
+Sales and Marketing 
+
+We primarily sell our products and services through a distribution model. We sell to distributors that sell to networking security and enterprise-focused resellers and service providers, who, in turn, sell to our end-customers. In certain cases, we sell directly to government-focused resellers, as well as to very large service providers who have large purchasing power and unique customer deployment demands. We work with many technology distributors, including Exclusive Networks Group, Fine Tec Computer, Ingram Micro Inc. and Arrow Electronics, Inc., and enterprise security-focused resellers including Westcon and Tech Data. 
+
+We support our channel partners with a dedicated team of experienced channel account managers, sales professionals and sales engineers who provide business planning, joint marketing strategy, and pre-sales and operational sales support. Additionally, our sales team often helps drive and support large enterprise and service provider sales through a direct touch model. Our sales professionals and engineers typically work closely with our channel partners and directly engage with large end-customers to help address their unique security and deployment requirements. Our sales cycle for an initial end-customer purchase may require approximately six months but can be longer for large enterprises, service providers and government organizations. To support our broadly dispersed global channel and end-customer base, we have sales offices in over 70 countries around the world. 
+
+Our marketing strategy is focused on building our brand and driving end-customer demand for our security solutions. We use a combination of internal marketing professionals and a network of regional and global channel partners. Our internal marketing organization is responsible for messaging, branding, product marketing, channel marketing, event marketing, communications and sales support programs. We focus our resources on programs, tools and activities that can be leveraged by partners worldwide to extend our marketing reach, such as sales tools and collateral, product awards and technical certifications, media engagement, training, regional seminars and conferences, webinars and various other demand-generation activities. 
+
+In 2015, we continued to invest in sales and marketing to capture market share, particularly in the enterprise market where enterprise customers tend to have a higher lifetime value, and to accelerate our growth. We intend to continue investing in sales and marketing in order to capture additional market share in the enterprise market. 
+
+&#160; 
+
+Manufacturing and Suppliers 
+
+We outsource the manufacturing of our security appliance products to a variety of contract manufacturers and original design manufacturers. Our current manufacturing partners include Flextronics International Ltd., Micro-Star International Co., Ltd., Adlink Technology, Inc., Senao Networks, Inc., and a number of Taiwan-based manufacturers. We submit purchase orders to our contract manufacturers that describe the type and quantities of our products to be manufactured, the delivery date and other delivery terms. Once our products are manufactured, they are sent to either our warehouse in California, or to our logistics partner in Taoyuan City, Taiwan, where accessory packaging and quality-control testing are performed. We believe that outsourcing our manufacturing and a substantial portion of our logistics enables us to focus resources on our core competencies. Our proprietary FortiASICs, which are the key to the performance of our appliances, are built by contract manufacturers including Faraday Technology Corporation, Kawasaki Microelectronics America, Inc. (&#8220;K-Micro&#8221;), and Renesas Electronics Corporation (&#8220;Renesas&#8221;). These contract manufacturers use foundries operated by either United Microelectronics Corporation (&#8220;UMC&#8221;) or Taiwan Semiconductor Manufacturing Company Limited (&#8220;TSMC&#8221;). 
+
+The components included in our products are sourced from various suppliers by us or more frequently by our contract manufacturers. Some of the components important to our business, including specific types of CPUs from Intel Corporation (&#8220;Intel&#8221;), network chips from Broadcom Corporation (&#8220;Broadcom&#8221;), Marvell Technology Group Ltd. (&#8220;Marvell&#8221;) and Intel, and solid-state drives (silicon-based storage devices) from OCZ Technology Group, Inc. and Samsung Electronics Co., Ltd., are available from a limited or sole source of supply. 
+
+We have no long-term contracts related to the manufacturing of our ASICs or other components that guarantee any capacity or pricing terms. 
+
+Research and Development 
+
+We focus our research and development efforts on developing new products and systems, and adding new features to existing products and systems. Our development strategy is to identify features, products and systems for both software and hardware that are, or are expected to be, important to our end-customers. Our success in designing, developing, manufacturing and 
+
+&#32;5 
+
+selling new or enhanced products will depend on a variety of factors, including the identification of market demand for new products, product selection, timely implementation of product design and development, product performance, effective manufacturing and assembly processes and sales and marketing. 
+
+Intellectual Property 
+
+We rely primarily on patent, trademark, copyright and trade secrets laws, confidentiality procedures and contractual provisions to protect our technology. As of December 31, 2015 , we had 278 issued U.S. and foreign patents and 236 pending U.S. and foreign patent applications. We also license software from third parties for inclusion in our products, including open source software and other software available on commercially reasonable terms. 
+
+Despite our efforts to protect our rights in our technology, unauthorized parties may attempt to copy aspects of our products or obtain and use information that we regard as proprietary. We generally enter into confidentiality agreements with our employees, consultants, vendors and customers, and generally limit access to and distribution of our proprietary information. However, we cannot provide assurance that the steps we take will prevent misappropriation of our technology. In addition, the laws of some foreign countries do not protect our proprietary rights to as great an extent as the laws of the United States, and many foreign countries do not enforce these laws as diligently as government agencies and private parties in the United States. 
+
+Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation regarding patent and other intellectual property rights. Third parties have asserted, are currently asserting and may in the future assert patent, copyright, trademark or other intellectual property rights against us, our channel partners or our end-customers. Successful claims of infringement by a third party could prevent us from distributing certain products or performing certain services or require us to pay substantial damages (including treble damages if we are found to have willfully infringed patents or copyrights), royalties or other fees. Even if third parties may offer a license to their technology, the terms of any offered license may not be acceptable and the failure to obtain a license or the costs associated with any license could cause our business, operating results or financial condition to be materially and adversely affected. We typically indemnify our end-customers, distributors and certain resellers against claims that our products infringe the intellectual property of third parties. 
+
+Seasonality 
+
+For information regarding seasonality in our sales, see the section entitled &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8212;Quarterly Results of Operations&#8212;Seasonality, Cyclicality and Quarterly Revenue Trends&#8221; in Part II, Item 7 of this Annual Report on Form 10-K. 
+
+Competition 
+
+The markets for our products are extremely competitive and are characterized by rapid technological change. The principal competitive factors in our markets include the following: 
+
+&#160; 
+
+&#8226; product performance, features, effectiveness, interoperability and reliability; 
+
+&#8226; our ability to add and integrate new networking and security features and technological expertise; 
+
+&#8226; compliance with industry standards and certifications; 
+
+&#8226; price of products and services and total cost of ownership; 
+
+&#8226; brand recognition; 
+
+&#8226; customer service and support; 
+
+&#8226; sales and distribution capabilities; 
+
+&#8226; size and financial stability of operations; and 
+
+&#8226; breadth of product line. 
+
+Among others, our competitors include BlueCoat Systems, Inc. (&#8220;BlueCoat&#8221;), Check Point Software Technologies Ltd. (&#8220;Check Point&#8221;), Cisco Systems, Inc. (&#8220;Cisco&#8221;) (through its acquisition of SourceFire, Inc. (&#8220;SourceFire&#8221;)), Dell Inc. (through its acquisition of SonicWALL, Inc. (&#8220;SonicWALL&#8221;)), F5 Networks, Inc. (&#8220;F5 Networks&#8221;), FireEye, Inc. (&#8220;FireEye&#8221;), Intel (through its acquisition of McAfee, Inc. (&#8220;McAfee&#8221;)), Juniper Networks, Inc. (&#8220;Juniper&#8221;), Palo Alto Networks, Inc. (&#8220;Palo Alto Networks&#8221;) and Sophos Group Plc (&#8220;Sophos&#8221;). 
+
+We believe we compete favorably based on our products&#8217; performance, reliability and breadth, our ability to add and integrate new networking and security features and our technological expertise. Several competitors are significantly larger, have greater financial, technical, marketing, distribution, customer support and other resources, are more established than we are and have significantly better brand recognition. Some of these larger competitors have substantially broader product offerings and 
+
+&#32;6 
+
+leverage their relationships based on other products or incorporate functionality into existing products in a manner that discourages users from purchasing our products. Based in part on these competitive pressures, we may lower prices or attempt to add incremental features and functionality. 
+
+Conditions in our markets could change rapidly and significantly as a result of technological advancements or continuing market consolidation. The development and market acceptance of alternative technologies could decrease the demand for our products or render them obsolete. Our competitors may introduce products that are less costly, provide superior performance, market their products better, or achieve greater market acceptance than us. In addition, our larger competitors often have broader product lines and are in a better position to withstand any significant reduction in capital spending by end-customers in these markets, and will therefore not be as susceptible to downturns in a particular market. The above competitive pressures are likely to continue to impact our business. We may not be able to compete successfully in the future, and competition may harm our business. 
+
+Employees 
+
+As of December 31, 2015 , our total headcount was 4,018 &#32;employees and contractors. None of our U.S. employees are represented by a labor union; however, our employees in certain European countries have the right to be represented by external labor organizations if they maintain up-to-date union membership. We have not experienced any work stoppages, and we consider our relations with our employees to be good. 
+
+Available Information 
+
+Our web site is located at www.fortinet.com, and our investor relations web site is located at http://investor.fortinet.com. The information posted on our website is not incorporated by reference into this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Act, are available free of charge on our investor relations web site as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. You may also access all of our public filings through the SEC&#8217;s website at www.sec.gov. Further, a copy of this Annual Report on Form 10-K is located at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations web site. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, as part of our investor relations web site. The contents of these web sites are not intended to be incorporated by reference into this report or in any other report or document we file. 
+
+&#32;7 
+

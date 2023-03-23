@@ -1,0 +1,630 @@
+ Item 1. Business 
+
+&#160; 
+
+This Annual Report on Form 10-K and the documents incorporated herein by reference contain forward-looking statements based on current expectations, estimates and projections about Data I/O Corporation&#8217;s industry, management&#8217;s beliefs and certain assumptions made by management. See &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Forward Looking Statements.&#8221; 
+
+&#160; 
+
+General 
+
+&#160; 
+
+Data I/O Corporation (&#8220;Data I/O&#8221;, &#8220;We&#8221;, &#8220;Our&#8221;, &#8220;Us&#8221;) is a global market leader for advanced programming and associated intellectual property management solutions used in the manufacturing of flash, microcontrollers, and flash-memory-based intelligent devices. Data I/O &#174; designs, manufactures and sells programming systems for electronic device manufacturers, specifically targeting high growth areas such as high-volume users of flash memory and microcontrollers. Most electronic products today incorporate one or more programmable semiconductor devices that contain data and operating instructions essential for the proper operation of the product. 
+
+&#160; 
+
+Our mission is to deliver high-value systems, software and services to the expanding programmable semiconductor market by providing a software-rich programming platform for content delivery. Programmable devices are used in products such as automobile electronics, smartphones, HDTV, tablets and gaming systems. Our solutions, some of which include associated intellectual property management, secure content management and process control capabilities, enable us to address the demanding requirements of the electronic device market, where applications and intellectual property protection are essential to our customer&#8217;s success. Our largest customers are heavy users of programmable semiconductor devices and include original equipment manufacturers (&#8220;OEMs&#8221;) in automotive electronics, wireless, consumer electronics and the Internet of Things (&#8220;IoT&#8221;) and their electronic manufacturing service (&#8220;EMS&#8221;) contract manufacturers. 
+
+&#160; 
+
+Data I/O was incorporated in the State of Washington in 1969 and its business was founded in 1972. 
+
+&#160; 
+
+Industry Background 
+
+&#160; 
+
+We enable companies to improve productivity and reduce costs by providing device programming solutions that allow our customers to take intellectual property (large design and data files) and protect and program it into memory, microcontroller and logic devices quickly and cost-effectively. We also provide services related to hardware support, system installation and repair, and device programming. Companies that design and manufacture products utilizing programmable electronic devices, ranging from automobiles to cell phones, purchase programming solutions from us. Trends of increasing device densities and customers increasing their software content file sizes, combined with the increasing numbers of intelligent devices such as automotive electronics and IoT applications, are driving demand for our solutions. 
+
+Traditionally, our programming market opportunity focused on the number of semiconductor devices to be programmed, but because of the rapid increase in the density of devices, the focus has shifted in many cases from the number of devices to the number of bits per device to be programmed. With expected growth in IoT applications, the business opportunity for this market differentiates on quality and automation with increasing focus on security and very small devices. 
+
+&#160; 
+
+Our automated programming systems integrate both programming and handling functions into a single product solution. Quality conscious customers, particularly those in high-volume manufacturing and programming, continue to drive this portion of our business. 
+
+&#160; 
+
+Products 
+
+&#160; 
+
+In order to accommodate the expanding variety and quantities of programmable devices being manufactured today, we offer multiple solutions for the numerous types of device mix and volume usage by our customers in the various market segments and applications. We work closely with leading manufacturers of programmable devices to develop our products to meet the requirements of a particular device. Our newer products are positioned and recognized as some of the most advanced programming equipment and associated intellectual property management solutions. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+Our PSV7000 Automated Programming System has continued to be adopted in the marketplace, in particular for automotive electronics customers, and has previously won the Global Technology Award at Productronica, the Circuits Assembly NPI Award and the EM Asia Innovation Award. Our PSV3000 Automated Programming System, developed for the local Asian automation market, was introduced in July 2014 and has previously won the Global Technology Award for Device Programming at SMTA International, the EM Asia Innovation Award and the SMT China Vision Award. Our PSV5000 automated programming system, which replaces our PS388 system with a more integrated solution at a lower cost, was introduced in April 2015. Our LumenX TM programmer won the Global Technology Award at Productronica in November 2015 and the Circuits Assembly NPI award in March 2016. In 2015, approximately 69% of our capital equipment sales came from PSV family and LumenX&#8482; which were introduced over the last 3 years. 
+
+&#160;
+
+Our programming solutions include a broad range of products, systems, modules and accessories, grouped into two general categories: automated programming systems and manual programming systems. We provide two categories of automated programming systems: off-line and in-line. Our automated systems have list selling prices ranging from $61,000 to $390,000 and our manual systems have list selling prices ranging from $9,500 to $27,000. Our common programming platform, FlashCORE&#8482;, and our universal job setup tool, Tasklink&#8482; for Windows&#174;, are available in each family of our automated programming systems and in FlashPAK&#8482;, our manual programming system. Our newest programming technology, LumenX&#8482;, is available on our PSV7000 and as a standalone manual programmer. In addition, we provide device support and service on all of our products. Device support is a critical aspect of our business and consists of writing software algorithms for devices and developing socket adapters to hold and connect to the device for programming. 
+
+&#160;
+
+Our products have both an upfront solution sale and recurring revenue elements. Adapters are a consumable item and software and maintenance are typically recurring under annual subscription contracts. We experienced a larger percentage of capital equipment sales in 2015 compared to 2014, which we believe was primarily due to a rebound in capital spending. 
+
+&#160;
+
+Sales Percentage of Total Sales Breakdown by Type 
+
+Sales Type 
+
+2014 
+
+Drivers 
+
+&#160; Equipment Sales 
+
+65% 
+
+60% 
+
+Capacity, Process improvement, Technology 
+
+&#160; Adapter Sales 
+
+25% 
+
+28% 
+
+Capacity utilization, New customer products 
+
+&#160; Software and Maintenance Sales 
+
+10% 
+
+12% 
+
+Installed base, Added capabilities 
+
+Total 
+
+100% 
+
+100% 
+
+&#160;
+
+&#160;
+
+The table below presents our main products and the key features that benefit our customers: 
+
+&#160;
+
+Products 
+
+Key Features 
+
+Customer Benefits 
+
+PSV Handlers: Off-line (Automated) 
+
+&#183; &#160; Fast program and verify speeds 
+
+&#183; &#160; Up to 114 programming sites 
+
+&#183; &#160; Up to 2000 devices per hour throughput 
+
+&#183; &#160; Supports LumenX&#8482; and FlashCORE III programmers 
+
+&#183; &#160; Supports multiple media types 
+
+&#183; &#160; Supports quality options &#8211; fiber laser marking, 3D coplanarity 
+
+&#183; &#160; Factory Integration Software &#38; other Software 
+
+&#183; &#160; Managed and secure programming 
+
+&#183; &#160; High throughput for high density Flash programming 
+
+&#183; &#160; High flexibility with respect to I/O options (tray, tape, tube), marking/labeling and vision for coplanarity inspection 
+
+RoadRunner &#38; RoadRunner3 Series Handlers: 
+
+In-line, 
+
+(Automated) 
+
+&#160;
+
+&#183; &#160; Just-in-time in-line programming 
+
+&#183; &#160; Direct integration with placement machine supporting SIPLACE, Fuji NXT, Panasonic, Universal/Genesis and Assembleon 
+
+&#183; &#160; Factory Integration Software 
+
+&#183; &#160; Supports FlashCORE III programmers 
+
+&#183; &#160; Dramatic reduction in inventory carrying and rework costs 
+
+&#183; &#160; &#8220;Zero&#8221; footprint 
+
+&#183; &#160; Rapid return on investment (&#8220;ROI&#8221;) typically realized in a matter of months 
+
+&#183; &#160; Integration with factory systems 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Products 
+
+Key Features 
+
+Customer Benefits 
+
+LumenX TM Programmer 
+
+&#160;
+
+&#183; &#160; Extensible architecture for fast program, verify and download speeds 
+
+&#183; &#160; Large file size support 
+
+&#183; &#160; Secure Job creation 
+
+&#183; &#160; 8 sockets with tool-less changeover with single socket adapters 
+
+&#183; &#160; Managed and secure programming 
+
+&#183; &#160; Fast setup and job changeover 
+
+&#183; &#160; Highest yield and low total cost of programming 
+
+FlashPAK III programmer: 
+
+(Non-Automated) 
+
+&#183; &#160; Scalability 
+
+&#183; &#160; Network control via Ethernet 
+
+&#183; &#160; Stand-alone operation or PC compatible 
+
+&#183; &#160; Parallel programming 
+
+&#183; &#160; Validate designs before moving down the firmware supply chain 
+
+&#183; &#160; Unmatched ease of use in manual production systems 
+
+Sprint/Unifamily programmers: Off-line, Low Volume and Engineering 
+
+(Non-Automated) 
+
+(Legacy Equipment) 
+
+&#183; &#160; Breadth of device coverage 
+
+&#183; &#160; Universal programmer 
+
+&#160;
+
+&#160;
+
+Customers/Markets 
+
+&#160;
+
+We sell our solutions to customers worldwide, many of whom are world-class manufacturers of electronic devices used in a broad range of industries, as described in the following table: 
+
+&#160;
+
+&#160;
+
+Customer Types 
+
+&#160;
+
+OEMs 
+
+EMS 
+
+Programming Centers 
+
+Automotive Electronics 
+
+IoT, Industrial, Consumer Electronics 
+
+Wireless 
+
+Contract Manufacturers 
+
+Notable end customers 
+
+Delphi, Bosch, Alpine, Visteon, Kostal, Harman Becker, Denso, Continental, Panasonic, Magna, Magnetti Marelli 
+
+Square D, Siemens, Danfoss, Philips, Schneider, Endress+Hauser, Pilz, Insta, Carrier, Microsoft, Sony, Amazon, UTC 
+
+LG, TCL, Blackberry, Sony, HTC, ZTE 
+
+Pegatron, Flextronics, Jabil, Wistron, Sanmina SCI, Foxconn, Leesys, Calcomp 
+
+Arrow, Avnet, BTV, HTV, CPS, EPS, Elmitech, Noa(Toshiba) 
+
+Business drivers 
+
+Safety, navigation and infotainment devices, increased electronic content to support autonomous driving 
+
+Higher functionality driven by increasing electronic content. Shift from analog to connected intelligent devices, security 
+
+Applications, features &#38; functionality of converged devices, large memories, security 
+
+Acquisition of OEM factories, production contract wins 
+
+Value-added services, logistics 
+
+Programming equipment drivers 
+
+Process improvement and simplification, new product rollouts, growing file sizes, quality control and traceability 
+
+Process improvement and simplification as well as new product rollouts 
+
+Rollout of new products that incorporate higher functionality, more memory and new technology, e.g. 
+
+e-MMC 
+
+New contracts from OEMs, programming solutions specified by OEMs 
+
+Capacity utilization of their installed base of equipment, small parts handling, security 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Buying criteria 
+
+Quality, reliability, configuration control, traceability, global support, intellectual property protection 
+
+Quality, reliability, configuration control, traceability, security 
+
+Throughput, technical capability to support evolving technology, global support, intellectual property protection, robust algorithms, low cost 
+
+Lowest equipment procurement cost, global support 
+
+Flexibility, lowest life-cycle cost-per programmed-part, low changeover time; use of multiple vendors provides negotiating leverage, device support availability 
+
+&#160; 
+
+Our solutions address the programming of devices. Semiconductor devices are a large, growing market, both in terms of devices and bits programmed. We believe that our sales are driven by many of the same forces that propel the semiconductor industry. We sell to the same firms that buy the semiconductors. When their business grows, they buy more semiconductors which, in turn, require additional programming equipment to maintain production speeds or program new device technologies, driving demand for our products or alternative programming methods. 
+
+&#160; 
+
+Our device programming solutions currently target two high growth, high volume markets: automotive electronics and IoT systems including Industrial and Consumer devices. 
+
+&#160; 
+
+We have derived estimates of the size of the pre-programming served available market that our programming systems address. We believe this market is expected to double over the next five years based on BI Intelligence estimates of IOT Unit Growth through 2019 and key automotive electronics forecasts. These forecasts include: Global Automotive Infotainment Operating System Sales Forecast by IHS Automotive, showing unit growth doubling over four years, as well as OEM Light Vehicle ADAS (Advanced Driver Assist Systems) Spend by Strategy Analytics for spending growth projected by year through 2021. Based on these market forecasts and assuming sustained capital spending in our other pre-programming market sectors, we believe we are well-positioned for growth in 2016 and beyond. 
+
+&#160; 
+
+Growth drivers for automotive electronics 
+
+&#183; &#160; Consumers desire advanced car features requiring higher levels of sophistication including infotainment products (audio, radio, dashboard displays, navigation and wireless connectivity) as well as increased safety features and optimized engine functionality 
+
+&#183; &#160; Increasing numbers and size of microcontrollers per vehicle 
+
+&#183; &#160; Proliferation of programmable microcontrollers to support the next-generation electronic car systems 
+
+&#183; &#160; Increasing use of high-density flash to provide memory for advanced applications that require programming 
+
+&#183; &#160; Increasing complexity to support autonomous vehicles 
+
+&#160; 
+
+Growth drivers for IoT: including industrial and consumer devices 
+
+&#183; &#160; Securely controlling groups of connected devices 
+
+&#183; &#160; Adding intelligence and processing into devices 
+
+&#183; &#160; Connecting previously unconnected devices to networks and the internet (such as intelligent thermostats and lighting) 
+
+&#183; &#160; Emergence of new devices and applications (such as wearables) 
+
+&#160; 
+
+During 2015, we sold products to over 400 customers throughout the world. The following customers represented greater than 10% of sales in the applicable year: 
+
+&#160; 
+
+2015 One customer, Data Copy Limited, our distributor in China accounted for approximately 15% of net sales. 
+
+2014 One customer, Data Copy Limited, our distributor in China accounted for approximately 12% of net sales. 
+
+2013 Two customers, Data Copy Limited, our distributor in China and Di-Tek Corporation, our distributor in Korea accounted for approximately 14% and 13% of net sales, respectively. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+The following customers represented greater than 10% of our consolidated accounts receivable balance as of December 31 of the applicable year: 
+
+&#160; 
+
+2015 Four customers accounted for greater than 10% of our consolidated accounts receivable balance at December 31, 2015: Data Copy Limited, our distributor in China and LeChamp, our distributor in south-east Asia, together represented 37% of that balance and our direct customers, Flextronics and Arrow, together represented 23%. 
+
+2014 No customers represented greater than 10% of our consolidated accounts receivable. 
+
+2013 Avnet accounted for approximately 12% of our consolidated accounts receivable. 
+
+&#160; 
+
+&#160; 
+
+Geographic Markets and Distribution 
+
+&#160; 
+
+We market and sell our products through a combination of direct sales, internal telesales and indirect sales representatives and distributors. We continually evaluate our sales channels against our evolving markets and customers and realign them as necessary to ensure that we reach our existing and potential customers in the most effective and efficient manner possible. 
+
+&#160; 
+
+U.S. Sales 
+
+&#160; 
+
+We market our products throughout the U.S. using a variety of sales channels, including our own field sales management personnel, independent sales representatives and direct telesales. Our U.S. independent sales representatives obtain orders on an agency basis, with shipments made directly to the customer by us. Net sales in the United States for 2015, 2014 and 2013 were (in millions) $2.2, $2.1 and $2.3 respectively. Some of our customer&#8217;s orders delivered internationally are heavily influenced by U.S. sales based efforts. 
+
+&#160; 
+
+International Sales 
+
+&#160; 
+
+International sales represented approximately 90%, 90% and 88% of net sales in 2015, 2014, and 2013, respectively. We make foreign sales through our wholly-owned subsidiaries in Germany and China, as well as through independent distributors and sales representatives located in 47 other countries. Our independent foreign distributors purchase our products for resale and we generally recognize the sale at the time of shipment to the distributor. As with U.S. sales representatives, sales made by international sales representatives are on an agency basis, with shipments made directly to the customer by us. 
+
+&#160; 
+
+Net international sales for 2015, 2014, and 2013 were (in millions) $19.8, $19.8 and $16.4, respectively. We determine international sales by the international geographic area into which the products are sold and delivered, and include not only sales by foreign subsidiaries but also export sales from the U.S. to our foreign distributors and to our representatives&#8217; customers. International sales do not include transfers between Data I/O and our foreign subsidiaries. Export sales are subject to U.S. Department of Commerce regulations. We have not, however, experienced difficulties to date as a result of these requirements. We have not made sales to Iran or any Iranian governmental entities or any other blacklisted companies or countries. 
+
+&#160; 
+
+Fluctuating exchange rates and other factors beyond our control, such as international monetary stability, tariff and trade policies and U.S. and foreign tax and economic policies, affect the level and profitability of international sales. We cannot predict the effect of such factors on our business, but we try to consider and respond to changes in these factors, particularly as the majority of our costs are U.S. based while the vast majority of our sales are international. According to the Board of Governors of the Federal Reserve System (US), the U.S. Dollar strengthened on a trade weighted basis approximately 20% during 2015. This made our products priced in U.S. Dollars cost on average 20% more in a local currency or sales by our subsidiaries in their functional currency translate into less sales in U.S. Dollars. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+The competition in the programming systems market is highly fragmented with a small number of organizations selling directly competitive solutions and a large number of smaller organizations offering less expensive solutions. In particular, low cost automated solutions have gained market share in recent years, where the competition is primarily based on price. Typically, their equipment meets a &#8220;good enough&#8221; standard, but with reduced quality, traceability, and other software features such as factory integration software. Many of these competitors compete on a regional basis, with local language and support. 
+
+&#160; 
+
+&#160;
+
+&#160; 
+
+In addition, we compete with multiple substitute forms of device programming including &#8220;home grown&#8221; solutions. Programming after device placement may be done with In System Programming (&#8220;ISP&#8221;). Some automotive products may also be programmed over the air (&#8220;OTA&#8221;). IoT devices may also be programmed with ISP or OTA. In addition, new security devices may be required to be programmed using device-specific programmers developed by the semiconductor manufacturer. 
+
+&#160; 
+
+While we are not aware of any published industry market information covering the programming systems market, according to our internal analysis of competitors&#8217; revenues, we believe we continue to be the largest competitor in the programming systems equipment market and have been gaining market share especially with our new products. 
+
+&#160; 
+
+Business Restructure 
+
+&#160; 
+
+No additional restructuring activities were taken by Data I/O in 2015 or 2014 and our previous years&#8217; restructure actions have been fully implemented. As a result of the lease amendment discussed in Note 7, &#8220;Operating Lease Commitments&#8221;, in July 2015, the balance of the restructure liability of approximately $120,000 was incorporated into our deferred rent liability as part of the new lease incentive. 
+
+&#160; 
+
+Manufacturing, Raw Materials and Backlog 
+
+&#160; 
+
+We strive to manufacture and provide the best solutions for advanced programming. We primarily assemble and test our products at our principal facilities in Redmond, Washington and Shanghai, China. We outsource our circuit board manufacturing and fabrication. We use a combination of standard components, proprietary custom integrated circuits (&#8220;ICs&#8221;) and fabricated parts manufactured to our specifications. Most components used are available from a number of different suppliers and subcontractors but certain items, such as some handler and programmer subassemblies, custom integrated circuits, hybrid circuits and connectors, are purchased from single sources. We believe that additional sources can be developed for present single-source components without significant difficulties in obtaining supplies. We cannot be sure that single-source components will always continue to be readily available. If we cannot develop alternative sources for these components, or if we experience deterioration in relationships with these suppliers, there may be price increases, minimum order quantities and delays or reductions in product introductions or shipments, which may materially adversely affect our operating results. 
+
+&#160; 
+
+In accordance with industry practices, generally all orders are subject to cancellation prior to shipment without penalty, except for contracts calling for custom configuration. To date, such cancellations have not had a material effect on our sales volume. To meet customers&#8217; delivery requirements, we manufacture certain products based upon a combination of backlog and anticipated orders. Most orders are scheduled for delivery within 1 to 60 days after receipt of the order. Our backlog of pending orders was approximately $700,000, $1,900,000, and $1,900,000 as of December 31, 2015, 2014, and 2013, respectively. The size of backlog at any particular date is not necessarily a meaningful indicator of the trend of our business. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+We believe that continued investment in research and development is critical to our future success. We continue to develop new technologies and products and enhance existing products. Future growth is, to a large extent, dependent upon the timely development and introduction of new products, as well as the development of algorithms to support the latest programmable devices. Where possible, we may pursue partnerships and other strategic relationships to add new products, capabilities and services. We are currently focusing our research and development efforts on strategic growth markets, namely new programming technology and automated handling systems for managed and secure programming in the manufacturing environment, including new programmer technologies, support for the latest flash memories and microcontrollers, and new software capabilities. We also continue to focus on increasing our capacity and responsiveness for new device support requests from customers and programmable integrated circuit manufacturers by revising and enhancing our internal processes and tools. Our research and development efforts have resulted in the release of significant new products and product enhancements: 2013 &#8211; released our PSV7000 automated programming system; 2014 &#8211; released our PSV3000 automated programming system and enhancements for the PSV7000; 2015 - released our new LumenX programmer, our new PSV5000 programming system and enhancements for our PSV Systems. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+During 2015, 2014, and 2013, we made expenditures for research and development of (in millions) $4.7, $4.7, and $4.6, respectively, representing 21.4%, 21.5%, and 24.5% of net sales, respectively. Research and development costs are generally expensed as incurred. 
+
+&#160; 
+
+Patents, Copyrights, Trademarks and Licenses 
+
+&#160; 
+
+We rely on a combination of patents, copyrights, trade secrets and trademarks to protect our intellectual property, as well as product development and marketing skill, to establish and protect our market position. We continue to apply for and add new patents to our patent portfolio as we develop strategic new technologies. 
+
+&#160; 
+
+We attempt to protect our rights in proprietary software, including LumenX software, Flashcore software, TaskLink software, Factory Integration software and other software products, by retaining the title to and copyright of the software and documentation, by including appropriate contractual restrictions on use and disclosure in our licenses, and by requiring our employees to execute non-disclosure agreements. Our software products are not typically sold separately from sales of programming systems. However, on those occasions where software is sold separately, revenue is recognized when a sales agreement exists, delivery has occurred, the fee is fixed or determinable, and collectability is reasonably assured. 
+
+&#160; 
+
+Because of the rapidly changing technology in the semiconductor, electronic equipment and software industries, portions of our products might possibly infringe upon existing patents or copyrights, and we may be required to obtain licenses or discontinue the use of the infringing technology. We believe that any exposure we may have regarding possible infringement claims is a reasonable business risk similar to that assumed by other companies in the electronic equipment and software industries. However, any claim of infringement, with or without merit, could be costly and a diversion of management&#8217;s attention, and an adverse determination could adversely affect our reputation, preclude us from offering certain products, and subject us to substantial liability. As of December 31, 2015, there were no pending actions regarding infringement claims. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of December 31, 2015, we had a total of 88 employees, of which 43 were located outside the U.S. and 7 of which were part time. We also utilize independent contractors for specialty work, primarily in research and development, and utilize temporary workers to adjust capacity to fluctuating demand and for special projects. Many of our employees are highly skilled and our continued success will depend in part upon our ability to attract and retain employees who can be in great demand within the industry. None of our employees are represented by a collective bargaining unit and we believe relations with our employees are favorable. In foreign countries we have employment agreements or, in China, the Shanghai Foreign Services Co., Ltd. (&#8220;FSCO&#8221;) labor agreement. 
+
+&#160; 
+
+Environmental Compliance 
+
+&#160; 
+
+Our facilities are subject to numerous laws and regulations concerning the discharge of materials or otherwise relating to the environment. Compliance with environmental laws has not had, nor is it expected to have, a material effect on our capital expenditures, financial position, results of operations or competitive position. 
+
+&#160; 
+
+Executive Officers of the Registrant 
+
+&#160; 
+
+Set forth below is certain information concerning the executive officers of Data I/O as of March 24, 2016: 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Anthony Ambrose 
+
+&#160; 
+
+&#160; 
+
+President and Chief Executive Officer 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Joel S. Hatlen 
+
+&#160; 
+
+&#160; 
+
+Vice President and Chief Financial Officer 
+
+Secretary and Treasurer 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Rajeev Gulati 
+
+&#160; 
+
+&#160; 
+
+Chief Technology Officer, Vice President of Engineering 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; 
+
+Anthony Ambrose joined Data I/O in October 2012 and is our President and Chief Executive Officer. He was appointed to the Board of Directors of Data I/O in October 2012. Prior to Data I/O, Anthony was Owner and Principal of Cedar Mill Partners, LLC, a strategy consulting firm. Until 2011, he was Vice President and General Manager at RadiSys Corporation, a leading provider of embedded wireless infrastructure solutions, where he led three product divisions and worldwide engineering. At RadiSys, he established the telecom platform business and grew it to over $125M in annual revenues. Until 2007, he was general manager and held several other progressively responsible positions at Intel Corporation, where he led development and marketing of standards based telecommunications platforms, and grew the industry standard server business to over $1B in revenues. He is a member of the Evergreen Hospital Foundation Board of Trustees. Mr. Ambrose has a Bachelors of Science in Engineering from Princeton University. 
+
+&#160; 
+
+&#160;
+
+&#160; 
+
+Joel S. Hatlen joined Data I/O in September 1991 and is our Vice President, Chief Financial Officer, Secretary and Treasurer since January 1998. He served as Chief Accounting Officer since February 1997 and served as Corporate Controller from December 1993 to December 1997. Previously, he was Tax Manager and Senior Tax Accountant. From September 1981 until joining Data I/O, Joel was employed by Ernst &#38; Young LLP as a Certified Public Accountant, where his most recent position was Senior Manager. Joel holds a Masters in Taxation from Golden Gate University and a Bachelors in Business Administration in Accounting from Pacific Lutheran University. 
+
+&#160; 
+
+Rajeev Gulati joined Data I/O in July 2013 and is our Chief Technology Officer and Vice President of Engineering. Prior to Data I/O, Rajeev served as Director of Software Engineering for AMD responsible for tools, compiler strategy and execution from 2006 to 2013. He has an extensive background in software, systems and applying technology to develop new markets. Previously, he served as Director of Strategy and Planning at Freescale from 2004 to 2006; as Director of Embedded Products at Metrowerks (acquired by Motorola) from 2000 to 2004 and Director of Compilers, Libraries &#38; Performance Tools from 1997 to 2000; and engineering and programmer positions at Apple Computer, IBM and Pacific-Sierra Research. Rajeev holds a Master of Science in Electrical &#38; Computer Engineering from the University of Texas, Austin and a BE in Electrical Engineering from Delhi College of Engineering, New Delhi. 
+
+&#160; 
+
+&#160; 
+

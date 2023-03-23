@@ -1,0 +1,358 @@
+ ITEM 1. BUSINESS 
+
+Our Company 
+
+NVIDIA is the world leader in visual computing. It enables us to open up new avenues of exploration, facilitate creativity and discovery, and power breakthroughs in new areas like artificial intelligence, virtual reality and autonomous cars. 
+
+Beginning as a PC graphics chip company, NVIDIA has transformed into a specialized platform company that targets four large markets - Gaming, Professional Visualization, Datacenter and Automotive - where visual computing is essential and valued. We are focused on delivering value through PC, mobile and cloud architectures. Our vertical integration enables us to bring together hardware, system software, programmable algorithms, systems and services to create unique value for the markets we serve. 
+
+Innovation is at our core. We have invested $12 billion in research and development since our inception, yielding some 7,300 patent assets, including inventions essential to modern computing. The GPU introduced the world to the power of programmable graphics. Our invention of CUDA has enabled the GPU&#8217;s parallel processing capabilities to be harnessed to accelerate general purpose computing. And our invention of the virtualized GPU has put the power of parallel processing into the cloud, accessible from virtually any connected device, anywhere. 
+
+Gamers choose NVIDIA GPUs to enjoy immersive fantasy worlds, which will increasingly be experienced in virtual reality. Professional designers use them to create visual effects in movies and design products ranging from soft drink bottles to commercial aircraft. Researchers use them to accelerate a wide range of important applications, from simulations of viruses to the revolution in deep learning, which has broad applications ranging from analyzing scientific data to facilitating everyday tasks. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla for researchers and analysts focused on artificial intelligence, deep learning and big-data; and GRID for cloud-based visual computing users. We also integrate our GPUs into powerful mobile system-on-a-chip (SOC) processors, which drive supercomputing capabilities for tablets and online gaming and entertainment devices, as well as autonomous robots, drones and cars. Our Tegra brand integrates an entire computer onto a single chip, incorporating GPUs and multi-core CPUs with audio, video and input/output capabilities. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Our Businesses 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying architecture. From our proprietary processors, we have created platforms that address four large markets where our visual computing expertise is critical: Gaming, Professional Visualization, Datacenter, and Automotive. 
+
+Businesses 
+
+&#160; 
+
+&#160; 
+
+NVIDIA Visual Computing Platforms and Brands 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GPU 
+
+&#160; 
+
+&#8729; 
+
+GeForce for PC gaming 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+Quadro for design professionals working in computer-aided design, video editing, special effects and other creative applications 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+Tesla for deep learning and accelerated computing, leveraging the parallel computing capabilities of GPUs for general purpose computing 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+GRID to provide the power of NVIDIA graphics through the cloud and datacenters 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Tegra Processor 
+
+&#160; 
+
+&#8729; 
+
+Tegra processors are primarily designed to enable our branded platforms - DRIVE and SHIELD. Tegra is also sold to OEMs for devices where graphics and overall performance is of great importance 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+DRIVE automotive computers that provide supercomputing capabilities to make driving safer and more enjoyable 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+SHIELD includes a family of devices designed to harness the power of mobile-cloud to revolutionize gaming 
+
+Our Markets 
+
+We specialize in markets in which visual computing and accelerated computing platforms are important. These platforms incorporate hardware, systems software, programmable algorithms, systems and services to deliver value that is unique in the marketplace. 
+
+Gaming 
+
+Computer gaming is one of the largest entertainment industries. Helping to propel it are the launch of new gaming titles, the rise of eSports - competitive online gaming - and the new realm of virtual reality. 
+
+Our GPUs enhance the gaming experience by improving the visual quality of graphics, increasing the frame rate for smoother gameplay and improving realism by replicating the behavior of light and physical objects. These can be enjoyed independently or together to extend the gaming experience across platforms. 
+
+Our gaming platforms utilize sophisticated 3D software and algorithms - including our GameWorks investment in real-time graphics and simulation. These enable us to deliver realism and immersion, even when playing games remotely from the cloud. We further enhance gaming with GeForce Experience, our gaming application that optimizes the PC user&#8217;s settings for each title and enables players to record and share their victories. It has been downloaded by more than 70 million users. 
+
+Our products for the gaming market include GeForce GTX GPUs for PC gaming, the SHIELD family of tablet and portable devices for mobile gaming, GRID for cloud-based streaming on gaming devices, and development services for gaming platforms. 
+
+Professional Visualization 
+
+We serve the Professional Visualization market by working closely with independent software vendors to optimize their offerings for NVIDIA GPUs. Our visual computing solutions enhance productivity for critical parts of the workflow for such major industries as automotive, media and entertainment, oil and gas, and medical imaging - where our GPUs improve productivity and introduce new capabilities. 
+
+For designers who build the products we use every day, it is critical that what they see digitally mirrors reality. This requires simulating the physical behavior of light and materials, or physically-based rendering, an emerging trend in professional design. Our Iray and DesignWorks software delivers this to designers. They enable an architect designing a building with a computer-aided design package to interact with the model in real time, view the model in greater detail, and generate photorealistic renderings for the client. And they enable an automotive designer to create a highly realistic 3D image of a car, which can be viewed from all angles, reducing reliance on creating costly, time-consuming full-scale clay models. 
+
+Just as virtual reality is becoming more important in gaming, there is a growing number of enterprise applications - within medicine, architecture, product design and retailing - that we are helping to enable for virtual experiences. Virtual car showrooms, surgical training, and bringing historical scenes to life are early examples of this technology deployed. 
+
+Visual computing is vital to productivity in many environments, including: 
+
+&#8226; 
+
+Design and Manufacturing &#160;- including computer-aided design, architectural design, consumer-products manufacturing, medical instrumentation and aerospace 
+
+&#8226; 
+
+Digital Content Creation &#160;- including professional video editing and post production, special effects for films and broadcast-television graphics 
+
+&#8226; 
+
+Enterprise Graphics Virtualization &#32;- including enterprises that virtualize their IT infrastructure using software from companies such as VMware, Inc. and Citrix Systems, Inc., which are significantly improved by NVIDIA GRID hardware and software 
+
+Our brand for this market is Quadro for workstations. Quadro GPUs enhance the productivity of designers by improving performance and adding functionality, such as photorealistic rendering, high color fidelity and advanced scalable display capabilities. 
+
+Datacenter 
+
+The NVIDIA Tesla accelerated computing platform greatly increases the performance and power efficiency of high-performance computers and datacenter systems by applying the parallel-processing of GPUs and enabling software to solve general-purpose computing problems. Tesla-based servers and supercomputers increase the speed of applications used in such fields as aerospace, bio-science research, mechanical and fluid simulations, energy exploration, deep learning, computational finance and data analytics. 
+
+Accelerated computing is recognized as the path forward for high performance computing amid the slowing of Moore&#8217;s Law - which postulates the doubling of transistors every 18-24 months. The proportion of supercomputers utilizing accelerators has grown sharply over the past five years, now accounting for one-fifth of the systems on the Top 500 list and one-third of the list&#8217;s total floating-point operations per second. Tesla GPU accelerators power the fastest supercomputers in the United States, Japan and Europe. They will also drive the U.S. Energy Department&#8217;s next generation of supercomputers at Oak Ridge and Lawrence Livermore National Laboratories. 
+
+Tesla has had a significant impact on scientific discovery, including improving heart surgery, HIV research and mapping human genome folds. Tesla GPUs and our cuDNN software have been broadly adopted for deep learning, a new computing method for enabling artificial intelligence. Deep learning enables computers to learn for themselves and perform tasks, like recognizing images, text and speech - in some cases better than humans. Leading web-services companies are using GPUs to improve consumer cloud services. The use of deep learning is growing rapidly in many industries, automating such tasks as reading medical imaging, surveying coral on the sea bottom and robotically thinning lettuce harvests to maximize crop yields. 
+
+We also serve the Datacenter market with GRID for virtualized graphics. GRID makes it possible to run graphics-intensive applications remotely on a server in the datacenter, instead of locally on a PC or workstation. Applications include accelerating virtual desktop infrastructures and delivering graphics-intensive applications from the cloud. 
+
+Automotive 
+
+The automotive technology market has grown tremendously as the car itself is becoming a powerful computer. Cars will feature a multitude of devices, driven by sophisticated software algorithms. These devices will be designed to ensure our safety and the safety of those around us, enhance our comfort and enjoyment, and search and navigate. They will use the tools of deep learning to sense their environment, ultimately driving themselves. 
+
+Our products are in more than 10 million cars on the road today, powering infotainment, navigation and virtual cockpit systems from a broad range of automakers. 
+
+&#160; 
+
+To enable autonomous driving, NVIDIA delivers an end-to-end solution - consisting of NVIDIA DIGITS and DRIVE PX - for both training a deep neural network, as well as deploying the output of that network in a car. DIGITS is a tool for developing, training and visualizing deep neural networks that can run on any NVIDIA GPU-based system. The trained neural net model runs within the car on NVIDIA DRIVE PX 2, an artificial intelligence platform that can utilize many configurations offering processing power greater than 150 Macbook Pro notebooks. 
+
+&#160; 
+
+Beyond Automotive, we see the opportunity for Tegra in other embedded areas where visual computing is valued. Examples include robots that respond to voice and gesture commands, drones that process enormous amounts of visual-based data and smart monitors powered by Android that make a PC optional. 
+
+Business Strategies 
+
+NVIDIA&#8217;s key strategies that shape our overall business approach include: 
+
+Extending our technology leadership in visual computing. &#32;We believe that visual computing is fundamental to the continued expansion and evolution of computing. We apply our research and development resources to extending our leadership in visual computing, enabling us to enhance the user experience for consumer entertainment and professional visualization applications. 
+
+Extending our visual computing leadership into mobile and cloud-computing platforms. We believe that visual computing will remain a key component in the computing paradigm circumscribed by mobile, cloud and software as a service. We enable interactive graphics applications - such as games, movie and photo editing and design software - to be accessed by any device, anywhere. We believe that the user experience in virtual desktop infrastructures should be indistinguishable from physical environments and, accordingly, leverage our research and development resources to create differentiated devices and products that deliver this capability. 
+
+Revolutionizing computing with the GPU&#8217;s parallel processing capability. &#32; We believe that the massively parallel processing capabilities of NVIDIA GPUs can solve complex computational problems in significantly less time and with less power consumption than a CPU. We work with developers worldwide who write programs for the CUDA platform using various high-level programming languages. Developers are able to accelerate applications in areas ranging from molecular dynamics to image processing, derivatives modeling for financial risk analysis and big-data analytics. 
+
+Protecting our intellectual property, and using it to enter into license and development contracts. &#32;We believe our intellectual property portfolio is a valuable asset that can be monetized by licensing our technology to customers and partners that desire to build such capabilities directly into their own products. Such license and development arrangements can further enhance the reach of our graphics and mobile technology. 
+
+Enabling visual computing platforms in key focus areas. We believe that we are well-positioned to use our expertise in visual and parallel computing to make contributions in four key markets where our visual computing expertise is valued: 
+
+- Gaming : &#32;Our strategy is to use advanced graphics technologies to create a range of gaming platforms, stretching across PCs, mobile devices and the cloud. 
+
+- Professional Visualization : Our strategy is to serve as our customers' most trusted graphics partner, working closely with independent software vendors to optimize their offerings for NVIDIA GPUs. 
+
+- Datacenter : &#32;Our strategy is to serve growing demand for deep learning, big-data analytics and scientific computing. 
+
+- Automotive : Our strategy is to utilize Tegra&#8217;s visual computing capabilities to augment the driving experience, as well as leverage our significant supercomputing capabilities to accelerate autonomous driving. 
+
+Sales and Marketing 
+
+Our worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient GPUs and mobile SOC products. Our sales and marketing teams, located across our global markets, work closely with each industry's respective original equipment manufacturers, or OEMs, original device manufacturers, or ODMs, system builders, motherboard manufacturers, add-in board manufacturers, or AIBs, retailers/distributors and industry trendsetters, collectively referred to as our Channel, to define product features, performance, price and timing of new products. Members of our sales team have a high level of technical expertise and product and industry knowledge to support the competitive and complex design win process. We also employ a highly skilled team of application engineers to assist our Channel in designing, testing and qualifying system designs that incorporate our products. We believe that the depth and quality of our design support are keys to improving our Channel's time-to-market, maintaining a high level of customer satisfaction within our Channel and fostering relationships that encourage our customers and partners to use the next generation of our products. 
+
+As a result of our Channel strategy, a small number of our customers represent the majority of our revenue. Sales to ASUSTeK Computer Inc., accounted for 11% &#32;of our total revenue for fiscal year 2016. 
+
+To encourage software title developers and publishers to develop games optimized for platforms utilizing our products and enterprise applications optimized for our GPUs, we seek to establish and maintain strong relationships in the software development community. Engineering and marketing personnel interact with and visit key software developers to promote and discuss our products, as well as to ascertain product requirements and solve technical problems. Our developer program makes certain that our products are available to developers prior to volume availability in order to encourage the development of software applications and game titles that are optimized for our products. 
+
+As NVIDIA&#8217;s business has evolved from gaming to broader areas and from chips to platforms, so, too, have our avenues to market. SHIELD products, such as our gaming tablet and Android TV device, are sold through e-tail channels and through some of the world&#8217;s largest retailers. 
+
+Backlog &#32; 
+
+Our sales are primarily made pursuant to standard purchase orders. The quantity of products purchased by our customers as well as our shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. The semiconductor industry is characterized by short lead time orders and quick delivery schedules. In light of industry practice and experience, we believe that only a small portion of our backlog is non-cancelable and that the dollar amount associated with the non-cancelable portion is not significant. 
+
+Seasonality 
+
+Our GPU and Tegra processor products serve many markets from consumer PC gaming to enterprise workstations to government and service provider cloud datacenters; however, a majority of our revenue is consumer focused. Our consumer products have typically seen stronger revenue in the second half of our fiscal year. However, there can be no assurance that this trend will continue. 
+
+Manufacturing &#32; 
+
+We do not directly manufacture semiconductor wafers used for our products. Instead, we utilize what is known as a fabless manufacturing strategy for all of our product-line operating segments whereby we employ world-class suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing and packaging. This strategy uses the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability and testing. In addition, this strategy allows us to avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we directly procure certain raw materials used in the production of our products, such as substrates and a variety of components, our suppliers are responsible for procurement of the majority of the raw materials used in the production of our products. As a result, we can focus our resources on product design, additional quality assurance, marketing and customer support. 
+
+We utilize industry-leading suppliers, such as Taiwan Semiconductor Manufacturing Company Limited and Samsung Electronics Co. Ltd, to produce our semiconductor wafers. We then utilize independent subcontractors, such as Advanced Semiconductor Engineering, Inc., BYD Auto Co. Ltd., Hon Hai Precision Industry Co., Ltd., JSI Logistics Ltd., King Yuan Electronics Co., Ltd. and Siliconware Precision Industries Company Ltd. to perform assembly, testing and packaging of most of our products and platforms. We purchase substrates from IbidenCo., Ltd., Nanya Technology Corporation, and Unimicron Technology Corporation. 
+
+We typically receive semiconductor products from our subcontractors, perform incoming quality assurance and then ship the semiconductors to contract equipment manufacturers, or CEMs, distributors, motherboard and AIB customers from our third-party warehouse in Hong Kong. Generally, these manufacturers assemble and test the boards based on our design kit and test specifications, and then ship our products to retailers, system builders or OEMs as motherboard and add-in board solutions. 
+
+Working Capital 
+
+We focus considerable attention on managing our inventories and other working-capital-related items. We manage inventories by communicating with our customers and partners and then using our industry experience to forecast demand on a product-by-product basis. We then place manufacturing orders for our products that are based on forecasted demand. The quantity of products actually purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. We generally maintain substantial inventories of our products because the semiconductor industry is characterized by short lead time orders and quick delivery schedules. A substantial amount of our inventories are maintained as semi-finished products that can be leveraged across a wide range of our processors to balance our customer demands. 
+
+Our existing cash and marketable securities balances increased by 9% &#32;to $5.04 billion &#32;at the end of fiscal year 2016 compared with the end of fiscal year 2015. We believe that these balances and our anticipated cash flows from operations will be sufficient to meet our operating, acquisition, capital expenditure and intended capital return to shareholders needs for at least the next twelve months. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+We believe that the continued introduction of new and enhanced products designed to deliver leading visual computing technology is essential to our future success. Our research and development strategy is to focus on concurrently developing multiple generations of GPUs and Tegra Processors, including GPUs for high-performance computing, and Tegra SOCs for SHIELD and other mobile products using independent design teams. Our research and development efforts include software engineering, hardware engineering, very large scale integration design engineering, process engineering, architecture and algorithms. 
+
+A critical component of our product development effort is our partnerships with industry leaders. We invest significant resources in the development of relationships with industry leaders, often assisting these companies in the product definition of their new products. We believe that forming these relationships and utilizing next-generation development tools to design, simulate and verify our products will help us remain at the forefront of visual computing and develop products that utilize leading-edge technology on a rapid basis. We believe in leveraging our significant research and development depth and scale to create differentiated products. 
+
+&#160; 
+
+As of January 31, 2016 , we had 6,566 &#32;full-time employees engaged in research and development. During fiscal years 2016 , 2015 and 2014, we incurred research and development expense of $1.33 billion , $1.36 billion &#32;and $ 1.34 billion , respectively. 
+
+Competition 
+
+&#160; 
+
+The market for our products is intensely competitive and is characterized by rapid technological change, evolving industry standards and declining average selling prices. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, conformity to industry standard Application Programming Interfaces, manufacturing capabilities, processor pricing and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers and partners will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be less costly than ours, or may provide better performance or additional features not provided by our products. In addition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share. 
+
+A significant source of competition comes from companies that provide or intend to provide GPUs and mobile SOC products. Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes. 
+
+&#160; 
+
+Our current competitors include: 
+
+&#8226; 
+
+suppliers of discrete and integrated GPUs, including supercomputers and chipsets that incorporate 3D graphics functionality as part of their existing solutions, such as Advanced Micro Devices, or AMD, and Intel Corporation, or Intel; 
+
+&#8226; 
+
+suppliers of SOC products that are embedded into automobiles and smart devices such as televisions, monitors, set-top boxes, gaming devices and automobiles, such as Ambarella, Inc., AMD, Apple, Inc., Avago Technologies Ltd., Intel, Marvell Technology Group Ltd., Mediatek, Mobileye N.V., Qualcomm Incorporated, Renesas Electronics Corporation, Samsung, ST Microelectronics, and Texas Instruments Incorporated; and 
+
+&#8226; 
+
+licensors of graphics technologies, such as ARM Holdings plc, or ARM, and Imagination Technologies Group plc. 
+
+Patents and Proprietary Rights 
+
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements and licensing arrangements to protect our intellectual property in the United States and internationally. Our currently issued patents have expiration dates from April 2016 to December 2034. We have numerous patents issued, allowed and pending in the United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations and foreign laws to protect our intellectual property. The laws of certain foreign countries in which our products are or may be manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as the laws of the United States. This decreased protection makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as: 
+
+&#8226; the location in which our products are manufactured; 
+
+&#8226; our strategic technology or product directions in different countries; 
+
+&#8226; the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions; and 
+
+&#8226; the commercial significance of our operations and our competitors' operations in particular countries and regions. 
+
+We have also licensed technology from third parties for incorporation in some of our products and for defensive reasons, and expect to continue to enter into such license agreements. 
+
+Employees 
+
+&#160; 
+
+As of January 31, 2016 , we had 9,227 &#32;employees, 6,566 &#32;of whom were engaged in research and development and 2,661 &#32;of whom were engaged in sales, marketing, operations and administrative positions. 
+
+Environmental Regulatory Compliance 
+
+To date, we have not incurred significant expenses related to environmental regulatory compliance matters. 
+
+Financial Information by Reporting Segment and Geographic Data 
+
+The information included in Note 16 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K, including financial information by reportable segment and revenue and long-lived assets by geographic region, is hereby incorporated by reference. For additional detail regarding the risks attendant to our foreign operations see &#8220;Item 1A. Risk Factors - Risks Related to Our Business, Industry and Partners - We are subject to risks and uncertainties associated with international operations which may harm our business. &#8221; 
+
+Executive Officers of the Registrant 
+
+The following sets forth certain information regarding our executive officers, their ages and positions as of March 11, 2016 : 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Jen-Hsun Huang 
+
+&#160; 
+
+&#160; 
+
+President, Chief Executive Officer and Director 
+
+Colette M. Kress 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Financial Officer 
+
+Ajay K. Puri 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Worldwide Field Operations 
+
+David M. Shannon 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Chief Administrative Officer and Secretary 
+
+Debora Shoquist 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Operations 
+
+&#160; 
+
+Jen-Hsun Huang &#32;co-founded NVIDIA in April 1993 and has served as its President, Chief Executive Officer and a member of the Board of Directors since its inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer, where he held a variety of positions including as Director of Coreware, the business unit responsible for LSI's &#8220;system-on-chip&#8221;. From 1983 to 1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford University. 
+
+Colette M. Kress joined NVIDIA in September 2013 as Executive Vice President and Chief Financial Officer. Prior to NVIDIA, Ms. Kress most recently served as Senior Vice President and Chief Financial Officer of the Business Technology and Operations Finance organization at Cisco Systems, Inc., a networking equipment company, since 2010. At Cisco, Ms. Kress was responsible for financial strategy, planning, reporting and business development for all business segments, engineering and operations. From 1997 to 2010 Ms. Kress held a variety of positions at Microsoft Corporation, a software company, including, beginning in 2006, Chief Financial Officer of the Server and Tools division, where Ms. Kress was responsible for financial strategy, planning, reporting and business development for the division. Prior to joining Microsoft, Ms. Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions. Ms. Kress holds a B.S. degree in Finance from University of Arizona and an M.B.A. degree from Southern Methodist University. 
+
+Ajay K. Puri &#32;joined NVIDIA in December 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, Worldwide Sales (subsequently renamed to Worldwide Field Operations) in January 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over a 22-year career at Sun Microsystems, Inc., a computing systems company. Mr. Puri previously held marketing, management consulting, and product development positions at Hewlett-Packard Company, an information technology company, Booz Allen Hamilton Inc., a management and technology consulting company, and Texas Instruments. Mr. Puri holds a B.S.E.E. degree from the University of Minnesota, an M.S.E.E. degree from the California Institute of Technology and an M.B.A. degree from Harvard Business School. 
+
+&#160; 
+
+David M. Shannon &#32;serves as Executive Vice President, Chief Administrative Officer and Secretary of NVIDIA. In this role, he is responsible for NVIDIA&#8217;s legal and human resources functions, as well as intellectual property licensing. Mr. Shannon joined NVIDIA in August 2002 as Vice President and General Counsel. Mr. Shannon became Secretary of NVIDIA in April 2005, a Senior Vice President in December 2005 and an Executive Vice President in January 2009. In January 2013, Mr. Shannon also became the head of Human Resources. Mr. Shannon was promoted to the role of Chief Administrative Officer in January 2014. From 1993 to 2002, Mr. Shannon held various counsel positions at Intel, most recently the position of Vice President and Assistant General Counsel. Mr. Shannon also practiced for eight years in the law firm of Gibson Dunn and Crutcher, focusing on complex commercial and high-technology related litigation. Mr. Shannon holds B.A. and J.D. degrees from Pepperdine University. 
+
+&#160; 
+
+Debora Shoquist &#32;joined NVIDIA in 2007 as Senior Vice President of Operations and in 2009 became Executive Vice President of Operations. Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015. Prior to NVIDIA, Ms. Shoquist served from 2004 to 2007 as Executive Vice President of Operations at JDS Uniphase Corp., a provider of communications test and measurement solutions and optical products for the telecommunications industry. She served from 2002 to 2004 as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Previously, she worked at Quantum Corp., a data protection company, as President of the Personal Computer Hard Disk Drive Division, and at Hewlett-Packard Corp. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University. 
+
+Available Information 
+
+&#160; 
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended, are available free of charge on or through our web site, http://www.nvidia.com , as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or the SEC. Our web site and the information on it or connected to it are not a part of this Annual Report on Form 10-K. 
+

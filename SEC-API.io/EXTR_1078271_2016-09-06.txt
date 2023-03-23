@@ -1,0 +1,874 @@
+ Item1. Business
+
+Overview
+
+Extreme Networks, Inc., together with its subsidiaries (collectively referred to as &#8220;Extreme&#8221; and as &#8220;we&#8221;, &#8220;us&#8221; and &#8220;our&#8221;) is a leader in providing software-driven networking solutions for enterprise customers. Providing a combined end-to-end solution from the data center to the access point, Extreme designs, develops and manufactures wired and wireless network infrastructure equipment and develops the software for network management, policy, analytics, security and access controls. We strive to help our customers and partners Connect Beyond the Network by building world-class software and network infrastructure solutions that solve the wide range of problems faced by information technology (&#8220;IT&#8221;) departments. 
+
+The Internet of Things (&#8220;IoT&#8221;) and the evolution of the cloud have made reliable and secure Internet connections increasingly critical to business success. In this time of rapid changes and market shifts, delivering a focused value proposition based on automation, simplicity, high quality solutions and world class customer support is vitally important. As the volume and the demands of users, applications, data and devices on networks continue to increase, Extreme stands ready to help our customers address the ever-evolving demands of the business. 
+
+We seek to differentiate ourselves in the market by delivering a value proposition based on a software-driven approach to network management, control and analytics. 
+
+Our key points of differentiation include:
+
+&#160;
+
+&#183; 
+
+End-to-end, wired and wireless solutions . Extreme offers a complete, unified portfolio of software-driven network access technology. We offer the latest in wireless access points for both outdoor and indoor use plus a complete line of switches to cover the campus, right up to and including the data center. 
+
+&#160;
+
+&#183; 
+
+Multi-vendor management from a &#8220;single pane of glass&#8221;. Extreme offers a single unified management system that is designed to provide visibility and control across the entire network. This can make the network easier to manage and troubleshoot, often with lower operating expenses. Our software can also manage many other vendors&#8217; network devices, enabling our customers to potentially maximize device lifespan. 
+
+&#160;
+
+&#183; 
+
+Software-driven vertical solutions. Extreme&#8217;s software-driven solutions are designed to be easily adaptable to vertical solutions in industries such as, healthcare, education, manufacturing, government and hospitality. Extreme solutions are also designed to be well-suited for vertical-specific partners. 
+
+&#160;
+
+&#183; 
+
+Application-aware Quality of Service (&#8220;QoS&#8221;) and analytics . Extreme has innovative analytic software that enables our customers to see application usage across the network and apply policies that maximize network capabilities. This allows our customers to improve the user experience. 
+
+&#160;
+
+&#183; 
+
+Built-in identity and access control. Extreme&#8217;s network access control and identity management are delivered with the wired and wireless hardware. This may reduce the need to add on expensive software or hardware that may require complex compatibility testing. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; 
+
+EZ policy assignment and software-defined networking (&#8220;SDN&#8221;). ExtremeCon trol and ExtremeManagement software allow our customers to assign policy across the entire network. The SDN component adds versatility for implementing policies that increase network utilization. &#160;
+
+&#160;
+
+&#183; 
+
+100% in-sourced tech support. Extreme delivers best in class customer support in the industry with 92% first call resolution through a 100% in-sourced support model. 
+
+Extreme sells products primarily through an ecosystem of channel partners which combine our Ethernet, wireless and management and software analytics products with their vertical-specific offerings to create IT solutions for end user customers.
+
+On October 31, 2013, we completed the acquisition of Enterasys Networks, Inc. (&#8220;Enterasys&#8221;), a privately held provider of wired and wireless network infrastructure and security solutions, whereby Enterasys became our wholly-owned subsidiary. The combined entity immediately became a networking industry leader with more than 14,000 customers. As network switching leaders in enterprise, datacenter and cloud, Extreme and Enterasys together combine and extend their world-class products and technologies to provide customers with some of the most advanced, high performance and open solutions in the market as well as a superb overall customer experience. The combination of Extreme and Enterasys is significant in that it brings together two companies with distinct strengths addressing the key areas of the network, from unified wired and wireless edge, to the enterprise core, to the data center and cloud. With an open software approach, we can drive product innovations and customers will benefit from the increased resources and larger scale.
+
+Industry Background
+
+The networking industry appears to be invigorated by a wave of technological change: 
+
+&#160;
+
+&#183; 
+
+Ethernet (wired and wireless) has solidified its role in both public and private networks through its scalability, adaptability and cost-effectiveness. At the same time, the enterprises and service providers expect the technology to follow a price-performance curve that mandates continued innovation by Ethernet vendors. 
+
+&#160;
+
+&#183; 
+
+The mobile workforce has proliferated. Employees expect high-quality and secure access to corporate resources in a Bring Your Own Device ("BYOD") world across a diversity of endpoints such as laptops, tablets, smart phones and wearables, whether they are within the corporate firewall or on-the-go. IT departments focus their investment decisions on this mobile workforce, taking a unified view of wireless access, the campus core and the data center. Networking vendors offer end-to-end solutions that permit IT managers to meet employee expectations and to maximize IT return on investment. 
+
+&#160;
+
+&#183; 
+
+Growing usage of the cloud. Deployment of server virtualization is influencing data center architecture. Enterprises have migrated increasing numbers of applications and services to either private clouds or public clouds offered by third parties. In either case, the network infrastructure must adapt to this new dynamic environment. Intelligence and automation are key if enterprises are to derive maximum benefit from their cloud deployments. Ethernet speeds, scaling from 10 Gigabits per second ("G") to 40G and even 100G, provide the infrastructure for both private and public clouds. In addition, there is growing interest in SDN approaches that may include technologies such as OpenFlow, OpenStack, and CloudStack for increased network agility. 
+
+&#160;
+
+&#183; 
+
+Vendor Consolidation. We believe consolidation of vendors within the Ethernet networking market and between adjacent markets (storage, security, wireless &#38; voice software and applications) continues to gain momentum. In 2015, the Hewlett-Packard Company (&#8220;HP&#8221;) acquired Aruba, Dell, Inc. acquisition of EMC is expected to close in October 2016 and Brocade Communication Systems acquired Ruckus in May 2016. We believe these acquisitions reflect a realization that customers want end-to-end, integrated networking solutions. Extreme identified this trend in 2013 and address the issue with its acquisition of Enterasys in 2013. Since that time, Extreme has rationalized the roadmap and provided an upgrade path for customers. 
+
+Extreme&#8217;s strategy, product portfolio and research and development are closely aligned with what we have identified as the following trends in our industry:
+
+&#160;
+
+&#183; 
+
+Rapid adoption of white box/brite box devices. We believe the transition to white box/brite box is taking place faster than analyst firms had initially predicted. Network decision makers may be able to reduce cost, improve management and enable long-term innovation using brite box switches versus traditional switching approaches. 
+
+&#160;
+
+&#216; 
+
+Extreme announced its brite box offering will begin in the first half of FY 2017. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Cloud is a revolutionary disrupter in the network switching market . In August 2016, International Data Corporation (&#8220;IDC&#8221;), forecasts between 2015 through 2020 that private cloud is expected to experience a compound annual growth rate (&#8220;CAGR&#8221;) of 25.0% w hile (traditional data center) is expected to experience slow to negative growth. &#160;
+
+&#160;
+
+&#216; 
+
+Extreme announced its cloud offering in April of 2016. 
+
+&#160;
+
+&#183; 
+
+SDN is providing more revenue and delivery models to the industry than predicted. 
+
+&#160;
+
+&#216; 
+
+Extreme&#8217;s SDN offering is innovative and adaptable to a wide range of use cases. 
+
+&#160;
+
+&#183; 
+
+Enterprise adoption of the cloud and open-source options are disrupting traditional license and maintenance business models. 
+
+&#160;
+
+&#216; 
+
+Extreme announced cloud offerings in April of 2016 and began participation in the OpenSwitch program in May, 2016. 
+
+&#160;
+
+&#183; 
+
+Growth of wireless devices is expected to continue to outpace hardwire switch growth. 
+
+&#160;
+
+&#216; 
+
+Extreme announced its 802.11ac Wave 2 wireless offering in late 2015 and plans to continue to advance its wireless portfolio of indoor and outdoor access points. 
+
+The Extreme Strategy
+
+In today&#8217;s BYOD world, the proliferation of mobile users and devices within a campus or across continents has increased the challenge of operating and managing a network. IT has rapidly evolved from a fixed world to a new world of mobility where everything - people, devices, machines and applications - is in motion. IT now supports end-users with smart phones, tablets, laptops and other wireless peripherals as well as their wired workstations. Users know what they need to be productive, and they expect the network to help them achieve productivity, as such, they are beginning to define the services that must be offered for these devices so they are able to work on-the-go. The blurring of work and personal applications that must be supported on the network places increasing security demands on our customers.
+
+Extreme delivers software-driven networking solutions designed for the BYOD world, spanning private cloud data centers, the campus and the mobile infrastructure. Customers deploying our solutions know which users are on the network, what they are requesting and where they are located. They are able to provide customized access to approved resources and content. Our solutions provide granular visibility and control, higher performance and resource security.
+
+Our strategy is to offer differentiated solutions that deliver a stronger value proposition to customers and offer an alternative to single-sourced, highly-proprietary networking equipment from other companies. Our commitment to open standards is manifested by demonstrated interoperability within both enterprise and service provider networks, and the active participation in key industry and standards associations.
+
+Key elements of our strategy include:
+
+&#160;
+
+&#183; 
+
+Enable customers and partners to &#8220;Connect Beyond the Network.&#8221; Extreme software-driven networking and services-led solutions provide visibility and control across our wired and wireless networking platforms. Our solutions include wired switching, wireless switching, wireless access points and controllers, management software, access control software, analytics software as well as applications and services. In addition, Extreme offers cloud-managed wired and wireless networking solutions that provide additional choice and flexibility with on or off premise software management. These technical capabilities coupled with our award-winning services and support provide a strong value proposition to the following customers and applications: 
+
+&#160;
+
+- 
+
+Enterprises and private cloud data centers use our products to deploy automated next-generation virtualized and high-density infrastructure solutions. 
+
+&#160;
+
+- 
+
+Enterprises and organizations in education, healthcare, manufacturing, hospitality and government agencies use our solutions for their mobile campus and backbone networks. 
+
+&#160;
+
+- 
+
+Enterprises, universities, healthcare and hospitality organizations use our solutions to enable better visibility and control of their data processing and analytics requirements. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Extend switching and routing technology l eadership. Our technological leadership is based on innovative switching, routing and wireless products, the depth and focus of our market experience and our operating systems - the software that runs on all of our Ethernet switches. Our network operatin g systems, our primary merchant silicon vendor, and select manufacturing partners, permit us to leverage our engineering investment. We plan to invest in engineering resources to continue to create leading-edge technologies to increase the performance and functionality of our products, and as a direct result, the value of our solution to our current and future customers. We look for maximum synergies from our engineering investment in our targeted verticals. &#160;
+
+&#160;
+
+&#183; 
+
+Expand Wi-Fi technology leadership. Wireless is today&#8217;s network access method of choice and every business must deal with scale, density and BYOD challenges. The increase in demand being seen today, fueled by more users with multiple devices, increases the expectation that everything will just work. The network edge landscape is changing as the explosion of mobile devices increases the demand for mobile, transparent and always-on wired to wireless edge services. This new &#8220;unified access layer&#8221; requires intelligent distributed components to ensure that access control and resiliency of business services are available across the entire infrastructure and manageable from a single console. Our unified access layer portfolio provides intelligence for the wired/wireless edge. 
+
+&#160;
+
+&#183; 
+
+Continue to deliver unified management across the wired/wireless environment from the data center to the mobile edge. Our rich set of integrated management capabilities provides centralized visibility and highly efficient anytime, anywhere control of enterprise wired and wireless network resources. 
+
+&#160;
+
+&#183; 
+
+Offer network-powered business and application analytics. Our network-powered application analytics and optimization solution captures and analyzes context-based data about application traffic to deliver meaningful intelligence about applications, users, locations and devices. This enables the network to become a strategic business asset by enabling the mining of network-based business events and strategic information that help executives make faster and more effective decisions. 
+
+Data can be mined to show how applications are being used enabling a better understanding of user behavior on the network, identifying the level of user engagement and assuring business application delivery to optimize the user experience. Application adoption can be tracked to determine the return on investment associated with new application deployment.
+
+Visibility into network and application performance enables our customers to pinpoint and resolve performance bottlenecks in the infrastructure whether they are caused by the network, application or server. This saves both time and money for the business and ensures critical applications are running at the best possible performance.
+
+&#160;
+
+&#183; 
+
+Support SDN. Networks are built using switches, routers and other devices in a distributed fashion to scale and provide reliability. In this distributed environment, it has become more complex to provide new end-to-end services and applications in a seamless and cost-effective manner. As the business demands more agile and flexible IT services, this has become a focal point for innovation and also for differentiation by vendors that have solved that challenge. To address the simultaneous needs for security, virtualization, manageability, mobility and agility in today&#180;s networks, the concept of SDNs are gaining attention as a viable solution. 
+
+The value of SDN in the enterprise lies specifically in the ability to provide network virtualization and automation of configuration across the entire network/fabric so new services and end systems can be deployed rapidly and operational cost can be minimized.
+
+&#160;
+
+&#183; 
+
+Expand market penetration by targeting high-growth market segments. Within the campus, we focus on the mobile user, leveraging our automation capabilities and tracking wireless local area network (&#8220;LAN&#8221;) growth. Our data center approach leverages our product portfolio to address the needs of private cloud data center providers. Within the campus we also target the high-growth physical security market, converging technologies such as Internet Protocol (&#8220;IP&#8221;) video across a common Ethernet infrastructure in conjunction with technology partners. 
+
+&#160;
+
+&#183; 
+
+Leverage and expand multiple distribution channels. We distribute our products through select distributors, a large number of resellers and system-integrators worldwide, and several large strategic partners. We maintain a field sales force to support our channel partners and to sell directly to certain strategic accounts. As an independent Ethernet switch vendor, we seek to provide products that, when combined with the offerings of our channel partners, create compelling solutions for end-user customers. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Maintain and extend our strategic relationships. We have established strategic relationships with a number of industry-leading vendors to both provide increased and enhanced routes to market, but also to collaboratively develop uni que solutions. &#160;
+
+&#160;
+
+&#183; 
+
+Provide high-quality customer service and support . We seek to enhance customer satisfaction and build customer loyalty through high-quality service and support. This includes a wide range of standard support programs that provide the level of service our customers require, from standard business hours to global 24-hour-a-day, 365-day-a-year real-time response support. 
+
+Products
+
+Our software-driven networking products offer resilient high-performance networking, intelligence and operational simplicity for our customers. We build our products into vertical market solutions for converged campus networks that provide user and device mobility. Data center and cloud administrators are able to virtualize their servers and storage over our high-performance Ethernet infrastructure. Extreme&#8217;s management software provides visibility, security and intelligent control from the data center to the edge - all through a single pane of glass.
+
+Our product categories include:
+
+&#160;
+
+&#183; 
+
+Modular Ethernet switching systems . Our ExtremeSwitching products deliver modular or chassis-based Ethernet connectivity solutions for enterprises, data centers and service providers. These products have a range of management and line cards that allow our customers to flexibly configure and re-purpose the systems to meet specific needs. Our chassis products, in conjunction with our operating systems and our centralized management software product, provide the density, performance and reliability required to serve in environments with demanding applications. 
+
+During fiscal year 2016, we announced the industry's highest capacity 100G interfaces for the ExtremeSwitching BDX. Our S - Series and K-Series switching deliver flow-based architecture via our CoreFlow2 technology that enable granular visibility and policy control without impacting performance or user experience. These products scale up to 576 ports with Quad Small Form-factor Pluggable, 10GBase-T and SFP+ connectivity options, with built-in hardware support for 10/100/1000, 1GE, 10GE, 40GE, emerging protocols (IPv6) and large-scale deployment protocols such as Multi-Protocol Label Switching (&#8220;MPLS&#8221;).
+
+&#160;
+
+&#183; 
+
+Stackable Ethernet switching systems. Our ExtremeSwitching fixed form factor product family delivers Ethernet connectivity for the network edge, aggregation and core. Within the ExtremeSwitching family are products that offer a range of connection speeds (from 100 Megabit to 100 Gigabit), various physical presentations (copper and fiber) and options to deliver PoE or unpowered standard Ethernet ports. As with the our modular chassis switching products, the fixed switching products in conjunction with our operating systems provide the features, performance and reliability required by our customers to deploy, operate and manage converged networking infrastructures. We have recently announced the Summit X440-G2 and X620, which we believe is one of the most cost-effective, feature-rich, enterprise-grade switching platform in the industry. 
+
+&#160;
+
+&#183; 
+
+High density Wi-Fi. In addition to our wired Ethernet switch portfolio, we offer our ExtremeWireless family of wireless access points, centralized management and appliance to enable the deployment of wired-like performance, at scale for high-density in every environment. Our wireless access point products offer both indoor and outdoor 802.11a/b/g/n/ac access points. Proven in the most demanding environments, ExtremeWireless delivers an exceptional experience for BYOD/Mobile users wherever they may roam. 
+
+During the last year, we continued our growth in high-density venue deployments with many new NFL stadiums including the Green Bay Packers, Baltimore Ravens, Carolina Panthers, Jacksonville Jaguars and Cincinnati Bengals. Extreme also signed contracts in the NHL with the Buffalo Sabres and the Detroit Red Wings, in the NBA with the Golden State Warriors and in MLB with the Chicago Cubs.
+
+&#160;
+
+&#183; 
+
+Centralized management software. To provide a central network-wide visibility and control capability, we offer our ExtremeManagement software platform. This platform provides the ability to manage and automate the entire network through a single interface. This means deploy, configure, monitor and support the complete range of Wi-Fi and switching infrastructure and also set network-wide policy to enable our customers to reduce the overall cost of network administration and operations, protect corporate resources and provide a consistent high-quality user experience. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Network Access Control (&#8220;NAC&#8221;) and BYOD management. The ExtremeControl software solution provides a complete standards-based, multi-vendor interoperable pre-connect and post-connect Network A ccess Control solution for wired and wireless LAN and VPN users. Automated BYOD registration allows users to register their own devices using their credentials with no IT intervention. Guest registration access control features seek to facilitate secure guest networking. ExtremeControl also allows easy integration with other third party network management tools for Mobile Device Management integration, threat response Next Generation Firewall (&#8220;NGFW&#8221;), Security Information and Event Management (&#8220;SIEM&#8221;), I ntrusion Prevention System (&#8220;IPS&#8221;) and more. &#160;
+
+&#160;
+
+&#183; 
+
+Application analytics. ExtremeAnalytics is a network-powered application analytics and optimization solution that captures network data, then aggregates, analyzes, correlates and reports on it to enable better decision making and improved business performance. ExtremeAnalytics allows IT operations to optimize the network for each and every application, enhance security for those applications and provide data for business analytics. This empowers IT to turn the network into a strategic business asset that can now provide value to other lines of business, and enable business innovation powered by the network infrastructure. As an example, Extreme was selected as the Official Wi-Fi &#38; Analytics Provider for the NFL, including Super Bowl XLVIII, XLIX, XLVI and XLI. 
+
+&#160;
+
+&#183; 
+
+Cloud-based network management. &#160; ExtremeCloud is a resilient and scalable cloud-based network management solution offered by Extreme as a subscription service. The network is the platform of engagement for clients and staff. We have designed ExtremeCloud to provide superior user experience by empowering our customers and the applications that drive their business. The combination of Extreme&#8217;s smart wired and wireless edges and the elasticity, resilience and scalability provided via state-of-the-art data centers distributed strategically for worldwide availability, allows our customers to respond to the changing needs of their business at the speed of cloud through a simple, multi-site aware user interface. ExtremeCloud is subscription based to align with new business imperatives. Ease-of-purchasing, provisioning and ongoing operations are at the very core of ExtremeCloud to allow our customers, and their teams, to transform with the business, but without high upfront costs or complex infrastructure changes or software deployments. 
+
+&#160;
+
+&#183; 
+
+Software-defined networks. &#160; Extreme&#8217;s SDN architecture provides a comprehensive networking solution from the Extreme Wireless edge to the Extreme Switching wired edge to the aggregation and core network layers, and all the way across the data center. Extreme controls the technology and roadmap for the entire infrastructure, which is all managed from a single pane of glass with ExtremeManagement. User and device control enabled by ExtremeControl provides secure, policy-based access to the network. ExtremeAnalytics provides application visibility at Layer 7. 
+
+Competitive alternatives often combine technologies from several vendors resulting in multiple disparate points of management. With Extreme&#8217;s SDN architecture, centralized management and visibility and control of the network, the solution truly is greater than the sum of the parts, providing high levels of performance and security with the highest levels of operational efficiency.
+
+Key product functionality includes:
+
+&#160;
+
+&#183; 
+
+Resilient high performance networking. Customers can choose to deploy redundant management and fabric modules, hot swappable line cards, multi-speed stacking across 100 Megabits (&#8220;M&#8221;)/1G/10G/40G/100G systems, redundant power supplies and fan trays delivering high hardware availability. These deployments are supported by our modular and fault-tolerant network operating systems that spans our complete switching portfolio, unique in the industry. Technologies supported include a variety of Layer 2 (&#8220;L2&#8221;) resiliency protocols including multi-switch Link Aggregation (&#8220;M-LAG&#8221;), Ethernet Automatic Protection Switching (&#8220;EAPS&#8221;), MPLS / Virtual Private LAN Service (&#8220;VPLS&#8221;) for high service availability, and Layer 3 IPv4 and IPv6 routing protocols for high network availability. 
+
+EAPS is an example of our innovation and allows our customers to configure their network infrastructure so that critical network communications can be rapidly rerouted in the event of a network outage in most topologies. This level of high-speed communications 'reroute' is targeted for mission-critical and demanding applications, including voice and video, and maintains service delivery in the event of network outage. 
+
+We further offer a versatile and flexible QoS solution that allows network operators to configure bandwidth for mission-critical applications and in doing so, control the overall experience and the service-level of the communication flows. We have deep experience with communication quality controls, starting with our introduction to the market of the first broad QoS controls for Ethernet to the recent Data Center Bridging protocols for 'lossless' Ethernet that enables traditional storage networks to converge over a common Ethernet infrastructure. 
+
+&#160;
+
+We provide L2 extension for data centers through multiple supported technologi es that include Virtual Extensible LAN, VPLS and Pseudo-Wire Emulation as well as L2 extension with Generic Routing Encapsulation (&#8220;GRE&#8221;/L2) and Shortest Path Bridging (&#8220;SPB&#8221;) (on the S-Series). In addition to GRE/L2 and SPB on our S-Series, we offer innov ative traffic optimization for east/west and north/south traffic using Fabric routing and Host routing, respectively. This means we can enable Virtual Machine (&#8220;VM&#8221;) mobility using Layer 3 Data Center Interconnect, even without L2 stretch. Our unique CoreF low2 architecture delivers tens of millions of flows for deep visibility and control over users, services and applications to meet the demands of today&#8217;s businesses applications. 
+
+&#160;
+
+&#183; 
+
+Intelligence. Based on a unified, pervasive and intelligent software foundation, our customers can take advantage of user, machine and application visibility and control for the whole network infrastructure - from data center to edge. 
+
+&#160;
+
+- 
+
+Universal Port automatically detects new devices such as IP phones that plug-in to the network and can assign appropriate power, server and other configurations. The Identity Management engine allows tracking of users based on their login id and host machine, and assigns them to roles based on guest, contractor or employee privilege. 
+
+&#160;
+
+- 
+
+In the data center and cloud, Network Virtualization allows network administrators visibility into VM movement and having virtual port-profiles follow VMs as they move within and across network switches. CLEAR-Flow, our wire-speed security rules engine, helps detect and mitigate traffic anomalies, including denial of service attacks. 
+
+&#160;
+
+- 
+
+ExtremeManagement and ExtremeControl provide centralized visibility and granular control of enterprise network resources end-to-end, to manage, automate and report on the entire network through a single interface. ExtremeControl NAC and ExtremeAnalytics provides comprehensive visibility and policy for multi-vendor environments, providing detailed context that correlates users with their devices, applications, locations and other attributes. These products provide deep network insight and analytics, which can be used for better network optimization, improved security and smarter business decisions. This enables business innovation powered by the network infrastructure and empowers our customers to turn the network into a strategic business asset that can now provide value to other lines of business. 
+
+&#160;
+
+- 
+
+Our Audio-Video Bridging capabilities add intelligence within the network to support the convergence of professional audio and video across Ethernet, while our SDN investments provide a foundation for enhanced automation and orchestration from private cloud to user edge. 
+
+&#160;
+
+&#183; 
+
+Operational simplicity. We provide a unified management system for the entire network providing consistent management across all network segments and devices, making IT operations more efficient and simpler. No matter how many moves, adds or changes occur in your environment, ExtremeManagement keeps everything in view and under control through role-based access controls. ExtremeManagement can manage beyond Extreme switching, routing, and wireless hardware to deliver standards-based control of other vendors&#8217; network equipment. This means faster provisioning, quicker problem resolution, tighter security and reduced IT administration time. 
+
+&#160;
+
+&#183; 
+
+Vertical Market Solutions. Our SDN and services-led solution offerings are solutions targeted at specific high-growth vertical markets. These include Open Fabric, our architecture for open and scalable next-generation data center deployments that offer investment protection and provide a path to SDN. Extreme&#8217;s All Ethernet Open Fabric is anchored by our ExtremeSwitching family of products, ExtremeManagement, and where required, products from technology partners. 
+
+In the campus, our intelligent mobile edge offering combines our ExtremeSwitching edge virtual chassis switches, our ExtremeWireless access point and controller portfolio and our ExtremeManagement &#38; Control platform offering user and device identity awareness.
+
+Sales, Marketing and Distribution
+
+We conduct our sales and marketing activities on a worldwide basis through a channel that utilizes distributors, resellers and our field sales organization. As of June 30, 2016, our worldwide sales and marketing organization consisted of 521 employees, including vice presidents, directors, managers, sales representatives, and technical and administrative support personnel. We have domestic sales offices located in 5 states and international sales offices located in 28 countries.
+
+We sell our products primarily through an ecosystem of channel partners who combine our Ethernet, wireless, management and analytics software products with their vertical specific offerings to create compelling information technology solutions for end-user customers. We utilize our field sales organization to support our channel partners and to sell directly to certain end-user customers, including some large global accounts. 
+
+&#160;
+
+The details of our sales and distribution channels are as follows: 
+
+&#160;
+
+&#183; 
+
+Alliance, Original Equipment Manufacturers ("OEM") and Strategic Relationships. We have active Alliance, OEM &#38; strategic relationships with Barco NV, Ericsson Enterprise AB, Silicon Graphics International, Inc. (acquired by HP), PC HK Ltd., Nokia Siemens Networks and Aviat Networks, Inc. as well as other global industry technology leaders in which our products are qualified to be included into an overall solution or reference architecture. These tested and validated solutions are then marketed and sold by the Alliance, OEM or strategic partners into their specific verticals, market segments and customers as turnkey offerings. 
+
+&#160;
+
+&#183; 
+
+Distributors. We have established several key relationships with leading distributors in the electronics and computer networking industries. Each of our distributors primarily resells our products to resellers. The distributors enhance our ability to sell and provide support to resellers who may benefit from the broad service and product fulfillment capabilities offered by these distributors. Extreme maintained distribution agreements with Westcon Group, Tech Data Corporation and Jenne Corporation on substantially the same material terms as we generally enter into with each of our distributor partners. Distributors are generally given the right to return a portion of inventory to us for the purpose of stock rotation, to claim rebates for competitive discounts and participate in various cooperative marketing programs to promote the sale of our products and services. We defer recognition of revenue on all sales to distributors who maintain inventory of our products until the distributors sell the product, as evidenced by monthly &#8220;sales-out&#8221; reports that the distributors provide to us, provided other revenue recognition criteria are met. (See &#8220;Revenue Recognition&#8221; in Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. ) 
+
+&#160;
+
+&#183; 
+
+Resellers. We rely on many resellers worldwide that sell directly to the end-user customer. Our resellers include regional networking system resellers, resellers who focus on specific vertical markets, value added resellers, network integrators and wholesale resellers. We provide training and support to our resellers and our resellers generally provide the first level of contact to end-users of our products. Our relationships with resellers are on a non-exclusive basis. Our resellers are not given rights to return inventory and do not automatically participate in any cooperative marketing programs. We generally recognize product revenue from our reseller and end-user customers at the time of shipment, provided other revenue recognition criteria are met. When significant obligations or contingencies remain after products are delivered, such as installation or customer acceptance, revenue and related costs are deferred until such obligations or contingencies are satisfied. (See &#8220;Revenue Recognition&#8221; in Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations .) 
+
+&#160;
+
+&#183; 
+
+Field Sales . Our field sales organization is trained to sell solutions, support and develop leads for our resellers and to establish and maintain key accounts and strategic end-user customers. To support these objectives, our field sales force: 
+
+&#160;
+
+- 
+
+Assists end-user customers in finding solutions to complex network system and architecture problems. 
+
+&#160;
+
+- 
+
+Differentiates the features and capabilities of our products from competitive offerings. 
+
+&#160;
+
+- 
+
+Continually monitors and understands the evolving networking needs of enterprise and service provider customers. 
+
+&#160;
+
+- 
+
+Promotes our products and ensures direct contact with current and potential customers. 
+
+&#160;
+
+- 
+
+Assists our resellers to drive opportunities to closure business. 
+
+Although we compete in many vertical markets, in fiscal year 2016, we have focused on the specific verticals of healthcare, education, manufacturing, government and hospitality, which includes sports and entertainment venues. Years of experience and a track record of success in the verticals we serve enables us to address the following industry-specific problems. 
+
+Healthcare: 
+
+&#160;
+
+&#183; 
+
+Patient services. In an increasingly competitive healthcare market, ensuring patient and visitor access from a variety of devices to the Internet can be a competitive advantage. We have several medical facilities worldwide that can reference Extreme&#8217;s expertise in meeting the challenges of patient services which include: online services, guest Wi-Fi, IoT, wearables and sensors. 
+
+&#160;
+
+&#183; 
+
+The majority of new medical devices are IP-based . Not only are most medical devices monitored through the network, they are regulated by various government agencies across the globe. Extreme has success in meeting this challenge with compliance through its complete wireless and wired product suite overseen by innovative management and analytics. 
+
+&#160;
+
+&#183; 
+
+Clinical workflow has shifted to real-time mobility inside and outside the hospital. Medical professionals often access critical patient records through network connections. Extreme&#8217;s reliable and comprehensive technology, including the latest Wave 2 capability, is backed by practical experience in addressing the demanding needs of clinical workflow. 
+
+&#160;
+
+Education: 
+
+&#160;
+
+&#183; 
+
+New styles of teaching. Personalized learning, flipped classrooms and competency-based education depend on well-managed high-bandwidth digital content delivery. Extreme has extensive knowledge in smart classroom and large campus environments; both of which are experiencing a growing presence of IoT devices. Our easy-to-manage networks provide the bandwidth necessary to deliver digital content, including emerging styles like virtual and mixed reality, to thousands of students with the speed and quality required. Extreme has demonstrated the ability to provide high density, two-way Internet connectivity so that each student has a rich and uninterrupted educational experience. 
+
+&#160;
+
+&#183; 
+
+Online and technology-based assessment is growing in importance. K-12 is implementing high stakes standardized testing and higher education is moving to BYOD for online mid-term and final exams. ExtremeAnalytics helps ensure tests proceed by providing visibility into the network flow from student device to local school server to remote testing server. 
+
+&#160;
+
+&#183; 
+
+Protecting student privacy, safety and digital freedom . Extreme has built-in access and identity control to protect the safety and privacy of students, faculty and administrators. This all in one offering helps ease the burden on education institutions that have limited IT resources. 
+
+Manufacturing:
+
+&#160;
+
+&#183; 
+
+Operations to meet the fast-changing customer and market requirements. Flexible manufacturing and build-to-order processes place high demands on the network for material and shop floor control. Extreme&#8217;s proven technology strives to meet these demands in some of the world&#8217;s most demanding manufacturing environments. 
+
+&#160;
+
+&#183; 
+
+Speed, adaptability and innovation are the new currencies in the manufacturing realm . A fast and reliable network can help to accommodate speed. Extreme&#8217;s full suite of wired and wireless product and management and analytics software enable agile manufacturing. 
+
+&#160;
+
+&#183; 
+
+Visibility into plant and back office technology performance . Extreme&#8217;s management, control and analytics provide end-to-end network visibility from a single console without the need to swap user interfaces. This unique capability is well-suited for plant and back office environments. 
+
+Government:
+
+&#160;
+
+&#183; 
+
+Secure access. Government agencies are being challenged to provide their employees and the citizens they serve with secure, cost-effective, high-speed access to online information and resources. For today&#8217;s agencies, high quality video, collaboration, social media, VoIP and multimedia applications have become mission-critical services. These applications have placed unprecedented bandwidth and control demands on existing networks. 
+
+&#160;
+
+&#183; 
+
+Management of new technologies. The increasingly rapid deployment of wireless access, data center virtualization and the adoption of cloud computing have further complicated network management and control. For federal government agencies, the challenge is determining how to deliver secure, seamless, always-on access to these mission-critical services. 
+
+&#160;
+
+&#183; 
+
+Controlling costs. Agencies need to deliver access from laptops, tablets, smartphones and other types of devices, at any time, from any place and from anywhere, while at the same time maximizing efficiencies and cost savings across all areas of the network infrastructure. Extreme provides a rich set of networking solutions that strive to be cost-effective and secure and allow government agencies to meet not only today&#8217;s needs, but also to be prepared for future demands. 
+
+Hospitality:
+
+&#160;
+
+&#183; 
+
+Developing a cohesive and enhanced mobile experience. Through real world experience in sports stadiums, where over 70,000 fans actively access the Internet, Extreme has developed the expertise to handle the most demanding venue challenges. Our hospitality experience spans hotels, casinos, theaters, convention centers, vacation destinations and outdoor venues. 
+
+&#160;
+
+&#183; 
+
+Emphasizing the user experience and mobile engagement. Extreme has the ability to monitor applications so that policy to maximize user experience can be implemented in fixed and mobile environments with the same set of management tools from a single pane of glass. 
+
+&#160;
+
+&#183; 
+
+Generating revenue opportunities for the business . Knowing the behaviors of customers and clients is a key to success and Extreme Analytics provides visibility to the usage patterns and traits of network users. 
+
+&#160;
+
+Furthermore, we have decided to focus on the following custom er profiles where we believe we can add the most value: 
+
+&#160;
+
+&#183; 
+
+Customer size: Those customers with annual revenue of $100 million to $2.5 billion. 
+
+&#160;
+
+&#183; 
+
+Target deployment: Campus deployments with 250 to 5,000 employees or education campuses with 1,000 to 15,000 students. 
+
+&#160;
+
+&#183; 
+
+Target data centers: Data centers with 1,000 servers or less. 
+
+&#160;
+
+&#183; 
+
+Vertical markets: Healthcare, education, manufacturing, government/enterprise, hospitality. 
+
+&#160;
+
+&#183; 
+
+Customer characteristics: Our customers tend to operate in transient environments, such as college campuses, hospitals and sports venues, where BYOD and secure network access and identity control are critical. Their networks must be highly available with the ability to continue operations in the event of a service interruption. Secure access is essential to ensuring the protection of mission-critical systems and confidential information. Often tasked to manage the network with a limited IT staff, our customers appreciate the excellent service and support we strive to provide. 
+
+Customers with 10% of net revenue or greater
+
+The following table sets forth major customers accounting for 10% or more of our net revenue:
+
+&#160;
+
+&#160;
+
+&#160;
+
+Year Ended
+
+&#160;
+
+&#160;
+
+&#160;
+
+June 30,
+
+&#160;
+
+&#160;
+
+June 30,
+
+&#160;
+
+&#160;
+
+June 30,
+
+&#160;
+
+Tech Data Corporation
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+Westcon Group Inc.
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+Jenne
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+*
+
+&#160;
+
+&#160;
+
+*
+
+&#160;
+
+&#160;
+
+* 
+
+Less than 10% of revenue
+
+International sales
+
+International sales are an important portion of our business. In fiscal 2016, sales to customers outside of the United States accounted for 55% of our consolidated net revenue, compared to 57% in fiscal 2015 and 59% in fiscal 2014. These sales are conducted primarily through foreign-based distributors and resellers managed by our worldwide sales organization. In addition, we have direct sales to end-user customers, including large global accounts. The primary markets for sales outside of the United States are countries in Europe and Asia, as well as Canada, Mexico, Central America and South America. (See &#8220;Net Revenue&#8221; in Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. )
+
+Marketing
+
+We continue to develop and execute on a number of marketing programs to support the sale and distribution of our products by communicating the value of our solutions to our existing and potential customers, our distribution channels, our resellers and our technology alliance partners. Our marketing efforts include participation in industry tradeshows, conferences and seminars, publication of technical and educational articles in industry journals, communication across social media channels, frequent updates to our publicly available website, promotions, web-based training courses, advertising and public relations. We also submit our products for independent product testing and evaluation.
+
+Backlog
+
+Our products are often sold on the basis of standard purchase orders that are cancelable prior to shipment without significant penalties. In addition, purchase orders are subject to changes in quantities of products and delivery schedules in order to reflect changes in customer requirements and manufacturing capacity. Our business is characterized by seasonal variability in demand and short lead-time orders and delivery schedules. Actual shipments depend on the then-current capacity of our contract manufacturers and the availability of materials and components from our vendors. Although we believe that the orders included in the backlog are firm, all orders are subject to possible rescheduling by customers, cancellations by customers which we may elect to allow without penalty to customer, and further pricing adjustments on orders from distributors. Therefore, we do not believe that our backlog, as of any particular date is necessarily indicative of actual revenue for any future period.
+
+Our product backlog at June 30, 2016, net of anticipated back end rebates for distributor sales, was $26.8 million, compared to $14.8 million at June 30, 2015.
+
+&#160;
+
+Seasonality 
+
+Like many of our competitors, we historically have experienced seasonal fluctuations in customer spending patterns, which generally adversely affect our first and third fiscal quarters. This pattern should not be relied upon or be considered indicative of our future performance, however, as it has varied in the past.
+
+Customer Service and Support
+
+Our customers seek high reliability and maximum uptime for their networks. To that extent, we provide the following service offerings:
+
+&#160;
+
+&#183; 
+
+Support services for end-users, resellers and distributors. We meet the service requirements of our customers and channel partners through our Technical Assistance Centers ("TACs"), located in Research Triangle Park ("RTP"), North Carolina; Salem, New Hampshire and Chennai, India. Our TAC engineers and technicians assist in diagnosing and troubleshooting technical issues regarding customer networks. Development engineers work with the TACs to resolve product functionality issues specific to each customer. 
+
+&#160;
+
+&#183; 
+
+Professional services. We provide consultative services to improve customer productivity in all phases of the network lifecycle &#8211; planning, design, implementation, operations and optimization management. Our network architects develop and execute customized software and service-led networking solutions for deployment plans to meet individualized network strategies. These activities may include the management and coordination of the design and network configuration, resource planning, staging, logistics, migration and deployment. We also provide customized training and operational best practices manuals to assist customers in the transition and sustenance of their networks. 
+
+&#160;
+
+&#183; 
+
+Education. We offer classes covering a wide range of topics such as installation, configuration, operation, management and optimization &#8211; providing customers with the necessary knowledge and experience to successfully deploy and manage our products in various networking environments. Classes may be scheduled and available at numerous locations worldwide. We deliver training using our staff, on-line training classes and authorized training partners. In addition, we make much of our training materials accessible free-of-charge on our internet site for customers and partners to use in self-education. We believe this approach enhances the market&#8217;s ability to learn and understand the broad array of advantages of our products. 
+
+Long-Lived Assets
+
+See Note 3 of our Notes to Consolidated Financial Statements in this Annual Report on Form 10-K for more information regarding our long-lived assets.
+
+Manufacturing
+
+We outsource the majority of our manufacturing and supply chain management operations as part of our strategy to maintain global manufacturing capabilities and to reduce our costs. We conduct quality assurance, manufacturing engineering, document control and test development at engineering facilities at Research Triangle Park (&#8220;RTP&#8221;), North Carolina, Salem, New Hampshire, Toronto, Canada and Chennai, India. This approach enables us to reduce fixed costs and to flexibly respond to changes in market demand. Our end-to-end supply chain, including our three engineering facilities at RTP and Chennai are all ISO 9001 certified.
+
+We use Alpha Networks, Inc. (&#8220;Alpha Networks&#8221;) headquartered in Hsinchu, Taiwan to design and manufacture our Summit, A-Series, B-Series, C-Series, Stackable products, G-Series, D-Series, I-Series and 800-Series Standalone products and Black Diamond chassis products. Alpha Networks is a global networking Original/Joint Design Manufacturer ("ODM/JDM") leader with core competencies in areas such as Ethernet, LAN/MAN, Wireless, Broadband and VoIP. Alpha Networks manufacturing processes and procedures are ISO 9001 certified.
+
+We use Benchmark Electronics, Inc. ("Benchmark") headquartered in Huntsville, Alabama and Flextronics International ("Flextronics") headquartered in Singapore, to manufacture our S-Series and K-Series chassis products, 7100-Series Stackable products and SSA Standalone products. Benchmark and Flextronics have a significant investment in capital to ensure they have the latest in manufacturing and test technologies and both companies are ISO 9001 certified.
+
+Our wireless access point products are supplied by Senao Electronics ("Senao"), headquartered in Taipei, Taiwan. Senao&#8217;s manufacturing processes and procedures are ISO 9001 certified.
+
+&#160;
+
+All of our manufacturers utilize automated testing equipment to perform product testing and burn-in with specified tests. Together we rely upon comp rehensive inspection testing and statistical process controls to assure the quality and reliability of our products. 
+
+We use a collaborative sales and operations planning forecast of expected demand to determine our material requirements. Lead times for materials and components vary significantly, and depend on factors such as the specific supplier, contract terms and demand for a component at a given time. We order most of our materials and components on an indirect basis through our ODM/JDM, OEMs and contract manufacturers&#8217; (&#8220;CMs&#8221;). Purchase commitments with all of our manufacturers are generally on a purchase order basis.
+
+Research and Development
+
+The success of our products to date is due in large part to our focus on research and development. We believe that continued success in the marketplace will depend on our ability to develop new and enhanced products employing leading-edge technology. Accordingly, we plan to undertake development efforts with an emphasis on increasing the reliability, performance and features of our family of products, and designing innovative products to reduce the overall network operating costs of customers.
+
+Our product development activities focus on solving the needs of customers in the enterprise campus by providing an end-to-end, wired and wireless network solution from the access edge to the private clouds in targeted verticals. Current activities include the continuing development of our innovative switching technology aimed at extending the capabilities of our products. Our ongoing research activities cover a broad range of areas, including, in particular, 40G and 100G Ethernet, routing, timing and resiliency protocols, open standards interfaces, software defined networks, network security, identity management, data center fabrics, and wireless networking.
+
+We plan to continue to enhance the functionality of our modular operating systems which have been designed to provide high reliability and availability. This allows us to leverage a common operating system across different hardware and network chipsets.
+
+As of June 30, 2016, our research and development organization consisted of 402 employees. Research and development efforts are conducted in several of our locations, including RTP, North Carolina; Salem, New Hampshire, Toronto, Canada and Chennai, India. Our research and development expenses in fiscal years 2016, 2015 and 2014 were $78.7 million, $93.4 million and $77.1 million, respectively.
+
+Intellectual Property
+
+We rely on a combination of patent, copyright, trademark and trade secret laws and restrictions on disclosure to protect our intellectual property rights. As of June 30, 2016, we had 363 issued patents in the United States and 183 patents outside of the United States. The expiration dates of our issued patents in the United States range from 2017 to approximately 2032. Although we have patent applications pending, there can be no assurance that patents will be issued from pending applications or that claims allowed on any future patents will be sufficiently broad to protect our technology. With respect to trademarks, we have a number of pending and registered trademarks in the United States and outside the United States.
+
+We enter into confidentiality, inventions assignment or license agreements with our employees, consultants and other third parties with whom we do business, and control access to, and distribution of, our software, documentation and other proprietary information. In addition, we provide our software products to end-user customers primarily under &#8220;shrink-wrap&#8221; or "click-through" license agreements. These agreements are not negotiated with or signed by the licensee, and thus these agreements may not be enforceable in some jurisdictions. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy or otherwise obtain and use our products or technology, particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the United States.
+
+Competition
+
+The market for network switches, routers and software (including analytics) which is part of the broader market for networking equipment is extremely competitive and characterized by rapid technological progress, frequent new product introductions, changes in customer requirements and evolving industry standards. We believe the principal competitive factors in this market are:
+
+&#160;
+
+&#183; 
+
+expertise and familiarity with network protocols, network switching/routing/wireless and network management; 
+
+&#160;
+
+&#183; 
+
+expertise and familiarity with application analytics software; 
+
+&#160;
+
+&#183; 
+
+expertise with network operations and management software; 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+product performance, features, functionality and reliability; &#160;
+
+&#160;
+
+&#183; 
+
+price/performance characteristics; 
+
+&#160;
+
+&#183; 
+
+timeliness of new product introductions; 
+
+&#160;
+
+&#183; 
+
+adoption of emerging industry standards; 
+
+&#160;
+
+&#183; 
+
+customer service and support; 
+
+&#160;
+
+&#183; 
+
+size and scope of distribution network; 
+
+&#160;
+
+&#183; 
+
+brand name; 
+
+&#160;
+
+&#183; 
+
+breadth of product offering; 
+
+&#160;
+
+&#183; 
+
+access to customers; and 
+
+&#160;
+
+&#183; 
+
+size of installed customer base. 
+
+We believe we compete with our competitors with respect to many of the foregoing factors. However, the market for network switching solutions is dominated by a few large companies, particularly Brocade Communications Systems, Inc., Cisco Systems, Inc., Dell, Hewlett-Packard Company, Huawei Technologies Co. Ltd., and Juniper Networks Inc. Most of these competitors have longer operating histories, greater name recognition, larger customer bases, broader product lines and substantially greater financial, technical, sales, marketing and other resources.
+
+Restructuring 
+
+2015 Restructuring Plan Phase 1
+
+During the fourth quarter of fiscal 2015, we initiated a plan to reduce costs through targeted restructuring activities intended to reduce operating costs and realign our organization in the current competitive environment. We initiated a plan to reduce our worldwide headcount by more than 225 employees, primarily in sales and marketing as well as research and development, consolidate specific global administrative functions, and shift certain operating costs to lower cost regions in the United States, among other actions. 
+
+Phase 2
+
+During fiscal 2016, we continued our initiative to realign our operations with a second phase by abandoning excess facilities, primarily in San Jose, California; Salem, New Hampshire; Research Triangle Park, North Carolina in addition to other smaller leased locations. The abandoned facilities represented approximately 32% of the floor space in the aggregate at these locations and included general office and warehouse space. There may be additional abandonments of excess facilities in future periods as we further align our organization to our business and operational needs. 
+
+Environmental Matters
+
+We are subject to various environmental and other regulations governing product safety, materials usage, packaging and other environmental impacts in the United States and in various countries where our products are manufactured and sold. We are also subject to regulatory developments, including recent SEC disclosure regulations relating to so-called "conflict minerals," relating to ethically responsible sourcing of the components and materials used in our products. To date, compliance with federal, state, local, and foreign laws enacted for the protection of the environment has had no material effect on our capital expenditures, earnings, or competitive position.
+
+We are committed to energy efficiency in our product lines. Accordingly, we believe this is an area that affords us a competitive advantage for our products in the marketplace. We maintain compliance with various regulations related to the environment, including the Waste Electrical and Electronic Equipment and the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment regulations adopted by the European Union. To date, our compliance efforts with various United States and foreign regulations related to the environment has not had a material effect on our operating results.
+
+&#160;
+
+Employees 
+
+As of June 30, 2016, we employed 1,378 people, including 521 in sales and marketing, 402 in research and development, 174 in operations, 190 in customer support and services, and 91 in finance and administration. We have never had a work stoppage and no U.S. employees are represented under collective bargaining agreements. We consider our employee relations to be good.
+
+We believe our future success depends on our continued ability to attract, integrate, retain, train and motivate highly qualified employees, and upon the continued service of our senior management and key employees. None of our executive officers or key employees is bound by an employment agreement which mandates that the employee render services for any specific term. The market for qualified personnel is highly competitive.
+
+Organization
+
+We were incorporated in California in May 1996, and reincorporated in Delaware in March 1999. Our corporate headquarters are located at 145 Rio Robles, San Jose, CA 95134 and our telephone number is (408) 579-2800. We electronically file our SEC disclosure reports with the SEC and they are available free of charge at both www.sec.gov and www.extremenetworks.com. The public may also read or copy any materials we file with the Securities Exchange Commission at the SEC&#8217;s Public Reference Room at Station Place, 100 F Street, N.E., Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+
+Our corporate governance guidelines, the charters of our audit committee, our compensation committee and our nominating and corporate governance committee and our code of conduct policy (including code of ethics provisions that apply to our principal executive officer, principal financial officer, controller and senior financial officers) are available on our website at www.extremenetworks.com under &#8220;Corporate Governance.&#8221; These items are also available to any stockholder who requests them by calling (408) 579-2800.
+
+&#160;
+
+&#160;
+

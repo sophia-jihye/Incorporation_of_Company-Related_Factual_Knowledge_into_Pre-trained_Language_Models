@@ -1,0 +1,946 @@
+ Item 1. Business. 
+
+&#160;
+
+Summary 
+
+&#160; 
+
+The iShares &#174; S&#38;P GSCI&#8482; Commodity-Indexed Trust (the &#8220;Trust&#8221;) is a Delaware statutory trust that issues units of beneficial interest, called &#8220;Shares,&#8221; representing fractional undivided beneficial interests in its net assets. The Trust&#8217;s assets consist of long positions in exchange-traded index futures contracts of various expirations, called &#8220;Index Futures,&#8221; on the S&#38;P GSCI&#8482; Excess Return Index, or the &#8220;S&#38;P GSCI-ER,&#8221; together with &#8220;Collateral Assets&#8221; consisting of cash, U.S. Treasury securities or other short-term securities and similar securities that are eligible as margin deposits for those Index Futures positions. 
+
+&#160; 
+
+iShares Delaware Trust Sponsor LLC, a Delaware limited liability company, is the sponsor of the Trust (the &#8220;Sponsor&#8221;). BlackRock Institutional Trust Company, N.A., an affiliate of the Sponsor, is the &#8220;Trustee&#8221; of the Trust. The Trust is a commodity pool, as defined in the Commodity Exchange Act (the &#8220;CEA&#8221;) and the applicable regulations of the Commodity Futures Trading Commission (the &#8220;CFTC&#8221;), and is operated by the Sponsor, a commodity pool operator registered with the CFTC. BlackRock Fund Advisors (the &#8220;Advisor&#8221;), an indirect subsidiary of BlackRock, Inc., serves as the commodity trading advisor of the Trust and is registered with the CFTC. The Trust is not an investment company registered under the Investment Company Act of 1940, as amended (the &#8220;Investment Company Act&#8221;). The Trust has delegated day-to-day administration of the Trust to the Trustee. The Trustee has delegated certain day-to-day administrative functions of the Trustee to State Street Bank and Trust Company (the &#8220;Trust Administrator&#8221;). Wilmington Trust Company, a Delaware trust company, serves as the &#8220;Delaware Trustee&#8221; of the Trust. 
+
+&#160; 
+
+The Trust intends to offer Shares on a continuous basis. The Trust issues and redeems Shares only in one or more blocks of 50,000 Shares (&#8220;Baskets&#8221;). Only institutions that enter into an agreement with the Trust to become &#8220;Authorized Participants&#8221; may purchase or redeem Baskets, in exchange for Index Futures and Collateral Assets with an aggregate value equal to the net asset value per Share, or &#8220;NAV&#8221; of the Shares being purchased or redeemed. Owners of beneficial interest in Shares (&#8220;Shareholders&#8221;) who are not Authorized Participants have no right to redeem their Shares. In order to liquidate their investment in the Shares, Shareholders who are not Authorized Participants must generally sell their Shares in the secondary market, assuming that demand for their Shares exists. The price obtained by the Shareholders for the Shares may be less than the NAV of those Shares. 
+
+&#160; 
+
+The activities of the Trust are generally limited to: 
+
+&#160;
+
+&#160; 
+
+(1) 
+
+issuing Baskets in exchange for Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets);
+
+&#160;
+
+&#160; 
+
+(2) 
+
+consistent with its investment objective, establishing, maintaining and closing out positions in Index Futures and acquiring, holding and disposing of corresponding Collateral Assets;
+
+&#160; 
+
+&#160; 
+
+(3) 
+
+paying out of its assets any expenses and liabilities of the Trust not assumed by the Sponsor; and
+
+&#160; 
+
+&#160; 
+
+(4) 
+
+delivering proceeds consisting of Index Futures, cash and other Collateral Assets in exchange for Baskets surrendered for redemption.
+
+&#160;
+
+The Trust is a passive investor in Index Futures and the Collateral Assets held to satisfy applicable margin requirements on those Index Futures positions. The Advisor acts as the commodity trading advisor for the Trust, and is authorized to transact in Index Futures, and acquire and dispose of the related Collateral Assets on the Trust&#8217;s behalf. The Trust does not engage in any activities designed to obtain a profit from, or to ameliorate losses caused by, changes in the level of the S&#38;P GSCI&#8482; Total Return Index (the &#8220;Index&#8221;) or the S&#38;P GSCI-ER or the value of the Collateral Assets. To the extent that the Trust accepts cash proceeds in connection with the creation of Shares, the Trust will use that cash to purchase additional Index Futures and Collateral Assets, in an amount that the Advisor determines will enable the Trust to achieve investment results that correspond with the Index. At any time when Index Futures of more than one expiration are listed on the Chicago Mercantile Exchange, the &#8220;CME&#8221; or the &#8220;Exchange,&#8221; the Sponsor will determine, pursuant to the terms of the Trust&#8217;s trust agreement, which Index Futures will be transferred in connection with either the creation or redemption of Baskets. 
+
+&#160;
+
+The Sponsor maintains an Internet website at www.ishares.com through which monthly account statements and the registrants&#8217; annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (&#8220;Exchange Act&#8221;), can be accessed free of charge, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (&#8220;SEC&#8221;). Additional information regarding the Trust may also be found on the SEC&#8217;s EDGAR database at www.sec.gov. 
+
+&#160;
+
+Investment Objective of the Trust 
+
+&#160;
+
+The Trust seeks to track the results of a fully collateralized investment in futures contracts on an index composed of a diversified group of commodities futures. The Trust seeks to track the investment returns of the Index before payment of the Trust&#8217;s expenses and liabilities. The Trust holds long positions in Index Futures whose settlement value at expiration is determined based on the value of the S&#38;P GSCI-ER at that time. The Trust also earns interest on its non-cash Collateral Assets. 
+
+&#160;
+
+The S&#38;P GSCI-ER is calculated based on the same commodities that are included in the S&#38;P GSCI&#8482; Commodity Index, or the &#8220;S&#38;P GSCI&#8482;,&#8221; which is a production-weighted index of the prices of a diversified group of futures contracts on physical commodities. The S&#38;P GSCI-ER reflects the return of an uncollateralized investment in the contracts comprising the S&#38;P GSCI&#8482;, and in addition incorporates the economic effect of &#8220;rolling&#8221; the contracts included in the S&#38;P GSCI&#8482; as they near expiration. &#8220;Rolling&#8221; a futures contract means closing out a position in an expiring futures contract and establishing an equivalent position in a replacement futures contract on the same commodity. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+When establishing positions in Index Futures, the Trust is required to deposit initial margin with a value of approximately 3% to 10% of the value of each Index Futures position at the time it is established. These margin requirements are subject to change from time to time by the Exchange or Goldman, Sachs &#38; Co., the clearing futures commission merchant (the &#8220;Clearing FCM&#8221;). Margin requirements established by the Clearing FCM may exceed minimum levels established by the Exchange. On a daily basis, the Trust is obligated to pay, or entitled to receive, variation margin in an amount equal to the change in the daily settlement level of its Index Futures positions. If the daily settlement level causes the value of the Trust&#8217;s Index Futures positions to decrease, the Trust is required to post variation margin with the Clearing FCM. Conversely, if the daily settlement level causes the value of the Trust&#8217;s Index Futures positions to increase, the Trust&#8217;s account with the Clearing FCM receives variation margin in an amount equal to the increase. 
+
+&#160;
+
+The Shares are intended to constitute an alternative means for investors to achieve investment exposure to the performance of the Index. Although the Shares are not the exact equivalent of an investment in the underlying futures contracts and U.S. Treasury securities represented by the Index, the Shares are intended to provide investors with an alternative method of participating in the commodities market. In addition, retail investors can gain exposure to the commodities underlying the S&#38;P GSCI-ER by purchasing individual or small lots of Shares through traditional brokerage accounts, without being subject to the significantly higher minimum contract sizes required for directly establishing a position in the underlying commodities or futures contracts. The Shares are eligible for margin accounts. 
+
+&#160;
+
+Secondary Market Trading 
+
+&#160;
+
+While the Trust anticipates that the price of the Shares will fluctuate in a manner that reflects changes in the Trust&#8217;s net asset value over time, at any given time the Shares may trade at, above or below their NAV. The NAV fluctuates primarily with changes in the market value of Index Futures. The NAV may also be affected as a result of fluctuations in the value of Collateral Assets, but this fluctuation is not expected to be significant because the Collateral Assets are expected to consist of cash and U.S. Treasury securities. The trading price of the Shares fluctuates in accordance with changes in their NAV, intraday changes in the value of the Index Futures and market supply and demand. The amount of the discount or premium in the trading price relative to the NAV may be influenced by non-concurrent trading hours between NYSE Arca, Inc. (&#8220;NYSE Arca&#8221;), the exchange on which the Shares trade, the Exchanges on which Index Futures trade, and the principal commodities markets on which the futures contracts in the S&#38;P GSCI-ER trade. While the Shares are expected to trade on NYSE Arca until 4:00 p.m. (New York time), liquidity in the markets for the Index Futures and the futures contracts underlying the S&#38;P GSCI-ER is expected to be reduced whenever the principal markets for these contracts are closed. As a result, trading spreads, and the resulting premium or discount on the Shares, may widen during these &#8220;gaps&#8221; in market trading hours. 
+
+&#160;
+
+Valuation of Index Futures; Computation of the Trust&#8217;s Net Asset Value &#160; 
+
+&#160;
+
+The Sponsor has the exclusive authority to determine the net asset value of the Trust and the NAV, which it has delegated to the Trustee under the Trust&#8217;s trust agreement. The Trustee determines the net asset value of the Trust and the NAV as of 4:00 p.m. (New York time), on each Business Day on which NYSE Arca is open for regular trading, as soon as practicable after that time. A &#8220;Business Day&#8221; is a day (1) on which none of the following occurs: (a) NYSE Arca is closed for regular trading, (b) the CME is closed for regular trading or (c) the Federal Reserve wire transfer system is closed for cash wire transfers, or (2) that the Trustee determines that it is able to conduct business. 
+
+&#160; 
+
+The Trustee values the Trust&#8217;s long positions in Index Futures on the basis of that day&#8217;s announced CME settlement prices for the Index Futures held by the Trust. The value of the Trust&#8217;s positions in any particular Index Futures contract equals the product of (a) the number of such Index Futures owned by the Trust, (b) the settlement price of such Index Futures contract on the date of calculation and (c) the multiplier of such Index Futures contract. If there is no announced CME settlement price for a particular Index Futures contract on a Business Day, the Trustee uses the most recently announced CME settlement price unless the Trustee, in consultation with the Sponsor, determines that such price is inappropriate as a basis for valuation. The daily settlement price for each Index Futures contract currently held by the Trust is established on each trading day by the CME shortly after the close of trading for such Index Futures contract, which is generally 2:40 p.m. (New York time). 
+
+&#160; &#160; 
+
+The Trustee values all other holdings of the Trust at (a) its current market value, if quotations for such property are readily available, or (b) its fair value, as reasonably determined by the Trustee, if the current market value cannot be determined. 
+
+&#160; 
+
+Once the value of the Index Futures and interest earned on the Trust&#8217;s non-cash Collateral Assets has been determined, the Trustee subtracts all accrued expenses and liabilities of the Trust as of the time of calculation in order to calculate the net asset value of the Trust. 
+
+&#160; 
+
+Once the net asset value of the Trust has been calculated, the Trustee determines the NAV by dividing the net asset value of the Trust by the number of Shares outstanding at the time the calculation is made. Any changes to NAV that may result from creation and redemption activity are not reflected in the NAV calculations for purposes of the Trust&#8217;s operations until the Business Day following the Business Day on which they occur, but are reflected in the Trust&#8217;s financial statements as of such first Business Day. 
+
+&#160;
+
+Creation and redemption orders received after 2:40 p.m. (New York time) are not deemed to be received, and the related creation or redemption will not be deemed to occur, until the following Business Day. Subject to the approval of the Trustee, Baskets may be created solely for cash, but the related creation orders will be deemed received as of the following Business Day unless received by 10:00 a.m. (New York time). Orders are expected to settle by 11:00 a.m. (New York time) on the Business Day following the Business Day on which such orders are deemed to be received. 
+
+&#160;
+
+Trust Expenses 
+
+&#160;
+
+The Sponsor has agreed under the Trust&#8217;s trust agreement to pay the following administrative, operational and marketing expenses: 
+
+&#160;
+
+&#160; 
+
+(1) 
+
+the fees of the Trustee, the Delaware Trustee, the Advisor and their respective agents; 
+
+&#160; 
+
+&#160; 
+
+(2) 
+
+NYSE Arca listing fees; 
+
+&#160;
+
+&#160; 
+
+(3) 
+
+printing and mailing costs; 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+&#160; 
+
+(4) 
+
+audit fees; 
+
+&#160; 
+
+&#160; 
+
+(5) 
+
+fees for registration of the Shares with the SEC;
+
+&#160;
+
+&#160; 
+
+(6) 
+
+tax reporting costs; 
+
+&#160; 
+
+&#160; 
+
+(7) 
+
+license fees; and 
+
+&#160; 
+
+&#160; 
+
+(8) 
+
+legal expenses relating to the Trust of up to $100,000 annually. 
+
+&#160;
+
+The Trust is not expected to have other ordinary recurring administrative, operational or marketing expenses other than brokerage commissions and similar transaction fees, as described below. 
+
+&#160;
+
+In return for paying the expenses described above, the Sponsor receives the &#8220;Sponsor&#8217;s Fee,&#8221; which accrues daily at an annualized rate of up to 0.75% of the net asset value of the Trust, as calculated before deducting fees and expenses based on the value of the Trust&#8217;s assets (the &#8220;Adjusted Net Asset Value of the Trust&#8221;) and is payable by the Trust monthly in arrears. 
+
+&#160;
+
+The Sponsor and the Trustee may amend or terminate the Sponsor&#8217;s obligation to pay certain expenses of the Trust pursuant to the Trust&#8217;s trust agreement. 
+
+&#160;
+
+The Trust is responsible for paying any applicable brokerage commissions and similar transaction fees out of its assets. 
+
+&#160;
+
+The following expenses are paid out of the assets of the Trust: 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+any expenses of the Trust (including the Sponsor&#8217;s Fee) that are not assumed by the Sponsor;
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+any taxes and other governmental charges that may fall on the Trust or its property; 
+
+&#160; 
+
+&#160; &#9679; 
+
+any expenses of any extraordinary services performed by the Trustee or the Sponsor on behalf of the Trust or expense of any action taken by the Trustee or the Sponsor to protect the Trust and the rights and interests of holders of the Shares; and 
+
+&#160; 
+
+&#160; &#9679; 
+
+any indemnification of the Sponsor, the Advisor or other agents, service providers or counterparties of the Trust. 
+
+&#160;
+
+The Trustee is also entitled to charge the Trust for all expenses and disbursements incurred by the Trustee in connection with the actions described in the second and third bullet points above, including fees and disbursements of its legal counsel; provided that the Trustee is not entitled to charge the Trust for (1) expenses and disbursements that were incurred by it before the Shares were publicly traded and (2) fees of agents for performing services that the Trustee is required under the Trust&#8217;s trust agreement to perform. 
+
+&#160;
+
+The Trustee, at the direction of the Sponsor, may liquidate the Trust&#8217;s property from time to time as necessary to permit payment of the fees and expenses that the Trust is required to pay. The Trustee is not responsible for any depreciation or loss incurred by reason of the liquidation of Trust property made in compliance with the Trust&#8217;s trust agreement. 
+
+&#160;
+
+Creations of Baskets 
+
+&#160;
+
+The Trust intends to offer Shares on a continuous basis on each Business Day, but issuances of new Shares may be suspended at any time. Shares may be offered only in Baskets of 50,000 Shares. Baskets are typically issued only in exchange for an amount of Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets) equal to the &#8220;Basket Amount&#8221; for the Business Day on which the creation order was received by the Trustee. The Basket Amount for a Business Day has a per Share value equal to the NAV as of such day, and the assets included in the Basket Amount are valued in the same manner and on the same basis as the Trust&#8217;s NAV calculations for its assets. Creation orders received after 2:40 p.m. (New York time) are not deemed to be received until the following Business Day. In limited circumstances and subject to the approval of the Trustee, Baskets may be created for cash equal to the NAV of the Shares constituting a Basket as determined on the date the related creation order was received, plus the costs incurred by the Trust in establishing the corresponding Index Futures positions and acquiring the related Collateral Assets. Creation orders for Baskets paid for solely in cash that are received after 10:00 a.m. (New York time) will be deemed received as of the following Business Day. The Trustee notifies the Authorized Participants of the Basket Amount on each Business Day. 
+
+&#160;
+
+Before the Trust issues any Baskets to an Authorized Participant, that Authorized Participant must deliver to the Trustee a creation order indicating the number of Baskets it intends to purchase and providing other details with respect to the procedures by which the Baskets are to be transferred. The Trustee expects to acknowledge the creation order unless it or the Sponsor decides to refuse the order. 
+
+&#160;
+
+Upon the transfer of (1) the required consideration of Index Futures in the amounts and of the type specified by the Trustee, and cash (or, in the discretion of the Sponsor, other Collateral Assets) in the amounts specified by the Trustee, in each case to the accounts specified by the Trustee, and (2) any and all transaction fees associated with creations (including but not limited to fees charged by the Exchange and the Clearing FCM) per Basket, the Trustee will deliver the appropriate number of Baskets to the Depository Trust Company (&#8220;DTC&#8221;) account of the Authorized Participant. The total transaction fees charged per Basket created may change from time to time. 
+
+&#160;
+
+Only Authorized Participants can transfer the required consideration and receive Baskets in exchange. Authorized Participants may act for their own accounts or as agents for broker-dealers, custodians and other securities market participants that wish to create or redeem Baskets. An Authorized Participant is under no obligation to the Trust to create or redeem Baskets for itself or on behalf of other persons. An order for one or more Baskets may be placed by an Authorized Participant on behalf of multiple clients. The Sponsor and the Trustee maintain a current list of Authorized Participants. As of the date of this report, Goldman, Sachs &#38; Co., Goldman Sachs Execution &#38; Clearing L.P., &#160; J.P. Morgan Securities Inc., Merrill Lynch Professional Clearing Corp., SG Americas Securities, LLC and UBS Securities LLC are the only Authorized Participants. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160; 
+
+No Shares are issued unless and until the Trustee receives confirmation that the required consideration has been received in the account or accounts specified by the Trustee. It is expected that delivery of the Shares will be made against transfer of consideration on the next Business Day following the Business Day on which the creation order is received by the Trustee, which is referred to as a T+1 settlement cycle. If the Trustee has not received the required consideration for the Shares to be delivered on the delivery date, by 11:00 a.m. (New York time), the Trustee may cancel the creation order. 
+
+&#160;
+
+The Trustee has the right to reject any creation order for any reason. The reasons for the rejection may include, among others, (1) the related order not being in proper form as described in the authorized participant agreement, (2) market conditions or other circumstances that make transactions in or delivery of the Shares or the Index Futures impossible or impractical, (3) a determination by the Trustee that the acceptance of the related order would have adverse tax or other consequences to the Trust or the Shareholders, or (4) circumstances that would cause the acceptance of the related order to result in a violation of law in the opinion of counsel to the Trustee, the Sponsor or the Trust Administrator. Each authorized participant agreement provides that neither the Trustee nor any agents acting on its behalf will be liable to any person for rejecting a creation order. 
+
+&#160;
+
+Redemptions of Baskets 
+
+&#160;
+
+Authorized Participants may typically surrender Baskets in exchange only for an amount of Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets) equal to the value of the Basket Amount on the Business Day the redemption request is received by the Trustee. Redemption orders received after 2:40 p.m. (New York time) are not deemed to be received until the following Business Day. Holders of Baskets who are not Authorized Participants are not able to redeem their Baskets except through an Authorized Participant. It is expected that Authorized Participants may redeem Baskets for their own accounts or on behalf of Shareholders who are not Authorized Participants, but no Authorized Participant is under any obligation to the Trust to do so. 
+
+&#160;
+
+Before surrendering Baskets for redemption, an Authorized Participant must deliver to the Trustee a request indicating the number of Baskets it intends to redeem and providing other details with respect to the procedures by which the assets representing the required Basket Amount are to be transferred. The Trustee expects to acknowledge the redemption order unless it or the Sponsor decides to refuse the redemption order. 
+
+&#160;
+
+After the delivery by the Authorized Participant to the Trust&#8217;s DTC account of the total number of Shares to be redeemed by an Authorized Participant, the Trustee delivers to the order of the redeeming Authorized Participant redemption proceeds consisting of Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets). The assets included in the redemption proceeds are valued in the same manner and on the same basis as the Trust&#8217;s NAV calculations for its assets. In connection with a redemption order, the redeeming Authorized Participant authorizes the Trustee to deduct from the proceeds of redemption any and all transaction fees associated with redemptions. 
+
+&#160;
+
+It is expected that delivery of the Index Futures and cash or other Collateral Assets to the redeeming Shareholder will be made against transfer of the Baskets on the next Business Day following the Business Day on which the redemption request is received by the Trustee, which is referred to as a T+1 settlement cycle. If the Trustee&#8217;s DTC account has not been credited with the total number of Shares to be redeemed pursuant to the redemption order by 11:00 a.m. (New York time), on the delivery date, the Trustee may cancel the redemption order. 
+
+&#160;
+
+The Trustee has the right to reject any redemption order for any reason. The reasons for the rejection may include, among others, (1) the related order not being in proper form as described in the authorized participant agreement, (2) market conditions or other circumstances that make transactions in or delivery of the Shares or the Index Futures impossible or impractical, (3) a determination by the Trustee that the acceptance of the related order would have adverse tax or other consequences to the Trust or the Shareholders, or (4) circumstances that would cause the acceptance of the related order to result in a violation of law in the opinion of counsel to the Trustee, the Sponsor or the Trust Administrator. Each authorized participant agreement provides that neither the Trustee nor any agents acting on its behalf will be liable to any person for rejecting a redemption order. 
+
+&#160;
+
+Custody of the Trust Assets 
+
+&#160;
+
+The Trust&#8217;s Index Futures and the Collateral Assets posted as margin for these Index Futures positions are held in the Trust&#8217;s account, established at its Clearing FCM. The Clearing FCM further transfers some or all of the Collateral Assets posted as margin for the Trust&#8217;s Index Futures positions to the Exchange. 
+
+&#160;
+
+Substantially all of the Trust&#8217;s remaining assets are held in the Trust&#8217;s accounts at the Trust Administrator. 
+
+&#160;
+
+Futures Contracts on the S&#38;P GSCI-ER &#160; 
+
+&#160;
+
+The assets of the Trust consist of Index Futures and cash or other Collateral Assets used to satisfy applicable margin requirements for those Index Futures positions. Index Futures are exchange-traded index futures contracts on the S&#38;P GSCI-ER, and may include contracts of different terms and expirations. The Trust is expected to roll out of existing positions in Index Futures and establish new positions in Index Futures on an ongoing basis. Index Futures subsequently acquired by the Trust may have terms that differ from those of the Index Futures it currently holds, including transaction fees associated with the purchase and sale of these Index Futures. 
+
+&#160;
+
+Creation and redemption of interests in the Trust are generally effected through exchanges for related positions or &#8220;EFRPs.&#8221; EFRPs involve contemporaneous transactions in futures contracts and the underlying cash commodity or a closely related commodity. In a typical EFRP, the participant taking the long position on the futures contract transfers the underlying commodity or other related position to the participant taking the short position on the futures contract. The CME, the Exchange on which Index Futures trade, permits the execution of EFRPs consisting of simultaneous transfers of Index Futures and Shares. This mechanism generally is expected to be used by the Trust in connection with the creation and redemption of Baskets. Specifically, it is anticipated that an Authorized Participant requesting the creation of additional Baskets typically will transfer Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets) to the Trust in return for Shares. 
+
+&#160;
+
+If an EFRP is executed in connection with the redemption of one or more Baskets, an Authorized Participant transfers to the Trust the Shares being redeemed and the Trust transfers to the Authorized Participant Index Futures and cash or other Collateral Assets. The Trust may include Index Futures with different terms and expirations in the creation and redemption of Baskets, and the Index Futures included in creation Baskets may differ from those included in redemption Baskets. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160; 
+
+With the approval of the Sponsor, Baskets may also be created or redeemed for cash, in which case the Authorized Participant will be responsible for the costs incurred by the Trust in establishing or liquidating the corresponding Index Futures position and acquiring or disposing of the related Collateral Assets. 
+
+&#160;
+
+Index Futures are traded on the CME. Futures contracts and options on futures contracts on the S&#38;P GSCI&#8482;, a benchmark index which does not reflect the rolling methodology embedded in the S&#38;P GSCI-ER, have been traded on the CME since 1992. Index Futures are listed and traded separately from the S&#38;P GSCI&#8482; futures contracts and options on futures contracts. 
+
+&#160;
+
+The first Index Futures were commodity excess return future contracts on the S&#38;P GSCI-ER, or &#8220;CERFs,&#8221; that were first listed and made available for trading on March 13, 2006. Until October 2010, these CERFs, which expired in March 2011, were the only Index Futures listed. In October 2010, the CME listed a second CERF, scheduled to expire in March 2014. In January 2014, the CME changed the listing cycle of Index Futures to include the nearest four months as contract months at any given point in time. Accordingly, as of June 27, 2014, the CME listed Index Futures contracts expiring in July, August, September and October of 2014. The CME may at any time expand the listing cycle of Index Futures to include additional expiration dates, and may from time to time amend the rules applicable to the Index Futures. On April 8, 2013, the CME amended the rules applicable to the Index Futures then held by the Trust (through the Investing Pool, its now-dissolved subsidiary). In connection with these amendments, the iShares S&#38;P GSCI&#8482; Commodity-Indexed Investing Pool recognized gain or loss for U.S. federal income tax purposes on each of its Index Futures positions, depending on the price at which each such position was established. 
+
+&#160;
+
+Index Futures are subject to the rules of the CME. Index Futures trade on GLOBEX, the CME&#8217;s electronic trading system, and do not trade through open outcry on the floor of the CME. Transactions in Index Futures are cleared through the CME&#8217;s clearing house by the trader&#8217;s FCM acting as its agent. Under these clearing arrangements, the CME&#8217;s clearing house becomes the buyer to each member FCM representing a seller of the contract and the seller to each member futures commission merchant representing a buyer of the contract. As a result of these clearing arrangements, each trader holding a position in Index Futures is subject to the credit risk of the CME&#8217;s clearing house and the FCM carrying its position in Index Futures. See &#8220;Risk Factors&#8212;Risk Factors Related to Index Futures and the S&#38;P GSCI-ER&#8212;The Clearing FCM or an Exchange&#8217;s clearing house could fail.&#8221; 
+
+&#160;
+
+Each Index Futures contract provides for cash settlement, at expiration, based upon the final settlement value of the S&#38;P GSCI-ER at the expiration of the contract, multiplied by a fixed dollar multiplier. The final settlement value of an Index Futures contract is determined on the eleventh business day of the month in which it is scheduled to expire. On a daily basis, market participants with positions in Index Futures, including the Trust, are obligated to pay, or entitled to receive, cash (known as &#8220;variation margin&#8221;) in an amount equal to the change in the daily settlement level of the Index Futures from the preceding trading day&#8217;s settlement level (or, initially, the contract price at which the position was entered into). Specifically, if the daily settlement price of the contract increases over the previous day&#8217;s price, the seller of the contract must pay the difference to the buyer, and if the daily settlement price is less than the previous day&#8217;s price, the buyer of the contract must pay the difference to the seller. 
+
+&#160;
+
+Index Futures are expected to require deposits of initial margin as well as payments of daily variation margin as the value of the contracts fluctuate. When establishing positions in Index Futures, the Advisor estimates as of the date of this report that the Trust will be required to deposit initial margin with a value of approximately 3% to 10% of the value of each Index Futures position. These margin requirements are subject to change from time to time by the Exchange or the Clearing FCM. On a daily basis, the Trust is obligated to pay, or entitled to receive, variation margin in an amount equal to the change in the daily settlement level of its Index Futures positions. Upon liquidation or settlement of Index Futures, a market participant is expected to receive from its FCM its initial margin deposit, adjusted for variation margin paid or received by such participant with respect to the contract during the time it was held by the participant (or the proceeds from liquidation of any investments made with such funds for the benefit of the participant under the terms of its custody arrangement with the carrying FCM). 
+
+&#160;
+
+The Index and the S&#38;P GSCI-ER &#160; 
+
+&#160;
+
+This section contains a description of the Index and the S&#38;P GSCI-ER. All information regarding the Index and the S&#38;P GSCI-ER contained in this report, including its composition, method of calculation, changes in their constituent components and historical performance, has been derived from publicly available information, including information published by S&#38;P Dow Jones Indices LLC, which is the &#8220;Index Sponsor,&#8221; but has not been independently verified. Investors in the Shares should conduct their own investigation into the Index, the S&#38;P GSCI-ER and the Index Sponsor. 
+
+&#160;
+
+Goldman, Sachs &#38; Co. sold its GSCI family of indices, including the S&#38;P GSCI&#8482; , the S&#38;P GSCI-ER and the Index, to S&#38;P effective May 2007. Prior to their acquisition by S&#38;P, the S&#38;P GSCI&#8482; was known as the Goldman Sachs Commodity Index, the S&#38;P GSCI-ER was known as the GSCI Excess Return Index and the Index was known as the GSCI Total Return Index. 
+
+&#160;
+
+The Trust and the Shares are not sponsored, endorsed, sold or promoted by the Index Sponsor. The Index Sponsor makes no representation or warranty, express or implied, to the owners of the Shares or any member of the public regarding the advisability of investing in securities generally or in the Shares particularly or the ability of the S&#38;P GSCI&#8482;, the S&#38;P GSCI-ER or the Index or any related indices or sub-indices to track the appropriate market performance. The Index Sponsor&#8217;s only relationship to iShares Delaware Trust Sponsor LLC, BlackRock Institutional Trust Company, N.A., or the Trust is the licensing of certain trademarks, trade names of the Index Sponsor and the S&#38;P GSCI&#8482; and other intellectual property. The S&#38;P GSCI&#8482;, the S&#38;P GSCI-ER and the Index are determined and composed by the Index Sponsor and calculated by the Index Sponsor or its agents without regard to iShares Delaware Trust Sponsor LLC, BlackRock Institutional Trust Company, N.A or the Trust. The Index Sponsor has no obligation to take the needs of iShares Delaware Trust Sponsor LLC, BlackRock Institutional Trust Company, N.A., the Trust or the Shareholders into consideration in determining, composing or calculating the S&#38;P GSCI&#8482;, the S&#38;P GSCI-ER or the Index. The Index Sponsor is not responsible for and has not participated in the determination of the prices and the amount of the Shares or the timing of the issuance of sale of Shares or in the determination or calculation of the Basket Amount. The Index Sponsor has no obligation or liability in connection with the administration, marketing or trading of the Shares. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+The Index Sponsor does not guarantee the accuracy or the completeness of the S&#38;P GSCI&#8482;, the S&#38;P GSCI-ER or the Index or any data included therein, and the Index Sponsor disclaims any and all liability for any errors, omissions, or interruptions therein. The Index Sponsor makes no warranty, express or implied, as to the results to be obtained by the Trust, the Shareholders or any other person or entity from use of the S&#38;P GSCI&#8482;, the S&#38;P GSCI-ER or the Index or any data included therein. The Index Sponsor makes no express or implied warranties, and expressly disclaims all warranties of merchantability or fitness for a particular purpose or use with respect to the S&#38;P GSCI&#8482;, the S&#38;P GSCI-ER or the Index or any data included therein. Without limiting any of the foregoing, the Index Sponsor expressly disclaims any and all liability for any special, punitive, indirect, or consequential damages (including lost profits), even if notified of the possibility of such damages. 
+
+&#160;
+
+The following information with respect to the Index and the S&#38;P GSCI-ER reflects the policies of and is subject to change by the Index Sponsor. The Index Sponsor owns the copyright and other rights to the Index and the S&#38;P GSCI-ER. The Index Sponsor has no obligation to consider your interests as a Shareholder and has no obligation to continue to publish, and may discontinue the publication of, the Index or the S&#38;P GSCI-ER. The consequences of the Index Sponsor&#8217;s discontinuing the S&#38;P GSCI-ER are described under &#8220;Risk Factors&#8212;Risk Factors Relating to Index Futures and the S&#38;P GSCI-ER.&#8221; 
+
+&#160;
+
+Current information regarding the market values of the Index and the S&#38;P GSCI-ER is available from the Index Sponsor and numerous public sources. None of the Sponsor, the Trustee, the Delaware Trustee, the Advisor or the Trust makes any representation that publicly available information about the Index and the S&#38;P GSCI-ER is accurate or complete. In addition, none of the Sponsor, the Trustee, the Delaware Trustee, the Advisor or the Trust accepts any responsibility for the calculation, maintenance or publication of, or for any error, omission or disruption in, the Index or the S&#38;P GSCI-ER. 
+
+&#160;
+
+The Index and the S&#38;P GSCI-ER were established in May 1991. The Index reflects the value of an investment in the S&#38;P GSCI-ER together with a Treasury bill return. The S&#38;P GSCI-ER reflects the returns that are potentially available through a rolling uncollateralized investment in the contracts comprising the S&#38;P GSCI&#8482;. 
+
+&#160;
+
+Because futures contracts have scheduled expirations, or delivery months, as one contract nears expiration it becomes necessary to close out the position in that delivery month and establish a position in the next available delivery month. This process is referred to as &#8220;rolling&#8221; the position forward. The S&#38;P GSCI-ER is designed to reflect the return from rolling each contract included in the S&#38;P GSCI&#8482; as it nears expiration into the next available delivery month. This is accomplished by selling the position in the first delivery month and purchasing a position of equivalent value in the second delivery month. If the price of the second contract is lower than the price of the first contract, the &#8220;rolling&#8221; process results in a greater quantity of the second contract being acquired for the same value. Conversely, if the price of the second contract is higher than the price of the first contract, the &#8220;rolling&#8221; process results in a smaller quantity of the second contract being acquired for the same value. 
+
+&#160;
+
+More specifically, the rolling of the contracts included in the S&#38;P GSCI&#8482; occurs on the fifth through the ninth business days of each month. During this roll period, each contract is shifted from the contract with the nearest expiration to the contract with the next nearest expiration at a rate of 20% per day for each the five days of the roll period. Therefore, during the first four business days of a month, and just before the end of the fifth business day, the S&#38;P GSCI&#8482; consists of futures contracts with the nearest expirations. The S&#38;P GSCI&#8482; is calculated as though each contract roll occurs at the end of each day during the roll period, at the daily settlement prices. At the end of the fifth business day, the S&#38;P GSCI&#8482; is adjusted so that 20% of the contracts underlying the S&#38;P GSCI&#8482; held are in the next nearest expiring contracts, with 80% remaining in the nearest expiring contracts. The roll process continues on the sixth, seventh and eighth business days, with the relative weights of the nearest to the next nearest expirations gradually shifting from a 60%/40% weighting, to a 40%/60% weighting, to a 20%/80% weighting. At the end of the ninth business day, the last of the contracts with the nearest expirations are exchanged, completing the roll and leaving the S&#38;P GSCI&#8482; composed entirely of contracts with the next nearest expirations. See &#8220;Contract Daily Return.&#8221; 
+
+&#160;
+
+The S&#38;P GSCI&#8482; itself is an index on a production-weighted basket of principal physical commodities that satisfy specified criteria. The S&#38;P GSCI&#8482; reflects the level of commodity prices at a given time and is designed to be a measure of the performance over time of the markets for these commodities. The commodities represented in the S&#38;P GSCI&#8482; are those physical commodities on which active and liquid contracts are traded on trading facilities in major industrialized countries. The commodities included in the S&#38;P GSCI&#8482; are weighted, on a production basis, to reflect the relative significance (in the view of the Index Sponsor) of those commodities to the world economy. The fluctuations in the level of the S&#38;P GSCI&#8482; are intended generally to correlate with changes in the prices of those physical commodities in global markets. The value of the S&#38;P GSCI&#8482; has been normalized such that its hypothetical level on January 2, 1970 was 100. 
+
+&#160;
+
+The following is a summary of the composition of and the methodology used to calculate the S&#38;P GSCI&#8482; as of the date of this report. The methodology for determining the composition and weighting of the S&#38;P GSCI&#8482; and for calculating its value is subject to modification in a manner consistent with the purposes of the S&#38;P GSCI&#8482;, as described below. The Index Sponsor makes the official calculations of the value of the S&#38;P GSCI&#8482;. At present, this calculation is performed continuously and is reported on Reuters Page .SPGSCI and on Bloomberg page SPGSCI&#60;index&#62; and is updated at least once every three minutes during business hours on each day on which the S&#38;P GSCI&#8482; is calculated, referred to as an &#8220;S&#38;P GSCI&#8482; Business Day.&#8221; The settlement price for the S&#38;P GSCI-ER is reported on Reuters Page .SPGSCIP and on Bloomberg page SPGSCIP&#60;index&#62; at the end of each S&#38;P GSCI&#8482; Business Day. If Reuters ceases to publish the value of the S&#38;P GSCI&#8482; or the settlement price of the S&#38;P GSCI-ER, the Index Sponsor has undertaken to use commercially reasonable efforts to ensure that a comparable reporting service publishes the value of the S&#38;P GSCI&#8482; and the settlement price of the S&#38;P GSCI-ER so long as any Shares are outstanding. 
+
+&#160;
+
+In light of the rapid development of electronic trading platforms and the potential for significant shifts in liquidity between traditional exchanges and those platforms, the Index Sponsor may review both the procedures and criteria for determining the contracts to be included in the S&#38;P GSCI&#8482;, as well as the procedures and criteria for evaluating available liquidity on an intra-year basis in order to provide S&#38;P GSCI&#8482; market participants with efficient access to new sources of liquidity and the potential for more efficient trading. In particular, the Index Sponsor may examine the conditions under which an instrument traded on an electronic platform, rather than a traditional futures contract traded on a traditional futures exchange, should be permitted to be included in the S&#38;P GSCI&#8482; and how the composition of the S&#38;P GSCI&#8482; should respond to rapid shifts in liquidity between those instruments and contracts currently included in the S&#38;P GSCI&#8482;. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160; 
+
+The Index Committee and Commodity Index Advisory Panel 
+
+&#160;
+
+The Index Sponsor has established an &#8220;Index Committee&#8221; to oversee the daily management and operations of the S&#38;P GSCI&#8482;, and is responsible for all analytical methods and calculation in the indices. The Index Committee is comprised of full-time professional members of S&#38;P&#8217;s staff. At each meeting, the Index Committee reviews any issues that may affect index constituents, statistics comparing the composition of the indices to the market, commodities that are being considered as candidates for addition to an index, and any significant market events. In addition, the Index Committee may revise index policy covering rules for selecting commodities, or other matters. 
+
+&#160;
+
+S&#38;P considers information about changes to its indices and related matters to be potentially market moving and material. Therefore, all Index Committee discussions are confidential. 
+
+&#160;
+
+In addition, the Index Sponsor has established a &#8220;Commodity Index Advisory Panel&#8221; to assist it with the operation of the S&#38;P GSCI&#8482;. The Commodity Index Advisory Panel meets on an annual basis and at other times at the request of the Index Committee. The principal purpose of the Commodity Index Advisory Panel is to advise the Index Committee with respect to, among other things, the calculation of the S&#38;P GSCI&#8482;, the effectiveness of the S&#38;P GSCI&#8482; as a measure of commodity futures market performance and the need for changes in the composition or the methodology of the S&#38;P GSCI&#8482;. The Commodity Index Advisory Panel acts solely in an advisory and consultative capacity. The Index Committee makes all decisions with respect to the composition, calculation and operation of the S&#38;P GSCI&#8482;. Certain of the members of the Commodity Index Advisory Panel may be affiliated with clients of S&#38;P. Also, certain of the members of the Commodity Index Advisory Panel may be affiliated with entities which, from time to time, may have investments linked to the S&#38;P GSCI&#8482;, either through transactions in the contracts included in the S&#38;P GSCI&#8482;, futures contracts on the S&#38;P GSCI&#8482; or derivative products linked to the S&#38;P GSCI&#8482;. 
+
+&#160;
+
+Composition of the S&#38;P GSCI&#8482; &#160; 
+
+&#160;
+
+Currently, in order to be included in the S&#38;P GSCI&#8482;, a contract must satisfy the following eligibility criteria: 
+
+&#160;
+
+(1) 
+
+The contract must:
+
+&#160; 
+
+&#160; 
+
+(a) 
+
+be in respect of a physical commodity and not a financial commodity; 
+
+&#160; 
+
+&#160; (b) 
+
+have a specified expiration or term, or provide in some other manner for delivery or settlement at a specified time, or within a specified period, in the future; 
+
+&#160; 
+
+&#160; (c) 
+
+be available, at any given point in time, for trading at least five months prior to its expiration or such other date or time period specified for delivery or settlement; and 
+
+&#160; 
+
+&#160; (d) 
+
+be traded on a trading facility that allows market participants to execute spread transactions, through a single order entry, between the pairs of contract expirations included in the S&#38;P GSCI&#8482; that at any given point in time will be involved in the rolls to be effected in the next three roll periods. 
+
+&#160;
+
+(2) 
+
+The commodity must be the subject of a contract that:
+
+&#160;
+
+&#160; 
+
+(a) 
+
+is denominated in U.S. dollars; 
+
+&#160; 
+
+&#160; (b) 
+
+is traded on or through an exchange, facility or other platform, referred to as a &#8220;trading facility,&#8221; that has its principal place of business or operations in a country that is a member of the Organization for Economic Cooperation and Development that: 
+
+&#160; 
+
+&#160; (i) 
+
+makes price quotations generally available to its members or participants (and, if the Index Sponsor is not such a member or participant, to the Index Sponsor) in a manner and with a frequency that is sufficient to provide reasonably reliable indications of the level of the relevant market at any given point in time; 
+
+&#160; 
+
+&#160; (ii) 
+
+makes reliable trading volume information available to the Index Sponsor with at least the frequency required by the Index Sponsor to make the monthly determinations; 
+
+&#160; 
+
+&#160; 
+
+(iii) 
+
+accepts bids and offers from multiple participants or price providers; and 
+
+&#160; 
+
+&#160; 
+
+(iv) 
+
+is accessible by a sufficiently broad range of participants. 
+
+&#160; 
+
+(3) 
+
+The price of the relevant contract that is used as a reference or benchmark by market participants, referred to as the &#8220;daily contract reference price,&#8221; generally must have been available on a continuous basis for at least two years prior to the proposed date of inclusion in the S&#38;P GSCI&#8482;. In appropriate circumstances, however, the Index Sponsor, in consultation with the Index Committee, may determine that a shorter time period is sufficient or that historical daily contract reference prices for that contract may be derived from daily contract reference prices for a similar or related contract. The daily contract reference price may be (but is not required to be) the settlement price or other similar price published by the relevant trading facility for purposes of margining transactions or for other purposes. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+(4) 
+
+At and after the time a contract is included in the S&#38;P GSCI&#8482;, the daily contract reference price for that contract must be published between 10:00 a.m. and 4:00 p.m. (New York time) on each business day relating to that contract by the trading facility on or through which it is traded and must generally be available to all members of, or participants in, that trading facility (and, if the Index Sponsor is not such a member or participant, to the Index Sponsor) on the same day from the trading facility or through a recognized third-party data vendor. Such publication must include, at all times, daily contract reference prices for at least one expiration or settlement date that is five months or more from the date the determination is made, as well as for all expiration or settlement dates during that five-month period. 
+
+&#160; 
+
+(5) 
+
+Volume data with respect to the contract must be available for at least the three months immediately preceding the date on which the determination is made. 
+
+&#160;
+
+(6) 
+
+A contract that is not included in the S&#38;P GSCI&#8482; at the time of determination and that is based on a commodity that is not represented in the S&#38;P GSCI&#8482; at that time must, in order to be added to the S&#38;P GSCI&#8482; at that time, have an annualized total dollar value traded over the relevant period of at least $15 billion. The &#8220;total dollar value traded&#8221; is the dollar value of the total quantity of the commodity underlying transactions in the relevant contract and any related contract over the period for which the calculation is made, based on the average of the daily contract reference prices on the last day of each month during the period. 
+
+&#160;
+
+(7) 
+
+A contract that is already included in the S&#38;P GSCI&#8482; at the time of determination and that is the only contract on the relevant commodity included in the S&#38;P GSCI&#8482; must, in order to continue to be included in the S&#38;P GSCI&#8482; after that time, have an annualized total dollar value traded over the relevant period of at least $5 billion and at least $10 billion during at least one of the three most recent annual periods used in making the determination. 
+
+&#160;
+
+(8) 
+
+A contract that is not included in the S&#38;P GSCI&#8482; at the time of determination and that is based on a commodity on which there are one or more contracts already included in the S&#38;P GSCI&#8482; at that time must, in order to be added to the S&#38;P GSCI&#8482; at that time, have an annualized total dollar value traded over the relevant period of at least $30 billion. 
+
+&#160; 
+
+(9) 
+
+A contract that is already included in the S&#38;P GSCI&#8482; at the time of determination and that is based on a commodity on which there are one or more contracts already included in the S&#38;P GSCI&#8482; at that time must, in order to continue to be included in the S&#38;P GSCI&#8482; after that time, have an annualized total dollar value traded over the relevant period of at least $10 billion and at least $20 billion during at least one of the three most recent annual periods used in making the determination. 
+
+&#160;
+
+(10) 
+
+A contract that is: 
+
+&#160;
+
+&#160; (a) 
+
+already included in the S&#38;P GSCI&#8482; at the time of determination must, in order to continue to be included after that time, have a reference percentage dollar weight of at least 0.10%. The &#8220;reference percentage dollar weight&#8221; of a contract represents the current value of the quantity of the underlying commodity that is included in the S&#38;P GSCI&#8482; at a given time. This figure is determined by dividing (A) the product of the contract production weight of each contract, or &#8220;CPW,&#8221; and the average of its daily contract reference prices on the last day of each month during the relevant period, by (B) the sum of the products in (A) for all contracts included in the S&#38;P GSCI&#8482;. The CPW of a contract is part of its weight in the S&#38;P GSCI&#8482;; and 
+
+&#160; 
+
+&#160; (b) 
+
+not included in the S&#38;P GSCI&#8482; at the time of determination must, in order to be added to the S&#38;P GSCI&#8482; at that time, have a reference percentage dollar weight of at least 1.00%. 
+
+&#160; 
+
+(11) 
+
+In the event that two or more contracts on the same commodity satisfy the eligibility criteria: 
+
+&#160; 
+
+&#160; (a) 
+
+Such contracts will be included in the S&#38;P GSCI&#8482; in the order of their respective total quantity traded during the relevant period (determined as the total quantity of the commodity underlying transactions in the relevant contract), with the contract having the highest total quantity traded being included first, provided that no further contracts will be included if such inclusion would result in the portion of the S&#38;P GSCI&#8482; attributable to that commodity exceeding a particular level; and 
+
+&#160;
+
+&#160; (b) 
+
+If additional contracts could be included with respect to several commodities at the same time, that procedure is first applied with respect to the commodity that has the smallest portion of the S&#38;P GSCI&#8482; attributable to it at the time of determination. Subject to the other eligibility criteria described above, the contract with the highest total quantity traded on that commodity will be included. Before any additional contracts on the same commodity or on any other commodity are included, the portions of the S&#38;P GSCI&#8482; attributable to all commodities are recalculated. The selection procedure described above is then repeated with respect to the contracts on the commodity that then has the smallest portion of the S&#38;P GSCI&#8482; attributable to it. 
+
+&#160; 
+
+The contracts currently included in the S&#38;P GSCI&#8482; are futures contracts traded on the New York Mercantile Exchange, Inc. (&#8220;NYM&#8221;), ICE Futures U.S. (&#8220;ICE-US&#8221;), ICE Futures Europe (&#8220;ICE-UK&#8221;), the CME, the Chicago Board of Trade (&#8220;CBT&#8221;), the Kansas City Board of Trade (&#8220;KBT&#8221;), the COMEX Division of the New York Mercantile Exchange, Inc. (&#8220;CMX&#8221;) and the London Metal Exchange (&#8220;LME&#8221;). 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+The futures contracts included in the S&#38;P GSCI&#8482;, their percentage dollar weights, their market symbols and the exchanges on which they are traded, in each case as of January 29, 2016, are as follows: 
+
+&#160;
+
+Commodity 
+
+&#160; Dollar Weights 
+
+January 29, 2016 (a) 
+
+&#160; &#160; Ticker (b) 
+
+&#160; Trading 
+
+Facility 
+
+Crude Oil 
+
+&#160; &#160; 19.13 % &#160; CL 
+
+&#160; NYM / ICE 
+
+Brent Crude Oil 
+
+&#160; &#160; 16.38 % &#160; LCO 
+
+&#160; ICE - UK 
+
+Corn 
+
+&#160; &#160; 6.14 % &#160; C 
+
+&#160; CBT 
+
+Live Cattle 
+
+&#160; &#160; 6.07 % &#160; LC 
+
+&#160; CME 
+
+Chicago Wheat 
+
+&#160; &#160; 4.76 % &#160; W 
+
+&#160; CBT 
+
+Unleaded Gas 
+
+&#160; &#160; 4.69 % &#160; RB 
+
+&#160; NYM 
+
+Gas Oil 
+
+&#160; &#160; 4.53 % &#160; LGO 
+
+&#160; ICE - UK 
+
+Gold 
+
+&#160; &#160; 4.49 % &#160; GC 
+
+&#160; CMX 
+
+Copper 
+
+&#160; &#160; 4.29 % &#160; MCU 
+
+&#160; LME 
+
+ULS Diesel 
+
+&#160; &#160; 4.18 % &#160; HO 
+
+&#160; NYM 
+
+Soybeans 
+
+&#160; &#160; 3.90 % &#160; S 
+
+&#160; CBT 
+
+Natural Gas 
+
+&#160; &#160; 3.57 % &#160; NG 
+
+&#160; NYM / ICE 
+
+Aluminum 
+
+&#160; &#160; 3.51 % &#160; MAL 
+
+&#160; LME 
+
+Lean Hogs 
+
+&#160; &#160; 3.05 % &#160; LH 
+
+&#160; CME 
+
+Sugar 
+
+&#160; &#160; 2.26 % &#160; SB 
+
+&#160; ICE - US 
+
+Cotton 
+
+&#160; &#160; 1.68 % &#160; CT 
+
+&#160; ICE - US 
+
+Feeder Cattle 
+
+&#160; &#160; 1.65 % &#160; FC 
+
+&#160; CME 
+
+Kansas Wheat 
+
+&#160; &#160; 1.10 % &#160; KW 
+
+&#160; KBT 
+
+Coffee 
+
+&#160; &#160; 1.06 % &#160; KC 
+
+&#160; ICE - US 
+
+Zinc 
+
+&#160; &#160; 0.99 % &#160; MZN 
+
+&#160; LME 
+
+Lead 
+
+&#160; &#160; 0.80 % &#160; MPB 
+
+&#160; LME 
+
+Nickel 
+
+&#160; &#160; 0.64 % &#160; MNI 
+
+&#160; LME 
+
+Cocoa 
+
+&#160; &#160; 0.61 % &#160; CC 
+
+&#160; ICE - US 
+
+Silver 
+
+&#160; &#160; 0.53 % &#160; SI 
+
+&#160; CMX 
+
+&#160;
+
+(a) &#160; The futures contracts included in the S&#38;P GSCI &#8482; and their percentage dollar weights, among other matters, may change. Source: S&#38;P. Used with permission . 
+
+(b) &#160; Tickers are Reuters RIC Codes. 
+
+&#160;
+
+The quantity of each of the contracts included in the S&#38;P GSCI&#8482; is determined on the basis of a five-year average, referred to as the &#8220;world production average,&#8221; of the production quantity of the underlying commodity as published by the United Nations Statistical Yearbook, the Industrial Commodity Statistics Yearbook and other official sources. However, if a commodity is primarily a regional commodity, based on its production, use, pricing, transportation or other factors, the Index Sponsor, in consultation with the Index Committee, may calculate the weight of that commodity based on regional, rather than world, production data. At present, natural gas is the only commodity the weights of which are calculated on the basis of regional production data, with the relevant region defined as North America. 
+
+&#160;
+
+The five-year moving average is updated annually for each commodity included in the S&#38;P GSCI&#8482;, based on the most recent five-year period (ending approximately one and a half years prior to the date of calculation and moving backwards) for which complete data for all commodities is available. The CPWs used in calculating the S&#38;P GSCI&#8482; are derived from world or regional production averages, as applicable, of the relevant commodities, and are calculated based on the total quantity traded for the relevant contract and the world or regional production average, as applicable, of the underlying commodity. However, if the volume of trading in the relevant contract, as a multiple of the production levels of the commodity, is below specified thresholds, the CPW of the contract is reduced until the threshold is satisfied. This is designed to ensure that trading in each contract is sufficiently liquid relative to the production of the commodity. 
+
+&#160;
+
+In addition, the Index Sponsor performs this calculation on a monthly basis and, if the multiple of any contract is below the prescribed threshold, the composition of the S&#38;P GSCI&#8482; is reevaluated, based on the criteria and weighting procedure described above. This procedure is undertaken to allow the S&#38;P GSCI&#8482; to shift from contracts that have lost substantial liquidity into more liquid contracts during the course of a given year. As a result, it is possible that the composition or weighting of the S&#38;P GSCI&#8482; will change on one or more of these monthly evaluation dates. The likely circumstances under which the Index Sponsor would be expected to change the composition of the Index during a given year, however, are (1) a substantial shift of liquidity away from a contract included in the Index as described above, or (2) an emergency, such as a natural disaster or act of war or terrorism, that causes trading in a particular contract to cease permanently or for an extended period of time. In either event, the Index Sponsor will publish the nature of the changes, through websites, news media or other outlets, with as much prior notice to market participants as is reasonably practicable. Moreover, regardless of whether any changes have occurred during the year, the Index Sponsor reevaluates the composition of the S&#38;P GSCI&#8482; at the conclusion of each year, based on the above criteria. Other commodities that satisfy that criteria, if any, are expected to be added to the S&#38;P GSCI&#8482;. Commodities included in the S&#38;P GSCI&#8482; that no longer satisfy that criteria, if any, are expected to be deleted. 
+
+&#160;
+
+The Index Sponsor also determines whether modifications in the selection criteria or the methodology for determining the composition and weights of and for calculating the S&#38;P GSCI&#8482; are necessary or appropriate in order to assure that the S&#38;P GSCI&#8482; represents a measure of commodity market performance. The Index Sponsor has the discretion to make any such modifications. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Contract Expirations 
+
+&#160;
+
+Because the S&#38;P GSCI&#8482; is comprised of actively traded contracts with scheduled expirations, it can be calculated only by reference to the prices of contracts for specified expiration, delivery or settlement periods, referred to as &#8220;contract expirations.&#8221; The contract expirations included in the S&#38;P GSCI&#8482; for each commodity during a given year are designated by the Index Sponsor, in consultation with the Index Committee, provided that each contract must be an &#8220;active contract.&#8221; An &#8220;active contract&#8221; for this purpose is a liquid, actively-traded contract expiration, as defined or identified by the relevant trading facility or, if no such definition or identification is provided by the relevant trading facility, as defined by standard custom and practice in the industry. 
+
+&#160;
+
+If a trading facility deletes one or more contract expirations, the S&#38;P GSCI&#8482; is calculated during the remainder of the year in which that deletion occurs on the basis of the remaining contract expirations designated by the Index Sponsor. If a trading facility ceases trading in all contract expirations relating to a particular contract, the Index Sponsor may designate a replacement contract on the commodity. The replacement contract must satisfy the eligibility criteria for inclusion in the S&#38;P GSCI&#8482;. To the extent practicable, the replacement is expected to be effected during the next monthly review of the composition of the S&#38;P GSCI&#8482;. If that timing is not practicable, the Index Sponsor is expected to determine the date of the replacement based on a number of factors, including the differences between the existing contract and the replacement contract with respect to contractual specifications and contract expirations. 
+
+&#160;
+
+If a trading facility eliminates one or more contract expirations, but there are remaining contract expirations of the same contract, the weighting of the commodity underlying the relevant contract is not affected. If the trading facility ceases trading in all contract expirations relating to a particular contract, and the Index Sponsor designates a replacement contract on the same commodity, the index weighting allocated to the terminated contract is allocated to the replacement contract. Accordingly, unless a contract is eliminated entirely and no replacement contract is designated, a cessation of trading in certain contract expirations or the elimination of a contract does not affect the weighting of commodities in the Index. If a contract is eliminated and there is no replacement contract, the underlying commodity drops out of the Index and the weighting allocated to that contract is then allocated pro rata to the remaining contracts in the Index. The designation of a replacement contract, or the elimination of a commodity from the Index because of the absence of a replacement contract, could affect the value of the Index and the S&#38;P GSCI-ER, either positively or negatively, depending on the price of the contract that is eliminated and the prices of the remaining contracts in the Index. It is impossible, however, to predict the effect of these changes, if they occur, on the value of the Index or the S&#38;P GSCI-ER. 
+
+&#160; 
+
+Total Dollar Weight of the S&#38;P GSCI&#8482; 
+
+&#160;
+
+The total dollar weight of the S&#38;P GSCI&#8482; is the sum of the dollar weights of each of the underlying commodities. The dollar weight of each such commodity on any given day is equal to: 
+
+&#160;
+
+&#9679; 
+
+the daily contract reference price; 
+
+&#160; 
+
+&#9679; 
+
+multiplied by the appropriate CPW; and 
+
+&#160; 
+
+&#9679; 
+
+during a roll period, the appropriate &#8220;roll weights&#8221; (discussed below). 
+
+&#160;
+
+The daily contract reference price used in calculating the dollar weight of each commodity on any given day is the most recent daily contract reference price made available by the relevant trading facility, except that the daily contract reference price for the most recent prior day is used if the exchange is closed or otherwise fails to publish a daily contract reference price on that day. In addition, if the trading facility fails to make a daily contract reference price available or publishes a daily contract reference price that, in the reasonable judgment of the Index Sponsor, reflects manifest error, the relevant calculation is delayed until the price is made available or corrected; provided, that, if the price is not made available or corrected by 4:00 p.m., (New York time), the Index Sponsor may, if it deems that action to be appropriate under the circumstances, determine the appropriate daily contract reference price for the applicable futures contract in its reasonable judgment for purposes of the relevant S&#38;P GSCI&#8482; calculation. 
+
+&#160;
+
+It is generally considered unlikely that a trading facility will fail to publish a daily contract reference price in the regular course of business, because the price is required to margin open positions in the relevant contracts. It is possible, however, that a trading facility will fail to publish a daily contract reference price under emergency or extraordinary conditions, such as in the event of a natural disaster, act of war or terrorist attack, that prevent trading or cause a termination of trading on a given day. A manifest error in a daily contract reference price is also unlikely to occur, but is nevertheless possible. This could arise, for example, in the event of a system malfunction that results in the published daily contract reference price being outside the range of trading for the relevant day. In that instance, it would be clear that the published price could not be correct and the Index Sponsor would likely disregard that price. 
+
+&#160;
+
+Contract Daily Return 
+
+&#160;
+
+The contract daily return on any given day is equal to (1) (A) the sum, for each of the commodities included in the S&#38;P GSCI&#8482;, of the applicable daily contract reference price on the relevant contract multiplied by the appropriate CPW and the appropriate &#8220;roll weight,&#8221; divided by (B) the total dollar weight of the S&#38;P GSCI&#8482; on the preceding day, minus (2) one. 
+
+&#160;
+
+The &#8220;roll weight&#8221; of each commodity reflects the fact that the positions in contracts must be liquidated or rolled forward into more distant contract expirations as they near expiration. If actual positions in the relevant markets were rolled forward, the roll would likely need to take place over a period of days. Since the S&#38;P GSCI&#8482; is designed to replicate the performance of actual investments in the underlying contracts, the rolling process incorporated in the S&#38;P GSCI&#8482; also takes place over a period of days at the beginning of each month, referred to as the &#8220;roll period.&#8221; On each day of the roll period, the &#8220;roll weights&#8221; of the first nearby contract expirations on a particular commodity and the more distant contract expiration into which it is rolled are adjusted, so that the hypothetical position in the contract on the commodity that is included in the S&#38;P GSCI&#8482; is gradually shifted from the first nearby contract expiration to the more distant contract expiration. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160; 
+
+If on any day during a roll period any of the following conditions exists, the portion of the roll that would have taken place on that day is deferred until the next day on which these conditions do not exist: 
+
+&#160; 
+
+&#160; &#9679; 
+
+no daily contract reference price is available for a given contract expiration; 
+
+&#160; 
+
+&#160; &#9679; 
+
+any such price represents the maximum or minimum price for that contract month, based on exchange price limits, referred to as a &#8220;Limit Price&#8221;; 
+
+&#160; 
+
+&#160; &#9679; 
+
+the daily contract reference price published by the relevant trading facility reflects manifest error, or that price is not published by 4:00 p.m. (New York time). In that event, the Index Sponsor may, but is not required to, determine a daily contract reference price and complete the relevant portion of the roll based on that price; provided, that, if the trading facility publishes a price before the opening of trading on the next day, the Index Sponsor will revise the portion of the roll accordingly; or 
+
+&#160; 
+
+&#160; &#9679; 
+
+trading in the relevant contract terminates prior to its scheduled closing time. 
+
+&#160;
+
+If any of these conditions exist throughout the roll period, the roll with respect to the affected contract will be effected in its entirety on the next day on which these conditions no longer exist. 
+
+&#160;
+
+Calculation of the S&#38;P GSCI-ER 
+
+&#160;
+
+The value of the S&#38;P GSCI-ER on any S&#38;P GSCI&#8482; Business Day is equal to the product of (1) the value of the S&#38;P GSCI-ER on the immediately preceding S&#38;P GSCI&#8482; Business Day multiplied by (2) one plus the contract daily return on the S&#38;P GSCI&#8482; Business Day on which the calculation is made. 
+
+&#160;
+
+Calculation of the Index 
+
+&#160;
+
+The value of the Index on any S&#38;P GSCI&#8482; Business Day is equal to the product of (1) the value of the Index on the immediately preceding S&#38;P GSCI&#8482; Business Day multiplied by (2) one plus the sum of the contract daily return and the Treasury bill return on the S&#38;P GSCI&#8482; Business Day on which the calculation is made, multiplied by (3) one plus the Treasury bill return for each non- S&#38;P GSCI&#8482; Business Day since the immediately preceding S&#38;P GSCI&#8482; Business Day. The Treasury bill return is the return on a hypothetical investment at a rate equal to the interest rate on a specified U.S. Treasury bill. 
+
+&#160;
+
+&#160;
+

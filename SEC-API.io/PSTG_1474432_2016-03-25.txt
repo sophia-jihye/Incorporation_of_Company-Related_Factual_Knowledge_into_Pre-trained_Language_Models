@@ -1,0 +1,334 @@
+ Item 1. Bu siness. 
+
+&#160;
+
+Overview
+
+Our mission is to deliver data storage that transforms business through a dramatic increase in performance and reduction in complexity and costs. Our innovative technology replaces storage systems designed for mechanical disk with all-flash systems optimized end-to-end for solid-state memory. At the same time, our innovative business model replaces the traditional forklift upgrade cycle with an Evergreen Storage model of hardware and software upgrades and maintenance.
+
+Our next-generation storage platform and business model are the result of our team&#8217;s substantial experience in enterprise storage and web-scale infrastructure, as well as frustration with the industry&#8217;s status quo. This deep industry understanding led to the development of our three-part integrated platform: the Purity Operating Environment , our flash-optimized software, FlashArray , our modular and scalable all-flash array hardware, and Pure1 , our cloud-based management and support. Our platform can deliver a 10X acceleration in business applications over legacy disk-based storage. It is also designed to be compatible with existing infrastructure, substantially more reliable, and power and space efficient.
+
+Our business model builds on our technical innovations to reverse the traditional storage business model. Instead of moving data between old and new systems via forklift upgrades, we keep business data and applications in place and upgrade technology around it. Our platform and business model are designed to add value to customers for a decade or more, reducing total cost of storage ownership while increasing loyalty.
+
+Our innovations help rebalance the data center by closing the performance gap between legacy storage technology and servers and networks. But it is the simplicity of our platform and business model that is revolutionizing the enterprise storage experience. Together, our innovations have helped our customers realize the promise of the cloud model for IT and the benefits of Moore&#8217;s Law. This has yielded industry-leading Satmetrix-certified Net Promoter scores, based on the results of customer satisfaction surveys.
+
+Since launching FlashArray in May 2012, our customer base has grown to over 1,650 customers. Our customers include large and mid-size organizations across a diverse set of industry verticals, including cloud-based software and service providers, consumer web, education, energy, financial services, governments, healthcare, manufacturing, media, retail and telecommunications. Our platform is used for a broad set of storage use cases, including database applications, private and public cloud infrastructure, virtual server infrastructure and virtual desktop infrastructure. Our platform helps customers increase employee productivity, improve operational efficiency, make better decisions through faster, more accurate analytics and deliver more compelling user experiences to their customers and partners.
+
+We sell our platform predominantly through a high touch, channel-fulfilled model. Our sales force works collaboratively with our global network of distribution and channel partners, which provides us broad sales reach while maintaining direct customer engagement.
+
+Recent Developments
+
+In March 2016, we announced a new entry-level model of our FlashArray product, called FlashArray//10 , and FlashStack Mini , a new converged infrastructure solution that combines the new entry-level FlashArray with UCS servers and networking from Cisco, and virtualization software from VMware or Microsoft for a complete solution. We expect that the new entry-level FlashArray and FlashStack Mini will be generally available in June 2016. 
+
+In March 2016, we announced our new FlashBlade product, an elastic scale-out system that delivers all-flash performance to terabyte-scale and multi-petabyte-scale data sets. Elasticity software implements a common object store in the FlashBlade system, as well as storage services such as data reduction, encryption and data protection, and scale-out protocol services such as NFS (file) and S3 (object). Following an early access phase, we expect that FlashBlade will be available on directed basis for production use in the second half of calendar 2016.
+
+&#160;
+
+Our Strategy 
+
+Key elements of our growth strategy include:
+
+&#160;
+
+&#183; 
+
+Relentlessly Innovate and Maintain Technology Leadership. We will continue to invest in product innovation and technology leadership and plan to enhance our flash-optimized software, modular and scalable hardware and cloud-based management and support. We have released multiple generations of our FlashArray products since our founding in 2009 and release enhanced software versions of our Purity Operating Environment with new features periodically. In March 2016, we announced our FlashBlade product, an elastic all-flash scale-out system. We believe that continued innovation is critical to addressing the complex and changing requirements of data storage and that maintaining our technology leadership will help us expand our addressable market. 
+
+&#160;
+
+&#183; 
+
+Continue to Drive Large Customer Adoption. We believe that our market is large and untapped as a significant number of enterprises, service providers and government organizations have yet to adopt all-flash storage throughout their technology infrastructure. We intend to grow our base of customers by promoting our platform, increasing our investment in sales and marketing and teaming our network of channel partners. We are investing in our account teams to cultivate strong relationships with our larger customers, which, in collaboration with our channel partners, should allow us to further penetrate large enterprises across all verticals, industries and geographies. 
+
+&#160;
+
+&#183; 
+
+Further Leverage our Channel Ecosystem. We have been successful in using a channel-focused model to drive our sales, and we continue to believe that by partnering with the channel and service providers, we can reach the broadest number of customers. By investing in training, demand generation and partner programs, we believe we can enable many of our partners to independently identify, qualify, sell and upgrade customers, with limited involvement from us. We intend to continue to invest in our channel to add scalable distribution partners, systems integration partners and service provider partners, including providers of cloud-based infrastructure offerings. 
+
+&#160;
+
+&#183; 
+
+Drive Greater Penetration into our Existing Customer Base. We believe our over 1,650 customers represent a significant opportunity for us to realize incremental sales. We sell additional products and services to our customers as the data within their existing application deployments naturally grows and as customers migrate additional applications to our platform. We estimate that we have only penetrated a small portion of the total footprint in many of our larger customers. 
+
+&#160;
+
+&#183; 
+
+Cultivate our Inspirational Culture. We believe our culture is a critical part of our success. We strive to maintain an exciting and supportive atmosphere that attracts great talent and inspires our employees to excel and deliver a differentiated experience for our customers. The five core values upon which our Puritan company culture is based are customer-first, creativity, teamwork, persistence and ownership. These values permeate our company and help define our business, customer, shareholder and employee objectives. 
+
+&#160;
+
+&#183; 
+
+Leverage our Technology Ecosystem. We have developed strategic relationships with a number of technology vendors to allow integration of our platform with their offerings, enabling a streamlined experience for our customers. We have developed FlashStack , our converged infrastructure offering which incorporates best of breed solutions from Cisco, VMware, Citrix and Microsoft, and we also have developed a variety of application-specific solutions, including optimizing our platform for high performance database applications such as Oracle, SAP and Microsoft and virtual infrastructure such as VMware, Citrix and OpenStack. 
+
+Innovative Technology and Business Model
+
+Our next-generation storage platform is comprised of three integrated components, all designed from the ground-up for solid-state storage: the Purity Operating Environment , our flash-optimized software; FlashArray , our modular and scalable all-flash array hardware; and Pure1 , our cloud-based management and support. These three components are complemented by our innovative business model, which is designed to improve our customers&#8217; experience related to the procurement, upgrade, expansion and ownership of storage.
+
+&#160;
+
+Purity Operating Environment 
+
+The heart of our storage platform is the Purity Operating Environment , our proprietary software that runs across all FlashArray generations and is included with the purchase of our hardware. Key features of our Purity Operating Environment include:
+
+&#160;
+
+&#183; 
+
+FlashReduce: Data reduction technologies to reduce the effective cost of flash. FlashReduce combines inline deduplication, inline compression, and background reduction technologies to maximize the amount of data that can be stored on the flash media, thereby reducing its effective cost per gigabyte. Our proprietary FlashReduce technology employs a variable block size reduction and can deliver up to 2X better data reduction as compared to the leading competitive products, resulting in an average of greater than 5-to-1 data reduction across a wide range of use cases and data types. 
+
+&#160;
+
+&#183; 
+
+FlashProtect: Enterprise-grade reliability and data protection. FlashProtect implements high availability, or HA, enabling the FlashArray to self heal in the face of hardware or software failures, and RAID-3D dual parity protection to ensure that flash device failures, latent bit errors or slow response within a particular flash device do not have any impact on the overall array. FlashProtect is designed to maintain performance through these failures and enables our arrays to be easily upgraded without scheduled downtime, setting new expectations for storage resiliency. The Purity Operating Environment also implements strong data-at-rest encryption of all data, all the time. 
+
+&#160;
+
+&#183; 
+
+FlashRecover: Local and remote data protection built-in. FlashRecover provides a comprehensive and tightly integrated backup and disaster recovery solution, including local snapshots, replication, remote snapshots and automated policy management, thereby decreasing cost and complexity of data protection. 
+
+&#160;
+
+&#183; 
+
+FlashCare: Extends life and ensures performance of consumer-grade flash. FlashCare extends the life expectancy and improves the performance and reliability of flash by writing data in a manner that is optimized for the geometry of flash. FlashCare enables a FlashArray to effectively mix multiple generations, types and suppliers of flash, allowing flexibility and expandability over time for our customers as well as providing supplier flexibility for Pure. 
+
+FlashArray Hardware
+
+FlashArray is a modular all-flash storage array designed to maximize the performance and density of flash, optimize the advanced software services that the Purity Operating Environment provides, and minimize overall solution cost for customers. We have brought multiple generations of FlashArray to market. We sell both the FlashArray 400-Series and the newer FlashArray//m . The FlashArray 400-Series features independent controllers and storage shelves, while the latest generation FlashArray//m features a chassis-based design, fully integrating HA controllers and flash in a single appliance. We presently offer the FlashArray//m20 , FlashArray//m50 and FlashArray//m70 models. FlashArray//m is based upon an in-house hardware design enabling us to further optimize performance, density and cost. FlashArray is built around the following principles and innovations: 
+
+&#160;
+
+&#183; 
+
+Modularity and Upgradability. All FlashArrays are designed to be modular and upgradable over time, enabling our vision of Evergreen Storage and eliminating the 3 to 5 year forklift refresh cycle of legacy storage systems. We have advanced this modular design in FlashArray//m , which, similar to blade servers, provides a long-lived chassis that affords easy customization to serve growing deployments, evolving use cases and incremental improvement over time. Our compute-efficient design enables the non-disruptive introduction of new modules and expansion of arrays. 
+
+&#160;
+
+&#183; 
+
+Rapid Innovation. Our FlashArrays are based upon two core technologies, Intel CPUs and consumer-grade flash memory, both of which have historically improved consistent with Moore&#8217;s Law. Consumer-grade flash has been the first to introduce improved features and functionality and continues to lead flash memory innovations. The FlashArray&#8217;s modular design allows us to periodically deliver both processor and flash upgrades, and enables customers to adopt these advances within their existing FlashArrays without data migration, downtime or performance impact. We intend to continue to release new hardware modules and software features and updates for the FlashArray on a more rapid pace than our legacy competitors. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Maximum Performance. Our FlashArrays are designed to maximize the performance of flash. FlashArray//m leverages native high bandwidth and low latency PCIe/NVMe networking to modules and controllers, a SAS fabric for external expansion and high-performance non-volatile RAM and flash modules. As a result, our FlashArrays deliver hundreds of thousands of storage input/output operations per second at less than 1 millisecond average latency, which is generally at least 10X faster than traditional disk-based storage. &#160;
+
+&#160;
+
+&#183; 
+
+High Density, Low Cost. We have introduced cost and density improvements in each succeeding generation of our FlashArray . FlashArray//m fully-integrates controller and flash modules inside the three rack unit chassis, allowing for significant component cost reduction and increase density. More importantly, the FlashArray//m often utilizes one-tenth the power and space as compared to the legacy disk-based storage it replaces. 
+
+&#160;
+
+&#183; 
+
+Simplicity and Reliability. Our FlashArray//m consolidates all components into an appliance-like form factor to improve simplicity and reliability. With a single component to rack, install and service, the FlashArray//m is designed to be extremely simple without sacrificing the scalability and upgradability of an enterprise array. Overall system reliability is also improved by removing unnecessary components, such as cables, cards and shelves, each of which adds failure risk to the system. Uptime across our FlashArray install base has exceeded 99.999% since early 2013. 
+
+&#160;
+
+&#183; 
+
+End-to-End Flash Optimization . Because we both design our FlashArray chassis, controllers and flash modules in-house, and develop all of our Purity Operating Environment software specifically for our hardware, we are able to realize end-to-end optimizations between software and flash. This allows us to deliver solutions with high density and power efficiency, tight integration for simplicity and at a lower cost. We expect further synergies in this regard as we continue our innovation more deeply in end-to-end hardware and software optimization. 
+
+Pure1 Management and Support
+
+Pure1 is a cloud-based management and support platform that enables our customers, our support staff and our partners to seamlessly and securely collaborate to maximize the reliability of the Pure Storage platform while minimizing management overhead and cost to the customer. Our cloud-based platform removes the need for dedicated storage management infrastructure, enables customers to monitor a global storage deployment from a mobile device and simplifies integration with other data center management solutions. Our FlashArrays embed our Pure1 technology, which creates an &#8220;always-on&#8221; support connection to Pure Storage, sending telemetric data to Pure to help us deliver a more proactive management and support experience. This approach has helped to drive high levels of customer satisfaction. We have a Net Promoter score of approximately 80, based on customer satisfaction surveys. Pure1 consists of three integrated modules: 
+
+&#160;
+
+&#183; 
+
+Pure1 Manage is an integrated suite of on-array and cloud-based management tools that perform multi-array monitoring and management tasks. In addition, Pure1 maintains detailed performance and capacity utilization information for years, allowing customers to analyze historical performance and capacity growth to plan for future deployments. The Pure1 management model is dramatically simpler than that of the legacy storage platforms&#8212;the basic operating commands fit on a single, folding business card. In our view, only by removing decades of accumulated complexity from the management model of legacy storage can we achieve the promise of the software-defined, cloud-friendly data center. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Pure1 Connect includes a comprehensive set of automation interfaces, with both full command-line interface and REST API access to all management functions of the FlashAr ray . Pure1 also includes connectors to popular virtualization platforms such as VMware vSphere and OpenStack, allowing our customers to natively manage the FlashArray from within their virtualization management tools. &#160;
+
+&#160;
+
+&#183; 
+
+Pure1 Support couples our innovative support technology and cloud automation with highly skilled engineers to proactively deliver a superior support experience. By using automated analytics to monitor our customers&#8217; arrays, we can detect and alert customers proactively of potential problems and ensure that when one customer has an issue, other customers at risk are identified and notified. With Pure1 , we initiate most support calls to the customer. When issues are identified we can often resolve them in conjunction with the customer before they have an impact on overall array health. Pure1 also includes a RemoteAssist capability, which enables our support personnel, with customer approval, to log in to a FlashArray and perform resolution and even routine maintenance tasks, removing even more of the storage management burden from customers. 
+
+Pure1 Support is offered in two primary levels: Advanced and Premium. Pure1 Support Advanced includes 24x7 phone support with 30-minute maximum response time for critical issues, proactive monitoring, and a next-business-day service level for on-site replacement of failed hardware components. Pure1 Support Premium expands upon the service level of Advanced by reducing the maximum response time to 15 minutes for critical issues and reducing the service level for on-site parts replacement to 4 hours. 
+
+Business Model Innovation
+
+In addition to our product leadership and differentiated customer experience, our business model innovation helps us achieve our vision of Evergreen Storage . We believe that the traditional storage business model is expensive, resource intensive and detrimentally impacts customer operations. Pure&#8217;s alternative approach is designed to eliminate this pain. We believe that it will be difficult for legacy storage vendors to copy our business model innovations given their dependence on complex licensing programs and regular forklift array replacement upgrades. We have created the following business model innovations and programs:
+
+&#160;
+
+&#183; 
+
+All Software Included. All software functionality of the Purity Operating Environment is included in the base purchase price of a FlashArray , and our customers receive software updates and new features at no additional cost, so long as the customer maintains an active maintenance and support agreement. This approach is attractive to customers for its simplicity and fairness. 
+
+&#160;
+
+&#183; 
+
+Forever Flash. Our Forever Flash program is a new approach to the storage array purchase and expansion lifecycle, which is enabled by our modular FlashArray hardware. Forever Flash provides an alternative to the traditional 3-to-5 year replacement cycle, instead allowing customers to incrementally improve array performance and capacity as needed, dramatically reducing cost and risk while increasing predictability. This enables customers to both extend the useful life of their hardware and avoid the cost and risk of recurring data migration. The Forever Flash program has three components that encourage ongoing ownership, expansion and continuous improvements in performance: 
+
+&#160;
+
+&#183; 
+
+Flat and Fair. Our maintenance and support renewal rates are flat over time for a given array purchased by a customer, effectively serving as a promise that we will not increase the cost of maintenance in &#8220;out years&#8221; as many other vendors do. 
+
+&#160;
+
+&#183; 
+
+Free Every Three. Customers who continually maintain active maintenance and support for three years are entitled to an included controller refresh with each additional three year maintenance and support renewal. This modernizes a deployed FlashArray , enables the latest performance, features and scale and encourages capacity expansion while reducing our support costs. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Forever Maintenance. We will replace any failed hardware components, including flash media, indefinitely as long as a customer maintains active maintenance and support. This alleviates customer concerns over flash wear-out over time. We have seen low failure rates of our flash hardware during actual use, and we have designed this hardware to sustain more than a decade of operation. &#160;
+
+&#160;
+
+&#183; 
+
+Love Your Storage Guarantee. Our Love Your Storage Guarantee program was designed to help customers avoid the need to conduct proof of concept testing before purchase. Instead customers can buy a FlashArray for a given deployment with the assurance that if they are not satisfied with the purchase for any reason, they can return it for a full refund within 30 days. 
+
+Our Customers
+
+We target large and medium-sized enterprises, state, local and federal governments, schools and healthcare organizations globally. Our customer base includes over 1,650 organizations as of January 31, 2016. We have deployed our storage platform with customers across multiple industry verticals. Our storage platform has been deployed in some of the largest and most sophisticated enterprise infrastructures in the world as well as smaller organizations with limited IT expertise or budget, such as hospitals, municipalities and school districts. Actual customer deployments range from a single FlashArray that can store a few terabytes of data to dozens of FlashArrays that, in the aggregate, can store multiple petabytes of data. No individual customer represented more than 10% of our revenue in the fiscal year ended January 31, 2016.
+
+Sales and Marketing
+
+Sales . We sell our storage platform predominantly through a high touch, channel-fulfilled sales model. Our sales organization supports our channel partners and is responsible for large-account penetration, global account coordination and overall market development. Our channel partners help market and sell our products, typically with assistance from our sales force. This joint sales approach provides us with the benefit of direct relationships with substantially all of our customers and expands our reach through the relationships of our channel partners. In certain geographies we sell through a two-tier distribution model. We also sell to service providers that deploy our products and offer cloud-based storage services to their customers. 
+
+We intend to continue to expand our partner relationships to further extend our sales coverage and to invest in education, training and programs to increase the ability of our channel partners to sell our products independently. We expect to continue to grow our sales organization and expand our international sales presence. Generally, our sales representatives have become more productive the longer they are with us, with limited productivity in their first few quarters as they learn to sell our products and participate in classroom and field training. We optimize our sales management efforts to help our sales representatives optimize their productivity throughout their tenure. Our sales organization is supported by sales engineers with deep technical expertise and responsibility for pre-sales technical support, solutions engineering for our customers and technical training for our channel partners. No individual channel partner represented more than 10% of our revenue in the fiscal year ended January 31, 2016.
+
+Technology Alliances. We work closely with technology partners that help us deliver world-class solutions to our customers and ensure the efficient deployment and support of their data center infrastructure. Our technology partners include application partners such as Microsoft, Oracle and SAP and infrastructure partners such as Arista, Brocade, Cisco, Citrix, CommVault, RedHat, Symantec and VMware. In addition, we work closely with our technology partners through co-marketing and lead-generation activities in an effort to broaden our marketing reach and help us win new and retain existing customers. 
+
+Marketing. Our marketing is focused on building our brand reputation and market awareness, communicating product advantages, driving customer demand and generating leads for our sales force and channel partners. Our marketing effort consists primarily of product, field, channel, solutions and digital marketing and public relations. 
+
+&#160;
+
+Research and Development 
+
+Our research and development efforts are focused primarily on improving our existing products and developing new products. Our products integrate both software and hardware innovations, and accordingly, our research and development teams employ both software and hardware engineers in the design, development, testing, certification and support of our products. Most of our research and development team is based in Mountain View, California. We also design, test and certify our products to ensure interoperability with a variety of third-party software, servers, operating systems and network components. We plan to dedicate significant resources to our continued research and development efforts.
+
+Research and development expenses were $36.1 million, $92.7 million and $166.6 million for the fiscal years ended January 31, 2014, 2015 and 2016.
+
+Manufacturing
+
+Our contract manufacturers, Avnet, Inc. (&#8220;Avnet&#8221;), and Hon Hai Precision Industry Co., Ltd., known as Foxconn, manufacture, assemble, test and package our products in accordance with our specifications. Our contract manufacturers generally procure the hardware components for final assembly of our products. Most of the components are purchased from sources that we believe are readily available from other suppliers.
+
+We provide our contract manufacturers a rolling forecast for anticipated orders, which our contract manufacturers use to build finished products. The product mix and volumes are adjusted based on anticipated demand and actual sales and shipments in prior periods. Our contract manufacturers are generally able to respond to changes in our product mix or volume without significant delay or increased costs. Our agreement with Avnet is terminable at any time by either party upon 90 days written notice and does not provide for any specific purchase volumes. Our agreement with Foxconn has a three-year term that is subject to optional extensions absent notice of termination by either party. This agreement is terminable at any time by either party with 180-days&#8217; prior notice. Our agreements with our contract manufacturers do not provide for any specific volume purchase commitments and orders are placed on a purchase order basis. We work closely with our contract manufacturers to meet our product delivery requirements and to manage the manufacturing process and quality control.
+
+Backlog
+
+We typically accept and ship orders within a short time frame. In general, customers may cancel or reschedule orders without penalty, and delivery schedules requested by customers in their purchase orders vary based upon each customer&#8217;s particular needs. As a result, we do not believe that our backlog at any particular time is a reliable indicator of future revenue.
+
+Seasonality
+
+We generally experience the lowest demand for our products and services in the first quarter of our fiscal year and the greatest demand for our products and services in the last quarter of our fiscal year, which is consistent with the seasonality of the IT industry as a whole.
+
+&#160;
+
+Competition 
+
+We operate in the intensely competitive data storage market that is characterized by constant change and innovation. Changes in the application requirements, data center infrastructure trends and the broader technology landscape result in evolving customer requirements for capacity, performance scalability and enterprise features of storage systems. Our main competitors fall into two categories:
+
+&#160;
+
+&#183; 
+
+large storage system vendors such as EMC, Hitachi Data Systems and NetApp that offer a broad range of storage systems targeting various use cases and end markets; and 
+
+&#160;
+
+&#183; 
+
+large systems companies such as Dell, HP, Lenovo and IBM that have acquired or licensed specialist storage technology in recent years to complement their internally-developed storage offerings and have the technical and financial resources to bring competitive products to market. 
+
+In addition, we compete against smaller specialized storage companies, including next-generation vendors of hybrid storage as well as vendors of hyper-converged products, defined as server compute and storage combined within a single chassis. As our market grows, it will attract new startups, more highly specialized vendors as well as larger vendors that may continue to acquire or bundle their products more effectively. We also compete against large-scale cloud providers, known for developing storage systems internally, who serve as alternatives to our products for a variety of customer workloads. 
+
+We believe the principal competitive factors in the storage market are as follows:
+
+&#160;
+
+&#183; 
+
+Product features and enhancements, including ease of use, performance, reliability and scalability; 
+
+&#160;
+
+&#183; 
+
+Product pricing and total cost of ownership; 
+
+&#160;
+
+&#183; 
+
+Product interoperability with customer networks and backup software; 
+
+&#160;
+
+&#183; 
+
+Global sales and distribution capability; 
+
+&#160;
+
+&#183; 
+
+Ability to take advantage of improvements in industry standard components; and 
+
+&#160;
+
+&#183; 
+
+Customer support and service. 
+
+We believe we generally compete favorably with our competitors on the basis of these factors as a result of our hardware and software, product capabilities, ability to deliver the benefits of all-flash storage to a broad set of customers, management simplicity, ease of use and differentiated customer support. However, many of our competitors have substantially greater financial, technical and other resources, greater name recognition, larger sales and marketing budgets, broader distribution and larger and more mature intellectual property portfolios.
+
+Intellectual Property
+
+Our success depends in part upon our ability to protect our core technology and intellectual property. To establish and protect our proprietary rights, we rely on a combination of intellectual property rights, including patents, trademarks, copyrights, trade secret laws, license agreements, confidentiality procedures, employee disclosure and invention assignment agreements and other contractual rights.
+
+We have hundreds of issued patents and patent applications in the United States and foreign countries. Our issued patents have expiration dates ranging from 2016 to 2035. We also license technology from third parties when we believe it will facilitate our product offerings or business. We have adopted a policy under which we will not assert patents acquired to date from third parties offensively, other than as part of a counterclaim.
+
+Employees
+
+We believe the expertise of our people and our culture is a key enabler of our technology leadership. We had over 1,300 employees worldwide as of January 31, 2016. None of our employees is represented by a labor union or covered by a collective bargaining arrangement.
+
+&#160;
+
+Information about Segment and Geographic Areas 
+
+The segment and geographic information required herein is contained in the notes to our consolidated financial statements.
+
+Corporate Information
+
+We were incorporated in Delaware in October 2009 as OS76, Inc. In January 2010, we changed our name to Pure Storage, Inc. Our principal executive offices are located at 650 Castro Street, Suite 400, Mountain View, California 94041, and our telephone number is (800) 379-7873. Our website address is www.purestorage.com. Information contained on or accessible through our website is not a part of this report and the inclusion of our website address in this report is an inactive textual reference only.
+
+Pure Storage, the &#8220;P&#8221; logo, Purity Operating Environment, FlashArray, Pure1, Evergreen, FlashBlade, Elasticity and other trade names, trademarks or service marks of Pure Storage appearing in this report are the property of Pure Storage. Trade names, trademarks and service marks of other companies appearing in this report are the property of their respective holders. 
+
+Available Information
+
+We make available, free of charge through our website, our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and amendments to those reports, filed or furnished pursuant to Sections 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after they have been electronically filed with, or furnished to, the Securities Exchange Commission (&#8220;SEC&#8221;). 
+
+The public may read and copy any materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F. Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+

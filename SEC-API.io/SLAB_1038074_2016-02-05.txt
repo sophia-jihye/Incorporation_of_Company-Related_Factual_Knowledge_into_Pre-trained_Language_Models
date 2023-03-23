@@ -1,0 +1,306 @@
+ Item 1. Business 
+
+General 
+
+Silicon Laboratories Inc. is a provider of silicon, software and solutions for the Internet of Things (IoT), Internet infrastructure, industrial control, consumer and automotive markets. We solve some of the electronics industry's toughest problems, providing customers with significant advantages in performance, energy savings, connectivity and design simplicity. Backed by our world-class engineering teams with strong software and mixed-signal design expertise, Silicon Laboratories empowers developers with the tools and technologies they need to advance quickly and easily from initial idea to final product. 
+
+Mixed-signal integrated circuits (ICs) are electronic components that convert real-world analog signals, such as sound and radio waves, into digital signals that electronic products can process. Therefore, mixed-signal ICs are critical components in products addressing a variety of markets, including industrial, communications, consumer and automotive. Our world-class, mixed-signal ICs leverage standard complementary metal oxide semiconductor (CMOS), a low cost, widely available process technology. This enables smaller, more cost effective and energy efficient solutions. Our expertise in analog-intensive, mixed-signal IC design in CMOS allows us to develop new and innovative products that are highly integrated, simplifying our customers' designs and improving their time-to-market. 
+
+Industry Background 
+
+The pervasiveness of connectivity and the explosion in mobile computing is driving semiconductor consumption. Intelligence is being added to electronic systems to enable remote monitoring, power efficiency and an improved user experience. This in turn is increasing the demand for bandwidth, requiring more infrastructure to support higher performance networks. The nearly ubiquitous availability of Internet access and the increasing intelligence of electronic devices and mobility are enabling what is called the Internet of Things, a term that describes the exponential increase in IP-enabled devices connected to the Internet. 
+
+These trends require more and more interaction between the analog world we live in and the digital world of computing, and therefore require analog-intensive, mixed-signal circuits. Traditional mixed-signal designs relied upon solutions built with numerous, complex discrete analog and digital components. While these traditional designs provide the required functionality, they are often inefficient and inadequate for use in markets where size, cost, power consumption and performance are increasingly important product differentiators. In order to improve their competitive position, electronics manufacturers need to reduce the cost and complexity of their systems and enable new features or functionality to differentiate themselves from their competitors. 
+
+Simultaneously, these manufacturers face accelerating time-to-market demands and must be able to rapidly adapt to evolving industry standards and new technologies. Because analog-intensive, mixed-signal design expertise is difficult to find, these manufacturers increasingly are turning to third parties, like us, to provide advanced mixed-signal solutions. Mixed-signal design requires specific expertise and relies on creative, experienced engineers to deliver solutions that optimize speed, power and performance, despite the noisy digital environment, and within the constraints of standard manufacturing processes. The development of this design expertise typically requires years of practical analog design experience under the guidance of a senior engineer, and engineers with the required level of skill and expertise are in short supply. 
+
+Many mixed-signal IC solution providers lack sufficient analog expertise to develop compelling mixed-signal products. As a result, manufacturers of electronic devices value providers that can supply 
+
+them with mixed-signal solutions with greater functionality, smaller size and lower power requirements at a reduced cost and shorter time-to-market. 
+
+Products 
+
+We provide analog-intensive, mixed-signal solutions for use in a variety of electronic products in a broad range of applications for the IoT market including connected home, smart lighting, security, wearables and smart energy applications. We are a supplier of wireless connectivity solutions for the IoT based on Bluetooth&#174;, ZigBee&#174;, Thread, Wi-Fi&#174; and sub-GHz technologies. 
+
+We provide a wide range of timing and isolation products for infrastructure applications including high-performance clocks and oscillators for networking equipment, data centers and wireless base stations, as well as digital isolators and current sensors for industrial power supplies, motor control, solar inverters and hybrid-electric vehicles. We also provide broadcast products, such as TV tuners and demodulators and automotive radio tuners, and access products including subscriber line interface circuits for voice over IP (VoIP), embedded modems, and Power over Ethernet (PoE) power source equipment and powered device ICs. 
+
+Our products integrate complex mixed-signal functions that are frequently performed by numerous discrete components in competing products into a single chip or chipset. By doing so, we are able to create products that, when compared to many competing products: 
+
+&#149; Require less printed circuit board (PCB) space; &#149; Reduce the use of external components lowering the system cost and simplifying design; &#149; Offer superior performance improving our customers' end products; &#149; Provide increased reliability and manufacturability, improving customer yields; and/or &#149; Reduce system power requirements enabling smaller form factors and/or longer battery life. We group our products into the following categories: 
+
+&#149; Internet of Things products, which include our microcontroller (MCU), wireless, sensor and analog products; &#149; Broadcast products, which include our broadcast consumer and automotive products; &#149; Infrastructure products, which include our timing products (clocks and oscillators), and isolation devices; and &#149; Access products, which include our VoIP products, embedded modems and our PoE devices. We previously grouped IoT products and Infrastructure products under the Broad-based products heading. 
+
+The following table summarizes the diverse product areas and applications for the various products that we have introduced to customers: 
+
+Product Areas and Description 
+
+&#160; Applications Internet of Things Products &#160; &#160; Microcontrollers and Wireless Products &#160; &#160; We offer a family of products ideal for embedded systems that include energy friendly 8-bit mixed-signal microcontrollers, 32-bit wireless MCUs and ultra low-power 32-bit MCUs based on scalable ARM&#174; Cortex-M0+/M3/M4 cores, as well as wireless connectivity devices such as our EZRadio&#174; family of fully integrated, low power transceivers. Our wireless modules provide flexible, highly integrated products that meet demanding requirements and can be used in a number of applications. Our wireless connectivity solutions for the IoT are based on Bluetooth, ZigBee, Thread, Wi-Fi and sub-GHz technologies. Our EFM32&#153;, EFM8&#153;, 8051, wireless MCUs and wireless SoCs are supported by Simplicity Studio&#153;, a one-click access to design tools, documentation, software and support resources. These products generally integrate intelligent data capture, high performance processing, and communication interfaces in a single system on a chip. This family of products addresses a variety of end-markets, including the IoT (connected home, smart lighting, security, wearables and smart energy applications), automotive, communications, consumer, industrial, medical and power management markets. &#160; &#149; 
+
+Home automation &#149; 
+
+Security systems &#149; 
+
+Smart lighting &#149; 
+
+Smart metering &#149; 
+
+Wearables &#149; 
+
+Consumer electronics &#149; 
+
+Industrial automation and control &#149; 
+
+Medical instrumentation &#149; 
+
+Automotive sensors and controls &#149; 
+
+Electronic test and measurement equipment &#149; 
+
+White goods &#149; 
+
+Remote controls Sensors &#160; &#160; Our sensor products include optical sensors (proximity, ambient light gestures and heart rate), as well as relative humidity (RH) / temperature sensors. These devices leverage our mixed-signal capability to provide high accuracy, process technology to improve performance and lower power consumption than competing parts. &#160; &#149; 
+
+Consumer health &#38; fitness (wearables) &#149; 
+
+Smart home sensing &#149; 
+
+Industrial controls &#149; 
+
+Toys and consumer electronics &#149; 
+
+Monitors and lavatory controls &#149; 
+
+Consumer medical Broadcast Products &#160; &#160; Broadcast Consumer &#160; &#160; Our worldwide hybrid TV tuners with analog TV demodulator in a single CMOS IC leverage our proven digital low-IF architecture and exceed the performance of traditional discrete TV tuners, enabling TV makers to deliver improved picture quality and better reception for both analog and digital broadcasts. Our small, low power and high performance single and dual digital video demodulators support DVB-T/T2, DVB-S/S2/S2X, DVB-C/C2, and/or ISDB-T in a single chip and are ideal for equipment receiving digital terrestrial, satellite and/or cable services. Our AM and FM receivers deliver a complete radio solution from antenna input to audio output in a single chip. The broadcast audio products are based on an innovative digital architecture that enables significant improvements in performance, which translates to a better consumer experience, while reducing system cost and board space for our customers. &#160; &#149; 
+
+Integrated digital televisions (iDTV) &#149; 
+
+Free-to-Air (FtA) or pay-TV set-top boxes &#149; 
+
+PVR/DVD/Blu-Ray/HDD video recorders &#149; 
+
+PC-TV applications &#149; 
+
+AM/FM clock radios &#149; 
+
+Portable audio devices &#149; 
+
+MP3/digital media players &#149; 
+
+Home theater systems &#160; &#160; 
+
+Product Areas and Description 
+
+&#160; Applications Broadcast Automotive &#160; &#160; Our high-performance solutions for car sound systems include high fidelity radio ICs that improve the end user experience, reduce system cost and take advantage of the latest digital features. Our scalable architecture enables infotainment system suppliers to leverage their investments across multiple product lines ranging from entry-level car radios to cutting-edge multi-tuner, multi-antenna radios for premium vehicles. &#160; &#149; 
+
+Automotive infotainment systems/radios &#149; 
+
+Navigation/GPS devices Infrastructure Products &#160; &#160; Timing Devices &#160; &#160; Robust demand for bandwidth is driving the deployment of next-generation Internet infrastructure equipment to deliver higher speed, higher capacity and more flexible networks. This transition puts unique requirements on the clocks and oscillators used to provide timing and synchronization for the equipment responsible for switching, transporting, processing and storing network traffic. To meet this need, we provide low jitter, frequency flexible, mass customizable timing solutions that accelerate development time, minimize cost and improve system reliability. Our high-performance "clock-tree-on-a-chip" products offer highly integrated single-chip IC solutions for clock synthesis and jitter attenuation, offering superior jitter performance and frequency flexibility for high data rate applications. &#160; &#149; 
+
+Networking equipment &#149; 
+
+Telecommunications &#149; 
+
+Optical networking &#149; 
+
+Wireless base stations &#149; 
+
+Small cells and mobile backhaul &#149; 
+
+Broadcast video &#149; 
+
+Servers and storage &#149; 
+
+Test and measurement equipment &#149; 
+
+Image processing &#149; 
+
+High-speed data acquisition Isolation Products &#160; &#160; Our isolation techniques enable customers to meet safety standards for isolation and solve difficult electronic noise issues. Products include multi-channel isolators, isolated drivers, isolated power converters and mixed-signal devices that simplify design, improve reliability, minimize noise emissions, and reduce system cost. &#160; &#149; 
+
+Switch mode power supplies &#149; 
+
+Industrial networking &#149; 
+
+Hybrid / Electric automotive drive trains &#149; 
+
+Solar inverters &#149; 
+
+Motor control &#149; 
+
+Isolated analog data acquisition Access Products &#160; &#160; ProSLIC&#174; Subscriber Line Interface Circuits for VoIP &#160; &#160; Our ProSLIC provides the analog subscriber line interface on the source end of the telephone which generates dial tone, busy tone, caller ID and ring signal. Our offerings are well suited for the market for Voice over IP telephony applications deployed over cable, DSL, optical and wireless fixed terminal networks. &#160; &#149; 
+
+Voice functionality for cable, DSL and optical digital modems and terminal adapters &#149; 
+
+VoIP residential gateways &#149; 
+
+Wireless local loop remote access systems &#149; 
+
+PBXs &#160; &#160; 
+
+Product Areas and Description 
+
+&#160; Applications ISOmodem&#174; Embedded Modems &#160; &#160; The ISOmodem embedded modems leverage innovative silicon direct access arrangement (DAA) technology and a digital signal processor to deliver a globally compliant, compact analog modem for embedded applications. &#160; &#149; 
+
+Point of sale (POS) terminals &#149; 
+
+Fax machines and multi-function printers &#149; 
+
+Security systems &#149; 
+
+Industrial monitoring &#149; 
+
+Remote medical monitoring Power over Ethernet &#160; &#160; Our Power over Ethernet power source equipment and powered device ICs offer highly differentiated solutions with a reduced total bill of materials (BOM) and improved performance and reliability. Our solutions offer a higher level of integration not available with competing solutions. &#160; &#149; 
+
+Enterprise networking routers and switches &#149; 
+
+Wireless access points (WAP) &#149; 
+
+VoIP phones &#149; 
+
+POS terminals &#149; 
+
+Security cameras 
+
+Revenues during fiscal 2015, 2014 and 2013 were generated predominately by sales of our mixed-signal products. The following summarizes our revenue by product category (in thousands): 
+
+&#160; &#160; Fiscal Year &#160; &#160; &#160; 2015 &#160; 2014 &#160; 2013 &#160; Internet of Things &#160; $ 262,329 &#160; $ 209,005 &#160; $ 181,254 &#160; Broadcast &#160; &#160; 161,787 &#160; &#160; 204,256 &#160; &#160; 199,837 &#160; Infrastructure &#160; &#160; 121,974 &#160; &#160; 108,123 &#160; &#160; 100,523 &#160; Access &#160; &#160; 98,736 &#160; &#160; 99,320 &#160; &#160; 98,473 &#160; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Revenues &#160; $ 644,826 &#160; $ 620,704 &#160; $ 580,087 &#160; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; 
+
+Customers, Sales and Marketing 
+
+We market our products through our direct sales force and through a network of independent sales representatives and distributors. Direct and distributor customers buy on an individual purchase order basis, rather than pursuant to long-term agreements. 
+
+We consider our customer to be the end customer purchasing either directly from a distributor, a contract manufacturer or us. An end customer purchasing through a contract manufacturer typically instructs such contract manufacturer to obtain our products and incorporate such products with other components for sale by such contract manufacturer to the end customer. Although we actually sell the products to, and are paid by, the distributors and contract manufacturers, we refer to such end customer as our customer. 
+
+Two of our distributors, Edom Technology and Avnet, represented 20% and 12% of our revenues during fiscal 2015, respectively. No other distributor accounted for 10% or more of revenues for fiscal 2015. 
+
+During fiscal 2015, our ten largest end customers accounted for 29% of our revenues. We had no customer that represented more than 10% of our revenues during this period. Our major customers include Chamberlain, Cisco, Harman Becker, Huawei, LG Electronics, Samsung, Technicolor, Technisat, Varian Medical Systems and ZTE. 
+
+We maintain numerous sales offices in North America, Europe and Asia. Revenue is attributed to a geographic area based on the shipped-to location. The percentage of our revenues derived from outside of the United States was 85% in fiscal 2015. For further information regarding our revenues and long-lived assets by geographic area, see Note 18, Segment Information , to the Consolidated Financial Statements. 
+
+Our direct sales force is comprised of a number of sales professionals who possess varied levels of responsibility and experience, including directors, country managers, regional sales managers, district sales managers, strategic account managers, field sales engineers and sales representatives. We also utilize independent sales representatives and distributors to generate sales of our products. We have relationships with many independent sales representatives and distributors worldwide whom we have selected based on their understanding of the mixed-signal marketplace and their ability to provide effective field sales applications support for our products. 
+
+Our marketing efforts are targeted at both identified industry leaders and emerging market participants. Direct marketing activities are supplemented by a focused marketing communications effort that seeks to raise awareness of our company and products. Our public relations efforts are focused on leading trade and business publications. Our external website is used to deliver corporate and product information. We also pursue targeted advertising in key trade publications and we have a cooperative marketing program that allows our distributors and representatives to promote our products to their local markets in conjunction with their own advertising activities. Finally, we maintain a presence at strategic trade shows and industry events. These activities, in combination with direct sales activities, help drive demand for our products. 
+
+Due to the complex and innovative nature of our products, we employ experienced applications engineers who work closely with customers to support the design-win process, and can significantly accelerate the customer's time to market. A design-win occurs when a customer has designed our ICs into its product architecture and ordered product from us. A considerable amount of effort to assist the customer in incorporating our ICs into its products is typically required prior to any sale. In many cases, our innovative ICs require significantly different implementations than existing approaches and, therefore, successful implementations may require extensive communication with potential customers. The amount of time required to achieve a design-win can vary substantially depending on a customer's development cycle, which can be relatively short (such as three months) or very long (such as two years) based on a wide variety of customer factors. Not all design wins ultimately result in revenue. However, once a completed design architecture has been implemented and produced in high volumes, our customers are reluctant to significantly alter their designs due to this extensive design-win process. We believe this process, coupled with our intellectual property protection, promotes relatively longer product life cycles for our products and high barriers to entry for competitive products, even if such competing products are offered at lower prices. Our close collaboration with our customers provides us with knowledge of derivative product ideas or completely new product line offerings that may not otherwise arise in other new product discussions. 
+
+Research and Development 
+
+Through our research and development efforts, we leverage experienced analog and mixed-signal engineering talent and expertise to create new ICs that integrate functions typically performed inefficiently by multiple discrete components. This integration generally results in lower costs, smaller die sizes, lower power demands and enhanced price/performance characteristics. We attempt to reuse successful techniques for integration in new applications where similar benefits can be realized. We believe that we have attracted many of the best engineers in our industry. We believe that reliable and precise analog and mixed-signal ICs can only be developed by teams of engineers who have significant analog experience and are familiar with the intricacies of designing these ICs for commercial volume production. The development of test methodologies is just one example of a critical activity requiring experience and know-how to enable the rapid release of a new product for commercial success. We have accumulated a vast set of trade secrets that allow us to pursue innovative approaches to mixed-signal problems that are difficult for competitors to duplicate. We highly value our engineering talent and strive to maintain a very high bar when bringing new recruits to the company. 
+
+Research and development expenses were $188.1 million, $173.0 million and $157.8 million in fiscal 2015, 2014 and 2013, respectively. 
+
+Technology 
+
+Our product development process facilitates the design of highly-innovative, analog-intensive, mixed-signal ICs. Our engineers' deep knowledge of existing and emerging standards and performance requirements helps us to assess the technical feasibility of a particular IC. We target areas where we can provide compelling product improvements. Once we have solved the primary challenges, our field application engineers continue to work closely with our customers' design teams to maintain and develop an understanding of our customers' needs, allowing us to formulate derivative products and refined features. 
+
+In providing mixed-signal ICs for our customers, we believe our key competitive advantages are: 
+
+&#149; Analog and RF design expertise in CMOS; &#149; Digital signal processing, firmware and system design expertise; &#149; Microcontroller and system on a chip design expertise; &#149; Software expertise; &#149; Module integration and design expertise; and &#149; Our broad understanding of systems technology and trends. To fully capitalize on these advantages, we have assembled a world-class development team with exceptional analog and mixed-signal design expertise led by accomplished senior engineers. 
+
+Analog and RF Design Expertise in CMOS 
+
+We believe that our most significant core competency is world-class analog and RF design capability. Additionally, we strive to design substantially all of our ICs in standard CMOS processes. While it is often significantly more difficult to design analog ICs in CMOS, CMOS provides multiple benefits versus existing alternatives, including significantly reduced cost, reduced technology risk and greater worldwide foundry capacity. CMOS is the most commonly used process technology for manufacturing digital ICs and as a result is most likely to be used for the manufacturing of ICs with finer line geometries. These finer line geometries can enable smaller and faster ICs. By designing our ICs in CMOS, we enable our products to benefit from this trend towards finer line geometries, which allows us to integrate more digital functionality into our mixed-signal ICs. 
+
+Designing analog and mixed-signal ICs is significantly more complicated than designing stand alone digital ICs. While advanced software tools exist to help automate digital IC design, there are far fewer tools for advanced analog and mixed-signal IC design. In many cases, our analog circuit design efforts begin at the fundamental transistor level. We believe that we have a demonstrated ability to design the most difficult analog and RF circuits using standard CMOS technologies. 
+
+Digital Signal Processing, Firmware and System Design Expertise 
+
+We consider the partitioning of a circuit to be a proprietary and creative design technique. Deep systems knowledge allows us to use our digital signal processing (DSP) design expertise to maximize the price/performance characteristics of both the analog and digital functions and allow our ICs to work in an optimized manner to accomplish particular tasks. Generally, we attempt to move analog functions into the digital domain as quickly as possible, creating system efficiencies without compromising performance. These patented approaches require our advanced DSP and systems expertise. We then leverage our firmware know-how to change the 'personality' of our devices, optimizing features and 
+
+functions needed by various markets we serve. For example, our broadcast audio products use a proven digital low-IF receiver and transmitter architecture to deliver superior RF performance and interference rejection compared to traditional, analog-only approaches. Digital signal processing is utilized to optimize sound quality under varying signal conditions, enabling a better consumer experience. Firmware has enabled us to rapidly expand the portfolio to address multiple markets without substantial silicon changes, including shortwave, longwave, analog tuned, digital tuned and even high performance HD-capable automotive radios. 
+
+Microcontroller and System on a Chip Design Expertise 
+
+We have the talent and circuit integration methodologies required to combine precision analog, high-speed digital, flash memory and in-system programmability into a single, monolithic CMOS integrated circuit. Our microcontroller products are designed to capture an external analog signal, convert it to a digital signal, compute digital functions on the stream of data and then communicate the results through a standard digital interface. The ability to develop standard products with the broadest possible customer application base while being cost efficient with the silicon area of the monolithic CMOS integrated circuit requires a keen sense of customer value and engineering capabilities. Additionally, to manage the wide variety of signals on a monolithic piece of silicon including electrical noise, harmonics and other electronic distortions requires a fundamental knowledge of device physics and accumulated design expertise. 
+
+Software Expertise 
+
+Our software expertise allows us to develop products for markets where intelligent data capture, high-performance processing and communication are increasingly important product differentiators. The software we have developed to address these markets enable machine-to-machine communications, providing intelligence to electronic systems. Our products integrate high-performance, low-power wireless and microcontroller ICs with reliable and scalable software into a flexible and robust networking platform. 
+
+The demand for low-power, small-footprint wireless technology is accelerating as more and more IP-enabled end points are being connected to the Internet of Things (IoT). Our software enables a broad range of power-sensitive applications for the IoT, including smart energy, home automation, security and other connected products. We believe that the combination of our software and IC design expertise differentiates us from many of our competitors. 
+
+Module Integration and Design Expertise 
+
+The market for wireless modules has grown as customers search for solutions that provide turnkey wireless connectivity to their products. The development of modules is difficult due to stringent requirements, including high levels of integration and programmability, performance, reliability, security and power efficiency. In addition, designs must meet numerous wireless standards deployed in various environments and serving diverse requirements. 
+
+Our combined expertise in IC design and software allows us to engineer the development of our modules to create a robust, high-performance connection in challenging wireless environments. We have developed wireless modules based on numerous wireless standards, including Bluetooth, ZigBee, Thread, Wi-Fi and sub-GHz. We believe our demonstrated proficiency in the design of modules provides our customers with significant advantages. 
+
+Understanding of Systems Technology and Trends 
+
+Our focused expertise in mixed-signal ICs is the result of the breadth of engineering talent we have assembled with experience working in analog-intensive CMOS design for a wide variety of 
+
+applications. This expertise, which we consider a competitive advantage, is the foundation of our in-depth understanding of the technology and trends that impact electronic systems and markets. Our expertise includes: 
+
+&#149; Isolation, which is critical for existing and emerging industrial applications and telecom networks; &#149; Frequency synthesis, which is core technology for wireless and clocking applications; &#149; Integration, which enables the elimination of discrete components in a system; and &#149; Signal processing and precision analog, which forms the heart of consumer, industrial, medical and automotive electronics applications. Our understanding of the role of analog/digital interfaces within electronic systems, standards evolution, and end market drivers enables us to identify product development opportunities and capitalize on market trends. 
+
+Manufacturing 
+
+As a fabless semiconductor company, we conduct IC design and development in our facilities and electronically transfer our proprietary IC designs to third-party semiconductor fabricators who process silicon wafers to produce the ICs that we design. Our IC designs typically use industry-standard CMOS manufacturing process technology to achieve a level of performance normally associated with more expensive special-purpose IC fabrication technology. We believe the use of CMOS technology facilitates the rapid production of our ICs within a lower cost framework. Our IC production employs submicron process geometries which are readily available from leading foundry suppliers worldwide, thus increasing the likelihood that manufacturing capacity will be available throughout our products' life cycles. We currently partner with Taiwan Semiconductor Manufacturing Co. (TSMC) or TSMC's affiliates and Semiconductor Manufacturing International Corporation (SMIC) to manufacture the majority of our semiconductor wafers. We believe that our fabless manufacturing model significantly reduces our capital requirements and allows us to focus our resources on design, development and marketing of our ICs. 
+
+Once the silicon wafers have been produced, they are shipped directly to our third-party assembly subcontractors. The assembled ICs are then moved to the final testing stage. This operation can be performed by the same contractor that assembled the IC, other third-party test subcontractors or within our internal facilities prior to shipping to our customers. During fiscal 2015, most of our units shipped were tested by offshore third-party test subcontractors. We expect that our utilization of offshore third-party test subcontractors will remain substantial during fiscal 2016. 
+
+Backlog 
+
+As of January 2, 2016, our backlog was approximately $136.9 million, compared to approximately $122.4 million as of January 3, 2015. We include in backlog accepted product purchase orders from customers and worldwide distributor stocking orders. We only include orders with an expected shipping date from us within six months. Product orders in our backlog are subject to changes in delivery schedules or cancellation at the option of the purchaser typically without penalty. Our backlog may fluctuate significantly depending upon customer order patterns which may, in turn, vary considerably based on rapidly changing business circumstances. Shipments to distributors are not recognized as revenue until the products are sold by the distributors. Additionally, our arrangements with distributors typically provide for price protection and stock rotation activities. Accordingly, we do not believe that our backlog at any time is necessarily representative of actual sales for any succeeding period. 
+
+Competition 
+
+The markets for semiconductors generally, and for analog and mixed-signal ICs in particular, are intensely competitive. We anticipate that the market for our products will continually evolve and will be subject to rapid technological change. We believe the principal competitive factors in our industry are: 
+
+&#160; &#149; 
+
+Product size; &#160; &#149; 
+
+Power requirement; &#160; &#149; 
+
+Level of integration; &#160; &#149; 
+
+Customer support; &#160; &#149; 
+
+Product capabilities; &#160; &#149; 
+
+Reputation; &#160; &#149; 
+
+Reliability; &#160; &#149; 
+
+Ability to rapidly introduce new products to market; &#160; &#149; 
+
+Price; &#160; &#149; 
+
+Intellectual property; and &#160; &#149; 
+
+Performance; &#160; &#149; 
+
+Software. 
+
+We believe that we are competitive with respect to these factors, particularly because our ICs typically are smaller in size, are highly integrated, achieve high performance specifications at lower price points than competitive products and are manufactured in standard CMOS which generally enables us to supply them on a relatively rapid basis to customers to meet their product introduction schedules. However, disadvantages we face include our relatively short operating history in certain of our markets and the need for customers to redesign their products and modify their software to implement our ICs in their products. 
+
+Due to our diversified product portfolio and the numerous markets and applications we serve, we target a relatively large number of competitors. We compete with Analog Devices, Atmel, Conexant, Cypress, IDT, Intel, Marvell Technology Group, Maxim Integrated Products, MaxLinear, Microchip, Microsemi, Nordic Semiconductor, NXP Semiconductors, Qualcomm, Renesas, STMicroelectronics, Texas Instruments, Vectron International and others. We expect to face competition in the future from our current competitors, other manufacturers and designers of semiconductors and start-up semiconductor design companies. Our competitors may also offer bundled solutions offering a more complete product, which may negatively impact our competitive position despite the technical merits or advantages of our products. In addition, our customers could develop products or technologies internally that would replace their need for our products and would become a source of competition. We could also face competition from module makers or other systems suppliers that may include mixed-signal components in their products that could eliminate the need for our ICs. 
+
+Many of our competitors and potential competitors have longer operating histories, greater name recognition, access to larger customer bases, complementary product offerings, and significantly greater financial, sales and marketing, manufacturing, distribution, technical and other resources than us. Current and potential competitors have established or may establish financial and strategic relationships between themselves or with our existing or potential customers, resellers or other third parties. Accordingly, it is possible that new competitors or alliances among competitors could emerge and rapidly acquire significant market share. 
+
+Intellectual Property 
+
+Our future success depends in part upon our proprietary technology. We seek to protect our technology through a combination of patents, copyrights, trade secrets, trademarks and confidentiality procedures. As of January 2, 2016, we had approximately 1,208 issued or pending United States patents. We also frequently file for patent protection in a variety of international jurisdictions with respect to the proprietary technology covered by our U.S. patents and patent applications. There can be no assurance that patents will ever be issued with respect to these applications. Furthermore, it is possible that any patents held by us may be invalidated, circumvented, challenged or licensed to others. In addition, there can be no assurance that such patents will provide us with competitive advantages or adequately safeguard our proprietary rights. While we continue to file new patent applications with 
+
+respect to our recent developments, existing patents are granted for prescribed time periods and will expire at various times in the future. 
+
+We claim copyright protection for proprietary documentation for our products. We have filed for registration, or are in the process of filing for registration, the visual images of certain ICs with the U.S. Copyright Office. We have registered the "Silicon Labs" logo and a variety of other product and product family names as trademarks in the United States and selected foreign jurisdictions. All other trademarks, service marks or trade names appearing in this report are the property of their respective owners. We also attempt to protect our trade secrets and other proprietary information through agreements with our customers, suppliers, employees and consultants, and through other customary security measures. We intend to protect our rights vigorously, but there can be no assurance that our efforts will be successful. In addition, the laws of other countries in which our products are sold may not protect our products and intellectual property rights to the same extent as the laws of the United States. 
+
+While our ability to effectively compete depends in large part on our ability to protect our intellectual property, we believe that our technical expertise and ability to introduce new products in a timely manner will be an important factor in maintaining our competitive position. 
+
+Many participants in the semiconductor and electronics industries have a significant number of patents and have frequently demonstrated a readiness to commence litigation based on allegations of patent and other intellectual property infringement. From time to time, third parties may assert infringement claims against us. We may not prevail in any such litigation or may not be able to license any valid and infringed patents from third parties on commercially reasonable terms, if at all. Litigation, regardless of the outcome, is likely to result in substantial cost and diversion of our resources, including our management's time. Any such litigation could materially adversely affect us. 
+
+Our licenses include industry standard licenses with our vendors, such as wafer fabrication tool libraries, third-party core libraries, computer-aided design applications and business software applications. 
+
+Employees 
+
+As of January 2, 2016, we employed 1,199 people. Our success depends on the continued service of our key technical and senior management personnel and on our ability to continue to attract, retain and motivate highly skilled analog and mixed-signal engineers. The competition for such personnel is intense. We have never had a work stoppage and none of our U.S. employees are represented by a labor organization. We consider our employee relations to be good. 
+
+Environmental Regulation 
+
+Federal, state and local regulations impose various environmental controls on the storage, use, discharge and disposal of certain chemicals and gases used in the semiconductor industry. Our compliance with these laws and regulations has not had a material impact on our financial position or results of operations. 
+
+Available Information 
+
+Our website address is www.silabs.com. Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available through the investor relations page of our website free of charge as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K. 
+

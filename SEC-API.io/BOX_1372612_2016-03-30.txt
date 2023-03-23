@@ -1,0 +1,258 @@
+ Item 1. BUSINESS
+
+Overview
+
+Box provides an enterprise content management platform that enables organizations of all sizes to securely manage enterprise content while allowing easy, secure access and sharing of this content from anywhere, on any device. With our Software-as-a-Service (SaaS) cloud-based platform, users can collaborate on content both internally and with external parties, automate content-driven business processes, develop custom applications, and implement data protection, security and compliance features to comply with internal policies and industry regulations. Our platform enables people to securely view, share and collaborate on content, across multiple file formats and media types, without having to open a desktop application or download the content to their mobile device. The software integrates with leading enterprise business applications, and is compatible with multiple application environments, operating systems and devices, ensuring that workers have access to their critical business content whenever and wherever they need it.
+
+At our founding in 2005, we recognized that content is more accessible, secure and powerful when it is centrally stored, managed and shared. We have architected our content platform from the ground up to meet the evolving demands of today&#8217;s distributed and mobile workforce, and of enterprises that are looking to benefit from the increasing digitization of business. This architecture enables users to work and collaborate on content from anywhere in the world and allows organizations to centrally apply and manage policies and controls across all users and content simultaneously.
+
+Our go-to-market strategy combines top-down, high-touch sales efforts with end-user-driven bottoms-up adoption. Our sales representatives engage in direct interaction with IT decision makers including CEOs, CIOs, IT directors and business department heads. We also field inbound inquiries and online sales opportunities. We offer individuals a free basic version of Box that allows them to experience, first hand, our easy-to-use and secure solution. We further expand our market reach by leveraging a network of channel partners that comprise value added resellers and systems integrators. Use of the Box offering often spreads virally within and across organizations, as users adopt Box and invite new users to collaborate. In addition an organization will frequently purchase Box for one use case and then later expand its deployment to other use cases with larger groups of employees and leading to deeper engagement with our service.
+
+We also provide industry-specific offerings that address targeted business needs with a combination of technology, services and marketing programs. Where relevant, we also facilitate compliance with industry-specific regulations to ensure companies can use Box in accordance with legal requirements. These industry solutions are aimed to speed the deployment and time to value for customers in industries such as healthcare and life sciences, financial services, legal services, media and entertainment, retail, education, energy and government.
+
+We are building a rich technology partner ecosystem around Box. Our platform integrates with the applications of leading enterprise technology providers, including Microsoft, IBM, Salesforce.com, Apple, Google, and others, giving our users easy access to their content in Box without leaving these applications. In addition, in-house enterprise developers and independent software developers can rapidly build and provision new applications that leverage and extend the core functionality of our service, increasingly with a focus on specific industries and vertical market use cases. To date, tens of thousands of third-party developers have leveraged our platform as the secure content layer for their applications.
+
+The Box Solution
+
+We deliver applications (web and mobile) for enterprise content management, a platform for developing custom applications and a series of industry-specific solutions. Box features and functionality include the following:
+
+&#160;
+
+&#183; 
+
+Modern Cloud Architecture . We have built our platform from the ground up on a cloud-based architecture, which enables us to rapidly develop, update and provision our services to users. Our proprietary cloud architecture is particularly well-suited for today's dynamically changing business requirements because it enables our users to use the most up-to-date versions of our solutions at all 
+
+&#160;
+
+times and administrators to immediately apply changes in policies and controls across all their organizations&#8217; critical content simultaneously. 
+
+&#160;
+
+&#183; 
+
+Mobility . Our solution enables users to securely access, manage, share and collaborate on their content anytime and from anywhere, using nearly any device and operating environment, including Mac, iOS, Android, Windows and Blackberry through both native and web browser applications. 
+
+&#160;
+
+&#183; 
+
+Elegant, Intuitive and User-Focused Interface . We are dedicated to keeping our solution easy for users to understand with little to no upfront training. We strive to enable quick and viral user adoption by maintaining a simple and elegant interface with compelling access, sharing and collaboration features. 
+
+&#160;
+
+&#183; 
+
+Built to Handle Content of Nearly Any Type . We have designed our solution to serve as the central content management layer for an organization&#8217;s employees. Users securely access, share and collaborate on all types of information, regardless of format or file type, and from virtually any device or operating system. 
+
+&#160;
+
+&#183; 
+
+Simple and Rapid Deployment . Our cloud-based software allows organizations to easily, quickly and inexpensively deploy our product. IT administrators can quickly add users, set up permissions, create folders, policies, implement automated workflows and begin using our product almost immediately without the need to procure and provision hardware or install and configure software. 
+
+&#160;
+
+&#183; 
+
+Enterprise-Grade Security. We have invested heavily to build robust security features to protect our customers from the most pervasive security threats. At the most basic level, all files stored in Box are encrypted at rest and in transit. Box&#8217;s information rights management (IRM) features enable secure access and management of files by providing granular control over users&#8217; ability to access, view, download, edit, print or share content. With our Box KeySafe product, organizations can implement higher levels of data security and protection by keeping control of the encryption keys that protect their content. This advanced encryption feature is valuable to many companies, including those in highly regulated industries such as financial services, government and legal. 
+
+&#160;
+
+&#183; 
+
+Administrative Controls. Box gives IT administrators powerful tools to define access rights by user, content type, device and business need. Administrators can set specific content policies such as expiration dates to auto-delete files or deactivate links to time-sensitive materials. They can also manage mobile and sync security settings, including specification of which devices have access to Box and whether certain features are enabled. 
+
+&#160;
+
+&#183; 
+
+Tracking and Reporting for Deep Visibility. All actions taken by paying business users and their external collaborators in Box are tracked and auditable by administrators through Box&#8217;s native administrative applications. The tracking and audit data are also accessible via our application programming interfaces (API). 
+
+&#160;
+
+&#183; 
+
+Comprehensive Data Governance Strategy . Box serves as a secure, centralized system of record for retaining content for operational use while ensuring adherence to the laws and regulations concerning them, using data retention and Data Loss Prevention (DLP) capabilities. Our data security policies allow customers to apply quarantine or notification-only policies to sensitive confidential files, such as those containing predefined attributes, for example credit card or social security system numbers, and we provide robust integrations for leading eDiscovery and DLP systems. Our Box Governance product allows customers to control how long documents are to be retained in Box and disposition of those documents when the retention period expires. 
+
+&#160;
+
+&#183; 
+
+Automation and Workflow Management . Box can be used to automate workflows based on rules that customers define within Box. For example, sales contracts can be routed for review through a specific approval process based on the contract value. This allows customers to accelerate the flow of information through their organization and increase the efficiency of their business processes. 
+
+&#160;
+
+&#183; 
+
+Box Platform for Custom Application Development. We provide a content Platform-as-a-Service (cPaaS) product, known as Box Platform, to customers, independent software vendors (ISVs), and third-party developers that allows them to leverage our secure content management and collaboration functionality for their own custom business applications. Box Platform helps organizations to accelerate 
+
+&#160;
+
+their transformation into digital businesses by building applications faster, without having to invest in building their own content management infrastructure. 
+
+&#160;
+
+&#183; 
+
+Easy Integration with Other Cloud-Based Applications. Our open platform allows for easy integration with other cloud-based and enterprise applications. We offer a number of off-the-shelf integrations with leading productivity and business applications from IBM, Microsoft, Salesforce, Google and others, as well as an open API for organizations to integrate Box with other packaged and home-grown applications, including solution applications our customers build for their customers. 
+
+&#160;
+
+&#183; 
+
+Focus on Industry-Specific Offerings. In order to facilitate easier and faster time to market, we offer industry-specific solutions for those industries that have significant content and collaboration challenges. These offerings target specific business problems within those industries with a combination of Box, integration with industry-specific partner technologies, implementation expertise from Box Consulting and/or implementation partners, as well as templates for metadata and workflows that are applicable to those industries. For example, Box for Healthcare is a new offering to transform how healthcare providers work. Tailored specifically for hospitals, this new solution streamlines referral management, enables users to view and share DICOM files (like X-rays, CT Scans and Ultrasounds), reduces the need for manual faxing and scanning, and unlocks data trapped in hospital-based enterprise systems. Where relevant, we have obtained regulatory and compliance certifications as well. For example, we facilitate compliance with the Health Insurance Portability and Accountability Act (HIPAA), the Health Information Technology for Economic and Clinical Health (HITECH) Act, the Financial Industry Regulatory Authority (FINRA), and the Payment Card Industry Data Security Standard (PCI DSS), all of which are critical to highly-regulated industries such as healthcare, financial services and insurance. 
+
+Customers
+
+Our user base includes over 44 million registered users. As of January 31, 2016, approximately 88% of our registered users are non-paying users who have independently registered for accounts and approximately 12% of our registered users are paying users who register as part of a larger enterprise or business account or by using a personal account.
+
+We currently have over 57,000 paying organizations, and our solution is offered in 22 languages. We define paying organizations as separate and distinct buying entities, such as a company, an educational or government institution, or a distinct business unit of a large corporation, that have entered into a subscription agreement with us to utilize our services. Organizations typically purchase our solution in the following ways: &#160;(i) employees in one or more small groups within the organization may individually purchase our service; (ii) organizations may purchase IT-sponsored, enterprise-level agreements with deployments for specific, targeted use cases ranging from tens to thousands of user seats; (iii) organizations may purchase IT-sponsored, enterprise-level agreements where the number of user seats sold is intended to accommodate and enable nearly all information workers within the organization in whatever use cases they desire to adopt over the term of the subscription; or (iv) organizations may purchase our Box Platform service to create custom business applications for their own extended ecosystem of customers, suppliers and partners .
+
+For the 12 months ended January 31, 2016, 61% of the dollar value of orders for our subscription services were from new enterprise customers and expansion within existing enterprise customers. We consider enterprise customers to be organizations with at least 1,000 employees, as such organizations are the focus of our Enterprise Accounts sales team. No individual customer represented more than 10% of our revenues in the year ended January 31, 2016.
+
+We have developed several programs designed to provide customers with service options to quickly get them up and running and enhance their usage of our platform. These services include 24x7 support; a professional services ecosystem that consists of our Box Consulting team and system integrators that help customers implement simple use cases as well as more complex platform and content management oriented use cases, a Customer Success Management group to assist customers in production; and an online help center with self-service training materials, best practice guides and product documentation.
+
+Sales and Marketing 
+
+We offer our solution to our customers as a subscription-based service, with subscription fees based on the requirements of our customers, including the number of users and functionality deployed. The majority of our customers subscribe to our service through one-year contracts, although we also offer our services for terms ranging between one month to three years or more. We typically invoice our customers at the beginning of the term, in multiyear, annual, quarterly or monthly installments. We recognize revenue ratably over the term of the subscription period.
+
+We employ a direct sales team to offer a higher touch experience. We also make it easy for users and organizations to subscribe to paid versions of our service on our self-service web portal. Our sales team is composed of inside sales, outbound sales and field sales personnel who are generally organized by account size and geography, and/or major industry focus. We also have a rich ecosystem of channel partners who expand our reach to both large and small enterprises.
+
+We generate customer leads, accelerate sales opportunities and build brand awareness through our marketing programs and through our strategic relationships. Our marketing programs target senior IT leaders, technology professionals and senior line of business leaders.
+
+As a core part of our strategy, we have developed an ecosystem of partners to both broaden and complement our application offerings and to provide a broad array of services that lie outside of Box&#8217;s areas of focus. These relationships include software and technology partners, consulting and implementation services providers that enable Box to address a broader set of use cases for our customers.
+
+Research and Development
+
+Our ability to compete depends in large part on our continuous commitment to product development and our ability to rapidly introduce new applications, technologies, features and functionality. In simple conceptual form, we provide a product that allows companies to securely manage, share and collaborate on files. In practice, we develop and maintain a set of sophisticated software services (e.g., search, share, secure, convert/view, log, etc.) around corporate content. These services, which comprise our platform, are used to develop our own applications (e.g., sync, web, native mobile) and also support the development of third-party applications.
+
+Our product development organization is responsible for the specification, design, development and testing of our platform and applications. We focus our efforts on improving the security, reliability, performance and flexibility of the services in our platform. And we continually improve our applications so that they help users and teams become more productive in their day-to-day work.
+
+Research and development expenses were $102.5 million, $66.4 million and $46.0 million for the years ended January 31, 2016, 2015 and 2014, respectively.
+
+Competition
+
+The enterprise content management market is large, highly competitive and highly fragmented. It is subject to rapidly evolving technology, shifting customer needs and frequent introductions of new products and services. We face competition from a broad spectrum of technology providers: vendors whose core competency is simple file sync and share, which can be deployed on-premise, hybrid, or via a SaaS delivery model; real-time collaboration vendors whose focus is on real-time voice, video and text communication in the enterprise; social collaboration vendors who focus on the conversations that occur between teams; traditional enterprise content management (ECM) vendors who deploy on-premise and offer deep records management, business process workflow, and archival capabilities; and newer mobile enterprise vendors who are beginning to enter the content collaboration market, are adding adjacent content capabilities onto an existing product, or serve a particular business or industry use case. Our current primary competitors include but are not limited to: established content management vendors such as EMC, Microsoft (Office365 and SharePoint) and Open Text; and file sync and share vendors including Dropbox, Google (Drive) and Microsoft (OneDrive for Business). 
+
+We may face future competition in our markets from other large, established companies, as well as from smaller specialized companies. In addition, we expect continued consolidation in our industry which could adversely alter the competitive d ynamics of our markets including both pricing and the ability for us to compete successfully for customers. 
+
+The principal competitive factors in our market include:
+
+&#160;
+
+&#183; 
+
+enterprise-grade security and compliance; 
+
+&#160;
+
+&#183; 
+
+ease of user experience; 
+
+&#160;
+
+&#183; 
+
+scalable product and infrastructure for large deployments; 
+
+&#160;
+
+&#183; 
+
+speed, availability, and reliability of the service; 
+
+&#160;
+
+&#183; 
+
+low-cost, quick deployment; 
+
+&#160;
+
+&#183; 
+
+depth of integration into enterprise applications, including office productivity, desktop and mobile tools; 
+
+&#160;
+
+&#183; 
+
+current and forward-thinking product development; 
+
+&#160;
+
+&#183; 
+
+agnostic to device, operating system, and file type; 
+
+&#160;
+
+&#183; 
+
+metadata capabilities; 
+
+&#160;
+
+&#183; 
+
+automation and workflow management; 
+
+&#160;
+
+&#183; 
+
+extensible platform for custom application development; 
+
+&#160;
+
+&#183; 
+
+customer-centric product development; 
+
+&#160;
+
+&#183; 
+
+rich ecosystem of channel partners and applications; 
+
+&#160;
+
+&#183; 
+
+superior customer service and commitment to customer success; and 
+
+&#160;
+
+&#183; 
+
+strength of professional services organization. 
+
+We believe that we compete favorably on the basis of these factors. Our ability to remain competitive will depend to a great extent upon our ongoing performance in the areas of product development, core technical innovation, platform and partner ecosystem and customer support. In addition, many of our competitors, particularly the large software companies named above, may have greater name recognition, longer operating histories, significantly greater resources and established relationships with our partners and customers which can give them advantageous positioning for their products despite other competitive merits of respective product features and functionality. Some competitors may be able to devote greater resources to the development, promotion and sale of their products than we can to ours, which could allow them to respond more quickly than we can to new technologies and changes in customer needs.
+
+Intellectual Property
+
+We rely on a combination of trade secrets, patents, copyrights and trademarks, as well as contractual protections, to establish and protect our intellectual property rights. As of January 31, 2016, we had 26 issued U.S. patents, 15 issued Great Britain patents and 2 Canadian patents that directly relate to our technology that expire between 2028 and 2033, and we had 84 pending patent applications in the U.S. and 16 pending patent applications internationally. We intend to pursue additional patent protection to the extent that we believe it would be beneficial and cost effective.
+
+We require our employees, contractors, consultants and other third parties to enter into confidentiality and proprietary rights agreements and control access to software, documentation and other proprietary information. Although we rely on intellectual property rights, including trade secrets, patents, copyrights and trademarks, as well as contractual protections to establish and protect our proprietary rights, we believe that factors such as the technological and creative skills of our personnel, creation of new modules, features and functionality, and frequent 
+
+enhancements to our applications are more essential to establishing and maintaining our technology leadership position. 
+
+Despite our efforts to protect our proprietary technology and our intellectual property rights, unauthorized parties may attempt to copy or obtain and use our technology to develop applications with the same functionality as our application. Policing unauthorized use of our technology and intellectual property rights is difficult.
+
+We expect that software and other applications in our industry may be subject to third-party infringement claims as the number of competitors grows and the functionality of applications in different industry segments overlaps. Any of these third parties might make a claim of infringement against us at any time.
+
+Employees
+
+As of January 31, 2016, we had 1,370 employees. None of our employees are represented by a labor union. We have not experienced any work stoppages, and we consider our relations with our employees to be very good.
+
+Corporate Information
+
+Our principal executive offices are located at 900 Jefferson Ave. Redwood City, California 94063, and our telephone number is (877) 729-4269. Our website address is www.box.com, and our investor relations website is located at www.box.com/investors. The information on, or that can be accessed through, our website is not part of this report. We were incorporated in 2005 as Box.Net, Inc., a Washington corporation, and later reincorporated in 2008 under the same name as a Delaware corporation. In November 2011, we changed our name to Box, Inc. The Box design logo, &#8220;Box&#8221; and our other registered and common law trade names, trademarks and service marks are the property of Box, Inc. Other trademarks, service marks, or trade names appearing in this report are the property of their respective owners.
+
+Available Information
+
+We file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended. The public may obtain these filings at the Securities and Exchange Commission (the SEC)&#8217;s Public Reference Room at 100 F Street, NE, Washington, DC 20549 or by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website at www.sec.gov that contains reports, proxy and information statements and other information that we file with the SEC electronically. Copies of our reports on Form 10-K, Forms 10-Q, Forms 8-K, and amendments to those reports may also be obtained, free of charge, electronically through our investor relations website located at www.box.com/investors as soon as reasonably practical after we file such material with, or furnish it to, the SEC.
+
+We also use our investor relations website as a channel of distribution for important company information. Important information, including press releases, analyst presentations and financial information regarding us, as well as corporate governance information, is routinely posted and accessible on our investor relations website. In addition, important information is routinely posted and accessible on the blog section of our investor relations website, which is accessible by clicking on the tab labeled &#8220;Blog&#8221; on our investor relations website, as well as certain Twitter accounts, such as @boxhq, @levie and @boxincir. Information on or that can be accessed through our websites or are on these Twitter accounts is not part of this Annual Report on Form 10-K, and the inclusion of our website addresses and Twitter accounts are inactive textual references only.
+

@@ -1,0 +1,296 @@
+ Item 1. Business 
+
+&#160;
+
+We were incorporated under the laws of the State of Delaware on November 3, 2004 and commenced operations on January 1, 2005. Our principal executive offices are located at 1250 Broadway, 29th Floor, New York, NY 10001. For convenience in this report, the terms &#8220;Company,&#8221; &#8220;Varonis,&#8221; &#8220;we&#8221; and &#8220;us&#8221; may be used to refer to Varonis Systems, Inc. and/or its subsidiaries, except where indicated otherwise. Our telephone number is (877) 292-8767.
+
+&#160;
+
+Overview 
+
+&#160;
+
+We provide an innovative software platform that allows enterprises to analyze, secure, manage and better utilize their unstructured data. We specialize in human-generated data, a type of unstructured data that includes an enterprise&#8217;s spreadsheets, word processing documents, presentations, audio files, video files, emails, text messages and any other data created by employees. This data often contains an enterprise&#8217;s financial information, product plans, strategic initiatives, intellectual property and numerous other forms of vital information. Our Metadata Framework is a proprietary technology platform that extracts critical metadata, or data about data, from an enterprise&#8217;s IT infrastructure and uses this contextual information to map functional relationships among employees, data objects, content and usage. IT and business personnel deploy our software for a variety of use cases, including data governance, data security, archiving, file synchronization and sharing, enhanced mobile data accessibility and information collaboration.
+
+&#160;
+
+In today&#8217;s information-based economy, enterprises must share, protect and manage their vital information assets; however, the rapid growth in data volume and complexity is making it significantly harder for enterprises to do so. The April 2014 International Data Corporation (IDC) Digital Universe Study estimates that the amount of digital information created and replicated will grow at a compound annual growth rate of 40% from 2013 through 2020. Research from IDC also shows that unstructured content accounts for 90% of all digital information. We believe that unstructured data represents a critical business asset, and enterprises are increasingly seeking ways to maximize the value of this data, while simultaneously ensuring that the data is appropriately secured and managed. Despite the importance of their digital assets, most enterprises have difficulty tracking who has access to select data, who is responsible for that data, and which employees are accessing, creating, manipulating or deleting it.
+
+&#160;
+
+The revolution in internet search occurred when search engines began to mine internet metadata, such as the links between pages, in addition to page content, thereby making the internet&#8217;s content more usable and consequently more valuable. Similarly, our Metadata Framework creates advanced searchable data structures and provides real-time intelligence about an enterprise&#8217;s massive volumes of human-generated content, to create more accessible, manageable and secure human-generated data.
+
+&#160;
+
+We believe that the technology underlying our Metadata Framework is our primary competitive advantage. The strength of our solution is driven by several proprietary technologies and methodologies that we have developed, coupled with how we have seamlessly combined them into our highly versatile Metadata Framework. Our technological advantage stems from us having developed a way to do each of the following:
+
+&#160;
+
+&#8226; determine which metadata to capture; &#160;
+
+&#8226; capture that metadata without imposing any strains or latencies on the enterprise&#8217;s computing infrastructure; &#160;
+
+&#8226; modify that metadata in a way which makes it comparable and analyzable despite it having originated from disparate IT systems; &#160;
+
+&#8226; create supplemental metadata, as needed, when the existing IT infrastructure&#8217;s activity logs are not sufficient; &#160;
+
+&#8226; decipher the key functional relationships of metadata, the underlying data, and its creators; &#160;
+
+&#8226; use those functional relationships to create a graphical depiction, or map, of the data which will endure as enterprises add large volumes of data to their network and storage resources on a daily basis; &#160;
+
+&#8226; analyze the data and related metadata utilizing sophisticated algorithms, including cluster analyses and machine learning; &#160;
+
+&#8226; visualize and depict the analyses in an intuitive manner, including simulating contemplated changes and automatically execute tasks that are normally manually intensive for IT and business personnel; and &#160;
+
+&#8226; generate meaningful, actionable alerts when security-related incidents are detected. &#160;
+
+The broad applicability of our technology has resulted in our customers deploying our platform for numerous use cases. These use cases include: searchable logs of all human-generated data related activity; centralized visibility into the unstructured data of the enterprise; identification of sensitive data and monitoring its security, ownership and usage, thereby reducing potential exposures; identification of and tracking data ownership; business productivity enhancement through self-service data management; intelligent archiving and migration of data; creation of secure hybrid cloud functionalities; secure search; abnormal activity alerts and identification and security of high-risk data.
+
+&#160;
+
+&#160;
+
+We believe that the diverse functionalities offered by our platform positions us at the intersection of several powerful trends in the digital universe. The addressable markets for the functionalities delivered by our platform are many and include portions of the markets defined by IDC as collaborative applications, IT Security (including endpoint security, messaging security and security and vulnerability management), identity and access management, enterprise search, and data integration and access software. IDC estimates that the aggregate total spend of these established markets in 2014 was approximately $37 billion. Varonis also addresses other sizable markets, including storage management software and enterprise search. We believe that our comprehensive product offering will attract a meaningful portion of this overall spend, resulting in a multi-billion dollar total addressable market. As we continue to innovate and introduce new products, we expect that the use cases for our solutions will expand, leading to incremental growth in our addressable market opportunity.
+
+&#160;
+
+We sell substantially all of our products and services to channel partners, including distributors and resellers, which sell to end-user customers, which we refer to in this report as our customers. We believe that our sales model, which combines the leverage of a channel sales model with our highly trained and professional sales force, has played and will continue to play a major role in our ability to grow and to successfully deliver our unique value proposition for enterprise human-generated data. We target customers of all sizes, in all industries and in all geographies. As of December 31, 2015, we had approximately 4,350 customers, spanning leading firms in the financial services, healthcare, public, industrial, insurance, energy and utilities, media and entertainment, consumer and retail, technology and education sectors.
+
+&#160;
+
+Size of Our Market Opportunity 
+
+&#160;
+
+We believe that the diverse functionalities offered by our platform position us at the intersection of several powerful trends in the digital enterprise data universe. We believe that the business intelligence and functionalities delivered by our platform define a new market, and we are not aware of any third party studies that accurately define our addressable market. According to industry sources, the functionality of our software platform does overlap with portions of markets defined and sized by IDC, including collaborative applications ($12.2 billion), IT Security (including endpoint security, messaging security and security and vulnerability management&#8212;$15.8 billion), identity and access management ($4.6 billion), and data integration and access software ($4.7 billion). IDC estimated that the aggregate total spend within these established markets in 2014 was approximately $37 billion. Forrester estimated the storage management software market to be $13 billion in 2014.
+
+&#160;
+
+Our Technology 
+
+&#160;
+
+Our proprietary technology extracts critical information about an enterprise&#8217;s stored human-generated data and uses this contextual information, or metadata, to create a functional map of an enterprise&#8217;s human-generated content and underlying file systems. Our Metadata Framework technology has been architected to process large volumes of human-generated data and the related metadata at a massive scale with minimal demands on the existing IT infrastructure. All of our products, except DatAnywhere, utilize our Metadata Framework and a core single codebase, thereby streamlining our product development initiatives.
+
+&#160;
+
+Key Benefits of Our Technology 
+
+&#160;
+
+Protect data from insider threats. Our solutions analyze how employees use and access data, profile employees&#8217; roles and file contents, baseline &#8220;normal&#8221; behavior patterns, and alert on significant deviations from profiled behaviors. Our customers are able to detect rogue insiders, attackers that have compromised internal systems and employee accounts, malware and other significant threats.
+
+&#160;
+
+Comprehensive Solution for Human-Generated Data. Our products enable a broad range of functionality, including data governance, secure search and remote collaboration, secure BYOD implementations and intelligent retention&#8212;all from one core technology platform. Moreover, our platform is applicable across all major enterprise platforms (Windows, UNIX/Linux, Intranets, email systems and Microsoft Office 365). 
+
+&#160;
+
+Fast Time to Value and Low Total Cost of Ownership. Our solutions do not require custom implementations or long deployment cycles. Our platform can be installed and ready for use within hours and allows customers to realize real value within days of implementation. We designed our platform to operate on commodity hardware with standard operating systems, further reducing the cost of ownership of our product.
+
+&#160;
+
+Ease of Use. While we utilize complex data structures and algorithms in our data engine, we abstract that complexity to provide a sleek, intuitive interface. Our software can be accessed through either the local client or a standard web browser and requires limited training, saving on time and cost and making it accessible to the broader set of non-technical users.
+
+&#160;
+
+&#160;
+
+Highly Scalable and Flexible Data Engine. Our metadata analysis technology is built to be highly scalable and flexible, allowing our customers to analyze vast amounts of human-generated enterprise data. Moreover, our proprietary Metadata Framework was built with a modular architecture, allowing customers to grow into the full capabilities of our solution over time.
+
+&#160;
+
+No Impact on End User Mobile Experience. Our DatAnywhere product was designed to provide enterprises enhanced control of their data while simultaneously offering employees all of the functionality, ease of use and ubiquitous accessibility they have come to expect from third party cloud storage services. Our solutions collect metadata with no impact on the collaborative file sharing and email environments. End user mobile experience is maintained while using existing access methods and improved when using file synchronization and sharing and mobile access.
+
+&#160;
+
+Our Growth Strategy 
+
+&#160;
+
+Our objective is to be the primary vendor to which enterprises turn to analyze, protect and transform into actionable intelligence their human-generated data. The following are key elements of our growth strategy.
+
+&#160;
+
+Extend Our Technological Capabilities Through Innovation. We intend to maintain our high level of investment in product development in order to enhance existing products to address new use cases and deliver new products. We believe that the flexibility, sophistication and broad applicability of our Metadata Framework will allow us to use our Metadata Framework as the core of numerous future products built on our same core technology. Our ability to effectively leverage our research and development resources has enabled us to create a new product development engine that we believe can proactively identify and solve enterprise needs.
+
+&#160;
+
+Grow Our Customer Base. The unabated rise in unstructured data in enterprises and the ubiquitous reliance on digital collaboration will continue to drive demand for data collaboration, governance and retention solutions. We intend to capitalize on this demand by targeting new customers, vertical markets and use cases for our solutions. Our solutions address the needs of customers of all sizes ranging from small and medium businesses to large multinational companies with thousands of employees and petabytes of data.
+
+&#160;
+
+Increase Sales to Existing Customers. We believe significant opportunities exist to further expand relationships with existing customers. Unstructured data growth continues across all the platforms, and enterprises wish to standardize on solutions that help them manage, protect and extract more value from their data wherever it is stored. We will continue to cultivate incremental sales from our existing customers by driving increased use of our software within our installed base by expanding footprint and usage. We currently have six products, and as of December 31, 2015, approximately 45% of our customers purchased two or more products. We believe our existing customer base serves as a strong source of incremental revenues given the broad platform of products we have and the growing volumes and complexity of human-generated data our customers have. As we innovate and expand our product offering, we will have an even broader suite of products to offer our customers.
+
+&#160;
+
+Expand Our Sales Force. Continuing to expand our salesforce will be essential to achieving our customer base expansion goals. The salesforce and our approach to introducing products to the market has been key to our successful growth in the past and will be central to our growth plan in the future. Our model focuses on targeting customers of all sizes, industries and geographies. The ability of our sales teams to support our channel partners to efficiently identify leads, generate evaluations and convert them to satisfied customers will continue to impact our ability to grow. We intend to expand our sales capacity by adding headcount throughout our sales and marketing department.
+
+&#160;
+
+Grow Sales from Our Newer Products and Licenses. During the past two years, we have introduced one major new product, DatAnswers. We have also added additional licenses to existing products to support new data platforms, such as Microsoft Office 365. We believe these new additions to our product offerings can be a meaningful contributor to our growth.
+
+&#160;
+
+Establish Our Metadata Framework as The Industry Standard. We have worked with several of the leading providers of network attached storage, or NAS, hardware, including EMC, NetApp, HP and Hitachi, in order to expand our market reach and deliver enhanced functionality to our customers. We have worked with these vendors to assure compatibility with their NAS product lines. Through the use of application programming interfaces, or APIs, and other integration work, our solutions also integrate with many providers of solutions in the ecosystem. We will continue to selectively pursue such collaborations wherever they advance the strategic goals of the company, thereby expanding our reach and establishing our product user interface as the de facto industry standard when it comes to human-generated enterprise data.
+
+&#160;
+
+Continue International Expansion. We believe there is a significant opportunity for our platform in international markets, encompassing virtually any enterprise that uses file shares, intranets and email for collaboration. Revenues from outside the United States accounted for approximately 42% of our revenues in 2015. Europe represented the substantial majority of revenues outside the United States. We believe that international expansion will be a key component of our growth strategy, and we will continue to market our products and services overseas.
+
+&#160;
+
+&#160;
+
+Our Products 
+
+&#160;
+
+We offer six products, most of which utilize our core Metadata Framework technology to deliver features and functionality that allow enterprises to fully understand and benefit from the value of their human-generated data. This architecture easily extends through modular functionalities giving our clients the flexibility to select the features they require for their business needs and the flexibility to expand their usage simply by adding a license.
+
+&#160;
+
+&#8226; DatAdvantage. DatAdvantage, our flagship product, launched in 2006, builds on our Metadata Framework and captures, aggregates, normalizes and analyzes every data access event for every user on Windows and UNIX/Linux servers, storage devices, email systems and Intranet servers, without requiring native operating system auditing functionalities or impacting performance or storage on file systems. Through an intuitive graphical interface, DatAdvantage presents insights from massive volumes of human-generated data using normal computing infrastructure. It is also our presentation layer for IT departments, which provides an interactive map of relevant user, group, and data objects, usage and content, facilitating analysis from multiple vectors. IT departments can pinpoint areas of interest starting with any metadata object, simulate changes measuring potential impact against historical access patterns, and easily execute changes on all platforms through a unified interface. &#160;
+
+&#8226; DataPrivilege. DataPrivilege, also launched in 2006 and designed for use by business unit personnel, provides a self-service web portal that allows users to request access to data necessary for their business functions, and owners to grant access without IT intervention. DataPrivilege also enables IT and business users to make access decisions based on queries, user requests and metadata analytics information, rather than static IT policies. DataPrivilege provides a presentation layer for business users to review accessibility and usage of their data assets, and grant and revoke access. &#160;
+
+&#8226; IDU Classification Framework. As the volume of an enterprise&#8217;s information grows, enterprises struggle to find and tag different types of sensitive data, such as intellectual property, regulated content including Personally Identifiable Information, and medical records. Furthermore, content by itself does not provide adequate context to determine ownership, relevance, or protection requirements. Our IDU Classification Framework, introduced in 2009, identifies and tags data based on criteria set in multiple metadata dimensions, and provides business and IT personnel with actionable intelligence about this data, including a prioritized list of folders and files containing the most sensitive data and with the most inadequate permissions. For the identified folders and files, it also identifies who has access to that data, who is using it, who owns it, and recommendations for how to effectively limit access without disrupting workflow. Our IDU Classification Framework provides visibility into the content of data across file systems and Intranets sites and combining it with other metadata, including usage and accessibility. &#160;
+
+&#8226; Data Transport Engine. We introduced our Data Transport Engine software in 2012 to provide an execution engine that unifies the manipulation of data and metadata, translating business decisions and instructions into technical commands such as data migration or archiving. Data Transport Engine allows both IT and business personnel to standardize and streamline activities for data management and retention, from day-to-day maintenance to complex platform and domain migrations and archiving. Our Data Transport Engine ensures that data migrations automatically synchronize source and destination data with incremental copying even if the source data is still being used, translates access permissions across platforms and domains and provides reporting capabilities for data migration status. Moreover, it also provides IT personnel the flexibility to schedule recurring migrations to automatically find and move certain types of data such as sensitive or stale data, and to perform active migrations, dispositions, and archiving safely and efficiently. &#160;
+
+&#8226; DatAnywhere. With the growth of cloud-based file sharing and synchronization services, enterprises increasingly face instances where employees save confidential, proprietary or sensitive company or client data onto third-party data sharing services, either for remote working purposes or to share with external business partners. This practice leads to an enhanced end user mobile experience but creates a new, often redundant data store outside of corporate visibility, oversight or control, and poses a security and data loss threat. We introduced DatAnywhere in 2012 in response to the need by enterprises for a secure and easy-to-use alternative to consumer cloud-based file sharing solutions. DatAnywhere provides our customers&#8217; employees a modern collaboration, hybrid-cloud experience using their existing storage infrastructure to leverage existing investments and in house platform expertise, and provides users this experience using applications on their mobile devices. DatAnywhere allows users to seamlessly collaborate with other users that still use the same traditional common internet file system shares via mapped drives or universal naming convention paths. It ensures that the shared data remains on firm file servers and retains the approved access permissions without any need for data to be moved from existing file shares or migrated to a proprietary repository. DatAnywhere also seamlessly integrates with the existing backup policies, cache devices, distributed file system, replication and existing data governance and compliance technologies, processes and policies. &#160;
+
+&#160;
+
+&#8226; DatAnswers. As employees continue to generate and store data in numerous enterprise platforms, relevant files they and their coworkers and predecessors create become harder to find. Unlike the internet, where powerful search engines make relevant web information easy to find despite rapid growth, enterprise file systems are frequently not searchable by employees or IT. Though enterprise search technologies exist, many enterprises do not own or use them to index human generated data, for several reasons, including performance (the index must be up to date to be useful, requiring continual scanning for new and changed content), security (sensitive files that are not adequately restricted become far easier for the wrong people to find), relevance (when many files contain the term or terms a searcher is looking for they are not ranked or presented in a way that they are likely to find the right files), and cost (enterprise search technologies require significant, ongoing investments in hardware and software). DatAnswers was introduced in 2014 to provide secure, relevant and timely search functionality for human generated data. Capitalizing on the Metadata Framework infrastructure and its analysis of data access events, file system and directory services metadata, DatAnswers indexes files as they are created and changed without requiring continual scanning, filters out results users should not see based on the patented recommendations engine in DatAdvantage and classification results found by the IDU Classification Framework, and ranks results using analysis of data usage. DatAnswers is used primarily for end user search and ediscovery projects. &#160;
+
+Our Customers 
+
+&#160;
+
+Our customer base has grown from approximately 550 customers at December 31, 2009 to approximately 4,350 customers in more than 65 countries as of December 31, 2015. Our customers vary greatly in size ranging from small and medium businesses to large multinational enterprises with thousands of employees and hundreds of terabytes of data. Moreover, we have customers across numerous industries and geographies.
+
+&#160;
+
+Services 
+
+&#160;
+
+Maintenance and Support 
+
+&#160;
+
+Our customers typically purchase one year of software maintenance and support as part of their initial purchase of our products, with an option to renew. These maintenance agreements provide customers the right to receive support and unspecified upgrades and enhancements when and if they become available during the maintenance period and access to our technical support services.
+
+&#160;
+
+We maintain a customer support organization that provides all levels of support to our customers. Our customers that purchase maintenance and support services receive guaranteed response times, direct telephonic support and access to online support portals. Our customer support organization has global capabilities with expertise in both our software and complex IT environments and associated third-party infrastructure.
+
+&#160;
+
+Professional Services 
+
+&#160;
+
+While users can easily download, install and deploy our software on their own, certain enterprises use our professional service team to provide fee-based services, which include training our customers in the use of our products, providing advice on deployment planning, network design, product configuration and implementation, automating and customizing reports and tuning policies and configuration of our products for the particular characteristics of the customer&#8217;s environment.
+
+&#160;
+
+Sales and Marketing 
+
+&#160;
+
+Sales 
+
+&#160;
+
+We sell the vast majority of our products and services to a global network of hundreds of resellers and distributors that we refer to as our channel partners. Our channel partners, in turn, sell the products they purchase from us to customers globally. In addition, we maintain a highly trained professional sales force that is responsible for overall market development, including the management of the relationships with our channel partners and supporting channel partners in winning customers through operating demonstrations and evaluations. Our channel partners identify potential sales targets, maintain relationships with customers and introduce new products to existing customers. Sales to our channel partners are generally subject to our standard, non-exclusive channel partner agreement, meaning our channel partners may offer customers the products of several different companies. These agreements are generally for a term of one year with a one year renewal term and can be terminated by us or the channel partner for any reason upon 30 days&#8217; notice. A termination of the agreement has no effect on orders already placed. Payment to us from the channel partner is typically due within 30 &#8211; 90 calendar days of the date we issue an invoice for such sales.
+
+&#160;
+
+&#160;
+
+Marketing 
+
+&#160;
+
+Our marketing strategy is focused on building our brand and product awareness, increasing customer adoption and demand, communicating advantages and business benefits and generating leads for our channel partners and sales force. We market our software as a solution for specific use cases and as a solution for securing and managing file systems and unstructured data. We execute our marketing strategy by leveraging a combination of internal marketing professionals, external marketing partners and a network of regional and global channel partners. Our internal marketing organization is responsible for branding, content generation and product marketing and works with our business operations team to support channel marketing and sales support programs. We provide one-on-one and community education and awareness and promote the expanded use of our software. We host in-person Varonis Connect! events annually across sales regions, as well as free, online monthly or bi-weekly technical webinars in multiple regions. We focus our efforts on events, campaigns, tools and activities that can be leveraged by our channel partners worldwide to extend our marketing reach, such as sales tools, information regarding product awards and technical certifications, training, regional seminars and conferences, webinars and various other demand-generation activities. Our marketing efforts also include public relations in multiple regions, extensive content development available through our web site and content syndication, and our active blog, &#8220;The Metadata Era.&#8221;
+
+&#160;
+
+Seasonality 
+
+&#160;
+
+See Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8212; Seasonality and Quarterly Trends.&#8221;
+
+&#160;
+
+Research and Development 
+
+&#160;
+
+Our research and development efforts are focused primarily on improving and enhancing our existing products and services, as well as developing new products, features and functionality. Use of our products has expanded from governance into new areas such as accessibility and retention, and we anticipate that customers and innovation will drive functionality into additional areas. We regularly release new versions of our products which incorporate new features and enhancements to existing ones. We conduct substantially all of our research and development activities in Israel, and we believe this provides us with access to world class engineering talent.
+
+&#160;
+
+Our research and development expense was $31.8 million, $28.1 million and $21.0 million in 2015, 2014 and 2013, respectively.
+
+&#160;
+
+Intellectual Property 
+
+&#160;
+
+We rely on patent, trademark, copyright and trade secret laws, confidentiality procedures and contractual provisions to protect our technology and the related intellectual property. The nature and extent of legal protection of our intellectual property rights depends on, among other things, its type and the jurisdiction in which it arises. As of January 31, 2016, we had 27 issued patents and 43 pending patent applications in the United States. We also had four patents issued and 62 applications pending for examination in non-U.S. jurisdictions, and 50 pending Patent Cooperation Treaty (&#8220;PCT&#8221;) patent applications, all of which are counterparts of our U.S. patent applications. Certain of our patents are owned by our Israeli subsidiary. The claims for which we have sought patent protection relate primarily to inventions we have developed for incorporation into our products. We also license software from third parties for use in developing our products and for integration into our products, including open source software.
+
+&#160;
+
+Despite our efforts to protect our proprietary technologies and intellectual property rights, unauthorized parties may attempt to copy aspects of our products or obtain and use our trade secrets or other confidential information. We generally enter into confidentiality agreements with our employees, consultants, service providers, vendors and customers and generally limit internal and external access to, and distribution of, our proprietary information and proprietary technology through certain procedural safeguards. These agreements may not effectively prevent unauthorized use or disclosure of our intellectual property or technology and may not provide an adequate remedy in the event of unauthorized use or disclosure of our intellectual property or technology. We cannot assure you that the steps taken by us will prevent misappropriation of our trade secrets or technology or infringement of our intellectual property. In addition, the laws of some foreign countries do not protect our proprietary rights to as great an extent as the laws of the United States, and many foreign countries do not enforce these laws as diligently as government agencies and private parties in the United States.
+
+&#160;
+
+&#160;
+
+Our industry is characterized by the existence of a large number of relevant patents and frequent claims and related litigation regarding patents and other intellectual property rights. From time to time, third-parties have asserted and may assert their patent, copyright, trademark and other intellectual property rights against us, our channel partners or customers. Successful claims of infringement or misappropriation by a third party could prevent us from distributing certain products or performing certain services or could require us to pay substantial damages (including, for example, treble damages if we are found to have willfully infringed patents and increased statutory damages if we are found to have willfully infringed copyrights), royalties or other fees. Such claims also could require us to cease making, licensing or using solutions that are alleged to infringe or misappropriate the intellectual property of others, or to expend additional development resources to attempt to redesign our products or services or otherwise to develop non-infringing technology. Even if third parties may offer a license to their technology, the terms of any offered license may not be acceptable, and the failure to obtain a license or the costs associated with any license could cause our business, results of operations or financial condition to be materially and adversely affected. In some cases, we indemnify our customers and distributors against claims that our products infringe the intellectual property of third parties.
+
+&#160;
+
+Competition 
+
+&#160;
+
+While there are some companies which offer certain features similar to those embedded in our solutions, as well as others with which we compete in certain use cases, we believe that we do not currently compete with a company that offers the same breadth of functionalities that we offer in a single integrated solution. Nevertheless, we do compete against a select group of software vendors, such as Symantec Corporation and Dell Software (formerly Quest), that provide standalone solutions, similar to those found in our comprehensive software suite, in the specific markets in which we operate. We also face direct competition with respect to certain of our products, specifically DatAnywhere, Data Transport Engine, DatAnswers and DatAdvantage for Directory Services. In the future, as customer requirements evolve and new technologies are introduced, we may experience increased competition if established or emerging companies develop solutions that address the human-generated unstructured data market. Furthermore, because we operate in a relatively new and evolving area, we anticipate that competition will increase based on customer demand for these types of products.
+
+&#160;
+
+A number of factors influence our ability to compete in the markets in which we operate, including, without limitation: the continued reliability and effectiveness of our products&#8217; functionalities; the breadth and completeness of our solutions&#8217; features; the scalability of our solutions; and the ease of deployment and use of our products. We believe that we generally compete favorably in each of these categories. We also believe that we distinguish ourselves from others by delivering a single, integrated solution to address our customers&#8217; needs regarding access, governance, collaboration and retention with respect to their human-generated unstructured data. There can, however, be no assurance that we will remain unique in this capacity or that we will be able to compete favorably with other providers in the future.
+
+&#160;
+
+If a more established company were to target our market, we may face significant competition. They may have competitive advantages, such as greater name recognition, larger sales, marketing, research and acquisition resources, access to larger customer bases and channel partners, a longer operating history and lower labor and development costs, which may enable them to respond more quickly to new or emerging technologies and changes in customer requirements or devote greater resources to the development, promotion and sale of their products than we do. Increased competition could result in us failing to attract customers or maintain renewals and licenses at the same rate. It could also lead to price cuts, alternative pricing structures or the introduction of products available for free or a nominal price, reduced gross margins, longer sales cycles and loss of market share.
+
+&#160;
+
+In addition, our current or prospective channel partners may establish cooperative relationships with any future competitors. These relationships may allow future competitors to rapidly gain significant market share. These developments could also limit our ability to generate revenues from existing and new customers. If we are unable to compete successfully against current and future competitors our business, results of operations and financial condition may be harmed.
+
+&#160;
+
+Employees 
+
+&#160;
+
+As of December 31, 2015, we had 947 employees and independent contractors, of which 374 were in the United States, 339 were in Israel and 234 were in other countries. None of our employees is represented by a labor union with respect to his or her employment with us. Employees in certain European countries have the benefits of collective bargaining arrangements at the national level. We have not experienced any work stoppages, and we consider our relations with our employees to be good.
+
+&#160;
+
+Available Information 
+
+&#160;
+
+Our website is located at www.varonis.com, and our investor relations website is located at http://ir.varonis.com/. The information posted on our website is not incorporated into this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act are available free of charge on our investor relations website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. You may also access all of our public filings through the SEC&#8217;s website at www.sec.gov. Further, a copy of this Annual Report on Form 10-K is located at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330.
+
+&#160;
+
+&#160;
+

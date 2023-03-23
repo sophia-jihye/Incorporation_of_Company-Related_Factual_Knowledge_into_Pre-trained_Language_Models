@@ -1,0 +1,610 @@
+ Item 1. BUSINESS 
+
+Note: A glossary of terms used in this Form 10-K appears at the end of this Item 1. 
+
+Overview 
+
+We are a rapidly growing diagnostics company with proprietary molecular and bioinformatics technology that we are deploying to change the management of genetic disease worldwide. Our novel molecular assays reliably measure many informative regions across the genome from samples as small as a single cell. Our statistical algorithms combine these measurements with data available from the broader scientific community to detect a wide range of serious conditions with best-in-class accuracy and coverage. Our technology has been proven clinically and commercially in the prenatal testing space. We believe this success can be translated into the liquid biopsy space, and we are developing products for a number of oncology applications. In addition to our direct sales force in the United States, we have a global network of approximately 70 laboratory and distribution partners , including many of the largest international laboratories. We are enabling even wider adoption of our technology with our introduction of a global cloud-based distribution model. We have launched seven molecular diagnostic tests since 2009, and we intend to launch new products in prenatal testing and oncology in the future. In March 2013, we launched Panorama, our non-invasive prenatal test, or NIPT. Panorama represented approximately 73% of our revenues, with over 254,000 Panorama tests accessioned, during the year ended December 31, 2015. Our revenues have grown to $190.4 million in 2015 from $159.3 million in 2014 and from $55.2 million in 2013. Our net losses increased to $70.3 million in 2015 from $5.2 milli on in 2014 which was a decrease from $37.1 million in 2013. &#160; 
+
+Our focus is on determining the likelihood of a wide range of genetic conditions. Genetic inheritance is conveyed through a naturally occurring information storage system known as deoxyribonucleic acid, or DNA. DNA stores information in a linear sequence of the chemical bases adenine, cytosine, guanine and thymine, represented by the symbols A, C, G, and T. Billions of bases of A, C, G, and T link together inside living cells to form the genome, which can be read like a code or a molecular blueprint for life. While differences in the specific sequence and structure of this code drive biological diversity, certain variations can also cause disease. Examples of genetic diversity include copy number variations, or CNVs, and single nucleotide variants, or SNVs. A CNV is a genetic mutation in which relatively large regions of the genome have been deleted or duplicated, and an SNV is a mutation where a single base has changed. When single base changes are common in the population, that position on the chromosome, or loci, is called a single nucleotide polymorphism, or SNP. When genetic variations are a cause of disease, such as Down syndrome or breast cancer, detecting them within the patient's tissue or body fluid &#160; sample can enable diagnosis and treatment. Our goal is to develop and commercialize non- or minimally-invasive tests for the highly reliable detection of variations covering a broad set of diseases. We have first applied our technology to prenatal testing, and we are leveraging our core expertise to develop blood-based diagnostic tests for cancer. 
+
+In both prenatal testing and oncology, the use of blood-based diagnostic tests offers significant advantages over older methods, but the significant technological challenge is that such testing requires the measurement of very small amounts of relevant genetic material circulating within a much larger blood sample. Our approach combines proprietary molecular biology and computational techniques to measure genomic variations in tiny amounts of DNA, as small as a single cell. Our molecular biology techniques are based on measuring thousands of SNPs simultaneously using massively multiplexed polymerase chain reaction, or mmPCR, to multiplex, or &#160; target, over 20,000 regions of the genome simultaneously in a single test reaction. Our method avoids losing molecules by splitting the sample into separate reaction tubes, so that all relevant variants can be detected. We believe our approach represents a fundamental advance in molecular biology. This approach is distinct from the approach employed with other commercially available NIPTs, which use first-generation &#8220;quantitative&#8221;, or counting, methods to compare the relative number of sequence reads from a chromosome of interest to a reference chromosome. Based on extensive data published in the journals Obstetrics &#38; Gynecology , the American Journal of Obstetrics &#38; Gynecology, and Prenatal Diagnosis , we believe Panorama is the most accurate NIPT commercially available in the United States. 
+
+&#160;
+
+To make sense of this deep and rich set of biological data and deliver a diagnosis, we have developed computationally intensive algorithms that combine the data generated by mmPCR with the ever-expanding set of publicly available data on genetic variations. Our technology is compatible with standard equipment used globally and a range of NGS platforms, and we have optimized our algorithms to enable laboratories around the world to run diagnostic tests locally and access our algorithms in the cloud. 
+
+We believe that our mmPCR technology and proprietary algorithms, which have been proven in the context of non-invasive prenatal testing, can be a powerful tool in oncology applications such as therapy monitoring, recurrence monitoring and early detection screening. In oncology, we have demonstrated our ability to detect both CNVs and SNVs from very low concentrations of tumor DNA circulating in a blood sample, or ctDNA. Because lung, ovarian and breast cancer are driven, to varying degrees, by a combination of CNVs, SNVs and gene fusions, which are abnormalities in which DNA segments from two different genes are exchanged, forming one fused gene , we believe that our approach is well-suited for therapy selection, recurrence monitoring and early detection for these cancers. 
+
+Our Solution 
+
+Our technologies allow us to achieve a high signal to noise ratio when detecting fragments of DNA from samples as small as a single cell, which allows us to deliver screening tests with differentiated specificity, sensitivity, and coverage. From a single blood draw, our current commercial tests assess the risk of a broad range of conditions, which we refer to as "coverage," including common fetal aneuploidies, microdeletions, triploidy, and inherited genetic conditions that could be passed on from parent to child. We sell our tests directly and partner with other clinical laboratories to distribute our tests globally. Currently, all of our products other than our Constellation cloud software product are laboratory developed tests, or LDTs, which are tests that are designed, developed, validated and used within a single laboratory, and we perform commercial testing in our CLIA-certified laboratory. 
+
+Our proprietary innovations in both molecular biology and bioinformatics drive performance of our current prenatal genetic tests and our development pipeline. Our mmPCR technology optimizes the behavior of primers in a reaction to generate a high-resolution measurement of thousands of DNA loci in patient samples. As a result, we can capture mutations from a single DNA fragment within a large background of extraneous DNA found in a patient's blood sample. We believe our molecular technology has the potential to enable a broad range of applications in prenatal diagnostics and cancer. For example, the ability to target primers in a specific area of chromosome 22 allows our prenatal microdeletions panel to assess the risk of 22q11.2 deletion syndrome, which is caused by the deletion of a small piece of chromosome 22 and, if identified during pregnancy, can be treated with early intervention at the time of birth to avoid seizures and reduce cognitive impairment, with demonstrated higher sensitivity and specificity than other commercially available tests. 
+
+An illustration of the resolution that can be achieved with our mmPCR capability is provided below. The figures display data from our approximately 20,000 primer mmPCR assay, where each assay targets one SNP. On the left, the assay is applied to a large genomic DNA sample from a child. On the right, the assay is applied to a single cell from the same child. Each dot represents data from a particular SNP location on a chromosome. The assay measures the amount of each of the two possible sequences of nucleotides, or alleles, at each SNP. The plots below show the relative proportion of the two alleles, plotted along the vertical axis, for each of the approximately 20,000 SNPs, arranged sequentially along the vertical axis. The two alleles are arbitrarily labeled A and B, and each dot is colored according to the allelic contribution of the mother&#8212;red (A) or blue (B). Those SNPs where both copies of DNA in the child contain only the A allele are red and are found at the very top of the plot, and those SNPs where both copies of DNA in the child contain only the B allele are blue and are found at the very bottom of the plot. The SNPs where the fetus contains at least one copy of the A allele and one copy of the B allele are found near the center of the plot. The four vertical bars separated by dotted lines display data from chromosomes 13, 18, 21 and X. For chromosomes 13, 18 and X, the middle band is centered on 0.5; which indicates that for those SNPs, the child has one copy of the A allele and one copy of a B allele (and therefore a relative proportion of 0.5), and, therefore, has the right number of chromosomes&#8212;two. In this sample, an additional chromosome is present at chromosome 21, which indicates the presence of trisomy 21. For chromosome 21, the bands centered at 0.33 and 0.66 signal the additional nucleotides contributed by the mother. The band centered at 0.33 represents SNPs where the child has two copies of the B allele and one copy of the A allele, and the band centered at 0.66 represents SNPs where the 
+
+&#160;
+
+child has two copies of the A allele and one copy of the B allele. The assay clearly quantifies the difference between single molecules of a particular allele at each SNP. The images demonstrate our ability to derive actionable information from tiny quantities of DNA, as the data from a single cell in the image on the right is nearly as informative as the data from a large genomic sample in the image on the left. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Our bioinformatics technology complements our molecular technology to deliver a risk assessment with high sensitivity and specificity. We use proprietary statistical techniques to combine the measurements of our molecular assays with our internal databases and the vast and growing sources of publicly available genomic information to build highly detailed models of the genome of interest. This process includes the use of a statistical technique known as maximum likelihood estimation, or MLE, which is widely used in other industries, such as in the conversion of a noisy transmitted analog communications signal to a digital format. However, it is computationally complex to leverage this technique to combine genomic information from the patient's sample and information from the databases of the broader scientific community. We have issued U.S. patents claiming methods to do so and pending applications in the United States and abroad. We also maintain trade secrets on our processes and practices. Our proprietary solution using MLE enables us to continuously improve the performance of our existing tests and efficiently develop new ones. As our patient volumes grow, our internal database of samples with genetic mutations and corresponding clinical outcomes further enhances our ability to interpret the clinical significance of complex genetic mutations. As the genomic data from the scientific community, such as from the Cosmic Database and the Cancer Genome Atlas, becomes richer, we can seamlessly integrate new clinical knowledge into our bioinformatics algorithm, driving further improvement in our tests. 
+
+Panorama 
+
+We launched our Panorama NIPT in 2013 and our microdeletions panel for Panorama in 2014. Panorama demonstrates the capabilities of our technology by employing our fundamentally unique approach of simultaneously measuring thousands of SNPs in a single test reaction to identify genetic variations in fetal DNA with a high degree of specificity and sensitivity. 
+
+Panorama helps physicians assess fetal genetic abnormalities by non-invasive screening for fetal chromosomal abnormalities, including Down syndrome, Edwards syndrome, Patau syndrome, Turner syndrome and triploidy, which often result in intellectual disability, severe organ abnormalities and death of the fetus. Panorama can also identify fetal sex. Panorama is performed on a maternal blood sample, and can be performed as early as nine weeks into a pregnancy, which is significantly earlier than traditional methods, such as serum protein measurement where doctors measure the presence and amount of certain hormones in the blood. Panorama starts with a simple blood draw from the mother, either in a doctor's office, in a laboratory or through a phlebotomist that may travel to the patient. Currently, all samples are then sent to our CLIA-certified laboratory in California. We extract DNA from each sample, amplify the specific SNPs that we 
+
+&#160;
+
+are interested in measuring and then sequence the DNA using NGS. Using our proprietary bioinformatics technology, we analyze the DNA sequences to assess the state of the fetal genome, focusing on the SNP data, while incorporating public information from the Human Genome Project. Our bioinformatics algorithm builds billions of detailed models of the potential genetic state of the sample to determine the most likely diagnosis. After Panorama generates its result, we provide the doctor or the laboratory with a simple report showing the risk that abnormalities are present in the fetus. Approximately 97 % of Panorama results currently are delivered within seven calendar days after we receive the bl ood sample, and approximately 99 % currently are delivered within ten calendar days. &#160; 
+
+The analytic and clinical validity of our technology demonstrated in Panorama and our other products has been described in multiple peer-reviewed publications, including the journals Science, Human Reproduction , Molecular Human Reproduction , Fertility and Sterility , PLOS ONE , Genetics in Medicine , Prenatal Diagnosis , Fetal Diagnosis and Therapy , Obstetrics &#38; Gynecology , Genome Medicine , and American Journal of Obstetrics &#38; Gynecology . Based on data published in Prenatal Diagnosis , Fetal Diagnosis and Therapy and Obstetrics &#38; Gynecology , Panorama demonstrated greater than 99% overall sensitivity for aneuploidies on chromosomes 13, 18 and 21 and triploidy and specificity of greater than 99.9% (less than 0.1% false positive rate) for each disorder, which we believe makes it overall the most accurate NIPT commercially available in the United States. A paper published in the August 2014 issue of Obstetrics &#38; Gynecology reported that Panorama had a statistically significant lower false positive rate than other NIPT methods practiced by our U.S. competitors. Based on data published in Obstetrics &#38; Gynecology , Prenatal Diagnosis , and American Journal of Obstetrics &#38; Gynecology , we have also demonstrated the ability to identify fetal sex more accurately than competing NIPTs. This is partially a result of Panorama's unique ability to detect a vanishing twin, which is a known driver of fetal sex errors with quantitative methods used by our competitors. The October 2014 issue of the American Journal of Obstetrics &#38; Gynecology noted that the ability of Panorama to identify additional fetal haplotypes is expected to result in fewer false positive calls and prevent incorrect fetal sex calls. A recent study reporting on the use of Panorama in over 30,000 women, published in the American Journal of Obstetrics &#38; Gynecology , supported the use of NIPT as a first-line screening test for aneuploidy. 
+
+We believe Panorama's specificity and sensitivity can give patients and their physicians a greater degree of comfort in choosing to forego unnecessary confirmatory invasive procedures, lowering the total cost to the healthcare system of these procedures and limiting the resulting risk of spontaneous miscarriage associated with invasive procedures. 
+
+Our Panorama microdeletions panel screens for five of the most common genetic diseases caused by microdeletions &#8211; 22q11.2 deletion syndrome (Di George syndrome), 1p36 deletion, Angelman syndrome, Cri-du-chat syndrome and Prader-Willi syndrome. Microdeletions are missing sub-chromosomal pieces of DNA, which can have serious health implications depending on the location of the deletion. Based on data published in Prenatal Diagnosis and American Journal of Obstetrics &#38; Gynecology , the combined prevalence of these targeted microdeletions is approximately one in 1,000 pregnancies, which collectively makes them more common than Down syndrome for women younger than approximately 29 years of age. Unlike Down syndrome, where the risk increases with maternal age, the risk of these five microdeletions is independent of maternal age. Diseases caused by microdeletions are often not detected via common screening techniques such as ultrasound or hormone-based screening, yet the presence of a microdeletion can critically impact postnatal treatment. For example, when learning prior to the birth of a newborn with 22q11.2 deletion syndrome, or DiGeorge syndrome, doctors will know to deliver calcium to the infant to avoid seizures and permanent cognitive impairment and will know to avoid administering routine vaccinations due to the immunodeficiency frequently associated with this condition. 
+
+Panorama has demonstrated best-in-class performance screening for microdeletions. In validation studies, Panorama achieved sensitivity greater than 95% for deletions of approximately 2.9Mb for the 22q11.2 deletion syndrome and has been validated to perform at low fetal fractions, which refers to the percentage of fetal, as opposed to maternal, DNA in a maternal plasma sample. Based on data published in the January 2016 issue of Ultrasound in &#160; Obstetrics &#38; Gynecology , Panorama demonstrated a PPV of 18% and false positive rate of 0.38% for 22q11.2 deletion syndrome. The Panorama microdeletions panel has conditional approval from the New York State Department of Health. 
+
+The graph below summarizes the incidence of genetic diseases for which prenatal screening is relatively common, as well as the incidence of genetic diseases caused by microdeletions that are screened by the Panorama microdeletions 
+
+&#160;
+
+panel. Incidence rates are higher than that of many commonly tested disorders, such as cystic fibrosis and spinal muscular atrophy. We estimate that triploidy and the aneuploidy and microdeletion conditions that we screen for combined are more than three times as prevalent in the general population as the three most common autosomal aneuploidies, trisomies 13 (Patau syndrome), 18 (Edwards syndrome), and 21 (Down syndrome), alone. 
+
+&#160;
+
+The graph below demonstrates how the relative incidence of Down syndrome and genetic diseases caused by the microdeletions screened for by the Panorama microdeletions panel varies with maternal age. 
+
+Because the microdeletions that we screen for are more common at birth than fetal aneuploidies for children born to younger women, and based on the performance of Panorama on microdeletions, we believe our microdeletions testing capability will be a significant driver of Panorama adoption in all risk categories, including those who are traditionally considered average-risk. We intend to continue to work closely with physicians, medical societies, payers, patient advocacy groups such as the International 22q11.2 Deletion Syndrome Foundation, Inc., and our laboratory partners to demonstrate that Panorama's sensitivity and specificity across a range of chromosomal abnormalities and superior false positive rates, coupled with disease coverage for conditions in which prevalence does not vary with maternal age, represent a compelling case for broad adoption in the average-risk population. 
+
+In 2015, we implemented various updates to both the molecular and bioinformatics portions of Panorama, which reduced the cost of running Panorama and further improved its performance. Our updates increased the sensitivity of the test, allowing it to run with lower fetal fraction input and therefore requiring less frequent redraws. We were also able to decrease the redraw rate independent of the presence of a paternal sample from a cheek, or buccal, swab, which we expect will result in improved ease of use for clinics as well as lower redraw rates, while maintaining the same overall sensitivity and specificity of the test. In validation studies, the new process demonstrated overall specificity of 100% and sensitivity of 99.5%, including sensitivity of 99.4% for Down syndrome and 100% for Edwards, Patau and Turner's syndromes and triploidy. In addition, validation data of the new methods supports the conclusion that these improvements will meaningfully improve the ability of Panorama to achieve a reportable result despite low fetal fraction. 
+
+Panorama's commercial performance has been consistent with our initial validation data. Data published in the American Journal of Obstetrics &#38; Gynecology on 28,739 commercial cases of Panorama that were screened for trisomy 
+
+&#160;
+
+21, trisomy 18, trisomy 13 and monosomy X demonstrated per indication sensitivities between 97.3% and 100%, and specificities of greater than 99.9%, for all indications. We believe Panorama's performance in commercial practice represents a significant improvement over first-generation NIPTs that rely on quantitative methods. Because Panorama does not require a reference chromosome, it is uniquely able to detect triploidy as well as full molar pregnancies. Panorama&#8217;s ability to differentiate between maternal and fetal DNA also allows Panorama to identify the presence of a vanishing twin, as well as maternal abnormalities, which have been shown in multiple studies to lead to false positives when using quantitative methods, particularly in the sex chromosomes where maternal abnormalities are common. 
+
+Panorama has demonstrated substantial commercial success to date. We believe our test performance has allowed us to command a price premium compared to low-cost NIPTs while continuing to maintain growth in volume and revenue from Panorama. 
+
+Our Other Products 
+
+The following table summarizes our other products launched to date. 
+
+&#160; 
+
+Product 
+
+&#160; 
+
+Indication(s) 
+
+&#160; 
+
+Year Launched 
+
+&#160; 
+
+Description 
+
+Constellation Software 
+
+&#160; 
+
+Clinical or research applications that involve analysis of CNVs and SNVs in a DNA mixture 
+
+&#160; 
+
+&#160; 
+
+Allows laboratory customers to gain access through the cloud to the same algorithms and bioinformatics that we use in our own laboratory, allowing for validation and commercialization of tests based on our technology, including NIPT. 
+
+Horizon Carrier Screen (CS) 
+
+&#160; 
+
+Up to 274 conditions, including: Cystic fibrosis Spinal muscular atrophy Fragile X syndrome 
+
+Duchenne Muscular Dystrophy 
+
+&#160; 
+
+&#160; 
+
+CS test performed either before or during pregnancy for a large number of serious genetic disorders that could be passed on to the carrier's children. 
+
+Non-Invasive Prenatal Paternity Test 
+
+&#160; 
+
+Paternity 
+
+&#160; 
+
+&#160; 
+
+Reliably indicates paternity as early as nine weeks gestation. 
+
+Anora Products of Conception Test (POC) 
+
+&#160; 
+
+Post-miscarriage testing 
+
+&#160; 
+
+&#160; 
+
+POC test developed specifically to identify fetal chromosomal causes of miscarriages using a SNP microarray. 
+
+Spectrum Preimplantation Genetic Diagnosis (PGD) and Spectrum Pre-implantation Genetic Screening (PGS) 
+
+&#160; 
+
+Inherited diseases (PGD) 
+
+Extra or missing chromosomes and segmental deletions or duplications (PGS) 
+
+&#160; 
+
+2010 (PGD) 
+
+2009 (PGS) 
+
+&#160; 
+
+Spectrum PGD tests for specific genetic disease(s) that the couple is known to be at risk to pass on to their children. Spectrum PGS can inform clinicians and patients which IVF-created embryo samples have the correct number of chromosomes and are suitable for transfer. 
+
+&#160; 
+
+&#160;
+
+Horizon 
+
+Horizon helps couples determine if they are carriers of genetic mutations that cause specific diseases. If the mutation is passed to a child, it could result in a child affected with the disease. Horizon screens for up to 274 inherited diseases, including cystic fibrosis, Duchenne Muscular Dystrophy, spinal muscular atrophy, Fragile X syndrome and other conditions. Horizon was created based on recommended screening guidelines from the American Congress of Obstetricians and Gynecologists, or ACOG, the American College of Medical Genetics and Genomics, or ACMG, and the Victor Center for the Prevention of Jewish Genetic Diseases. Horizon can be performed simultaneously with Panorama, using the same blood draw, to complement the utility of our NIPT offering for patients. Horizon employs next generation sequencing to analyze the DNA from the individual&#8217;s blood or saliva sample to determine if the individual is a carrier for the genetic disease in question. Horizon test results are generally returned in ten to 14 business days from the day we receive the sample, depending on the individual subtests ordered. 
+
+Constellation 
+
+Our Constellation software forms the core of our cloud-based distribution model. Through this model, we have been able to expand access to our molecular and bioinformatics capabilities worldwide, enabling laboratories, under a license from us, to run the molecular workflows themselves and then access our computation-intensive bioinformatics algorithms through Constellation, which runs in the cloud, to analyze the results. As of February 29, 2016, four licensees have commercialized products through our Constellation platform, including three in NIPT and one in prenatal paternity testing. We have licensing contracts with various other laboratories, in the United States and internationally, who are developing products in both NIPT and oncology. We are in active discussions with many other potential licensees in the United States and abroad to continue to grow our cloud-based distribution network, which we believe will further enhance adoption of our tests among laboratory licensees globally. We also leverage Constellation to more efficiently perform our internal commercial laboratory activities and to perform research and development of our products. 
+
+In July 2014, we achieved a CE Mark from the European Commission for our Constellation software. In May 2015, we achieved a CE Mark for the key reagent s that our laboratory licensees need to run their portion of the Panorama test prior to accessing our algorithms through Constellation. These combined CE Marks enable us to offer Constellation for Panorama NIPT in the European Union and other countries that accept a CE Mark. We are pursuing other regulatory approvals, as needed, to allow the international roll out of Constellation in regions that do not accept a CE Mark. 
+
+We believe that our cloud-based distribution model provides us with a competitive advantage by allowing us to: 
+
+&#183; 
+
+Improve patient experience. By eliminating the need to ship samples to our CLIA laboratory in California, patients benefit from faster turnaround times and lower costs. 
+
+&#160; 
+
+&#183; 
+
+Drive higher rates of reimbursement for our laboratory licensees. We believe that our cloud-based distribution model allows many international laboratory licensees and their patients to achieve improved reimbursement from health insurance plans, as many state-administered and private payers in international markets require that the sample remain within national borders as a condition for reimbursement. 
+
+&#160; 
+
+&#183; 
+
+Accelerate international adoption by leveraging our licensees ' existing capabilities. Our laboratory licensees are able to offer tests under their existing laboratory certifications as required by local regulators, leverage their local infrastructure for sample collection, and deploy local marketing capabilities to further increase test volumes. 
+
+&#160; 
+
+&#183; 
+
+Efficiently achieve scale. The cloud-based distribution model allows us to leverage rapidly expanding sequencing capacity around the world to drive volumes faster than would be possible from the expansion of our own CLIA-certified laboratory capacity, and enables our laboratory licensees to drive volumes without significant incremental expenditures on information technology. 
+
+&#160; 
+
+&#183; 
+
+Reduce costs. As test volumes increase, the costs of shipping samples, particularly internationally, and labor 
+
+&#160;
+
+costs in our CLIA-certified laboratory in California increasingly become the largest cost components. Our cloud-based distribution model eliminates these costs, expanding the margin opportunity for us and our laboratory licensees and better enabling our tests to withstand pricing pressure. 
+
+&#160; 
+
+&#183; 
+
+Efficiently deliver innovations to our laboratory licensees . The cloud-based distribution model positions us to efficiently offer enhancements we make to our algorithms, test menu, and any new products we commercialize to the network of laboratory licensees that are already utilizing our Constellation platform. 
+
+Other products 
+
+Our PGS and PGD tests, which we market under the Spectrum brand, are for couples undergoing IVF. Our PGS test screens embryos for chromosomal abnormalities prior to transfer of embryos created through IVF procedures, which have a high rate of non-viable chromosomal abnormalities. This allows IVF physicians to select and transfer embryos with normal chromosome results and, combined with single embryo transfer, greatly increases the rate of implantation and pregnancy, reduces the risks of a multiple pregnancy and may reduce the need for costly multiple IVF cycles. Our PGD test screens embryos for couples who are concerned about passing on a specific genetic defect to their child. 
+
+Anora is our POC product, which tests miscarriage tissue in women who have experienced one or more miscarriages to determine whether there was an underlying genetic reason for the miscarriage(s). Anora helps couples understand their future options, the likelihood of another miscarriage and whether there are any steps that may help them avoid a miscarriage in future pregnancies. 
+
+Our non-invasive prenatal paternity product allows a couple to safely establish paternity without waiting for the child to be born. Testing can be done as early as nine weeks in gestation using a blood draw from the pregnant mother and alleged father. Our internal data indicates that the accuracy of this test is greater than 99.99%. We have licensed this technology to a third party to perform the test in its clinical laboratory. 
+
+Direct Sales Force and Global Distribution Network 
+
+Through our direct sales efforts and worldwide network of approximately 70 laboratory and distribution partners , we have established a broad distribution channel. Our own direct sales force and managed care teams, which include over 140 genetics-focused sales representatives, anchor our commercial engagement with physicians, laboratory partners, and payers, and sell directly to MFM, OB/GYN, physician or physician practice, IVF center, or integrated health system. In the NIPT market, Panorama is typically ordered for a patient by an MFM or OB/GYN. There are over 37,000 OB/GYNs in the United States and most of them practice generalist medicine for women's health. They typically only assist women with average risk pregnancies and will refer women with high risk pregnancies to one of the more than 2,000 MFMs in the United States . We believe that Panorama will continue to be adopted by physicians for broader use in average risk pregnancies, and therefore anticipate that an increasing share of Panorama orders in the future will be attributed to OB/GYNs. 
+
+Where our sales force can access physician offices directly, as in the U.S. market, we are able to maximize cross-selling opportunities by offering the full portfolio of our products. For example, we are promoting the use of Panorama NIPT, our Panorama microdeletions panel, and Horizon together for pregnant women who have not had a CS test at the time they are ready to have an NIPT performed. These tests can all be run using one blood draw from the mother and can be ordered on one requisition form and with one shipment of the patient&#8217;s sample s by the physician. Also, because of the importance and demand for screening for 22q11.2 deletion syndrome, we have included that feature as part of our basic Panorama panel, unless the patient or physician ordering the test opts out of the 22q11.2 deletion syndrome screen. In the year ended December 31, 2015, approximately 80 % of customers who ordered the basic Panorama panel directly from us also ordered screening for 22q11.2 deletion syndrome or the full microdeletions panel. 
+
+As our direct sales force has gained experience selling under the Natera name, we have developed our own strong relationships, and we have been increasing the number of our in-network contracts with payers. We also generate a higher 
+
+&#160;
+
+gross margin when we sell testing services directly, compared to when our products are distributed by laboratory partners to be performed at our laboratory certified under CLIA . The percentage of our revenues generated through the higher margin U.S. direct sales force channel increased to approximately 77% in 2015, from approximately 59% in 2014 and approximately 45% in 2013 . 
+
+In addition to our sales force, we market to physicians through clinical journals, educational webinars, conferences, tradeshows and e-mail marketing campaigns. While we do not sell directly to patients, we do engage in brand awareness campaigns directed at patients to highlight our products. Our marketing and medical science liaison team works extensively with key opinion leaders in the prenatal genetic testing field. We also dedicate resources to assist our laboratory partner network in marketing Panorama and our other products by conducting joint events, joint advertising and developing joint tools with our partner network. 
+
+We generate the highest gross margins on royalty revenue collected from laboratories that run tests in their own facilities and have the sequencing data analyzed by our Constellation software under our cloud-based distribution model. As of February 29, 2016, four signed licensees have commercialized products using our Constellation platform. We have licensing contracts with ten other laboratory licensees, both in the United States and internationally, to develop their own NIPT LDTs and access our algorithm through our Constellation platform. 
+
+Our partners' capabilities augment our direct sales capabilities, and where we have identified laboratory or distribution partners who share our focus on premium quality and service, we also contract with them to distribute our tests. We have partnered with leading academic and commercial laboratories in the United States to capitalize on their relationships with MFMs and OB/GYNs, large distribution capabilities, and commercial infrastructure. These customers also frequently have in-network contracts with key third party payers. We and our laboratory partners have in-network contracts with insurance providers that account for over 160 million covered lives in the United States. Our target market for NIPT is a much smaller subset of these covered lives, because it excludes men, children and post-menopausal women who would not be users of the majority of our products. Outside of the United States, where our products are sold in over 60 countries, we currently sell predominantly through partner laboratories. 
+
+Our Development Pipeline in Oncology Diagnostics 
+
+We believe that our ability to interrogate genes at tens of thousands of loci in parallel in a single reaction at the scale of a single molecule is well suited to the analysis of cancer-associated genetic mutations in circulating tumor DNA, or ctDNA. In applications such as cancer therapy monitoring, cancer recurrence monitoring and early detection screening, thousands of loci must be interrogated simultaneously without splitting a sample, and sensitivity to tiny amounts of tumor DNA as low as a single molecule is crucial. We are developing a set of mmPCR panels to analyze ctDNA in plasma and identify SNVs as well as CNVs. If development is successful, we expect to be able to commercialize non-invasive oncology diagnostic products designed to guide therapy selection, measure cancer recurrence and disease load monitoring, and screen for cancer in high-risk populations. We are initially focused on these indications in lung, ovarian, and breast cancer. These are disease areas in which we believe our performance in the detection of CNVs, SNVs, and gene fusions will allow us to achieve a competitive advantage. &#160; For the development of these products, we are working with world-renowned oncology centers, such as Stanford University, Columbia University, Vanderbilt University and Cancer Research UK, on research collaborations and clinical trials. 
+
+We have demonstrated that our mmPCR platform can provide highly accurate detection of CNVs and SNVs in the plasma from patients with cancer. In a study published in the October 2015 issue of Translational Oncology , our mmPCR platform demonstrated the ability to detect CNVs in plasma with DNA concentrations of under 1%, compared to other sequencing methods which require DNA concentrations of at least 4%, for samples with a single deletion or duplication event in a given loci. Our ability to simultaneously detect both CNVs and SNVs in ctDNA at very low concentrations in standard plasma samples drives our potential opportunity in the oncology diagnostics space. In particular, because lung, ovarian and breast cancer are largely driven by CNVs, we believe that our ability to detect CNVs at low ctDNA levels will be well-suited for early detection, recurrence monitoring and therapy selection for these cancers. 
+
+&#160;
+
+In preliminary experiments, using a non-optimized assay and mmPCR panel, we were able to detect SNV and/or CNV cancer signatures in the blood of: 92% of patients with cancerous lung nodules from stage IA through stage IIIA, 15 out of 17 of which were detected at stage I; 83% of patients with breast cancer tumors from stage I through stage III, 28 out of 35 of which were detected at stage I or II; and 100% of ovarian tumors at stage III. These results were achieved in all cases by analyzing only five regions for CNVs and, in the case of lung and breast cancer, a panel of SNVs developed from publicly available data such as the Cosmic database. Because the tumors had been previously identified in these patients, we used an approach to detect CNVs that would be used in the context of recurrence monitoring. 
+
+Our mmPCR technology was selected for use in Cancer Research UK/University College London's TRACERx clinical trial for the multi-year monitoring of patient-specific SNVs in plasma, to understand the evolution of cancer mutations over time, and to monitor patients for disease recurrence. A pilot study using blood samples collected in the TRACERx trial was published in Annals of Oncology in January 2016. In this study, we demonstrated that our multiplexed PCR technology, coupled with our proprietary algorithms, can detect both ubiquitous (clonal) and heterogeneous (subclonal) tumor mutation variants in blood samples from patients with early-stage non-small-cell lung cancer. Of 37 variants found in tumor tissue biopsies from four patients with Stage I and II lung cancer, our technology detected 16 variants in the blood samples, with at least two detected for each patient. Twenty-five percent of the variants we detected in the blood samples were heterogeneous, meaning that they occurred in only part of a tumor. Ninety-four percent of the variants detected in the blood samples were predicted driver mutations, meaning that they were likely to promote tumor growth. Analysis of cell-free DNA circulating in plasma may detect variants that, due to the heterogeneous nature of tumors, may not be detected by tissue biopsy. Detection of such variants may help physicians decide which cancer therapies are most appropriate for a specific patient. 
+
+We anticipate that we will initially commercialize these tests as LDTs in our own CLIA laboratories ; we also plan to offer these tests as IVDs through our Constellation platform. Beyond the products we develop ourselves, in order to access the many opportunities in oncology, we plan to offer our automated mmPCR design tool as a service to researchers and CLIA-certified laboratories, allowing them to design their own oncology diagnostics assays and perform their own studies using our Constellation cloud software. To guide prognosis, predict relapse and assist in therapeutic decision-making, we plan to develop a panel which will include known recurrent alterations that, when identified in blood at low levels, may indicate a residual presence of cancer that can remain in the patient after treatment and during remission. The panel would be used to detect variants from the initial tumor's molecular signature in low levels of ctDNA in blood prior to the appearance of clinical symptoms in order to assist in guiding earlier decisions regarding clinical management. 
+
+Other Future Applications of our Technology 
+
+We intend to refine and expand our offering in prenatal diagnostics by leveraging our core technology and the data we gather as our sample volumes grow. For example, the microdeletion samples that we gather through Panorama NIPT or through Anora POC testing help us to refine the algorithms that detect these anomalies, determine the exact genetic regions where these anomalies are sought, and increase the PPV with which they are reported. We have substantial intellectual property covering the analysis of single cells, an approach we use to analyze embryos during in vitro fertilization, or IVF, for our Spectrum products. We believe that our technology may allow us to capitalize on future advances in isolating fetal cells from a mother's blood, which could allow us to measure more of the fetal genome non-invasively and with even higher accuracy, which would enable us to potentially replace invasive confirmatory procedures, such as amniocentesis, over time. 
+
+We believe that, in the future, our informatics technology may have the ability to generate a nearly full genome of an individual, roughly nine weeks after the individual is conceived. Publications in Genome Medicine, &#160; Science and PLoS Genetics highlight the ability of our informatics technology to determine, from tiny amounts of DNA as small as single fetal cells, which chromosome segments from the parent contributed to the DNA of the fetus, and hence to substantially reconstruct the genome of the fetus using only a tiny amount of fetal DNA. This enhanced view of the near full genome, combined with knowledge of the parent DNA, has the potential to substantially impact the management of many aspects of an individual's health, from birth through adulthood. Future applications of such an offering may include prediction of disease susceptibilities and appropriate interventions, selection of drugs and drug dosages, nutrition guidance and many other emerging applications. 
+
+&#160;
+
+We have developed an automated tool for assay design that meaningfully streamlines our development process. When developing new diagnostic tests, we simply specify the genomic variations and regions we are interested in investigating, and our tool generates the precise mix of necessary primer designs to obtain an accurate measurement. 
+
+We also intend to provide custom services for pharmaceutical and research entities for targeted assay design and bioinformatics interpretation, in oncology as well as in other areas. Custom panels may be designed for regions of interest in various research applications such as variant discovery and mechanism of action studies, among others, and clinical applications in diagnostics and therapeutics. Some areas that we believe other researchers and laboratories may be interested in applying this technology are: cancer detection in liquid, e.g. bladder cancer, forensic identity analysis in mixtures for law enforcement, organ transplant rejection monitoring, agricultural sample screening for patented lines, prenatal relationship testing for veterinary breeding and cell line purity testing for cell repositories. 
+
+Enhanced User Experience 
+
+Natera Digital Services 
+
+We have implemented various digital services designed to enhance patient and provider experience. We recently launched our patient portal as a one-stop resource for patients to access information and services throughout their experience with our products, from pre-test to post-test. After logging on to the patient portal, patients are able to easily access information about our tests and services, order tests, track their status and access results, and pay their bill. 
+
+Natera Connect is our physician portal, which enables physicians to easily complete various tasks online including ordering tests, tracking the status of a patient's test, reviewing patient results online, sharing results with patients, connecting with genetic counselors, ordering supplies and educational materials, and offering live chat support. We also provide a service to integrate with our customers' Electronic Medical Records (&#8220;EMR&#8221;) systems to provide physicians a seamless experience of ordering tests and reviewing patient test results directly through their EMR systems. 
+
+Access to Genetic Counselors 
+
+After receiving a report with results from any of our products, doctors have access by phone to our team of genetic counselors should they have any questions or require any guidance in interpreting the results. Patients themselves may contact our genetic counselors by phone, with direct access provided to all patients who are tested with Spectrum or Anora and patients who have a high risk result for a genetic disease based on the Horizon screening or for a microdeletion syndrome based on the Panorama screening. 
+
+Phlebotomy Services 
+
+We have engaged over 2,000 phlebotomy centers in the United States. We also offer mobile phlebotomy services whereby a patient can request and schedule a phlebotomist visit at the patient&#8217;s home or office. 
+
+Publications, Presentations and On-Going Clinical Trials 
+
+Our products, their performance and scientific breakthroughs made possible by our technology have been the subject of peer-reviewed articles in the following journals: American Journal of Obstetrics &#38; Gynecology , Ultrasound in Obstetrics and Gynecology , Obstetrics &#38; Gynecology , PLOS ONE , Fetal Diagnosis and Therapy , &#160; Prenatal Diagnosis , Fertility and Sterility Science , Genome Medicine, Molecular Human Reproduction , &#160; Human Reproduction , Journal of Clinical Embryology , and Genetics in Medicine . In addition, our technology and products have been featured in over 80 abstracts that have been presented at major medical and industry conferences since 2008. We continue to validate the efficacy of our tests in on-going clinical trials. 
+
+Additionally, we have completed our DNAFirst study, which was run through Women and Infants Hospital in Rhode Island. DNAFirst was a clinical utility trial to assess how NIPT can best be integrated into clinical practice for 
+
+&#160;
+
+screening in the general population, including average-risk pregnancies. As part of this trial, we ran the Panorama test on over 2,600 pregnant women in Rhode Island. We have analyzed the data and expect to report the results in a future publication. 
+
+We are currently enrolling patients in the SNP-based Microdeletions and Aneuploidy RegisTry (SMART) study. In this registry study, we expect to collect postnatal DNA and clinical outcomes for 10,000 pregnancies that underwent prenatal testing for whole chromosome aneuploidy and microdeletions with Panorama. We are also collecting perinatal data from all patients and follow-up genetic samples from all participants found to be at high risk either through NIPT or other means. This would allow follow-up and additional analysis of potential correlation between fetal fraction and placental complications. 
+
+In addition to our clinical trials, we actively collect and record follow-up data from our patients who receive invasive testing after receiving Panorama. We continue to monitor the accuracy of our tests and expect to report this follow-up data in future publications. 
+
+Key Relationships 
+
+We are party to a supply agreement with Illumina, Inc. for the supply of Illumina genetic sequencing instruments and reagents. During the term of the supply agreement, which expires in September 2017, Illumina has agreed to supply us with sequencers, reagents and other consumables for use with the Illumina sequencers, and we must provide a forecast, on a monthly basis, detailing our needs for certain of the Illumina products. The first four calendar months of each forecast are binding and the fourth month can vary by only up to 25% more or less than what was forecasted for that month in the prior month's forecast. In addition, during each calendar quarter, we must spend a minimum amount on reagents under this agreement. We and Illumina have agreed on prices for the sequencers and reagents, for which we are entitled to certain discounts based on total spend and other factors. In addition, we must pay a fee to Illumina for each clinical NIPT test that we perform using Illumina reagents. Illumina is currently the sole supplier of our sequencers and related reagents for Panorama, along with certain hardware and software; we are not bound to use exclusively Illumina's sequencing instruments and reagents for conducting our sequencing, but if we do use other sequencing instruments and reagents for clinical use, we will no longer be entitled to discounts from Illumina. Illumina may terminate the agreement: if we materially breach the agreement and fail to cure such breach within 30 days after receiving written notice of such breach, and only after complying with additional notice provisions; if we become the subject of certain bankruptcy or insolvency proceedings or in connection with certain changes of control of Natera. We may terminate the agreement: if Illumina materially breaches the agreement and fails to cure such breach within 30 days after receiving written notice of such breach, and only after complying with additional notice provisions; if Illumina becomes the subject of certain bankruptcy or insolvency proceedings; in connection with certain supply failures by Illumina or for convenience with four months written notice. The agreement also contains use limitations, representations and warranties, indemnification, limitations of liability and other provisions. 
+
+Competition 
+
+We compete with numerous companies that have developed and market NIPTs, including Sequenom, Inc., Illumina, Inc., through its Verinata division, Ariosa, Inc., which was acquired by F. Hoffman La-Roche Ltd, Laboratory Corporation of America Holdings, Counsyl, Inc., Quest Diagnostics Incorporated, Premaitha Health PLC, Beijing Genomics Institute, and Berry Genomics Co., Ltd. We expect additional competition as other established and emerging companies enter the prenatal testing market, including through business combinations, and new tests and technologies are introduced. These competitors could have greater technological, financial, reputational and market access resources than us. 
+
+We also compete against companies providing carrier screening tests such as Laboratory Corporation of America Holdings, Counsyl, Inc., Good Start Genetics, Inc., Progenity, Inc., Recombine, LLC, and Quest Diagnostics Incorporated. Each of these companies offers comprehensive CS panels. 
+
+&#160;
+
+Our future products, such as products in the field of cancer, will face competition from various companies that offer or seek to offer competing solutions. For example, Guardant Health, Inc. and Personal Genome Diagnostics, Inc., have each developed and are offering liquid biopsy tests commercially in the United States. Additionally, Foundation Medicine, Inc. has announced plans to launch a liquid biopsy test in the first quarter of this year , and Genomic Health Inc. has announced plans to launch i ts liquid biopsy test this year . 
+
+We believe the principal competitive factors in our market include the following: 
+
+&#183; 
+
+test performance, as demonstrated in clinical trials; 
+
+&#160; 
+
+&#183; 
+
+comprehensiveness of coverage of diseases and ability to conveniently test for multiple conditions; 
+
+&#160; 
+
+&#183; 
+
+value of product offerings, including pricing and impact on other healthcare spending; 
+
+&#160; 
+
+&#183; 
+
+scope of reimbursement and payer coverage; 
+
+&#160; 
+
+&#183; 
+
+effectiveness of sales and marketing efforts; 
+
+&#160; 
+
+&#183; 
+
+breadth of distribution of products and partnership base; 
+
+&#160; 
+
+&#183; 
+
+development and introduction of new, innovative products; 
+
+&#160; 
+
+&#183; 
+
+operational execution, including test turn-around time and test failures; 
+
+&#160; 
+
+&#183; 
+
+key opinion leader support; 
+
+&#160; 
+
+&#183; 
+
+brand awareness; and 
+
+&#160; 
+
+&#183; 
+
+ease of integration for laboratories, including for cloud-based distribution models. 
+
+Specific market share data regarding our products is not publicly available, and consumers may choose to use competing products for a variety of reasons, including lower cost. We believe, however, that we compete favorably in the market on the basis of several factors, particularly test performance, comprehensiveness of coverage of diseases, ability to conveniently test for multiple conditions, value of product offerings and effectiveness of sales and marketing efforts. 
+
+Research and Development 
+
+We were founded on the belief that serious unmet needs in healthcare could be addressed by combining traditional molecular diagnostics with robust statistical techniques, and this belief is the basis of our research and development efforts. We focus our research and development efforts on conceiving and delivering disruptive technologies to genetic testing. We have invested, and continue to invest, significant time and resources toward improving and expanding our core technologies and tests. Our proprietary automated tool for assay design meaningfully streamlines our development process. Research and development expenses were $27.7 million, $17.3 million and $11.6 million for 2015, 2014 and 2013, respectively. &#160; 
+
+Intellectual Property 
+
+Our success and ability to compete depend in part on securing and preserving enforceable patent, trade secret, trademark and other intellectual property rights; operating without having competitors infringe, misappropriate or otherwise circumvent these rights; operating without infringing the proprietary rights of others; and obtaining and maintaining licenses for technology development and/or product commercialization. As of December 31, 2015, we held ten issued U.S. patents and over 100 pending U.S. and foreign patent applications. Our patents and patent applications 
+
+&#160;
+
+relate generally to molecular diagnostics, and more specifically to biochemical and analytical techniques for obtaining and analyzing genetic information to detect genetic abnormalities in relatively small complex samples, such as circulating fetal or tumor DNA. We intend to seek patent protection as we develop new technologies and products in this area. 
+
+In the past, parties have filed, and in the future parties may file, claims asserting that our technologies or products infringe on their intellectual property. We currently face a lawsuit from a competitor asserting patent infringement, as described in "Risk Factors" and in "Legal Proceedings." We cannot predict whether other parties will assert such claims against us, or whether those claims will harm our business. The field of non-invasive prenatal genetic diagnostics is complex and rapidly evolving, and we expect that we and others in our industry will continue to be subject to third-party infringement claims. 
+
+Government Regulations 
+
+Our business is subject to and impacted by extensive and frequently changing laws and regulations in the United States (at both the federal and state levels) and internationally. These laws and regulations include regulations particular to our business and laws and regulations relating to conducting business generally (e.g., export controls laws, U.S. Foreign Corrupt Practices Act and similar laws of other jurisdictions). We also are subject to inspections and audits by governmental agencies. Set forth below are highlights of the key regulatory schemes applicable to our business. 
+
+Clinical Laboratory Improvement Amendments of 1988 and State Regulation 
+
+As a clinical laboratory, we are required to hold certain federal and state licenses, certifications and permits to conduct our business. As to federal certifications, in 1988, Congress passed the Clinical Laboratory Improvement Amendments of 1988, or CLIA, establishing more rigorous quality standards for all laboratories that perform testing on human specimens for the purpose of providing information for the diagnosis, prevention, or treatment of disease. CLIA requires such laboratories to be certified by the federal government and mandates compliance with various operational, personnel, facilities administration, quality and proficiency testing requirements intended to ensure the accuracy, reliability and timeliness of patient test results. CLIA certification is also a prerequisite to be eligible to bill state and federal healthcare programs, as well as many commercial third-party payers, for laboratory testing services. Our laboratory located in San Carlos, California is CLIA certified. Our laboratory must comply with all applicable CLIA requirements. 
+
+CLIA provides that a state may adopt laboratory regulations that are more stringent than those under federal law, and a number of states have implemented their own more stringent laboratory regulatory requirements. State laws may require that laboratory personnel meet certain qualifications, specify certain quality control procedures or facility requirements, or prescribe record maintenance requirements. We are required to meet certain laboratory licensing requirements for those states in which we sell products who have adopted regulations beyond CLIA. For more information on state licensing requirements, see "&#8212;California Laboratory Licensing" and "&#8212;New York Laboratory Licensing." 
+
+Our laboratory has also been accredited by the College of American Pathologists, or CAP, which means that our laboratory has been certified as following CAP guidelines in operating the laboratory and in performing tests that ensure the quality of our results. 
+
+FDA 
+
+In the United States, medical devices are subject to extensive regulation by the Food and Drug Administration, or FDA, under the FDC Act and its implementing regulations, and other federal and state statutes and regulations. The laws and regulations govern, among other things, medical device development, testing, labeling, storage, premarket clearance or approval, advertising and promotion and product sales and distribution. To be commercially distributed in the United States, medical devices must receive from the FDA prior to marketing, unless subject to an exemption, either clearance of a premarket notification, or 510(k), or premarket approval, or a PMA. 
+
+&#160;
+
+IVDs are a type of medical device that can be used in the diagnosis or detection of diseases, conditions or infections, including, without limitation, the presence of certain chemicals, genetic information or other biomarkers. Predictive, prognostic and screening tests, such as carrier screening tests, can also be IVDs. A subset of IVDs are known as analyte specific reagents, or ASRs. ASRs consist of single reagents, and are intended for use in a diagnostic application for the identification and quantification of an individual chemical substance in biological specimens. ASRs are medical devices, but most are exempt from the 510(k) and PMA premarket review processes. As medical devices, ASRs have to comply with some quality system regulation, or QSR, provisions and other device requirements. 
+
+The FDC Act classifies medical devices into one of three categories based on the risks associated with the device and the level of control necessary to provide reasonable assurance of safety and effectiveness. Class I devices are deemed to be low risk and are subject to the fewest regulatory controls. Many Class I devices are exempt from FDA premarket review requirements. Class II devices, including some software products to the extent that they qualify as a device, are deemed to be moderate risk, and generally require clearance through the premarket notification, or 510(k) clearance, process. Class III devices are generally the highest risk devices and are subject to the highest level of regulatory control to provide reasonable assurance of the device's safety and effectiveness. Class III devices typically require a PMA by the FDA before they are marketed. A clinical trial is almost always required to support a PMA application and is sometimes required for 510(k) clearance. All clinical studies of investigational devices must be conducted in compliance with any applicable FDA and Institutional Review Board requirements. Devices that are exempt from FDA premarket review requirements must nonetheless comply with post-market general controls as described below, unless the FDA has chosen to exercise enforcement discretion and not regulate them. 
+
+510(k) clearance pathway. To obtain 510(k) clearance, a manufacturer must submit a premarket notification demonstrating to the FDA's satisfaction that the proposed device is substantially equivalent to a previously 510(k)-cleared device or a device that was in commercial distribution before May 28, 1976 for which the FDA has not yet called for submission of PMA applications. The previously cleared device is known as a predicate. The FDA's 510(k) clearance pathway usually takes from three to 12 months, but it can take longer, particularly for a novel type of product. 
+
+PMA pathway. The PMA pathway requires proof of the safety and effectiveness of the device to the FDA's satisfaction. The PMA pathway is costly, lengthy, and uncertain. A PMA application must provide extensive preclinical and clinical trial data as well as information about the device and its components regarding, among other things, device design, manufacturing, and labeling. As part of its PMA review process, the FDA will typically inspect the manufacturer's facilities for compliance with QSR requirements, which impose elaborate testing, control, documentation, and other quality assurance procedures. The PMA review process typically takes one to three years but can take longer. 
+
+Post-market general controls. After a device, including a device exempt from FDA premarket review, is placed on the market, numerous regulatory requirements apply. These include: the QSR, labeling regulations, registration and listing, the Medical Device Reporting regulation (which requires that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur), and the Reports of Corrections and Removals regulation (which requires manufacturers to report recalls and field actions to the FDA if initiated to reduce a risk to health posed by the device or to remedy a violation of the FDC Act). 
+
+The FDA enforces these requirements by inspection and market surveillance. If the FDA finds a violation, it can institute a wide variety of enforcement actions, ranging from an untitled or public warning letter to more severe sanctions such as fines, injunctions, and civil penalties; recall or seizure of products; operating restrictions, partial suspension or total shutdown of production; refusing requests for 510(k) clearance or PMA of new products; withdrawing 510(k) clearance or PMAs already granted; and criminal prosecution. For additional information, see "Risk Factors&#8212;Reimbursement and Regulatory Risks Related to Our Business." 
+
+Research use only. Research use only, or RUO, products belong to a separate regulatory classification under a long-standing FDA regulation. RUO products are not regulated as medical devices and are therefore not subject to the regulatory requirements discussed above. The products must bear the statement: "For Research Use Only. Not for Use in Diagnostic Procedures." RUO products cannot make any claims related to safety, effectiveness or diagnostic utility, and 
+
+&#160;
+
+they cannot be intended for human clinical diagnostic use. A product labeled RUO but intended to be used diagnostically may be viewed by the FDA as adulterated and misbranded under the FDC Act and is subject to FDA enforcement activities, including requiring the supplier to seek clearance or approval for the products. Our LDT uses instruments and reagents labeled as RUO. 
+
+Laboratory-developed tests. LDTs have generally been considered to be tests that are designed, developed, validated and used within a single laboratory. The FDA has historically exercised enforcement discretion and has not required clearance or approval of LDTs prior to marketing; however, the FDA has recently indicated through draft guidance that it intends to cease enforcement discretion, which could lead to the FDA requiring pre-market clearance or approval of our tests. 
+
+On October 3, 2014, the FDA issued two draft guidance documents regarding oversight of LDTs. The draft guidance documents are titled "Framework for Regulatory Oversight of LDTs", which we refer to as "the Framework Guidance," and "FDA Notification and Medical Device Reporting for" LDTs, which we refer to as the "Notification Guidance." According to the Framework Guidance, the FDA plans to take a risk-based approach to regulating LDTs. According to the draft guidances, all labs with LDTs&#8212;except for those only performing forensic testing or certain LDTs for transplantation&#8212;would need to comply with certain basic statutory requirements, regardless of the risks of the tests, including adverse event reporting, corrections and removals reporting and registration and listing or notification. In addition, high-risk and moderate-risk tests not subject to an exemption will need to be the subject of a PMA or 510(k) submitted to the FDA in a phased-in manner. Within the high-risk devices, the FDA identifies the "highest risk devices" as (1) LDTs with the same intended use as an approved companion diagnostic; (2) LDTs with the same intended use as an FDA-approved Class III device and (3) certain LDTs for determining safety and effectiveness of blood or blood products. 
+
+With regard to premarket review, under the proposed draft guidances, the highest-risk LDTs identified above will be required to start submitting premarket submissions (generally a PMA, but in some instances a 510(k) submission) 12 months after the guidance is finalized. The premarket submission requirements for the remaining high-risk devices will be phased in over the following four years. Then, beginning in year six, moderate-risk LDTs will be subject to premarket submissions. The FDA explicitly states in the Framework Guidance that high-risk LDTs that are already on the market as of the date of implementation of the draft guidances will remain on the market while the FDA reviews the applications; FDA officials have publicly indicated that the agency will adopt the same position for moderate-risk devices. Laboratories that offer high-risk or moderate-risk tests will be required to comply with the applicable sections of the QSR at the time their PMA is submitted or 510(k) is cleared. 
+
+The comment period for the draft guidances closed February 2, 2015. The draft guidances have been the subject of considerable controversy, and it is unclear whether the draft guidances will be finalized and implemented, and if so, what the final versions will contain. In addition, Congress may act to provide further direction to the FDA on the regulation of LDTs. 
+
+We believe that all of the tests we currently offer, including Panorama, meet the definition of LDTs, as we designed, developed, and validated them for use in our CLIA-certified laboratory. Under the Framework Guidance, we believe that all of the tests we offer, except for our non-invasive prenatal paternity test, including Panorama, will be moderate-risk or high-risk tests, but not the highest risk devices. 
+
+California Laboratory Licensing 
+
+In addition to federal certification requirements for laboratories under CLIA, we are required under California law to maintain a license for our San Carlos clinical laboratory. The California licensure law establishes standards for the day-to-day operation of a clinical laboratory, including the training and skills required of personnel and quality control 
+
+If a clinical laboratory is found to be out of compliance with California standards, the California Department of Health Services, or DHS, may suspend, restrict or revoke its license to operate the clinical laboratory, assess substantial civil money penalties, or impose specific corrective action plans. 
+
+&#160;
+
+New York Laboratory Licensing 
+
+Because we receive specimens from New York State, our clinical laboratory is required to be licensed under New York laws and regulations, which establish standards for the day-to-day operation of a clinical laboratory, including training and skill levels required of laboratory personnel; physical requirements of a facility; equipment; validation; and quality control. 
+
+If a laboratory is found to be out of compliance with New York statutory or regulatory standards, the New York State Department of Health, or DOH, may suspend, limit, revoke or annul the laboratory's New York license, censure the holder of the license or assess civil money penalties. Statutory or regulatory noncompliance may result in a laboratory's operator being found guilty of a misdemeanor under New York law. DOH also must approve each specific LDT before the test is offered in New York. 
+
+We have received a permit from New York to offer our basic Panorama test to women with high-risk pregnancies and a conditional approval to offer both our basic Panorama and Panorama with the microdeletions panel to all pregnant women, regardless of risk. We also have a permit from New York to offer our Horizon, Spectrum, Anora and non-invasive prenatal paternity tests. 
+
+Other State Laboratory Licensing Laws 
+
+In addition to New York and California, other states, including Florida, Maryland, Pennsylvania and Rhode Island, require licensing of out-of-state laboratories under certain circumstances. We have obtained licenses in these four additional states and believe we are in compliance with applicable licensing laws. 
+
+Potential sanctions for violation of state statutes and regulations include significant fines, the rejection of license applications and the suspension or loss of various licenses, certificates and authorizations, which could harm our business. CLIA does not preempt state laws that have established laboratory quality standards that are at least as stringent as federal law. 
+
+State Genetic Testing Laws 
+
+Many states have implemented genetic testing and privacy laws imposing specific patient consent requirements and protecting test results. In some cases, we are prohibited from conducting certain tests without a certification of patient consent by the physician ordering the test. Requirements of these laws and penalties for violations vary widely. 
+
+HIPAA and Other Privacy Laws 
+
+The privacy and security regulations under the Health Insurance Portability and Accountability Act of 1996, or HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009, or HITECH, establish uniform standards governing the conduct of certain electronic healthcare transactions and require certain entities, called covered entities, to comply with standards that include the privacy and security of protected health information, or PHI. HIPAA further requires business associates of covered entities &#8211; independent contractors or agents of covered entities that have access to protected health information in connection with providing a service to or on behalf of a covered entity &#8211; to enter into business associate agreements with the covered entity and to safeguard the covered entity's PHI against improper use and disclosure. 
+
+As a covered entity and as a business associate of other covered entities (with whom we have therefore entered into business associate agreements), we have certain obligations regarding the use and disclosure of any PHI that may be provided to us, and we could incur significant liability if we fail to meet such obligations. Among other things, HITECH imposes civil and criminal penalties against covered entities and business associates and authorizes states&#8217; attorneys general to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorneys&#8217; fees and costs associated with pursuing federal civil actions. 
+
+&#160;
+
+We are also required to comply with HIPAA standards promulgated by the U.S. Department of Health and Human Services, or HHS. First, we must comply with HIPAA's standards for electronic transactions, which establish standards for common healthcare transactions, such as claims information, plan eligibility, payment information and the use of electronic signatures. We must also comply with the standards for the privacy of individually identifiable health information, which limit the use and disclosure of most paper and oral communications, as well as those in electronic form, regarding an individual's past, present or future physical or mental health or condition, or relating to the provision of healthcare to the individual or payment for that healthcare, if the individual can or may be identified by such information. Additionally, we must comply with HIPAA's security standards, which require us to ensure the confidentiality, integrity and availability of all electronic protected health information that we create, receive, maintain or transmit, to protect against reasonably anticipated threats or hazards to the security of such information, and to protect such information from unauthorized use or disclosure. 
+
+Various states in the United States have implemented equally restrictive requirements regulating the use and disclosure of health information that are not necessarily preempted by HIPAA, particularly if they afford greater protection to individuals than HIPAA does. For example, Massachusetts law requires that any company that obtains personal information of any resident of the Commonwealth of Massachusetts implement and maintain a security program that adequately protects such information from unauthorized use or disclosure. There are also foreign privacy and security laws and regulations that impose restrictions on the access, use and disclosure of health information. As a business that operates both internationally and throughout the United States, any wrongful use or disclosure of personally identifiable information, even if it does not constitute PHI, by us or our third-party contractors, including disclosure due to data theft or unauthorized access to our or our third-party contractors' computer networks, could subject us to fines or penalties that could adversely affect our business and results of operations, including the cost of providing credit monitoring and identity theft prevention services to affected consumers. 
+
+Healthcare Fraud and Abuse Laws 
+
+The federal Anti-Kickback Statute makes it a felony for a provider or supplier, including a laboratory, to knowingly and willfully offer, pay, solicit or receive remuneration, directly or indirectly, in order to induce business that is reimbursable under any federal healthcare program. A violation of the federal Anti-Kickback Statute may result in imprisonment for up to five years and/or criminal fines of up to $25,000, civil assessments and fines up to $50,000, and exclusion from participation in Medicare, Medicaid and other federal healthcare programs. Although the federal Anti-Kickback Statute applies only to federal healthcare programs, a number of states have passed statutes substantially similar to the federal Anti-Kickback Statute pursuant to which similar types of prohibitions are made applicable to all other health plans and third-party payers. Actions which violate the federal Anti-Kickback Statute or similar laws may also involve liability under the Federal False Claims Act, which prohibits knowingly presenting or causing to be presented a false, fictitious or fraudulent claim for payment to the U.S. Government. 
+
+Federal and state law enforcement authorities scrutinize arrangements between healthcare providers and potential referral sources to ensure that the arrangements are not designed as a mechanism to induce patient care referrals and opportunities. The law enforcement authorities, the courts and Congress have also demonstrated a willingness to look behind the formalities of a transaction to determine the underlying purpose of payments between healthcare providers and actual or potential referral sources. Generally, courts have taken a broad interpretation of the scope of the federal Anti-Kickback Statute, holding that the statute may be violated if merely one purpose of a payment arrangement is to induce future referrals. 
+
+The HHS Office of Inspector General, or OIG, issued Special Fraud Alerts on arrangements for the provision of clinical laboratory services and relationships between laboratories and referring physicians. The Fraud Alerts set forth a number of practices allegedly engaged in by some clinical laboratories and healthcare providers that raise issues under the federal fraud and abuse laws, including the federal Anti-Kickback Statute. The OIG emphasized in the Special Fraud Alerts that when one purpose of such arrangements is to induce referrals of program-reimbursed laboratory testing, both the clinical laboratory and the healthcare provider (e.g., physician) may be liable under the federal Anti-Kickback Statute, and may be subject to criminal prosecution and exclusion from participation in the Medicare and Medicaid programs. 
+
+&#160;
+
+Recognizing that the federal Anti-Kickback Statute is broad and may technically prohibit many innocuous or beneficial arrangements within the healthcare industry, HHS has issued a series of regulatory "safe harbors" which, if all of their requirements are met, assure healthcare providers and other parties that they may not be prosecuted under the federal Anti-Kickback Statute. Although full compliance with these provisions ensures against prosecution under the federal Anti-Kickback Statute, the failure of a transaction or arrangement to fit within a specific safe harbor does not necessarily mean that the transaction or arrangement is illegal or that prosecution under the federal Anti-Kickback Statute will be pursued. 
+
+While we believe that we are in compliance with the federal Anti-Kickback Statute or similar laws, there can be no assurance that our relationships with physicians, hospitals and other customers will not be subject to scrutiny or will survive regulatory challenge under such laws. If imposed for any reason, sanctions under the federal Anti-Kickback Statute could have a negative effect on our business. 
+
+Both California's fee-splitting statute, Business and Professions Code Section 650, and its Medi-Cal anti-kickback statute, Welfare and Institutions Code Section 14107.2, have been interpreted by the California Attorney General and California courts in substantially the same way as the federal government and the courts have interpreted the federal Anti-kickback Statute. A violation of Section 650 is punishable by imprisonment and fines of up to $50,000. A violation of Section 14107.2 is punishable by imprisonment and fines of up to $10,000. 
+
+In addition to the requirements that are discussed above, there are several other healthcare fraud and abuse laws that could have an impact on our business. The federal False Claims Act prohibits a person from knowingly submitting or causing to be submitted false claims or making a false record or statement in order to secure payment by the federal government. In addition to actions initiated by the government itself, the statute authorizes actions to be brought on behalf of the federal government by a private party having knowledge of the alleged fraud. Because the complaints are initially filed under seal, the action may be pending for some time before the defendant is even aware of the action. If the government is ultimately successful in obtaining redress in the matter or if the private party plaintiff succeeds in obtaining redress without the government's involvement, then the private party plaintiff will receive a percentage of the recovery. Violation of the federal False Claims Act may result in fines of up to three times the actual damages sustained by the government, plus mandatory civil penalties of up to $11,000 for each separate false claim, imprisonment or both, and possible exclusion from Medicare or Medicaid. 
+
+We are also subject to a federal law directed at "self-referrals," commonly known as the Stark Law, which prohibits, with certain exceptions, payments made by a laboratory to a physician in exchange for the provision of clinical laboratory services, or presenting or causing to be presented claims to Medicare and Medicaid for laboratory tests referred by physicians who personally, or through a family member, have an investment interest in, or a compensation arrangement with, the clinical laboratory performing the tests. A person who engages in a scheme to circumvent the Stark Law's referral prohibition may be fined up to $100,000 for each such arrangement or scheme. In addition, any person who presents or causes to be presented a claim to the Medicare or Medicaid programs in violation of the Stark Law is subject to civil monetary penalties of up to $15,000 per claim submission, an assessment of up to three times the amount claimed, and possible exclusion from participation in federal governmental payer programs. Claims submitted in violation of the Stark Law may not be paid by Medicare or Medicaid, and any person collecting any amounts with respect to any such prohibited claim is obligated to refund such amounts. 
+
+Many states, including California, also have anti-"self-referral" and other laws that are not limited to Medicare and Medicaid referrals. We are subject to the California's Physician Ownership and Referral Act, or PORA. PORA generally prohibits us from billing a patient or any governmental or private payer for any diagnostic services when the physician ordering the service, or any member of such physician's immediate family, has an investment interest in or compensation arrangement with us, unless the arrangement meets an exception to the prohibition. Further, a violation of PORA is a misdemeanor and could result in civil penalties and criminal fines. 
+
+Other states have self-referral restrictions with which we have to comply that differ from those imposed by federal and California law. 
+
+&#160;
+
+We are subject to California&#8217;s anti-markup statute, which prohibits providers from charging for a laboratory test that it did not perform unless the provider (a) notifies the patient of the name, address, and charges of the laboratory performing the test, and (b) charges no more than what he or she was charged by the clinical laboratory which performed the test. A violation of this provision can lead to imprisonment and/or fine s . In addition, many states are so-called &#8220;direct-bill&#8221; states, which means that the services performed by an individual or entity must be billed by such individual or entity, thus preventing ordering physicians from marking up the cost of the services they order. 
+
+While we have attempted to comply with the federal fraud and abuse laws, California fraud and abuse laws and similar laws of other states, it is possible that some of our arrangements could be subject to regulatory scrutiny at some point in the future, and we cannot provide assurance that we will be found to be in compliance with these laws following any such regulatory review. 
+
+Further, in addition to the privacy and security regulations stated above, HIPAA created two federal crimes: healthcare fraud and false statements relating to healthcare matters. The healthcare fraud statute prohibits knowingly and willfully executing a scheme to defraud any healthcare benefit program, including private payers. A violation of this statute is a felony and may result in fines, imprisonment or exclusion from government sponsored programs. The false statements statute prohibits knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. A violation of this statute is a felony and may result in fines or imprisonment. 
+
+Finally, federal law prohibits any entity from offering or transferring to a Medicare or Medicaid beneficiary any remuneration that the entity knows or should know is likely to influence the beneficiary's selection of a particular provider, practitioner or supplier of Medicare or Medicaid payable items or services, including waivers of copayments and deductible amounts (or any part thereof) and transfers of items or services for free or for other than fair market value. Entities found in violation may be liable for civil monetary penalties of up to $10,000 for each wrongful act. Although we believe that our sales and marketing practices are in material compliance with all applicable federal and state laws and regulations, relevant regulatory authorities may disagree, and violation of these laws or our exclusion from such programs as Medicaid and other governmental programs as a result of a violation of such laws could have a material adverse effect on our business, results of operations, financial condition and cash flows. 
+
+Reimbursement 
+
+We receive reimbursement from commercial third-party payers and from government health benefits programs such as Medicare and Medicaid. The tests for which we receive reimbursement include Panorama, Horizon, Anora and Spectrum. 
+
+Laboratory tests, as with most other healthcare services, are classified for reimbursement purposes under a coding system known as Current Procedure Terminology, or CPT, which we and our customers must use to bill and receive reimbursement for our diagnostic tests. These CPT codes are associated with the particular test that we have provided to the patient. Once the American Medical Association establishes a CPT code, the Centers for Medicare and Medicaid Services, or CMS, establishes payment levels and coverage rules under Medicare while private payers establish rates and coverage rules independently. For most of the tests performed for Medicare or Medicaid beneficiaries, laboratories are required to bill Medicare or Medicaid directly, and to accept Medicare or Medicaid reimbursement as payment in full. On January 1, 2013, CMS implemented a new set of CPT codes but without a fee schedule for the particular codes specific to NIPTs. A new CPT code specific to NIPT for aneuploidies came into effect in January 2015. Additionally, CMS adopted a new code set for diagnosis, commonly known as ICD-10, in October 2015. &#160; The AMA has recently issued a CPT code for microdeletions, which is scheduled to go into effect in January 2017 . 
+
+We currently submit for reimbursement using CPT codes that, based on the guidance of outside legal and coding experts, are determined to be the most appropriate for our testing. There is a risk that these codes may be rejected or withdrawn or that payers will seek refunds of amounts that they claim were inappropriately billed to a specific CPT code. We do not currently have a specific CPT code assigned for all of our tests , and there is a risk that we may not be able to 
+
+&#160;
+
+obtain specific codes for such tests, or if obtained, may not be able to negotiate favorable rates for one or more of these codes. 
+
+NIPT has received positive coverage determinations for high-risk pregnancies and are reimbursed by most private payers, including United Healthcare, AETNA, Anthem, Humana, CIGNA and others. Reimbursement policies for the use of NIPT for average-risk pregnancies have not been widely established, but recent publications have analyzed the use of NIPT in the average-risk population. &#160; In particular, ISPD has issued guidelines, and ACMG has issued a statement, that are supportive of NIPT in average-risk pregnancies as well as high-risk pregnancies. ACOG and SMFM has each issued guidelines for NIPT stating that while all pregnant women should be informed of the option to receive NIPT, conventional screening methods, rather than NIPT, remain the most appropriate choice for first-line screening for average-risk pregnancies. &#160; Eight of the top 20 commercial payers in the United States have a positive coverage determination for NIPT for average-risk pregnancies . We expect evidence to support utilization in the average-risk population in the future . 
+
+Based on AIS 2014 publication data, we and our laboratory partners have in-network contracts with insurance providers that account for over 160 million covered lives in the United States. Our target market for NIPT is a much smaller subset of these covered lives, because it excludes men, children and post-menopausal women who would not be users of our products. 
+
+&#160; 
+
+Employees 
+
+As of December 31, 2015, we had 716 employees, including 181 in laboratory operations and manufacturing administration, 125 in research and development and 410 in sales, general and administrative functions. We have not been subject to labor action or union activities, and our management considers its relationships with employees to be good. 
+
+Glossary of Terms 
+
+ACOG &#8211; the American Congress of Obstetricians and Gynecologists. 
+
+ACMG &#8211; the American College of Medical Genetics and Genomics. 
+
+CNV &#8211; copy number variation; a genetic mutation in which relatively large regions of the genome have been deleted or duplicated. 
+
+ctDNA &#8211; circulating tumor DNA. 
+
+CS test &#8211; carrier screening test. 
+
+Fetal aneuploidy &#8211; an inherited genetic condition in which a fetus has a different number of chromosomes than are typical. 
+
+Gene fusion &#8211; an abnormality in which DNA segments from two different genes are exchanged, forming one fused gene. Gene fusions have been implicated in the development of cancer tumors . 
+
+ISPD &#8211; the International Society for Prenatal Diagnosis . 
+
+IVD &#8211; in vitro diagnostic; tests that can be used in any laboratory that has the appropriate qualifications and authorizations. 
+
+LDT &#8211; laboratory developed test; tests that are designed, developed, validated and used within a single laboratory. 
+
+MFM &#8211; maternal fetal medicine. 
+
+Microdeletion &#8211; a deletion of a region of DNA from one copy of one chromosome. 
+
+&#160;
+
+mmPCR &#8211; massively multiplexed polymerase chain reaction. 
+
+NGS &#8211; next-generation sequencing; a DNA sequencing technology. 
+
+PPV &#8211; positive predictive value; the likelihood that a positive result on a test indicates a true positive result in the patient. 
+
+Sensitivity &#8211; the likelihood that an individual with a condition will be correctly found to have that condition. Sensitivity is calculated as the ratio between the number of individuals that test positive for the condition over the total number of individuals in the tested cohort who actually have the condition. 
+
+Signal to noise ratio &#8211; the ratio of useful information to irrelevant data. 
+
+SMA &#8211; spinal muscular atrophy. 
+
+SMFM &#8211; the Society for Maternal Fetal Medicine . 
+
+SNP &#8211; single nucleotide polymorphism; a position on the chromosome at which single DNA base changes are common in the population. 
+
+SNV &#8211; single nucleotide variant; a genetic mutation in which a single chemical base in DNA has changed. 
+
+Specificity &#8211; the likelihood that an individual without a condition will be correctly found not to have that condition. Specificity is calculated as the ratio between the number of individuals that test negative for a condition over the total number of individuals in the tested cohort who do not have the condition. 
+
+Triploidy &#8211; a type of fetal aneuploidy in which an individual has three copies of every chromosome instead of two. 
+
+Financial Information about Segments and Geographic Areas 
+
+We operate in one segment. For information regarding our revenues by geographic location, please refer to Note 15 to our consolidated financial statements in this annual report on Form 10-K. All of our long-lived assets are located in the United States. For information regarding risks associated with our international operations, please refer to the section entitled &#8220;Risk Factors&#8221;. 
+
+Corporate Information 
+
+We were initially formed in California as Gene Security Network, LLC in November 2003. We were incorporated in Delaware in January 2007, and we changed our name to Natera, Inc. in January 2012. Our principal executive offices are located at 201 Industrial Road, Suite 410, San Carlos, California 94070, and our telephone number is (650) 249-9090. Our website address is www.natera.com. We do not incorporate the information on, or accessible through, our website into this annual report on Form 10-K, and you should not consider any information on, or accessible through, our website as part of this annual report on Form 10-K. 
+
+Available Information 
+
+We file Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended. Copies of our reports on Form 10-K, Form 10-Q and Form 8-K, may be obtained, free of charge, electronically through our Internet website, http://investor.natera.com. 
+
+&#160; 
+
+&#160;
+
+&#160; 
+

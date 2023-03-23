@@ -1,0 +1,288 @@
+ Item 1. Business 
+
+Akamai provides cloud services for delivering, optimizing and securing content and business applications over the Internet. As a global leader in content delivery network, or CDN, services, our goal is to make the Internet fast, reliable and secure for our customers. 
+
+Addressing the Grand Challenges of Doing Business on the Internet 
+
+The Internet plays a crucial role in the way companies, government agencies and other enterprises conduct business and reach the public. Enterprises want to offer a dynamic, consistent, secure experience for millions of end users and to take advantage of the potential cost savings of cloud computing &#8211; using a network of remote servers hosted on the Internet to store, manage and process data rather than relying on a local server. The Internet, however, is a complex system of networks that was not originally created to accommodate the volume or sophistication of today's communication demands or the dramatic expansion in the number and types of devices individuals use to access it. The ad hoc architecture of the Internet presents potential problems for its widespread usage today, such as: 
+
+&#8226; 
+
+traffic congestion at data centers and between networks; 
+
+&#8226; 
+
+traffic exceeding the capacity of routing equipment; 
+
+&#8226; 
+
+absence of a coordinated security system to protect against hackers, bots and other malefactors that want to steal assets and disrupt the functioning of the web; 
+
+&#8226; 
+
+increased use of mobile networks, which tend to be slower and less reliable than the fixed line Internet; and 
+
+&#8226; 
+
+&#8220;last mile&#8221; issues &#8211; such as bandwidth constraints between consumers and their Internet access provider. 
+
+These potential problems intersect with the features of what is sometimes referred to as the "hyperconnected world," including: 
+
+&#8226; 
+
+increasingly dynamic and personalized websites; 
+
+&#8226; 
+
+growth in the transmission of rich content, including high definition, or HD, video, music and games; 
+
+&#8226; 
+
+rapid expansion in the use of mobile devices leveraging different technologies and delivery systems; and 
+
+&#8226; 
+
+the desire of millions of consumers worldwide to be able to enjoy the same high-quality experience across all of the devices they use. 
+
+Achieving an enterprise's goals in the face of these challenges is hard to do, particularly in the face of internal constraints such as budget cuts and the need to keep pace with new technological developments. Akamai offers solutions designed to help companies, government agencies, network operators and other enterprises address what we call four grand challenges of doing business on the Internet: 
+
+One: &#32; 
+
+Delivering video with excellent quality, scale and affordability; 
+
+Two: 
+
+Providing superior performance for websites and applications accessed by all types of devices from anywhere in the world; 
+
+Three: 
+
+Protecting websites and data centers from cyber-attacks that aim to disrupt their online operations, corrupt their data or steal sensitive information; and 
+
+Four: 
+
+Enabling enterprise networks to handle growing cloud computing workloads with high performance and low cost. 
+
+Forming the foundation of our solutions is the Akamai Intelligent Platform, which we believe is the world's largest globally-distributed computing platform, having over 200,000 &#32;servers deployed in more than 1,400 &#32;networks and 120 &#32;countries around the world, tied together with sophisticated software and algorithms. This platform enables us to constantly monitor Internet conditions to: 
+
+&#8226; 
+
+identify, absorb and block security threats; 
+
+&#8226; 
+
+make routing and delivery decisions based on comprehensive knowledge of network conditions; 
+
+&#8226; 
+
+provide device-level detection and optimization; and 
+
+&#8226; 
+
+provide our customers with business and technical insights into their online operations. 
+
+Our mission is to leverage the Akamai Intelligent Platform and our solutions to provide superior performance, scalability and security for our customers &#8211; addressing the four grand challenges of the Internet. 
+
+Our Solutions 
+
+Performance and Security Solutions 
+
+Our Performance and Security Solutions are designed to help websites and business applications operate quickly while offering protection against security threats. 
+
+Web and Mobile Performance Solutions &#32; 
+
+Our Web and Mobile Performance Solutions are designed to take advantage of our core content and application delivery technologies to make the Internet work better for our customers. Key offerings include: 
+
+&#8226; 
+
+Ion &#32; &#8211; &#32; Ion is a situational performance solution that consists of an integrated suite of web delivery, acceleration and optimization technologies that make real-time optimization decisions based on the requirements of the device, network location and browser. Ion is designed to simplify increasingly complex web delivery and enable a faster website experience that is highly available, secure and scalable to meet peak capacity demands. 
+
+&#8226; 
+
+Dynamic Site Accelerator &#32; &#8211; Dynamic Site Accelerator is designed to help customers experience globally consistent and faster website performance, handling the specific requirements of dynamically-generated content. Our platform continuously pulls and caches fresh site content onto Akamai servers, automatically directs content requests to an optimal server, routes the request via the most reliable path to data centers to retrieve and deliver dynamic interactive content. 
+
+&#8226; 
+
+Global Traffic Management &#8211; Global Traffic Management is designed to ensure responsiveness to end user requests by leveraging our global load balancing technology. Unlike traditional hardware-based solutions that reside within the data center, our Global Traffic Management service is a fault-tolerant solution that makes intelligent routing decisions based on real-time data center performance health and global Internet conditions to help ensure user requests are routed to the most appropriate data center for that user at that moment. 
+
+&#8226; 
+
+Cloudlets &#8211; Cloudlets are applications that provide our customers with self-serviceable controls and capabilities designed to help simplify web operations and improve user experiences. Examples include Visitor Prioritization for managing potentially overloaded applications, Image Converter to improve delivery of images particularly to mobile devices, IP/Geo Access to handle access restrictions and Forward Rewrite for managing delivery of targeted content without changing the page's Internet address. 
+
+Cloud Security Solutions 
+
+Our Cloud Security Solutions are designed to help customers avoid data theft and downtime, as well as protect Internet-facing infrastructure, by extending the security perimeter to protect against the increasing frequency, scale and sophistication of web attacks. We offer a variety of services that address the Internet security needs of our customers, including the following: 
+
+&#8226; 
+
+Kona Site Defender &#8211; Kona Site Defender is a cloud computing security solution that defends against network and application layer distributed denial of service, or DDoS, attacks, web application attacks and direct-to-origin attacks. By leveraging our distributed network and proprietary technology, Akamai can absorb traffic targeted at the application layer, deflect DDoS traffic targeted at the network layer, such as SYN Floods or UDP Floods, and authenticate valid traffic at the network edge. 
+
+&#8226; 
+
+Fast DNS &#8211; The Domain Name System, or DNS, translates human-readable domain names into numerical IP addresses to enable individuals who type in a website name to reach the desired location on the Internet. Our Fast DNS offering is a DNS resolution solution that is designed to quickly and dependably direct individuals to our customers' websites. Importantly, we have architected this service to protect against DNS-based DDoS attacks. 
+
+&#8226; 
+
+Prolexic Routed &#32; &#8211; Prolexic Routed is designed to protect web- and IP-based applications in data centers from the threat of DDoS attacks by preventing attacks before they reach the data center. It provides protection against high-bandwidth, sustained web attacks as well as potentially crippling DDoS attacks that target specific applications and services. 
+
+&#160; 
+
+&#8226; 
+
+Client Reputation &#32; &#8211; Client Reputation provides an additional layer of protection against DDoS and web application attacks by allowing customers to automatically block requests from IP addresses. Client Reputation leverages advanced algorithms to compute a risk score based on prior behavior as observed over the Akamai network. The algorithms use both legitimate and attack traffic to profile the behavior of attacks, clients and applications. Based on this information, Akamai assigns risk scores to each IP address and allows customers to choose which actions they wish to have Kona Site Defender perform on an IP address with specific risk scores. 
+
+Cloud Networking Solutions 
+
+Our Cloud Networking Solutions are designed to help customers boost enterprise branch office and retail store productivity by accelerating applications, reducing bandwidth costs and extending the Internet and public clouds into private wide area networks, or WANs. Our key cloud network offerings include: 
+
+&#8226; 
+
+Cloud Networking Suite &#8211; Our Cloud Networking Suite of solutions is designed to improve application and network performance, reliability and security for branch location users who are connecting to software as a service and cloud applications over the Internet. The services include Internet Transport Optimization, which provides route optimization and forward error correction; SaaS and Cloud Acceleration, which enables caching, data deduplication, and transport optimization; and Secure Web Gateway, which offers outbound web filtering and inbound malware protection. 
+
+&#8226; 
+
+Cisco Intelligent WAN with Akamai Connect &#8211; This is a fully-integrated solution from Akamai and Cisco for enterprises with broadly distributed branches and office locations. By combining WAN optimization and intelligent caching directly into a Cisco router in enterprise branch locations, Akamai Connect extends the Akamai Intelligent Platform directly into the branch. The solution is architected to enable customers to reduce costs while delivering high-quality application experiences with minimal bandwidth impact, regardless of device, connectivity or public/private cloud architectures. 
+
+&#8226; 
+
+Steelhead Cloud Accelerator &#8211; Steelhead Cloud Accelerator is a cloud management solution that combines our Internet optimization technology with Riverbed Technology's private WAN optimization. By integrating the Akamai Intelligent Platform with Riverbed's RiOS, the solution optimizes Office 365 and Salesforce.com SaaS application performance whether users are located at corporate headquarters or branch offices. 
+
+Network Operator Solutions 
+
+With the growth in consumer adoption of Internet video and other media, carriers around the world have experienced significant traffic increases, resulting in congestion across networks from aggregation, to backbone, to interconnection. Our Network Operator Solutions are designed to help carriers operate a cost-efficient network that capitalizes on traffic growth and new subscriber services by reducing the complexity of building a CDN and interconnecting access providers. These offerings include: 
+
+&#8226; 
+
+Aura Licensed CDN &#8211; Aura Licensed CDN is a suite of solutions designed to enable delivery of next generation IP video services delivered to myriad types of devices across the Internet. With this solution, a network operator can build and operate a highly scalable media content delivery network that efficiently delivers its own content as well as content from Akamai customers and other targeted services, all utilizing a common HTTP caching infrastructure. The Aura Licensed CDN federates with the Akamai Intelligent Platform, providing global delivery of operator content with a single business agreement. The solution also includes HyperCache, a common HTTP caching layer in the network that supports traffic offload and delivery of content, and Request Router, a DNS-based content request router that directs user requests to an optimal available CDN node. 
+
+&#8226; 
+
+Aura Managed CDN &#8211; Aura Managed CDN is a scalable, turnkey CDN solution designed to provide network operators with CDN capabilities through an infrastructure that is maintained by Akamai. With it, an operator can leverage the same CDN techniques used by Akamai, but on servers that are dedicated to the network operator's services. Operators can deliver multi-screen video services and large objects, plus offer commercial CDN services, relying on Akamai CDN experts and proven technology for content provisioning, delivery and reporting. 
+
+&#8226; 
+
+AnswerX &#8211; AnswerX is an intelligent recursive DNS platform built for effective management of DNS traffic. To help make web services fast, safe and uniquely personal for subscribers, AnswerX manages subscriber preferences (e.g., opt-in or opt-out), tracks popular destinations and maintains lists of typo squatters (website addresses that are similar to popular ones but with misspelled names) and phishing domains. 
+
+Media Delivery Solutions 
+
+In recent years, streaming of movies, television and live events has come to represent a significant percentage of traffic on the Internet. Providing solutions to handle that media is an important part of our current and future strategy. Our Media Delivery Solutions are designed to enable enterprises to execute their digital media distribution strategies, not only by providing solutions for their volume and global reach requirements but also by improving the end-user experience, boosting reliability and reducing their cost of Internet-related infrastructure. 
+
+Media Content Delivery 
+
+Our Media Content Delivery Solutions are designed to provide fast and reliable delivery of movies, television shows, live events, games, social media, software downloads and other content across the Internet across both fixed line and mobile networks. We focus on helping media customers improve the performance of their offerings through the scalability, reliability and reach of the Akamai Intelligent Platform. Each delivery solution is optimized for the type of content being provided as follows: 
+
+&#8226; 
+
+Adaptive Delivery &#8211; We provide adaptive delivery solutions for streaming video content that are designed to cope with variable connection speeds, different devices and disparate locations around the world. 
+
+&#8226; 
+
+Download Delivery &#8211; Our download delivery offerings provide accelerated distribution for large file downloads, including games, progressive media (video and audio) files, documents and other file-based content. 
+
+Media Services 
+
+Akamai Media Services help simplify the preparation of online media with integrated transcoding, digital rights management and content packaging designed to enable our customers to quickly and easily deliver live and on-demand content to multiple types of devices and platforms. 
+
+Media Analytics 
+
+We offer a comprehensive suite of analytics tools to monitor online video viewer experiences and the effectiveness of web software downloads, while measuring audience engagement, and quality of service performance. These solutions are designed to provide actionable and relevant metrics to help businesses understand their entire media workflow from ingest to device through four complementary modules: Quality of Service Monitor, Viewer Diagnostics, Audience Analytics and Download Analytics. 
+
+NetStorage 
+
+NetStorage is a globally-distributed cloud storage solution for our customers' content that offers automatic geographically-dispersed replication that is designed for resiliency, high availability and real time performance optimization. It complements our suite of Media Delivery Solutions to offer a simple, high-speed online content workflow solution. 
+
+Service and Support Solutions 
+
+Akamai offers an array of professional services and solutions that are designed to assist our customers with integrating, configuring, optimizing and managing our core offerings. Once customers are deployed on the network, they can rely on our professional services experts for customized solutions, problem resolution and 24/7 technical support. Special features available to enterprises that purchase our premium support solution include a dedicated technical account team, proactive service monitoring, custom technical support handling procedures and customized training. 
+
+Our Technology and Network 
+
+The Akamai Intelligent Platform leverages more than 200,000 &#32;servers deployed in approximately 1,400 &#32;networks ranging from large, backbone network providers to medium and small Internet service providers, or ISPs, to cable modem and satellite providers to universities and other networks. By deploying servers within a wide variety of networks across 120 countries, we are better able to manage and control routing and delivery quality to geographically-diverse users. We also have thousands of peering relationships that provide us with direct paths to end-user networks, which reduce data loss, while also potentially giving us more options for delivery at reduced cost. 
+
+To make this wide-reaching deployment effective, we use specialized technologies, such as advanced routing, load balancing, data collection and monitoring. Our intelligent routing software is designed to ensure that website visitors experience fast page loading, access to applications and content assembly wherever they are on the Internet and regardless of global or local traffic conditions. Dedicated professionals staff our network operations command center 24 hours a day, seven days a week to monitor and react to Internet traffic patterns and trends. We frequently deploy enhancements to our software globally to strengthen and improve the effectiveness of our network. 
+
+Our platform offers flexibility too. Customers can control the extent of their use of Akamai services to scale on demand, using as much or as little capacity of the global platform as they require, to support widely varying traffic and rapid growth without the need for expensive and complex internal infrastructure. 
+
+Our Accelerated Network Partner Program allows participating network operators to install Akamai caching servers inside their network data centers. The servers and CDN capacity are fully managed by Akamai and are part of the Akamai Intelligent Platform. The program is designed to enable network operators to offer subscribers a better end-user experience for popular content and services. 
+
+Research and Development 
+
+Our research and development personnel are continuously undertaking efforts to enhance and improve our existing services, strengthen our network and create new services in response to our customers' needs and market 
+
+demand. As of December 31, 2015 , we had 1,612 &#32;research and development employees. Our research and development expenses were $ 148.6 million , $ 125.3 million &#32;and $ 93.9 million &#32;for the years ended December 31, 2015, 2014 and 2013 , respectively. These amounts are net of capitalized costs related to the development of internal-use software used to deliver our services and operate our network. For the years ended December 31, 2015, 2014 and 2013 , we capitalized $105.7 million , $91.1 million &#32;and $67.9 million , respectively, of payroll, payroll-related and external consulting costs related to the development of internal-use software. Additionally, for the years ended December 31, 2015, 2014 and 2013 , we capitalized $16.7 million , $13.7 million &#32;and $11.5 million , respectively, of stock-based compensation attributable to our research and development personnel. 
+
+Industry Segment and Geographic Information 
+
+We operate in one industry segment: providing cloud services for delivering, optimizing and securing content and business applications over the Internet. Our revenue derived from operations outside the U.S. was $593.0 million , $531.9 million &#32;and $432.6 million , for each of the years ended December 31, 2015, 2014 and 2013 , respectively. This represented 27% of our total revenue in those years. No single country outside of the U.S. accounted for 10% or more of our revenue in any such year. 
+
+Our long-lived assets include servers, which are deployed into networks worldwide, in addition to other property and equipment used to support our operations. As of December 31, 2015 , we had approximately $ 298.9 million &#32;and $ 227.8 million &#32;of net property and equipment, excluding internal-use software, located in the U.S. and foreign locations, respectively. As of December 31, 2014 , we had approximately $ 249.5 million &#32;and $ 175.8 million &#32;of net property and equipment, excluding internal-use software, located in the U.S. and foreign locations, respectively. 
+
+Customers 
+
+As of December 31, 2015, our customers included many of the world's leading corporations, including Airbnb, Apple, Autodesk, BMW, Bristol Myers Squibb, Cathay Pacific, Crate &#38; Barrel, eBay, Electronic Arts, FedEx, Ford Motor Company, FOX, Home Depot, HubSpot, IKEA, Investec, JetBlue, Marriott, NBCUniversal, Norwegian Cruise Line, Panasonic, Panera Bread, PayPal, Qantas, Qualcomm, &#32; Rabobank, Rakuten, Red Hat, Salesforce.com, Siemens, Toshiba, Turner Broadcasting, USAA and Virgin America. We also actively sell to government agencies. As of December 31, 2015, our public sector customers included the Federal Aviation Administration, the Federal Emergency Management Agency, the U.S. Census Bureau, the U.S. Department of Defense, the U.S. Postal Service and the U.S. Department of Labor. 
+
+No customer accounted for 10% or more of total revenue for any of the years ended December 31, 2015, 2014 and 2013 ; however, our two largest customers accounted for 11%, 13% and 14% of our total revenue during the years ended December 31, 2015, 2014 and 2013 . Less than 10% of our total revenue in each of the years ended December 31, 2015, 2014 and 2013 &#32;was derived from contracts or subcontracts terminable at the election of the federal government, and we do not expect such contracts to account for more than 10% of our total revenue in 2016 . 
+
+Sales, Service and Marketing 
+
+We market and sell our solutions globally through our direct sales and service organization and through more than 100 &#32;active channel partners including AT&#38;T, Deutsche Telecom, IBM, Orange Business Services and Telefonica Group. In addition to entering into agreements with resellers, we have several other types of sales and marketing focused alliances with entities such as system integrators, application service providers, referral partners and sales agents. By aligning with these partners, we believe we are better able to market our services and encourage increased adoption of our technology throughout the industry. 
+
+Our sales, service and marketing professionals are located in more than 60 offices in the Americas, Europe, the Middle East and Asia and focus on direct and channel sales, sales operations, professional services, account management and technical consulting. As of December 31, 2015 , we had 2,874 &#32;employees in this organization. 
+
+To support our sales efforts and promote the Akamai brand, we conduct comprehensive marketing programs. Our marketing strategies include an active public relations campaign, print advertisements, online advertisements, participation at trade shows, strategic alliances, ongoing customer communication programs, training and sales support. 
+
+Competition 
+
+The market for our services is intensely competitive and characterized by rapidly changing technology, evolving industry standards and frequent new product and service innovations. We expect competition for our services to increase both from existing competitors and new market entrants. We compete primarily on the basis of: 
+
+&#8226; 
+
+the performance and reliability of our services; 
+
+&#8226; 
+
+return on investment in terms of cost savings and new revenue opportunities for our customers; 
+
+&#8226; 
+
+reduced infrastructure complexity; 
+
+&#8226; 
+
+sophistication and functionality of our offerings; 
+
+&#8226; 
+
+scalability; 
+
+&#8226; 
+
+security; 
+
+&#8226; 
+
+ease of implementation and use of service; 
+
+&#8226; 
+
+customer support; and 
+
+&#8226; 
+
+price. 
+
+We compete with companies offering products and services that address Internet performance problems, including companies that provide Internet content delivery and hosting services, security solutions, technologies used by network operators to improve the efficiency of their systems, streaming content delivery services and equipment-based solutions for Internet performance problems, such as load balancers and server switches. Other companies offer online distribution of digital media assets through advertising-based billing or revenue-sharing models that may represent an alternative method for charging for the delivery of content and applications over the Internet. In addition, existing and potential customers may decide to purchase or develop their own hardware, software or other technology solutions rather than rely on a provider of externally-managed services like Akamai. 
+
+We believe that we compete favorably with other companies in our industry through the global scale of the Akamai Intelligent Platform, which we believe provides the most effective means of meeting the needs of enterprise customers and is unique to us. In our view, we also benefit from the superior quality of our offerings, our customer service, the information we can provide to our customers about their online operations and value. 
+
+Proprietary Rights and Licensing 
+
+Our success and ability to compete are dependent on developing and maintaining the proprietary aspects of our technology and operate without infringing on the proprietary rights of others. We rely on a combination of patent, trademark, trade secret and copyright laws and contractual restrictions to protect the proprietary aspects of our technology. As of December 31, 2015 , we owned, or had exclusive rights to, more than 230 U.S. patents covering our technology as well as patents issued by other countries. Our U.S.-issued patents have terms extendable to various dates between 2016 and 2034. We do not believe that the expiration of any particular patent in the near future would be material to our business. In October 1998, we entered into a license agreement with the Massachusetts Institute of Technology, or MIT, under which we were granted a royalty-free, worldwide exclusive right to use and sublicense the intellectual property rights of MIT under various patent applications and copyrights relating to Internet content delivery technology. We seek to limit disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements with us and by restricting access to our source code. 
+
+Employees 
+
+As of December 31, 2015 , we had 6,084 &#32;full-time and part-time employees. Our future success will depend in part on our ability to attract, retain and motivate highly qualified technical, managerial and other personnel for whom competition is intense. Our employees are not represented by any collective bargaining unit. We believe our relations with our employees are good, and we have been acknowledged in respected publications as an excellent place to work. 
+
+Additional Information 
+
+Akamai was incorporated in Delaware in 1998 and have our corporate headquarters at 150 Broadway, Cambridge, Massachusetts. Our Internet website address is www.akamai.com. We make available, free of charge, on or through our Internet website, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments thereto that we have filed or furnished with the Securities and Exchange Commission, or the Commission, as soon as reasonably practicable after we electronically file them with the Commission. We are not, however, including the information contained on our website, or information that may be accessed through links on our website, as part of, or incorporating such information by reference into, this annual report on Form 10-K. 
+

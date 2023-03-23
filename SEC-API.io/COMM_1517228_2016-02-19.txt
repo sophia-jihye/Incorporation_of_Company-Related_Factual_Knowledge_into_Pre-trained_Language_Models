@@ -1,0 +1,516 @@
+ ITEM 1. BUSINESS Company Overview 
+
+We are a leading global provider of infrastructure solutions for communications networks. Our portfolio of network infrastructure includes some of the world&#146;s most robust and innovative wireless and fiber optic solutions. Our talented and experienced global team is driven to help customers increase bandwidth; maximize existing capacity; improve network performance and availability; and simplify technology migration. Our solutions are found in some of the largest buildings, venues and outdoor spaces; in data centers and buildings of all shapes, sizes and complexities; at wireless cell sites; in telecom central offices and cable headends; in fiber-to-the-X (FTTx) deployments; and in airports, trains, and tunnels. Vital networks around the world run on CommScope solutions. 
+
+We have a team of approximately 23,000 people to serve our customers in over 100 countries through a network of more than 30 world-class manufacturing and distribution facilities strategically located around the globe. Our customers include substantially all of the leading global telecommunication operators as well as thousands of enterprise customers, including many Fortune 500 enterprises, and leading multi-system operators (MSOs). We have long-standing, direct relationships with our customers and serve them through a direct sales force and a global network of channel partners. 
+
+On August 28, 2015, we completed the acquisition of TE Connectivity&#146;s Broadband Network Solutions (BNS) business in an all-cash transaction valued at approximately $3.0 billion. The BNS business provides fiber optic and copper connectivity for wireline and wireless networks and also provides small-cell distributed antenna system (DAS) solutions for the wireless market. For the twelve month period from December 27, 2014 through December 25, 2015, the BNS business generated annual revenues of approximately $1.7 billion. 
+
+In January 2011, funds affiliated with The Carlyle Group (Carlyle) completed the acquisition of CommScope, Inc., our predecessor. Under the terms of the acquisition, CommScope, Inc. became a wholly-owned subsidiary of CommScope Holding Company, Inc. As of December 31, 2015, Carlyle owned approximately 32% of our outstanding common stock. 
+
+CommScope Holding Company, Inc. was incorporated in Delaware on October 22, 2010. In 2016, CommScope will celebrate its 40 th anniversary serving the needs of communications networks. 
+
+For the year ended December 31, 2015, our revenues were $3.81 billion and our net loss was $70.9 million, which included $96.9 million of transaction and integration costs, $90.8 million of asset impairment charges and 
+
+&#160;
+
+$81.7 million in charges related to purchase accounting. For further discussion of our current and prior year financial results, see Part II, Item 7, &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; and the Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. 
+
+The table below summarizes our offerings, global leadership positions and 2015 revenue: 
+
+&#160;
+
+&#160;
+
+(1) Excludes inter-segment eliminations. (2) BNS results are from the acquisition date, August 28, 2015, through December 25, 2015, their fiscal period end. Industry Background 
+
+We participate in the large and growing global market for connectivity and essential communications infrastructure. This market is being driven by the growth in bandwidth demand associated with the continued adoption of smartphones, tablets, machine-to-machine communication and the proliferation of data centers, Big Data, cloud-based services, streaming media content and the Internet of things (IoT). Telecommunications operators are deploying 4G and fiber optic networks and next-generation network solutions to support the dramatic growth in bandwidth demand. As users consume more data on smartphones, tablets and computers, enterprises are faced with a growing need for higher bandwidth networks, in-building cellular coverage and more robust, efficient and intelligent data centers. MSOs are investing in their networks to deliver a competitive triple-play of services (voice, video and high-speed data) and to maintain service quality. There are a number of major trends that we expect to drive demand for our solutions, including: 
+
+&#160;
+
+Carrier Investments in 4G Wireless Infrastructure 
+
+4G LTE has been deployed to handle wireless data faster, more reliably and more efficiently than 2G and 3G networks. The faster data rate and lower latency capabilities of LTE networks enable a rich mobile computing experience for users equal to that of a wired connection. LTE networks are more efficient and cost effective for wireless operators because of the architecture in their core and due to improved spectral efficiency, which increases the throughput of data in a fixed amount of spectrum. 
+
+Wireless operators have been deploying LTE globally and are making the necessary wireless infrastructure investments to accommodate the growing demand for new mobile communication services. LTE investment is expected to continue to be deployed globally over the next decade as the user base continues to shift from older technologies to LTE. 
+
+As wireless operators deploy LTE, they must manage an increasingly complex and sensitive radio access network (RAN). As a result, we believe wireless operator coverage and capacity investments will drive demand for our comprehensive offerings. While we expect growth in wireless capacity over the long term, annual growth rates can be uneven. 
+
+Metro Cell, DAS and Small Cell Investment to Enhance and Expand Wireless Coverage and Capacity 
+
+The traditional macro cell network requires mobile users to connect directly to macro cell base stations. Macro cells are primarily designed to provide coverage over wide areas and typically transmit high power. They are not optimal for dense urban areas where physical structures often create coverage gaps and capacity is frequently constrained. Adding new macro cells or increasing the number of sectors on existing sites has been the traditional way to increase mobile capacity and will continue to be an important layer of the network. As use continues to outpace capacity growth, new solutions are required for densely populated areas. Metro cells and indoor networks are emerging as important layers of the network. Metro cells are smaller cell sites, located closer to the ground, having a lower power level than a traditional macro cell site. Metro cells blend into their environment and are often found integrated with traditional street furniture, which helps alleviate zoning restrictions that have made traditional deployments difficult. Finally there are small cell and DAS solutions that address the capacity and speed requirements from an indoor perspective. These systems provide coverage and capacity to the indoor environment, and reduce the load from the macro and metro layers, which improves the network as a whole. Small cell and DAS systems may range from small single operator, single-band, low capacity systems to large multi-carrier, multi-technology, multi-band, high capacity environments. 
+
+Wireless operators view in-building coverage as a critical component of their network deployment strategies. Key challenges for wireless operators in providing in-building cellular coverage are signal loss while penetrating building structures and interference created by mobile devices while connected to macro cell sites from inside a building. In-building DAS solutions bring the antenna significantly closer to the user, which results in better coverage and capacity while simultaneously reducing interference. Additionally, in-building DAS provides seamless signal handover for users inside buildings and can support multi-operator, multi-frequency and multi-protocol (2G, 3G, 4G) solutions. In contrast, small cells are small, self-contained radio units that provide single frequency and single-provider service to a relatively small area, similar to a Wi-Fi access point. The benefits of small cell technologies are becoming increasingly important with the trend towards BYOD (bring your own device) in the enterprise market. 
+
+Operators also commonly use traditional DAS solutions to address outdoor capacity issues in urban areas, deploying them in effect as metro cells. This urban network capacity issue can be solved by deploying multi-band, multi-technology solutions to create small coverage re-use areas. Re-use of spectrum allows wireless operators to optimize capacity of existing licensed spectrum by significantly increasing repeated usage of the same frequencies within a defined coverage area. 
+
+&#160;
+
+FTTx Deployments 
+
+Residential and business bandwidth consumption continues to grow substantially. As a result, many operators are installing fiber deeper into their networks to increase capacity. The proliferation of and over-the-top video, multiscreen viewing, cloud services and social media are prompting operators to accelerate their plans for fiber deployment. While the devices consumers use are increasingly connected to the network via a wireless connection such as LTE or Wi-Fi, these wireless access points must have abundant backhaul capacity available to allow the consumer the experience they expect. From increased deployments of Fiber to the Node (FTTN), Fiber to the Premises (FTTP), and Fiber to the Distribution Point (FTTdP), operators around the world are deploying next generation networks. These networks use the capabilities of fiber to enable consumers access to the content they are looking for at higher speeds and with lower latency. 
+
+Growth in Data Center Spending 
+
+Organizations are increasingly investing in data centers to provide products and services to individuals and businesses. Data center investment is driven by the increase in demand for computing power and improved network performance, which is greatest for large enterprise data centers and cloud service providers. We expect there to be growing demand for scalable, flexible data center solutions. 
+
+An increase in average data center size and the number of assets in a data center significantly raises the total cost of ownership and the complexity of managing data center infrastructure. Data center operators strive to manage their resources efficiently and to reduce energy consumption by monitoring all elements within the data center. Data center infrastructure management (DCIM) software helps operators improve operational efficiency, maximize capability and reduce costs by providing clear insight into cooling capacity, power usage, utilization, applications and overall performance. 
+
+Transition to Intelligent Buildings 
+
+Business enterprises are managing the proliferation of wireless devices, the impact of cloud computing and emergence of wireless and wired business applications. This increasing complexity creates the need for infrastructure to support growing bandwidth requirements, in-building cellular coverage and capacity and software that monitors the physical layer. These enterprises are also investing in communications and building automation systems to enhance energy efficiency, improve productivity and increase comfort. These intelligent building infrastructure solutions often include integrated network software and small cell or DAS. 
+
+Strategy 
+
+We believe the BNS acquisition will accelerate our strategy to drive profitable growth by expanding our business into attractive adjacent markets and to broaden our position as a leading communications infrastructure provider. We believe the transaction positions us for future growth and value creation by creating a company with leading positions across diverse and growing segments and geographies, significantly expanding our platform for innovative solutions, creating complementary market opportunities and offering significant synergy opportunities and a strong financial profile. We believe the combination of this business with ours places us at the core of key secular growth trends in the markets we serve. It is our strategy to capitalize on these opportunities and to: 
+
+Integrate BNS and CommScope Effectively and Quickly 
+
+We plan to establish a streamlined organizational structure to maximize our team&#146;s talents and market opportunities, manage change effectively with our employees and customers and execute timely systems integrations. We expect to realize at least $175 million of annual cost synergies by 2018 through the integration of BNS. 
+
+&#160;
+
+Continue Product Innovation 
+
+We plan to build on our legacy of innovation and on our worldwide portfolio of patents and patent applications by continuing to invest in research and development. We expect to establish a steady long-term stream of innovative and industry-leading infrastructure solutions for customers through significant investment in research and development. Technological innovation such as our base station antenna technology, DAS, small cell and intelligent enterprise infrastructure solutions build upon our leadership positions by providing new, high-performance communications infrastructure solutions for our customers. 
+
+Enhance Sales Growth 
+
+We expect to capitalize on our scale, market position and broad offerings to generate growth opportunities by: 
+
+&#160;
+
+&#149; &#160; Offering existing products and solutions into new geographies. For example, we have recently strengthened sales channels in India and China, thereby positioning us favorably for Enterprise growth in these markets. &#160;
+
+&#149; &#160; Cross-selling our offerings into new markets. We intend to build upon our RF technology expertise with small cell and DAS solutions to continue to develop in-building cellular solutions for enterprises, and we will continue to look for complementary opportunities to cross-sell our offerings. &#160;
+
+&#149; &#160; Continuing to drive solutions offerings. We intend to focus on selling solution offerings to our customers consistent with their evolving needs, thereby enhancing our position as a strategic partner to our customers. With the addition of the robust fiber portfolio of the BNS business, we have the opportunity to broaden our range of solutions. &#160;
+
+&#149; &#160; Making strategic acquisitions. We have a disciplined approach to evaluating and executing complementary and strategic acquisitions and successfully integrating those acquisitions. Continue to Enhance Operational Efficiency and Cash Flow Generation 
+
+We continuously pursue strategic initiatives aimed at optimizing our resources by reducing manufacturing and distribution costs and lowering our overall cost structure. We believe that we have a strong track record of improving operational efficiency and successfully executing on formalized annual profit improvement plans, cost-savings initiatives and modest working capital improvements to drive future profitability and cash flows. We intend to utilize the cash that we generate to invest in our business, make strategic acquisitions and reduce our indebtedness. 
+
+Operating Segments 
+
+Following the BNS acquisition, management operated and managed the Company in the following four reportable segments: Wireless, Enterprise, Broadband and Broadband Network Solutions (BNS). Management is re-evaluating reportable segments as a result of the on-going integration of the BNS business. The results of the BNS segment are included in our consolidated results of operations from the date of acquisition, August 28, 2015, through December 25, 2015 (the fiscal period end for BNS). Through our Andrew brand, we are a global leader in providing merchant RF wireless network connectivity solutions and small cell DAS solutions. Through our SYSTIMAX, Uniprise and AMP NETCONNECT brands, we are a global leader in enterprise connectivity solutions, delivering a complete end-to-end physical layer solution, including connectivity and cables, enclosures, data center and network intelligence software, in-building wireless and network design services for enterprise applications and data centers. We are a premier manufacturer of coaxial and fiber optic cable for residential broadband networks globally. We are also a global leader in fiber optic connectivity for wireline and wireless networks. 
+
+&#160;
+
+Net revenues are distributed among the four segments as follows: 
+
+&#160;
+
+&#160; &#160; Year Ended December 31, &#160; &#160; &#160; 2015 &#160; &#160; 2014 &#160; &#160; 2013 &#160; Wireless
+
+&#160; &#160; 50.9 % &#160; &#160; 64.5 % &#160; &#160; 62.5 % Enterprise
+
+&#160; &#160; 22.7 &#160; &#160; &#160; 22.2 &#160; &#160; &#160; 23.7 &#160; Broadband
+
+&#160; &#160; 12.5 &#160; &#160; &#160; 13.3 &#160; &#160; &#160; 13.8 &#160; BNS
+
+&#160; &#160; 13.9 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total
+
+&#160; &#160; 100.0 % &#160; &#160; 100.0 % &#160; &#160; 100.0 % &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Wireless 
+
+We are a global leader in providing merchant RF wireless network connectivity solutions and small cell and DAS solutions to enable carriers&#146; 2G, 3G and 4G networks. Our solutions, marketed primarily under the Andrew brand, enable wireless operators to deploy macro cell site, metro cell site, DAS and small cell solutions to meet a network&#146;s coverage and capacity requirements. We focus on all aspects of the Radio Access Network (RAN) from the macro through the metro to the indoor layer. 
+
+Our macro cell site solutions can be found at wireless tower sites and on rooftops and include base station antennas, microwave antennas, hybrid fiber-feeder and power cables, coaxial cables, connectors and filters. Our metro cell solutions can be found outdoors on street poles and on other urban structures and include RF delivery and connectivity solutions, equipment housing and concealment. These fully integrated outdoor systems consist of specialized antennas, filters/combiners, backhaul solutions, intra-system cabling and power distribution, all minimized to fit an urban environment. Our small cell and DAS solutions are primarily comprised of distributed antenna systems and distributed cell solutions that allow wireless operators to increase spectral efficiency and thereby extend and enhance cellular coverage and capacity in challenging network conditions such as commercial buildings, urban areas, stadiums and transportation systems. 
+
+Our macro cell site, metro cell site, DAS and small cell solutions establish us as a global leader in RF infrastructure solutions for wireless operators and original equipment manufacturers (OEMs). We provide a one-stop source for managing the technology lifecycle of a wireless network, including complete physical layer infrastructure solutions for 2G, 3G and 4G. Our comprehensive solutions include products for every major wireless protocol and allow wireless network operators to operate across multiple frequency bands, reduce cost, achieve faster data rates and accelerate migration to the latest wireless technologies. Our wireless solutions are built using a modular approach, which has allowed us to leverage our core technology across generations of networks and mitigate technology risk. We provide a complete portfolio of RF infrastructure, and we are recognized for our leading technologies, comprehensive product portfolio and global scale. 
+
+To expand our Wireless segment offerings, in late 2015, we acquired the operations of Airvana LP (Airvana), a leader in small cell solutions. This acquisition expanded our leadership and capabilities in providing indoor wireless capacity and coverage. The combination of Airvana&#146;s innovative small cell offerings and our industry-leading DAS portfolio enables us to provide a broader range of solutions, addressing single-operator, single-band, low capacity environments all the way through multi-carrier, multi-technology, multi-band, high capacity environments. In 2014 we acquired two businesses of United Kingdom-based Alifabs Group (Alifabs). Alifabs designs and supplies metro cell enclosures, monopoles, smaller streetworks towers and tower solutions for the United Kingdom telecommunications, utility and energy markets. We plan to leverage our sales and distribution networks to expand the services and solutions offering for Alifabs&#146; products across Europe. 
+
+Enterprise 
+
+We are a global leader in enterprise connectivity solutions for data centers and commercial buildings, comprised of voice, video, data and converged solutions that support mission-critical, high-bandwidth applications, 
+
+&#160;
+
+including storage area networks, streaming media, data backhaul, cloud applications and grid computing. These comprehensive solutions, sold primarily under the SYSTIMAX and Uniprise brands, include optical fiber and twisted pair structured cable solutions, intelligent infrastructure software, network rack and cabinet enclosures, modular data centers and network design services. 
+
+Our Enterprise connectivity solutions deliver data speeds up to 100 gigabits per second (Gbps). We integrate our structured cabling, connectors, in-building cellular solutions and network intelligence capabilities to create physical layer solutions that enable voice, video and data communication and building automation. We use proprietary modeling and simulation techniques to optimize networks to provide performance that exceeds established standards. Our network design services and global network of partners offer customers custom, turnkey network solutions that are tailored to each customer&#146;s unique requirements. 
+
+We complemented our leading physical layer offerings during 2013 through the acquisition of iTRACS Corporation (iTRACS), a leading provider of DCIM software, with unique network intelligence capabilities that complements our data center offerings. 
+
+We maintain a leading global market position in enterprise connectivity and network intelligence for data center and commercial buildings due to our differentiated technology, long-standing relationships with customers and channel partners, strong brand recognition, premium product features and the performance and reliability of our solutions. We also believe our global Enterprise sales channel and industry-leading DAS solutions uniquely position us to address the wireless operator and business owner&#146;s desire for ubiquitous in-building cellular coverage. 
+
+Broadband 
+
+We are a global leader in providing cable and communications products that support the multichannel video, voice and high-speed data services provided by MSOs. We believe we are the leading global manufacturer of coaxial cable for hybrid fiber-coaxial (HFC) networks and a leading supplier of fiber optic cable for North American MSOs. 
+
+The Broadband segment is our most mature business, and we expect demand for Broadband products to continue to be influenced by the ongoing maintenance requirements of cable networks, competition between cable providers and wireless operators and the residential construction market activity in North America. We are focused on improving the profitability and efficiency of this segment through improving utilization of our factories, rationalizing our product portfolio and other cost reduction initiatives. However, we believe that the increasing demand for fiber in broadband networks in combination with the addition of the BNS portfolio of fiber solutions will provide new opportunities for growth over the longer-term. 
+
+BNS 
+
+The BNS segment provides fiber-optic and copper connectivity solutions for telecom and enterprise markets as well as DAS solutions for the wireless market. The connectivity solutions offered by our BNS segment include FTTx solutions, data center solutions and central office connectivity and equipment, all of which include a robust portfolio of fiber optic connectors. Additional connectivity solutions offered by our BNS segment include fiber management systems, patch cords and panels, complete cabling systems and cable assemblies for use in office, data center, factory and residential applications. The wireless market solutions offered by our BNS segment include radio frequency distribution and distributed antenna systems to enhance wireless coverage and capacity. 
+
+&#160;
+
+Products 
+
+&#160;
+
+Solutions Offering 
+
+&#160; Description 
+
+Cell site solutions &#160; &#160;
+
+&#160;
+
+&#160; Our cell site solutions can be found at wireless tower sites and on rooftops and include base station antennas, microwave antennas, hybrid fiber-feeder and power cables, coaxial cables, connectors and filters. Metro cell concealment solutions &#160; &#160;
+
+&#160;
+
+&#160; Our metro cell solutions include RF delivery, equipment housing and concealment. The fully integrated outdoor systems include specialized antennas, filters/combiners, intra-system cabling and power distribution in a minimalistic, concealment form factor. These solutions facilitate site acquisition and improve RF network performance in the metro area while minimizing interference with the macro layer. Furthermore they expedite construction and enable faster zoning approvals.
+
+&#160;
+
+Small cell and DAS solutions &#160; &#160;
+
+&#160;
+
+&#160; Our small cell and DAS solutions allow wireless operators to increase spectral efficiency, thereby extending and enhancing cellular coverage and capacity in challenging network conditions such as urban areas, commercial buildings, stadiums and transportation systems. Our Airvana acquisition expanded our leadership and capabilities in providing indoor wireless capacity and coverage.
+
+&#160;
+
+Fiber optic connectivity solutions &#160; &#160;
+
+&#160;
+
+&#160; Our fiber optic connectivity solutions are primarily comprised of fiber optic connectors, splices, splice closures, fiber management systems, high density cable assemblies, couplers and splitters, and complete cabling systems. These products find use in both local-area and wide-area networks and &#147;last-mile&#148; fiber-to-the-home installations.
+
+&#160;
+
+Intelligent enterprise infrastructure solutions &#160;
+
+&#160;
+
+&#160; Our intelligent enterprise infrastructure solutions, sold primarily under the SYSTIMAX, Uniprise and AMP NETCONNECT brands, include optical fiber and twisted pair structured cable solutions, intelligent infrastructure software, network rack and cabinet enclosures and network design services.
+
+&#160;
+
+Data Center solutions &#160; &#160;
+
+&#160;
+
+&#160; We have complemented our leading physical layer solution offerings with the introduction of modular data centers (Data Center on Demand) and the addition of iTRACS, a leading provider of DCIM software, which provides unique network intelligence capabilities. &#160;
+
+Solutions Offering 
+
+&#160; Description 
+
+Broadband MSO solutions &#160; &#160;
+
+&#160;
+
+&#160; We provide a broad portfolio of cable solutions including fiber-to-the- home equipment and headend solutions for MSOs. Manufacturing and Distribution 
+
+We develop, design, fabricate, manufacture and assemble many of our products and solutions in-house at our facilities located around the world. We have strategically located our manufacturing and distribution facilities to provide superior service levels to customers. We have utilized lower cost geographies for high labor content products while investing in largely automated plants in higher cost regions close to customers. Currently, more than half of our manufacturing employees are located in lower-cost geographies such as China, Mexico, India and the Czech Republic. We continually evaluate and adjust operations to improve service, lower cost and improve the return on our capital investments. In addition, we utilize contract manufacturers for many of our product groups, including certain cabinets, power amplifiers and filter products. We believe that we have enough production capacity in place today to support current business levels and expected growth with modest capital investments. 
+
+Research and Development 
+
+Research and development is important to preserve our position as a market leader and to provide the most technologically advanced solutions in the marketplace. We have invested more than $120 million in research and development in each of the last three years and we expect that investment to increase in future years with the addition of the BNS business. Our major research and development activities relate to ensuring our wireless products can meet our customers&#146; changing needs and to developing new enterprise structured-cabling solutions as well as improved functionality and more cost-effective designs for cables and apparatus. Many of our professionals maintain a presence in standards-setting organizations which helps ensure that our products can be formulated to achieve broad market acceptance. 
+
+Customers 
+
+Our customers include substantially all of the leading global telecom operators as well as thousands of enterprise customers, including many Fortune 500 enterprises, and leading cable television providers or MSOs, which we serve both directly and indirectly. Major customers and distributors include companies such as Anixter International Inc., AT&#38;T Inc., Verizon Communications Inc., Comcast Corporation, T-Mobile US, Inc., Graybar Electric Company Inc., Ericsson Inc., Alcatel-Lucent SA, Ooredoo and Huawei Technologies Co., Ltd. We support our global sales organization with regional service centers in locations around the world. 
+
+Products from our Wireless segment are primarily sold directly to wireless operators, to OEMs that sell equipment to wireless operators or to other service providers that deploy elements of wireless networks at the direction of wireless operators. Our customer service and engineering groups maintain close working relationships with these customers due to the significant amount of design and customization associated with some of these products. Direct sales to our top three Wireless segment customers represented 14% of our consolidated net sales for the year ended December 31, 2015 and 19% of our consolidated net sales for the year ended December 31, 2014. Sales to our top three OEM customers represented 6% and 8% of our consolidated net sales for the years ended December 31, 2015 and 2014, respectively. No direct Wireless segment customer accounted for 10% or more of our consolidated net sales for the years ended December 31, 2015 or 2014. 
+
+&#160;
+
+The Enterprise segment has a dedicated sales team that generates customer demand for our solutions, which are sold to thousands of end customers primarily through independent distributors, system integrators and value-added resellers. Direct sales of Enterprise products to our top three Enterprise segment customers, all of whom are distributors, represented 15% of our consolidated net sales for the years ended December 31, 2015 and 2014. Net sales to our largest distributor, Anixter International Inc. and its affiliates (Anixter), accounted for 12% and 11% of our consolidated net sales for the years ended December 31, 2015 and December 31, 2014, respectively. 
+
+Broadband segment products are primarily sold directly to cable television system operators. Although we sell to a wide variety of customers dispersed across many different geographic areas, sales to our three largest domestic broadband customers represented 7% and 6% of our consolidated net sales for the years ended December 31, 2015 and 2014, respectively. 
+
+Telecom products from our BNS segment are primarily sold directly to broadband operators or to service providers that deploy broadband networks at the direction of broadband operators around the world. Enterprise products from our BNS segment are sold to thousands of end customers primarily through independent distributors, system integrators and value-added resellers. Wireless products from our BNS segment are primarily sold directly to wireless operators, to OEMs that sell equipment to wireless operators or to other service providers that deploy elements of wireless networks at the direction of wireless operators. Direct sales of BNS products to our top three BNS segment customers represented 3% of our consolidated net sales for the year ended December 31, 2015. 
+
+We generally have no minimum purchase commitments with any of our distributors, system integrators, value-added resellers, wireless operators or OEM customers, and our contracts with these parties do not prohibit them from purchasing or offering products or services that compete with ours. While we maintain long-term relationships with these parties and have not historically lost key customers, we have experienced variability in the level of purchases by our key customers, and any significant reduction in sales to these customers, including as a result of the inability or unwillingness of these customers to continue purchasing our products, or their failure to properly manage their business with respect to the purchase of and payment for our products, could materially and adversely affect our business, results of operations, financial condition and cash flows. See Part I, Item 1A, &#147;Risk Factors&#148;. 
+
+We employ a global manufacturing and distribution strategy to control production costs and improve service to customers. We support our international sales efforts with sales representatives based in Europe, Latin America, Asia and other regions throughout the world. Our net sales from international operations were $1.9 billion, $1.7 billion and $1.6 billion for the years ended December 31, 2015, 2014 and 2013. 
+
+Patents and Trademarks 
+
+We pursue an active policy of seeking intellectual property protection, namely patents and registered trademarks, for new products and designs. On a worldwide basis, we held approximately 10,000 patents and patent applications and approximately 3,000 registered trademarks and trademark applications as of December 31, 2015. We consider our patents and trademarks to be valuable assets, and while no single patent is material to our operations as a whole, we believe the CommScope, Andrew, SYSTIMAX, Heliax and AMP NETCONNECT, trade names and related trademarks are critical assets to our business. We intend to rely on our intellectual property rights, including our proprietary knowledge, trade secrets and continuing technological innovation, to develop and maintain our competitive position. We will continue to protect our key intellectual property rights. 
+
+Backlog and Seasonality 
+
+At December 31, 2015 and December 31, 2014, we had an order backlog of $572 million and $479 million, respectively. Orders typically fluctuate from quarter to quarter based on customer demand and general business conditions. Our backlog includes only orders that are believed to be firm. In some cases, unfilled orders may be canceled prior to shipment of goods, but cancellations historically have not been material. However, our current order backlog may not be indicative of future demand. 
+
+&#160;
+
+Due to the variability of shipments under large contracts, customers&#146; seasonal installation considerations and variations in product mix and in profitability of individual orders, we can experience significant quarterly fluctuations in sales and operating income. Our operating performance is typically weaker during the first and fourth quarters and stronger during the second and third quarters. These variations are expected to continue in the future. Consequently, it may be more meaningful to focus on annual rather than interim results. 
+
+Competition 
+
+The market for our products is highly competitive and subject to rapid technological change. We encounter significant domestic and international competition across all segments of our business. Our competitors include large, diversified companies &#150; some of whom have substantially more assets and greater financial resources than we do &#150; as well as small to medium-sized companies. We also face competition from less diversified companies that have concentrated their efforts in one or more areas of the markets we serve. Our competitors include Amphenol Corporation, Belden Inc., Berk-Tek (a company of Nexans S.A.), Comba Telecom Systems Holding Ltd., Corning Incorporated, Emerson Electric Co., Ericsson Inc., Huawei Technologies Co., Ltd., JMA Wireless, KATHREIN-Werke KG, Nokia, Panduit Corp., RFS (a division of Alcatel-Lucent SA), SOLiD Technologies and SpiderCloud Wireless, Inc. We compete primarily on the basis of delivering solutions, product specifications, quality, price, customer service and delivery time. We believe that we differentiate ourselves in many of our markets based on our market leadership, global sales channels, intellectual property, strong reputation with our customer base, the scope of our product offering, the quality and performance of our solutions and our service and technical support. 
+
+Competitive Strengths 
+
+We believe the following competitive strengths have been instrumental to our success and position us well for future growth and strong financial performance. 
+
+Global Market Leadership Position 
+
+We are a global leader in connectivity and essential infrastructure solutions for communications networks, and we believe we hold leading market positions across our segments. 
+
+Since our founding in 1976, CommScope has been a leading brand in connectivity solutions for communications networks. In the wireless industry, Andrew is one of the world&#146;s most recognized brands and a global leader in RF solutions for wireless networks. In the enterprise market, SYSTIMAX, Uniprise and AMP NETCONNECT are recognized as global market leaders in enterprise connectivity solutions for business enterprise and data center applications. 
+
+Global Scale and Manufacturing Footprint 
+
+Our global manufacturing footprint and worldwide sales force give us significant scale within our addressable markets. We believe our scale and stability make us an attractive strategic partner to our large global customers, and we have been repeatedly recognized by key customers for these attributes. In addition, our ability to leverage our core competencies across our business coupled with our successful track record of operational efficiencies has allowed us to improve our margins and cash flows while continuing to invest in research and development and acquisitions targeting new products and new markets. 
+
+Our manufacturing and distribution facilities are strategically located to optimize service levels and product delivery times. We also utilize lower-cost geographies for high labor content products and largely automated plants in higher-cost regions. Currently, more than half of our manufacturing employees are located in lower-cost geographies such as China, Mexico, India and the Czech Republic. Our dynamic manufacturing and distribution organization allows us to: 
+
+&#160;
+
+&#160; &#149; &#160; flex our capacity to meet market demand and expand our market position; &#160;
+
+&#160; &#149; &#160; provide high customer service levels due to proximity to the customer; and &#160;
+
+&#160; &#149; &#160; effectively integrate acquisitions and capitalize on related synergies. Differentiated Solutions Supported by Ongoing Innovation and Significant Proprietary Intellectual Property (IP) 
+
+Our integrated solutions for wireless, enterprise, fiber optic and broadband networks are differentiated in the marketplace and are a significant global competitive advantage. We have invested more than $120 million in research and development in each of the last three years. We have also added significant IP and innovation through acquisitions, such as Airvana, which expanded our leadership and capabilities in providing indoor wireless capacity and coverage and Argus Technologies (Argus), which enhanced our next-generation base station antenna technology. Our ongoing innovation, supported by proprietary IP and technology know-how, has allowed us to sustain this competitive advantage. The transformational BNS acquisition substantially expanded our foundation of innovation with the addition of BNS&#146;s approximately 7,000 patents and patent applications worldwide. Further, BNS&#146;s leading fiber technology will help us better address a transition to fiber deployments deeper into networks and data centers as consumers and businesses generate increasing bandwidth requirements. With these new innovative solutions, we expect to solve more customer communications challenges, while providing greater opportunities to our business partners. 
+
+&#160;
+
+&#160; &#149; &#160; Integrated solutions . Our wireless network offerings include complete connectivity solutions supporting 2G, 3G and 4G wireless technologies for both macro and metro, as well as DAS and small cell sites. We are able to provide a complete portfolio of integrated RF solutions from the output of the base station (or baseband processor) at the bottom of the tower to the antenna at the top of the tower. In the enterprise market, we deliver a comprehensive solution including connectivity and cables, enclosures, network intelligence software and network design services. In the FTTx market, we are able to offer end-to-end solutions including connectors, cabling, splice closures and fiber management systems. Our ability to provide integrated connectivity solutions for wireless, enterprise, fiber optic and broadband networks makes us a value-added solutions provider to our customers and gives us a significant competitive advantage. &#160;
+
+&#160; &#149; &#160; Strong design capabilities and technology know-how . We have a long tradition of developing highly engineered connectivity solutions, demonstrating superior performance across various generations of networks. Our ongoing focus on engineering innovation has enabled us to create high quality products that are reliable, have a desirable form factor and enable our customers to optimize the performance, flexibility, installation time, energy consumption and space requirements of their network deployments. &#160;
+
+&#160; &#149; &#160; Significant proprietary IP . Our proven record of innovation and decades of experience creating market-leading technology products are evidenced by our approximately 10,000 patents and patent applications, as well as our approximately 3,000 registered trademarks and trademark applications, worldwide. Our significant proprietary IP, when combined with our deep engineering expertise, allows us to create industry defining solutions for customers around the world. Established Sales Channels and Customer Relationships 
+
+We serve customers in over 100 countries and have become a trusted advisor to many of them through our industry expertise, quality, technology and long-term relationships. These factors enable us to provide mission-critical connectivity solutions that our customers need to build high-performing communication networks. 
+
+Our customers include substantially all of the leading global telecom operators as well as thousands of enterprise customers, including many Fortune 500 enterprises, and leading cable television providers or MSOs. We are a key merchant supplier within the wireless infrastructure market and enjoy established sales channels across all geographies and technologies. Our long-standing relationships with telecommunication operators enable us to work closely with them in providing highly customized solutions that are aligned with their technology roadmaps. We have a global Enterprise segment sales force with sales representatives based in North America, 
+
+&#160;
+
+Europe, Latin America, Asia and other regions, and an extensive global network of channel partners including independent distributors, system integrators and value-added resellers. Our Enterprise segment sales force has direct relationships with our Enterprise customers and generates demand for our products, with sales fulfilled primarily through channel partners. Our direct sales force and channel partner relationships give us extensive reach and distribution capabilities to customers globally. Our Broadband segment products are primarily sold directly to MSOs with whom we have long-standing relationships. 
+
+Proven Management Team with Record of Operational Excellence and Successful M&#38;A Integration 
+
+We have a strong track record of organically growing market share, establishing leadership positions in new markets, managing cash flows, delivering profitable growth across multiple economic cycles and integrating large and small acquisitions. Our senior management team has an average of more than 20 years of experience in connectivity solutions for the communications infrastructure industry. 
+
+We have a history of strong operating cash flow and have generated approximately $1.2 billion in cumulative operating cash flow over the last five fiscal years. Our strong cash flow profile has allowed us to continue to invest in innovative research and development, pursue strategic acquisitions, repay debt and return cash to stockholders prior to our initial public offering in 2013 (the IPO). We continuously pursue strategic initiatives aimed at optimizing our resources, reducing manufacturing and distribution costs and lowering our overall cost structure. 
+
+Throughout our history, we have successfully complemented our strong organic growth with strategic acquisitions. While we are early in the process of integrating BNS, our management team has effectively integrated other large acquisitions, such as Andrew Corporation in 2007 and Avaya Connectivity Solutions in 2004, as well as executed tuck-in acquisitions, such as Argus, iTRACS and Alifabs, to help expand our market opportunities and continue to solve our customers&#146; business challenges in multiple growth areas. We have also made strategic minority investments in order to gain access to key technologies or capabilities. 
+
+Raw Materials 
+
+Our products are manufactured or assembled from both standard components and parts that are unique to our specifications. Our internal manufacturing operations are largely process oriented and we use significant quantities of various raw materials, including copper, aluminum, steel, brass, plastics and other polymers, fluoropolymers, bimetals and optical fiber, among others. We use significant volumes of copper, aluminum, steel and polymers in the manufacture of coaxial and twisted pair cables and antennas. Other parts are produced using processes such as stamping, machining, molding and pressing from metals or plastics. Portions of the requirements for these materials are purchased under supply arrangements where some portion of the unit pricing may be indexed to commodity market prices for these metals. We may, from time to time, enter into forward purchase commitments for a specific commodity to mitigate our exposure to price changes for a portion of our anticipated purchases. Certain of the raw materials utilized in our products may only be available from a limited number of suppliers. We may, therefore, encounter availability issues and/or significant price increases. 
+
+Our profitability may be materially affected by changes in the market price of our raw materials, most of which are linked to the commodity markets. Prices for copper, aluminum, fluoropolymers and certain other polymers derived from oil and natural gas have fluctuated substantially during the past several years. As a result, we have adjusted our prices for certain Wireless, Enterprise and Broadband segment products and may have to adjust prices again in the future. Delays in implementing price increases, failure to achieve market acceptance of price increases, or price reductions in response to a rapid decline in raw material costs, could have a material adverse impact on the results of our operations. 
+
+In addition, some of our products are assembled from specialized components and subassemblies manufactured by suppliers. We are dependent upon sole suppliers for certain key components for some of our products. If these 
+
+&#160;
+
+sources were not able to provide these components in sufficient quantity and quality on a timely and cost efficient basis, it could materially impact our results of operations until another qualified supplier is found. We believe that our supply contracts and our supplier contingency plans mitigate some of this risk. 
+
+Environment 
+
+We are subject to various federal, state, local and foreign environmental laws and regulations governing, among other things, discharges to air and water, management of regulated materials, handling and disposal of solid and hazardous waste, and investigation and remediation of contaminated sites. In addition, we are or may be subject to laws and regulations regarding the types of substances allowable in certain of our products and the handling of our products at the end of their useful life. Because of the nature of our business, we have incurred and will continue to incur costs relating to compliance with or liability under these environmental laws and regulations. In addition, new laws and regulations, new or different interpretations of existing laws and regulations, the discovery of previously unknown contamination or the imposition of new remediation or discharge requirements, could require us to incur costs or become the basis for new or increased liabilities that could have a material adverse effect on our financial condition and results of operations. For example, the European Union has issued Restriction of Hazardous Substances Directive 2011/65/EU (RoHS 2), Registration, Evaluation, Authorization and restriction of Chemicals (REACH) and Waste Electrical and Electronic Equipment Directive 2012/19/EU (WEEE) regulating the manufacture, use and disposal of electrical goods and chemicals. If we do not comply with these and similar laws in other jurisdictions or sufficiently increase prices or otherwise reduce costs to offset the increased cost of compliance, it could have a material adverse effect on our business, financial condition and results of operations. 
+
+Efforts to regulate emissions of GHGs, such as carbon dioxide, are underway in the U.S. and other countries which could increase the cost of raw materials, production processes and transportation of our products. If we are unable to comply with such regulations or sufficiently increase prices or otherwise reduce costs to offset the increased costs of compliance, GHG regulation could have a material adverse effect on our results of operations. 
+
+Certain environmental laws impose strict and in some circumstances joint and several liability (that could result in an entity paying more than its fair share) on current or former owners or operators of a contaminated property, as well as companies that generated, disposed of or arranged for the disposal of hazardous substances at a contaminated property, for the costs of investigation and remediation of the contaminated property. Our present and past facilities have been in operation for many years and over that time, in the course of those operations, hazardous substances and wastes have been used, generated and disposed of at such facilities and investigation and remediation projects are underway at a few of these sites. There can be no assurance that the contractual indemnifications we have received from prior owners and operators of certain of these facilities will continue to be honored. In addition, we have disposed of waste products either directly or through third parties at numerous disposal sites, and from time to time we have been and may be held responsible for investigation and clean-up costs at these sites where those owners and operators have been unable to remain in business. Also, there can be no guarantee that new environmental requirements or changes in their enforcement or the discovery of previously unknown conditions will not cause us to incur additional costs for environmental matters which could be material. 
+
+Employees 
+
+As of December 31, 2015, we had a team of approximately 23,000 people to serve our customers worldwide. The majority of our employees are located outside of the United States. As a matter of policy, we seek to maintain good relations with our employees at all locations. We are not subject to any collective bargaining agreements in the United States. A significant portion of our international employees are members of unions or subject to workers&#146; councils or similar statutory arrangements. From a companywide perspective, we believe that our relations with our employees and unions or workers&#146; councils are satisfactory though we have experienced challenges in certain countries and may encounter more such challenges in the future. Historically, periods of labor unrest or work stoppage have not had a material impact on our operations or results. 
+
+&#160;
+
+Available Information 
+
+Our website ( www.commscope.com ) contains frequently updated information about us and our operations. Our filings with the Securities and Exchange Commission (SEC) on Form 10-K, Form 10-Q, Form 8-K and Proxy Statements and all amendments to those reports can be viewed and downloaded free of charge as soon as reasonably practicable after the reports and amendments are electronically filed with or furnished to the SEC by accessing www.commscope.com and clicking on Investors and then clicking on SEC Filings . The information contained on or incorporated by reference to our website is not a part of this Annual Report on Form 10-K. 
+
+SEC Certifications 
+
+The certifications by the Chief Executive Officer and Chief Financial Officer of the Company, required under Section 302 of the Sarbanes-Oxley Act of 2002 (the Sarbanes-Oxley Act), have been filed as exhibits to this Annual Report on Form 10-K. 
+
+Executive Officers and Directors of the Registrant 
+
+The following table provides information regarding our executive officers and Board of Directors: 
+
+&#160;
+
+Name 
+
+&#160; Age 
+
+&#160; Position 
+
+Marvin (Eddie) S. Edwards, Jr.
+
+&#160; 67 &#160; President, Chief Executive Officer and Director
+
+Randall W. Crenshaw
+
+&#160; 58 &#160; Executive Vice President and Chief Operating Officer
+
+Mark A. Olson
+
+&#160; 57 &#160; Executive Vice President and Chief Financial Officer
+
+Peter U. Karlsson
+
+&#160; 52 &#160; Senior Vice President, Global Sales
+
+Frank (Burk) B. Wyatt, II
+
+&#160; 53 &#160; Senior Vice President, General Counsel and Secretary
+
+Philip M. Armstrong, Jr.
+
+&#160; 54 &#160; Senior Vice President, Corporate Finance
+
+Robert W. Granow
+
+&#160; 58 &#160; Senior Vice President, Corporate Controller and Principal Accounting Officer Joanne L. Townsend
+
+&#160; 62 &#160; Senior Vice President, Human Resources
+
+Frank M. Drendel
+
+&#160; 71 &#160; Director and Chairman of the Board
+
+Austin A. Adams
+
+&#160; 72 &#160; Director
+
+Campbell (Cam) R. Dyer
+
+&#160; 42 &#160; Director
+
+Stephen (Steve) C. Gray
+
+&#160; 57 &#160; Director
+
+L. William (Bill) Krause
+
+&#160; 73 &#160; Director
+
+Joanne M. Maguire
+
+&#160; 62 &#160; Director
+
+Thomas J. Manning
+
+&#160; 60 &#160; Director
+
+Claudius (Bud) E. Watts IV
+
+&#160; 54 &#160; Director
+
+Timothy T. Yates
+
+&#160; 68 &#160; Director
+
+Marvin (Eddie) S. Edwards, Jr. 
+
+Mr. Edwards became our President and Chief Executive Officer and a member of our Board of Directors following the acquisition of CommScope, Inc. by Carlyle in January 2011 (the Carlyle acquisition). From January 1, 2010 to the Carlyle acquisition, Mr. Edwards was our President and Chief Operating Officer. Prior to that, Mr. Edwards served as our Executive Vice President of Business Development and General Manager, Wireless Network Solutions since the closing of the Andrew acquisition in 2007. Prior to the Andrew acquisition, he served as our Executive Vice President of Business Development and the Chairman of the Board of Directors of our wholly-owned subsidiary, Connectivity Solutions Manufacturing LLC, since April 2005. Mr. Edwards also served as President and Chief Executive Officer of OFS Fitel, LLC and OFS BrightWave, LLC, a joint venture between our Company and The Furukawa Electric Co. Mr. Edwards has also served in various capacities with Alcatel, including President of Alcatel North America Cable Systems and President of Radio Frequency Systems. 
+
+&#160;
+
+Randall W. Crenshaw 
+
+Mr. Crenshaw became our Executive Vice President and Chief Operating Officer following the consummation of the Carlyle acquisition. From January 1, 2010 to the Carlyle acquisition, Mr. Crenshaw was our Executive Vice President and Chief Supply Officer. Prior to this role, Mr. Crenshaw was Executive Vice President and General Manager, Enterprise since February 2004. From 2000 to 2004, he served as Executive Vice President, Procurement, and General Manager, Network Products Group of our Company. Prior to that time, he held various other positions with our Company since 1985. 
+
+Mark A. Olson 
+
+Mr. Olson became our Executive Vice President and Chief Financial Officer on February 1, 2012. From November 2009 to January 2012, Mr. Olson served as our Senior Vice President and Corporate Controller. Mr. Olson served as Vice President and Controller for Andrew LLC since the closing of the Andrew acquisition. Prior to that acquisition, he was Vice President, Corporate Controller and Chief Accounting Officer of Andrew. Mr. Olson joined Andrew in 1993 as Group Controller, was named Corporate Controller in 1998, Vice President and Corporate Controller in 2000 and Chief Accounting Officer in 2003. Prior to joining Andrew, he was employed by Nortel and Johnson &#38; Johnson. 
+
+Peter U. Karlsson 
+
+Mr. Karlsson has been our Senior Vice President, Global Sales since July 2011. Mr. Karlsson previously served as Senior Vice President, Enterprise Sales since our acquisition of Avaya&#146;s Connectivity Solutions division in 2004. From 2002 to that acquisition, he was Global Vice President, Sales for Avaya&#146;s SYSTIMAX division. Mr. Karlsson joined AT&#38;T in 1989 holding several management positions in the Nordic and Sub-Sahara Africa regions, was named General Manager of Lucent Technologies Global Commercial Markets Southwest Territory in 1997 and Managing Director, Caribbean and Latin America for Lucent Global Business Partners Group in 1999 before transitioning to Vice President, Distribution for Avaya&#146;s Connectivity Solutions division. 
+
+Frank (Burk) B. Wyatt, II 
+
+Mr. Wyatt has been Senior Vice President, General Counsel and Secretary of CommScope since 2000. Prior to joining our company as General Counsel and Secretary in 1996, Mr. Wyatt was an attorney in private practice with Bell, Seltzer, Park &#38; Gibson, P.A. (now Alston &#38; Bird LLP). Mr. Wyatt is also our Chief Ethics and Compliance Officer. 
+
+Philip M. Armstrong, Jr. 
+
+Mr. Armstrong has been our Senior Vice President, Corporate Finance since November 2009. Mr. Armstrong previously served as Vice President, Investor Relations and Corporate Communications since 2000. Prior to joining CommScope in 1997, he held various Treasury and Finance positions at Carolina Power and Light Co. (formerly Progress Energy). 
+
+Robert W. Granow 
+
+Mr. Granow became our Vice President, Corporate Controller and Principal Accounting Officer on February 1, 2012 and was promoted to Senior Vice President in December 2013. Mr. Granow joined CommScope in 2004 and has held various positions within CommScope&#146;s Corporate Controller organization. Prior to joining our Company, he was employed by LifeSpan Incorporated, Aetna, Inc. and Arthur Andersen &#38; Co. 
+
+&#160;
+
+Joanne L. Townsend 
+
+Ms. Townsend became our Senior Vice President, Human Resources, in November 2012. Prior to joining CommScope, she was the Chief Human Resource Officer at Zebra Technologies Corporation from 2008 to November 2012. Additionally, Ms. Townsend worked for CommScope from 2007 to 2008 as a vice president of HR, supporting the Wireless segment. 
+
+Ms. Townsend has more than 30 years of experience in human resources (HR), including a long-term career with Motorola where she spent time in the Asia Pacific region as an expatriate in Hong Kong and had global responsibility for sales and marketing organizations; functional experience in employee relations, compensation and staffing; and experience in strategic HR support for a variety of business functions. 
+
+Frank M. Drendel 
+
+Mr. Drendel has been our Chairman of the Board since the Carlyle acquisition. He served as our Chairman of the Board and Chief Executive Officer from 1976 until the Carlyle acquisition. Mr. Drendel is a director of the National Cable &#38; Telecommunications Association, the principal trade association of the cable industry in the United States, and was inducted into the Cable Television Hall of Fame in 2002. Mr. Drendel joined the board of directors of Tyco International, Ltd. in 2012. He served as a director of General Instrument Corporation and its predecessors/successors from 1987 to 2000, as a director of Sprint Nextel Corporation from 2005 to 2008 and as a director of Nextel Communications, Inc. from 1997 to 2005. 
+
+Austin A. Adams 
+
+Mr. Adams became a member of our Board of Directors in 2014 and serves on our Audit Committee. He served as Executive Vice President and Corporate Chief Information Officer of JPMorgan Chase from 2004 (upon the merger of JPMorgan Chase and Bank One Corporation) until his retirement in 2006. Prior to the merger, Mr. Adams served as Executive Vice President and Chief Information Officer of Bank One from 2001 to 2004. Prior to joining Bank One, he was Chief Information Officer at First Union Corporation (now Wells Fargo &#38; Co.) from 1985 to 2001. Mr. Adams is also a director of the following public companies: Spectra Energy, Inc. and First Niagara Financial Group, Inc. He formerly served as a director of the following public companies: The Dun &#38; Bradstreet Corporation and CommunityOne Bancorp. 
+
+Campbell (Cam) R. Dyer 
+
+Mr. Dyer became a member of our Board of Directors following the Carlyle acquisition and serves on our Compensation and Nominating Committees. He currently serves as a Managing Director in the Technology Buyout Group of The Carlyle Group, which he joined in 2002. Prior to joining Carlyle, Mr. Dyer was an associate with the private equity firm William Blair Capital Partners, a consultant with Bain &#38; Company and an investment banking analyst in the M&#38;A Group of Bowles, Hollowell, Conner &#38; Co. He also serves on the board of directors of Dealogic, Veritas and formerly served on SS&#38;C Technologies. 
+
+Stephen (Steve) C. Gray 
+
+Mr. Gray became a member of our Board of Directors following the Carlyle acquisition. In 2015, Mr. Gray became President and CEO of Syniverse Holdings, Inc., a position he held on an interim basis from August 2014 to February 2015. From 2007 to 2015, he served as a Senior Advisor to The Carlyle Group. Mr. Gray is the Founder and Chairman of Gray Venture Partners, LLC a private investment company and previously served as President of McLeodUSA Incorporated from 1992 to 2004. Prior to joining McLeodUSA, he served from 1990 to 1992 as Vice President of Business Services at MCI Inc. and before that, from 1988 to 1990, he served as Senior Vice President of National Accounts and Carrier Services for TelecomUSA. From 1986 to 1988, Mr. Gray held a variety of sales management positions with WilTel Network Services and the Clayton W. Williams Companies, including ClayDesta Communications Inc. Mr. Gray serves as the Chairman of ImOn Communications, LLC, 
+
+&#160;
+
+SecurityCoverage, Inc., Involta, LLC and HH Ventures, LLC and he also serves on the board of directors for Syniverse Holdings, Inc. and served on the board of directors for Insight Communications, Inc. from 2005 until 2012. 
+
+L. William (Bill) Krause 
+
+Mr. Krause became a member of our Board of Directors following the Carlyle acquisition and serves as a member of our Compensation and Nominating Committees. Mr. Krause has been President of LWK Ventures, a private advisory and investment firm, since 1991. He also currently serves as a Senior Advisor to The Carlyle Group. In addition, Mr. Krause served as President and Chief Executive Officer of 3Com Corporation, a global data networking company, from 1981 to 1990, and as its Chairman from 1987 to 1993 when he retired. Mr. Krause currently serves on the boards of directors of the following public companies: Brocade Communications Systems, Inc., a networking systems supplier and Coherent, Inc., a leading supplier of Photonic-based systems. He also serves as Chairman of the Board of Veritas Holding, Ltd., an information management leader. Mr. Krause previously served as a director for the following public companies: Core-Mark Holding Company, Inc., Packateer, Inc., Sybase, Inc. and Trizetto Group, Inc. 
+
+Joanne M. Maguire 
+
+Ms. Maguire became a director in January 2016. She served as executive vice president of Lockheed Martin Space Systems Company (&#147;SSC&#148;), a provider of advanced-technology systems for national security, civil and commercial customers, from 2006 until she retired in 2013. Ms. Maguire joined Lockheed Martin in 2003 and assumed leadership of SSC in 2006. Prior to joining Lockheed Martin, Ms. Maguire was with TRW&#146;s Space &#38; Electronics sector (now part of Northrop Grumman) filling a range of progressively responsible positions from engineering analyst to Vice President and Deputy to the sector&#146;s CEO, serving in leadership roles over programs as well as engineering, advanced technology, manufacturing and business development organizations. Ms. Maguire also sits on the boards of directors of Visteon Corporation, Charles Stark Draper Laboratory and previously on the board of Freescale Semiconductor, Ltd. 
+
+Thomas J. Manning 
+
+Mr. Manning became a member of our Board in 2014 and serves on our Audit Committee. He has been a Lecturer in Law at The University of Chicago Law School, teaching courses on corporate governance, private equity and U.S.-China relations, and innovative solutions, since 2012. Mr. Manning is also a Senior Advisor to The Demand Institute, a joint venture of The Conference Board and The Nielsen Company, and an Affiliated Partner of Waterstone Management Group. Previously, he served as the Chief Executive Officer of Cerberus Asia Operations &#38; Advisory Limited, a subsidiary of Cerberus Capital Management, a global private equity firm, from 2010 to 2012, Chief Executive Officer of Indachin Limited from 2005 to 2009, Chairman of China Board of Directors Limited from 2005 to 2010, and a senior partner with Bain &#38; Company and a member of Bain&#146;s China board and head of Bain&#146;s information technology strategy practice in the Silicon Valley and Asia from 2003 to 2005. Prior to that, Mr. Manning served as Global Managing Director of the Strategy &#38; Technology Business of Capgemini, Chief Executive Officer of Capgemini Asia Pacific, and Chief Executive Officer of Ernst &#38; Young Consulting Asia Pacific, where he led the development of consulting and IT service and outsourcing businesses across Asia from 1996 to 2003. Early in his career, Mr. Manning was with McKinsey &#38; Company, Buddy Systems, Inc. and CSC Index. Mr. Manning is also a director of the following public companies: The Dun &#38; Bradstreet Corporation and Clear Media Limited. He previously served as a director of iSoftStone Holdings Limited, Gome Electrical Appliances Company, AsiaInfo-Linkage, Inc. and Bank of Communications. 
+
+&#160;
+
+Claudius (Bud) E. Watts IV 
+
+Mr. Watts became a member of our Board of Directors following the Carlyle acquisition and serves as the Chair of our Compensation and Nominating Committees. He currently serves as a Managing Director of The Carlyle Group. Prior to joining Carlyle in 2000, Mr. Watts was a Managing Director in the M&#38;A group of First Union Securities, Inc. He joined First Union Securities when First Union acquired Bowles Hollowell Conner &#38; Co., where Mr. Watts was a principal. He also serves on the board of directors of Carolina Financial Corporation and has previously served on the boards of directors of numerous other Carlyle portfolio companies over the past 14 years, including Freescale Semiconductor and SS&#38;C Technologies, Inc. 
+
+Timothy T. Yates 
+
+Mr. Yates became a member of our Board of Directors following the IPO and serves as the Chairman of our Audit Committee. In 2014, Mr. Yates was appointed to the role of CEO of Monster Worldwide, Inc., a global online employment solution provider. He also serves as a director of Monster Worldwide, Inc., a publicly traded company. He served as Monster Worldwide&#146;s Executive Vice President from 2007 until 2013 and Chief Financial Officer from 2007 until 2011. Prior to that, Mr. Yates served as Senior Vice President, Chief Financial Officer and a director of Symbol Technologies, Inc. from 2006 to 2007. From January 2007 to June 2007, he was responsible for the integration of Symbol into Motorola, Inc.&#146;s Enterprise Mobility business. From 2005 to 2006, Mr. Yates served as an independent consultant to Symbol. Prior to this, from 2002 to 2005, Mr. Yates served as a partner and Chief Financial Officer of Saguenay Capital, a boutique investment firm. Prior to that, he served as a founding partner of Cove Harbor Partners, a private investment and consulting firm, which he helped establish in 1996. From 1971 through 1995, Mr. Yates held a number of senior leadership roles at Bankers Trust New York Corporation, including serving as Chief Financial and Administrative Officer from 1990 through 1995. 
+
+&#160;
+

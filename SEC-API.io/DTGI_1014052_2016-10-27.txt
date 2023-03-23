@@ -1,0 +1,216 @@
+ ITEM 1. BUSINESS. 
+
+&#160; 
+
+Digerati Technologies, Inc., a Nevada corporation (including our subsidiaries, &#8220;we&#8221;, &#8220;us&#8221;, or &#8220;Digerati&#8221;), is a diversified holding company that has no independent operations apart from its subsidiaries. Digerati was formed in 2004 as the successor to a business originally commenced by Latcomm International, Inc., a Canadian company formed in 1994. We began providing communication services in 1995 along the U.S.-Mexico corridor to capitalize on the opportunities created by the deregulation of the telecommunication industries within Latin America. Our principal business in the past has been providing transportation of voice traffic for other telecommunication service providers, wireless carriers and regional Internet telephony providers using Voice over Internet Protocol (&#8220;VoIP&#8221;) technologies. Our wholly owned subsidiary, Shift8 Technologies, Inc. (&#8220;Shift8&#8221;), offers a portfolio of Internet-based telephony products and services through our cloud telephony application platform and session-based communication network that is interconnected with numerous U.S. and foreign service providers. 
+
+&#160; 
+
+During FY 2016 Flagship Energy Company (&#34;Flagship&#34;), a wholly-owned subsidiary of Digerati, entered into a Purchase and Sale Agreement (&#8220;PSA&#8221;) with a Texas-based contract-for-hire oil and gas operator (&#8220;Operator&#8221;). Under the PSA, Flagship has utilized Operator for the drilling, completion and initial operations of a shallow oil and gas well in conjunction with the purchase of 100% of Operator&#8217;s Working Interest and 80% of its Net Revenue Interest. Under the PSA, the Operator has agreed to transfer all field-level operations and assign 100% of a certain oil, gas and mineral lease to Flagship upon demand, which includes a tract of land located in South Texas. Additionally, Flagship entered into a Joint Operating Agreement (&#34;JOA&#34;) with Operator, whereby the parties agree to develop the oil and gas well or wells for the production and retrieval of oil and gas commodities as provided for in the oil, gas and mineral lease. 
+
+&#160; 
+
+Until July 2014, Digerati owned a waste disposal business focused on disposing of solid and liquid wastes from drilling sites and an oilfield services business providing skid houses, telecommunication services, booster booths, portable restrooms, generators, potable water, and mess halls to drilling contractors and oil companies in the Bakken region of Montana and North Dakota. B oth of these subsidiaries were sold for an aggregate sale price of $41,500,000. See Note 3 in the consolidated financial statements. 
+
+&#160; 
+
+Products and Services 
+
+&#160; 
+
+We provide a comprehensive suite of Internet-based communication services to meet the global needs of businesses that are seeking simple, flexible, and cost effective communication solutions. Our Internet-based services include fully hosted IP/PBX services, IP Trunking, call center applications, interactive voice response auto attendant, call recording, simultaneous calling, voicemail to email conversion and multiple customized IP/PBX features in a hosted or cloud environment for specialized applications. Our services are specifically designed for the needs of the small to medium-sized business, enterprise customers, call centers with international communication requirements, and regional Internet service providers that do not have the scale necessary to acquire their own telephony infrastructure. 
+
+&#160; 
+
+In addition, we operate a VoIP network for processing voice communication services to U.S. and foreign telecommunications companies that lack transmission facilities, require additional capacity or do not have the regulatory licenses to terminate traffic in Mexico, Asia, the Middle East and Latin America. 
+
+&#160; 
+
+Voice over Internet Protocol Networks 
+
+&#160; 
+
+The basic technology of traditional telecommunications systems was designed for slow mechanical switches. Communications over the traditional telephone network are routed through circuits that must dedicate all circuit resources to each call from its inception until the call ends, regardless of whether anyone is actually talking on the circuit. This circuit-switching technology incurs a significant cost per call and does not efficiently support the integration of voice with data services. Data networks, however, were designed for electronic switching. They break the data stream into small, individually addressed packages of data (&#8220;packets&#8221;) that are routed independently of each other from the origin to the destination. Therefore, they do not require a fixed amount of bandwidth to be reserved between the origin and destination of each call and they do not waste bandwidth when it is not being used for actual transmission of information. This allows multiple voice or voice and data calls to be pooled, resulting in these networks being able to carry more calls with an equal amount of bandwidth. Moreover, they do not require the same complex switching methods required by traditional voice telephone networks, instead using a multiplicity of routers to direct each packet to its destination and automatically routing packets around blockages, congestion or outages. 
+
+&#160; 
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160; 
+
+Packet switching can be used within a data network or across networks, including the public Internet. The Internet itself is not a single data network owned by any single entity, but rather a loose interconnection of networks belonging to many owners that communicate using the Internet Protocol (&#8220;IP&#8221;). By converting voice signals to digital data and handling the voice signals as data, it can be transmitted through the more efficient switching networks designed for data transmissions and through the Internet using the IP. The transmission of voice signals as digitalized data streams over the Internet is known as Voice over Internet Protocol or &#8220;VoIP&#8221;. A VoIP network has the following advantages over traditional networks: 
+
+&#160; 
+
+&#160; &#9679; Simplification: An integrated infrastructure that supports all forms of communication allows more standardization, a smaller equipment complement, and less equipment management. &#160; &#160; &#160; &#9679; Network Efficiency: The integration of voice and data fills up the data communication channels efficiently, thus providing bandwidth consolidation and reduction of the costs associated with idle bandwidth. This combined infrastructure can support dynamic bandwidth optimization and a fault tolerant design. The differences between the traffic patterns of voice and data offer further opportunities for significant efficiency improvements. &#160; &#160; &#160; &#160; &#9679; Co-existence with traditional communication mediums: IP telephony can be used in conjunction with existing public telephone system switches, leased and dial-up lines, PBXs and other customer premise equipment, enterprise LANs, and Internet connections. IP telephony applications can be implemented through dedicated gateways, which in turn can be based on open standards platforms for reliability and scalability. &#160; &#160; &#160; &#160; &#9679; Cost reduction: Under the VoIP network, the connection is directly to the Internet backbone and as a result the telephony access charges and settlement fees are avoided. &#160; 
+
+The growth of voice over the Internet was limited in the past due to poor sound quality caused by technical issues such as delays in packet transmission and by bandwidth limitations related to Internet network capacity and local access constraints. However, the continuing addition of data network infrastructure, improvements in packet switching and compression technology, new software algorithms and improved hardware have substantially reduced delays in packet transmissions and resulted in better sound quality. Nevertheless, certain VoIP routes into countries with limited or poor Internet infrastructure continue to lack the consistent quality required for voice transport and termination. 
+
+&#160; 
+
+We believe that the infrastructure required for a global network is too expensive for most companies to acquire and deploy on their own. As a result, many companies use a network consisting of a combination of gateways owned by different operators. For a network to achieve optimal functionality and quality, however, the gateways need to be interoperable, or able to communicate with one another. Technological solutions have emerged that support interoperability between different protocols and/or gateways. Cisco Systems, Inc. has emerged as a dominant supplier of VoIP gateways and other manufacturers often seek to make their equipment interoperable with Cisco. 
+
+&#160; 
+
+Long distance telephone calls transported over the Internet are less expensive than similar calls carried over the traditional telephone network primarily because the cost of using the Internet is not determined by the distance those calls need to travel. Also, routing calls over the Internet is more cost-effective than routing calls over the traditional telephone network because the technology that enables Internet telephony is more efficient than traditional telephone network technology. The greater efficiency of the Internet creates cost savings that can be passed on to the consumer in the form of lower long distance rates or retained by the carrier as higher margins. 
+
+&#160; 
+
+By using the public Internet, VoIP providers like us are able to avoid direct payment for transport of communications, instead of paying for large &#8220;pipes&#8221; into the public Internet, billed by bandwidth rather than usage, which transmits calls to a distant gateway. The Internet, which has its origins in programs devised by the Department of Defense to provide multiple routes and therefore redundancy which was largely immune from the failure of a single network element, provides great redundancy and can be &#8220;self healing&#8221; in the event of an outage in a particular network element or transmission path. Moreover, adding an additional entry or exit point (a Point of Presence or &#8220;PoP&#8221;) does not require any expensive or time consuming reconfiguration or reprogramming of existing network elements. The new element is simply installed with a specific IP address and it can send or receive information to or from any other IP address on the Internet. 
+
+&#160; 
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160; 
+
+Cloud Communications 
+
+&#160; 
+
+Cloud communications are Internet-based voice and data communications where telecommunications applications, switching and storage are hosted by a third-party service provider outside of the organization using the services. Services are accessed by the user over the public Internet. Cloud telephony refers specifically to voice services and more specifically the replacement of conventional business telephone equipment (such as a PBX) with VoIP service hosted by a third-party service provider and delivered over the Internet. 
+
+&#160; 
+
+We operate a cloud communication network that consists of a VoIP switching system and cloud telephony application platform. Our network allows us to provide end-to-end cloud telephony solutions designed to provide significant benefits to businesses of all sizes, with single or multiple locations. The integration of our cloud communication platform and global VoIP network allows us to provide our customers with virtually any type of telephony solution on a global basis. 
+
+&#160; 
+
+Our cloud communication solutions are designed to minimize upfront capital costs, increase the scalability and flexibility of the customer&#8217;s communications network and service environment, provide robust features and functionality to increase productivity and reduce the overall cost of communications. 
+
+&#160; 
+
+Strategy 
+
+&#160; 
+
+Our strategy is to target the small to medium-sized business market through distributors and Value Added Resellers (&#8220;VARs&#8221;) that we enable with our communication network. Our typical VAR is an information technology services firm, traditional PBX vendor, managed service provider, or systems integrator that has established relationships with businesses in its local market. These VARs are currently providing local customer support for other IT or PBX services, but lack the technology infrastructure to provide cloud communication and VoIP services to their customers. Our strategy allows these VARs to focus on their strength of providing first tier support to their customers while we provide the second and third tier technical support required to operate a cloud communication and VoIP network. In addition, we transform our VARs&#8217; business model by introducing new cloud telephony services and adding a new and lucrative recurring revenue stream that increases the VARs&#8217; value proposition for its current and prospective customers. 
+
+&#160; 
+
+Our cloud-based technology platform enables our VARs to deliver enhanced voice services to their business customers. The features supported on our cloud communication platform include all standard telephone features and value-added applications such as voicemail to email, VoIP peering, teleconferencing, IVR auto attendant, and dial-by-name directory. Our system allows the VAR and its customers a migration path from a traditional PBX system to a complete cloud-based PBX solution. 
+
+&#160; 
+
+Our strategic initiatives to successfully meet our long-term business objectives include: 
+
+&#160; 
+
+&#9679; Repositioning around our cloud and session-based communication services, segments of the industry that are experiencing significant growth and where there are new business opportunities for us. &#160; 
+
+&#9679; Emphasis on our sales distribution model that enables our VARs to offer cloud and session-based communication services to the enterprise market in various regions and industries. &#160; 
+
+&#9679; Leverage our existing global network and relationships to provide new and innovative VoIP solutions in high demand by enterprise customers. &#160; 
+
+&#9679; Continue enhancing our infrastructure and back office system to streamline operations, automate key processes, and support the scalability of our VAR distribution model. &#160; 
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160; 
+
+Competitive Conditions 
+
+&#160;
+
+The cloud services industry, including the provisioning of cloud communications services, cloud connectivity, cloud storage and cloud computing, as well as carrier voice and data services, is highly competitive, rapidly evolving and subject to constant technological change and intense marketing by providers with similar products and services. We expect that new, smaller, but very agile carrier competitors, specializing in providing service to regional and emerging markets at low margin and hence low cost, may have an impact on the carrier market. Similarly, the business services market includes competitors who may be significantly larger and have substantially greater market presence, financial, technical, operational and marketing resources than we do, including Tier 1 carriers, cable companies and premise-based solutions providers. In the event that such a competitor expends significant sales and marketing resources in one or several markets where we compete with them, we may not be able to compete successfully in those markets. Specialized cloud services providers, who focus on one or more cloud service or application, could adopt aggressive pricing and promotion practices that could impact our ability to compete. We also believe that competition will continue to increase, placing downward pressure on prices. Such pressure could adversely affect our gross margins if we are not able to reduce our costs commensurate with the price reductions of our competitors. In addition, the pace of technological change makes it impossible for us to predict whether we will face new competitors using different technologies to provide the same or similar services offered or proposed to be offered by us. If our competitors were to provide better and more cost effective services than ours, we may not be able to increase our revenues or capture any significant market share. 
+
+&#160; 
+
+The long distance telephony market and the Internet telephony market are highly competitive. Our competitors include major telecommunications carriers in the U.S., foreign telecommunications carriers (which may be owned by foreign governments), and numerous small competitors. We expect to face continuing competition based on price and service offerings from existing competitors and new market entrants in the future. The principal competitive factors in our market include price, coverage, customer service, technical response times, reliability, and network size/capacity. The competitive landscape is rapidly altering the number, identity and competitiveness of the marketplace, and we are unable to determine with certainty the impact of potential consolidation in our industry. 
+
+&#160; 
+
+A number of large long distance carriers have introduced services that make Internet telephony or voice services over the Internet available to other carriers. All major telecommunications companies either presently do or could route traffic to destinations worldwide and compete directly with us. Emerging Internet telephony service providers also offer low-cost Internet telephony services from personal computers to telephones and from telephones to telephones. In addition, Internet service providers and other companies currently in related markets are now providing voice over the Internet services or have adapted their products to enable voice over the Internet services. These related companies may migrate into the Internet telephony market as direct competitors. 
+
+&#160; 
+
+Many of our competitors have substantially greater financial, technical and marketing resources, larger customer bases, longer operating histories, greater name recognition and more established relationships in the industry than we have. As a result, certain of these competitors may be able to adopt more aggressive pricing policies that could hinder our ability to market our services. We believe that our key competitive advantages are our ability to deliver reliable, high quality voice service over the Internet in a cost-effective manner and our VAR distribution model. We cannot provide assurances, however, that these advantages will enable us to succeed against comparable service offerings from our competitors. 
+
+&#160; 
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160; 
+
+Government Regulation 
+
+&#160;
+
+VoIP and other communications services, like ours, have been subject to less regulation at the state and federal levels than traditional telecommunications services. Providers of traditional telecommunications services are subject to the highest degree of regulation, while providers of VoIP and other information services are largely exempt from most federal and state regulations governing traditional common carriers. The FCC has subjected VoIP service providers to a smaller subset of regulations that apply to traditional telecommunications service providers and has not yet classified VoIP services as either telecommunications or information. The FCC is currently examining the status of VoIP service providers and the services they provide in multiple open proceedings. In addition, many state regulatory agencies impose taxes and other surcharges on VoIP services, and certain states take the position that offerings by VoIP providers are intrastate telecommunications services and therefore subject to state regulation. These states argue that if the beginning and end points of communications are known, and if some of these communications occur entirely within the boundaries of a state, the state can regulate that offering. We believe that the FCC has preempted states from regulating VoIP offerings in the same manner as providers of traditional telecommunications services. However, this issue has not been resolved definitively as a matter of law, and it remains possible that the FCC could determine that such services are not information services, or that there could be a judicial or legislative determination that the states are not preempted from regulating VoIP services as traditional telecommunications services. We cannot predict how or when these issues will be resolved or its potential future impact on our business at this time. 
+
+&#160; 
+
+The effect of any future laws, regulations and orders on our operations, including, but not limited to, our cloud-based communications and collaboration services, cannot be determined. But as a general matter, increased regulation and the imposition of additional funding obligations increases service costs that may or may not be recoverable from our customers, which could result in making our services less competitive with traditional telecommunications services if we increase our prices or decreasing our profit margins if we attempt to absorb such costs. 
+
+&#160;
+
+Federal, state, local and foreign governmental organizations are considering other legislative and regulatory proposals that would regulate and/or tax applications running over the Internet. We cannot predict whether new taxes will be imposed on our services, and depending on the type of taxes imposed, whether and how our services would be affected thereafter. Increased regulation of the Internet may decrease its growth and hinder technological development, which may negatively impact the cost of doing business via the Internet or otherwise materially adversely affect our business, financial condition and results of operations. 
+
+&#160; 
+
+Regulation of Internet-based Telecommunication Services in the United States 
+
+&#160; 
+
+We have the necessary authority under Section 214 of the Communications Act to operate as a domestic and international carrier. We are considered a non-dominant domestic interstate carrier subject to minimal regulation by the FCC. We are not required to obtain FCC authority to initiate or expand our domestic interstate operations, but we are required to obtain FCC approval to transfer control or discontinue service and are required to file various reports and pay various fees and assessments. In addition, we must offer service on a nondiscriminatory basis at just and reasonable rates and are subject to the FCC&#8217;s complaint jurisdiction. Generally, our international carrier traffic is subject to minimal regulation by state and local jurisdictions. 
+
+&#160; 
+
+The FCC requires Internet voice communications service providers, such as our company, to provide E-911 service in all geographic areas covered by the traditional wire-line E-911 network. Under the FCC&#8217;s rules, Internet voice communications providers must transmit the caller&#8217;s phone number and registered location information to the appropriate public safety answering point, or PSAP, for the caller&#8217;s registered location. The FCC also requires interconnected VoIP service providers to make Universal Service Fund (&#8220;USF&#8221;) contributions. We believe that our services are currently compliant with all applicable requirements of the FCC, and we have made and are making the required contributions to the USF. However, should we at some time fail to meet certain requirements or fail to make required contributions, we could be subject to revocation of our authority to operate or to fines or penalties. 
+
+&#160; 
+
+Some states have tried to directly regulate VoIP services on an intrastate basis, but these efforts have not held up to court challenges to date. Many states are holding hearings to research and discuss the issues surrounding the regulation of VoIP services. Others are encouraging or even requesting VoIP service providers to subject themselves to public service commission jurisdiction and obtain certification as telephone companies. However, most have adopted a &#8220;wait and see&#8221; attitude. We monitor the actions of the various state regulatory agencies to ensure that we are in compliance with the applicable regulations, including any new regulations that may be passed. However, there can be no assurance that we will become aware of all applicable requirements on a timely basis, or that we will always be fully compliant with applicable rules and regulations. Should we fail at any time to be compliant with applicable state regulations, or to file required reports to state regulatory agencies, we could be subject to fines or other penalties. 
+
+&#160; 
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160; 
+
+Other regulations affecting the Internet in the United States. 
+
+&#160; 
+
+Congress has enacted legislation that regulates certain aspects of the Internet, including online content, user privacy and taxation. In addition, Congress and other federal entities are considering other legislative and regulatory proposals that would further regulate the Internet. Congress has, for example, considered legislation on a wide range of issues including Internet spamming, database privacy, gambling, pornography and child protection, Internet fraud, privacy and digital signatures. Various states have adopted and are considering Internet-related legislation. Increased U.S. regulation of the Internet may slow its growth, particularly if other governments follow suit, which may negatively impact the cost of doing business over the Internet and materially adversely affect our business, financial condition, results of operations and future prospects. 
+
+&#160; 
+
+International Regulation 
+
+&#160; 
+
+The regulatory treatment of Internet telephony outside of the U.S. varies widely from country to country. A number of countries that currently prohibit competition in the provision of voice telephony also prohibit Internet telephony. Other countries permit but regulate Internet telephony. Some countries will evaluate proposed Internet telephony service on a case-by-case basis and determine whether it should be regulated as a voice service or as another telecommunications service. In many countries, Internet telephony has not yet been addressed by legislation or regulation. Increased regulation of the Internet and/or Internet telephony providers or the prohibition of Internet telephony in one or more countries could materially adversely affect our business, financial condition, operating results and future prospects. 
+
+&#160; 
+
+The International Settlements Policy governs settlements between U.S. carriers&#8217; and foreign carriers&#8217; costs of terminating traffic over each other&#8217;s networks. The FCC enacted certain changes in rules designed to allow U.S. carriers to propose methods to pay for international call termination that deviate from traditional accounting rates and the International Settlement Policy. The FCC has also established lower benchmarks for the rates that U.S. carriers can pay foreign carriers for the termination of international services and these benchmarks may continue to decline. These rule changes have lowered the costs of our competitors to terminate traffic in the United States and are contributing to the downward pricing pressure facing us in the market. 
+
+&#160; 
+
+Customers and Suppliers 
+
+&#160; 
+
+We rely on various suppliers to provide services in connection with our communication services. We use various global VoIP companies to complete our voice over Internet traffic between US, Mexico, Asia, the Middle East and Latin America. Our customers include traditional carriers, telephony resellers and other VoIP carriers. We are not dependent upon any single supplier or customer. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of July 31, 2016, we had 7 employees, all of whom performed operational, technical and administrative functions. We believe our future success will depend to a large extent on our continued ability to attract and retain highly skilled and qualified employees. We consider our employee relations to be good. None of these aforementioned employees belongs to labor unions. 
+
+&#160; 
+

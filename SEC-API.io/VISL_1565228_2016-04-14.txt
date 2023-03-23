@@ -1,0 +1,796 @@
+ Item 1. Business 
+
+&#160; 
+
+Overview 
+
+&#160;
+
+xG Technology, Inc. (&#8220;xG Technology&#8221;, &#8220;xG&#8221;, the &#8220;Company&#8221;, &#8220;we&#8221;, &#8220;our&#8221;, &#8220;us&#8221;) has developed a broad portfolio of innovative intellectual property that we believe will enhance wireless communications. Our intellectual property is embedded in proprietary software algorithms that offer cognitive interference mitigation and spectrum access solutions for countless applications using commercial off the shelf devices.
+
+&#160;
+
+Our Company was founded on the premise that the wireless communications industry is facing a spectrum crisis because the demand for flexible, affordable voice and data access continues to increase rapidly while the amount of available spectrum remains relatively constant. We have developed frequency-agnostic cognitive radio solutions to address this increasing demand by eliminating the need to acquire scarce and expensive licensed radio spectrum and thus ideally lowering the total cost of ownership for wireless broadband access. With such fast growing demand straining network capacity, our intellectual property is also designed to help wireless broadband network operators make more efficient use of existing spectrum allocations. We are targeting numerous industries world-wide, such as telecommunications, cable, defense, and public safety, municipal governments, critical infrastructure and markets ranging from rural to urban areas and expeditionary deployments.
+
+&#160;
+
+Our strategy is initially to commercialize our intellectual property portfolio by developing and selling network equipment using our proprietary software algorithms to offer cognitive radio-based interference mitigation and spectrum sharing solutions. In the future, our strategy is for our intellectual property to be embedded by partners in a semiconductor chip that could be sold to third party equipment manufacturers and inserted in their devices and to license our intellectual property to other customers in vertical markets worldwide. The implementation of our cognitive radio intellectual property is xMax&#174;. We believe the xMax&#174; system represents the only commercially available cognitive radio network system that is designed to include interference mitigation by spatial processing. xMax&#174; implements our proprietary interference mitigation software that can increase capacity on already crowded airwaves by improving interference tolerance, enabling the delivery of a comparatively high quality of service where other technologies would not be able to cope with the interference.
+
+&#160;
+
+The initial implementation of our cognitive radio intellectual property is xMax&#174;. We believe the xMax&#174; system, represents the only commercially available cognitive radio network system that includes our interference mitigation and spatial processing technologies. xMax&#174; implements our proprietary interference mitigation software that can increase capacity on already crowded airwaves by improving interference tolerance, enabling the delivery of a comparatively high quality of service where other technologies would not be able to cope with the interference. We believe that the xMax&#174; system will also, when in a future development operating on more than one radio channel, deliver dynamic spectrum access by using our patented self-organizing network techniques.
+
+&#160;
+
+Our system is frequency agnostic, although currently designed to operate within the 902 &#8211; 928 MHz unlicensed band. xMax&#174; serves as a mobile voice over internet protocol (&#8220;VoIP&#8221;) and broadband data system that utilizes an end-to-end Internet Protocol (&#8220;IP&#8221;) system architecture. The xMax&#174; product and service suite includes a line of access points, fixed and mobile personal hotspots, mobile switching centers, network management systems, deployment tools, and customer support. The xMax&#174; system will allow mobile operators to utilize free, unlicensed 902 &#8211; 928 MHz ISM band spectrum (which spectrum is available in all of the Americas except French Guiana) instead of purchasing scarce, expensive licensed spectrum. Our xMax&#174; system will also enable enterprises to set up a mobile communications network in an expeditious and cost-effective manner.
+
+&#160;
+
+&#160; 1 &#160; 
+
+&#160;
+
+&#160;
+
+In addition, we believe that our xMax&#174; cognitive radio technology can also be used to provide additional capacity to licensed spectrum by identifying and utilizing unused bandwidth within the licensed spectrum.
+
+&#160;
+
+Below is a diagram that provides a high-level overview of the xMax&#174; network architecture:
+
+&#160;
+
+&#160;
+
+On January 29, 2016, we completed the acquisition of certain assets and liabilities of Integrated Microwave Technologies, LLC, a Delaware limited liability company (&#8216;&#8216;IMT&#8217;&#8217;), pursuant to an asset purchase agreement by and between us and IMT (the &#8216;&#8216;Asset Purchase Agreement&#8217;&#8217;). Pursuant to the terms of the Asset Purchase Agreement, we acquired substantially all of the assets and liabilities of IMT in connection with, necessary for or material to IMT&#8217;s business of designing, manufacturing and supplying of Coded Orthogonal Frequency Division Multiplexing (COFDM) microwave transmitters and receivers serving the broadcast, sports and entertainment, military, aerospace and government markets.
+
+&#160;
+
+IMT comprises the leading microwave brands Nucomm, RF Central and IMT, offering customers worldwide complete video solutions. Nucomm is a premium brand of digital broadcast microwave video systems. RF Central is an innovative brand of compact microwave video equipment for licensed and license-free sports and entertainment applications. IMT is a trusted provider of mission-critical wireless video solutions to state, local and federal police departments.
+
+&#160;
+
+Our Strategy 
+
+&#160;
+
+We are developing a broad portfolio of innovative intellectual property that we believe will enhance wireless communications. Leveraging elements of our intellectual property portfolio, we plan to introduce a range of spectrum agnostic, cognitive radio solutions that span numerous industries and applications. We believe that these products, together with our ability to leverage our patent portfolio, present us with an attractive revenue model. Our strategy is initially to commercialize our intellectual property portfolio by developing and selling network equipment using our proprietary software algorithms to offer cognitive interference mitigation and spectrum access solutions. In the future, our strategy is for our intellectual property to be embedded by partners in a semiconductor chip that could be sold to third party equipment manufacturers and inserted in their devices and to license our intellectual property to other customers in vertical markets world-wide.
+
+&#160;
+
+Our acquisition of the IMT assets allows us to offer a comprehensive suite of services and product offerings in each of the markets it is already active in. Leveraging its heritage as a leader in the broadcast industry that dates back to 1990, IMT&#8217;s key sector strategies are the following:
+
+&#160;
+
+1. Expand their current markets for existing miniature wireless video products. These include educational sectors, videographers, and video service providers. &#160;
+
+2. Provide complete end-to-end solutions for the video surveillance market. &#160;
+
+3. Introduce complete end-to-end IP technology into the broadcast market. &#160; 
+
+Market Overview 
+
+&#160;
+
+Our Market 
+
+&#160;
+
+We are witnessing rapidly increasing demand in the marketplace for mobile bandwidth. The surge in demand is attributable to the proliferation of smartphones, tablet PCs and other broadband-centric devices, as well as the shift to data and video-intensive services. A Cisco report (the Cisco Visual Networking Index: Global Mobile Data Traffic Forecast Update, 2015&#8211;2020 White Paper, February 2016) indicates that in 2015 55% of the data traffic on mobile networks was video, and they forecast video traffic to account for over 75% of total mobile data traffic by 2020.
+
+&#160;
+
+There has also been an increase in mobile voice demand as more people unplug their wired phones and rely on wireless devices for all of their calling needs. According to Cisco&#8217;s report, as well as several studies undertaken by the Federal Communications Commission (&#8220;FCC&#8221;), the demand for wireless services will continue to grow in the coming years, as shown in the chart below. Cisco predicts mobile data traffic will increase nearly 8-fold between 2015 and 2020, a 53% CAGR, reaching 30.6 exabytes per month by 2020.
+
+&#160;
+
+&#160; 2 &#160; 
+
+&#160;
+
+&#160; &#160; 
+
+&#160; 
+
+Source: Cisco VNI Mobile 2015 
+
+&#160;
+
+In early 2009, Congress directed the Federal Communications Commission (FCC) to develop a National Broadband Plan to ensure every American has &#8220;access to broadband capability.&#8221; After conducting thirty-six public workshops and engaging in significant collaboration and conversations with other government agencies and Congress, the FCC released the National Broadband Plan (&#8220;the Plan&#8221;) in early 2010. Within the Plan the FCC acknowledges that &#8220;the current spectrum policy framework sometimes impedes the free flow of spectrum to its most highly valued uses.&#8221; The Plan states that &#8220;Wireless broadband is poised to become a key platform for innovation in the U.S. over the next decade. As a result, U.S. spectrum policy requires reform to accommodate the new ways that industry is delivering wireless services. These reforms include making more spectrum available on a flexible basis, including for unlicensed and opportunistic uses.&#8221;
+
+&#160;
+
+Specific recommendations within the report that indicate a favorable regulatory environment for cognitive radio technology include: &#8220;Recommendation 5.13: The FCC should spur further development and deployment of opportunistic uses across more radio spectrum.&#8221; The Plan further states that, &#8220;the FCC and NTIA should take steps to expand the environment in which new, opportunistic technologies can be developed and improved&#8221; and &#8220;the FCC should allow opportunistic radios to operate on spectrum currently held by the FCC (such as in certain license areas where spectrum was not successfully auctioned).&#8221;
+
+&#160;
+
+Over the years since the Plan was released, it has been generally accepted that many of the its spectrum-related suggestions have been attempted or implemented. It recommended, for example, that 500 additional MHz of spectrum be made available for commercial high-speed data use, that incentive-based auctions for spectrum be considered, and that opportunistic use of spectrum be considered. Since the time of the Plan&#8217;s publication, much of this has happened or been tried.
+
+&#160;
+
+On March 27, 2012 the U.S. Department of Commerce, through the National Telecommunications and Information Administration (&#8220;NTIA&#8221;), released a report in which they announced, &#8220;In the past, the federal government has freed up spectrum for exclusive commercial use by clearing a spectrum band of federal users, who typically relocated to other bands. However, given the growing demand for spectrum by both industry and the federal agencies, it is increasingly difficult to find desirable spectrum that can be vacated by federal users as well as spectrum in which to relocate these federal users. Due to the scarcity of spectrum, the complexity of federal operations, and the time and cost of relocating federal users, the old approach alone is no longer feasible.&#8221;
+
+&#160;
+
+The report further states, &#8220;NTIA proposes a new path forward for spectrum repurposing that relies on a combination of relocating federal users and sharing spectrum between federal agencies and commercial users. Spectrum sharing will be a vital component to satisfying the growing demand for spectrum, and federal and non-federal users will need to adopt innovative spectrum-sharing techniques to accommodate this demand.&#8221;
+
+&#160;
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160;
+
+In July 2012, The President&#8217;s Council of Advisors on Science and Technology (PCAST) issued a report to the US President titled &#8220;Realizing the Full Potential of Government-Held Spectrum to Spur Economic Growth&#8221; in which &#8220;It concludes that the traditional practice of clearing government-held spectrum of Federal users and auctioning it for commercial use is not sustainable. In light of changes made possible by modern technology, we recommend that you issue a new Memorandum that states it is the policy of the U.S. government to share underutilized spectrum to the maximum extent consistent with the Federal mission, and requires the Secretary of Commerce to identify 1,000 MHz of Federal spectrum in which to implement shared-use spectrum pilot projects.&#8221; The report noted that simply clearing and reallocating spectrum would not be sustainable and pointed to a recent study by the National Telecommunications and Information Administration (NTIA) which found that clearing of just one 95 MHz band will take 10 years, cost $18 billion, and cause significant disruption. Among its key recommendations are to adopt new technologies, including cognitive radios, that could help use existing spectrum more efficiently, stating that &#8220;the use of new radio technologies, including cognitive radios, will be an important tool in helping increase spectrum capacity and utilization&#8221;. The PCAST authors stated that agile (cognitive) radio technologies that make it possible for computerized radio systems to share spectrum on a vastly more efficient basis would make it possible to move from an era of scarcity to one of abundance.
+
+&#160;
+
+Moreover, on July 6, 2012 a Presidential Executive Order was issued regarding the Assignment of National Security and Emergency Preparedness Communications Functions. The order establishes that the federal government must be able to communicate with the public, other agencies, other levels of government and businesses &#8220;at all times and circumstances&#8221; and in all locations, both domestically and internationally. To ensure this, the order mandates the establishment of emergency communications capabilities that are &#8220;survivable, resilient, enduring and effective&#8221;. These capabilities are not available in traditional public system networks, but the xMax&#174; cognitive radio system has been designed from the ground up to meet the very survivability, redundancy, mobility, interoperability, and resiliency requirements specified by this order.
+
+&#160;
+
+Recognizing the spectrum constraints on fast growing needs for wireless connectivity, in September 2012 the European Commission published a communication promoting the shared use of radio spectrum resources. A study conducted for the European Commission showed that finding additional shared spectrum resources for wireless broadband could create significant net economic benefits for the European Union. With an increase of between 200 to 400 MHz in shared access spectrum for wireless broadband, the scenarios evaluated in the study showed a net increase in the value to the European economy of the order of several hundred billion Euros by 2020. The Commission, therefore, proposed steps to foster the development of wireless innovations in the EU to ensure that the currently allocated spectrum is exploited to the fullest extent possible. This has been followed by Ofcom, the telecommunications regulator in the UK, moving to complete the process to release TV Whites Spaces for shared use.
+
+&#160;
+
+There have been other activities by Federal agencies in support of spectrum sharing since the release of the aforementioned reports.
+
+&#160;
+
+To meet escalating commercial and Federal demands for spectrum, the NTIA and FCC have been conducting spectrum band analyses to identify additional opportunities for spectrum sharing and repurposing. They are also developing publicly accessible spectrum inventories and conducting a number of measurement studies to gain a better understanding of spectrum use patterns. In addition, the NTIA has joined with Federal partners in launching research and development activities at new facilities in Boulder, Colorado, and the NTIA and FCC are developing the &#8220;RF Model City&#8221; concept.
+
+&#160;
+
+Other Federal agencies, including the Department of Defense, the National Science Foundation, and the Department of Energy, have ongoing research and development activities in the area of spectrum sharing. For example, the Defense Advanced Research Projects Agency (DARPA) supported early research into cognitive radio and dynamic spectrum access, and it continues to address key problem areas in spectrum sharing for military systems.
+
+&#160;
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+While it appears to management that spectrum regulation is developing in a favorable manner, we have, nonetheless, chosen to release the initial xMax&#174; product line on the unlicensed 900 MHz ISM band (902 &#8211; 928 MHz) in order to minimize our exposure to regulatory risk (see further under the section entitled &#8220;Government Regulations, Regulators&#8217; Role in spectrum&#8221;). The unlicensed bands are well established and although these bands are allocated for Industrial Scientific and Medical (ISM) use (e.g., microwave ovens and industrial equipment), a major use has been unlicensed (Part 15) systems such as Wi-Fi, Bluetooth, and ZigBee. In the period 1995 &#8211; 2005, most of the cordless phones marketed in the US were in the 902 &#8211; 928 MHz band, but conflicts with the other uses and availability of DECT equipment has greatly decreased sales of 902 &#8211; 928 MHz cordless phones.
+
+&#160;
+
+The rules for these bands sprung from FCC Docket 81-413 which sought to end an implicit prohibition of spread spectrum/CDMA technology that resulted from a focus on FDMA spectrum uses. This resulted in rules adopted in 1985 that allow unlicensed spread spectrum systems to use these bands for almost any possible application subject to a 1W power limit. When wireless LAN use became of interest several years later, these time-tested rules allowed U.S. market access without FCC deliberations. The 2.4 and 5.8 GHz bands are used for Wi-Fi today. In a similar fashion, we are launching our initial software-defined product offering programmed to operate on unlicensed spectrum in order to speed commercialization of our intellectual property without requiring FCC or NTIA deliberations on opportunistic access. Because we have designed our core technology to be usable beyond the unlicensed band that its initial product offering operates on, we believe that we are well positioned to benefit from possible future regulatory reforms that support wider spread use of spectrum sharing and opportunistic access techniques.
+
+&#160;
+
+The growth of wireless data over the past few years has made the subject of available spectrum a pressing priority. In fact, the current situation has been referred to as a &#8220;looming spectrum crisis&#8221;. (FCC Chairman Julius Genachowski, speech to CTIA, October 2009). Responses to this &#8220;crisis&#8221; have included lobbying efforts to persuade the FCC to find new sources of licensed spectrum and proposals to reallocate existing licensed spectrum. Demand for more spectrum and capacity has also been a key factor in industry consolidation. The rationale given for the AT&#38;T/Cingular merger was based on the fact that AT&#38;T had more spectrum than Cingular, and by combining the companies they could more efficiently serve their customers. Likewise, Verizon&#8217;s $3.6 billion bidding to buy unused wireless spectrum and AT&#38;T&#8217;S $39 billion attempt to acquire T-Mobile was primarily driven by AT&#38;T&#8217;s desire to secure additional spectrum and cell sites in order to provide more capacity across its network. Most recently, the FCC&#8217;s AWS-3 spectrum auction, which began on November 13, 2014, generated nearly $45 billion in bids by the time bidding closed on January 29, 2015. This was another indication of the ongoing need for wireless carriers to increase network capacity and coverage by securing additional spectrum assets.
+
+&#160;
+
+Our Company and our technology and products are built based on our belief that there is insufficient spectrum available to satisfy the current and future growth of wireless data. However, we also believe that this crisis is not solely a result of insufficient amounts of available spectrum, but also the result of inefficient use of the currently available spectrum. Rather than merely demanding more spectrum we believe that the more appropriate response to the call for increased bandwidth would be to shift the focus to getting more use out of spectrum that has already been allocated. More effective utilization of the available spectrum can be accomplished in a number of different ways. Advancements in radio technology, such as the movement to the LTE standard from the previous 3G networks, for example, have allowed for better spectrum utilization. This has been attributed to the incorporation of new advanced technologies such as multiple in, multiple out (&#8220;MIMO&#8221;) and Orthogonal Frequency-Division Multiple to reduce multiuser interference.
+
+&#160;
+
+Other methods being employed by network operators to meet bandwidth requirements have included off-loading some of the demand to unlicensed Wi-Fi hotspots and selling in-building femtocells that make use of a customer&#8217;s own wired Internet connection. Another approach is to build more cell sites closer together. Each cell site would cover a smaller area, and thus offer the ability to reuse frequencies more times in a larger geographic coverage area. However, such methods would entail more costs, and is time consuming due to local permitting and other considerations. Many of these approaches have been driven by the need to receive more capacity out of limited spectrum.
+
+&#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+While the spectrum currently available cannot satisfy the future growth of wireless data, the idea of getting better use out of spectrum (both licensed and unlicensed) by sharing it is receiving increased attention as a more effective and efficient solution for the industry than simply identifying new spectrum. This has led industry and policy makers to consider technology-based approaches, such as cognitive radio and opportunistic (i.e. shared) spectrum use.
+
+&#160;
+
+Users of commercial cellular networks are not the only users that are running out of capacity due to spectrum limitations. Wireless users around the globe such as industrial and enterprise users, public safety agencies and those who use unlicensed spectrum (such as Wi-Fi and White Spaces) are also lacking necessary spectrum, but are not being allocated the necessary spectrum due to the fact that regulators have historically prioritized commercial mobile carriers in the allocation of spectrum assets as the demand for both voice and broadband access continues to increase.
+
+&#160;
+
+We believe that deployment of cognitive radio networks offers the best solution to addressing the pressing need for more efficient use of spectrum.
+
+&#160;
+
+Radio Spectrum &#8212; A Primer 
+
+&#160;
+
+Radio spectrum is a finite resource. In order to utilize this limited radio spectrum better, we have essentially been limited to reallocating swaths held by existing users, who either have to lose some of their spectrum or have to move to other portions of the band.
+
+&#160;
+
+The best spectrum for two-way radio or cellular types of communications is in lower frequencies. These frequencies are scarce due to technical, historical, and regulatory reasons. A large part of the spectrum (30MHz to 900MHz) that is well suited for cellular and land mobile radio (LMR) is occupied by existing business, industrial, public safety, and other license holders. Additionally, only a fraction of this spectrum is practical for mobile commercial consumption as the usage of lower frequencies requires antennas, filters and other components that do not fit into a portable handheld device. There are also many services that have long used valuable spectrum in frequencies that could be reassigned for mobile data and voice since those services could use some other spectrum efficiently.
+
+&#160;
+
+The availability of widespread high-speed wireless broadband has led to customer uptake that was far greater than the network operators, device manufacturers, and application developers had predicted. The introduction of the iPhone by Apple was a starting point for soaring broadband wireless service demand, and since that time, new applications, including streaming video for TV and movie services, have proliferated. Network operators are struggling with how to keep up with this demand.
+
+&#160;
+
+AT&#38;T reported that 4% of its iPhone customers were accounting for more than 50% of the data traffic on its 3G network, and a Cisco report indicates that today more than 60% of the data traffic on mobile networks is video. This trend is expected to accelerate as network operators expand deployments of 4G (fourth-generation cellular services). However, 4G does not fully address the current spectrum issues, and in fact may make it worse, as new bandwidth and spectrum-intensive services are brought to market.
+
+&#160;
+
+Cognitive Radio Networks &#8212; A Primer 
+
+&#160;
+
+The industry definition of a cognitive radio is a device that, unlike a traditional radio, can dynamically find and use available frequency to improve throughput and connectivity. This can be done via real-time sensing that allows the radio to scan for unused frequencies and then instantly tune to such frequencies. Cognitive radios can also rely on a database that can tell it what channels are available (usually based on the radio&#8217;s location and known spectrum restrictions in that area).
+
+&#160;
+
+Either or both of these techniques can be used to help the cognitive radio avoid interference and optimize its throughput and connection reliability on a dynamic basis. With detailed information about its local radio frequency (&#8216;&#8216;RF&#8217;&#8217;) environment, cognitive radios are able to change power output, frequency and receive or transmit parameters, in order to extract latent (unused) bandwidth and capacity from crowded unlicensed, as well as underutilized licensed, wireless spectrum.
+
+&#160;
+
+The key elements of cognitive radio technology include spectrum sensing, spectrum management, spectrum mobility, spectrum sharing, and spatial processing:
+
+&#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160; &#160; 
+
+Spectrum sensing may be defined as interference-based detection of transmitters with the ability to look at a portion of the spectrum to see if it contains any transmitters that could cause interference to the cognitive radio system. Making the end user devices and network infrastructure cognitive enables both to dynamically react to a wide range of conditions. In the xMax&#174; system, the end user radio is used to inform the network of changes in the RF environment, core infrastructure and other relevant conditions. This allows the network itself, and not just the radios, to adapt dynamically. When only the radio itself is cognitive, each radio will individually optimize its parameters and throughput based on local conditions, without regard to overall system performance. What may be optimal for the radios on an individual basis may not lead to overall network optimization in terms of coverage, throughput or other measures.
+
+&#160;
+
+Spectrum management is the ability of the system to capture the best available spectrum for use at any given point in time. It is based on the premise that both terminals and base stations can be directed to change their operating frequencies dynamically as needed to keep the communications from interfering with others in that portion of the spectrum, or of being interfered with by others in the same spectrum. By propagating and collecting data from individual radios across the network, a cognitive system approach can make the entire network smarter, and optimize total network throughput. This enables new and useful features such as self-RF planning that can simplify, and reduce the cost of, the deployment and operation of the network. After the RF data is collected, better utilization and performance can be achieved automatically and continuously. This makes the network vastly more adaptable, self-sustaining and self-optimizing in many ways. The ability for the network to provide a level of self-RF planning is only one example of what a cognitive network can offer. Because a cognitive radio network can self-optimize and self-configure, little-to-no frequency coordination between cognitive radio nodes or other radio networks operating in the same frequencies is needed. This leads to an often overlooked benefit of having a self-planning, self-optimizing network: it reduces or eliminates the need for skilled radio technicians. These cognitive radio networks use software, powerful on-board computing power and real-time RF sensing to supplant expensive and overburdened radio technicians. The smart network goes beyond self-frequency planning to also encompass dynamic capacity shifting. That is to say that when a cell is lightly loaded, it can automatically abandon one or more channels in any given sector, thus making those channels available for adjacent cells to use if loading at that cell justifies the need for more spectrum. In addition to the ability to shift spectrum resources around to other cells, it also makes the network as a whole a good neighbor to other systems that might be trying to use the same spectrum in a shared band (like TV White Spaces) by using the minimum amount of spectrum at any given time. Moreover, these capabilities will allow xMax&#174; networks themselves to become mobile, adapting to new spectrum conditions and terrain &#8220;on-the-go&#8221;, which will make xMax&#174; an excellent solution for expeditionary deployments by defense, public safety and emergency agencies.
+
+&#160;
+
+Spectrum mobility refers to the ability to make use of spectrum dynamically, commonly called dynamic spectrum access (DSA). The system can decide to change bands or channels within the spectrum in which they are operating.
+
+&#160;
+
+Spectrum sharing is the ability for a cognitive radio system to operate in shared spectrum (unlicensed spectrum, for example), detect stations that interfere with the transmissions, mitigate that interference if possible, or avoid it by changing operating frequencies or other system parameters. By enabling xMax&#174; to tolerate high levels of interference before requiring the radios to switch channels, more &#8220;gray spectrum&#8221; (containing interference or jamming) can be used in place of white spectrum (clean and interference-free). This makes these white spectrum channels available for other radios that cannot mitigate the interference on their current channel. The overall capability increases the network&#8217;s total throughput and capacity greatly &#8212; without consuming additional scarce spectrum resources.
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+Spatial processing is the use of multiple integrated receiver chains known as MIMO systems that can provide another layer of resistance to interferers. MIMO processing allows better use of the radio channel to improve link budget and data rates. By employing advanced signal processing techniques, we believe that our system can also be used to track and mitigate interference from multiple mobile transmitters using sophisticated signal processing algorithms. The ability to mitigate, rather than simply run away from interference will be critical going forward. We believe that there will be no more &#8220;white spaces&#8221; and that all spectrum will be made up of &#8220;gray spaces&#8221; (interference laden frequencies) caused by a system&#8217;s own self-interface or that which is caused by other nearby systems.
+
+&#160;
+
+We believe that a true cognitive or intelligent radio network will make use of most, if not all, of these capabilities in order to be able dynamically to keep the system operating by mitigating or avoiding interference that may show up in the frequencies the cognitive network is currently using. If the interference becomes too severe, an intelligent system will be able to locate other spectrum and shift the radio links to new frequencies nearly instantaneously. Using cognitive radio techniques, the cognitive network can intelligently share spectrum and extract more bandwidth via &#8220;opportunistic use&#8221; of shared spectrum resources.
+
+&#160;
+
+Today&#8217;s cognitive radio systems are taking advantage of new antenna technology (such as MIMO) and digital signal processors (DSPs) with advanced, innovative software algorithms. This evolution has also yielded a class of DSPs that are incredibly powerful, yet still energy-efficient. These and other technologies are enabling a new generation of smart (i.e., cognitive) radios. In general, the limiting factor in high capacity wireless systems is interference. As stated above, there are a number of ways to deal with interference to keep the communications link up and running. Unlike traditional systems (such as 3G and 4G), cognitive systems can recognize and then deal with interference locally and in real-time, thus greatly increasing the capacity of new and existing spectrum.
+
+&#160;
+
+Our IMT services and product offerings address three markets: Broadcasting, Sports and Entertainment, and Surveillance (Military and Government).
+
+&#160;
+
+The Broadcasting market consists of a few key segments including electronic news gathering, wireless camera systems, portable microwave, and fixed point to point systems. The market looks to improve operational efficiencies in the gathering, production, and transmission of wireless content. Recent trends in the market include a movement towards IP connectivity over point to point links for infrastructure, high definition upgrades of remote news gathering vehicles, and continued pressure to reduce expenses by improving operational efficiencies. Customers within this market are major network TV stations including over-the- air broadcasters, cable and satellite news providers. IMT focuses on the unique manner in which these customers create and gather content wirelessly.
+
+&#160;
+
+The Sports and Entertainment market consists of a few key segments including sports production, sports venue entertainment systems, movie director video assist, and the non-professional user segment. Generally this market is focused on much more agile wireless video systems. Drivers in these markets include small, lightweight, easy to use equipment, low-latency video systems, reliability of the wireless links, and the ability to use licensed and unlicensed bands. Current trends within the market are to further reduce the size and improve agility of the wireless video systems as users are demanding higher link reliabilities at longer ranges. Customers within this market are professional sports teams, movie production companies, live video production service providers, system integrators and a growing segment of drone and unmanned ground vehicle providers.
+
+&#160;
+
+The Government/Surveillance market consists of a few key segments including state and local law enforcement agencies, federal &#8220;3-letter&#8221; agencies and military system integrators. The market looks to improve the reliability and quality of video content without adding complexity. The video systems must be operated without technical intervention. State and local agencies benefit from Department of Homeland Security grant programs to improve overall security. Recent trends within these segments are improved interoperability within agencies, and demand for fully integrated systems including robust microwave combined with ubiquitous IP networks. As wireless video systems are becoming more reliable and easier to deploy, the adoption rate of wireless systems is increasing. Customers within this market include state police forces, sheriff&#8217;s departments, fire departments, first responders, the Department of Justice and the Department of Home Land Security.
+
+&#160;
+
+Products 
+
+&#160; 
+
+xMax&#174; : The first implementation of xG&#8217;s innovative cognitive radio intellectual property is xMax&#174;. Operating initially within the 902 &#8211; 928 MHz license-free band, xMax&#174; is a mobile voice over internet protocol (&#8220;VoIP&#8221;) and broadband data system that utilizes an end-to-end Internet Protocol (&#8220;IP&#8221;) system architecture. The xMax&#174; technology we have developed is spectrum agnostic. In any spectrum band that xMax&#174; will operate in, we will break the band into channels and sub channels. We will then use spatial processing and adaptive modulation to mitigate interference in that band. If the band becomes unusable because of overwhelming interference, we will then use dynamic spectrum access to change to another channel or band. The xMax&#174; product suite we are currently developing is band specific due to the current limitations in RF technology that can be produced for a given size, cost and complexity. Multiband, small, portable devices today require custom developed integrated circuits, which are on our technology roadmap, but not currently available. The mid-term objective is to transition implementation of xMax&#174; to a licensing and semiconductor chip business model.
+
+&#160;
+
+The xMax&#174; system design represents a turnkey network solution that will include rapid-deploy self-organizing access points (base stations), fixed and mobile personal Wi-Fi hotspots, mobile switching centers, as well as network management and deployment tools. A key feature of the xMax&#174; system is the ability to leverage off-the-shelf commercial mobile devices (such as smartphones, laptops and tablets), resulting in reduced network infrastructure, maintenance and operational costs. The xMax&#174; system will allow mobile operators to utilize free, unlicensed 902 &#8211; 928 MHz ISM band spectrum (available in most of the Americas) instead of having to purchase scarce licensed spectrum which can be prohibitively expensive. In addition, mobile network operators will be able to use xMax&#174; cognitive radio technology to add additional capacity to licensed spectrum by identifying and utilizing unused bandwidth in those frequencies.
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+Our xMax&#174; system is designed to utilize an advanced cognitive radio technology that incorporates OFDM and MIMO to increase interference tolerance, allow mobility, and improve resistance to fading. All xMax&#174; products leverage an array of high-performance, low-cost digital signal processors (DSPs) that enable multidimensional signal processing that mitigates interference and dynamically optimizes available spectrum. xMax&#8217;s software defined radios (SDR) are designed to be inherently frequency-agile, which will allow network access points and user devices to automatically retune and operate on clearer channels within the band. This innovative signal processing will enable xMax&#174; to deliver a licensed spectrum experience using unlicensed spectrum.
+
+&#160;
+
+The product portfolio that we are creating by combining advanced computer processing power and novel wireless design means that a technology solution is becoming a viable alternative to past public and private spectrum acquisition policies. We employ a multifaceted cognitive radio approach that combines sophisticated interference mitigation capabilities with innovative dynamic spectrum access attributes. The former features MIMO smart antenna technologies. Employed in concert, these capabilities will help squeeze additional usable spectrum out of airwaves once considered unusable for advanced mobile communications.
+
+&#160;
+
+CN5100 Mobile Hotspot (formerly known as xMod): 
+
+&#160;
+
+&#160;
+
+The xMax&#174; CN5100 Mobile Hotspot is a device that allows users of Wi-Fi-enabled smartphones, tablets, notebooks and other devices to access the Internet through the xMax&#174; cognitive radio network. The CN5100 Mobile Hotspot acts as a transparent protocol bridge that connects end user devices to the wide-area xMax&#174; network using secure Wi-Fi links, USB or Ethernet cables. It supports not only fixed users but will also supports mobile users and has been designed to provide exceptional QoS (Quality of Service) and MoS (Mean Opinion Score) while supporting calls, texting (SMS) and broadband data streams over the xMax&#174; network.
+
+&#160;
+
+The CN5100 Mobile Hotspot includes a Wi-Fi router chip that allows it to simultaneously support multiple external devices wirelessly. It will enable operators to deploy long-range xMax&#174; networks that can integrate with the large installed base of Wi-Fi and Ethernet-capable devices. Subscribers will easily be able to install and set up a CN5100 Mobile Hotspot to support any device having a Wi-Fi, USB or Ethernet connection. By incorporating xMax&#174; radios and 2x4 MIMO technology, CN5100 Mobile Hotspots can provide range and reliability that management believes is superior to Wi-Fi-based wide-area systems.
+
+&#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160;
+
+The CN5100 Mobile Hotspot and xMax&#174; system is designed to support nomadic and mobile connectivity (including high-speed handoffs) which will allow xMax&#174; operators to offer on-the-go services that differ from those of fixed services, such as cable and DSL. It can be deployed in fixed, mobile or nomadic configurations. As with all the components in the xMax&#174; family of products, the CN5100 Mobile Hotspot offers increased range, flexibility, throughput and reliability, while reducing network deployment and management costs. Management believes this will make xMax&#174; an attractive solution for WISPs, mobile telecommunications operators and other service providers.
+
+&#160;
+
+CN3100 Vehicle Modem (formerly known as xVM): 
+
+&#160;
+
+&#160;
+
+The xMax&#174; CN3100 Vehicle Modem is an IP67-rated ruggedized subscriber device that is designed to be installed inside or outside vehicles. The CN3100 Vehicle Modem acts as a transparent protocol bridge, allowing users of WiFi-enabled smartphones, tablets, notebooks and other devices to seamlessly access the Internet through the xMax cognitive radio network.
+
+&#160;
+
+The CN3100 Vehicle Modem is waterproof and made to withstand wide temperature ranges and challenging environmental conditions. It has been designed to meet the extreme demands characteristic of expeditionary environments, making it ideally suited for employment in the public safety, homeland security, and military market places.
+
+&#160;
+
+While primarily developed for vehicle usage, the CN3100 Vehicle Modem may also be externally mounted in fixed locations like parks or other outdoor areas to provide WiFi access for use in monitoring, surveillance, machine-to-machine and other applications using the xMax backhaul link.
+
+&#160; 
+
+CN3200 Dual-Band Routing Modem: 
+
+&#160;
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160;
+
+Introduced in 2014, the xMax&#174; CN3200 Dual-Band Routing Modem is a single compact unit that operates in both the 900 MHz and 2.4 GHz frequency bands. The CN3200 Dual-Band Routing Modem utilizes interprotocol smart-routing algorithms to automatically determine which frequency to use based on the user&#8217;s application. Voice calls are prioritized to the 900 MHz band while video and data are prioritized to the 2.4 GHz band. The experience to the user is seamless, providing simultaneous high speed data communications and calling without latency or echo.
+
+&#160;
+
+CN3200 Dual-Band Routing Modem is designed for use in both fixed and mobile applications. In logistics, military, or public service applications, the 2.4 GHz link can assist in loading and unloading high volumes of data from the application server to a stationary vehicle and then transparently switch over to 900 MHz once it goes mobile. The CN3200 Dual-Band Routing Modem automatically switches all data and voice traffic to the 900 MHz radio to keep the connection alive. When the vehicle becomes stationary again, the CN3200 Dual-Band Routing Modem resumes dual band operation.
+
+&#160;
+
+The CN3200 Dual-Band Routing Modem has been designed with built-in redundancy with automatic failover. If the 2.4 GHz band becomes congested, slow, or filled with interference, the CN3200 Dual-Band Routing Modem automatically routes all voice and data communications over the 900 MHz band to preserve communications.
+
+&#160;
+
+The CN3200 Dual-Band Routing Modem has been engineered to support the delivery of both fixed location high data rates and reliable high-speed mobility in the same system. It is management&#8217;s belief that it will provide a cost-effective way for rural telecommunications operators to deliver high quality voice, high speed data, and streaming video to their rural and remote customers. We believe the CN3200 Dual-Band Routing Modem will help these operators recover the cost of the network via the Universal Service Fund (&#8220;USF&#8221;) subsidy mechanism. Recent regulatory reform has begun to transition USF support from telephone to broadband services. Because xMax&#174; can carry both voice and data, we believe that xMax&#174; is well suited for rural carriers to handle such a migration.
+
+&#160;
+
+In addition, it is expected that the CN3200 Dual-Band Routing Modem will allow these providers to create entirely new sources of unregulated revenue, for example, providing voice and data services to local emergency response teams.
+
+&#160;
+
+CN1100 Access Point (formerly known as xAP): 
+
+&#160;
+
+&#160;
+
+The xMax&#174; CN1100 Access Point is an all-IP wireless access point that will deliver wide area coverage and reliability even when there is significant interference. The CN1100 Access Point brings together innovative technologies including Software Defined Radio (SDR), cognitive networking and a 2x4 MIMO in a compact and affordable broadband access point. These capabilities will enable the CN1100 Access Point to deliver wide area coverage and broadband throughput for fixed, nomadic and mobile applications.
+
+&#160;
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160;
+
+xMax&#174; radios and 2x4 MIMO technologies give the CN1100 Access Point range and reliability surpassing Wi-Fi-based systems. The CN1100 Access Point (as well as all xMax&#174; components) will support nomadic and fully mobile connectivity, including high-speed handoff that will allow xMax&#174; operators to offer on-the-go services that differ from those of fixed services, such as cable and DSL. As part of the xMax&#174; family of products, the CN1100 Access Point is designed to offer increased coverage, throughput and robustness while reducing network deployment and management costs, making it, we believe, an attractive solution for WISPs, mobile telecommunications operators and other service providers. When implemented, Self-Organizing Networking (SON) technology will simplify and speed deployment for commercial, private and tactical networks.
+
+&#160;
+
+The CN1100 Access Point is a small, single channel device that will provide voice, data and video over ranges of 1 to 5 miles (non-line-of-sight) and up to 15 miles (line-of-sight), depending on environmental and installation conditions. The xMax&#174; system is designed so that it will be possible to collocate multiple CN1100 Access Points in order to increase system capacity. CN1100 Access Points are GPS time-synchronized to avoid self-interference, which increases overall system capacity and load leveling. These features, along with deterministic Media Access Control (MAC) for high-quality voice calls, give the xMax&#174; system improved scalability in real-world conditions.
+
+&#160;
+
+Having numerous accessible channels will allow neighboring network nodes (made up of one or more CN1100 Access Points) to utilize non-interfering channels automatically when employing the network self-planning features that are in our technology roadmap. This will allow the network to grow and scale more easily without the operator having to redesign the network RF plan each time a device moves, or when CN1100 Access Points or users are added or removed from the network.
+
+&#160;
+
+CN7000 Mobile Control Center (formerly known as xMSC): 
+
+&#160;
+
+&#160;
+
+The xMax&#174; CN7000 Mobile Control Center is the backbone network element in the xMax&#174; regional network. The CN7000 Mobile Control Center controls the delivery of voice and data services, and manages all elements in the regional network, including access points and end-user devices.
+
+&#160;
+
+The CN7000 Mobile Control Center acts as an aggregation point for the connected CN1100 Access Points and it performs routing and security functions. The CN7000 Mobile Control Center is typically connected to the Internet/Global Information Grid (GIG) and one or more VoIP soft switches.
+
+&#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160;
+
+xMonitor/xDrive: 
+
+&#160;
+
+&#160;
+
+&#160;
+
+These software tools provide integrated and comprehensive network and element management for the xMax&#174; network, as well as mobile network throughput and coverage optimization.
+
+&#160;
+
+xMonitor is a component of the CN7000 Mobile Control Center that monitors the status and health of all CN1100 Access Points, CN7000 Mobile Control Center elements, and VoIP core elements. It provides end-to-end IP network management and monitoring services. xMonitor is a web-based application that will be installed at an operator&#8217;s Network Operation Center, enabling remote management of network status. The program runs as a live application that continuously collects data from the network, updating the aggregated information without user intervention. It can be programmed to display specific views around the clock &#8212; providing an at-a-glance heads-up display from which to survey the network.
+
+&#160;
+
+xDrive is a drive mapping utility designed to gather, display and log performance statistics from the CN5100 Mobile Hotspot, CN3200 Dual-Band Routing Modem and CN3100 Vehicle Modem. It will allow field technicians to map the coverage of a deployment of CN1100 Access Points, as well as providing CN5100 Mobile Hotspot / CN3200 Dual-Band Routing Modem/ CN3100 Vehicle Modem to CN1100 Access Points to link statistics. 
+
+&#160;
+
+Through IMT, we offer a full spectrum of wireless video products which are built around providing complete solutions. IMT has traditionally focused on the development of core product technologies that have the potential for application in final assembled products that cross market segments. Technology focus areas include RF and microwave component development spanning the frequency range from DC to 18GHz, waveform modulation, H.264 video encoding and decoding, and digital signal processing. Through these products, we are uniquely positioned with significant technology IP and an established reputation for rapidly and economically delivering complex, bespoke engineering products and solutions to customers that are expertly managed to tight deadlines. Production of these products can be rapidly scaled to respond to changes in market demand.
+
+&#160;
+
+Key products by segment are:
+
+&#160;
+
+Broadcast: We have a line of high-margin receiver products including the DR3, CRx6 and CIRAS. These products may be interconnected over IP networks, expanding and simplifying their overall use and reducing the deployment cost significantly. The microLite is a small, low-cost wireless camera system enabling broadcast news operators to eliminate the use of coaxial cables in their remote news operations. This significantly reduces labor costs in the operation, and increases the speed and agility of the cameramen to focus on capturing engaging content.
+
+&#160;
+
+&#160;
+
+&#160; 
+
+DR3 Receiver
+
+&#160;
+
+&#160; 
+
+&#160; 
+
+CRx6 Receiver
+
+&#160; 
+
+&#160; 
+
+CIRAS Receiver
+
+&#160; 
+
+Sports and Entertainment: The microLite is available in both licensed and unlicensed frequency bands, the latter enabling non-TV broadcasters to capture broadcast quality video without the cost and limitations of gaining a frequency license. The unlicensed market is very large and just being opened to high quality technologies.
+
+&#160;
+
+&#160;
+
+&#160;
+
+microLite
+
+&#160;
+
+Government/Surveillance: IMT has focused on handheld receivers and benefits from limited competition in this area. The MiniMobile Commander and Mobile Commander are high quality, feature-rich products. IMT vNet IP Video Distribution Servers enable commanders and managers to view near real time video captured on scene and consumed anywhere in the world over public and private IP networks.
+
+&#160;
+
+&#160;
+
+MiniMobile Commander Receiver Monitor
+
+&#160; 
+
+&#160; 
+
+Mobile Commander Receiver Monitor
+
+&#160;
+
+&#160; 13 &#160; 
+
+&#160;
+
+&#160;
+
+Competition 
+
+&#160;
+
+The wireless technology sector is intensely competitive and is rapidly evolving. Several vendors have researched and experimented with cognitive radios. This research predominately falls under the traditional industry defined use of a cognitive radio where cognitive capabilities are restricted to dynamic spectrum access (&#8220;DSA&#8221;) within the radio device. However, we believe that only a few vendors are undertaking development across all the key elements of cognitive technology: spectrum sensing, spectrum management, spectrum mobility, spectrum sharing, and spatial processing.
+
+&#160;
+
+As an example, both Spectrum Bridge and Microsoft have developed a database approach to frequency reuse. This method was developed specifically to enable unlicensed broadband systems to coexist with existing TV transmitters in the TV White Spaces band.
+
+&#160;
+
+We not only face competition from other companies developing cognitive radio solutions but we are also competing for sales to end-user customers with companies offering solutions utilizing other technologies for access to licensed and unlicensed spectrum, such as LTE and Wi-Fi.
+
+&#160;
+
+In the cognitive radio market, our competitors include, Neul Ltd., Shared Spectrum Corporation and Adaptrum.
+
+&#160;
+
+End-customers in the rural broadband market are being offered a choice of solutions based on alternative technologies, such as LTE and Wi-Fi. Global communications networking equipment vendors such as Ericsson, Huawei, Alcatel-Lucent and others are actively selling and deploying LTE and, to a lesser extent, WiMax equipment with rural telecommunications operators that own, or can lease, appropriate licensed spectrum frequencies. We also face competition for equipment sales with Ruckus Wireless, Ubiquiti Networks and Cambium Networks, which have also targeted markets for communications systems around the world similar to our target markets. These companies are vastly larger than we are, with significantly greater resources, we believe that we or our channel partners will need to convince end users to consider our offerings as a viable alternative to these larger companies if we are to succeed.
+
+&#160;
+
+It is not uncommon for a single rural operator to deploy a mix of technologies (such as LTE and Wi-Fi) to address differing applications, spectrum holdings and economics across their market areas. As new technologies are introduced and spectrum availability and costs increase, we anticipate that rural telecommunications operators will continue to deploy a growing range of innovative solutions that deliver voice and data communications to their customers.
+
+&#160;
+
+The main vendor in the public safety market is Motorola Solutions, which is a global player that holds a highly dominant market share in the U.S. of over 80% in public safety and government wireless networks.
+
+&#160;
+
+In the defense market, there are several large and significant companies that provide wireless communications systems to U.S. and international military agencies, including Harris Corporation, ITT Industries, Raytheon, Boeing, Thales Communications and Lockheed Martin. It is common for one competitor to be a subcontractor to another competitor who is the prime contractor and vice versa as programs of record ramp up and ramp down over time.
+
+&#160;
+
+A number of our current or potential competitors have long operating histories, significant brand recognition, large customer bases and significantly greater financial, technical, sales, marketing and other resources than we do. As an emerging technology company, our brand is not as well known as incumbents in those markets. Potential customers may prefer to purchase from their existing suppliers rather than a new supplier, regardless of product performance or features.
+
+&#160;
+
+Primary competitors of IMT are Vislink, Domo Tactical Communications (Formerly a division of Cobham), and a number of smaller market- specific businesses. IMT has been able to successfully leverage its long broadcast industry leadership, reputation for advanced technology, and ability to provide end-to-end-solutions in order to maintain and increase its customer base and to continue providing highly competitive offerings.
+
+&#160;
+
+Competitive Positioning 
+
+&#160;
+
+Regulatory risk &#8212; we believe that our choice initially to develop our cognitive radio technology utilizing the unlicensed 902 &#8211; 928 band exposes us to less regulatory risk than companies building products upon newly available TV White Space frequencies. Whereas the 902 &#8211; 928 MHz band has withstood multiple attempts to redefine the rules regarding its use, newer frequency bands such as TV White Spaces have yet to demonstrate their permanence. Specific initiatives to license off TV White Space frequencies for cellular carrier use are being promoted by licensed spectrum stakeholders. While our core technology can be adapted for operation upon such newly available frequencies once their staying power has been demonstrated, we believe that we are not subject to the same make-or-break dependency upon the availability of TV White Spaces as are most other cognitive radio product companies.
+
+&#160; 
+
+&#160; 14 &#160; 
+
+&#160;
+
+&#160; 
+
+Mobility &#8212; we are specifically developing our product line to support mobility. We believe that mobility is an important differentiator with regard to our offering in the marketplace. Designed to do its own RF planning automatically by utilizing an extended range of non-interfering channels without manual intervention, xMax&#174; will offer the ability to make the entire network infrastructure mobile, with CN1100 Access Point base stations able to move in relation to each other as well as to CN5100 Mobile Hotspots, CN3200 Dual-Band Routing Modems, xMax CN3100 Vehicle Modems and users. We believe this feature will be unique to xMax&#174; and will address a major capability gap for defense, homeland security, and public safety agencies which all require &#8220;on the move&#8221; communications networks. These agencies currently have no equipment or capacity for this identified and urgently needed capability.
+
+&#160;
+
+Supports both real-time VoIP and data sessions utilizing a single set of infrastructure &#8212; Most IP systems do not carry large numbers of simultaneous voice conversations. We have focused on designing a core technology that is capable of carrying both mass-scale voice and data sessions on the same network.
+
+&#160;
+
+Interference mitigation &#8212; Whereas most efforts to date focus on interference avoidance, we have extended our core competency into the realm of interference mitigation. In a world where wireless demand is certain to result in more, not less, congested airwaves, we believe that our intellectual property that can help to ameliorate interference is a unique competitive advantage in the marketplace.
+
+&#160;
+
+Strong engineering management team &#8212; We maintain a strong, product-driven, engineering team with a track record within the Ad-Hoc wireless networking domain with Motorola Mesh Networks.
+
+&#160;
+
+No federal government unlimited use licenses &#8212; We have solely funded the development of our intellectual property, which is, accordingly, unencumbered by any federal government unlimited use licenses.
+
+&#160;
+
+Strong Patent Portfolio &#8212; We maintain a strong intellectual property portfolio that presents a barrier to entry to other firms that may attempt to develop cognitive radio network technology.
+
+&#160;
+
+We believe we compete favorably on these factors. However, our industry is evolving rapidly and is becoming increasingly competitive. Other developers could develop alternative wireless cognitive networks and other technologies that may adversely affect our ability to attract and retain customers. These competitors may include companies of which we may not be currently aware.
+
+&#160;
+
+We are well positioned for continued growth in broadcast and sports and entertainment markets, and expect near term growth in the government/surveillance market. IMT has recently completed a number of new products and product updates, enabling us to offer end-to- end solutions that encompass video capture, consolidation and distribution. Full control of the production process is now inhouse, eliminateing reliance on third party providers and allow us to realize improving margins, control over product quality and competitive agility.
+
+&#160;
+
+Sales and Marketing 
+
+&#160;
+
+Our strategy is to sell the equipment in which our intellectual property is initially implemented, globally direct and through an indirect channel network of technology partners that we will leverage in order to upscale our selling efforts without the significant cost of a large direct sales force. Our channel partners will utilize their own internal and external sales representatives to provide lead generation among their established customer base and beyond, pre-sales support, product fulfillment and, in certain circumstances, post-sales customer service and support. In certain cases, service providers may also act as a channel partner for sales of our solutions to their existing customers or new enterprise accounts. Among the channel partner firms with whom we have formally announced agreements are GlobalMed (telemedicine market), DirectView (video and security market), Drakontas (public safety market), Kerberos (government markets), and Radio IP Software (mobile security markets).
+
+&#160;
+
+Our sales team currently is comprised of business development, relationship and account executives. This sales team is focused on supporting our current customers, as well as nurturing relationships with prospective customers in key domestic and international markets. Our relationship managers support the development of sales presentation materials and training of our channel partner sales personnel to assist them in marketing our services, either directly or indirectly to their customers. We also directly train and support selected key customers and technology providers in order to grow an active client base and solidify relationships.
+
+&#160;
+
+IMT uses a combination of sales channels, including direct-to-end customer sales, network group sales, reseller/integrators and OEM sales channels, to reach its customers depending on the market segment.
+
+&#160;
+
+&#160; 15 &#160; 
+
+&#160;
+
+&#160;
+
+Effective March 1, 2015, we implemented cost reduction initiatives that included a decrease in our then current full, part-time and contracted workforce. We reduced our business development, sales and marketing team to ten full-time employees or contractors. As of December 31, 2015, our business development, sales and marketing team consisted of six full-time employees or contractors.
+
+&#160;
+
+Customers 
+
+&#160;
+
+We have begun to implement our sales and marketing strategy, both through direct sales to end-customers and indirect sales to channel network partners, and we have entered into a number of equipment purchase, reseller and teaming agreements as a result. These customer engagements span our target markets in rural telecommunications and defense.
+
+&#160;
+
+Manufacturing and Suppliers 
+
+&#160;
+
+We have historically retained contract manufacturers to manufacture, test, assure the quality of, and ship our products. With our recently announced IMT acquisition, we anticipate that our internal manufacturing organization, which currently consists of a small number of supply chain managers, employees and independent contractors, will increase. During the next several months, as we integrate the IMT business that we have acquired, we will rely less on our contract manufacturers, and more on internal test engineers and resources to implement quality assurance programs designed to assure high product quality and reliability. Going forward, we anticipate that we will focus on our core strengths, which are innovation and technology design and the development, creation and exploitation of our intellectual property. Accordingly, we ultimately plan to become a designer, developer and fabless supplier of xMax&#174; integrated circuits and system software solutions for xMax&#174; products where we would supply integrated circuits produced either through the IMT assets, if we are able to successfully integrate them into our business, or by third party manufacturing partners under license, software, reference designs, features, tools and technical support.
+
+&#160;
+
+We intend to integrate IMT into our plan to build our products, but may continue to rely, particularly in the short term, on third party components and technology to build our products, as we procure components, subassemblies and products necessary for the manufacture of our products based upon our design, development and production needs. While components and supplies are generally available from a variety of sources, we currently depend on a single or limited number of suppliers for several components for our products. We are using a single source digital signal processor that may be difficult to replace with an equivalent performance device. In the longer term, we are planning to adapt the xMax&#174; system to run on multiple low cost platforms. We rely on purchase orders rather than long-term contracts with our suppliers. We do not currently stockpile enough components to mitigate any potential supply disruption if we are required to re-engineer our products to use alternative components.
+
+&#160;
+
+&#160; 16 &#160; 
+
+&#160;
+
+&#160;
+
+Intellectual Property 
+
+&#160;
+
+Our business is significantly based on the creation, acquisition, use and protection of intellectual property. Some of this intellectual property is in the form of software code, patented technology and trade secrets that we use to develop our technologies, solutions and products. We have developed a broad portfolio of intellectual property that covers wired and wireless communications systems. As of December 31, 2015, in the U.S., we have 55 patents granted, 3 patent applications pending, and no provisional application pending. Internationally, we have 57 patents granted, 36 patent applications pending, and no Patent Cooperation Treaty (PCT) applications.
+
+&#160;
+
+Areas of our development activities for xMax&#174; and beyond that have culminated in filings and/or awarded patents include:
+
+&#160;
+
+&#160; &#8226; Spatial Processing (MIMO); &#160; &#8226; Self-Organizing Networks; &#160; &#8226; RF Modulation; &#160; &#8226; Compression (protocols, payload, signaling, etc.); &#160; &#8226; Modulators/Demodulators; &#160; &#8226; Antennas/Shielding; &#160; &#8226; Wired and Wireless Networks; &#160; &#8226; Media Access Control Protocols; &#160; &#8226; Interference Mitigation; &#160; &#8226; Cognition enabling over the air protocols (MAC layer); &#160; &#8226; Wireless data compression; &#160; &#8226; Dynamic Spectrum Access (DSA); and &#160; &#8226; Quality of Service. &#160;
+
+We protect our intellectual property rights by relying on federal, state and common law rights, as well as contractual restrictions. We control access to our proprietary technology by entering into confidentiality and invention assignment agreements with our employees and contractors, and confidentiality agreements with third parties. We also actively engage in monitoring activities with respect to infringing uses of our intellectual property by third parties.
+
+&#160;
+
+&#160; 17 &#160; 
+
+&#160;
+
+&#160;
+
+In addition to these contractual arrangements, we also rely on a combination of trade secret, copyright, trademark, trade dress, domain name and patents to protect our products and other intellectual property. We typically own the copyright to our software code, as well as the brand or title name trademark under which our products are marketed. We pursue the registration of our domain names, trademarks, and service marks in the United States and in locations outside the United States. Our registered trademarks in the United States include &#8220;xG&#8221;, and &#8220;xMax&#174;&#8221;, the names of our suite of products, among others.
+
+&#160;
+
+Circumstances outside our control could pose a threat to our intellectual property rights. For example, effective intellectual property protection may not be available in the United States or other countries in which our products are sold or distributed. Also, the efforts we have taken to protect our proprietary rights may not be sufficient or effective. Any significant impairment of our intellectual property rights could harm our business or our ability to compete. In addition, protecting our intellectual property rights is costly and time-consuming. Any unauthorized disclosure or use of our intellectual property could make it more expensive to do business, thereby harming our operating results.
+
+&#160;
+
+Companies in the mobile wireless communications technology and other industries may own large numbers of patents, copyrights and trademarks and may frequently request license agreements, threaten litigation or file suit against us based on allegations of infringement or other violations of intellectual property rights. We may face allegations by third parties, including our competitors and non-practicing entities, that we have infringed their trademarks, copyrights, patents and other intellectual property rights. As our business grows, we will likely face more claims of infringement.
+
+&#160;
+
+Government Regulations 
+
+&#160;
+
+Regulators&#8217; Role in Spectrum 
+
+&#160;
+
+In the past, all radios were designed with the assumption that they were operating in a spectrum band that was free of interference. There was no requirement to design radios with the ability to dynamically change channels or change spectrum bands in response to interference. These radios required pristine, dedicated licensed spectrum to operate. This led to the FCC and other regulators worldwide licensing spectrum to a particular network operator, for example, cellular paging or wireless service provider so that interference would be carefully controlled. Because of this past legacy, significant blocks of spectrum were underutilized. Even in spectrum bands that might be considered to be highly utilized, valuable spectrum can sit idle in sparsely populated areas or at certain hours of the day when network use dramatically drops.
+
+&#160;
+
+There are also applications, such as paging, that have fallen out of favor and contribute to this underutilization. Despite the dramatic drop in the use of pagers, a large amount of spectrum is still dedicated to this application. In addition, there are large swaths of unused or lightly-used spectrum that have been held by federal agencies. Traditionally, these agencies were not allowed to sell or transfer their spectrum to commercial users, meaning those spectral resources were locked. This regulatory policy has led to inefficient use of spectrum which has been exacerbated by exploding consumption of commercial mobile data services and, consequently, the declaration of a spectrum crisis. While regulators are continuing to allocate spectrum based upon this assumption that radios do not have the ability to share spectrum, they are now starting to embrace the concept of shared spectrum and the opportunistic use of spectrum enabled by cognitive radio networks.
+
+&#160;
+
+&#160; 18 &#160; 
+
+&#160;
+
+&#160;
+
+Regulators are starting to ease the rules relative to the allocation and access of spectrum. A good example of this is the shared use of TV broadcast spectrum via the creation of TV White Spaces (TVWS) for wireless broadband. The FCC and other spectrum regulatory agencies like the UK&#8217;s Ofcom have begun the process to allow cognitive radios to use freed-up spectrum resulting from the transition from analog to digital TV broadcasts. For example, TV white space continues to gain momentum in the US and Europe with multiple deployments and trials being supported by some of the world&#8217;s largest technology companies. Furthermore, a new group has been formed called AIR.U that is being funded by Microsoft, Google and others to utilize TV White Spaces to bring high-speed Internet services to rural campuses, schools and other institutions in the US. Similar initiatives are being undertaken in the UK with extensive trials being done in both urban and rural settings using TV White Spaces. In addition to two of the largest technology companies mentioned above, Nokia is also taking a leading role in the UK&#8217;s TV White Space trials. While there have been rumors circulating that the FCC was somehow taking back TV White Spaces, there appears to be no actual indication of this taking place. In fact, the FCC appears to be approving more TV White Space database administrators as well as certifying additional radio platforms for operation in TV White Spaces. It is possible, nonetheless, that over time, TV White Spaces could be reclaimed by Congress or the FCC and re-auctioned for licensed use. However, that is a risk any unlicensed spectrum faces and has never actually occurred in the US. Other countries globally are also seriously considering creating their own TV white space allocations. These countries include Canada, Brazil and the EU.
+
+&#160;
+
+Operators and consumers are able to use available unlicensed spectrum bands for the delivery of new applications and inexpensive broadband capacity. An example of this is the data offload efforts of some carriers that use 802.11 Wi-Fi (in the 2.4 and 5.8 GHz unlicensed bands) in densely populated areas where their 3G network is congested. This allows carriers to continue supporting mobile voice and data services over their licensed spectrum, while data that can be consumed at a fixed location (airport, coffee shop, office, etc.) is forced over an unlicensed Wi-Fi link. However, the popularity of Wi-Fi and other devices that use these frequencies has resulted in crowded and noisy spectrum that not only has to support the carriers&#8217; smartphone data, but all other applications from other devices in that band as well. The interference in these bands affects the capacity and efficiency of this spectrum for conventional radios. However, where conventional radios see &#8220;walls of interference&#8221;, cognitive radios can uncover &#8220;windows of opportunity&#8221; and recover up to 85% of the total unused bandwidth in these frequencies.
+
+&#160;
+
+The FCC&#8217;s Part 15 rules that govern use of the 902 &#8211; 928 MHz ISM band and other unlicensed spectrum bands are well established and are considered responsible for creating an environment where technology and innovation has flourished. They are recognized as having helped create an industry that has generated tens of thousands of high technology jobs, added billions of dollars to the United States economy, and brought the benefits of a wide variety of convenient, economical communications devices to business, industry, education, health care providers and consumers alike. While there have been some attempts to challenge them, they have always been reaffirmed and we have every reason to believe they will remain so.
+
+&#160;
+
+&#160; 19 &#160; 
+
+&#160;
+
+&#160;
+
+Even during the recent debates over spectrum policy, there have been no suggestions put forth by the FCC, the Congress or industry to repurpose the ISM unlicensed band to a licensed one that could be auctioned off. The reallocation of a band that is in active use by so many devices would be prohibitively disruptive. Given the long history and widespread use of the ISM band for such a wide array of communications, we feel very confident that it will remain open to use by technologies such as xMax&#174; for the foreseeable future.
+
+&#160;
+
+While devices operating upon unlicensed bands do not require FCC licensing, they are not unregulated and must meet the Federal Code of Regulation (CFR) FCC Part 15, which is a common testing standard for most electronic equipment. FCC Part 15 covers the regulations under which an intentional, unintentional, or incidental radiator that can be operated without an individual license. FCC Part 15 covers as well the technical specifications, administrative requirements and other conditions relating to the marketing of FCC Part 15 devices.
+
+&#160;
+
+We are well-versed in the process involved in meeting FCC equipment authorization for products, owing to our extensive experience dating back to certifying pre-commercial prototype xMax networking devices. This process has included working closely with FCC authorized testing laboratories, sending sample units and representative data, and participating in briefings with the FCC Office of Engineering Technology. As a result, we have been able to secure FCC equipment authorization of our xMax commercial networking devices on a timely basis, thus preventing disruption to the sales process caused by regulatory issues. We believe this accumulated experience makes us well-positioned to continue meeting regulatory requirements for future equipment we intend to bring into commercial production.
+
+&#160;
+
+Underserved and underpenetrated markets. Wireless networks are emerging as an attractive alternative for addressing both the broadband access needs of underserved and underpenetrated markets and for offering a host of other services and solutions. According to forecasts made by the ITU in 2015, global mobile broadband penetration was expected to reach 47% by the end of 2015, compared to only 7% for fixed-mobile penetration. The difference is especially acute in less developed areas. &#160; We believe this is due to the lack of an established network infrastructure and the high initial deployment costs of wired networks. We believe that this rate has the potential to be even higher if carrier class wireless solutions were broadly available at a fraction of the established market costs.
+
+&#160;
+
+Limitation of existing solutions. Existing wireless networking technologies such as standard 802.11 based Wi-Fi, WiMax and LTE have been designed to satisfy the increasing demand for broadband access and support mobility. According to a Gartner forecast, aggregate end-user spending on wireless networking equipment for Enterprise WLAN, wireless broadband access, and LTE solutions, is expected to grow from $10.4 billion in 2012 to $41.3 billion in 2017, representing a CAGR of 32%. However, these existing alternative networking solutions often fail to meet the price-performance requirements of wireless networking in emerging markets, which in turn has led to low penetration and large populations of unaddressed users in these areas. As a result, there is a strong need for cost-effective solutions to deliver wireless networking solutions to consumers and enterprises in underserved and underpenetrated markets. These solutions must be robust and provide service equivalent to that of alternative wired and wireless solutions while simultaneously meeting the economic objectives of network operators and service providers in these markets.
+
+&#160;
+
+&#160; 20 &#160; 
+
+&#160;
+
+&#160;
+
+Increasing use of unlicensed spectrum. Private industry in underserved and underpenetrated markets worldwide has responded to the lack of wired infrastructure by deploying wireless networks utilizing unlicensed RF spectrum. These network operators and service providers often cannot afford the capital outlay to acquire licenses for the licensed RF spectrum and have consequently designed their wireless networks for unlicensed RF spectrum. In the absence of affordable broadband access in licensed spectrum, the number of users of unlicensed RF spectrum has increased for communications equipment, as well as consumer devices such as cordless phones, baby monitors and microwave ovens. As a result of high demand for unlicensed RF spectrum, use of this spectrum to provide high quality wireless networking has become more challenging and congestion is limiting the growth of wireless networks.
+
+&#160;
+
+Government incentives for broadband access. Governments around the world are increasingly taking both regulatory and financial steps to expand access to broadband networks and increase availability of advanced broadband services to consumers and businesses. For example, in many countries, including the United States, the responsible regulatory agencies have released the spectrum previously used for broadcast TV, known as the TV White Space, to relieve some of the congestion. The United States and other countries have adopted stimulus plans to increase the delivery of robust broadband access in unserved and underserved areas. The World Bank has reported that 12 countries and the EU have committed an aggregate of $122.4 billion in broadband stimulus funds to date.
+
+&#160;
+
+Company Information 
+
+&#160;
+
+The Company was organized as a limited liability company under the laws of the State of Delaware on August 26, 2002 under the name JTS Acquisitions, LLC. On March 21, 2003, we changed our name to xG Technology, LLC. Pursuant to a certificate of conversion and a certificate of incorporation filed with the State of Delaware on November 8, 2006, xG Technology, LLC converted to a Delaware corporation under the name xG Technology, Inc. Our executive offices are located at 240 S. Pineapple Avenue, Suite 701, Sarasota, FL 34236, and our telephone number is (941) 953-9035. Our website address is www.xgtechnology.com . Information contained in our website does not form part of the report and is intended for informational purposes only.
+
+&#160;
+
+We are an &#8220;emerging growth company&#8221; as defined in the Jumpstart Our Business Startups Act of 2012, or JOBS Act. We will remain an emerging growth company for up to five years, or until the earliest of (i) the last day of the first fiscal year in which our annual gross revenue exceed $1 billion, (ii) the date that we become a &#8220;large accelerated filer&#8221; as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our common stock that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed second fiscal quarter or (iii) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three-year period. Pursuant to Section 102 of the JOBS Act, we have provided reduced executive compensation disclosure and have omitted a compensation discussion and analysis from this Report. Pursuant to Section 107 of the JOBS Act, we have elected to utilize the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards.
+
+&#160;
+
+Employees 
+
+&#160;
+
+As of December 31, 2015, we employed 58 full-time equivalent employees, contractors or consultants, which included 37 in development, 4 officers, 5 in general and administrative, 1 in business development, 5 in operations and 6 in sales and marketing. In 2016, in connection with our acquisition of IMT, we added 32 employees. We also engage a number of temporary employees and consultants. None of our employees are represented by a labor union or are party to collective bargaining agreements. We believe that we have good relations with our employees.
+
+&#160;
+
+&#160; 21 &#160; 
+
+&#160;
+
+&#160;
+

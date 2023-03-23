@@ -1,0 +1,202 @@
+ ITEM 1. BUSINESS 
+
+&#160; 
+
+General 
+
+&#160; 
+
+MobileSmith, Inc. (referred to herein as, &#8220;MobileSmith,&#8221; the &#8220;Company,&#8221; &#8220;us,&#8221; &#8220;we,&#8221; or &#8220;our&#8221;) was incorporated in Delaware in August 1993 and became a public company through a self-registration in February 2005. The Company&#8217;s common stock trades on the OTC Market (OTC.QB) under the symbol &#8220;MOST&#8221;. 
+
+&#160; 
+
+Principal Products and Services 
+
+&#160; 
+
+We develop and market a software-as-a-service (&#8220;SaaS&#8221;) platform that allows non-programmers to rapidly design and build native mobile applications for smartphones and tablets. Our flagship product is the MobileSmith&#174; Platform (the &#8220;Platform&#8221;). &#160; Platform related services often include data integration and training. We also provide consulting services, which include assistance with design and implementation of mobile strategy, implementation of mobile marketing strategy and the development of mobile apps. 
+
+&#160; 
+
+Mode of Operations 
+
+&#160; 
+
+In our business model &#8211; the customers acquire access to the Platform through user subscription agreements and are able to obtain control of mobile app production. We often refer to our business model as platform-as-a-service ("PaaS"), because we not only offer cloud software to create mobile apps, we offer infrastructure to host the newly created mobile apps and back-office tools to manage those apps. Out Platform is a truly comprehensive offering and thus more accurately described by the PaaS model. In the industry and this report terms SaaS and PaaS may be used interchangeably as common reference to cloud computing model. 
+
+&#160; 
+
+Our business model allows for creation and management of any desired number of apps by our customers for a monthly subscription fee. The on-demand PaaS model developed using multi-tenant architecture enables end users to visit a website and use the PaaS applications, all via a web browser, with no installation, no special information technology knowledge and no maintenance. The PaaS application is transformed into a service that can be used anytime and anywhere by the end user. Multi-tenant PaaS applications also permit us to add needed functionality to our applications in one location for the benefit of all end users. This capability allows us to provide upgrades universally. 
+
+&#160; 
+
+During 2014, for the first time we installed our Platform in a local or a private cloud configuration for one of our government clients. Our Platform was safely placed behind the firewalls of a government department which would allow the organization to create and manage multiple mobile apps with targeted functionality for targeted audiences without going outside of the secure setting. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Target Market and Sales Channels 
+
+&#160; 
+
+We believe that the do-it-yourself model for creation and management of apps will become a cost effective solution for enterprise clients who have an ever increasing need to interact with their customers and employees through mobile devices. Single apps may reach their limits of usability very quickly, if made complex. The Platform provides the subscriber with the capacity to create multiple, customized non-template apps with designated functionalities and specific designs without incurring additional costs. 
+
+&#160; 
+
+Our market penetration strategy focuses on three distinct sectors: 
+
+&#160; 
+
+Healthcare clients: 
+
+&#160; 
+
+Healthcare organizations, such as hospitals and healthcare networks, follow departmental segmentation and focus on a specific territorial reach. Additionally, healthcare organizations are subject to increased regulation as a result of the Affordable Care Act and may be subject to penalties for delivering inefficient care under new Medicare regulations. Hospitals increasingly turn to portfolios of apps to increase efficiency and remain competitive. Outpatient care apps, wellness apps, physician referral apps, appointment apps, discharge apps, facility way-finding apps are just a few example areas where healthcare organizations are increasingly using app portfolios. We believe that the Platform has a significant competitive advantage in the healthcare space due to its ability to deliver a variety of targeted mobile solutions cost effectively. 
+
+&#160; 
+
+Enterprise clients: 
+
+&#160; 
+
+The third sector combines all other large and multi-national enterprise clients, where large-scale customization based on functionality or territory is of the highest value, and other contributors such as time to market, technology reach, and ease of use play important roles. These target clients may include large food chains, media and PR companies, software solutions providers, hardware manufacturers, mortgage brokers and real estate franchises. 
+
+&#160; 
+
+Government: 
+
+&#160; 
+
+We believe that the Platform has a unique capability to service various structures within federal, state and local governments, as government structure is highly segmented by function and territory. In addition, the Platform can be safely placed behind the firewalls of individual departments, where data security is a primary concern. Replicating the Platform and placing it behind a secure firewall would allow an organization to create and manage multiple mobile apps with targeted functionality for targeted audiences without going outside of the secure firewall. 
+
+&#160; 
+
+Principal Customers 
+
+&#160; 
+
+We had one customer in 2014 and two in 2015 that accounted for more than 10% of the Company&#8217;s revenues. Due to fact that revenue generated in both years is low in comparison to overall operating costs, we believe that the loss of any of those customers would not have a significant impact on results of operations. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+In 2015 we continued to enhance the Platform with various functionalities sought by current and target customers. We continuously monitor such demand, rapidly develop the functionalities and make them available to all our customers, current and future. 
+
+&#160; 
+
+During 2015, we introduced the following upgrades to the Platform: 
+
+&#160; 
+
+&#9679; 
+
+Capability for our customers to securely connect an app to enterprise back-end systems via REST services (web based architecture commonly used to transfer data among devices over the internet). This REST connector allows more flexible use cases in our Platform, but, more importantly, allows customers to create apps using data managed by their own security and IT teams. Implementation of REST will allow MobileSmith to address the needs to large enterprise clients 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#9679; 
+
+Implementation of a user authentication connector supporting OAuth 2.0, a standard for authentication that allows both MobileSmith and its client to create mobile apps, that will display app user specific content. 
+
+&#160; 
+
+&#9679; 
+
+The Platform has been redesigned to offer a better user experience to our customers, both in app creation and design and app content management. 
+
+&#160; 
+
+We incurred research and development expenses of approximately $1.4 million and $1.2 million in 2015 and 2014, respectively. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+Generally, three principal solutions exist for enterprises in need of a mobile native (non-HTML 5) application, (a native app is compiled in code that is designed to run specifically on a mobile device and take advantage of all technical aspects of a smart phone; HTML 5 app is a web-site with user interface of an app): 
+
+&#160; 
+
+&#9679; 
+
+A customer may hire an enterprise software application vendor and outsource the creation of a mobile app based on the defined specifications. A customer often does not have control over the creation of the final product and any subsequent modifications of the delivered product. 
+
+&#160; 
+
+&#9679; 
+
+A large company with existing in-staff development teams may acquire a subscription to a Mobile Application Development Platform (&#8220;MADP&#8221;). MADP space is represented by the following solutions: HP&#8217;s Anywhere Mobile Development Platform, SAP&#8217;s Sybase Unwired Platform, IBM&#8217;s Worklight, KONY Solutions, Appcelerator, and Xamarin(now part of Microsoft). Customers that use an MADP have full control over creation of the mobile apps, but are required to have developers on staff. 
+
+&#160; 
+
+&#9679; 
+
+A company may subscribe to one of several do-it-yourself platforms (&#8220;DIY platforms&#8221;). Customers that use a DIY platform have full control over the app creation process and developer knowledge is not required to produce those apps. Current DIY platforms predominantly have narrow specializations (e.g., event app creation platforms). 
+
+&#160; 
+
+MobileSmith differentiates itself from its competition because: 
+
+&#160; 
+
+&#9679; 
+
+The Platform allows for creation of apps with sophisticated functionality; and 
+
+&#160; 
+
+&#9679; 
+
+The Platform is designed for use by non-developers. The primary users of the Platform within our customers&#8217; organizations are marketing and designer teams &#8211; individuals who have the best understanding of the behavior and demands of the end users of the apps &#8211; those who actually download the apps on their phones. 
+
+&#160; 
+
+Intellectual Property 
+
+&#160; 
+
+During 2014, we stopped pursuing the majority of our patent applications as we determined that the cost of pursuing them to be greater than the potential protection to be provided by them. Nevertheless, we do have several patent applications that were filed prior to our change of patent strategy. 
+
+&#160; 
+
+We have several trademark applications pending with the U.S. Patent and Trademark Office. These trademarks, if granted, will cover certain names that identify specifics of the Platform user interface. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of December 31, 2015, we had 33 full time employees and no part time employees. None of our employees are subject to collective bargaining agreements. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Available Information 
+
+&#160; 
+
+Our corporate information is accessible through our main web portal at www.MobileSmith.com . We are not including the information contained on our website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K. Although we endeavor to keep our website current and accurate, there can be no guarantees that the information on our website is up to date or correct. We make available, free of charge, access to all reports filed with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;), including our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K, and amendments to these reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The Company&#8217;s reports filed with, or furnished to, the SEC are also available on the SEC&#8217;s website www.sec.gov . 
+
+&#160; 
+

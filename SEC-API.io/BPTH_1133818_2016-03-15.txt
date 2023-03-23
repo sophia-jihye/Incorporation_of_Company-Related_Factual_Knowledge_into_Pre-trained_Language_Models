@@ -1,0 +1,792 @@
+ ITEM 1. BUSINESS
+
+&#160;
+
+Overview
+
+&#160;
+
+We are a clinical and preclinical stage oncology focused antisense drug development company utilizing a novel technology that achieves systemic delivery for target specific protein inhibition for any gene product that is over-expressed in disease. Our drug delivery and antisense technology, called DNAbilize&#8482;, is a platform that uses P-ethoxy, which is a deoxyribonucleic acid (DNA) backbone modification that is intended to protect the DNA from destruction by the body&#8217;s enzymes when circulating in vivo, incorporated inside of a neutral charged lipid bilayer. We believe this combination allows for high efficiency loading of antisense DNA into non-toxic, cell-membrane-like structures for delivery of the antisense drug substance into cells. In vivo, the DNAbilize&#8482; delivered antisense drug substances are systemically distributed throughout the body to allow for reduction or elimination of proteins in blood diseases and solid organs.
+
+&#160;
+
+Using DNAbilize&#8482; as a platform for drug manufacturing, we currently have two antisense drug candidates in development to treat a total of five different disease indications. Our lead drug candidate, Liposomal Grb2 (&#8220;BP1001&#8221;), targets the protein Grb2 and is preparing to enter the efficacy portion of Phase II clinical trials for acute myeloid leukemia (AML) and the safety segment of a Phase II clinical trial for blast phase and accelerated phase chronic myelogenous leukemia (CML). BP1001 is also in preclinical studies for solid tumors, including triple negative breast cancer (TNBC) and inflammatory breast cancer (IBC).
+
+&#160;
+
+Our second drug candidate, Liposomal Bcl2 (&#8220;BP1002&#8221;), targets the protein Bcl2, which is responsible for driving cell proliferation in up to 60% of all cancers. BP1002 is in preparation for an Investigational New Drug (IND) application and expected to begin a Phase I clinical trial for lymphoma in 2016.
+
+&#160;
+
+We currently maintain an exclusive license agreement (the &#8220;License Agreement&#8221;) with The University of Texas, MD Anderson Cancer Center (&#8220;MD Anderson&#8221;), under which we license from MD Anderson the delivery technology platform and BP1001 and BP1002. We are developing antisense drug candidates to treat cancer and autoimmune disorders where targeting a single protein may be advantageous and result in reduced adverse effects as compared to small molecule inhibitors with off-target and non-specific effects. We have composition of matter and method of use intellectual property for the manufacture of neutral charged DNA-liposome complexes.
+
+&#160;
+
+Our pipeline for development of antisense therapeutics is set forth in the table below:
+
+&#160;
+
+Figure 1. Bio-Path Pipeline for Development of Therapeutics
+
+&#160; 
+
+&#160;
+
+2&#160; 
+
+&#160;
+
+&#160;
+
+Ribonucleic acid (RNA) is a biologically significant type of molecule consisting of a chain of nucleotide units. Each nucleotide consists of a nitrogenous base, a ribose sugar, and a phosphate. Although similar in some ways to DNA, RNA differs from DNA in a few important structural details. RNA is transcribed from DNA by enzymes called RNA polymerases and is generally further processed by other enzymes. RNA is central to protein synthesis. DNA carries the genetic information of a cell and consists of thousands of genes. Each gene serves as a recipe on how to build a protein molecule. Proteins perform important tasks for the cell functions or serve as building blocks. The flow of information from the genes determines the protein composition and thereby the functions of the cell.
+
+&#160;
+
+The DNA is situated in the nucleus of the cell, organized into chromosomes. Every cell must contain the genetic information and the DNA is therefore duplicated before a cell divides (replication). When proteins are needed, the corresponding genes are transcribed into RNA (transcription). The RNA is first processed so that non-coding parts are removed (processing) and is then transported out of the nucleus (transport). Outside the nucleus, the proteins are built based upon the code in the RNA (translation).
+
+&#160;
+
+Our basic drug development concept is to block the expression of proteins that cause disease. RNA is essential in the process of creating proteins. We intend to develop drugs and drug delivery systems that work by delivering short strands of DNA material (antisense DNA) that are inserted into a cell to block the production of proteins associated with disease (Figure 2).
+
+&#160;
+
+Figure 2.
+
+&#160;
+
+&#160;
+
+Antisense DNA therapeutics is the field of designing short DNA sequences that are complementary to an RNA for a protein of interest with the intention of inhibiting the production of the targeted protein. The DNA will find the matching RNA and form a complex. The complexed RNA will not have access to the protein-making machinery, which prevents the cell from translating it into a protein. Thus, protein production is turned off and levels of the targeted protein are reduced in the cell. This gene-specific process of controlling protein expression has led to great interest in using antisense DNA to shut off the production of proteins involved in disease. Antisense therapeutics have been in development for over 20 years; however, there have been many challenges to antisense therapeutics that have prevented or reduced the successful distribution and transfer of DNA into cells. Of all delivery methods in use today, we believe only DNAbilize&#8482; has the potential to overcome the most common challenges associated with antisense therapeutics.
+
+&#160;
+
+Challenges associated with antisense therapeutics generally fall into two categories: (i) maintaining the stability of the DNA inside of the body as it is transported to the target cell and (ii) achieving efficient delivery and transfer of the DNA into the cell. DNA stability in the blood and lymphatic system is a challenge because of the abundance of enzymes present in human body fluids. Enzymes called nucleases will digest DNA into nonfunctional fragments making them too small to hybridize effectively to the correct RNA and block the protein machinery.
+
+&#160;
+
+Efforts to overcome the stability challenges led to the development of DNA structural backbone chemistries that block nuclease digestion so that DNA can remain in circulation long enough to reach the target cell. The most popular modification employed is called phosphorothioate in which an oxygen atom in the DNA is replaced with a sulfur atom. This switch alters the DNA&#8217;s structure so that enzymes can no longer break down the DNA. However, DNA that contains sulfur has two major drawbacks. First, it has been shown to cause liver toxicity because, as pure DNA that contains sulfur is circulated through the body, it is rapidly cleared by and accumulates in the liver. Second, sulfur also induces significant toxicity in the form of life threatening bleeding and clotting complications.
+
+&#160;
+
+While the development and use of phosphorothioate was a step forward in allowing for progress of in vivo studies, the amount of antisense drug product that can be delivered is severely limited. Consequently, doses at the level needed for true therapeutic success are not possible. Accordingly, stabilizing the DNA backbone through the use of phosphorothioate has prevented the successful use of antisense therapeutics to treat patients at a therapeutic level without causing significant amounts of toxicity. Alternative approaches have since been developed that reduce the number of sulfur groups in the antisense molecule; however, these methods still contain sulfur, and toxicity will always remain a concern. The P-ethoxy modification used in our DNAbilize&#8482; technology is completely sulfur free.
+
+&#160;
+
+The second category of challenges to the development of successful antisense therapeutics is achieving efficient delivery and transfer of a DNA molecule across a lipid based cell membrane. Cell membranes have a negative charge on the surface. DNA is also negatively charged. When the pure DNA is delivered to the cell surface, the similar charges repel each other, and uptake of the DNA into the cell is very inefficient. Accordingly, the DNA containing antisense drug products will not be delivered in an amount that will have a therapeutic effect.
+
+&#160;
+
+3&#160; 
+
+&#160;
+
+&#160;
+
+Efforts to overcome the efficient delivery and transfer challenges led to the exploration of lipid-based carriers for transfer of DNA containing antisense drug products through the lipid bilayer to mimic the lipid cell membrane. Encapsulating the DNA inside a neutral charged lipid bilayer facilitates the delivery and transfer of DNA into the cell to be fluid and gentle. Research initially focused on cationic lipids because they have an overall positive charge, which would be attracted to the negative charge of the cell membrane. It was thought that this would enhance uptake and delivery of DNA.
+
+&#160;
+
+Research did, in fact, confirm that cationic liposomes are capable of transferring DNA inside of cells at a higher efficiency than with no delivery liposomes; however, it was found that cationic lipids have major drawbacks in therapeutics. These include absorption of serum proteins while the complexes are circulating in the blood. Absorption of charged serum proteins leads to lipid reorganization, aggregation or disassociation, resulting in poor efficiency of transfer of DNA into cells and non-specific toxicity to cell membranes. DNAbilize&#8482; overcomes this challenge as well by encapsulating the DNA in a neutral lipid-based liposome, which is a lipid membrane without surface charge. The lipid particles can circulate through the blood without interacting with serum proteins, reaching target cells to transfer intact DNA without toxic effects.
+
+&#160; 
+
+We believe the DNAbilize&#8482; technology is a first in class approach that overcomes the challenges associated with both DNA stabilization and lipid-based delivery. We believe that the combination of the protected DNA using P-ethoxy to modify the DNA structure with the neutral lipid membrane is the ideal approach for antisense DNA therapeutics. While many companies have focused research on either the DNA stabilization problem or the lipid delivery problem, we are not aware of any company that has developed improvements in both areas. DNAbilize&#8482; is truly a stand-alone platform because, based on our current research, it allows for high doses of drug products to be delivered throughout the entire body while minimizing toxicity. This allows our research and development efforts to focus on drug targets rather than on indications because the DNAbilize&#8482; system should not be limited in what types of indications it can treat. As such, we believe that DNAbilize&#8482; represents the first ever antisense therapeutic approach that can successfully treat hematological and systemic diseases of the blood and lymph. 
+
+&#160;
+
+Because of our unique ability to address unmet needs in hematological malignancies, our lead drug candidates focus in this area. Our lead drug candidate, BP1001, targets the protein Grb2, a bridging protein between activated and mutated cellular kinases and the proteins involved in cell proliferation, and in particular, Ras protein. When mutations occur that activate these kinases, the cell proliferates uncontrollably, via Grb2, and this results in disease. Inhibition of Grb2 interrupts this pathway and shuts off growth signals.
+
+&#160;
+
+BP1001 is preparing to enter the efficacy portion of the Phase II clinical trial for AML in combination with frontline therapy low dose Ara C (LDAC) in elderly and induction therapy ineligible patients. We have completed the safety segment of Phase II clinical trials (the safety segment of Phase II clinical trials is also referred to as Phase Ib) demonstrating anti-leukemic benefit and no adverse events in two cohorts at two dose levels each with three evaluable patients. Patients in Cohort 7 received a 60 mg/m 2 dose of BP1001 and patients in Cohort 8 received a 90 mg/m 2 dose of BP1001, each in combination with LDAC. Two of three patients in Cohort 7 achieved complete remission, despite having failed at least six other therapies prior to entering the trial, and two of three patients in Cohort 8 achieved partial remission. One patient in Cohort 8 continues to receive additional treatments. We plan to open the efficacy portion of the Phase II trial of BP1001 in the second quarter of 2016. In addition, a Phase Ib clinical trial for blast and accelerated phase CML patients is expected to begin in the second quarter of 2016 in combination with frontline therapy Dasatinib.
+
+&#160;
+
+Our second drug candidate, BP1002, targets the protein Bcl2. Bcl2 is an anti-apoptotic member of the Bcl2 family of proteins that regulate cell death. Amplified expression of Bcl2 protein is associated with numerous cancers due to the defining genetic hallmark of the disease, chromosomal translocation t(14;18). The t(14;18) moves the Bcl2 gene from chromosome 18 into the heavy chain immunoglobin locus on chromosome 14, resulting in uncontrolled high level expression of Bcl2 protein. Overexpression of Bcl2 results in uncontrolled cell growth in affected cells. The IND for BP1002 is being finalized and a Phase I clinical trial for lymphoma is expected to begin in 2016.
+
+&#160;
+
+Strategy
+
+&#160;
+
+Our strategy is to develop our lead candidates BP1001 and BP1002 for multiple indications where the pathways involving Grb2 or Bcl2, respectively, are utilized to promote cancer growth and proliferation. Using DNAbilize&#8482; technology, we plan to develop therapeutics to a wide range of diseases and disorders independently and in partnership with others. The key elements of our strategy include:
+
+&#160;
+
+(1) Develop BP1001 for treatment of AML and CML in combination with frontline therapies. The Phase I clinical trial demonstrated an excellent safety profile of BP1001 in patients with relapsed or refractory AML, CML and Myelodysplastic Syndrome (MDS). Moving forward with AML, the area of highest need, we announced on March 3, 2016 that we completed the Phase Ib trial for combination therapy of BP1001 with the frontline therapy LDAC. We anticipate enrolling patients for the Phase II efficacy portion of the trial in the second quarter of 2016. These patients are expected to be de novo elderly patients ineligible for induction therapy. The Phase Ib clinical trial for blast and accelerated phase CML patients with BP1001 in combination with Dasanitib is expected to begin enrollment in the second quarter of 2016. &#160;
+
+4&#160; 
+
+&#160;
+
+&#160;
+
+(2) Develop BP1001 for treatment of solid tumors. Preclinical studies are underway to assess the efficacy of BP1001 in solid tumors. Research using a breast cancer model for TNBC and for ovarian cancer are currently in development. Preclinical experiments are being performed in collaboration with leaders in the field of breast and ovarian cancer at MD Anderson. Results from these studies will be used to assess the ability of BP1001 to work as a monotherapy and in combination therapies for solid tumors. &#160;
+
+(3) Develop BP1002 for lymphoma. We are finalizing the IND in preparation to start a Phase I trial in lymphoma that will include multiple types of lymphoma, such as Burkitt&#8217;s lymphoma (BL), diffuse large B-cell lymphoma (DLBCL), follicular lymphoma (FL), mucosa-associated lymphoid tissue (MALT), and mantle cell lymphoma (MCL). It is expected that this will be a single-site, open-label, dose-escalating trial involving between 15-30 patients. The Phase I trial is expected to start enrolling patients in 2016. &#160;
+
+(4) Expand DNAbilize&#8482; to evaluate targets beyond cancer. We plan to apply the DNAbilize&#8482; delivery technology template to new protein targets that meet scientific, preclinical and commercial criteria and file new patents on these targets. We expect that these efforts will include collaboration with scientific key opinion leaders in the field of study and include developing drug candidates for diseases other than cancer. &#160;
+
+(5) Establish DNAbilize&#8482; as the antisense drug delivery method of choice by forming partnerships with pharmaceutical and academic clinical research labs . We plan to utilize our business and scientific expertise to identify potential partners and initiate a wide-ranging, proactive licensing program that will include co-development of specific liposomal antisense drug candidates, sub-licensing the delivery template for outside development of one or more liposomal antisense drug candidates or an out-license of a partially developed drug for final development and marketing. &#160;
+
+Overview of Drug Candidates and Delivery Technology
+
+&#160;
+
+The historical perspective of cancer treatments has been the use of drugs that affect the entire body. Advances in the past decade have shifted to treating the tumor tissue itself. One of the main strategies in these developments has been targeted therapy, involving drugs that are targeted to block the expression of specific disease causing proteins while having little or no effect on other healthy tissue. Nucleic acid drug products, specifically antisense, are a promising field of targeted therapy. Development of antisense, however, has been limited by the lack of a suitable method to deliver antisense drugs to the diseased cells with high uptake into the cell without causing toxicity. Our currently licensed DNAbilize&#8482; neutral-lipid based liposome technology is designed to overcome these limitations. Studies conducted at MD Anderson have shown a 10-fold to 30-fold increase in tumor cell uptake with this technology compared to other delivery methods. In addition, to date, no adverse effects attributed to the study drug have been observed in our Phase I clinical trial for leukemia.
+
+&#160;
+
+Antisense DNA therapeutics of the past have not adequately addressed the issues of toxicity and poor distribution and uptake. Without a lipid carrier, the majority of antisense DNA delivered intravenous is deposited in the liver and does not reach therapeutic levels in other organs in the body. Hence, antisense therapeutics have predominantly focused on diseases of the liver for which delivery of drugs is easy. Below is a table of antisense therapeutics we are aware of that are currently in clinical trials.
+
+&#160;
+
+Table 1. Antisense or Anti-MiR drugs FDA Approved or in Clinical Trials
+
+&#160;
+
+&#160;
+
+Lipid delivery approaches using cationic lipids, which enhance the uptake of charged antisense DNA molecules into cells as compared to no lipid, still do not efficiently transfer antisense DNA into cells due to serum protein interactions and subsequent cell toxicity. The antisense field has attempted to work around these issues by either avoiding a delivery method completely, or by utilizing polyethylene glycol (PEG) as a positive charged based carrier of DNA into cells. PEG showed promise in extending the time of circulation of antisense DNA in vivo and avoiding clearance by the liver. However, adverse effects have been demonstrated by PEG carriers, including hypersensitivity, activation of blood clotting, embolism and anaphylaxis. To date, the only known lipid delivery method that has not shown any adverse effects in clinical trials is the neutral lipid method utilized by DNAbilize&#8482;.
+
+&#160;
+
+5&#160; 
+
+&#160;
+
+&#160;
+
+BP1001
+
+&#160;
+
+BP1001 is targeted at the protein Grb2. Antisense inhibition of Grb2 interrupts the signals between mutated and activated receptors that connect to a well-known cancer associated switch called Ras protein. Inhibition of Grb2 does not cause cell death and thus does not result in adverse events typically observed with receptor inhibitors or Ras pathway inhibitors. We believe that BP1001 has the potential to be an ideal combination for any number of cancer therapeutics where the Ras pathway is aberrantly activated and patient fitness is a major concern.
+
+&#160;
+
+We have completed our Phase I clinical trials for BP1001 for indications for AML, CML, MDS and Acute Lymphoblastic Leukemia (ALL). We are currently prioritizing our efforts on AML and CML and have begun the Phase Ib/Phase II clinical trials for these indications. Priorities for additional indications, including MDS or ALL, are expected to be addressed in the future as the results of our Phase II and work in solid tumors progresses.
+
+&#160;
+
+Indications for Acute Myeloid Leukemia (AML) and Chronic Myelogenous Leukemia (CML)
+
+&#160; 
+
+AML &#8211; Background and Common Treatments . AML is the rapid accumulation of immature myeloid cells in the blood, resulting in a drop of the other cell types such as red blood cells and platelets. The expansion of immature monocytes leaves the patient unable to fight infection. If AML is left untreated, it usually results in death within three months. AML incidence increases with age, with more than 50% of the cases in people age 60 or older. AML is the most common acute leukemia in adults, and the National Cancer Institute estimates that approximately 20,000 new cases occur each year (Figure 3). The cure rate is between 5-15% in older adults, and those who cannot receive the standard course of chemotherapy have an average survival rate of five to ten months. The standard induction therapy for AML is Cytarabine with anthracycline, which has not been improved upon for the last 20 years. The last drug approval for AML was in 1990 (Figure 4). Of those patients who are able to receive the standard induction therapy, about 75% will likely relapse. AML is an area of high unmet need for both the relapsed and the de novo elderly population who are typically ineligible for induction therapy.
+
+&#160;
+
+Figure 3. Basic Statistics for AML
+
+&#160;
+
+&#160;
+
+6&#160; 
+
+&#160;
+
+&#160;
+
+Figure 4. FDA Drug Approvals for AML over the Last 47 Years
+
+&#160;
+
+&#160;
+
+Source:http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/OncologicDrugsAdvisoryCommittee/UCM292659.pdf 
+
+&#160; 
+
+CML &#8211; Background and Common Treatments . CML is characterized by expansion in the blood and bone marrow of mature myeloid cells and their precursors. It can show no symptoms and is often detected during a routine blood test. If left untreated, after several years it will progress to an accelerated phase and eventually blast crisis where it becomes an acute leukemia. With the introduction of drugs such as Gleevec, the life expectancy of patients treated in the chronic phase has been significantly improved, and only 1-1.5% of patients ever go into blast crisis. However, for those patients who do progress into blast crisis, there are currently few treatment options. Myeloid cells in blast crisis have accumulated genetic abnormalities that resist traditional treatment methods that kill leukemic cells. Patients in blast crisis have an average survival rate of seven to eleven months. New treatments for this critical population are necessary.
+
+&#160;
+
+Figure 5. Basic Statistics for CML
+
+&#160;
+
+&#160;
+
+BP1001 Development and Treatment for AML and CML . Our lead liposome delivered antisense drug candidate, BP1001, has been clinically tested in patients having AML, CML, MDS and ALL in a Phase I trial. During the Phase I trial, 80% of the evaluable patients had refractory or relapsed AML, having failed at least 6 prior therapies. In our study, 83% of patients showed decreased circulating blasts and anti-leukemic activity and eight patients stabilized for extended treatments.
+
+&#160; 
+
+Phase I Clinical Trials 
+
+&#160;
+
+The Phase I clinical trial was a dose-escalating study to determine the safety and tolerance of escalating doses of BP1001. The study determined an optimal biologically active dose for further development. The pharmacokinetics of BP1001 in patients from the study are being evaluated. In addition, patient blood samples from the trial were tested using a new assay developed by us to measure down-regulation of the target protein, the critical scientific data that demonstrated the delivery technology does in fact successfully deliver the antisense drug substance to the cell and across the cell membrane into the interior of the cell where expression of the target protein is blocked. The clinical trial was conducted at MD Anderson.
+
+&#160;
+
+7&#160; 
+
+&#160;
+
+&#160;
+
+The original IND granted by the U.S. Food and Drug Administration (FDA) in March 2010 allowed us to proceed with a Phase I clinical trial having five cohorts culminating in a maximum dose of 50 mg/m 2 . However, in November 2012, we announced that since there had been no evidence of significant toxicity from treatment of patients with BP1001, we requested the FDA to allow higher dosing in patients. The principal investigator for the clinical trial, in consultation with our management team, advised us that with the absence of any real toxicity barriers, we should continue to evaluate higher doses of BP1001. The absence of significant toxicity provided a significant opportunity for us to test higher doses in patients in order to find a dose that provides maximum potential benefit and duration of anti-leukemia effect. These actions were approved and a revised protocol was submitted allowing higher dosing. We announced in October 2014 that we completed Cohort 6, successfully treating three patients at a dose 90 mg/m 2 . There has been no evidence of significant toxicity from treatment of patients with BP1001 in our Phase I clinical trial.
+
+&#160;
+
+An important outcome for the Phase I clinical trial is the ability to assess for the first time the performance of our delivery technology platform in human patients. We have developed two new assays to be able to provide scientific proof of concept of the delivery technology. The first involves a novel detection method for the drug substance in blood samples that will be used to assess the pharmacokinetics of the drug. The second involves a method to measure down-regulation of the target protein in a patient blood sample that was achieved. The latter measurement will provide critical proof that DNAbilize&#8482; neutral liposome delivery technology delivered the drug substance to the cell and was able to transport it across the cell membrane into the interior to block cellular production of the Grb2 protein.
+
+&#160;
+
+In this regard, in August 2013 we announced that our DNAbilize&#8482; liposomal delivery technology achieved a major milestone in the development of antisense therapeutics based on a scientific assay confirming that treating patients with our drug candidate BP1001 inhibits the Grb2 disease-causing target protein in patients with blood cancers (Figure 8). Inhibition of the disease-causing protein has the effect of down regulating the disease. This will allow for BP1001 to be used potentially in combination with current frontline treatments. This discovery also points to the potential use of a liposomal antisense treatment as a standalone treatment to transform and manage a disease that has a disease-causing protein as a chronic disorder. This accomplishment is a potentially significant breakthrough for antisense therapeutics, whose development, to date, as a class of therapeutics has been severely limited by a lack of a systemic delivery mechanism that can safely distribute the drug throughout the body and deliver the antisense drug substance across the cell membrane into the interior of the cell. Further, we expect that scientific proof of principle for DNAbilize&#8482; may lead to licensing and business development opportunities, supporting our business model.
+
+&#160;
+
+The principal investigator for the Phase I clinical trial is a leading expert in the treatment of CML, AML, MDS and ALL. Because the results of the first trial produced unexpected and clinically interesting results in some patients, the principal investigator prepared an abstract of the results of the first cohort that was accepted for presentation at the American Society of Hematology (ASH) annual meeting in December 2011. Results that demonstrated potential anti-leukemia benefits in treated patients were included in the presentation. Subsequently, in fall 2013 the principal investigator prepared an abstract of updated information on the results of the clinical trial through Cohort 5, which was accepted for presentation at the ASH annual meeting in December 2013. Highlights (which have been updated to include patients from Cohort 6) of the presentation prepared by the principal investigator for the meeting included:
+
+&#160;
+
+Data from the Phase I Clinical Trial
+
+&#183; Among 20 evaluable patients, 15 demonstrated anti-leukemia activity with reduction in peripheral or bone marrow blasts from baseline. &#183; Five patients demonstrated transient improvement and/or stable disease, three of whom received a total of five cycles each. &#183; Two patients, in addition to achieving market blast percentage declines, also experienced transient improvements in leukemia cutis lesions. &#160;
+
+Disease Stabilization in MDS and AML
+
+&#183; Two patients with MDS, a 53-year-old male and a 72-year-old female, both achieved disease stabilization and continued therapy for five cycles before disease progression. &#183; A 54-year-old HIV positive male with AML achieved stable disease and marked reduction in peripheral blasts, continuing therapy for five cycles before disease progression (Figure 6). &#160;
+
+8&#160; 
+
+&#160;
+
+&#160;
+
+Figure 6. AML Patient with HIV Demonstrated Reduction of Peripheral Blasts and Sustained Improvement Over 5 Cycles of Treatment
+
+&#160;
+
+&#160;
+
+Experience in CML-Blast Phase
+
+&#183; Patient with myeloid blast crisis of CML. &#183; Prior therapies consisted of: imatinib, dastinib, nilotinib, DCC-2036, Cytarabine + Fludarabine + Dasatinib + Gemtuzumab, PHA-739358, Clofarabine + Dasatinib. &#183; Upon start of BP1001, patient showed a significant reduction in blasts from 81 percent to 5 percent, but due to leptomeningeal disease progression discontinued therapy before full cycle (Figure 7). &#160;
+
+Figure 7. BP1001 Monotherapy Reversed Blast Phase Crisis in a Patient in the Phase I Clinical Trial for BP1001
+
+&#160;
+
+&#160;
+
+Inhibition of Target Grb2 Protein
+
+&#183; Grb2 levels were compared to baseline prior to treatment. &#183; By end of treatment, BP1001 decreased Grb2 in 11 out of 13 samples (85%) tested (average reduction 50%). &#160;
+
+9&#160; 
+
+&#160;
+
+&#160;
+
+Figure 8. Grb2 Protein and Downstream pERK are Downregulated in BP1001 Treated Patient&#8217;s Cells
+
+&#160;
+
+&#160;
+
+NS 1 = no sample collected
+
+2 Fewer cells used in analysis because sample had less cells
+
+&#160;
+
+The Phase I clinical trial is typically ended when a maximum tolerated dose (MTD) is encountered. However, due to the lack of toxicity of the drug, a MTD was not observed. As a result, an optimal biological dose was determined and we completed Cohort 6 of our Phase I clinical trial. It is noted, however, that the lack of toxicity is a major advantage for the drug candidate BP1001 since it allows higher levels of drug to be administered to the patient, increasing the potential therapeutic benefit.
+
+&#160;
+
+In April 2015, we received orphan drug designation by the FDA for BP1001 in AML. Orphan drug status provides Bio-Path with seven years of exclusivity after receiving formal marketing approval, as well as additional development incentives. The FDA grants this designation to certain drugs that target diseases affecting fewer than 200,000 people in the United States.
+
+&#160; 
+
+Phase II Clinical Trials 
+
+&#160;
+
+On February 9, 2015, we announced that we began enrollment into the combination therapy Phase Ib clinical trial for BP1001 in patients with AML. The combination therapy Phase Ib clinical trial consisted of two dosing cohorts of BP1001 (60 mg/m 2 and 90 mg/m 2 ) to test the safety profile of treating AML patients with BP1001 in combination with LDAC. Patients ineligible for intensive induction therapy are currently treated only with LDAC. We recently announced the completion of the Phase Ib trial. Results from the Phase Ib clinical trial demonstrated it is safe to add BP1001, which appears to yield better response rates in this AML patient population. Following the safety portion, the trial is expected to be opened in multiple centers to test 54 patients with the combination. An interim analysis is expected to be performed after 19 patients have been treated with the combination therapy.
+
+&#160;
+
+On October 9, 2015, we announced the completion of Cohort 7, the first dosing cohort of the Phase Ib clinical trial, consisting of a 60 mg/m 2 dose of BP1001 in combination with LDAC. Two of three evaluable patients, patients 35 and 38, achieved complete remission (Figure 9). On March 3, 2016, we announced the completion of Cohort 8, the second dosing cohort of the Phase Ib clinical trial, consisting of a 90 mg/m 2 dose of BP1001 in combination with LDAC. Two of three evaluable patients achieved partial remission. One patient continues to receive additional treatments.
+
+&#160;
+
+10&#160; 
+
+&#160;
+
+&#160;
+
+Figure 9. Two Patients in Cohort 7 receiving combination BP1001 + LDAC Achieve Complete Remission
+
+&#160;
+
+&#160;
+
+A summary of the clinical trial results for the Phase I monotherapy for indications of AML, CML, MDS and ALL, and Phase Ib combination therapy for BP1001 for indications of AML is shown in Table 2 below. The first six cohorts, patients 001 to 034, were treated in the Phase I clinical trial using BP1001 as a monotherapy. The seventh cohort, patients 035, 037 and 038, were treated in our Phase Ib clinical trial evaluating the combination therapy of 60 mg/m 2 BP1001.
+
+&#160;
+
+Table 2. Summary Cohorts 1-7 BP1001 Clinical Trial Phase I and IB
+
+&#160;
+
+&#160; 
+
+&#160;
+
+11&#160; 
+
+&#160;
+
+&#160;
+
+Development of new therapeutics for AML and CML in blast crisis can meet currently unmet needs for patients who have very few treatment options due to age, fitness or treatment-resistance of advanced genetically unstable cells. Elderly patients unfit to receive a stem cell transplant or induction therapy face a likelihood of relapse to a more resistant leukemia for which current drug products are not effective. BP1001 and DNAbilize&#8482; technology offer new hope for achieving remission for fragile populations. We believe that the combination of BP1001 with frontline chemotherapy can provide a way to treat cancer without added toxicity so that the patient can remain under treatment long enough to reach complete remission.
+
+&#160;
+
+Indications for Triple Negative Breast Cancer (TNBC) and Inflammatory Breast Cancer (IBC)
+
+&#160; 
+
+TNBC and IBC &#8211; Background and Common Treatments . Approximately 15 to 20 percent of breast cancers fall into the category of triple-negative. TNBC tumors do not express estrogen receptors, progesterone receptors, and low human epidermal growth factor receptor 2 (HER2). These negative results mean that the growth of the cancer is not supported by the hormones estrogen and progesterone, or by the presence of HER2 receptors. Therefore, TNBC does not respond to hormonal therapy or therapies that target HER2 receptors. In addition, TNBC tumors are very aggressive. IBC often presents as TNBC and is a rare and very aggressive disease in which cancer cells block lymph vessels in the skin of the breast. This type of breast cancer is called &#8220;inflammatory&#8221; because the breast often looks swollen and red, or &#8220;inflamed.&#8221; IBC accounts for 2 to 5% of all breast cancers. IBC tumors are very aggressive and are frequently hormone receptor negative, which means hormone therapies may not be effective. The five year survival rate for IBC is approximately 40% versus approximately 87% for all breast cancers combined, making IBC a priority area for development of new treatments. The current treatment regimen includes radiation, chemotherapy and surgery. A lack of targeted treatments for these types of breast cancer has led to development of new therapeutics currently in clinical trials. Because of the aggressiveness of these cancers, a systemic treatment is needed. BP1001 represents a systemic treatment that targets an important pathway for TNBC and IBC cell growth and has potential to be integral for the treatment of these diseases.
+
+&#160; 
+
+BP1001 Development and Treatment for TNBC and IBC . In July 2013, we announced that we were initiating preclinical testing of BP1001 for TNBC and IBC. Our plan is to develop BP1001 as a targeted therapy against TNBC and IBC. Our treatment goals are two-pronged: the first is to develop BP1001 as a tumor reduction agent in combination with other approved drugs in preoperative settings for TNBC and IBC patients, and the second is to develop BP1001 as a drug to treat and control or eliminate cancer metastasis in TNBC and IBC patients. Both of these treatment goals address high need situations for patients. Once the preclinical studies are completed, we believe that the observations that we learned from the original Phase I trial will help us increase of the speed of progress for such Phase I trial in TNBC and IBC, as the toxicity profile of BP1001 is currently well-established.
+
+&#160;
+
+Indications for Other Solid Tumors (e.g., Lymphoma, Colon, Thyroid, and Head and Neck Cancers)
+
+&#160;
+
+Cancers of colon, thyroid, head and neck, and lymphoma are solid tumors which utilize the same signaling pathway as TNBC and IBC, which involve the Grb2 protein. It has been proposed that BP1001 may have clinical efficacy in these indications due to the overlapping similarity of the mechanisms of their growth and proliferation. As our program for BP1001 continues to develop, it is anticipated that these indications will be assessed in preclinical research.
+
+&#160;
+
+BP1002
+
+&#160;
+
+BP1002, also known by its scientific name as Liposomal Bcl2, is our second liposome delivered antisense drug candidate. BP1002 is intended to target the lymphoma and certain solid tumor markets. Clinical targets for BP1002 include lymphoma, breast cancer, colon cancer, prostate cancer and leukemia. We believe that BP1002 has the potential to treat 40%-60% of solid tumors.
+
+&#160;
+
+Bcl2 is a protein that is involved in regulating apoptosis, or programmed cell death. Apoptosis is a physiologic mechanism of cell turnover by which cells actively commit suicide in response to aberrant external signals. Over-expression of Bcl2 prevents the induction of apoptosis in response to cellular insults such as treatment with chemotherapeutic agents. Bcl2 is over-expressed in more than 90% of follicular B-cell non-Hodgkin&#8217;s lymphoma due to a chromosomal rearrangement and is the key factor in the initiation of this malignancy. Bcl2 is also overexpressed in a wide variety of solid tumors (it is estimated to be over-expressed in 40% of cancers). For example, Bcl2 over-expression has been associated with the progression of prostate cancer from hormone dependence to hormone independence and may contribute to the relative drug resistant phenotype typically observed in hormone independent prostate cancer.
+
+&#160; 
+
+Non-Hodgkin&#8217;s Lymphomas &#8211; Background and Common Treatments . There are 56,000 new cases of non-Hodgkin&#8217;s lymphoma (NHL) per year, with approximately 30% being follicular lymphoma (FL) and approximately 60% being the more aggressive diffuse large B cell lymphoma (DLBCL) type. A consensus on front-line treatment for FL has not been established as many factors are taken into account in the treatment approach (e.g., age, stage of disease, cell surface markers). Rituximab is a treatment of choice for the majority of lymphomas and is typically used in combination with other chemotherapy agents or as a maintenance treatment. Table 3 describes the current treatment options for follicular lymphoma.
+
+&#160;
+
+12&#160; 
+
+&#160;
+
+&#160;
+
+Table 3 Summary of Studies Evaluating Frontline Chemotherapies in Follicular Lymphoma
+
+&#160;
+
+&#160;
+
+BR = bendamustine, rituximab, CHOP = cyclophosphamide, doxorubicin, vincristine, prednisone, CVP = cyclophosphamide, vincristine, prednisone, FMD = fludarabine, mitoxantrone, dexamethasone, PFS = progression-free survival, R-CHOP = rituximab-cyclophosphamide, doxorubicin, vincristine, prednisone, R-CVP = rituximab-cyclophosphamide, vincristine, prednisone, TTP = time to disease progression.
+
+&#160; 
+
+Source:https://www.moffitt.org/File%20Library/Main%20Nav/Research%20and%20Clinical%20Trials/Cancer%20Control%20Journal/v19n3/187.pdf 
+
+&#160; 
+
+BP1002 &#8211; Development and Treatment for FL, DLBCL, MALT, MCL AND BL . On December 22, 2014, we announced that we initiated development of BP1002 as a treatment for FL. We intend to file a new IND to begin clinical testing of BP1002 in patients with multiple types of lymphoma in 2016. We anticipate that the Phase I trial will be open to refractory and relapsed patients with FL and other sub-types of NHL, including DLBCL, MALT, MCL and BL (Figure 10).
+
+&#160;
+
+Figure 10. Non-Hodgkin&#8217;s Lymphoma Types and Prevalence
+
+&#160;
+
+&#160;
+
+BL = Burkitt&#8217;s lymphoma; CLL = chronic lymphocytic leukemia; DLBCL = diffuse large B-cell lymphoma; FL = follicular lymphoma; MALT = mucosa-associated lymphoid tissue; MCL = mantle cell lymphoma; NK = natural killer; SLL = small lymphocytic lymphoma.
+
+&#160;
+
+Source: http://www.medscape.org/viewarticle/725127 
+
+&#160;
+
+Treatments of varying efficacy exist for FL and DLBCL; however, due to the wide variety of subtypes of this disease, a frontline approach is lacking. Bcl2 is over-expressed in 85% of patients due to a translocation between chromosomes 18 and 14, a hallmark of the disease. Therapies that directly and specifically block or inhibit protein synthesis of Bcl2 could be transformative in this indication. Toxicity in competing therapeutics using small molecule inhibitors of Bcl2 occurs due to non-specificity of the inhibitors. Bcl2 is part of a large family of proteins and small molecule inhibitors developed against it typically bind to more than one member of the family. This leads to unexpected off-target adverse effects. A previous attempt at a Bcl2 antisense by Genta Inc. failed to show an improvement in remission or overall survival rates. This antisense was a phosphorothioate DNA with dose-limiting toxicity and it also did not have a lipid delivery mechanism to aid in prevention of clearance by the liver, reducing the levels of antisense reaching diseased cells. We believe that BP1002 overcomes the failures of previous attempts at inhibiting Bcl2 by specifically interrupting the protein expression of one protein and not a family of necessary proteins and does so without inherent toxicity. With BP1002, more drug substance can reach the circulating lymphocytes so that the cancer cells can be treated with a therapeutically relevant dose. We believe BP1002 provides a new tool for cancer treatment for not just lymphomas, but also many cancers for which Bcl2 expression is driving cell proliferation. The introduction of a new, non-toxic, and specific Bcl2 inhibitor could be a major advance in cancer therapeutics.
+
+&#160;
+
+13&#160; 
+
+&#160;
+
+&#160;
+
+DNAbilize&#8482;
+
+&#160;
+
+DNAbilize&#8482; technology is available for out-licensing. We intend to apply our drug delivery technology template to new disease-causing protein targets as a means to develop new liposomal antisense drug candidates. A new product identification template was recently approved that defines a process of scientific, preclinical, commercial and intellectual property evaluation of potential new drug candidates for inclusion into our drug product development pipeline. A significant amount of capital is expected to be allocated to in-license promising protein targets that can be developed as new liposomal antisense drug candidates. As we expand, we will look at indications where a systemic delivery is needed and antisense can be used to slow, reverse, or cure a disease, either alone or in combination with another drug.
+
+&#160;
+
+We are interested in pursuing a wide-ranging, proactive licensing program to include co-development of specific liposomal antisense drug candidates, sub-licensing our delivery template for outside development of liposomal antisense drug candidates or out-licensing a partially-developed drug candidate for final development and marketing.
+
+&#160;
+
+Research and Development
+
+&#160;
+
+Our research and development is currently conducted through agreements we have with MD Anderson. We have added a new research and development relationship for preclinical testing and anticipate that new research and development relationships will be added in the future for clinical trials that require multiple sites for patient testing. Research and development expenses incurred for the years ended December 31, 2015, 2014 and 2013 were $3.0 million, $1.6 million and $1.5 million, respectively. Research and development - related party expenses incurred for the years ended December 31, 2014 and 2013 were $0.2 million and $0.1 million, respectively. Research and development - related party expense has been consolidated with research and development expense on our financial statements in 2015 as MD Anderson is no longer a greater than 5% stockholder in the Company.
+
+&#160;
+
+Manufacturing
+
+&#160;
+
+We do not own or operate, and currently have no plans to establish, any manufacturing facilities. Accordingly, we have no ability to internally manufacture the drug candidates that we need to conduct our clinical trials. For the foreseeable future, we expect to continue to rely on third-party manufacturers and other third parties to produce, package and store sufficient quantities of our drug candidates and any future drug candidates for use in our clinical trials. We have entered into agreements with third-party manufacturers for the manufacture of our drug requirements, including agreements for the manufacture of BP1001 for use in our Phase II clinical trial, a development agreement for BP1002 and an agreement for the manufacture of BP1002 for use in our planned Phase I clinical trial. However, we may face various risks and uncertainties in connection with our reliance on third-party manufacturers, as discussed in &#8220;Item 1A. Risk Factors&#8221; of this Annual Report on Form 10-K under the heading &#8220;Risks Related to Manufacturing Our Drug Candidates.&#8221; If the FDA or other regulatory agencies approve any of our drug candidates for commercial sale, we expect that we would continue to rely, at least initially, on third-party manufacturers to produce commercial quantities of such approved drug candidates. However, we may in the future elect to manufacture certain of our drug candidates in our own manufacturing facilities. If we do so, we will require substantial additional funds and need to recruit qualified personnel in order to build or lease and operate any manufacturing facilities.
+
+&#160;
+
+Sales and Marketing
+
+&#160;
+
+We currently do not have any commercial drug products, and we do not currently have an organization for the sales and marketing of pharmaceutical products. In order to successfully commercialize any drug candidates that may be approved in the future by the FDA or comparable foreign regulatory authorities, we must build our sales and marketing capabilities or make arrangements with third parties to perform these services. For certain drug candidates in selected indications where we believe that an approved product could be commercialized by a specialty sales force that calls on a limited but focused group of physicians, we may commercialize these products ourselves. However, in therapeutic indications that require a large sales force selling to a large and diverse prescribing population, we may enter into arrangements with other companies for commercialization. If we are unable to establish adequate sales, marketing and distribution capabilities, whether independently or with third parties, we may not be able to generate product revenue and may not become profitable.
+
+&#160;
+
+Intellectual Property
+
+&#160;
+
+Patents, trademarks, trade secrets, technology, know-how and other proprietary rights are important to our business. Our success depends in large part on our ability to obtain and maintain patent protection both in the United States and in other countries for our drug candidates and on our ability to operate without infringing the proprietary rights of third parties. Our ability to protect our drug candidates from unauthorized or infringing use by third parties depends in substantial part on our ability to obtain and maintain valid and enforceable patents.
+
+&#160;
+
+14&#160; 
+
+&#160;
+
+&#160;
+
+We rely on trade secrets to protect our technology, especially where we do not believe patent protection is appropriate or obtainable. However, trade secrets are difficult to protect. In order to protect our proprietary technology and processes, we also rely in part on confidentiality and intellectual property assignment agreements with our corporate partners, employees, consultants, outside scientific collaborators and sponsored researchers and other advisors. These agreements may not effectively prevent disclosure of confidential information nor result in the effective assignment to us of intellectual property, and may not provide an adequate remedy in the event of unauthorized disclosure of confidential information or other breaches of the agreements. In addition, others may independently discover our trade secrets and proprietary information, and in such case we could not assert any trade secret rights against such party.
+
+&#160;
+
+As previously noted, we have entered into the License Agreement with MD Anderson, which relates to the delivery technology platform for antisense nucleic acids, including two single nucleic acid (antisense) drug products, BP1001 and BP1002. In addition, we may enter into out-license and in-license agreements in the future. Our success will depend in part on the ability of our licensors to obtain, maintain and enforce patent protection for their intellectual property, in particular, those patents to which we have secured exclusive rights. Under the License Agreement, we license rights to certain patents that are necessary or useful for our business. Some of these material patents are set to expire as early as 2017.
+
+&#160;
+
+We plan to expand our intellectual property portfolio by filing patent applications that are applicable to our technology and business strategy. Our patent portfolio currently includes two pending patent applications in the United States that cover the manufacturing method, formulation and antisense composition for new targets in preclinical development. There can be no assurances that patents related to these applications or applications we may file in the future will be issued or that any issued patents will provide meaningful protection for our drug candidates, which could materially adversely affect our competitive business position, business prospects and financial condition.
+
+&#160;
+
+In the United States, individual patents extend for varying periods of time depending on the date of filing of the patent application or the date of patent issuance. Generally, patents issued in the United States are effective for 20 years from the earliest non-provisional filing date. In addition, a patent term can sometimes be extended to recapture a portion of the term effectively lost during the FDA&#8217;s regulatory review period; however, the restoration period cannot be longer than five years, and the total patent term cannot exceed 14 years following FDA approval.
+
+&#160;
+
+Employees
+
+&#160;
+
+We currently employ 11 full-time employees. We also have contractual relationships with additional professionals who perform certain medical officer, regulatory and drug development duties. We believe relations with such professionals and employees are good.
+
+&#160;
+
+Competition
+
+&#160;
+
+We are engaged in segments of the pharmaceutical and biotechnology industry that are highly competitive and characterized by rapid and significant technological change. Many large pharmaceutical and biotechnology companies, academic and research institutions, governmental agencies and other public and private research organizations are pursuing the development of novel drugs that target AML, CML, breast cancer and other cancer generally. We face, and expect to continue to face, intense and increasing competition as new products enter the market and advanced technologies become available. Our competitors may discover, develop or commercialize products or other novel technologies that are more effective, safer or less costly than our drug candidates. Our competitors may also obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for our drug candidates.
+
+&#160;
+
+Many of our competitors have:
+
+&#160;
+
+&#183; significantly greater capital, technical and human resources than we have and may be better equipped to discover, develop, manufacture and commercialize drug candidates; &#160;
+
+&#183; more experience in drug discovery, development and commercialization, obtaining regulatory approvals and manufacturing and marketing pharmaceutical products; &#160;
+
+&#183; drug candidates that have been approved or are in late-stage clinical development; and/or &#160;
+
+&#183; collaboration arrangements in our target markets with leading companies and research institutions. &#160;
+
+Mergers and acquisitions in the pharmaceutical and biotechnology industry may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel, establishing clinical trial sites and patent registration for clinical trials, and acquiring technologies complementary to, or necessary for, our drug candidates and programs.
+
+&#160;
+
+15&#160; 
+
+&#160;
+
+&#160;
+
+Competitive products and technological developments may render our drug candidates noncompetitive or obsolete before we can recover the expenses of developing and commercializing our drug candidates. Furthermore, the development of new treatment methods and/or the widespread adoption or increased utilization of any vaccine for the diseases we are targeting could render our drug candidates noncompetitive, obsolete or uneconomical. If we successfully develop and obtain approval for any of our drug candidates, we will face competition based on the safety and effectiveness of our drug candidates, the timing of their entry into the market in relation to competitive products in development, the availability and cost of supply, marketing and sales capabilities, reimbursement coverage, price, patent position and other factors. If we successfully develop drug candidates but those drug candidates do not achieve and maintain market acceptance, our business will not be successful. 
+
+&#160;
+
+Government Regulation
+
+&#160;
+
+Overview
+
+&#160;
+
+Government authorities in the United States, at the federal, state and local level, and other countries extensively regulate, among other things, the research, development, testing, manufacture, labeling, record keeping, packaging, promotion, storage, advertising, distribution, marketing and export and import of products such as those we are developing. The nature and extent to which such regulations will apply to us will vary depending on the nature of any drug candidates we develop. We anticipate that all of our drug candidates will require regulatory approval by governmental agencies prior to commercialization. This process and subsequent compliance with appropriate federal, state, local, and foreign statutes and regulations will require the expenditure of substantial time and financial resources.
+
+&#160;
+
+United States Drug Development Process
+
+&#160;
+
+In the United States, drugs are subject to rigorous regulation by the FDA under the Federal Food, Drug and Cosmetic Act (the &#8220;FDCA&#8221;), and implementing regulations, as well as other federal and state statutes. Failure by us or our collaborators to comply with the applicable United States requirements at any time during the drug candidate development process, approval process or after approval, may subject us to administrative or judicial sanctions. These sanctions could include the FDA&#8217;s refusal to approve pending applications, license suspension or revocation, withdrawal of an approval, a clinical hold, warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil penalties or criminal prosecution. Any agency or judicial enforcement action could have a material adverse effect on us.
+
+&#160;
+
+The process required by the FDA before a new drug may be marketed in the United States generally involves the following:
+
+&#160;
+
+&#183; completion of preclinical laboratory tests, animal studies and formulation studies according to FDA&#8217;s Good Laboratory Practice regulations; &#160;
+
+&#183; submission of an IND, which must become effective before human clinical trials may begin and which must include approval by an institutional review board at each clinical site before the trials are initiated; &#160;
+
+&#183; performance of adequate and well-controlled human clinical trials according to FDA&#8217;s Good Clinical Practice (&#8220;GCP&#8221;) regulations to establish the safety and efficacy of the proposed drug for its intended use; &#160;
+
+&#183; submission to, and acceptance by, the FDA of an new drug application (an &#8220;NDA&#8221;); &#160;
+
+&#183; satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the drug is produced to assess compliance with current Good Manufacturing Practice (&#8220;cGMP&#8221;) regulations to assure that the facilities, methods and controls are adequate to preserve the drug&#8217;s identity, strength, quality and purity; and &#160;
+
+&#183; FDA review and approval of the NDA. &#160;
+
+Pre-Approval Studies
+
+&#160;
+
+Once a drug candidate is identified for development, it enters the preclinical testing stage. Preclinical tests include laboratory evaluations of drug candidate chemistry, toxicity and formulation, as well as animal studies. Prior to beginning human clinical trials, an IND sponsor must submit an IND to the FDA, which includes submitting the results of the preclinical tests, together with manufacturing information and analytical data. Some preclinical or nonclinical testing may continue even after the IND is submitted. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA, within the 30-day time period, raises concerns or questions about the conduct of the trial. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. Even after the 30-day time period, the FDA may impose a clinical hold on ongoing clinical trials. If the FDA imposes a clinical hold, clinical trials cannot commence or recommence without FDA authorization and then only under terms authorized by the FDA. The IND application process may be extremely costly and substantially delay the development of our drug candidates for certain indications. Moreover, positive results of preclinical tests will not necessarily indicate positive results in subsequent clinical trials in humans. The FDA may require additional animal testing after an initial IND application is approved and prior to Phase III trials.
+
+&#160;
+
+16&#160; 
+
+&#160;
+
+&#160;
+
+Clinical trials involve the administration of the IND to volunteers or patients under the supervision of one or more qualified investigators in accordance with FDA&#8217;s GCP regulations. Clinical trials must be conducted under protocols detailing the objectives of the trial and the safety and effectiveness criteria to be evaluated. Each protocol must be submitted to the FDA as part of the IND. Further, an institutional review board at each institution participating in the clinical trial must review and approve each protocol before any clinical trial commences at that institution. All research subjects must provide informed consent, and informed consent information must be submitted to the institutional review board for approval prior to initiation of the trial. Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if adverse events or other certain types of other changes occur.
+
+&#160;
+
+Human clinical trials are typically conducted in three sequential phases that may overlap or be combined:
+
+&#160;
+
+&#183; Phase I: The drug candidate is initially introduced into human subjects or patients with the disease and tested for safety, dosage tolerance, absorption, metabolism, distribution and excretion. In the case of some drug candidates for severe or life-threatening diseases, the initial human testing is often conducted in patients. &#160;
+
+&#183; Phase II: Involves studies in a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the drug candidate for specific targeted diseases and to determine dosage tolerance and optimal dosage. &#160;
+
+&#183; Phase III: Clinical trials are undertaken to further evaluate dosage, clinical efficacy and safety in an expanded patient population, typically at geographically dispersed clinical study sites. These studies are intended to establish the overall risk-benefit ratio of the drug candidate and provide, if appropriate, an adequate basis for product labeling. &#160;
+
+Phase I, Phase II and Phase III testing may not be completed successfully within any specified period, if at all. The FDA or an institutional review board or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk.
+
+&#160;
+
+Concurrent with clinical trials, companies usually complete additional animal studies and must also develop additional information about the chemistry and physical characteristics of the drug candidate and finalize a process for manufacturing the product in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the drug candidate and, among other requirements, the manufacturer must develop methods for testing the identity, strength, quality and purity of the final drug. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the drug candidate does not undergo unacceptable deterioration over its shelf life.
+
+&#160;
+
+Our business model relies on developing drug candidates through Phase IIa and either entering into out-license agreements with pharmaceutical licensee partners who will be responsible for post-Phase II clinical testing and working with the FDA on necessary regulatory submissions resulting in approval of new drug applications for commercialization, or internally developing a drug candidate through commercialization.
+
+&#160;
+
+Approval Process
+
+&#160;
+
+After successful completion of the required clinical trials, an NDA is generally submitted, which is required before marketing of the product may begin in the United States. The NDA must include the results of drug development, preclinical studies and clinical studies, together with other detailed information, including information on the chemistry, manufacture and composition of the drug. The FDA has 60 days from its receipt of the NDA to review the application to ensure that it is sufficiently complete for substantive review before accepting it for filing and may request additional information rather than accept an NDA for filing. If additional information is requested, the NDA must be resubmitted. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The submission of an NDA is also subject to the payment of user fees, which may be waived under certain limited circumstances.
+
+&#160;
+
+The FDA reviews an NDA that has been accepted for filing to determine, among other things, whether a product is safe and effective for its intended use. The approval process for an NDA is lengthy and the FDA may refuse to approve an NDA if the applicable regulatory criteria are not satisfied or may require additional clinical or other data and information. Even if such data and information is submitted, the FDA may ultimately decide that the NDA does not satisfy the criteria for approval. The FDA may also refer applications for drug candidates which present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee. Before approving an NDA, the FDA will also inspect the facility or facilities where the product is manufactured to determine whether its manufacturing is cGMP-compliant to assure and preserve the product&#8217;s identity, strength, quality, purity and stability.
+
+&#160;
+
+17&#160; 
+
+&#160;
+
+&#160;
+
+There are various programs that are intended to expedite the development and review of drug candidates, and/or provide for approval on the basis of surrogate endpoints, including Fast Track, breakthrough therapy, priority review and accelerated approval. Even if a drug candidate qualifies for one or more of these programs, the FDA may later decide that the drug candidate no longer meets the conditions for qualification or that the time period for FDA review or approval will not be shortened. Generally, drug candidates that may be eligible for these programs are those for serious or life-threatening conditions, those with the potential to address unmet medical needs or those that offer meaningful benefits over existing treatments.
+
+&#160;
+
+Fast Track is a process designed to facilitate the development, and expedite the review of drug candidates to treat serious diseases and fill an unmet medical need. Breakthrough therapy requires preliminary clinical evidence that demonstrates the drug candidate may have substantial improvement on at least one clinically significant endpoint over available therapy. A breakthrough therapy designation conveys all of the Fast Track program features, as well as more intensive FDA guidance on an efficient drug development program. Priority review is designed to give drug candidates that offer major advances in treatment or provide a treatment where no adequate therapy exists an initial review within six months as compared to a standard review time of 10 months. Although Fast Track, breakthrough therapy and priority review do not affect the standards for approval, the FDA will attempt to facilitate early and frequent meetings with a sponsor of a Fast Track designated drug candidate and expedite review of the application for a drug candidate designated for priority review. Accelerated approval provides an earlier approval of drugs to treat serious diseases and that fill an unmet medical need based on a surrogate endpoint, which is a laboratory measurement or physical sign used as an indirect or substitute measurement representing a clinically meaningful outcome. As a condition of approval, the FDA may require that a sponsor of a product receiving accelerated approval perform post-marketing clinical trials.
+
+&#160;
+
+If the FDA evaluations of the application and the manufacturing facilities are favorable, the FDA may issue an approval letter or an &#8220;approvable&#8221; letter. An approvable letter will usually contain a number of conditions that must be met in order to secure final approval of the NDA and authorization of commercial marketing of the drug for certain indications. An approval letter authorizes commercial marketing of the drug with specific prescribing information for a specific indication. As a condition of NDA approval, the FDA may require post-approval testing, including Phase IV trials, and surveillance to monitor the drug&#8217;s safety or efficacy and may impose other conditions, including labeling or distribution restrictions which can materially impact the potential market and profitability of the drug. Once granted, product approvals may be withdrawn if compliance with regulatory standards is not maintained or problems occur after the product reaches the market. The FDA may also refuse to approve the NDA or issue a &#8220;not approvable&#8221; letter outlining the deficiencies in the submission and often requiring additional testing or information.
+
+&#160;
+
+To date, we have not submitted a marketing application for any drug candidate to the FDA or any foreign regulatory agency, and none of our drug candidates have been approved for commercialization in any country. We have limited experience in conducting and managing the clinical trials necessary to obtain regulatory approvals, including approval by the FDA. The time required to complete clinical trials and for the FDA&#8217;s review processes is uncertain and typically takes many years. Our analysis of data obtained from preclinical and clinical activities is subject to confirmation and interpretation by regulatory authorities, which could delay, limit or prevent regulatory approval. We may also encounter unanticipated delays or increased costs due to government regulation from future legislation or administrative action or changes in FDA policy during the period of product development, clinical trials, and FDA regulatory review.
+
+&#160;
+
+Timing to Approval
+
+&#160;
+
+We estimate that it generally takes 10 to 15 years or possibly longer to discover, develop and bring to market a new pharmaceutical product in the United States as outlined below:
+
+&#160;
+
+Phase: &#160; Objective: &#160; Estimated Duration: &#160; &#160; &#160; &#160; &#160; Discovery &#160; Lead identification and target validation. &#160; 2 to 4 years &#160; &#160; &#160; &#160; &#160; Preclinical &#160; Initial toxicology for preliminary identification of risks for humans; gather early pharmacokinetic data. &#160; 1 to 2 years &#160; &#160; &#160; &#160; &#160; Phase I &#160; Test for safety, dosage tolerance, absorption, metabolism, distribution and excretion. &#160; 1 to 2 years &#160; &#160; &#160; &#160; &#160; Phase II &#160; Identify possible adverse effects and safety risks; preliminarily evaluate the efficacy of the drug candidate for specific targeted diseases; determine dosage tolerance and optimal dosage. &#160; 2 to 4 years &#160; &#160; &#160; &#160; &#160; Phase III &#160; Further evaluate dosage, clinical efficacy and safety in an expanded patient population, typically at geographically dispersed clinical study sites; establish the overall risk-benefit ratio of the drug candidate and provide, if appropriate, an adequate basis for product labeling. &#160; 2 to 4 years &#160; &#160; &#160; &#160; &#160; FDA approval &#160; Approval by the FDA to sell and market the drug for the approved indication. &#160; 6 months to 2 years &#160;
+
+18&#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+A drug candidate may fail at any point during this process. Animal and other non-clinical studies typically are conducted during each phase of human clinical trials.
+
+&#160;
+
+Our business model is primarily focused on the preclinical to Phase IIa interval. This greatly reduces the time frame for us from in-license of a new, preclinical stage drug candidate to be developed to out-licensing to a pharmaceutical partner.
+
+&#160;
+
+Post-Approval Studies
+
+&#160;
+
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory standards is not maintained or if problems occur after the product reaches the market. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further FDA review and approval. In addition, the FDA may require testing and surveillance programs to monitor the effect of approved products that have been commercialized, and the FDA has the power to prevent or limit further marketing of a product based on the results of these post-marketing programs.
+
+&#160;
+
+Any drug products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including, among other things:
+
+&#160;
+
+&#160; &#183; record-keeping requirements; &#160; &#160; &#160; &#160; &#183; reporting of adverse experiences with the drug; &#160; &#160; &#160; &#160; &#183; providing the FDA with updated safety and efficacy information; &#160; &#160; &#160; &#160; &#183; drug sampling and distribution requirements; &#160; &#160; &#160; &#160; &#183; notifying the FDA and gaining its approval of specified manufacturing or labeling changes; &#160; &#160; &#160; &#160; &#183; complying with certain electronic records and signature requirements; and &#160; &#160; &#160; &#160; &#183; complying with FDA promotion and advertising requirements. &#160;
+
+Drug manufacturers and their subcontractors are required to register their establishments with the FDA and some state agencies, and are subject to periodic unannounced inspections by the FDA and some state agencies for compliance with cGMPs and other laws.
+
+&#160;
+
+We rely, and expect to continue to rely, on third parties for the production of clinical quantities of our drug candidates. Future FDA and state inspections may identify compliance issues at the facilities of our contract manufacturers that may disrupt production or distribution, or require substantial resources to correct.
+
+&#160;
+
+From time to time, legislation is drafted, introduced and passed in Congress that could significantly change the statutory provisions governing the approval, manufacturing and marketing of products regulated by the FDA. In addition, FDA regulations and guidance are often revised or reinterpreted by the agency in ways that may significantly affect our business and our drug candidates. It is impossible to predict whether legislative changes will be enacted, or FDA regulations, guidance or interpretations changed or what the impact of such changes, if any, may be.
+
+&#160;
+
+Foreign Regulations
+
+&#160;
+
+Whether or not we obtain FDA approval for a drug candidate, we must obtain the requisite approvals from regulatory authorities in non-U.S. countries prior to the commencement of clinical trials or marketing of our products in those countries. Certain countries outside of the United States have a process that requires the submission of a clinical trial application (&#8220;CTA&#8221;), much like an IND, prior to the commencement of human clinical trials. In Europe, for example, a CTA must be submitted to the competent national health authority and to independent ethics committees in each country in which a company intends to conduct clinical trials. Once the CTA is approved in accordance with a country&#8217;s requirements, clinical trial development may proceed in that country.
+
+&#160;
+
+19&#160; 
+
+&#160;
+
+&#160;
+
+The requirements and process governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country, but typically takes several years and requires significant resources. In all cases, the clinical trials must be conducted in accordance with GCPs and other applicable regulatory requirements.
+
+&#160;
+
+To obtain regulatory approval of an investigational drug under European Union (&#8220;E.U.&#8221;) regulatory systems, we must submit a marketing authorization application. This application is similar to the NDA in the United States, with the exception of, among other things, country-specific document requirements. Drugs can be authorized in the E.U. by using (i) the centralized authorization procedure, (ii) the mutual recognition procedure, (iii) the decentralized procedure or (iv) national authorization procedures.
+
+&#160;
+
+The European Medicines Agency (&#8220;EMA&#8221;) implemented the centralized procedure for the approval of human drugs to facilitate marketing authorizations that are valid throughout the E.U. This procedure results in a single marketing authorization granted by the European Commission that is valid across the E.U., as well as in Iceland, Liechtenstein and Norway. The centralized procedure is compulsory for certain human drugs including those that are: (i) derived from biotechnology processes, such as genetic engineering, or (ii) contain a new active substance indicated for the treatment of certain diseases.
+
+&#160;
+
+Reimbursement
+
+&#160;
+
+Sales of pharmaceutical products depend in significant part on the availability of third-party reimbursement, which is time consuming and expensive. Reimbursement may not be available or sufficient to allow us to sell our future products, if any, on a competitive and profitable basis.
+
+&#160;
+
+The passage of the Medicare Prescription Drug and Modernization Act of 2003 (the &#8220;MMA&#8221;) imposed requirements for the distribution and pricing of prescription drugs for Medicare beneficiaries, which may affect the marketing of our future products, if any. The MMA also introduced a reimbursement methodology, part of which went into effect in 2004, and a prescription drug plan, which went into effect on January 1, 2006. While the MMA applies only to drug benefits for Medicare beneficiaries, private payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non-governmental payors.
+
+&#160;
+
+In addition, in some foreign countries, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the E.U. provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market.
+
+&#160;
+
+There have been and we expect that there will continue to be frequent federal and state proposals to impose governmental pricing controls or cost containment measures for prescription drugs. While we cannot predict whether such legislative or regulatory proposals will be adopted, the adoption of such proposals could have a material adverse effect on our business, financial condition and profitability. For example, the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act of 2010, contains provisions that may reduce the profitability of drugs, including, for example, increased rebates for drugs sold to Medicaid programs, extension of Medicaid rebates to Medicaid managed care plans, mandatory discounts for certain Medicare Part D beneficiaries and annual fees based on pharmaceutical companies' share of sales to federal health care programs. Even if favorable coverage and reimbursement status is attained for one or more of our drug candidates for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future.
+
+&#160;
+
+Other Regulations
+
+&#160;
+
+Pursuant to the Drug Price Competition and Patent Term Restoration Act of 1984, known as the Hatch-Waxman Act, under certain conditions a sponsor may be granted marketing exclusivity for a period of five years following FDA approval. During this period, third parties would not be permitted to obtain FDA approval for a similar or identical drug through an Abbreviated NDA, which is the application form typically used by manufacturers seeking approval of a generic drug. The Hatch-Waxman Act also permits a patent extension term of up to five years as compensation for patent term lost during product development and the FDA regulatory review process. However, patent extension cannot extend the remaining term of a patent beyond a total of 14 years. The patent term restoration period is generally one-half the time between the effective date of an IND and the submission date of an NDA, plus time of active FDA review between the submission date of an NDA and the approval of that application. Only one patent applicable to an approved drug is eligible for the extension and it must be applied for prior to expiration of the patent and within 60 days of the approval of the NDA.
+
+&#160;
+
+20&#160; 
+
+&#160;
+
+&#160;
+
+BP1001 previously received orphan drug designations for the treatment of CML in the United States. Orphan designation is available to drugs intended to treat, diagnose or prevent a rare disease or condition that affects fewer than 200,000 people in the United States at the time of application for orphan designation. Orphan drug designation must be requested before submitting an application for marketing authorization. Orphan designation qualifies the sponsor of the product for a tax credit and marketing incentives. The first sponsor to receive FDA marketing approval for a drug with an orphan designation is entitled to a seven-year exclusive marketing period in the United States for that product for that indication and, typically, a waiver of the prescription drug user fee for its marketing application. However, a drug that the FDA considers to be clinically superior to, or different from, the approved orphan drug, even though for the same indication, may also obtain approval in the United States during the seven-year exclusive marketing period. Orphan drug exclusive marketing rights may also be lost if the FDA later determines that the request for designation was materially defective or if the manufacturer is unable to assure sufficient quantity of the drug. There is no guarantee that any of our other drug candidates will receive orphan drug designation or that, even if such drug candidate is granted such status, the drug candidate&#8217;s clinical development and regulatory approval process will not be delayed or will be successful.
+
+&#160;
+
+Pharmaceutical companies are also subject to various federal and state laws pertaining to health care &#8220;fraud and abuse,&#8221; including anti-kickback laws and false claims laws. Anti-kickback laws make it illegal for any entity or person to solicit, offer, receive, or pay any remuneration in exchange for, or to induce, the referral of business, including the purchase or prescription of a particular drug. False claims laws prohibit anyone from knowingly and willingly presenting, or causing to be presented, for payment to third party payors, including Medicare and Medicaid, claims for reimbursed drugs or services that are false or fraudulent, claims for items or services not provided as claimed, or claims for medically unnecessary items or services.
+
+&#160;
+
+Company History and Available Information
+
+&#160;
+
+We were originally incorporated in May 2000 as a Utah corporation under the name Ogden Golf Co. Corporation, but terminated our retail golf store operations in December 2006. In February 2008, we completed a reverse merger with Bio-Path Subsidiary. The name of Ogden Golf Co. Corporation was changed to Bio-Path Holdings, Inc. and the directors and officers of Bio-Path Subsidiary became the directors and officers of Bio-Path Holdings, Inc. On March 10, 2014, our common stock ceased trading on the OTCQX and commenced trading on the NASDAQ Capital Market under the ticker symbol &#8220;BPTH.&#8221; Effective December 31, 2014, we changed our state of incorporation from Utah to Delaware through a statutory conversion pursuant to the Utah Revised Business Corporation Act and the Delaware General Corporation Law. Our principal executive offices are located at 4710 Bellaire Boulevard, Suite 210, Bellaire, Texas 77401, and our telephone number is (832) 742-1357.
+
+&#160;
+
+Our Internet address is www.biopathholdings.com . We are not including the information contained in our website as part of, or incorporating it by reference into, this Annual Report on Form 10-K. We make available free of charge through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such materials with, or furnish it to, the SEC. We also make available on our website our Corporate Governance Guidelines; the charters for our Audit Committee, Nominating/Corporate Governance Committee and Compensation Committee; our Employee Code of Business Conduct and Ethics, which applies to all of our employees, including our executive officers; and our Code of Business Conduct and Ethics for Members of the Board of Directors. All such information is also available in print and free of charge to any of our stockholders who request it. In addition, we intend to disclose on our website any amendments to, or waivers from, our codes of business conduct and ethics that are required to be publicly disclosed pursuant to rules of the SEC.
+
+&#160;
+
+21&#160; 
+
+&#160;
+
+&#160;
+

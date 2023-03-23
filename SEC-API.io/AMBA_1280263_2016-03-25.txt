@@ -1,0 +1,474 @@
+ ITEM &#160; 1. 
+
+BUSINESS 
+
+Overview 
+
+We are a leading developer of semiconductor processing solutions for video that enable high-definition, or HD, video capture, sharing and display. A device that captures video includes four primary components: a lens, an image sensor, a video processor and storage memory. The video processor is the most complex of these four primary components as it converts raw video input into a format that can be stored and distributed efficiently. We combine our processor design capabilities with our expertise in video and image processing, algorithms and software to provide a technology platform that is designed to be easily scalable across multiple applications in a variety of markets and enable rapid and efficient product development. Our system-on-a-chip, or SoC, designs fully integrate HD video processing, image processing, audio processing and system functions onto a single chip, delivering exceptional video and image quality at high compression rates, differentiated functionality and low power consumption. 
+
+The inherent flexibility of our technology platform enables us to deliver our solutions for numerous applications in multiple markets. In the camera market, our platform enables the creation of high-quality video content in wearable cameras, automotive aftermarket cameras, professional and consumer Internet Protocol, or IP, security cameras, and cameras incorporated into unmanned aerial vehicles, also referred to as UAVs, drones or flying cameras. Our revenue growth over the last three years has been driven primarily by specialized video and image capture devices such as wearable sports cameras, automotive aftermarket cameras and IP security cameras. In the infrastructure market, our solutions efficiently manage IP video traffic, broadcast encoding and transcoding and IP video delivery applications. 
+
+We initially focused our technology platform on the infrastructure market, where we were able to differentiate our solutions for broadcast customers based on high performance, low power consumption, transmission and storage efficiency and small form factor. Leveraging these same capabilities, we then designed high-performance solutions for the camera market. As a result of the advantages of our solutions, we became a leading provider of video processing solutions for cameras that capture both HD video and high-resolution still images simultaneously. In addition, we have released SoC solutions that combine high-resolution video and image capture capabilities with advanced networking, connectivity and application processing functionalities. 
+
+We sell our solutions to leading original design manufacturers, or ODMs, and original equipment manufacturers, or OEMs, globally. We refer to ODMs as our customers and OEMs as our end customers, except as otherwise indicated or as the context otherwise requires. In the camera market, our video processing solutions are designed into products from leading OEMs including Axis Communications AB, Carcam Electronics Technology Co., Ltd., Dahua Technology Co., Ltd., Dajiang Innovation Technology Inc., Garmin Ltd., GoPro Inc., Hikvision Digital Technology Co., Qihoo 360 Technology Co. Ltd., Robert Bosch GmbH and affiliated entities, and XiaoYi Technology Co., Ltd., who source our solutions from ODMs including Asia Optical Co. Inc., Chicony Electronics Co., Ltd., Jabil Circuit, Inc., San Jet Technology Corp., Sercomm Corporation, and Sky Light Digital Ltd. In the infrastructure market, our solutions are designed into products from leading OEMs including Harmonic Inc., Motorola Mobility, Inc. (owned by Arris Group, Inc.) and Telefonaktiebolaget LM Ericsson, who source our solutions from leading ODMs such as Plexus Corp. We intend to continue to build and strengthen our relationships with existing customers and also diversify our customer base. Our close relationships with leading ODMs and OEMs often provide us with insight into product roadmaps and trends in the marketplace, which we intend to leverage to identify new opportunities and applications for our solutions. We sell our solutions worldwide using our direct sales force and our logistics providers, including Wintech Microelectronics Co., Ltd., or Wintech. Sales through Wintech represented approximately 67%, 57% and 56% of our revenue for the fiscal years ended January 31, 2016, 2015, and 2014, respectively. 
+
+We employ a fabless manufacturing strategy and are currently shipping the majority of our solutions in the 45, 32 and 28 nanometer, or nm, process nodes. As of January 31, 2016, we had 640 employees worldwide, approximately 72% of whom are in research and development. Our headquarters are located in Santa Clara, California, and we also have research and development design centers and business development offices in Taiwan, China, Italy, Japan, and South Korea. For our fiscal years ended January 31, 2016, 2015 and 2014, we recorded revenue of $316.4 million, $218.3 million and $157.6 million, respectively, and net income of $76.5 million, $50.6 million and $25.7 million, respectively. We have generated net income in each quarter beginning with the first quarter of fiscal year 2010, and we have generated cash from operations in each of fiscal years starting from 2009. 
+
+&#160;
+
+Ambarella was founded and incorporated in the Cayman Islands in January 2004. Our principal executive offices are located at 3101 Jay Street, Santa Clara, California. Our website is www.ambarella.com. You can obtain copies of our Forms 10-K, 10-Q, 8-K, and other filings with the Securities and Exchange Commission, or SEC, and all amendments to these filings, free of c harge, from our website as soon as reasonably practicable following our filing of any of these reports with the SEC. In addition, you may read and copy any material we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D. C. 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website that contains reports, proxy, and information statements, and other information regarding registrants that file electronically with the SEC at www.sec.gov. 
+
+Industry Background 
+
+Trends Impacting the Video Content Creation and Distribution Markets 
+
+Video traffic is growing at a significant rate. The market trends that are fundamentally impacting video content creation and distribution include the following: 
+
+&#160;
+
+&#183; 
+
+Increasing Number of Video Capture Devices . Traditionally, HD video has been captured using large, power intensive and expensive dedicated devices. Recent improvements in HD video capture quality, device size and cost have allowed video capture functionality to be incorporated into a broad range of devices. Today, smartphones, tablets, wearable cameras, automotive aftermarket cameras, IP security cameras and UAVs, are increasingly including both HD video capture and high-quality still image capture. In addition to the significant growth in the number of devices, new applications are emerging for video capture devices. Very small HD cameras, or wearable cameras, incorporating connectivity to a smart phone or internet are being developed for new applications such as law enforcement, personal security and social media. In some regions of the world, such as China, Russia, South Korea and Taiwan, video capture devices are being added as aftermarket accessories to automobiles and connected to on-board recording systems to capture video in the event of an incident, which assists the legal and insurance claims process following an accident. 
+
+&#160;
+
+&#183; 
+
+Growing User-Generated Content . Historically, most video content was created by media companies, professional studios and large broadcasters that possessed the equipment, expertise and other resources necessary to produce and distribute such programming. However, with the proliferation of low-cost digital video devices and greater penetration of broadband connectivity, individuals are playing a greater role in content creation and distribution. Websites such as YouTube and Facebook have enabled an effective new channel to widely distribute, store and display video and other rich media. In addition to user-created videos, other user-generated content such as video conferencing and video instant messaging through services provided by Apple, Inc., Google Inc. and Skype, among others, are becoming increasingly popular. 
+
+&#160;
+
+&#183; 
+
+Broadband Penetration Enabling the Proliferation of the Video Cloud . The adoption of high-speed broadband and the proliferation of connected devices such as smartphones, tablets, laptops, desktop computers and connected televisions have allowed consumers to more easily download and share IP video accessed upon demand through the video cloud. The video cloud has led to new business models based on personal content such as streaming video provided by services like YouTube. Additionally, consumers are leveraging the video cloud for security by utilizing an IP camera and cloud infrastructure to watch live HD video streaming on any web connected device. This video cloud application has enabled expansion of the connected home to include intelligent IP surveillance systems that detect activity and then stream encrypted HD video through secure servers and alert end users. 
+
+&#160;
+
+&#183; 
+
+Advancements in Display Technology . The increasing proliferation of HD displays in television and in mobile connected devices such as laptops, smartphones and tablets is accelerating HD video content growth. This trend highlights the new paradigm of escalating consumer expectations of video quality, such that video is comparable to high-resolution still images, which drove the transition from standard definition to HD, and will drive the transition to ultra high-definition, or UHD. UHD is commonly referred to as 4K video, which supports up to 4096x2160 pixels per frame, more than four times greater resolution than the current Full HD standard, which supports up to 1920x1080 pixels per frame. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Requirement for Efficient Video Compression . HD video is increasingly a requirement for consumer video cameras, IP security cameras and for the broadcast of television programs, whether via cable, satellite or IP networks. Uncompressed HD video requires massive amounts of digital data to represent it, necessitating the need for video compression technology to reduce da ta rates for storage or for transmission of video over networks with limited bandwidth. In broadcast television, an upgrade of networks from H.264 video compression technology to the new high efficiency video coding, or HEVC, video compression technology w ould support the transition of consumers to 4K video. In consumer cameras, the efficiency of the encoding has a significant impact on video quality, recording time and battery life. In IP security cameras, encoding efficiency is important for realizing the highest image quality possible over bandwidth-limited networks, and for minimizing the costs of cloud-based storage of video content. Additionally, the ability to actively adapt the encoding bit-rate based on changing network bandwidth availability provid es the highest possible video quality and enables network traffic management. As consumers increasingly view video on smartphones and tablets, in addition to traditional televisions and PCs, the ability to trans-rate video content in real time to the vario us resolutions and bit-rates supported by smartphones or tablets is essential. &#160;
+
+Evolving Requirements for Video Capture and Distribution 
+
+Evolving requirements for cameras and broadcast infrastructure equipment typically center around video definition and frame rates, ability to capture high-quality still images and video, advanced video features, analytics, and transcoding capability: 
+
+&#160;
+
+&#183; 
+
+Higher Definition and Higher Frame Rates . The demand for enhanced video resolution has been increasing in both the camera and infrastructure markets. Consumers expect video quality to be closer to high-resolution still images, which continues to drive the transition from standard definition to Full HD and beyond. Similarly, as new display technologies enable higher resolutions and higher frame rates, we believe consumer demand will drive the requirement for UHD or 4K video capture and transmission. In the market for wearable sports cameras, for example, resolution and frame rate have been the primary factor in consumers&#8217; purchasing decisions. In the infrastructure market, consumer demand for viewing Full HD content has prompted broadcasters to seek high-performance solutions. 
+
+&#160;
+
+&#183; 
+
+Ability to Capture High-Quality Still Images and Video . Historically, consumers have purchased devices that either provide high-quality image capture or record high-quality video. This was the result of consumer preference, as reasonably priced and sized devices would provide only one of those attributes. However, as a result of technological improvements, consumer devices that deliver both attributes have proliferated to the point that a pure video capture device or still image capture device is becoming uncommon. Increasingly, devices are able to simultaneously capture HD video and high-quality still images without adversely impacting the quality of either. We believe devices that can capture Full HD video while encoding a second mobile resolution video for uploading to the Internet or streaming over a Wi-Fi network will expand consumer demand for specialized video capture devices. Additionally advanced low-light processing including high dynamic range and high-ISO processing will continue to improve image quality even in challenging lighting conditions. 
+
+&#160;
+
+&#183; 
+
+Connectivity . Integrated wireless capability using wireless links such as Bluetooth and Wi-Fi is becoming an increasingly prevalent feature across many classes of video capture devices. Consumers want to watch, control and capture real-time video using their smartphones as the remote control and viewer for wirelessly enabled wearable and sports cameras. Additionally, rather than storing images and video to local media and transferring to a computer later, consumers are demanding the ability to wirelessly transfer and share their video content to websites such as YouTube, Facebook and other online media albums. In video security applications, connectivity to cloud services allows users to monitor surveillance video in real-time on their smartphones or tablets. The storage of video in the cloud also provides protection against theft of the video content and enables users the capability to play back the stored video. 
+
+&#160;
+
+&#183; 
+
+Ability to Deliver Feature-Rich Video . The addition of de-warping capability allows cameras to utilize a wide angle or &#8220;fish eye&#8221; lens to cover a wide viewing area. In security applications this capability can allow a single camera to replace multiple cameras and may also eliminate the need for mechanical pan-tilt-zoom in the cameras. In automotive markets, the ability to combine and display images captured by multiple cameras can allow the automotive camera recorder to capture and display images from the front, rear and sides of the car. Our wide dynamic range, or WDR, and high dynamic range, or HDR, processing capabilities provide greater dynamic range between the lightest and darkest areas of an image, permitting captured still images to reveal details that would otherwise be lost against a bright background. Our new hardware-accelerated three-dimensional image stabilization engine with rolling shutter correction enables stable video recording during high-motion conditions. In flying camera applications this potentially eliminates the need for a mechanical gimbal system. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Computer Vision. Computer vision represents the field of methods for acquiring, processing, analyzing, and understanding images and high-dimensional data from the real world in order to automate and integrate a wide range of processes. Computer vision is becoming increasingly important for the development of int elligent video cameras. In the IP security camera market, computer vision can be used for various functions including motion detection to trigger alarms, and the counting and tracking of people. The application of computer vision may be also be used to hel p control the video encoding process to reduce video bitrates and maximize network efficiency. In the automotive market, the application of computer vision for advanced driver assistance systems, or ADAS, is increasingly being used to help drivers. Automot ive analytics functions include lane detection warning system (LDWS) and forward collision warning (FCW). In general, powerful CPUs and dedicated computer vision hardware are required to support the advanced analytics algorithms in video cameras. &#160;
+
+&#160;
+
+&#183; 
+
+Transcoding . The ability to decode and simultaneously re-encode high-quality video streams in multiple formats, which is commonly referred to as transcoding, using dense, small form factor and power-efficient hardware is a critical requirement for content providers and the video cloud. Given the differing connection speeds and capacities in current communication networks, broadcasters must be able to deliver video to consumers at varying bit-rate and quality levels. Furthermore, the significant increase in the number and types of devices capable of displaying video, from HD televisions to smartphones, requires broadcasters and other distributors to have the capability to provide video content in multiple formats and source resolutions. 
+
+Our Competitive Strengths 
+
+Our platform technology solutions provide performance attributes that satisfy the stringent demands of the camera market, enable integration of HD video and image capture capabilities in portable devices and meet the highest standards of the infrastructure market. We believe that our leadership in HD video and image processing applications is the result of our competitive strengths, including: 
+
+&#160;
+
+&#183; 
+
+High-Performance, Low Power Video and Image Algorithm Expertise . Our solutions provide Full HD and UHD video at exceptional resolution and frame rates. Our extensive algorithm expertise, which facilitates efficient video and image compression, enables our solutions to achieve low power consumption without compromising performance. Our solutions achieve high storage and transmission efficiencies through innovative and complex video and image compression algorithms that significantly reduce the output bit-rate. This smaller storage footprint directly benefits the performance of our solutions in several ways including lower memory storage requirements and reduced bandwidth needs for transmission, which is more conducive to sharing content between devices. These benefits are particularly important in transcoding and video cloud applications. Our solutions can enable high-performance image capture of up to 30 16-megapixel still images per second. Our solutions can deliver clear images in low light conditions because of our 3D motion compensated temporal filtering, or MCTF, and multiple exposure processing. Additionally, our WDR and HDR processing capabilities provide greater dynamic range between the lightest and darkest areas of an image, permitting captured still images to reveal details that would otherwise be lost against a bright background. Our advanced de-warping capability enables cameras to use wide angle lenses to capture images from a wide area, making it ideal for a variety of IP security camera applications. 
+
+&#160;
+
+&#183; 
+
+Proprietary Video Processing Architecture . Our proprietary video processing architecture is designed to efficiently integrate our advanced compression algorithms into our SoCs to offer exceptional storage and transmission efficiencies at lower power across multiple products and end markets. We engineered our very-large-scale integration, or VLSI, architecture with a focus on high-performance video compression as opposed to solutions that are based on a still image processing architecture with add-on video capabilities. Due to our primary focus on video processing compression, we believe that our solutions offer exceptional performance metrics with lower power requirements and reduced die sizes. Our integrated algorithms and architecture also enable simultaneous processing of multiple video and image streams. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Hi ghly Integrated SoC Solutions Based on a Scalable Platform . Our product families leverage our core high-performance video processing architecture combined with an extensive set of integrated peripherals, which enables our platform to address the requiremen ts of a variety of applications and end markets. Traditional solutions have generally relied upon significant customization to meet the specific requirements of each market, resulting in longer design cycles and higher development costs. Our flexible and h ighly-scalable platform enables us to address multiple markets with reduced design cycles and costs. Our platform also enables us to develop fully integrated SoC solutions that provide the system functionalities required by our customers on a single chip. Our extensive system integration expertise enables us to integrate core video processing functionality with many peripheral functions such as multiple inputs and outputs, lens controllers, flash controllers and remote control interfaces to reduce system co mplexity and interoperability issues. Furthermore, we have successfully migrated our process nodes from 130nm to 14nm since our founding and have a proven track record of developing and delivering multiple solutions with first-pass silicon success. Beginni ng in fiscal year 2015, we began investing in development of our next generation SoCs in the 14nm process node, and we announced our first 14nm SoC in January 2016. &#160;
+
+&#160;
+
+&#183; 
+
+Comprehensive and Flexible Software . Our years of investment in developing and optimizing our comprehensive and flexible software serve as the foundation of our high-performance video application solutions. Key components of our software include highly customized middleware that integrates many unique features for efficient scheduling and other system-level functions, and firmware that is optimized to reduce power requirements and improve performance. In addition, we provide to our customers fully-functional software development kits with a suite of application programming interfaces or APIs, which allow them to rapidly integrate our solution, adjust product specifications and provide additional functionality to their systems, thereby enabling them to differentiate their product offerings and reduce time to market. 
+
+&#160;
+
+&#183; 
+
+Broad Domain Experience in Video Processing and Delivery . Our engineering team, whose core members have worked together for over 15 years, includes leading innovators in video processing and delivery. Our VLSI team has extensive multi-gigahertz, superscalar CPU design experience from Intel Corporation, Advanced Micro Devices, Inc. and Sun Microsystems, Inc. Our team has developed many industry firsts such as the first single chip MPEG-2 encoder, the first consumer MPEG-2 transcoding SoC, the first single chip HD H.264 encoder and camera SoC and the first 1080p60 and UHD infrastructure SoCs. Our team has developed an ecosystem of high-performance software and hardware solutions that reduce customer system development time and cost, thus allowing for accelerated time-to-market. 
+
+&#160;
+
+&#183; 
+
+Key Global Relationships with Leading OEM and ODM Customers. Our solutions have been designed into top-tier OEM brands currently in the market. We have established collaborative relationships with most of the leading ODMs and OEMs that serve our primary markets. Our collaborations with ODMs give us extensive visibility into critical product design, development and production timelines, and keep us at the forefront of technological innovation, which we intend to leverage to identify new opportunities and applications for our solutions, and we intend to continue to actively engage with ODMs and OEMs at every stage of their design cycles. We actively engage with OEMs on design specifications and with ODMs on product implementation. Additionally, approximately 73% of our employees are located in Asia, primarily in Taiwan and China, strategically placing us near many of our customers and allowing us to provide superior sales, design and technical support and to strengthen our customer relationships. &#160; 
+
+Our Solutions 
+
+Our video and image processing SoCs, based on our proprietary technology platform, are highly configurable and satisfy the needs of numerous applications in the camera and infrastructure markets. Our HD video and image processing solutions enable our customers to deliver exceptional quality video and still imagery in small, easy-to-use devices with low power requirements. Our customized software solution includes middleware, firmware and software development kits to optimize system-level functions and allow rapid integration of our solution and specification adjustments. 
+
+&#160;
+
+&#183; 
+
+Camera Market . In addition to enabling small device size and low power consumption, our SoC solutions make possible differentiated functionalities such as simultaneous video and image capture, multiple-stream video capture and wireless connectivity. For example, our solutions enable rugged wearable sports cameras and small form factor wearable cameras that transmit captured video and images to connected devices and the Internet, including social media sites. Additionally, our SoC solutions enable HD and UHD IP security cameras that transmit HD and UHD video efficiently to provide remote monitoring and control. Another use case is the automotive aftermarket camera, particularly popular in emerging markets such as China, Russia, South Korea and Taiwan, which allows consumers to record video constantly and automatically from their automobiles so that there is visual evidence of accidents or other incidents. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Infrastructure Market . Our SoC solutions enable high-performance, low power consumption broadcast devices with small form factors, thereby reducing bandwidth needs, energy usage and costs of additional hardware. Our solutions enable an increased number of channels per encoder due to high compression efficiencies. They also m ake possible a new class of transcoders that can simultaneously encode and stream multiple video formats to different end devices and can change video resolution and transmission rates based on available bandwidth and the display capability of receiving de vices. &#160;
+
+&#160;
+
+&#183; 
+
+Target New Applications Requiring Connectivity, HD Video Processing and Low Powe r. We intend to leverage our core technology platform to address other video processing markets that have high-performance, robust connectivity, low latency and low power requirements. Examples of markets that we are focused on penetrating are the wearable camera markets which include sports, professional and consumer applications, the market for automotive aftermarket cameras, the professional and consumer IP security camera markets and the UAV or flying camera market. Our camera solutions&#8217; ability to provide connectivity and simultaneous high-quality video and image capture in a power efficient system have facilitated preliminary engagements with leaders in the emerging wearable camera markets. Additionally, our high-performance video and image capture, connectivity, capability to stream HD video efficiently and power efficiency have enabled us to develop relationships with leaders in the wearable sports camera market, the market for automotive aftermarket cameras and the IP security camera market, which we intend to expand as those markets continue to develop. 
+
+&#160;
+
+&#183; 
+
+New and Emerging Markets . We intend to continue to customize and adapt our solutions to meet the needs of additional emerging markets. For example, we are working with end customers to develop video capture devices for both professional and consumer wearable camera applications, such as point-of-view police cameras. In the IP security camera market, we are developing solutions optimized for both professional and consumer applications, including low bit-rate encoding, battery operated devices and low light operation. In addition, we are developing advanced analytics for the consumer and professional IP security, UAV and automotive markets to enhance SoC functionality. We believe advanced analytics on the SoC, such as face recognition, object identification and motion detection will expand the addressable market for our SoC&#8217;s. In the OEM automotive market, we recently i ntroduced our MotorVu&#8482; 3D 360&#176; Surround View reference design, which brings high quality HD video to multi-camera parking assistance applications and features a dedicated video engine to combine multiple HD video streams for 3D scene rendering, and our solution to support electronic mirrors that utilize cameras and LCD displays. 
+
+Products 
+
+Our technology platform delivers a high-performance, low power video and image processing solution that can be tailored with our software development kits to meet the specific needs of multiple end markets. We also provide customers with guidelines known as reference designs so that they can efficiently incorporate our solutions in their product designs. We currently sell our solutions into the following end markets: 
+
+&#160;
+
+&#183; 
+
+Wearable Cameras including Sports, Commercial and Social Media . Durable cameras that provide HD video quality increasingly include embedded connectivity to share and display video. Our low power, high-resolution and connected solution can be found in the majority variety of cameras in this end market. 
+
+&#160;
+
+&#183; 
+
+Automotive Cameras . We sell solutions into several automotive markets both for aftermarket and OEM applications. In the automotive aftermarket, we sell solutions for small video cameras mounted on board vehicles to record traffic accidents and help establish records for insurance and liability purposes. We recently i ntroduced our MotorVu&#8482; 3D 360&#176; Surround View reference design for the automotive OEM market, which brings high quality HD video to multi-camera parking assistance applications and features a dedicated video engine to combine multiple HD video streams for 3D scene rendering. Also for the OEM market, electronic mirrors utilize cameras and LCD displays to augment optical rear view and side view mirrors to provide a wider, unobstructed field of view. Our low power, high-performance, small form factor solutions are well suited for this market. 
+
+&#160;
+
+&#183; 
+
+Professional IP Security Cameras . These cameras are used for video monitoring and security surveillance in professional applications. Our solutions enable the streaming of multiple video streams to enable remote monitoring at multiple locations. Embedded intelligence supports advanced analytics including motion detection and people tracking. The cameras often have the ability to operate in low light conditions and over wide temperature ranges in order to be used in outdoor environments. 
+
+&#160;
+
+&#183; 
+
+Consumer IP Security Cameras . Consumer IP security cameras are designed for home or small business use and are typically connected to cloud services and applications via home networks using WiFi. These cameras may require very low bitrate operation to support HD resolution over limited bandwidth broadband connections, while small form factors may require very low power operation. The implementation of intelligent motion detection may reduce the number of false alarms. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+UAVs or Drones . These cameras are used for capturing aerial video or photogr aphs. Our high-performance, high frame rate and low power architecture enables improved functionality with Full HD video capture. In addition, our ability to provide high-resolution still image capture and HD video capture simultaneously enables hybrid capability for the user . &#160;
+
+&#160;
+
+&#183; 
+
+Broadcast and Traffic Management . Broadcasting equipment that enables HD video to be distributed through satellite, cable and IP infrastructures comprises this market. Our flexible digital signal processor, or DSP, architecture, low power requirements and encoding expertise allow our end customers to compress and thus transmit video efficiently optimizing bandwidth and power usage. 
+
+The chart below describes our current product lines and target markets: 
+
+Technology 
+
+Our semiconductor processing solutions enable HD and UHD (up to 3840x2160p30) video and image processing, video compression, sharing and display while offering exceptional power, size and performance characteristics. 
+
+Key differentiators of our technology include: 
+
+&#160;
+
+&#183; 
+
+algorithms to compress video signals with high compression and power efficiency at multiple operating points; 
+
+&#160;
+
+&#183; 
+
+algorithms for high-speed image processing with high image quality and power efficiency; 
+
+&#160;
+
+&#183; 
+
+scalable architecture that covers the gamut of consumer and professional HD video camera and encoding applications from Full HD to UHD performance levels; 
+
+&#160;
+
+&#183; 
+
+ability to encode multiple video streams simultaneously to support simultaneous recording and video streaming, or streaming to multiple devices with different resolutions; 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+ability to capture, process and encode multiple image sensors simultaneously to support multiple viewpoints, including surround view and virtual reality applications; &#160;
+
+&#160;
+
+&#183; 
+
+algorithms to stabilize video from camera motion in challenging conditions, such as sports and flying cameras; 
+
+&#160;
+
+&#183; 
+
+low-power architecture with minimal system memory footprint; 
+
+&#160;
+
+&#183; 
+
+programmable architecture that balances flexibility, quality, power and die size; 
+
+&#160;
+
+&#183; 
+
+full software development kit comprised of APIs to facilitate integration into customers&#8217; products; and 
+
+&#160;
+
+&#183; 
+
+powerful CPUs and dedicated hardware to support advanced analytics functions; and 
+
+&#160;
+
+&#183; 
+
+support for transcoding between video formats, for example MPEG-2 to H.264 and H.265. 
+
+Our technology platform, comprised of our video and image processors, is based on a high-performance, low-power architecture supported by a high level of system integration. The building blocks of our platform are illustrated below: 
+
+Our technology platform enables the capture of high-resolution still images and high-definition video while simultaneously encoding HD video for high-quality storage and lower resolution video for Internet sharing and wireless networking. Multi stream video capture enhances the consumer experience by offering the ability to instantaneously share captured video without having to go through a transcoding process. 
+
+&#160;
+
+AmbaClear 
+
+Our proprietary image signal processing architecture, known as AmbaClear, incorporates advanced algorithms to convert raw sensor data to high-resolution still and high-definition video images concurrently. Image processing algorithms include sensor, lens and color correction, demosaicing, which is a process used to reconstruct a full color image from incomplete color samples, noise filtering, detail enhancement and image format conversion. For example, raw sensor data can be captured at up to 16-megapixel resolution at 60 frames per second and filtered down to two megapixels for HD video processing while selected 16-megapixel frames are concurrently processed by the still image processor. This image processing reduces noise in the input video and improves video quality resulting in better storage and transmission efficiencies. Our WDR and HDR, processing capabilities handle greater dynamic range between the lightest and darkest areas of an image, permitting video images to reveal details that would otherwise be lost against a bright background. Our advanced de-warping capability enables cameras to use wide angle lenses to capture images from a wide area, making it ideal for a variety of IP security camera and surround view applications.
+
+AmbaCast 
+
+Our proprietary HD video processing architecture, known as AmbaCast, incorporates advanced algorithms for motion estimation, motion-compensated 3D temporal filtering, mode decision and rate control. Successful implementation of these computationally intensive steps has helped us maximize compression efficiency. We support all three compression profiles&#8212;baseline, main and high&#8212;as specified in the H.264. We also support the main profile H.265 video compression standard with up to 2x better compression efficiency compared to our H.264 video compression technology.
+
+Our solutions for the broadcast infrastructure market allow OEMs to offer H.265, H.264 and MPEG-2 encoding formats. All of our video encoding solutions have decoding capabilities as well. 
+
+Design Methodology 
+
+The success of our technology platform stems from our algorithm-driven design methodology. We test and verify our algorithms on our proprietary architectural model prior to implementing our algorithms in hardware. Our advanced verification methodology validates our approach through simultaneous modeling of architecture, algorithms and the hardware itself. This redundant approach enables us to identify and remediate any weaknesses early in the development cycle, providing a solid foundation on which we build our hardware implementation, and enhances our ability to achieve first-pass silicon success. We have a history of using several process nodes from 130nm through 14nm. In fiscal year 2015, we began investing in development of our next generation SoCs in the 14nm process node and announced our first 14 nm SoC in January 2016. We possess extensive expertise in video and imaging algorithms as well as deep sub-micron digital and mixed-signal design experience. 
+
+SoC Solution 
+
+Our SoC designs integrate HD and UHD video processing, image processing, applications processing and system functions onto a single chip, delivering exceptional video and image quality with differentiated features, including advanced wireless connectivity. Our multi-core DSP architecture is highly scalable and balances software programmability with hardware-accelerated performance to achieve extremely low power consumption and maximize camera battery life. The programmable architecture provides our customers with the flexibility they need to quickly develop a wide range of differentiated products. Additionally, our SoCs integrate mixed signal (analog/digital) functionality and high speed interfaces required for interfacing to advanced high-speed CMOS sensors and industry standard interfaces such as USB 3.0 and HDMI 2.0. 
+
+Our H2 SoC, which we introduced in January 2016, supports 4K UHD HEVC video resolution at 120 frames per second as well as high frame-rate video for capturing fast-action sports with 1080p video at 240 frames per second or 720p video at 480 frames per second. Our H2 SOC features a new generation image processing pipeline that includes 10-bit HDR video processing and excellent imaging, even in challenging low-light conditions, and a hardware de-warp engine to support wide-angle panoramic camera designs. The H2 SoC includes a 1.2 GHz quad-core ARM&#174; Cortex&#174;-A53 CPU with floating point and NEON TM to provide significant processing power for customer applications, including flying camera flight control, video analytics and wireless networking . The H2 SoC also supports live streaming of a second, low-delay, Full HD video stream for wireless monitoring and camera control. Fabricated in 14nm CMOS technology, the H2 SoC offers low power consumption, enabling 4KP60 resolution video cameras with small form factors. 
+
+&#160;
+
+Software Development Kit for Connectivity 
+
+Our video streaming technology enables the camera&#8217;s image to be previewed on a smartphone, so the camera can be optimally set up and controlled remotely, or video can be streamed directly to Internet cloud services. To enable this functionality, end customers deploy our Wireless Camera Developer&#8217;s Kit, or the Kit, which enables the design of cameras that combine still photography and Full or Ultra HD video with wireless video streaming. The Kit leverages our multi-stream encoding capability which supports the recording of Full or Ultra HD video locally while simultaneously recording and streaming a second stream. This Kit enables accelerated end customer product development. 
+
+Computer Vision Technology
+
+Computer vision is a core technology that complements our image processing and video compression technology. Our current SoC solutions have up to four high performance ARM processors with NEON TM acceleration that provide a flexible and cost-effective manner in which to run computer vision algorithms. We are focusing on developing advanced computer vision algorithms and high-performance, low-power hardware acceleration. We believe that enhanced computer vision performance will be critical both to our current video markets, including IP security, wearable, and flying cameras , as well as future markets such as automotive OEM cameras. To accelerate our development, we acquired VisLab S.r.l. in June 2015. VisLab is a developer of computer vision algorithms and intelligent control systems for automotive applications. 
+
+Customers 
+
+We sell our solutions to leading ODMs and OEMs globally. We refer to ODMs as our customers and OEMs as our end customers, except as otherwise indicated or as the context otherwise requires. In the camera market, our video processing solutions are designed into products from leading OEMs including Axis Communications AB, Carcam Electronics Technology Co., Ltd., Dahua Technology Co., Ltd., Dajiang Innovation Technology Inc., Garmin Ltd., GoPro Inc., Hikvision Digital Technology Co., Qihoo 360 Technology Co. Ltd., and Robert Bosch GmbH and affiliated entities, and XiaoYi Technology Co., Ltd., who source our solutions from ODMs including Asia Optical Co. Inc., Chicony Electronics Co., Ltd., DigiLife Technologies Co.Jabil Circuit, Inc., San Jet Technology Corp., Sercomm Corporation, and Sky Light Digital Ltd. In the infrastructure market, our solutions are designed into products from leading OEMs including Harmonic Inc., Motorola Mobility, Inc. (owned by Arris Group, Inc.) and Telefonaktiebolaget LM Ericsson, who source our solutions from leading ODMs such as Plexus Corp. 
+
+Sales to customers in Asia accounted for approximately 91%, 91% and 88% of our total revenue in the fiscal years ended January 31, 2016, 2015 and 2014, respectively. As many of our OEM end customers or their ODM manufacturers are located in Asia, we anticipate that a majority of our revenue will continue to come from sales to customers in that region. Although a large percentage of our sales are made to customers in Asia, we believe that a significant number of the products designed by these customers and incorporating our SoCs are then sold to consumers globally. In fiscal years 2016, 2015 and 2014, 97%, 94% and 88% of our revenue was attributable to sales of our solutions into the camera market, respectively, and 3%, 6% and 12% of our revenue was attributable to sales of our solutions into the infrastructure market, respectively. To date, all of our sales have been denominated in U.S. dollars. 
+
+We work closely with our end customer OEMs and ODMs throughout their product design cycles that often last six to nine months for the camera market, though new products within the camera market may have longer design cycles, and 12 to 18 months for the infrastructure market. As a result, we are able to develop long-term relationships with our customers as our technology becomes embedded in their products. Consequently, we believe we are well positioned to not only be designed into our customers&#8217; current products, but also to continually develop next-generation, HD video and image processing solutions for their future products. 
+
+The product life cycles in the camera market typically range from six to 18 months. The product life cycles in the infrastructure market typically range from two to five years, where new product introductions occur less frequently. For many of our solutions, early engagement with our customers&#8217; technical staff is necessary for success. To ensure an adequate level of early engagement, our application and development engineers work closely with our customers to adjust product specifications and add functionality into their products. 
+
+Approximately 88%, 89% and 85% of our revenue was derived from sales through our logistics provider, Wintech, and through one large direct ODM customer, Chicony Electronics Co., Ltd., or Chicony, for the fiscal years ended January 31, 2016, 2015 and 2014, respectively. We currently rely, and expect to continue to rely, on a limited number of customers for a significant portion of our revenue. In fiscal year 2016, 2015 and 2014, sales directly and through our logistics providers to our five largest ODM and OEM customers collectively accounted for approximately 56%, 64% and 55% of our total revenues, respectively. In fiscal year 2016, 2015 and 2014, sales to our 10 largest ODM and OEM customers collectively accounted for approximately 69%, 74% and 67% of our total revenues, respectively. 
+
+&#160;
+
+Sales and Marketing 
+
+We sell our solutions worldwide using our direct sales force and our logistics providers. We have direct sales personnel covering the United States, Asia and Europe, and we operate sales offices in Santa Clara, California and Hong Kong, and business development offices in China, Japan, South Korea, Sweden and Taiwan. In addition, in each of these locations, other than Sweden, we employ a staff of field applications engineers to provide direct engineering support locally to our customers. 
+
+Our sales cycles typically require a significant investment of time and a substantial expenditure of resources before we can realize revenue from the sale of our solutions, if any. Our typical sales cycle consists of a multi-month sales and development process involving our customers&#8217; system designers and management and our sales personnel and software engineers. If successful, this process culminates in a customer&#8217;s decision to use our solutions in its system, which we refer to as a design win. Our sales efforts are typically directed to the OEM of the product that will incorporate our video and image processing solution, but the eventual design and incorporation of our SoC into the product may be handled by an ODM on behalf of the OEM. Volume production may begin within six to 18 months after a design win, depending on the complexity of our customer&#8217;s product and other factors upon which we may have little or no influence. Once our solutions have been incorporated into a customer&#8217;s design, they are likely to be used for the life cycle of the customer&#8217;s product. Conversely, a design loss to a competitor will likely preclude any opportunity for future revenue from such customer&#8217;s product. 
+
+The end markets into which we sell our products have seen significant changes as consumer preferences have evolved in response to new technologies. As a result, the composition of our revenue may differ meaningfully during periods of technology or consumer preference changes. For example, in fiscal year 2011, pocket video revenue represented approximately 40% of total revenue. The proliferation of smartphones and their ability to capture high-quality video and still images significantly impacted this market, decreasing pocket video cameras&#8217; contribution to approximately zero percent of total revenue in fiscal year 2013. Conversely, our revenue derived from the wearable sports camera market, the IP security camera market, the automotive aftermarket and UAV camera market supported total revenue growth in the 2012-2016 fiscal years despite the loss of our pocket video revenue. We expect shifts in consumer use of video capture to continue to change over time, as more specialized use cases emerge and video capture continues to proliferate. 
+
+Our sales are generally made pursuant to purchase orders received approximately four to 18 weeks prior to the scheduled product delivery date, depending upon agreed terms with our customers and the current manufacturing lead time at the time the purchase order is received. These purchase orders may be cancelled without charge upon notification within an agreed period of time in advance of the delivery date, which may be as short as 30 days. Due to the scheduling requirements of our foundry, assembly and test contractors, we generally provide our contractors with our production forecasts and place firm orders for products with our suppliers up to 20 weeks prior to the anticipated delivery date, usually without a purchase order from our own customers. Our standard warranty provides that our SoCs containing defects in materials, workmanship or performance may be returned for a refund of the purchase price or for replacement, at our discretion. 
+
+Manufacturing 
+
+We employ a fabless business model and use third-party foundries and assembly and test contractors to manufacture, assemble and test our solutions. This outsourced manufacturing approach allows us to focus our resources on the design, sales and marketing of our solutions and avoid the cost associated with owning and operating our own manufacturing facility. Our engineers work closely with foundries and other contractors to increase yields, lower manufacturing costs and improve quality. In addition, we believe outsourcing many of our manufacturing and assembly activities provides us the flexibility needed to respond to new market opportunities, simplifies our operations and significantly reduces our capital requirements. We do not have a guaranteed level of production capacity from any of our suppliers&#8217; facilities to produce our solutions. We carefully qualify each of our suppliers and their subcontractors and processes in order to meet the extremely high-quality and reliability standards required of our solutions. 
+
+Backlog 
+
+Our sales are primarily made through standard purchase orders for delivery of products. Our manufacturing production is based on estimates and advance non-binding commitments from customers as to future purchases. We follow industry practice that allows customers to cancel, change or defer orders with limited advance notice prior to shipment. Given this practice, we do not believe that backlog is a reliable indicator of future revenue levels. 
+
+&#160;
+
+Wafer Fabrication 
+
+We have a history of using several process nodes from 130nm through 28nm. We currently manufacture the majority of our solutions in 45nm, 32nm and 28nm silicon wafer production process geometries utilizing the services of several different foundries. In fiscal year 2015, we began investing in development of our next generation SoCs in the 14nm process node, and we announced our first 14nm SoC in January 2016. Currently, the majority of our SoCs are supplied by Samsung Electronics Co., Ltd., or Samsung, in South Korea, from whom we have the option to purchase both fully-assembled and tested products as well as tested die in wafer form for assembly. We also have products supplied by Global UniChip Corporation, or GUC, in Taiwan, from whom we purchase fully-assembled and tested products. The wafers used by GUC in the assembly of our products are manufactured by Taiwan Semiconductor Manufacturing Co., Ltd., or TSMC, in Taiwan. 
+
+Assembly and Testing 
+
+Samsung subcontracts the assembly and initial testing of the assembled chips it supplies to us to Signetics Corporation and STATS ChipPAC Ltd. In the case of purchases of tested die from Samsung, we contract the assembly to Advanced Semiconductor Engineering, Inc., or ASE. GUC subcontracts the assembly of the products it supplies to us to ASE and Powertech Technology Inc. Final testing of all of our products is handled by King Yuan Electronics Co., Ltd. or Sigurd Corporation under the supervision of our engineers. All test software and related processes for our products are developed by our engineers. We continually monitor the results of testing at all of our test contractors to ensure that our testing procedures are properly implemented. 
+
+As part of our total quality assurance program, our quality management system has been certified to ISO 9001:2000 standards. Our foundry vendors are also ISO 9001 certified. 
+
+Research and Development 
+
+We believe our technology is a competitive advantage and we engage in substantial research and development efforts to develop new products and integrate additional features and capabilities into our HD and UHD video processing solutions. We believe that our continued success depends on our ability to both introduce improved versions of our existing solutions and to develop new solutions for the markets that we serve. Our research and development team is comprised of both semiconductor and software designers. Our semiconductor design team has extensive experience in large-scale semiconductor design, including architecture description, logic and circuit design, implementation and verification. Our software design team has extensive experience in development and verification of software for the HD video market. Because the integration of hardware and software is a key competitive advantage of our solutions, our hardware and software design teams work closely together throughout the product development process. The experience of our hardware and software design teams enables us to effectively assess the tradeoffs and advantages when determining which features and capabilities of our solutions should be implemented in hardware and in software. 
+
+We have assembled a core team of experienced engineers and systems designers in four research and development design centers located in the United States, China, Italy and Taiwan. 
+
+For the fiscal years ended January 31, 2016, 2015 and 2014, our research and development expense was $82.9 million, $58.0 million and $48.8 million, respectively. 
+
+Competition 
+
+The global semiconductor market in general, and the video and image processing markets in particular, are highly competitive. We expect competition to increase and intensify as more and larger semiconductor companies enter our markets. Increased competition could result in price pressure, reduced profitability and loss of market share, any of which could materially and adversely affect our business, revenue and operating results. 
+
+&#160;
+
+Currently, our competitors range from large, international companies offering a wide range of semiconductor products to smaller companies specializing in narrow markets. In the wearable sports camera market, our primary competitors are vertically integrated divisions of camera device OEMs, including Sony Corporation , or Sony, and Panasonic Corporation, as well as HiSilicon Technologies Co., Ltd. , or HiSilicon, and Socionext Inc. , or Socionext, a new entity created from the merger of the system LSI businesses of Fujitsu Ltd. and Panasonic Corporation. In the IP security camera market, our primary competitors include Geo Semiconductor, Inc., Grain Media, Inc., HiSilicon, Intel Corp oration, or Intel, Movidius Ltd., Qualcomm Incorporated, or Qualcomm, Realt ek Semiconductor Corp., Socionext, and Texas Instruments Incorporated, as well as vertically integrated divisions of IP s ecurity camera device OEMs, including Axis Communications AB and Sony. In the market for automotive aftermarket cameras, we compete against Allwinner Technology Co., Ltd., Alpha Imaging Technology Corp., Core Logic, Inc., Novatek Microelectronics Corp. and Sunplus Technology Co. Ltd. Our primary competitors in the UAV camera market include HiSilicon, Intel, NVIDIA Corporation and Qualcomm. Our primary competitors in the infrastructure market include Intel, Magnum Semiconductor, Inc. and Texas Instruments In corporated. Certain of our customers and suppliers also have divisions that produce products competitive with ours. We expect competition in our current markets to increase in the future as existing competitors improve or expand their product offerings and as potential new competitors, such as Broadcom Corporation, MediaTek, Inc. and Samsung, enter these markets. 
+
+Our ability to compete successfully depends on elements both within and outside of our control, including industry and general economic trends. Many of our competitors are substantially larger, have greater financial, technical, marketing, distribution, customer support and other resources, are more established than we are, and have significantly better brand recognition and broader product offerings which may enable them to develop and enable new technology into product solutions better or faster than us and to better withstand adverse economic or market conditions in the future. 
+
+Our ability to compete successfully in the rapidly evolving HD video market depends on several factors, including: 
+
+&#160;
+
+&#183; 
+
+the design and manufacturing of new solutions that anticipate the video processing and integration needs of our customers&#8217; next-generation products and applications; 
+
+&#160;
+
+&#183; 
+
+performance, as measured by video and still picture image quality, resolution and frame processing rates; 
+
+&#160;
+
+&#183; 
+
+power consumption; 
+
+&#160;
+
+&#183; 
+
+the ease of implementation by customers; 
+
+&#160;
+
+&#183; 
+
+the strength of customer relationships; 
+
+&#160;
+
+&#183; 
+
+the selection of the foundry process technology and architecture tradeoffs to meet customers&#8217; product requirements in a timely manner; 
+
+&#160;
+
+&#183; 
+
+reputation and reliability; 
+
+&#160;
+
+&#183; 
+
+customer support; and 
+
+&#160;
+
+&#183; 
+
+the cost of the total solution. 
+
+We believe we compete favorably with respect to these factors, particularly because our solutions typically provide high-performance and low power consumption video, efficient integration of our advanced algorithms, exceptional storage and transmission efficiencies at lower power, highly integrated SoC solutions based on a scalable platform, and comprehensive and flexible software. We cannot ensure, however, that our solutions will continue to compete favorably or that we will be successful in the face of increasing competition from new products introduced by existing or new competitors. 
+
+Intellectual Property 
+
+We rely on a combination of intellectual property rights, including patents, trade secrets, copyrights and trademarks, and contractual protections, to protect our core technology and intellectual property. As of January 31, 2016, we had 45 issued and allowed patents in the United States plus 28 additional continuation patents, five patents issued in Europe, three issued patents in China, five issued patents in Japan and 57 pending and provisional patent applications in the United States. The issued and allowed patents in the United States expire beginning in 2024 through 2033. Many of our issued patents and pending patent applications relate to image and video processing and HD video compression. 
+
+We may not receive competitive advantages from any rights granted under our patents, and our patent applications may not result in the issuance of any new patents. In addition, any patent we hold may be opposed, contested, circumvented, designed around by a third party or found to be unenforceable or invalidated. Others may develop technologies that are similar or superior to our proprietary technologies, duplicate our proprietary technologies or design around patents owned or licensed by us. 
+
+&#160;
+
+In addition to our own intellectual property, we also use third-party licenses for certain technologies embedded in our SoC solutions. These are typically non-exclusive contracts provided under royalty-accruing or paid-up licenses. These licenses are generally perpetual or automatically renewed for so l ong as we continue to pay any maintenance fees that may be due. To date, maintenance fees have not constituted a significant portion of our capital expenditures. While we do not believe our business is dependent to any significant degree on any individual third-party license, we expect to continue to use and may license additional third-party technology for our solutions. 
+
+We generally control access to and use of our confidential information through employing internal and external controls, including contractual protections with employees, contractors and customers. We rely in part on U.S. and international copyright laws to protect our mask work. All employees and consultants are required to execute confidentiality agreements in connection with their employment and consulting relationships with us. We also require them to agree to disclose and assign to us all inventions conceived or made in connection with the employment or consulting relationship. 
+
+Despite our efforts to protect our intellectual property, unauthorized parties may still copy or otherwise obtain and use our software, technology or other information that we regard as proprietary intellectual property. In addition, we intend to expand our international operations, and effective patent, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries. 
+
+The semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights and positions, which has resulted in protracted and expensive litigation for many companies. Our customers have in the past received, and we expect that in the future we may receive, communications from various industry participants alleging infringement of their patents, trade secrets or other intellectual property rights by our solutions. In addition, certain of our end customers have been the subject of lawsuits alleging infringement of patents by products incorporating our solutions. Any lawsuits could subject us to significant liability for damages, invalidate our proprietary rights and harm our business and our ability to compete. Any litigation, regardless of success or merit, could cause us to incur substantial expenses, reduce our sales and divert the efforts of our technical and management personnel. In the event we receive an adverse result in any litigation, we could be required to pay substantial damages, seek licenses from third parties, which may not be available on reasonable terms or at all, cease sale of products, expend significant resources to develop alternative technology or discontinue the use of processes requiring the relevant technology. 
+
+Employees 
+
+At January 31, 2016, we employed a total of 640 people, including 140 in the United States, 466 in Asia, primarily in China and Taiwan and 34 in Europe. We also engage temporary employees and consultants. None of our employees are either represented by a labor union or subject to a collective bargaining agreement. We have not experienced any work stoppages, and we consider our relations with our employees to be good. 
+
+Information concerning revenue, results of operations, assets and revenue by geographic area is set forth in Item 6, &#8220;Selected Financial Data&#8221; and Note 15, &#8220;Segment Reporting,&#8221; of Notes to Consolidated Financial Statements of this Annual Report on Form 10-K and is incorporated herein by reference. Information concerning risks attendant to our foreign operations is set forth below in Item 1A, &#8220;Risk Factors.&#8221; 
+
+&#160;
+
+&#160;
+
+&#160;
+

@@ -1,0 +1,352 @@
+ ITEM 1. 
+
+&#32;BUSINESS 
+
+Overview 
+
+VMware, Inc. (&#8220;VMware&#8221;) pioneered the development and application of virtualization technologies with x86 server-based computing, separating application software from the underlying hardware. We are a leader in virtualization and cloud infrastructure solutions that enable businesses to transform the way they build, deliver and consume Information Technology (&#8220;IT&#8221;) resources in a manner that is evolutionary and based on their specific needs. The benefits to our customers include lower IT costs and a more automated and resilient systems infrastructure capable of responding dynamically to variable business demands. 
+
+Over the years, we have increased our product offerings beyond compute virtualization to include offerings that allow organizations to manage IT resources across private clouds and complex multi-cloud, multi-device environments by leveraging synergies across these three product groups: 
+
+&#8226; 
+
+SDDC or Software-Defined Data Center 
+
+&#8226; 
+
+Hybrid Cloud Computing 
+
+&#8226; 
+
+End-User Computing 
+
+We were the first company to articulate a vision for the SDDC, where increasingly infrastructure is virtualized and delivered as a service, enabling control of the data center to be entirely automated by software. 
+
+We incorporated in Delaware in 1998, were acquired by EMC in 2004 and conducted our initial public offering of our Class A common stock in August 2007. EMC holds approximately 81.3% &#32;of our outstanding common stock, including 43 million &#32;shares of our Class A common stock as of December 31, 2015, and all of our Class B common stock, and we are considered a &#8220;controlled company&#8221; under the rules of the New York Stock Exchange. On October 12, 2015, Dell Inc. (&#8220;Dell&#8221;), Denali Holding Inc. (&#8220;Denali&#8221;) and EMC entered into a definitive agreement under which Denali has agreed to acquire EMC. Under the terms of the agreement, we will continue to operate as a publicly traded company. Upon closing of the transaction, a portion of the merger consideration that EMC shareholders will receive will include shares of Class V common stock that will be registered with the Securities and Exchange Commission and issued by Denali. Pursuant to the terms of the agreement, it is expected that approximately 0.111 shares of Class V common stock will be issued by Denali for each EMC share. Denali has disclosed that the Class V common stock will be a publicly traded tracking stock that, upon issuance, is intended to track the performance of an approximately 53% economic interest in our business. The closing of the transactions contemplated by the merger agreement is subject to approval of the EMC shareholders as well as various regulatory approvals. 
+
+Total revenues in 2015 &#32;increased 9% &#32;to $6,571 million . This is primarily comprised of license revenues of $2,720 million &#32;and services revenues of $3,927 million . Of our total services revenues in 2015 , 87% &#32;comprised software maintenance revenues and the remaining 13% &#32;was comprised of professional services revenues, including training. Historically, the majority of our license sales have been from VMware vSphere, which is included in our compute product category within our SDDC product group. However, over the last two years, VMware vSphere license sales have declined. As the transformation of the IT industry continues, we expect that our growth will be increasingly derived from sales of our newer products, suites and services solutions across our three product groups. For example, we have experienced continued growth in sales volumes, production use and number of customers who have purchased VMware NSX, our network virtualization solution. In addition, our end-user computing solutions continue to grow driven in part by enterprise mobile management offerings. &#32; For additional financial information on our business by product and geographic area, refer to Note O to the consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K. Our corporate headquarters are located at 3401 Hillview Avenue, Palo Alto, California, and we have 119 offices worldwide. 
+
+Products and Technology 
+
+Software-Defined Data Center 
+
+VMware was the first company to articulate a vision for the SDDC, where increasingly infrastructure is virtualized, enabling management of the data center to be entirely automated by software, from one, unified platform. Traditional data centers are loose collections of technology silos where each application type has its own vertical stack consisting of a CPU and operating system, storage pool, networking and security, and management systems. Over time, costs to maintain the data center infrastructure have been increasing because the data center environment has become divergent, leading to higher complexity. The increased complexity of the data center demands constantly increasing resources to manage and maintain the IT infrastructure. The SDDC is designed to transform the data center into an on-demand service that addresses application requirements by abstracting, pooling and automating the services that are required from the underlying hardware. SDDC promises to dramatically simplify data center operations and lower costs. 
+
+Our SDDC architecture consists of four main product categories: 
+
+&#8226; 
+
+Compute 
+
+&#8226; 
+
+Storage and Availability 
+
+&#8226; 
+
+Network and Security 
+
+&#8226; 
+
+Management and Automation 
+
+Compute 
+
+VMware vSphere (&#8220;vSphere&#8221;), our flagship data center platform, provides the fundamental compute layer for VMware environments. A &#8220;hypervisor&#8221; is a layer of software that resides between the operating system and system hardware to enable compute virtualization. Users deploy the vSphere hypervisor when they purchase vSphere or suite versions that include vSphere, such as VMware vCloud Suites and vSphere with Operations Management (&#8220;vSOM&#8221;). 
+
+Storage and Availability 
+
+We provide many storage and availability products to offer cost-effective holistic data storage and protection options to all applications running on the vSphere platform. These products serve as hyper-converged infrastructure solutions designed to enable customers to deploy a broad range of hardware solutions. Key hyper-converged infrastructure solutions in this area consist of: 
+
+&#8226; 
+
+Virtual SAN- clusters server disks to create radically simple shared storage designed for virtual machines. 
+
+&#8226; 
+
+vSphere Replication- provides cost-efficient and simple way to manage replication. 
+
+&#8226; 
+
+vCenter Site Recovery Manager- leverages vSphere and vSphere Replication to protect applications against site failures and to streamline planned migrations. 
+
+Sales volumes of our Virtual SAN (&#8220;vSAN&#8221;) continued to grow and customer count continued to increase during 2015. Our latest release introduced new data efficiency capabilities for all-flash storage, in addition to new Quality of Service and performance and capacity monitoring capabilities. We expect further growth during 2016 for vSAN. 
+
+Network and Security 
+
+Network virtualization abstracts physical networks and greatly simplifies the provisioning and consumption of networking resources. In addition, security services are built in, do not require purpose-built hardware, and can scale with the network. Our network virtualization solution is VMware NSX (&#8220;NSX&#8221;), which was launched in the third quarter of 2013. Sales volumes of NSX continued to grow during 2015 across three key customer priorities: security, automation, and application continuity. During 2015, VMware customers increasingly moved beyond early deployments and introduced NSX into production environments. While the market for network virtualization continues to be in an early stage, we see future opportunities in this market and expect increased customer deployment in 2016. 
+
+Management and Automation 
+
+Our management and automation products move beyond core compute infrastructure to manage and automate overarching IT processes involved in provisioning IT services and resources to users from initial infrastructure deployment to retirement. These IT processes manage virtualized and non-virtualized infrastructure resources and private and public cloud infrastructures, including hybrid cloud services. Examples of products in the management and automation product portfolio include: 
+
+&#8226; 
+
+vRealize Operations- provides performance, capacity and configuration management for virtual or physical infrastructure. 
+
+&#8226; 
+
+vRealize Automation- enables customers to rapidly deploy and provision cloud services. 
+
+&#8226; 
+
+vRealize Business- provides transparency and control over the costs and quality of IT services. 
+
+Software-Defined Data Center Suites 
+
+Our SDDC products are available separately or may be acquired as part of a suite. The VMware vCloud Suite, vSOM, and VMware vRealize suite are packaged solutions for building and managing a complete cloud infrastructure optimized for use with the vSphere platform. VMware vCloud Suite is designed to fulfill the promise of the software-defined data center by pooling industry-standard hardware and running compute and management functions in the data center as software-defined services. vSOM allows users to optimize capacity and monitor the workload performance of their vSphere environments. The VMware vRealize suite is a cloud management platform that extends vCloud Suite capabilities beyond a vSphere private cloud environment to both heterogeneous and hybrid cloud environments. 
+
+Hybrid Cloud Computing 
+
+&#32;Our cloud strategy has three components: (i) continue to expand beyond compute virtualization in the private cloud, (ii) extend the private cloud into the public cloud, and (iii) connect and secure endpoints across a range of public clouds. Our cloud strategy is designed to provide organizations with solutions that work across all clouds and all devices. 
+
+We enable our customers to utilize off-premise vSphere-based hybrid cloud computing capacity through two offerings: VMware vCloud Air Network Service Providers (&#8220;vCAN&#8221;) and VMware vCloud Air (&#8220;vCloud Air&#8221;). 
+
+Our vCAN program is directed at hosting and cloud computing vendors, enabling organizations to choose between running applications in virtual machines on their own &#8220;private clouds&#8221; inside their data center or on &#8220;public clouds&#8221; hosted by a service provider. 
+
+vCloud Air, built on the foundation of vSphere, is a public cloud operated by us that includes infrastructure and disaster recovery, while providing customers with a common platform to seamlessly extend their data center to the cloud. vCloud Air enables customers to extend the same skills, tools, networking and security models across both on-premise and off-premise environments. We plan to narrow the focus of vCloud Air to provide specialized cloud software and services unique to VMware that are distinct from those offered by other cloud providers. 
+
+End-User Computing (&#8220;EUC&#8221;) 
+
+Our End-User Computing portfolio enables IT organizations to efficiently deliver more secure access to applications, data and devices for their end users. Our solutions provide end users a digital workspace, within which they can deliver any application to any device in an increasingly mobile-cloud era, while supporting corporate IT with appropriate management and security to networks, preventing data loss, and enabling a high-quality of service-on-premises or in the cloud. Our solutions are designed to optimize simplicity and choice to end-users, while providing security and control to corporate IT. 
+
+EUC&#8217;s product portfolio consists of our AirWatch mobile solutions, our Horizon application and desktop virtualization solutions, and a set of common services such as VMware Identity Manager. We have combined these solutions into a single offering, Workspace One, which brings together application and desktop management, mobile management, content collaboration and identity management. This solution provides customers with a complete digital workspace which leverages our software defined datacenter solutions so that customers can extend the value of virtualization from their datacenter to their devices. 
+
+Our Digital Workspace offering (Workspace One) includes: 
+
+&#8226; 
+
+Enterprise Mobility Management and Identity Management 
+
+&#8226; 
+
+Application and Desktop Virtualization 
+
+&#8226; 
+
+Content Collaboration 
+
+Enterprise Mobility Management (&#8220;EMM&#8221;) and Identity Management 
+
+AirWatch, a leader in enterprise mobile management and security, provides a portfolio of solutions for managing mobile devices, applications and content while also securing mobile email, securing browsing across any device, and providing telecom analytics and other key modules. 
+
+Our mobile offerings are sold both as perpetual licenses and as software-as-a-service (&#8220;SaaS&#8221;). AirWatch provides the core foundation to support an increasingly mobile workforce and customer base, enabling customers to take advantage of &#8220;bring your own device&#8221; initiatives. 
+
+VMware Identity Manager is a cloud service incorporated into our Workspace One offering that delivers single sign-on for SaaS, web, cloud and mobile applications, from any device, with conditional access that is integrated with our EMM offering, AirWatch. 
+
+Application and Desktop Virtualization 
+
+Our Application and Desktop Virtualization offering includes: 
+
+&#8226; 
+
+Horizon - &#32;Horizon desktop and application virtualization solutions provide organizations with a streamlined approach to delivering, protecting and managing desktops and applications while containing costs and allowing end users to work anytime, anywhere, across any device. 
+
+&#8226; 
+
+Fusion and Workstation- provide personal desktop virtualization solutions for Macintosh and Windows. 
+
+Cloud-based and local virtual desktops and applications provide our customers with the flexibility to meet the needs of Mac and PC users, contractors and other mobile users who are largely disconnected from the network while enabling security, control and compliance of the corporate applications and data. Our cloud-based and local virtual desktop solutions are VMware Horizon Air and VMware Horizon FLEX, along with our real-time application delivery and lifecycle management solution, App Volumes, which were primarily introduced during 2014. 
+
+Content Collaboration 
+
+AirWatch by VMware&#8217;s Content Locker provides a leading enterprise file sync and share solution that extends Mobile Content Management to secure access of content on any device, desktop or mobile, while allowing the content to be stored in any federated data-store whether on-premise or in the cloud. Our content collaboration solutions also include Socialcast, our enterprise social computing solution that allow users to complement their use of email with rich communication in consumer-grade experiences. 
+
+Technology Alliances 
+
+Consistent with our partner-centric strategy, we have engaged a broad group of hardware, software and cloud computing service vendors to cooperatively advance virtualization technology through joint marketing, product interoperability, collaboration and co-development. We create opportunity for partners by enabling them to build products that utilize our virtualization technology and create differentiated value through joint solutions. 
+
+We have more than 1,200 technology partners with whom we bring joint offerings to the marketplace and over 4,000 active service provider partners. We classify our partners as follows: 
+
+Independent Hardware Vendors (&#8220;IHVs&#8221;) We have established relationships with large system vendors, including Cisco, Dell, Fujitsu, HPE, IBM, Lenovo and NEC for joint certification and co-development. We also work closely with AMD, Intel and other IHVs to provide input on product development to enable them to deliver hardware advancements that benefit virtualization users. We coordinate with the leading storage and networking vendors to ensure joint interoperability and enable our software to access their differentiated functionality. 
+
+Independent Software Vendors (&#8220;ISVs&#8221;) We partner with leading systems management, infrastructure software and application software vendors-including healthcare, telecom, finance and retail market leaders-to deliver value-added products that integrate with our VMware products. 
+
+VMware Service Providers We have established partnerships with over 4,000 active service providers in our vCAN program including CenturyLink, Claranet, Fujitsu, IBM, KPN, Macquarie, Navisite, Nifty, NTT, OVH, RackForce Networks, Rackspace, Tieto, T-Systems and UOL Diveo to enable them to host and deliver enterprise-class hybrid clouds as a way for enterprises to extend their data centers to external clouds, while preserving security, compliance and quality of service. 
+
+Our Technology Alliance Partner program facilitates joint solution creation and coordinated go-to-market activities with our partners. Over 4,500 of the most widely used applications from ISVs support the vSphere platform. These applications include business solutions for enterprise resource planning, human resource management, electronic medical records management, financial processing and middleware, such as application servers and databases. 
+
+Our ISVs and other alliance partners, developers and additional VMware community members have distributed more than 2,900 software applications as virtual appliances. We invest significant capital in testing and certification of infrastructure to rigorously ensure our software works well with major hardware and software products. 
+
+Research and Development 
+
+We have made, and expect to continue to make, significant investments in research and development (&#8220;R&#38;D&#8221;). We have assembled an experienced group of developers with system level, systems management, desktop, mobile devices, security, application development, collaborative applications, networking, storage and open source software expertise. We also have strong ties to leading academic institutions around the world, and we invest in joint research with academia. 
+
+We prioritize our product development efforts through a combination of engineering-driven innovation and customer and market-driven feedback. Our R&#38;D culture places high value on innovation, quality and open collaboration with our partners. We currently participate in numerous standards groups and VMware employees hold a variety of standards organization leadership positions. 
+
+Our R&#38;D expenses totaled $1,300 million , $1,239 million , and $1,082 million &#32;in 2015, 2014 and 2013, respectively. 
+
+Sales and Marketing 
+
+We have a highly leveraged go-to-market strategy that includes a direct sales force that is complementary to our channel. Our sales force works with our channel partners to introduce them to end-user customer accounts and new sales opportunities. 
+
+We have established ongoing business relationships with our distributors. Our distributors purchase software licenses and software support from us for resale to end-user customers via resellers. &#32; These resellers are part of our VMware Partner Network (&#8220;VPN&#8221;), which offers resellers sales and product training, pricing incentives, rebates and access to the worldwide network of VMware distributors and the VMware Partner Central Web portal. In addition, our channel partner network includes certain systems integrators and resellers trained and certified to deliver consulting services and solutions leveraging VMware products. 
+
+We generally do not have long-term contracts or minimum purchase commitments with our distributors, resellers, system vendors and systems integrators, and our contracts with these channel partners do not prohibit them from offering products or services that compete with ours. 
+
+End users can obtain licenses to our products through individual discrete purchases to meet their immediate needs or through the adoption of enterprise agreements (&#8220;EAs&#8221;). EAs are comprehensive volume license offerings that provide for multi-year maintenance and support at discounted prices. EAs enable us to build long-term relationships with our customers as they commit to our virtual infrastructure solutions in their data centers. Our sales cycle can vary greatly depending on numerous factors, including the size and complexity of the proposed offering and customer&#8217;s infrastructure. 
+
+In establishing list prices for our products, we take into account, among other numerous factors, the value our products and solutions deliver and the cost of both alternative virtualization and hardware solutions. 
+
+Our marketing efforts focus on communicating the benefits of our solutions and educating our customers, distributors, resellers, system vendors, systems integrators, the media and analysts about the advantages of our innovative virtualization technology. We raise awareness of our company and brands, market our products and generate sales leads through VMware and industry events, public relations efforts, marketing materials, advertising, direct marketing, social media initiatives, free downloads and our website. We have invested in multiple online communities that enable customers and partners to share and discuss sales and development resources, best practices implementation, and industry trends among other topics. Our annual user conference, VMworld, is held in both the U.S. and Europe. We also offer management presentations, seminars, and webinars on our products of virtualization and cloud computing. We believe the combination of these activities strengthens our brand and enhances our leading market position in our industry. 
+
+During 2015, we also increased joint marketing, sales, branding and product development efforts with EMC and other EMC companies such as Pivotal, VCE and Virtustream, under the EMC Federation brand. 
+
+Our business is subject to seasonality in the sale of our products and services. For example, our fourth quarter revenues are affected by a number of seasonal factors, including fiscal year-end spending trends. Such factors historically have contributed to stronger fourth quarter revenues in any given year. We believe that seasonal factors are common within our industry. 
+
+Customers 
+
+Our customer deployments range in size from a single virtualized server for small businesses to thousands of virtual machines for our largest enterprise customers. 
+
+During 2015, three distributors, who purchased software licenses and software support from us for resale to end-user customers directly or via resellers, each accounted for over 10% of our consolidated revenues. Arrow Electronics, Inc., Tech Data Corporation and Ingram Micro, Inc. accounted for 15% , 12% &#32;and 11% , respectively, of our consolidated revenues in 2015. Our distribution agreements are typically terminable at will by either party upon 30 to 90 days&#8217; prior written notice to the other party, and neither party has any obligation to purchase or sell any products under the agreement. 
+
+Competition 
+
+The virtualization, cloud computing, end-user computing and software-defined data center industries are inter-related and rapidly evolving, and we face intense competition across all the markets for our products and services. We believe that the key factors in our ability to successfully compete include the level of reliability, interoperability and new functionality of our product and service offerings; the ability of our product offerings to support multiple hardware platforms, operating systems, applications frameworks and public cloud platforms; our ability to anticipate customer needs in rapidly evolving markets for IT resources; the pricing of our product and service offerings; the ability to integrate open source technologies that are critical in private and public cloud computing architectures; the ability to attract and retain key employees; and the ability to maintain and expand our ecosystem of technology partners, service providers and sales channel partners. While we believe that we are a technology leader in virtualization and cloud infrastructure solutions and have a strong, favorable image with our customers, many of our current or potential competitors have longer operating histories, greater name recognition, larger customer bases and significantly greater financial, technical, sales, marketing and other resources than we do. 
+
+We face competition from, among others: 
+
+Providers of public cloud infrastructure and SaaS-based offerings. As businesses increasingly utilize public cloud and SaaS-based offerings, they are building more of their new compute workloads off-premises. As a result, the demand for on-premises IT resources is expected to slow, and our products and services will need to increasingly compete for customers' IT workloads with off-premises public cloud and SaaS-based offerings. If we fail to develop products and services that address evolving customer requirements and that complement and or compete with off-premises compute resources offered by competitors, the demand for VMware&#8217;s virtualization products and services may decline, and we could experience lower growth. Additionally, vCloud Air Network offerings from our partners and certain vCloud Air offerings may compete directly with infrastructure-as-a service offerings from various public cloud providers such as Amazon and Microsoft. 
+
+Large, diversified enterprise software and hardware companies. &#32;These competitors supply a wide variety of products and services to, and have well-established relationships with, our current and prospective end users. For example, small to medium sized businesses and companies in emerging markets that are evaluating the adoption of virtualization-based technologies and solutions may be inclined to consider Microsoft solutions because of their existing use of Windows and Office products. Some of these competitors have in the past and may in the future take advantage of their existing relationships to engage in business practices that make our products and services less attractive to our end users. Other competitors have limited or denied support for their applications running in VMware virtualization environments. In addition, these competitors could integrate competitive capabilities into their existing products and services and make them available without additional charge. For example, Oracle provides free server virtualization software intended to support Oracle and non-Oracle applications, and Microsoft offers its own server virtualization software packaged with its Windows Server product and offers built-in virtualization in the client version of Windows. As a result, existing and prospective VMware customers may elect to use products that are perceived to be &#8220;free&#8221; or &#8220;very low cost&#8221; instead of purchasing VMware products and services for certain applications where they do not believe that more advanced and robust capabilities are required. 
+
+Companies offering competing platforms based on open source technologies. &#32;Open source technologies for virtualization, containerization and cloud platforms such as Xen, KVM, Docker, Rocket and OpenStack provide significant pricing competition and enable competing vendors to leverage these open source technologies to compete directly with our SDDC initiative. Enterprises and service providers have shown significant interest in building their own clouds based on open source projects such as OpenStack, and other companies have indicated their intention to expand offerings of virtual management and cloud computing solutions as well. Additionally, a number of enterprise IT hardware vendors have released solutions based on OpenStack including HP, IBM and Cisco. 
+
+Other industry alliances. Many of our competitors have entered into or extended partnerships or other strategic relationships to offer more comprehensive virtualization and cloud computing solutions than they individually had offered. We expect these trends to continue as companies attempt to strengthen or maintain their positions in the evolving virtualization infrastructure and enterprise IT solutions industry. These alliances may result in more compelling product and service offerings than we offer. 
+
+Our partners and members of our developer and technology partner ecosystem. &#32;We face competition from our partners. For example, third parties currently selling our products and services could build and market their own competing products and services or market competing products and services of other vendors. Additionally, as formerly distinct sectors of enterprise IT such as software-based virtualization and hardware-based server, networking and storage solutions converge, we also increasingly compete with companies who are members of our developer and technology partner ecosystem. Consequently, we may find it more difficult to continue to work together productively on other projects, and the advantages we derive from our ecosystem could diminish. 
+
+Intellectual Property 
+
+As of December 31, 2015, approximately 890 patents issued by the United States Patent and Trademark Office have been granted or assigned to us. We also have been granted or assigned patents from other countries. These patents cover various aspects of our server virtualization and other technologies. The granted United States patents expire beginning in 2018, with the latest patent expiring in 2034. We also have numerous pending United States provisional and non-provisional patent applications, and numerous pending foreign and international patent applications, that cover other aspects of our virtualization and other technologies. 
+
+We have federal trademark registrations in the United States for &#8220;VMWARE,&#8221; &#8220;VMWORLD,&#8221; &#8220;VSPHERE,&#8221; &#8220;VMWARE VCLOUD,&#8221; &#8220;VMWARE VIEW,&#8221; &#8220;VMOTION,&#8221; &#8220;HORIZON,&#8221; &#8220;AIRWATCH,&#8221; &#8220;VREALIZE,&#8221; &#8220;VFABRIC,&#8221; &#8220;VCLOUD,&#8221; &#8220;VMWARE NSX&#8221; and numerous other trademarks. We have also registered trademarks in a number of foreign countries. 
+
+We rely on a combination of patent, trademark, copyright and trade secret laws in the United States and other jurisdictions, as well as confidentiality procedures and contractual provisions to protect our intellectual property rights and our brand. 
+
+We enforce our intellectual property rights in the United States and a number of foreign countries. Despite our efforts, the steps we have taken to protect our proprietary rights may not be adequate to preclude misappropriation of our proprietary information or infringement of our intellectual property rights, and our ability to police such misappropriation or infringement is uncertain, particularly in countries outside of the United States. United States patent filings are intended to provide the holder with a right to exclude others from making, using, offering to sell, selling or importing into the United States products covered by the claims of granted patents. 
+
+Our granted United States patents, and any future patents (to the extent they are issued), may be contested, circumvented or invalidated in the future. Moreover, the rights granted under any issued patents may not provide us with proprietary protection or competitive advantages, and we may not be able to prevent third parties from infringing these patents. Therefore, the exact effect of our patents and the other steps we have taken to protect our intellectual property cannot be predicted with certainty. 
+
+Employees 
+
+As of December 31, 2015, we had approximately 19,000 employees in 119 offices worldwide, less than 5% of which were contracted through EMC. None of our employees are represented by labor unions, and we consider current employee relations to be good. 
+
+We contract with EMC to utilize personnel who are dedicated to work for VMware on a full-time basis. These individuals are located in countries in which we do not currently have an operating subsidiary and are predominantly dedicated to our sales and marketing efforts. We use contractors from time to time for temporary assignments and in locations in which we do not currently have operating subsidiaries. In the event that these contractor resources were not available, we do not believe that this would have a material adverse effect on our operations. 
+
+Available Information 
+
+Our website is located at www.vmware.com, and our investor relations website is located at http://ir.vmware.com. Our goal is to maintain the Investor Relations website as a portal through which investors can easily find or navigate to pertinent information about us, all of which is made available free of charge, including: 
+
+&#8226; 
+
+our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after we electronically file that material with or furnish it to the Securities and Exchange Commission (&#8220;SEC&#8221;); 
+
+&#8226; 
+
+announcements of investor conferences, speeches and events at which our executives talk about our products, services and competitive strategies; 
+
+&#8226; 
+
+webcasts of our quarterly earnings calls and links to webcasts of investor conferences at which our executives appear (archives of these events are also available for a limited time); 
+
+&#8226; 
+
+additional information on financial metrics, including reconciliations of non-GAAP financial measures discussed in our presentations to the nearest comparable GAAP measure; 
+
+&#8226; 
+
+press releases on quarterly earnings, product and service announcements, legal developments and international news; 
+
+&#8226; 
+
+corporate governance information including our certificate of incorporation, bylaws, corporate governance guidelines, board committee charters, business conduct guidelines (which constitutes our code of business conduct and ethics) and other governance-related policies; 
+
+&#8226; 
+
+other news, blogs and announcements that we may post from time to time that investors might find useful or interesting; and 
+
+&#8226; 
+
+opportunities to sign up for email alerts and RSS feeds to have information pushed in real time. 
+
+The information found on our website is not part of, and is not incorporated by reference into, this or any other report we file with, or furnish to, the SEC. 
+
+EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+The names of our executive officers and their ages as of February 19, 2016 , are as follows: 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position(s) 
+
+Patrick P. Gelsinger 
+
+&#160; 
+
+&#160; 
+
+Chief Executive Officer and Director 
+
+Carl M. Eschenbach 
+
+&#160; 
+
+&#160; 
+
+President and Chief Operating Officer 
+
+Jonathan C. Chadwick 
+
+&#160; 
+
+&#160; 
+
+Chief Financial Officer, Chief Operating Officer and Executive Vice President 
+
+Sanjay Poonen 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and General Manager, End-User Computing 
+
+Rangarajan (Raghu) Raghuram 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Software-Defined Data Center Division 
+
+S. Dawn Smith 
+
+&#160; 
+
+&#160; 
+
+Senior Vice President, Chief Legal Officer, Chief Compliance Officer and Secretary 
+
+Patrick P. Gelsinger &#32;has been the Chief Executive Officer and a Director of VMware since September 1, 2012. Prior to joining VMware, he served as President and Chief Operating Officer, EMC Information Infrastructure Products at EMC, VMware&#8217;s parent company and controlling stockholder, from September 2009 to August 2012. Mr. Gelsinger joined EMC from Intel Corporation, a designer and manufacturer of advanced integrated digital technology platforms, where he was Senior Vice President and Co-General Manager of Intel Corporation&#8217;s Digital Enterprise Group from 2005 to September 2009 and served as 
+
+Intel&#8217;s Senior Vice President, Chief Technology Officer from 2002 to 2005. Prior to this, Mr. Gelsinger led Intel&#8217;s Desktop Products Group. 
+
+Carl M. Eschenbach &#32;has served as President and Chief Operating Officer of VMware since December 2012. He had previously been appointed Co-President and Chief Operating Officer in April 2012. Mr. Eschenbach had previously served as VMware&#8217;s Co-President, Customer Operations from January 2011 to April 2012 and as VMware&#8217;s Executive Vice President of Worldwide Field Operations from May 2005 to January 2011. Prior to joining VMware in 2002, he was Vice President of North America Sales at Inktomi from 2000 to 2002. He also held various sales management positions with 3Com Corporation, Lucent Technologies Inc. and EMC. Mr. Eschenbach currently serves on the board of Palo Alto Networks. 
+
+Jonathan C. Chadwick has served as VMware&#8217;s Chief Financial Officer, Chief Operating Officer and Executive Vice President since August 2014. Mr. Chadwick joined VMware as its Chief Financial Officer and Executive Vice President on November 2012. Previously, Mr. Chadwick had been Chief Financial Officer of Skype, a provider of Internet-based voice communication, since March 2011, and a Corporate Vice President of Microsoft Corporation since its acquisition of Skype in October 2011. Mr. Chadwick joined Skype from McAfee, an antivirus software and computer security company, where he was the Executive Vice President and Chief Financial Officer from June 2010 until February 2011, when McAfee was acquired by Intel Corporation. From 1997 to 2010, Mr. Chadwick held various finance roles at Cisco Systems, a networking equipment company. At Cisco, Mr. Chadwick served as Senior Vice President, CFO - Global Customer Markets from July 2009 to June 2010, Senior Vice President, Corporate Controller and Principal Accounting Officer from June 2007 until July 2009, Vice President, Corporate Controller and Principal Accounting Officer from September 2006 to June 2007 and Vice President, Corporate Finance &#38; Planning from February 2001 to September 2006. Mr. Chadwick currently serves on the board of F5 Networks, Inc. On January 20, 2016, Mr. Chadwick resigned from his position as VMware's Chief Financial Officer, Chief Operating Officer and Executive Vice President, effective as of March 1, 2016. Mr. Chadwick will stay with VMware in a transitional role until April 1, 2016. 
+
+Sanjay Poonen has served as VMware&#8217;s Executive Vice President and General Manager, End-User Computing since August 2013. Prior to joining VMware, he spent more than seven years at SAP AG, serving as President and Corporate Officer of Platform Solutions and the Mobile Division from April 2012 until July 2013, prior to that as President of Global Solutions from November 2010 to March 2012, as Executive Vice President of Performance Optimization Apps from June 2008 to September 2009 and Senior Vice President of Analytics from April 2006 to May 2008. Mr. Poonen&#8217;s over 20 years of technology industry experience also included executive-level positions with Symantec and Veritas, and product management and engineering positions with Alphablox, Apple, Inc. and Microsoft Corporation. 
+
+Rangarajan (Raghu) Raghuram has served as VMware&#8217;s Executive Vice President, Software-Define Data Center Division since April 2012. Mr. Raghuram joined VMware in 2003 and has held multiple product management and marketing roles. Mr. Raghuram served as Senior Vice President and General Manager, Cloud Infrastructure and Management, Virtualization and Cloud Platforms, and Enterprise Products, from December 2009 through March 2012. Mr. Raghuram previously served as Vice President of VMware&#8217;s Server Business Unit and of Product and Solutions Marketing from September 2003 through December 2009. Prior to VMware, Mr. Raghuram held product management and marketing roles at Netscape and Bang Networks. 
+
+S. Dawn Smith &#32;has served as VMware&#8217;s Senior Vice President, Chief Legal Officer, Chief Compliance Officer and Secretary at VMware since December 2015. She joined VMware as Senior Vice President, General Counsel and Secretary in September 2009 and she was also appointed as Chief Compliance Officer in August 2010. Prior to joining VMware, Ms. Smith was a partner at Morrison &#38; Foerster LLP, a law firm. Prior to joining Morrison &#38; Foerster LLP, she was an attorney at Wilson Sonsini Goodrich &#38; Rosati P.C. 
+
+On January 26, 2016, we announced the appointment of Zane Rowe, age 45, to serve as VMware's Chief Financial Officer and Executive Vice President, effective March 1, 2016. Mr. Rowe is currently Executive Vice President and Chief Financial Officer of EMC and has served in that position since October 2014. Prior to joining EMC, Mr. Rowe was Vice President of North American Sales of Apple Inc., a technology company that designs, develops, and sells consumer electronics, computer software, online services, and personal computers, from May 2012 until May 2014. He was Executive Vice President and Chief Financial Officer of United Continental Holdings, Inc., an airline holdings company, from October 2010 until April 2012 and was Executive Vice President and Chief Financial Officer of Continental Airlines from August 2008 to September 2010. Mr. Rowe joined Continental in 1993. 
+

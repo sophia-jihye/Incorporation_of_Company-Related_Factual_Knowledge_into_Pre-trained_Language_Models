@@ -1,0 +1,328 @@
+ Item 1. Business 
+
+&#160; 
+
+Overview 
+
+&#160; 
+
+We design, manufacture and sell a wide variety of high-performance, logic &#8209;based memory subsystems for the global datacenter, data storage and high &#8209;performance computing markets. Our memory subsystems consist of combinations of dynamic random access memory integrated circuits (&#8220;DRAM ICs&#8221; or &#8220;DRAM&#8221;), NAND flash memory (&#8220;NAND flash&#8221;), application &#8209;specific integrated circuits (&#8220;ASICs&#8221;) and other components assembled on printed circuit boards (&#8220;PCBs&#8221;). We primarily market and sell our products to leading original equipment manufacturer (&#8220;OEM&#8221;) customers, hyperscale datacenter operators and data storage vendors. Our solutions are targeted at applications where memory plays a key role in meeting system performance requirements. We leverage a portfolio of proprietary technologies and design techniques, including combining discrete semiconductor technologies from third parties such as DRAM and NAND flash to function as one efficient planar design, and alternative packaging techniques to deliver memory subsystems with persistence, high density, small form factor, high signal integrity, attractive thermal characteristics, reduced power consumption and low cost per bit. Our NVvault&#8482; product is the first to offer both DRAM and NAND flash in a standard form factor memory subsystem as a persistent dual &#8209;in line memory module (&#8220;DIMM&#8221;) in mission critical applications. Our HyperCloud &#174; technology incorporates our patented rank multiplication and load reduction technologies. We also have pending and issued patents covering fundamental aspects of hybrid memory DIMM designs that incorporate combinations of DRAM and/or NAND flash, such as our NVvault&#8482; product. We are focused on monetizing our patent portfolio through our products business and, where appropriate, through licensing arrangements with third parties that wish to incorporate our patented technologies in their products. 
+
+&#160; 
+
+&#160;
+
+Intellectual Property Rights and Enforcement 
+
+&#160; 
+
+Our high-performance memory subsystems are developed in part using our proprietary technologies, and we believe that the strength of our intellectual property rights will be important to the success of our business. We utilize patent and trade secret protection, confidentiality agreements with customers and partners, disclosure and invention assignment agreements with employees and consultants and other contractual provisions to protect our intellectual property and other proprietary information. As of January 2, 2016, we had 60 U.S. and foreign patents issued and 33 U.S. and foreign patent applications pending. Assuming that they are properly maintained, our patents will expire at various dates between 2022 and 2030. Our issued patents and patent applications relate to the use of custom logic in high-performance memory subsystems, PCB design, layout and packaging techniques. We intend to actively pursue the filing of additional patent applications related to our technology advancements in order to expand and strengthen our portfolio. Our patents cover different aspects of our technology innovations and various claim scopes and, as such, we believe that our business is not materially dependent upon any one claim in any of our existing patents or pending patent applications. 
+
+&#160; 
+
+We intend to vigorously defend our patent and other intellectual property rights, including, when necessary, pursuit of enforcement actions against entities we believe are using our patented solutions in their products. We may seek injunctive relief in the course of enforcing our intellectual property rights in certain instances, and in other instances we may enter into settlement or license agreements. We dedicate substantial resources to protecting our intellectual property, including efforts to defend our patents against challenges made by way of reexamination and review proceedings at the U.S. Patent and Trademark Office (&#8220;USPTO&#8221;) and Patent Trial and Appeal Board (&#8220;PTAB&#8221;). These activities are likely to continue for the foreseeable future, without any guarantee that any ongoing or future patent protection and litigation activities will be successful. We also are subject to litigation based on claims that we have infringed on the intellectual property of others, against which we intend to defend ourselves vigorously. 
+
+&#160; 
+
+Licensing and Joint Development Partnerships 
+
+&#160; 
+
+We intend to seek opportunities to monetize our intellectual property rights through joint development or licensing arrangements, such as our November 2015 Joint Development and License Agreement (&#8220;JDLA&#8221;) with Samsung Electronics Co., Ltd. (&#8220;Samsung&#8221;), pursuant to which, among other things, we and Samsung will work together to jointly develop a standardized product interface for NVDIMM-P memory modules in order to facilitate broad industry adoption of this new technology, we and Samsung have cross-licensed our respective patent portfolios for this purpose, and we may enter into an additional agreement with Samsung in the future to grant Samsung a commercial license to our NVDIMM-P technology. Commercial licensing arrangements, whether arising from partnerships such as the JDLA with Samsung or from patent infringement enforcement actions, can be structured in a variety of ways, including one-time paid up license fees or ongoing royalty arrangements. We aim to generate a portion of our revenues with these types of licensing arrangements in the future, but our efforts to monetize our intellectual property rights and technologies may not be successful. 
+
+&#160; 
+
+Our Products 
+
+&#160; 
+
+Our technical expertise and our ability to introduce new or enhanced products that achieve customer or market acceptance in a timely manner has been and we believe will continue to be important factors in developing and maintaining our competitive position. Below are descriptions of our commercially available products and new products that have been publicly announced. 
+
+&#160; 
+
+NVvault&#8482; Family 
+
+&#160; 
+
+We were the first to develop and market memory subsystems that incorporate both DRAM and NAND flash in a single NVvault&#8482; persistent DIMM solution. NVvault&#8482; was originally used for mission critical backups during power interruption in Redundant Array of Independent Disks (&#8220;RAID&#8221;) and main memory. NVvault&#8482; has evolved beyond its original application to a variety of other applications, including hyperscale computing for cloud, big data, on-line banking and other real time applications where NVvault&#8482; is also used as a data accelerator. We are working to further enhance the capabilities of our NVvault&#8482; technology in these new applications, and we are also seeking to expand our 
+
+&#160;
+
+customer base through the integration of NVvault&#8482; into leading storage motherboards. NVvault&#8482; is incorporated in our EXPRESSvault&#8482; PCIe solution for both acceleration and backup in storage applications. Our NVvault&#8482; product line consists primarily of battery-free and battery-powered flash backed cache memory subsystems targeting RAID storage, application acceleration and mission critical data integrity. NVvault&#8482; battery-free provides server and storage OEMs a solution for enhanced datacenter fault recovery. We have experienced a steady decline in NVvault sales in recent years, due in large part to our loss of our most significant NVvault customer, Dell, beginning in 2012. We have also experienced supply chain disruptions with respect to the components of our NVvault products, which has contributed to the decrease in sales of these products. There were no sales of NVvault&#8482; products to Dell in the years ended January 2, 2016 and December 27, 2014, and we expect no future demand from Dell for our NVvault&#8482; products. We continue to pursue qualifications with other potential significant customers for these products and we are working to remedy our ongoing supply chain disruptions, however, our efforts to expand our qualifications and manage our supply chain may not result in significant revenues from the sale of the NVvault&#8482; family of products. 
+
+&#160; 
+
+HyperVault, a future product that combines DRAM and NAND flash, is still under development and may require substantial additional investment and the services and attention of key employees who have competing demands on their available time. We believe that our JDLA will advance the development of this product and that Samsung will prove to be an important strategic partner that can facilitate getting this technology to market. 
+
+&#160; 
+
+For the years ended January 2, 2016 and December 27, 2014, our NVvault&#8482; non-volatile RDIMM used in cache-protection and data logging applications, including our NVvault&#8482; battery-free, the flash-based cache system, accounted for approximately 20 % and 44 % of total net product sales, respectively. 
+
+&#160; 
+
+HyperCloud &#174; 
+
+&#160; 
+
+Our HyperCloud &#174; product incorporates our patented rank multiplication technology, which increases memory capacity, and our patented load reduction technology, which increases memory bandwidth. We expect that these patented technologies will make possible improved levels of performance for memory intensive datacenter applications and workloads, including enterprise virtualization, cloud computing infrastructure, business intelligence real- time data analytics, and high-performance computing . 
+
+&#160; 
+
+Specialty Memory Modules and Flash-Based Products 
+
+&#160; 
+
+The remainder of our product revenues is primarily from OEM sales of specialty memory modules and flash-based products, the majority of which are utilized in data center and industrial applications. When developing custom modules for an equipment product launch, we engage with our OEM customers from the earliest stages of new product definition, providing us unique insight into their full range of system architecture and performance requirements. This close collaboration has also allowed us to develop a significant level of systems expertise. We leverage a portfolio of proprietary technologies and design techniques, including efficient planar design, alternative packaging techniques and custom semiconductor logic, to deliver memory subsystems with persistence, high density, small form factor, high signal integrity, attractive thermal characteristics, reduced power consumption and low cost per bit. Revenues from our specialty modules and flash-based products are subject to fluctuation as a result of the life cycles of the products into which our modules are incorporated. Our ability to continue to generate revenues from specialty memory modules and flash-based products is dependent on our ability to qualify our products on new platforms as current platforms reach the end of their lifecycles, and on the state of the global economy. &#160; 
+
+&#160; 
+
+Technology 
+
+&#160; 
+
+We have a portfolio of proprietary technologies and design techniques and have assembled an engineering team with expertise in semiconductors, printed circuit boards, memory subsystem and system design. Our technology competencies include: 
+
+&#160; 
+
+&#160;
+
+IC Design Expertise. 
+
+We have designed special algorithms that can be implemented in stand-alone integrated circuits or integrated into other functional blocks in ASICs. We utilize these algorithms in the HyperCloud &#174; chipset to incorporate rank multiplication and load reduction functionality. We also incorporate these algorithms in our NVvault&#8482; product line of RDIMMS. 
+
+&#160; 
+
+NVvault&#8482;. 
+
+&#160; 
+
+NVvault is a memory subsystem that incorporates both DRAM and NAND flash in a single persistent DIMM solution. NVvault&#8482; combines the best attributes of DRAM, including speed, durability and reliability, with high densities, lower power and lowest costs provided by NAND flash. This combination enables us to provide application acceleration and mission critical backup during power interruption for cloud infrastructure, virtualization, analytics and database applications. NVvault&#8482; is incorporated in our EXPRESSvault&#8482; PCIe solution for both acceleration and backup in storage applications. 
+
+&#160; 
+
+Proprietary PCB Designs. 
+
+&#160; 
+
+We utilize advanced techniques to optimize electronic signal strength and integrity within a PCB. These techniques include the use of 8-layer or 10-layer boards, matching conductive trace lengths, a minimized number of conductive connectors, or vias, and precise load balancing to, among other benefits, help reduce noise and crosstalk between adjacent traces. In addition, our proprietary designs for the precise placement of intra-substrate components allow us to assemble memory subsystems with significantly smaller physical size, enabling OEMs to develop products with smaller footprints for their customers. 
+
+&#160; 
+
+Very Low Profile Designs. 
+
+&#160; 
+
+We were the first company to create memory subsystems in a form factor of less than one inch in height. We believe our proprietary board design technology is particularly useful in the blade server market, where efficient use of motherboard space is critical. Our technology has allowed us to decrease the system board space required for memory, and improve thermal performance and operating speeds, by enabling our customers to use alternative methods of component layout. 
+
+&#160; 
+
+Thermal Management Designs. 
+
+&#160; 
+
+We design our memory subsystems to ensure effective heat dissipation. We use thermal cameras to obtain thermal profiles of the memory subsystem during the design phase, allowing us to rearrange components to enhance thermal characteristics and, if necessary, replace components that do not meet specifications. We also develop and use proprietary heat spreaders to enhance the thermal management characteristics of our memory subsystems. 
+
+&#160; 
+
+Customers 
+
+&#160; 
+
+During our 2015 fiscal year we primarily marketed and sold our products to leading OEMs in the server, data storage and communications markets. Consistent with the concentrated nature of the OEM customer base in our target markets, a small number of large customers have historically accounted for a significant portion of our net sales. Net product sales to our two largest customers, Dell and Singh Semiconductors and Systems, represented approximately 27% and 10% of our net product sales in 2015, respectively. Dell, IBM and Nimble Storage, Inc. represented approximately 20%, 14% and 19% of our net product sales in 2014, respectively. For further information regarding our sales to our OEM customer base, please refer to Note 10 to our consolidated financial statements included in Part II, Item 8 of this report. 
+
+&#160; 
+
+The composition of major customers and their respective contributions to our net sales have varied and will likely continue to vary from period to period as our OEMs progress through the life cycle of the products they produce and sell. 
+
+&#160; 
+
+&#160;
+
+Our sales are made primarily pursuant to standard purchase orders that may be rescheduled on relatively short notice, which reduces our backlog of firm orders and our ability to accurately estimate future customer requirements for our products. Customers are generally allowed limited rights of return for up to 30 days, except for sales of excess inventories, which contain no right-of-return privileges. Estimated returns are provided for at the time of sale based on historical experience or specific identification of an event necessitating a reserve. While these returns have historically been within our expectations and the provisions established, we cannot guarantee that we will continue to experience similar return rates in the future. Any significant increase in product failure rates and the resulting product returns could have a material adverse effect on our operating results for the period or periods in which such returns materialize. 
+
+&#160; 
+
+We offer warranties on our memory subsystems generally ranging from one to three years, depending on the product and negotiated terms of purchase agreements with our customers. Such warranties require us to repair or replace defective product returned to us during such warranty period at no cost to the customer. Our estimates for warranty related costs are recorded at the time of sale based on historical and estimated future product return rates and expected repair or replacement costs. While such costs have historically been within our expectations and the provisions established, unexpected changes in failure rates could have a material adverse impact on us, requiring additional warranty reserves, and adversely affecting our gross profit and gross margins. 
+
+&#160; 
+
+For additional information regarding our net product sales from external customers by geographic area, refer to Note 11 to our consolidated financial statements included in Part II, Item 8 of this report. 
+
+&#160; 
+
+Sales and Marketing 
+
+&#160; 
+
+We market and sell our products through a direct sales force and a network of independent sales representatives. Our sales activities focus primarily on developing strong relationships at the technical, marketing and executive management levels within market-leading OEMs. 
+
+&#160; 
+
+We utilize well-trained, highly technical program management teams to successfully drive new product development and quickly respond to our customers' needs and expectations. Our program management teams provide quick response times and act as a single point-of-contact for routine issues during the sales process. Additionally, they address the long-term business and technology goals of our customers. We employ a team approach to business development whereby our sales team and independent representatives identify, qualify and prioritize customer prospects through offices in a number of locations worldwide. 
+
+&#160; 
+
+Manufacturing 
+
+&#160; 
+
+We manufacture substantially all of our products at our facility in Suzhou in the People&#8217;s Republic of China (the &#8220;PRC&#8221;). Our advanced engineering and design capabilities, combined with our in-house manufacturing processes, allow us to assemble our memory subsystems reliably and in high volume. Our advanced, customized manufacturing facilities are capable of surface mount assembly, subsystem testing, system &#8209;level burn-in testing, programming, marking, labeling and packaging. At each stage of the production cycle, including product prototyping, qualification sample production and high-volume manufacturing and delivery, we focus on providing our customers with rapid response and short manufacturing turn-around times. Manufacturing cycle times for our products are typically one week or less, and in some cases as short as two days, from receipt of order. 
+
+&#160; 
+
+We acquire components and materials such as ASICs, DRAM ICs and NAND flash directly from integrated circuit manufacturers and assemble them into finished subsystems. We believe that one of our key strengths is the efficient procurement and management of components for our subsystems, which benefits our customers in the form of lower costs and increased product availability. We have a limited number of suppliers, including Arrow Electronics and Barun Electronics, Inc. each of which comprised more than 10% of our total purchases in 2015 and Arrow Electronics comprised more than 10% of our total purchases in 2014. Further, our JDLA with Samsung contractually commits Samsung to supply NAND flash and DRAM products to us on our request at competitive prices. For further information regarding our supplier concentrations, refer to Note 10 to our consolidated financial statements included in Part II, Item 8 of this report. We have developed strong supplier relationships with these and other key DRAM IC and NAND flash manufacturers, which we believe gives us direct and ready access to the critical components that we need for our 
+
+&#160;
+
+production activities. We typically qualify our products with our customers using multiple manufacturers of DRAM ICs and NAND flash. The flexibility to choose from several DRAM IC and NAND flash providers allows us to minimize product cost and maximize product availability. We schedule production based on purchase order commitments and anticipated orders. We release raw materials to the manufacturing floor by means of an on-line shop floor control system, which allows for internal quality analysis, direct access to inventory information and production floor material tracking. We have a flexible manufacturing workforce which allows us to manage unforecasted demand. In addition, in order to mitigate inventory risks, we have the capability to sell excess quantities of certain component inventories of DRAM ICs and NAND flash to distributors and other users of memory integrated circuits. 
+
+&#160; 
+
+Our quality assurance engineers work with our suppliers to ensure that the raw materials we receive meet our high quality standards. These engineers also perform onsite supplier factory audits and use our internal test and inspection systems to verify that purchased components and materials meet our specifications. Our supplier quality program and incoming material quality control program are important aspects of our overall manufacturing process. 
+
+&#160; 
+
+We perform ongoing reliability testing on our memory subsystems and share the results of that testing with our customers. We believe that this improves the system design process and allows for the elimination of potential problems at the earliest possible stage. In addition, we have implemented procedures which require that all of our memory subsystems undergo functional and system burn-in testing prior to delivery to the customer. We complement our test capabilities with advanced imaging technology to inspect the quality of our assemblies. 
+
+&#160; 
+
+We are certified in International Organization for Standardization (&#8220;ISO&#8221;) 9001:2008 Quality Management Systems and ISO 14001:2004 Environmental Management Standards. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+Our products are primarily targeted for the server, high -performance computing and communications markets. These markets are intensely competitive, as numerous companies vie for business opportunities at a limited number of large OEMs. We face competition from DRAM suppliers, memory module providers and logic suppliers for many of our products, including NVvault and HyperCloud &#174; . Additionally, if and to the extent we enter new markets or pursue licensing arrangements to monetize our technologies and intellectual property portfolio , we may face competition from a large number of competitors that produce solutions utilizing similar or competing technologies. 
+
+&#160; 
+
+Some of our customers and suppliers may have proprietary products or technologies that are competitive with our products, or could develop internal solutions or enter into strategic relationships with, or acquire, existing high-density memory module providers. Any of these actions could reduce our customers&#8217; demand for our products. Some of our significant suppliers of memory integrated circuits may be able to manufacture competitive products at lower costs by leveraging internal efficiencies, or could choose to reduce our supply of memory integrated circuits, adversely affecting our ability to manufacture our memory subsystems on a timely basis, if at all. 
+
+&#160; 
+
+Certain of our competitors have substantially greater financial, technical, marketing, distribution and other resources, broader product lines, lower cost structures, greater brand recognition and longer standing relationships with customers and suppliers. Some of our competitors may also have a greater ability to influence industry standards than we do, as well as more extensive patent portfolios. 
+
+&#160; 
+
+We expect our competitors to continue to improve the performance of their current products, reduce their prices and introduce new or enhanced technologies that may offer greater performance and improved pricing. If we are unable to match or exceed the improvements made by our competitors, our market position would deteriorate and our net sales would decline. In addition, our competitors may develop future generations and enhancements of competitive products that may render our technologies obsolete or uncompetitive. Our ability to compete in our current target markets and in future markets will depend in large part on our ability to successfully develop, introduce and sell new and enhanced products or technologies on a timely and cost-effective basis and to respond to changing market requirements. We 
+
+&#160;
+
+believe that the principal competitive factors in the selection of high - performance memory subsystems by potential customers are: 
+
+&#160; 
+
+&#183; 
+
+understanding of OEM system and business requirements; 
+
+&#160; 
+
+&#183; 
+
+timeliness of new value-add product introductions; 
+
+&#160; 
+
+&#183; 
+
+development of advanced technologies that we could license to third parties before our competitors; 
+
+&#160; 
+
+&#183; 
+
+design characteristics and performance; 
+
+&#160; 
+
+&#183; 
+
+quality and reliability; 
+
+&#160; 
+
+&#183; 
+
+track record of volume delivery; 
+
+&#160; 
+
+&#183; 
+
+credibility with the customer; 
+
+&#160; 
+
+&#183; 
+
+fulfillment capability and flexibility; and 
+
+&#160; 
+
+&#183; 
+
+price. 
+
+&#160; 
+
+We believe that we compete favorably with respect to these factors. However, our current and future competitors could develop competing products that could cause a decline in sales or loss of market acceptance of our products or technologies. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+The market for high-performance memory subsystems is constantly changing and therefore continuous development of new technology, processes and product innovation is necessary in order to be successful as a leading supplier. We believe that the continued and timely development of new products and improvement of existing products are critical to maintaining our competitive position. Our team of engineers focuses on developing custom semiconductor logic devices, hybrid memory, DRAM and NAND flash products with innovative packaging solutions, improved electrical signal integrity and thermal characteristics that enhances reliability over the life of the system and achieves higher speeds and lowers power consumption. Also, our engineers incorporate various new techniques and methodologies for testing as well as new processes for manufacturing our products. 
+
+&#160; 
+
+Our engineering staff closely engages with our customers and their engineering teams at early stages in their system development. This collaboration allows our engineers to understand the customer&#8217;s system architecture, power budget, operating environment such as air flow and operating temperature and any mechanical constraints. Our engineers use this information to provide guidance and solutions to implement optimum memory subsystems to our customers. An important aspect of our research and development effort is to understand the challenges faced by our customers and provide cost effective solutions that satisfy their requirements by utilizing our industry knowledge, proprietary technologies and technical expertise. 
+
+&#160; 
+
+We use advanced design tools in development of our products that allow us to model behavior of a signal trace on our memory modules as well as airflow and thermal profiles of all components in the system. These design tools enable real-time simulation for signal integrity and behavioral modeling of our designs using the Input/Output Buffer Information Specification and Simulation Program with Integrated Circuit Emphasis models of our suppliers&#8217; components. These simulation tools help us reduce or eliminate electronic signal reflections, clock skews, signal jitter and noise, which can reduce system performance and reliability. These efforts allow our engineers to develop optimum thermal solutions for our customer base. 
+
+&#160; 
+
+We believe that to remain competitive we must continue to focus on developing advanced memory technologies. We have invested significant resources in the design of custom semiconductor logic devices. These logic 
+
+&#160;
+
+devices are integrated into our next-generation memory subsystems in order to improve their performance. Logic devices in our NVvault&#8482; and EXPRESSVault&#8482; hybrid memory products enable DRAM and flash memory to be efficiently combined for the purposes of accelerating system performance and providing mission critical back-up. The development of these semiconductor devices is an important part of our overall effort to maintain a strong competitive position in our industry based on advanced memory technologies. 
+
+&#160; 
+
+&#160; 
+
+Our customers typically do not separately compensate us for design and engineering work involved in developing application &#8209;specific products for them. Our total expenditures for research and development were approximately $6.0 million and $4.6 million for 2015 and 2014, respectively. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+At January 2, 2016, we had approximately 110 employees (including 87 regular employees and 23 temporary employees). Approximately 45 of the regular employees were located in the U.S., and approximately 42 were located in the PRC. We had 63 employees in operations, 28 employees in research and development, 12 employees in sales and marketing, and 7 employees engaged in other administrative functions. We are not party to any collective bargaining agreements with any of our employees. We have never experienced a work stoppage, and we believe our employee relations are good. 
+
+&#160; 
+
+Compliance with Environmental Laws 
+
+&#160; 
+
+We are subject to various and frequently changing U.S. federal, state and local and foreign governmental laws and regulations relating to the protection of the environment, including those governing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the cleanup of contaminated sites and the maintenance of a safe workplace. In particular, some of our manufacturing processes may require us to handle and dispose of hazardous materials from time to time. For example, in the past our manufacturing operations have used lead-based solder in the assembly of our products. Today, we use lead-free soldering technologies in our manufacturing processes, as this is required for products entering the European Union. We could incur substantial costs, including clean-up costs, civil or criminal fines or sanctions and third-party claims for property damage or personal injury as a result of violations of, or noncompliance with, environmental laws and regulations. Although we have not incurred significant costs to date to comply with these laws and regulations, new laws or changes to current laws and regulations to make them more stringent could require us to incur significant costs to remain in compliance. 
+
+&#160; 
+
+General Information 
+
+&#160; 
+
+We were incorporated in Delaware in June 2000 and commenced operations in September 2000. Our principal executive offices are located at 175 Technology Drive, Suite 150, Irvine, California 92618 and our telephone number at that address is (949) 435-0025. We maintain a website at www.netlist.com (this reference to our website is an inactive textual reference only and is not intended to incorporate our website into this report). We file reports with the Securities and Exchange Commission (&#8220;SEC&#8221;) and make available, free of charge, on or through our website, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Our website also contains copies of our corporate governance policy, code of business conduct and ethics, insider trading policy and whistleblower policy, as well as copies of the charters for our audit committee, compensation committee and nominating and corporate governance committee. 
+
+&#160; 
+

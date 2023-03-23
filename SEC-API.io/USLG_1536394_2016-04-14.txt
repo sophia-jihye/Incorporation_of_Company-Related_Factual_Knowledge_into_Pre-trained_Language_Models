@@ -1,0 +1,262 @@
+ Item 1. DESCRIPTION OF THE BUSINESS 
+
+&#160;
+
+THE COMPANY &#8211; WHO WE ARE; MISSION STATEMENT 
+
+&#160; 
+
+We are a Florida corporation and were formed on October 17, 2003. Our mission is to develop, market and distribute a hotel booking engine software that interfaces and captures various rate channels and inventory controls for hotel reservations. The system allows users to market, manage and sell hotel reservations, and to produce invoices, track follow up and manage customer relationships.
+
+&#160;
+
+Our primary business objective is to increase the profitability of the sale and/or re-sale of hotel room reservations through proprietary software. By leveraging the attractiveness of the software, the system will be licensed to others such as travel agents, meeting planners and convention and visitors bureaus.
+
+&#160;
+
+SUMMARY 
+
+&#160; 
+
+Luxurious Travel specializes in the development of a booking platform that enables the sales and marketing of hotels and intends to build the ability to offer other travel supplier types such as airlines, car rentals and cruises. 
+
+&#160;
+
+The company&#8217;s business activities to date have been focused on the successful management of hotel reservations for client events that once consumed and paid for by guests are commissionable to the company. The company strategy thus far has been to test and develop the booking platform for client events such as Tradeshows, Conferences, Conventions and corporate group travel and in turn solicit client and hotel feedback to improve the booking platform. However, the booking platform will be monetized in the future by making it available through leases to other entities such as travel agents, meeting planners, convention and visitors bureaus, or even companies to use however they see fit for their business model. At that point the primary source of revenue will shift from commissions on managed hotel inventory to the licensing fees of the platform for use by other entities.
+
+&#160;
+
+The booking platform works by consolidating inventory channels onto a single platform. In other words, rates and available inventory are added to the system either manually or automatically through any number of sources. Sources include hotels manually adding rates and inventory, or via connections to channels providing real-time rates and availability. Currently three (3) major channels of inventory are included; however future development will significantly increase the number of sources and include real time searches for best available pricing.
+
+&#160;
+
+Thus far the system has generated revenues for the company by generating commissionable hotel reservations for client events. Typical clients are tradeshow organizers, association groups, and some corporate accounts. Typical users include the exhibitors and attendees of tradeshows, the members of client associations and the employees and affiliates of corporate accounts. In the future the typical client users of the platform will be travel agents, meeting planners, convention and visitors bureaus and corporations. Their clients and/or employees will be the typical users of the system from a front-end perspective.
+
+&#160;
+
+We believe that the company embodies an exciting concept for combining reliability, broad channel sourcing and convenient multi-platform access to rates and packages through its booking platform. Given the nearly unlimited number of online sources for rates and inventory, the goal of the company&#8217;s platform is to manage many sources into a common destination that will someday be licensed to travel agents, meeting planners, convention and visitors bureaus and corporations.
+
+&#160;
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160;
+
+Our management team has identified a key opportunity for providing a more complete technology solution than what currently exists. Through a single user interface, users such as travel agents, meeting planners or convention and visitors bureaus will be able to source wholesale travel products to create their own packaged retail products, and/or increase commissions and fees revenues from any number of travel components. Companies that use the platform will be able to reduce costs and increase the efficiency of their travel managers. The term &#8220;wholetailing&#8221; was coined for this concept, and yet few resources are available to take this to its logical next step. The system has initially assisted Luxurious Travel in streamlining its own travel sales functions, and will further be exploited through sales and leasing opportunities to others companies. In other words, the company sees value and potential in the platform beyond simply the use of it for its own client events, and intends to someday sell use of the platform through licensing to a market of travel retailers, meeting planners, convention and visitors bureaus and corporations. Again, this is an intended, and not current, use of the platform.
+
+&#160;
+
+The company also embraces an interactive marketing and web-based strategy for sourcing hotel inventory that meets consumer needs. Both leisure and business travelers find a clearer web alternative than national brands which do not have the same high-touch customer service. For example, festival planners and convention organizers cannot offer their exhibitors and attendees information specific to their event through leading online travel agencies. However, through the use of the system the end user is able to take advantage of web-based shopping, best-available rates, and information and add-on options specific to their trip.
+
+&#160;
+
+In the year ended December 31, 2015 three customers represented 94% of revenue, and in the year ended December 31, 2014 the company received 93% of revenue from four customers.
+
+&#160;
+
+We currently maintain our executive offices at 1535 Jackson Street, Hollywood, FL 33020. Our telephone number is (954) 628-3594.
+
+&#160; 
+
+INTELLECTUAL PROPERTY 
+
+&#160;
+
+We have not applied for any patent protection relating to any product or any aspect of our business and do not have a present intention of doing so. Although we have not submitted applications for trademark protection we intend to seek such protection in the future where appropriate. Todd Delmay is the principal architect of our platform, its capabilities and features, and its intended future development. Mr. Delmay has assigned all rights associated with the platform and any other intellectual property relating to our business to the Company. All coding for the platform has been done exclusively through independent web developers and programmers. Also, he booking platform relies upon PHP, which is a server-side scripting language designed for web development, but is also used as a general purpose programming language.
+
+&#160; 
+
+COMPETITIVE ANALYSIS 
+
+&#160;
+
+Luxurious Travel has created a system that cuts across current disciplines. Although there are several, perhaps many instances where competition is strong, it is only in a few areas and not all areas of our business. That is to say that although any given component may have competition, our entire enterprise and all of its many components has no direct competitor that offers all the we do in an single system.
+
+&#160;
+
+A few of our competitors, the areas in which we compete, and how we go beyond them are discussed below:
+
+&#160;
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+Global Distribution Systems (GDS) &#8211; heritage systems originally developed by the airlines to distribute their inventory to travel agents, these systems have evolved to include hotels, car rentals, cruises, etc. Long-term contracts and pushback from airlines to shift costs to the agents licensing them have made these systems less attractive, making their survival questionable, and the need for alternatives more appealing.
+
+&#160;
+
+iMagic &#8211; interfaces with Global Distribution Systems (GDS) to create and manage invoices. Although inexpensive, the software operates on individual computers. Our system is web-based so that data is accessible from all points and is not reliant on the GDS or other third party system.
+
+&#160;
+
+SideStep &#8211; this tool has been around for nearly a decade, and there are others like it. If loaded on a computer, it can detect any travel search, for example if one is searching a hotel, it automatically detects that action, creates a sidebar on the desktop and begins searching on its own all of the other known travel sites to compare side by side. The user is still left to switch to another site and continue searching, and most of them are written by suppliers such as hotel companies and airlines, but they are prejudiced toward ownership companies, and do not necessarily offer the best and broadest rates and options.
+
+&#160;
+
+Passkey &#8211; for a long time the dominant player in convention housing, hotels and visitor bureaus and large scale event planners have used this system to manage group blocks, set up micro-sites and sell hotel inventory online. With longevity though, comes a loss of technological edge, and they have been unable to update and adapt, so hotels especially are looking for alternatives. Additionally, they require long-term contracts with pre-defined minimum transactions, which make it even less attractive. By studying their interface, and being able to develop from the ground up, we are positioned to target their customers and develop a broad customer base. Luxurious Travel can offer better access to inventory, more reporting, competitive pricing and no minimum transactions.
+
+&#160;
+
+OnPeak &#8211; one of the major event competitors, this company competes with Luxurious Travel in that it offers a way for event and festival organizers to manage hotel reservations and inventory that is manually entered; however they are not able to offer live inventory sources through other channel systems, and do not offer call center type services to support their clients. Luxurious Travel not only has multiple streams of inventory, but can also support inbound calls and customer service for existing reservations.
+
+&#160;
+
+MARKET POSITIONING: 
+
+&#160; 
+
+TRENDS 
+
+&#160;
+
+The travel industry saw its best year ever in 2000, followed by a 2001 recession and the 9/11 terrorist attacks, only to start the slow recovery before again stalling after the 2008 economic crisis. The entire future of the travel industry rests on the changing mindset of the American Traveler who thinks carefully about spending, checks every possible source to find the lowest possible price, and even relies on social media to gain insights. But technology is not the threat to the industry, it is the solution for survival &#8211; and for offering better products targeted to the specific, sometimes niche interests of consumers.
+
+&#160;
+
+Whether someone is traveling for business or pleasure, the &#8220;Google&#8221; of travel has in many ways yet to be born. In an information age, getting information from multiple channels, paring it down to the most relevant search, and providing a simple, streamlined, but information-rich result is the key to being a consumer&#8217;s choice. Luxurious Travel has made great strides, and will continue to coalesce data in a way that empowers meeting planners, event planners, festival organizers, trade and association organizations, and even convention and visitors bureaus to reach the intended audience with the right information, at the right time, and at the right (best) price.
+
+&#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+Travel suppliers (i.e. hotels, car rental agencies, cruise lines, etc.) and intermediaries (agents, corporate travel managers, organizers, planners, etc.) must seek out new technologies that help them work together better. In order to capture a greater percentage of the online marketplace they must have access to the broadest range of information and pricing, and the tools by which they can market it, sell it, and account for it.
+
+&#160;
+
+Despite dramatic increases in online bookings, according to industry analysts, the numbers leveled off as consumers realized that the online marketplace does not always offer enough reliability. In 2008, for the first time in over 10 years, the percentage of travel purchases online fell in comparison to the percentage that was booked through a travel professional (both agency and corporate in-house travel managers) and they continue to do so. But consumers do not just want simply to talk to someone, they want to talk to someone who is as smart as the Internet, and then some, and that can offer the same or better pricing they can find on their own. Hence, Agents need a technology that brings the best of the web, direct connects to hotels, as well as non-web inventory together in a way not specifically offered by one travel site. Luxurious travel is that technology.
+
+&#160;
+
+OPERATIONAL PLAN 
+
+&#160; 
+
+KEY OBJECTIVES 
+
+&#160;
+
+The primary objective to realize the goals of the company requires raising capital in order to enact the overall business plan. Beyond the funding, the company must develop the software and website capabilities that include functionality for:
+
+&#160;
+
+- Bidding by suppliers &#160;
+
+- Upstream sales of packages through channel managers &#160;
+
+- Broadcast/Share Corporate Rates across consumers &#160;
+
+- Interline packaging &#160;
+
+- Unfilled Conference Blocks re-sold upstream &#160;
+
+- Distressed or Pre-Purchased travel available for resale &#160;
+
+- Add-on offers, discounts, dining recommendations, etc. &#160;
+
+- Social Media Collaboration on Travel Plans &#160;
+
+- Booking capability for all major cruise lines &#160;
+
+- Consumer Profile Forms &#160;
+
+- Hot Deals and Specials Section &#160;
+
+- Dynamic Packaging of own-label programs &#160;
+
+- Air, Car &#38; Hotel bookings compiled from supplier sites &#160;
+
+- Social Networking / Marketing Components &#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+STRATEGY 
+
+&#160;
+
+To accomplish this vision, Luxurious Travel will embark on a process that includes, but is not limited to doing the following:
+
+&#160;
+
+- Hire the Software Engineering Team &#160;
+
+- Develop the schematic for end-result platform &#160;
+
+- Model, build and test each feature and function &#160;
+
+- Develop front, admin, hotel and client access portals &#160;
+
+- Code platform to allow multiple user source interfaces &#160;
+
+- Integrate interfaces with GDS, Hotel and other OTA or third party channel managers &#160;
+
+- Roll out the site in phases, including end-to-end testing &#160;
+
+- Hire staff to enact the sales and marketing plan &#160;
+
+First, the hire of a qualified software engineering team is essential to fulfillment of the mission. Teams that we have already worked with on version 1.0 will be strongly considered for version 2.0 and beyond, including those who have done contract work and who can now be brought in as employees to focus full time on completing each task.
+
+&#160;
+
+The initial model of the booking engine system is fully functional. We envision extending the range of its capabilities over time and such extension will not be possible without further development and investment. We intend to use interactions with and feedback from clients, consumers, hotels and others to improve the system over time. This will also require looking at the different ways in which channel managers may require customized interfacing, and building specific bridges for data to move between their system and ours. During that phase, extensive testing will be required, and the inevitable unforeseen glitches tested and fixed as the infrastructure expands and is maintained. Currently the system functions only with hotels which have rooms/rates inventory entered manually and within limited event time frames. However future iterations will include features that allow direct and automated connectivity to a much wider range of hotels, rooms and rates. The planned future functionality also includes the ability to search and seek hotels, rooms and rates at any given hotel on a global basis. The system currently allows for the making of reservations by site visitors to established hotels only, but future development will connect intelligently to the best source(s) of inventory based on rates through unlimited resources. Future iterations of the system also will the ability to load and/or book air, car rental, transportation or activities. The system is capable of invoicing and as our business grows we will explore the feasibility of including &#8220;wholetailing&#8221; features that would allow a licensee of the engine to package, sell, and account for multiple invoice elements.
+
+&#160;
+
+To date, revenue has been generated through business activities related solely to hotel bookings for individuals and groups, and we have not yet explored licensing the system for use by other users and/or entities. We anticipate that licensing of the system will result in additional revenue sources.
+
+&#160;
+
+The Luxurious Travel Corporation&#8217;s website that includes information about the company and the booking platform can be found at www.luxurioustravelshop.com . The information that can be accessed through the website is not part of this report.
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+Access to the system is critical, and each user type has different needs and different authorized access. Security and barriers to entry beyond specifically outlined areas of the site are also key to the total experience. Coding these interfaces are as critical as the third party data interfaces that give the system its robust approach to information and rate management.
+
+&#160;
+
+Each phase of development will require a set range of functions, and rolling out those phases to end users will require the detailed planning found in the schematics. As new features and functions are added, previous releases need to be updated, and existing user types informed of and trained on the new aspects.
+
+&#160;
+
+Lastly, the sales and marketing plan will be rolled out concurrently with each phase, as target customers are identified, marketing collateral and other messaging is fine tuned. As sales pick up pace, the company will be able to shift resources from development of the software to development of sales. The need for quality software engineers will never end, as the platform will continuously undergo version and function upgrades to accommodate new technological developments in the short and long term future.
+
+&#160;
+
+CONCLUSION 
+
+&#160; 
+
+Luxurious Travel&#8217;s booking engine operates in an evolving frontier of technology, travel, information and social interactions. As a result, the opportunity to move forward is time sensitive, as the integration of all of the features and functions envisioned is unlikely to remain unique for very long. The travel industry has seen a lot of change for a variety of reasons in recent years, and improvements to distribution and sales channels can improve any company&#8217;s business travel, put small and large players in the industry on equal footing, and give consumers, agents, corporations and everyone involved a real voice in the process.
+
+&#160;
+
+EMPLOYEES 
+
+&#160; 
+
+As of the date of this report we have 2 employees, who are serving in executive capacities.
+
+&#160;
+
+We are not party to any legal proceedings as of the date of this report.
+
+&#160;
+

@@ -1,0 +1,230 @@
+ ITEM 1. BUSINESS 
+
+Business Description 
+
+Quantum Corporation (&#8220;Quantum&#8221;, the &#8220;Company&#8221;, &#8220;us&#8221; or &#8220;we&#8221;), founded in 1980 and reincorporated in Delaware in 1987, is a leading expert in scale-out storage, archive and data protection, providing solutions for capturing, sharing, managing and preserving digital assets over the entire data lifecycle. Our customers, ranging from small businesses to large/multi-national enterprises, trust us to address their most demanding data workflow challenges. Our end-to-end tiered storage solutions enable users to maximize the value of their data by making it accessible whenever and wherever needed, retaining it indefinitely and reducing total cost and complexity. We work closely with a broad network of distributors, value-added resellers (&#8220;VARs&#8221;), direct marketing resellers (&#8220;DMRs&#8221;), original equipment manufacturers (&#8220;OEMs&#8221;) and other suppliers to meet customers&#8217; evolving needs. Our common stock is traded on the New York Stock Exchange under the symbol QTM. 
+
+Our scale-out storage portfolio includes StorNext &#174; &#32;software, appliances and full systems called StorNext Pro TM &#32;Solutions, as well as Xcellis TM workflow storage, QXS disk storage, Lattus TM &#32;extended online storage and Q-Cloud TM &#32;Archive and Vault services. Our StorNext offerings enable customers to manage large unstructured data sets in an information workflow, providing high-performance ingest, real-time collaboration, scalable capacity and intelligent protection. They are centered on our StorNext 5 platform, which is designed for today's modern workflow challenges of capturing, sharing, managing and preserving massive amounts of data in the most demanding environments. StorNext 5 includes the industry's fastest streaming file system and policy-based tiering for automatically moving data across primary storage, extended online storage, tape archive and the cloud. 
+
+We also have a comprehensive portfolio of data protection solutions for physical, virtual and cloud environments. This includes our DXi &#174; &#32;deduplication systems, Scalar &#174; &#32;automated tape libraries and vmPRO &#8482; &#32;virtual server backup software. In addition, we offer a Q-Cloud service for data center customers and we also provide the underlying technology platform to partners and end user customers to build their own clouds. 
+
+In addition, Artico, an active archive appliance providing network-attached storage ("NAS") connectivity, and QXS hybrid disk and flash storage serve both scale-out storage and data protection customers. 
+
+We are a member of the consortium that develops and has licensed LTO &#174; &#32;media technology to tape media manufacturing companies. We receive royalty payments for both LTO and DLT &#174; &#32;media technology sold under licensing agreements. We have also entered into various licensing agreements with respect to our technology, patents and similar intellectual property which provide licensing revenues in certain cases and may expand the market for products and solutions using these technologies. 
+
+We are focused on driving profitable revenue growth and long-term shareholder value by capitalizing on new market opportunities, leveraging the strength of our technology, products and install base across scale-out storage and data protection, continuing to expand our solutions portfolio and building new and enhanced channel and technology partnerships. 
+
+Industry Background 
+
+For most of our customers, demands on data have changed and so have the requirements for storing and retaining it. Previously, data had a one-way, predictable life cycle where the information technology (&#8220;IT&#8221;) focus was around risk mitigation. Now, companies know that their data can be a source of competitive advantage, revenue and growth. They are much more focused on the opportunity of data, so IT must save everything and make it available based on business requirements. In addition, the challenge of dealing with large data files is extending beyond a narrow set of vertical markets such as media and entertainment, government intelligence or oil and gas to commercial enterprises more broadly. 
+
+All of this is leading to new workflows and putting pressure on status quo approaches. Traditional infrastructures are breaking down based on the sheer volume of data and the need to store data indefinitely and continue to produce value from it. IT departments have determined that adding more spinning disk to the problem will not resolve the issues, nor will legacy backup processes. 
+
+We believe the industry is evolving to a new infrastructure that is based on high-performance, tiered storage solutions with smart data movement that fits a customer&#8217;s workflow. These tiered storage solutions need to support unpredictable, on-demand access, whenever and wherever customers need their data, and incorporate new approaches to data protection and archive. At the same time, these solutions must be cost-effective. 
+
+While there are different workflows which require different solutions, there are common elements that must be addressed. Quantum products offer a unique combination of high performance, low-cost capacity and fast data access designed to help customers drive business and operational success. 
+
+Products 
+
+Scale-out Storage 
+
+With new digital technologies creating larger data files that can generate greater business value, there is a growing need to retain data for progressively longer periods while maintaining visibility and access to it. IT departments as well as vertically focused business units, including but not limited to media and entertainment, video surveillance, oil and gas, life sciences and high performance computing, are increasingly focused on managing large amounts of unstructured data. Generally, unstructured data refers to relatively new data types that produce large files, often measured in petabytes, such as video, imaging, documents and audio. In some cases, this also refers to large collections of small data, such as retail purchasing information, underwater photos of the ocean floor and feeds from traffic cameras that when combined, create meaningful information and increasingly competitive advantage. In addition, in managing unstructured data, organizations are increasingly recognizing that they need efficient and cost-effective ways to archive it. We offer StorNext software and appliance-based solutions, in addition to Lattus Object Storage for extended online storage and tape for low cost archiving, to address this growing need for managing and archiving growing unstructured data sets. 
+
+StorNext and Xcellis Workflow Storage 
+
+Our StorNext appliances leverage the power of our StorNext 5 software and market-leading hardware to offer predictable high-performance file sharing and archiving in purpose-built configurations of metadata controllers, expansion appliances and disk and archive enabled libraries. StorNext 5 delivers higher levels of performance, scalability and flexibility in a new generation of the industry&#8217;s leading scale-out shared storage file system, tiered storage and archive. StorNext 5 is a complete end-to-end solution that combines file management technology with easy-to-deploy appliances to support the world&#8217;s most complex and demanding workflows. In addition, our StorNext Storage Manager &#8482; &#32;software automatically copies and migrates data between different tiers of storage based on user-defined policies. The result is a highly scalable, high-performance data management solution designed to optimize the use of storage while enabling long-term protection and recoverability of data. 
+
+StorNext Appliances and StorNext Pro Solutions are simple to deploy and architected to deliver scalable, industry-leading performance, drive lower operational costs and provide a flexible open system for enabling third party applications. These appliances also work seamlessly with traditional StorNext software and partner hardware offerings to provide additional options for building a shared storage area network (&#8220;SAN&#8221;) and scale-out NAS environment. They are intended to serve a wide range of markets, such as broadcast, post-production, video surveillance storage, DNA sequencing, corporate video and seismic exploration, and balance the highest performance with the lowest long-term cost for sharing all types of unstructured data used in data intensive operations. 
+
+Our Xcellis product optimizes workflow and shared access by combining functions that were formerly provided by separate components into a compact, space- and energy-saving solution. Xcellis manages high-speed disk for the most demanding workflows and provides multi-protocol SAN and local area network (&#8220;LAN&#8221;) client access. It also offers single-pane-of-glass management and monitoring and automatic data movement to low-cost storage such as cloud, object and tape. Overall, Xcellis maximizes operational and workflow efficiency and reduces the cost of data storage. 
+
+Lattus Object Storage 
+
+Our family of Lattus Object Storage solutions enables high volumes of data to be immediately available to extract valuable information at any time, and over time. The Lattus family is designed as extended online storage with wide-ranging scalability from terabytes to hundreds of petabytes with predictable retrieval times for high speed file access. These systems have self-healing capabilities that offer extremely high durability to ensure data is not lost and virtually eliminate unscheduled maintenance and performance degradation. Lattus has been designed to be self-migrating through innovative algorithms that simplify upgrades to new storage technologies. 
+
+Q-Cloud Archive and Vault Services 
+
+Many customers are using the cloud in different ways and we offer Q-Cloud services for a variety of applications, including using the cloud as a tier for archive storage within StorNext storage environments. Q-Cloud Archive and Q-Cloud Vault incorporate the power of the public cloud as an off-site tier within a StorNext 5 workflow environment without changes to existing applications or processes required. 
+
+StorNext AEL Archives 
+
+Our tape-based StorNext AEL archives products are purpose-built for extreme data environments, offering highly scalable data management solutions that are also cost effective and easy to manage. When added to a StorNext file system deployment, StorNext AEL archives products provide near-line archiving with built-in data protection and self-healing capabilities to ensure that valuable digital assets are protected and accessible over time. As a result, StorNext AEL archives products play a key role as we continue to expand our footprint in the growing market for unstructured data archive solutions. 
+
+Data Protection 
+
+DXi Disk Systems 
+
+Our DXi disk systems use deduplication technology to increase the amount of backup data users can retain on traditional disk systems. The result is a cost-effective means for IT departments to store backup data on disk for months instead of days, providing high-speed restores, increasing available data recovery points and reducing media management. For disaster recovery in distributed environments, the DXi-Series &#8482; &#32;also makes wide area network (&#8220;WAN&#8221;) replication practical because of the greatly reduced bandwidth required with data deduplication. By greatly increasing effective disk capacity, data deduplication enables users to retain backup data on fast recovery disk much longer than possible using conventional disk and significantly reduces the bandwidth needed to move data between sites. We hold a key patent in one of the most efficient methods of data deduplication, known as variable-length data deduplication. 
+
+Q-Cloud Protect 
+
+In addition to using the cloud as a tier for archive storage within StorNext storage environments, we also offer Q-Cloud Protect for off-site disaster recovery storage using our deduplication technology. In both cases, our customers get the benefits of the cloud such as pricing flexibility and offsite storage for disaster recovery protection in a way that integrates with their existing on-premise applications. Our approach enables customers to use the cloud as a tier of storage, resulting in hybrid-cloud storage solutions that best fit the needs of our customers&#8217; workflows and storage requirements. 
+
+Scalar Tape Automation Systems 
+
+We are a leading supplier of tape automation products and we continue to expand features and functionality of our tape library offerings to increase storage capacity and improve performance. Our Scalar tape automation portfolio includes a range of products, from autoloaders with one tape drive and up to sixteen cartridges to large enterprise-class libraries which can hold hundreds of drives and thousands of cartridges. Our tape libraries intelligently manage and protect business critical data in workgroup, medium size business and enterprise data center environments. With an emphasis on ease of use, management features and investment optimization, Scalar tape libraries are designed to grow with business needs. These products integrate tape drives into a system with automation technology, advanced connectivity and sophisticated management tools, including integrated media integrity analysis in tape drives and library diagnostic systems. We also offer the SuperLoader&#174;3 autoloader designed to maximize data density and performance. 
+
+Tying our libraries together from entry-level to enterprise is a common, integrated software called iLayer TM , which provides monitoring, alerts and proactive diagnostics, thereby reducing service calls, shortening issue resolution time and decreasing the time users spend managing their tape automation solutions. In addition, we believe the growth in archiving of unstructured data represents a substantial opportunity for tape automation systems. To capitalize on this trend and the changing role of tape automation systems in data protection, we have invested in our enterprise Scalar i6000 and midrange Scalar i500 platforms to provide increased redundancy capabilities. These platforms can be implemented on their own or in an appliance configuration with our StorNext archiving software. 
+
+Devices and Media 
+
+Our device and media products include removable disk drives and libraries, tape drives and media. We offer tape drives and media primarily based on the LTO format. Our LTO family of devices is designed to deliver outstanding performance, capacity and reliability, combining the advantages of linear multi-channel, bi-directional formats with enhancements in servo technology, data compression, track layout and error correction. These LTO tape drives are designed to provide midrange and enterprise customers with disaster recovery and cost-effective backup solutions. 
+
+We also sell a full range of storage media offerings to complement each tape drive technology and to satisfy a variety of specific media requirements. Our media is compatible with our drives, autoloaders and libraries as well as other industry products. 
+
+Global Services and Warranty 
+
+Our global services strategy is an integral component of our total customer solution. Service is typically a significant purchase factor for customers considering scale-out or data protection storage solutions, and our ability to provide comprehensive service and support can be a noteworthy competitive advantage to attract new customers and retain existing customers. In addition, we believe that our ability to retain long-term customer relationships and secure repeat business is frequently tied directly to our service capabilities and performance. 
+
+Our extensive use of technology and innovative, built-in product intelligence allows us to scale our global services operations to meet the needs of our expanding installed base. We are currently able to provide service to customers in more than 100 countries, supported by 24-hour, multi-language technical support centers located in North America, Europe and Asia. We provide our customers with warranty coverage on all of our products. Customers with high availability requirements may also purchase additional service to extend the warranty period, obtain faster response times, or both, on our disk backup systems, tape automation products and StorNext appliances. We offer this additional support coverage at a variety of response levels up to 24-hours a day, seven-days-a-week, 365-days-a-year, for customers with stringent high-availability needs. We provide support ranging from repair and replacement to 24-hour rapid exchange to on-site service support for our midrange and enterprise-class products. 
+
+We generally warrant our hardware products against defects for periods ranging from one to three years from the date of sale. We provide warranty and non-warranty repair services through our service team and third party service providers. In addition, we utilize various other third party service providers throughout the world to perform repair and warranty services for us to reach additional geographic areas and industries in order to provide quality services in a cost-effective manner. 
+
+Research and Development 
+
+We compete in an industry characterized by rapid technological change and evolving customer requirements. Our success depends, in part, on our ability to introduce new products and features to meet end user needs. Our research and development teams are working on the next generation disk, data deduplication, virtual systems, cloud solutions, object storage solutions, tape automation and scale-out storage technologies as well as software solutions to advance these technologies for the scale-out storage and data protection markets to meet changing customer requirements. We continue to focus our efforts on software and integrated software and hardware solutions that offer improvements in the efficiency and cost of storing, moving, managing and protecting large amounts of data and providing solutions for the continuing convergence between backup and archive to provide compelling solutions for our customers. 
+
+We continue to invest in research and development to improve and expand our product lines and introduce new product lines, striving to provide superior data protection and scale-out storage solutions, for both on-premise cloud environments. Research and development costs were $48.7 million , $58.6 million , and $64.4 million &#32;for fiscal 2016 , 2015 &#32;and 2014 , respectively. 
+
+Sales and Distribution Channels 
+
+Quantum Branded Sales Channels 
+
+For Quantum-branded products, we utilize distributors, VARs and DMRs. Our integrated Quantum Alliance Reseller Program provides our channel partners the option of purchasing products directly or through distribution and provides them access to a more comprehensive product line. Additionally, we sell directly to a select number of large corporate entities and government agencies. 
+
+OEM Relationships 
+
+We sell our products to several OEM customers that resell our hardware products under their own brand names and typically assume responsibility for product sales, end user service and support. We also license our software to certain OEM customers that include this software in their own brand name products. These OEM relationships enable us to reach end users not served by our branded distribution channels or our direct sales force. They also allow us to sell to select geographic or vertical markets where specific OEMs have exceptional strength. 
+
+Customers 
+
+Our sales are concentrated with several key customers because under our business model, as is typical for our industry, we sell to OEMs, distributors, VARs and DMRs to reach end user customers. Sales to our top five customers represented 28% &#32;of revenue in fiscal 2016 &#32;and 31% &#32;of revenue in each of fiscal 2015 &#32;and 2014 . No customer accounted for 10% or more of our revenue in fiscal 2016 , 2015 &#32;or 2014 . Through our Quantum Alliance Reseller Program and our emphasis on growing our branded business, including increasing the independent channel, we are expanding our customer base and continue to distribute our products and services across a larger number of customers. 
+
+Competition 
+
+The markets in which we participate are highly competitive, characterized by rapid technological change and changing customer requirements. In some cases, our competitors in one market area are customers or suppliers in another. Our competitors often have greater financial, technical, manufacturing, marketing or other resources than we do. Additionally, the competitive landscape continues to change due to merger and acquisition activity as well as new entrants into the market. 
+
+Our StorNext appliances and workflow solutions primarily face competition from EMC Corporation (&#8220;EMC&#8221;), International Business Machines Corporation (&#8220;IBM&#8221;), NetApp, Inc. (&#8220;NetApp&#8221;) and other content storage vendors in the media and entertainment industry as well as government agencies and departments. Our cloud solutions face competition from a large number of businesses that provide hardware, software and virtual solutions as well as companies that offer cloud services based on other technology. Our Lattus Object Storage solutions primarily compete with object storage solutions from other providers, ranging from startup companies to established companies, such as EMC and IBM, as well as large public cloud storage providers. 
+
+Our disk backup solutions primarily compete with products sold by EMC, Hewlett-Packard Company (&#8220;HP&#8221;), IBM and NetApp. Additionally, a number of software companies that have traditionally been partners with us have deduplication features in their products and will, at times, compete with us. A number of our competitors also license technology from other competing companies. 
+
+In the tape automation market, we primarily compete for midrange and enterprise reseller and end user business with Dell, Inc. ("Dell"), IBM, Oracle Corporation and SpectraLogic Corporation as well as HP through its OEM relationship with other tape automation suppliers. Competitors for entry-level and OEM tape automation business include BDT Products, Inc. and several others that supply or manufacture similar products. In addition, disk backup products are a competitive alternative to tape products and solutions. 
+
+At the storage device level, our main competitors are HP and IBM. Both HP and IBM develop and sell their own LTO tape drives, which compete with our device offerings. We also face competition from disk alternatives, including removable disk drives in the entry-level market. 
+
+For a discussion of risks associated with competing technologies, see the Risk Factor in Item 1A "Risk Factors" titled, &#8220;We derive the majority of our revenue from products incorporating tape technology. Our future operating results depend in part on continued market acceptance and use of products employing tape technology and decreases in the market could materially and adversely impact our business, financial condition and operating results. In addition, if we are unable to compete with new or alternative storage technologies, our business, financial condition and operating results could be materially and adversely affected.&#8221; 
+
+Manufacturing 
+
+In fiscal 2014, we transitioned our manufacturing from a model incorporating in-house production and contract manufacturers to a fully outsourced model as part of our strategy to enhance our variable cost structure and provide more flexibility to cost-effectively manage the volume of products manufactured to align with our expectations, including market declines in the tape business and growth expectations in disk backup products and scale-out storage solutions. During fiscal 2016 &#32;and 2015, we used only contract manufacturers to produce our products. 
+
+We outsource the manufacture, repair and fulfillment of disk backup products, scale-out storage solutions, tape automation systems, tape devices and service parts to contract manufacturers. Tape drives used in our products are primarily sourced from Hungary and China. Disk drives used in our products are largely sourced from Thailand, the Philippines and China. Certain tape automation system materials and assemblies as well as certain disk system materials and assemblies are sourced in China, Malaysia, Thailand, Mexico and the U.S. 
+
+Our recording tape media is manufactured by one or more tape media manufacturing companies, which are qualified and licensed to manufacture, use and sell media products. In most cases, the media is produced in Japan and multi-sourced on a worldwide basis. 
+
+Intellectual Property and Technology 
+
+We develop and protect our technology and know-how, principally in the field of data storage. We generally rely on patent, copyright, trademark and trade secret laws and contract rights to establish and maintain our proprietary rights in our technology and products. As of March 31, 2016 , we hold over 300 U.S. patents and have over 70 pending U.S. patent applications. In general, these patents have a 20-year term from the first effective filing date for each patent. We also hold a number of foreign patents and patent applications for certain of our products and technologies. Although we believe that our patents and applications have significant value, rapidly changing technology in our industry means that our future success may also depend heavily on the technical competence and creative skills of our employees. 
+
+From time to time, third parties have asserted that the manufacture and sale of our products have infringed on their patents. We are not knowingly infringing any third party patents. Should it ultimately be determined that licenses for third party patents are required, we will make best efforts to obtain such licenses on commercially reasonable terms. See Item 3 &#8220;Legal Proceedings&#8221; for additional disclosures regarding lawsuits alleging patent infringement. 
+
+On occasion, we have entered into various patent licensing and cross-licensing agreements with other companies. We may enter into patent cross-licensing agreements with other third parties in the future as part of our normal business activities. These agreements, when and if entered into, would enable these third parties to use certain patents that we own and enable us to use certain patents owned by these third parties. We have also sold certain patents, retaining a royalty-free license for these patents. 
+
+Segment Information 
+
+We operate as a single reporting unit and operating segment for business and operating purposes. Information about revenue attributable to each of our product groups is included in Item 7 &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; and information about revenue and long-lived assets attributable to certain geographic regions is included in Note 14 &#8220;Geographic Information&#8221; to the Consolidated Financial Statements and risks attendant to our foreign operations is set forth below in Item 1A &#8220;Risk Factors.&#8221; 
+
+Seasonality 
+
+As is typical in our industry, we generally have the greatest demand for our products and services in the fourth quarter of each calendar year, or our fiscal third quarter. We usually experience the lowest demand for our products and services in the first and second quarters of each calendar year, or our fiscal fourth quarter and fiscal first quarter, respectively. 
+
+Backlog 
+
+Our products are manufactured based on forecasts of customer demand. We also place inventory in strategic locations throughout the world in order to enable certain key customers to obtain products on demand. Orders are generally placed by customers on an as-needed basis. Product orders are confirmed and, in most cases, shipped to customers within one week. More complex systems and product configurations often have longer lead times and may include on-site integration or customer acceptance. Most of the backlog accumulated during any particular fiscal quarter is shipped in the same quarter in which the backlog initially occurs. Therefore, our backlog generally grows during the first part of each fiscal quarter and shrinks during the latter part of the quarter to reach its lowest levels at the end of that same quarter, by which time significant shipments have occurred. As a result, our backlog as of the end of any fiscal quarter is not material and is not a predictor of future sales. 
+
+Employees 
+
+We had approximately 1,200 employees worldwide as of March 31, 2016 . 
+
+Available Information 
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our website at http://www.quantum.com generally when such reports are available on the Securities and Exchange Commission (&#8220;SEC&#8221;) website. The contents of our website are not incorporated into this Annual Report on Form 10-K. 
+
+The public may read and copy any materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. 
+
+Executive Officers and Management Team 
+
+Following are the names and positions of our management team as of May 27, 2016 , including a brief account of his business experience. 
+
+Name 
+
+&#160; 
+
+Position with Quantum 
+
+Jon W. Gacek* 
+
+&#160; 
+
+President and Chief Executive Officer 
+
+Fuad Ahmad* 
+
+&#160; 
+
+Senior Vice President, Chief Financial Officer 
+
+William C. Britts* 
+
+&#160; 
+
+Senior Vice President, Worldwide Sales and Marketing 
+
+Robert S. Clark* 
+
+&#160; 
+
+Senior Vice President, Product Operations 
+
+Shawn D. Hall* 
+
+&#160; 
+
+Senior Vice President, General Counsel and Secretary 
+
+Don Martella 
+
+&#160; 
+
+Senior Vice President, Engineering 
+
+Geoff Stedman 
+
+&#160; 
+
+Senior Vice President, Marketing and Scale-Out Storage Solutions 
+
+Bassam Tabbara 
+
+&#160; 
+
+Chief Technology Officer 
+
+* Determined by the Board of Directors to be an &#8220;officer&#8221; for the purposes of Section 16 (a) of the Exchange Act. 
+
+Mr. Gacek &#32;became President and Chief Executive Officer and was also appointed to the Board of Directors in April 2011. He was President and Chief Operating Officer from January 2011 through March 2011. He joined Quantum as Executive Vice President and Chief Financial Officer in August 2006, upon Quantum&#8217;s acquisition of Advanced Digital Information Corporation (&#8220;ADIC&#8221;) and was promoted to Executive Vice President, Chief Financial Officer and Chief Operating Officer in June 2009. Previously, he served as the Chief Financial Officer at ADIC from 1999 to 2006 and also led Operations during his last three years at ADIC. Prior to ADIC, Mr. Gacek was an audit partner at PricewaterhouseCoopers LLP and led the Technology Practice in the firm&#8217;s Seattle office. While at PricewaterhouseCoopers LLP, he assisted several private equity investment firms with a number of mergers, acquisitions, leveraged buyouts and other transactions. 
+
+Mr. Ahmad &#32;joined Quantum as Chief Financial Officer in April 2016. Mr. Ahmad has been a partner with FLG Partners, a consulting firm providing interim and permanent financial leadership services, since 2013 and has been advising various companies on matters ranging from scaling their operations and growth and financing strategies to restructuring and reorganizations. Prior to FLG Partners, from 2010 to 2012, he was Chief Financial Officer of Sezmi Inc. a provider of cloud-based, turnkey video solutions for personalized and multi-screen offerings serving telecommunications, media/content and ISP companies. From 2004 to 2010, Mr. Ahmad was Senior Vice President and Chief Financial Officer of Globalstar Inc., an industry-leading provider of mobile satellite voice and data services. 
+
+Mr. Britts &#32;joined Quantum as Executive Vice President, Sales and Marketing in August 2006, upon Quantum&#8217;s acquisition of ADIC. He served in this position until June 2011, when he assumed the role of Senior Vice President, Worldwide Marketing, Service and Business Development. In April 2012, Mr. Britts added Operations to his portfolio. In July 2013, he was named Senior Vice President, Worldwide Sales and Marketing. Prior to Quantum, he spent 12 years at ADIC, where he held numerous leadership positions, including Executive Vice President of Worldwide Sales and Marketing, Vice President of Sales and Marketing and Director of Marketing. Before ADIC, Mr. Britts served in a number of marketing and sales positions at Raychem Corp. and its subsidiary, Elo TouchSystems. 
+
+Mr. Clark &#32;joined Quantum as Director of Tape Products in August 2006, upon Quantum&#8217;s acquisition of ADIC. In March 2009, he was promoted to Vice President with responsibility for various product lines, as well as business operations and OEM sales. In April 2010, he was named Senior Vice President, Tape and OEM Product Group (subsequently reorganized as Disk and Tape Backup Product Group). In January 2014, Mr. Clark assumed additional responsibility for all Quantum products in a newly named Product Operations organization. In April 2015, Mr. Clark also assumed responsibility for both Operations and Service. Prior to Quantum, Mr. Clark was at HP for 10 years in various engineering and sales positions. 
+
+Mr. Hall &#32;joined Quantum in 1999 as Corporate Counsel, became Vice President, General Counsel and Secretary in 2001 and was promoted to Senior Vice President, General Counsel and Secretary in May 2009. Prior to Quantum, Mr. Hall worked at the law firms of Skadden, Arps and Willkie Farr &#38; Gallagher, where he practiced in the areas of mergers and acquisitions and corporate finance, representing numerous public and private technology companies. 
+
+Mr. Martella &#32;joined Quantum as Vice President, Automation Engineering in August 2006, upon Quantum&#8217;s acquisition of ADIC. In June 2010, he was promoted to Senior Vice President, Platform Engineering, and in April 2011 assumed his current role. Before joining Quantum, Mr. Martella served as a Vice President of Engineering and Quality at ADIC, where he spent five years in various leadership positions. Previously, he held engineering positions in the storage and process control industries. 
+
+Mr. Stedman &#32;joined Quantum as Senior Vice President, Scale-out Storage Solutions in March 2014. From March 2012 to February 2014, Mr. Stedman served as vice president of marketing at Tintri, Inc., and he was senior vice president and general manager of the Storage Business Unit at Harmonic, Inc. He joined Harmonic in conjunction with its acquisition of Omneon, Inc. where he spent seven years as senior vice president of worldwide marketing. Before Omneon, Mr. Stedman held marketing positions at several technology companies. 
+
+Mr. Tabbara &#32;joined Quantum as Executive Director, Cloud Services, in August 2014, in conjunction with Quantum&#8217;s acquisition of Symform&#8217;s cloud storage services platform. In July 2015, he was promoted to Chief Technology Officer with responsibility for driving the company&#8217;s long-term technology strategy to capitalize on new market opportunities. Prior to Quantum, Mr. Tabbara was the CTO and co-founder of Symform from November 2007 to July 2014. Before Symform, Mr. Tabbbara spent 12 years at Microsoft, where he worked on a number of key initiatives, including Microsoft Research, MSN, Windows, Visual Studio and System Center. Mr. Tabbara holds more than 30 patents. 
+

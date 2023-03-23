@@ -1,0 +1,1018 @@
+ Item 1. Business 
+
+OVERVIEW 
+
+We are a biopharmaceutical company focused on discovering and developing drugs to improve outcomes for patients with cancer. Our product candidates utilize a multi-faceted approach to treat cancer by reducing cancer stem cells, enhancing anti-tumor immunity, and modulating the local tumor microenvironment. Our most advanced product candidates are VS &#8209;6063, VS &#8209;4718, and VS &#8209;5584. We are currently evaluating these compounds in both preclinical and clinical studies as potential therapies for certain cancers, including lung, ovarian, lymphoma, and pancreatic. We believe that these compounds may be especially beneficial as therapeutics when used in combination with immuno-oncology agents, as well as other current and emerging standard of care treatments in aggressive cancers that have a poorer prognosis and lower overall survival rates when compared to other types of cancer. 
+
+Our most advanced programs target the Focal Adhesion Kinase ( FAK ) , and the PI3K/mTOR signaling pathways. FAK is a non-receptor tyrosine kinase encoded by the PTK-2 gene that is involved in cellular adhesion and, in cancer, metastatic capability. VS-6063, which has been assigned the United States Adopted Name defactinib, and VS-4718 are orally available compounds designed to target cancers through the potent inhibition of FAK. The PI3K/mTOR signaling pathway plays a central role in cancer proliferation and survival. VS-5584 is an orally available compound that has demonstrated in preclinical studies potent and highly selective activity against class 1 PI3K enzymes (pan PI3K inhibition) and dual inhibitory actions against mTORC1 and mTORC2. 
+
+VS-6063 is currently being evaluated in a Phase 1 study in combination with Merck &#38; Co. &#8217;s (Merck) PD-1 inhibitor pembrolizumab and gemcitabine in patients with advanced pancreatic cancer, a Phase &#160; 1/ 1b trial in combination with weekly paclitaxel for patients with ovarian cancer, a Phase 2 study in patients with non &#8209;small cell lung cancer, a Phase 2 trial preceding surgery in mesothelioma, a combination trial of VS &#8209;6063 and VS &#8209;5584 in patients with relapsed mesothelioma, and a Phase 1/1b clinical collaboration with Pfizer Inc. (Pfizer) and Merck KGaA to evaluate VS-6063 in combination with avelumab , an anti-PD-L1 antibody, in patients with ovarian cancer. VS-6063 has received orphan drug designation for use in mesothelioma and ovarian cancer in the United States , &#160; t he European Union , and Australia . In addition to VS &#8209;6063, both our FAK inhibitor VS &#8209;4718 and our dual mTORC1/2 and PI3K inhibitor VS &#8209;5584 are in Phase 1 clinical trials in patients with advanced cancers either as single agents or in combination with other anti-cancer treatments. 
+
+We believe that the key reasons for the ultimate failure of many current cancer therapies to achieve a durable clinical response are the presence of cancer stem cells ( CSCs ) within tumors, a limited or absent immune response, and dense stroma encapsulating tumors. Preclinical research has shown that our FAK inhibitors effectively reduce CSCs thereby improving the duration of response, enhance the immune response by decreasing immune-suppressive cells and increasing cytotoxic T cells, and reduce stromal density which allows both drug and tumor-killing immune cells to enter the tumor. 
+
+THE PROBLEM 
+
+Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. The American Cancer Society estimated that in the United States in 2014, approximately 1.7 million new cases of cancer would be diagnosed and nearly 600,000 people would die from the disease. Current treatments for cancer include surgery, radiation therapy, chemotherapy, hormonal therapy, immunotherapy, and targeted therapy . IMS Health estimates that in the United States in 2014, approximately $37.5 billion was spent on drugs to treat cancer, representing the largest class of drug spending in the United States. The cancer death rate in the United States has only decreased modestly since the early 1990s. Despite years of intensive research and clinical use, current treatments often fail to cure cancer. Cancer remains one of the world&#8217;s most serious health problems and is the second most common cause of death in the United States after heart disease. The following table sets forth the U.S. annual incidence, based on 201 5 estimates from the National Cancer Institute (NCI) , and the prevalence, or the number of people in the United States who have been previously diagnosed with cancer, based on 201 2 estimates from the NCI , for select cancers. 
+
+&#160;
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+U.S. annual 
+
+&#160; 
+
+&#160; 
+
+Cancer type 
+
+incidence 
+
+U.S. prevalence 
+
+&#160; 
+
+Lung and bronchus 
+
+&#160; 
+
+221,200 &#160; 
+
+408,808 
+
+Pancreatic 
+
+&#160; 
+
+48,960 &#160; 
+
+45,702 
+
+Ovarian 
+
+&#160; 
+
+21,290 &#160; 
+
+192,446 
+
+&#160; 
+
+For tumors that have not yet metastasized and remain localized to the site of original tumor formation, current treatments for cancer can be effective in initially reducing tumor burden. However, for many forms of cancer, current treatments lack sufficient efficacy to achieve a durable clinical response. Following initial treatment, the tumor may recur at the same site or metastasize and spread to other sites in the body. The vast majority of patients who succumb to cancer are killed by tumors that have metastasized. This is illustrated by the information in the following table, which shows, according to the NCI &#8217;s SEER Cancer Statistics Review, 2005-2011 , the reduction in five &#8209;year survival rate for ovarian cancer patients based on the stage of the disease at the time at which the disease is diagnosed. The percentage of patients diagnosed at each stage of disease, referred to as stage distribution, is included below for comparative purposes. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Five-year 
+
+&#160; 
+
+&#160; 
+
+Stage 
+
+relative 
+
+&#160; 
+
+Ovarian cancer stage at diagnosis 
+
+distribution(1) 
+
+survival rate 
+
+&#160; 
+
+Localized (confined to primary site) 
+
+&#160; 
+
+15 % 
+
+92.1 % 
+
+Regional (spread to regional lymph nodes) 
+
+&#160; 
+
+19 % 
+
+73.2 % 
+
+Distant (cancer has metastasized) 
+
+&#160; 
+
+60 % 
+
+28.3 % 
+
+(1) 
+
+6% of ovarian cancer cases were designated as unknown stage. 
+
+With the application of new technologies and key discoveries, we believe that we are now entering an era of cancer research characterized by a more sophisticated understanding of the biology of cancer. We believe that the discovery of CSCs and the role that they play in cancer development, along with the rapidly advancing field of immunotherapy, or using the body&#8217;s immune system to fight cancer, are important new insights that present the opportunity to develop more effective cancer treatments. 
+
+Cancer stem cells 
+
+CSCs, which are also sometimes referred to as tumor &#8209;initiating cells, have been identified in many types of cancer, including lung, ovarian, pancreatic, colon and leukemic cancers. Following many cancer treatments, the tumor can remain with a high percentage of CSCs and become more aggressive and resistant to further treatment. In addition, patients who relapse often develop metastatic disease in which the cancer spreads to other sites in the body. Tumor metastases to critical organs are the cause of more than 90% of cancer deaths. We believe that it is the drug resistance and ability of CSCs to spread to other sites in the body that may be the root causes of many cancer treatments failing. Accordingly, our mission is to develop treatments that can contribute to the elimination of all the cells comprising a tumor and, thus, create a durable clinical response. 
+
+We believe that CSCs are responsible for the initiation, metastasis, and recurrence of many cancers. CSCs have the ability to: 
+
+&#183; 
+
+move freely and proliferate without attachment to other cells or surfaces; 
+
+&#183; 
+
+initiate a tumor; 
+
+&#183; 
+
+self &#8209;renew; 
+
+&#183; 
+
+produce other cancer cell types; and 
+
+&#183; 
+
+resist many current cancer treatments. 
+
+&#160;
+
+CSCs may be more resistant to current cancer treatments than other types of cancer cells. Thus, as illustrated in the figure below, while current treatments may succeed at initially decreasing tumor burden, they may leave behind a population of CSCs that can regenerate tumors. Therefore, the presence of a mixture of CSCs and other types of cancer cells within a tumor may necessitate a therapeutic approach combining drugs that can kill both cell populations. 
+
+FIGURE 1 
+
+The need to target CSCs may apply across the treatment of a broad range of cancers. CSCs have been isolated and characterized from many types of cancer, including lung, ovarian, pancreatic, colon and leukemic cancers. The CSCs isolated from each of these tumor types have been found to confer greater tumor &#8209;forming capability when transplanted into mice than other types of cancer cells from the same tumor. 
+
+Several specific signaling pathways have been implicated in CSC biology. FAK is a central signaling node in the development of CSCs and critical for the establishment of metastases. In 2012, research conducted at the Whitehead Institute for Biomedical Research in the laboratory of our scientific co-founder Dr. Robert Weinberg and published in Cancer Discovery elucidated the role of FAK in breast cancer disease progression. This work found that increased FAK activity leads to increases in the metastatic capability of cancer cells following the process of epithelial to mesenchymal transition, an underlying mechanism in CSC development. Similarly, the role of PI3K/mTOR signaling has also been linked to disease progression and the survival of CSCs in multiple types of solid tumors and leukemia. 
+
+An increase in the proportion of CSCs in response to chemotherapy has been observed in clinical studies. For example, at the Baylor College of Medicine, breast cancer biopsies were taken from patients at the time of initial diagnosis and again following 12 weeks of treatment with docetaxel, a standard cancer chemotherapy widely used to treat breast cancer. The biopsies taken after 12 weeks of treatment showed increased expression of biomarkers for CSCs and an increased number of chemoresistant cells as compared to biopsies taken at the time of initial diagnosis. This result indicates that the CSC component of the tumor was relatively resistant to the chemotherapy. Moreover, it 
+
+&#160;
+
+supports our belief that a combination of treatments that can effectively target both CSCs and other types of cancer cells is critical to create a durable clinical response. 
+
+Limited Immune Response 
+
+Although the adaptive immune system is designed to target foreign tissue or pathogens, cancer evades immune attack through several important mechanisms. Immune checkpoints, including PD-1 and CTLA-4 signaling, are mechanisms in nature that function to limit an immune response and inhibition of immune checkpoints has been found to be extremely promising targets to reactivate anti-cancer immune attack for some patients. However, the immune balance in the tumor microenvironment is critical to enable cytotoxic T cells to effectively attack and eliminate tumors. This process is often limited by insufficient cytotoxic T cells in the tumor, coupled with abundance of immunosuppressive cell populations in the tumor microenvironment. Therefore, agents that can increase cytotoxic T cells and decrease immunosuppressive T cells in tumors have been sought after to increase the proportion of responding cancer patients and the duration of response to immunotherapy. 
+
+Stromal Density 
+
+In addition to the balance of immune cells in the tumor microenvironment, another important mechanism which tumors use to evade immune attack and attack by chemotherapy is stromal density. Stromal density, which may be typified by pancreatic cancer, refers to a dense buildup of fibroblasts and extracellular matrix proteins in tumors. This stromal density imposes a physical barrier to the entry of cytotoxic T cells and chemotherapeutic drugs into the tumor microenvironment. Consequently, agents that can decrease stromal density have been sought after to enable immune and cytotoxic anti-cancer therapies. 
+
+OUR SOLUTION 
+
+We believe that by utilizing a multi-faceted approach to the treatment of cancer we can develop better therapeutics to treat patients. To achieve a more durable clinical response, we believe that it may be necessary to focus on combination regimens with our CSC-targeted product candidates and immuno-oncology agents, and/or other current and emerging standard of care treatments. 
+
+OUR STRATEGY 
+
+Our product candidates seek to utilize a multi-faceted approach to treat cancer by reducing cancer stem cells, enhancing anti-tumor immunity, and modulating the local tumor microenvironment. Our goal is to build a leading biopharmaceutical company focused on the discovery, development and, ultimately, commercialization of novel drugs that use a multi-faceted approach to improving outcomes for patients with cancer. Key elements of our strategy to achieve this goal are: 
+
+&#183; 
+
+Advance our product candidates through clinical development. We have ongoing clinical trials of VS &#8209;6063 both as a single agent and in combination with other agents and are conducting additional clinical trials with VS &#8209;4718 and VS &#8209;5584. We expect to initiate further clinical trials over the next several years. 
+
+o 
+
+Execute on the recently announced Phase 1/1b clinical collaboration with Pfizer and Merck KGaA to evaluate VS-6063 in combination with avelumab (an immunotherapy) in patients with ovarian cancer. 
+
+o 
+
+Support the recently initiated Phase 1 dose-escalation study at Washington University in St. Louis which is evaluating FAK inhibitor VS-6063 in combination with Merck&#8217;s PD-1 inhibitor pembrolizumab (an immunotherapy) and gemcitabine (a chemotherapy) in patients with advanced pancreatic cancer. 
+
+&#160;
+
+&#183; 
+
+Expand the indications in which our product candidates may be used. In parallel to the non-small cell lung, ovarian, pancreatic and mesothelioma trials that we are currently conducting, we plan to pursue additional disease indications. 
+
+&#183; 
+
+Collaborate selectively to augment and accelerate translational research, development and commercialization. We may seek third &#8209;party collaborators for the development and eventual commercialization of our product candidates. In particular, we may enter into third &#8209;party arrangements for target oncology indications in which our potential collaborator has particular expertise or for which we need access to additional research, development, or commercialization resources. 
+
+&#183; 
+
+Consider acquiring or in &#8209;licensing rights to additional agents . We may pursue the acquisition or in &#8209;license from third parties of rights to additional agents that may supplement our internal programs and allow us to initiate clinical develo pment of a diverse pipeline of agents more quickly. 
+
+&#183; 
+
+Build and maintain scientific leadership in the areas of immuno-oncology and CSCs. We plan to continue to conduct research in both the immuno-oncology and CSC fields to further our understanding of the underlying biology of enhancing the body&#8217;s immune response to tumors as well as cancer progression and metastasis. We also plan to continue fostering relationships with top scientific advisors, researchers and physicians. We believe that exceptional advisors, employees and management are crit ical to leadership in the immuno -oncology and CSC field s . 
+
+OUR PRODUCT CANDIDATES 
+
+Overview 
+
+We are focused on the discovery and development of small molecules for optimized efficacy and safety primarily as orally available drug candidates. 
+
+We have three product candidates currently in clinical trials including the FAK inhibitors VS &#8209;6063 and VS &#8209;4718, and the pan PI3K and dual mTORC1/2 inhibitor VS &#8209;5584. We are running clinical trials in cancers where there are limited treatment options, including lung, ovarian, lymphoma, pancreatic, and other advanced cancers. 
+
+Conventional chemotherapy works by stopping the function of cancer cells through a variety of mechanisms. Chemotherapies are usually not targeted at any specific differences between cancer cells and normal cells. Rather, they kill cancer cells because cancer cells generally grow more rapidly than normal cells and, as a result, are relatively more affected by the chemotherapy than normal cells. Because CSCs exhibit mechanisms of resistance, including a slower rate of growth than other cancer cells, they are often not susceptible to conventional chemotherapy. As a result, the treatments may succeed at initially decreasing tumor burden but ultimately fail to kill the CSCs. 
+
+Agents that can modulate the tumor microenvironment to increase cytotoxic T cells and decrease immunosuppressive T cells in tumors have been sought after to increase the proportion of responding cancer patients and the duration of response to immunotherapy. Accordingly, to enhance therapeutic benefit, we are using our product candidates in combination with immuno-oncology agents, as well as other current and emerging standard of care treatments in an effort to target CSCs and stimulate the body&#8217;s immune system against cancer cells. This a pproach is being utilized in the ongoing Phase 1 trial evaluating VS-6063 in combination with Merck&#8217;s PD-1 inhibitor pembrolizumab and gemcitabine in patients with advanced pancreatic cancer and will also be tested in the recently announced Phase 1/1b clinical trial evaluating VS-6063 in combination with Pfizer and Merck KGaA&#8217;s avelumab in patients with ovarian cancer. 
+
+We are developing our product candidates for the treatment of multiple cancer types, including non-small cell lung, ovarian, lymphoma, and pancreatic cancer, and expect in the future to initiate clinical trials in other cancers. 
+
+&#160;
+
+PANCREATIC CANCER 
+
+Overview 
+
+Pancreatic cancer begins in the tissues of the pancreas &#8212; an organ in the abdomen that lies horizontally behind the lower part of the stomach. The pancreas secretes enzymes that aid digestion and hormones that help regulate the metabolism of sugars. Patients present initially with vague symptoms that could be easily be mistaken for other common abdominal conditions and diseases. It is the 12th most common cancer diagnosed in the United States and the disease represents the 4th leading cause of cancer related death in the country. 
+
+Prognosis 
+
+Pancreatic cancer often has a poor prognosis, even when diagnosed early. Pancreatic cancer typically spreads rapidly and is seldom detected in its early stages, which is a major reason why it is a leading cause of cancer death. Signs and symptoms may not appear until pancreatic cancer is quite advanced and complete surgical removal is &#160; n o t possible. An estimated 48,960 Americans will be diagnosed with pancreatic cancer in 2015 and over 40,560 will die from the disease. Pancreatic cancer is one of the few cancers where survival has not improved significantly during the past 40 years. Pancreatic cancer has a very high mortality rate with 92.8% dying within five years of their initial diagnosis and an average life expectancy of 3-6 months if the patient presents with metastatic disease. The median age for diagnosis is 71 with the disease affecting males slightly more than females. 
+
+Current Treatment 
+
+Treatment options for pancreatic cancer are limited with surgical resection of the tumor possible in less than 20% of patients. Chemotherapy or chemotherapy plus radiation is offered to patients whose tumors are unable to be removed surgically. Immuno-oncology agents have not demonstrated a significant improvement in treatment outcome for patients with pancreatic cancer. The limited impact of chemotherapies and immun o -therapies to improve the outcome may be due to the dense stroma that is prevalent in pancreatic tumors and the presence of CSCs in the tumor. 
+
+OVARIAN CANCER 
+
+Overview 
+
+Ovarian cancer forms in tissues of the ovary, one of a pair of female reproductive glands in which the ova, or eggs, are formed. Most ovarian cancers are either ovarian epithelial carcinoma, cancer that begins in the cells on the surface of the ovary, or malignant germ cell tumors that begin in egg cells. According to the NCI , epithelial carcinoma of the ovary is one of the most common gynecologic malignancies and the fifth most frequent cause of cancer death in women, with 50% of all cases occurring in women older than 65 years. 
+
+The NCI estimated that in January 2009 there were approximately 182,000 women in the United States with a history of ovarian cancer and in 201 5 approximately 22,000 new cases of ovarian cancer would be diagnosed and approximately 14,000 women would die from the disease. 
+
+Prognosis 
+
+For patients with ovarian cancer, the most important prognostic factor is stage of the disease. Unfortunately, most patients with ovarian cancer have widespread disease at diagnosis. This may be partly explained by relatively early spread to the rest of the abdominal cavity. General symptoms such as abdominal pain and swelling, gastrointestinal symptoms, and pelvic pain often go unrecognized, leading to delays in diagnosis. This is illustrated by the information in the following table, which shows, according to the NCI &#8217;s SEER Cancer Statistics Review, 200 5 &#8209;201 1 , the reduction in five &#8209;year survival rate for ovarian cancer patients based on the stage of the 
+
+&#160;
+
+disease at the time at which the disease is diagnosed. The percentage of patients diagnosed at each stage of disease, referred to as stage distribution, is included below for comparative purposes. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+5-year 
+
+&#160; 
+
+&#160; 
+
+Stage 
+
+Relative 
+
+&#160; 
+
+Stage at Diagnosis 
+
+Distribution 
+
+Survival 
+
+&#160; 
+
+Localized (confined to primary site) 
+
+&#160; 
+
+15 % 
+
+92.1 % 
+
+Regional (spread to regional lymph nodes) 
+
+&#160; 
+
+19 % 
+
+73.2 % 
+
+Distant (cancer has metastasized) 
+
+&#160; 
+
+60 % 
+
+28.3 % 
+
+Unknown (unstaged) 
+
+&#160; 
+
+6 % 
+
+22.9 % 
+
+Current Treatment 
+
+Most patients are treated with a combination of surgery, chemotherapy, targeted therapy and radiation therapy. Surgery is often comprehensive to remove as much of the tumor as possible and may include removal of the ovaries or a total hysterectomy where the uterus is also removed. 
+
+Unfortunately, available therapies are rarely curative in the treatment of ovarian cancer and many tumors become resistant to platinum &#8209;based chemotherapy, which is the primary treatment regimen. Further therapy with conventional chemotherapy is generally palliative, not curative, as the tumor is able to metastasize and spread to other sites in the body. A report by McNeish et al., at the 2013 American Society of Clinical Oncology reported that the use of paclitaxel in patients that had previously failed platinum &#8209;based chemotherapy resulted in less than 1% of patients achieving a complete response and an overall response rate of approximately 12% as defined by Response Evaluation Criteria In Solid Tumors (RECIST) guidelines. The presence of CSCs may contribute to this resistance and eventual disease progression. 
+
+NON &#8209;SMALL CELL LUNG CANCER 
+
+Overview 
+
+According to the NCI , the most common types of non &#8209;small cell lung cancer (NSCLC) are squamous cell carcinoma, large cell carcinoma, and adenocarcinoma. Although NSCLCs are associated with cigarette smoke, adenocarcinomas may be found in patients who have never smoked. As a class, NSCLCs are relatively insensitive to chemotherapy and radiation therapy compared with small cell lung cancer &#160; (SCLC). The NCI estimates that in 201 5 there were 22 1 , 200 new cases of lung cancer (both NSCLC and SCLC) in the United States and 15 8,040 deaths. Lung cancer is the leading cause of cancer &#8209;related mortality in the United States. The 5 &#8209;year relative survival rate from 200 5 to 201 1 for patients with lung cancer was 1 7.4 %. 
+
+Current Treatment 
+
+Patients with resectable disease may be cured by surgery or surgery followed by chemotherapy. Local control can be achieved with radiation therapy in a large number of patients with unresectable disease, but cure is seen only in a small number of patients. Patients with locally advanced unresectable disease may achieve long &#8209;term survival with radiation therapy combined with chemotherapy. Patients with advanced metastatic disease may achieve improved survival and palliation of symptoms with chemotherapy, targeted agents, and other supportive measures. The disease becomes resistant to therapy and returns in the vast majority of patients. The presence of CSCs may contribute to this resistance and eventual disease progression. 
+
+FAK Inhibition Program 
+
+Overview 
+
+Our product candidates that inhibit FAK utilize a multi-faceted approach to treat cancer by reducing cancer stem cells, enhancing anti-tumor immunity, and modulating the local tumor microenvironment. These effects of FAK inhibition make our two inhibitors, VS-6063 and VS-4718, good candidates for combination therapy with immun o -oncology agents and other anti-cancer comp o unds. FAK expression is greater in many tumor types 
+
+&#160;
+
+compared to normal tissue, particularly in cancers that have a high invasive and metastatic capability. The contact between cancer cells and connective tissue stimulates FAK signaling. However, CSCs acquire the ability to survive in the absence of contact with connective tissue. We believe that FAK signaling in CSCs may be maintained through alternative mechanisms, thus providing CSCs the ability to survive in the absence of cell contact. Accordingly, we believe that FAK signaling may be a central component of CSC biology that allows CSCs to survive after exiting from a tumor mass and enable metastatic growth at other sites in the body. 
+
+In 2012, our scientific co &#8209;founder Dr. Robert Weinberg reported in Cancer Discovery that FAK is a critical regulator of CSCs and inhibition of this signaling pathway prevented disease progression and initiation of new metastatic lesions. An additional study by Dr. Weinberg reported in the Proceedings of th e National Academy of Sciences (PNAS) in 2009, demonstrated that in a mouse model of breast cancer FAK signaling was required to enable lung metastasis. Non &#8209;CSCs, which lack the ability to increase their FAK signaling activity through alternative mechanisms, remained non &#8209;metastatic in this model and did not survive dissemination to the lungs. Researchers at McGill University reported in PNAS that in a genetically modified mouse model the specific deletion of FAK from the mammary cells prevented primary tumor formation and metastasis. Similarly, researchers at the University of Michigan demonstrated that specific deletion of FAK from mammary tumors prevented tumor initiating capacity in recipient mice. 
+
+Scientific research suggests that increased FAK expression and activity is associated with metastatic progression and poor prognosis in multiple cancer types. For example, a 2009 retrospective study published in the Journal of Clinical Investigation identified the amplification, or increase in number, of the gene encoding FAK in breast cancers. This gene amplification, and resulting high FAK expression, significantly correlated with the progression of early stage, primary breast cancer to advanced metastatic disease. In an analysis of 295 breast cancer patients that was part of this study, elevated FAK expression was a marker of poor survival. The correlation of elevated FAK expression with poor survival was more significant than, and independent of, other commonly used clinical parameters such as hormone receptor status. A similar finding was described in the Journal of Clinical Investigation in 2010 where it was reported that in women with ovarian cancer elevated FAK expression is correlated with advanced disease, metastases and poor prognosis. A comparison of FAK activity in biopsies from patients revealed that high FAK activity correlated with a decrease in overall survival, from 3.2 to 1.7 years. 
+
+FIGURE 2 
+
+In September 2015, researchers from the University of Edinburgh published a study in the journal Cell that highlights the potential of FAK inhibition to enable the body&#8217;s immune system to fight cancer. The paper discussed results from preclinical research showing that FAK enables cancer cells to evade attack by the immune system. This 
+
+&#160;
+
+research showed that genetic knock down of FAK or oral dosing of mice with the FAK inhibitor VS-4718 increases cytotoxic T cells in skin cancer tumors while decreasing immunosuppressive cells called T regulatory cells. This work has since been expanded into pancreatic cancer and colorectal cancer models in which VS-4718 similarly extends survival of tumor-bearing mice through increasing cytotoxic T cells in the tumor and decreasing T regulatory cells. Additionally, VS-4718 was found to decrease other key immunosuppressive cell populations in tumors, known as myeloid-derived suppressor cells and M2 tum or- associated macrophages. Coincident with this immun o -modulation, VS-4718 was shown to substantially increase survival of mice when combined with an anti-PD-1 immune checkpoint antibod y . These results have indicated the potential promise of FAK inhibitors in combination with immune checkpoint inhibitors in the clinic. 
+
+FIGURE 3 
+
+In October 2015, preclinical data were presented (DeNardo, et al ) demonstrating that FAK inhibition reduces stromal density and increases T cell entry into tumor s . In this study, it was discovered that treating mice bearing pancreatic cancer tumors with VS-4718 reduces stromal density. This was measured as a decrease in the number and proliferation of tumor-associated fibroblasts, together with a decrease in collagen and other extracellular matrix proteins in the tumors. Dr. DeNardo went on to show that this reduction in stromal density by VS-4718 augments the effectiveness of the chemotherapeutic agent gemcitabine, and also allowed cytotoxic T cells to enter the tumors to induce more durable survival of tumor-bearing mice. &#160; These data provide strong rationale for the clinical evaluation of FAK inhibitors, including VS-4718 and VS-6063, in combination with a PD-1 or PD-L1 antibody in patients with pancreatic and other cancers. These data were presented at the 2015 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics and Society for Immunotherapy of Cancer (SITC) scientific conferences. Based on this research, we have initiated a Phase 1 clinical trial to assess the combination of VS-4718 with gemcitabine/abraxane treatment in patients with pancreatic cancer. 
+
+&#160;
+
+FIGURE 4 
+
+VS &#8209;6063 
+
+Overview 
+
+VS &#8209;6063, or defactinib, is an orally &#8209;available small molecule kinase inhibitor designed to inhibit FAK signaling. We are currently evaluating VS &#8209;6063 as a potential therapy for pancreatic cancer, ovarian cancer, NSCLC, and other solid tumors. C linical trials of VS &#8209;6063 in patients with cancer currently includ e a Phase 1 study in combination with Merck&#8217;s PD-1 inhibitor pembrolizumab and gemcitabine in patients with pancreatic cancer, a Phase 1/1b clinical trial of VS &#8209;6063 in combination with paclitaxel for patients with ovarian cancer, a Phase 2 study of VS &#8209;6063 in patients with NSCLC, a Phase 2 trial preceding surgery in mesothelioma , a combination trial of VS-6063 and VS-5584 in patients with relapsed mesothelioma, and a Phase 1/1b clinical collaboration with Pfizer and Merck KGaA to evaluate VS-6063 in combination with avelumab in patients with ovarian cancer . We have received 
+
+&#160;
+
+orphan drug designation for VS &#8209;6063 in ovarian cancer and mesothelioma in the United States , the European Union , and Australia . 
+
+Development status of VS &#8209;6063 
+
+Phase 1 study in combination with immunotherapy in pancreatic cancer. VS &#8209;6063 is in a dose escalation study in combination with Merck&#8217;s PD-1 inhibitor pembrolizumab and gemcitabine in patients with advanced pancreatic cancer. This Phase 1 clinical trial is anticipated to enroll approximately 50 patients and is being conducted at the Washington University School of Medicine&#8217;s Division of Oncology under the direction of Andrea Wang-Gillam, M.D., Ph.D., Clinical Director of the Gastrointestinal Oncology Program. This trial is primarily designed to evaluate the safety of the combination regimen and may also provide a greater understanding of how FAK inhibition in combination with immunotherapies could improve outcomes for patients with pancreatic cancer. We expect a data readout from this trial to occur in 2017. This is the first of several combination clinical trials we expect &#160; will be initiate d during 2016. 
+
+This clinical study is supported by a growing body of preclinical research suggesting that FAK inhibition, when combined with PD-1 inhibitors, increases the anti-tumor activity of these immunotherapeutic agents. As published in the journal Cell (24 Sept 2015), FAK inhibition has been shown to increase cytotoxic (CD8+) T cells in tumors, decrease T cell exhaustion, decrease immunosuppressive cell populations, enhance T cell killing of tumor cells, and create a generally more favorable tumor microenvironment, which should allow for enhanced efficacy of immuno-oncology therapeutics. 
+
+Pancreatic cancer, along with other tumors such as glioblastoma and prostate cancer, are tumor types in which immunotherapeutics have achieved limited clinical benefit, possibly due to the dense desmoplastic stroma and the abundance of immunosuppressive cells. Preclinical research has demonstrated that high stromal density prevents anti-cancer agents and T cells from entering pancreatic tumors thereby limiting efficacy. In preclinical research conducted by us and others, FAK inhibition was shown to reduce stromal density and allow cytotoxic T cells to better penetrate the tumor and kill the cancer cells. Collectively, these data provide strong rationale for combining our FAK inhibitors with checkpoint inhibitors in the clinic for pancreatic cancer. 
+
+Phase 1/1b study with Pfizer and Merck KGaA in combination with immunotherapy in ovarian cancer. &#160; In March 2016, we announced a new clinical collaboration with Pfizer and Merck KGaA to evaluate VS-6063 in combination with avelumab in patients with ovarian cancer. Avelumab is a human programmed death ligand 1 ( PD-L1 ) , blocking antibody that binds to the PD-L1 ligand expressed on tumor cells. Preclinical research has suggested that the combination of these two agents holds potential to improve the clinical response in patients with cancer. 
+
+Phase 1/1b clinical trial of VS &#8209;6063 in combination with paclitaxel in patients with ovarian cancers. Ovarian cancer rapidly develops resistance to chemotherapy. Following development of resistance to front &#8209;line platinum therapy, there is not an approved standard of care although treatment with the chemotherapeutic paclitaxel is often used. A clinical trial to evaluate the safety and efficacy of VS &#8209;6063 administered in combination with paclitaxel in patients with advanced ovarian cancer has demonstrated that the combination is generally well tolerated and the study is currently in long term follow up. 
+
+This clinical study is comprised of two parts. Part 1 is a dose-escalation of oral VS &#8209;6063 twice daily in addition to the standard dose of weekly paclitaxel. The purpose of part 1 was to assess the safety, evaluate pharmacokinetic parameters and determine the recommended Phase 2 dose in combination with paclitaxel. Part 2 includes patients treated with the recommended Phase 2 dose of VS &#8209;6063 in combination with paclitaxel. The purpose of part 2 is to evaluate the pharmacodynamic effect, the biochemical and physiological effect of VS &#8209;6063 through measurement of biomarkers from tumor biopsies pre &#8209; and post &#8209;treatment and assess the anti &#8209;cancer activity of VS &#8209;6063 when administered in combination with paclitaxel according to RECIST guidelines. 
+
+We believe this approach will allow us to treat both the non &#8209;CSCs and CSCs simultaneously by the combination of chemotherapy (e.g., paclitaxel) and a CSC &#8209;targeted agent (VS &#8209;6063) to hopefully enable a more durable clinical response. 
+
+&#160;
+
+The addition of VS &#8209;6063 , at either the 200mg/BID or 400mg/BID dose level, to the standard dose of weekly paclitaxel , which is 80mg/m 2 , was generally well tolerated with no worsening of the well &#8209;known side effects of paclitaxel . 400mg/BID is the recommended Phase 2 dose of VS &#8209;6063 both as a single agent and in combination with weekly paclitaxel. As of February 23, 2015, 20 serious adverse events ( SAEs ) , were observed in 10 patients (45.5%). All but one SAE (Grade 3 dehydration, deemed possibly related) were deemed to be not related or unlikely. 
+
+As of February 23, 2015, this study has demonstrated that VS-6063 can be safely combined with paclitaxel in ovarian cancer. 41% of patients have achieved a best overall response of at least stable disease of greater than or equal to 6 months as per RECIST guidelines in this ongoing study. Biomarker data on biopsies obtained pre &#8209; and post &#8209;treatment with VS &#8209;6063 (400mg BID) as a single agent for 10 days shows reductions in FAK activity and decreases in cancer stem cells. In addition, of the twenty &#8209;two patients treated with the combination of VS &#8209;6063 and paclitaxel, three partial responses and two complete responses have been reported as of and four patients remain on study as of December 21, 2015. 
+
+FIGURE 5 
+
+Phase 2 study of VS &#8209;6063 in patients w ith NSCLC. We are conducting a multi &#8209;center study of single-agent VS &#8209;6063 in patients with recurrent NSCLC following previous chemotherapy. 
+
+The Phase 2 study is designed to assess the effect of VS &#8209;6063 on progression free survival, overall response rate, and overall survival. Fifty-three patients were enrolled at 9 sites in the US. Forty-seven patients were evaluable. The median number of prior lines of therapy was 3 (range 1-8). The result s of this clinical trial, which were reported at the 2015 World Conference on Lung Cancer, demonstrated that 16 of 44 evaluable patients (36%) met the 12 week progression free survival (P FS ) endpoint, with one patient achieving a parti al response. Median PFS was 11.7 weeks with 6 patients on study for greater than 6 months. Single-agent VS-6063 was generally well tolerated and demonstrated promising clinical activity in patients with refractory, advanced KRAS-mutated NSCLC. Adverse events considered at least possibly related to defactinib were experienced by 41 patients (7 5 %) and the majority of these were grade 1 or 2. Thirteen patients (24%) experienced at least possibly related grade 3-5 events. Underlying disease was a co nfounding factor . The most commonly reported treatment emergent adverse events of any grade were fatigue (2 8 %) and nausea ( 36 %). 
+
+&#160; 
+
+&#160;
+
+FIGURE 6 
+
+Single-agent VS-6063 achieved comparable activity to docetaxel and other investigational monotherapies, despite greater median prior lines of therapy. &#160; One patient remains on study as of December 21, 2015. These data support further development of VS-6063, particularly in combination with an immunotherapy. 
+
+Phase 2 trial preceding surgery in mesothelioma (Window of Opportunity). VS &#8209;6063 is currently in an open &#8209;label neoadjuvant study in subjects with malignant pleural mesothelioma who are eligible for surgery. Neoadjuvant refers to the administration of VS &#8209;6063 prior to surgery to remove the mesothelioma tumor. The purpose of this study is to assess biomarker responses from tumor tissue. Patients are administered VS-6063 for 12 to 35 days. The safety, pharmacokinetics, and tumor response rate to VS &#8209;6063 are also being assessed. 
+
+In October 2014, results from part one were presented at the International Mesothelioma Interest Group ( iMig ) meeting. Based upon biopsy results, treatment with VS &#8209;6063 for 12 days reduced FAK activity by an average of 70% in evaluable post-treatment biopsies and decreases in a marker of cancer stem cells were observed in five of seven evaluable biopsies. In addition, the results of the pre &#8209; and post &#8209;treatment PET/CT scans, as measured by RECIST modified for mesothelioma, indicated that no disease progression was observed and that reductions in tumor size consistent with a partial response were observed in two patients. A waterfall plot of the tumor size measurements is presented in Figure 7 . VS-6063 was well tolerated with no apparent negative impact on surgical outcome. Part two of the study, where the treatment period is increased from 12 to 35 days, is currently ongoing. We expect to report preliminary data on this extended treatment cohort in the first half of 2016. 
+
+&#160;
+
+FIGURE 7 
+
+Phase 1 clinical trial in advanced solid tumors. VS &#8209;6063 demonstrated a good safety profile and initial signs of clinical activity in a Phase 1 trial in 46 patients with advanced solid tumors. Patients were selected on the basis of a confirmed diagnosis of a non &#8209;hematologic malignancy that was unresponsive to currently available therapies or for which no standard therapy existed. VS &#8209;6063 was administered on a twice daily (BID) schedule and dose cohorts initially included a minimum of 3 patients. Dosing was based on flat milligram increments without adjustment for body size, the starting dose being 12.5 mg BID in the initial cohort. Safety, activity and pharmacokinetics, the process by which a drug is absorbed, distributed and metabolized in the body, were measured. 16 of the 37 subjects enrolled, or 43%, at doses greater than or equal to 100 mg BID (predicted active dose) experienced stable disease as their best response to treatment. Based on safety, pharmacokinetics, and activity of VS-6063 in the Phase 1 trial, the recommended Phase 2 dose was determined to be 400 mg/BID. 
+
+FIGURE 8 
+
+Phase 1 study of VS &#8209;6063 in Japanese patients. In November 2014, we reported data from a Phase 1 dose escalation study of VS &#8209;6063 as a single agent in Japanese patients. The study results showed that VS &#8209;6063 was 
+
+&#160;
+
+generally well tolerated and side effects were consistent with previously reported results from our U.S. Phase 1 trial in non-Japanese patients 
+
+The dose levels were 200, 400 or 600mg of VS &#8209;6063 BID. No dose limiting toxicities or SAEs were observed at any dose cohort. All treatment emergent adverse events were generally mild or moderate in nature, or grade 1 or 2 as determined in accordance with commonly accepted terminology for adverse events, except for one subject in the 200mg BID cohort who exhibited a Grade 3 increase in serum bilirubin, defined as between 3 and 10 times the value of the upper limit of the normal laboratory range. No associated increase in aspartate transaminase ( AST ) or alanine transaminase ( ALT ) were observed in this subject. 
+
+Phase 2 study in mesothelioma (COMMAND). On September 28, 2015, we stopped enrollment in our Phase 2 randomized, double-blind, placebo-controlled study (COMMAND) evaluating single-agent VS-6063 as switch maintenance in patients with mesothelioma who had achieved disease stability after at least 4 cycles of chemotherapy. The decision to stop enrollment for futility followed a Data Safety Monitoring Board (DSMB) review of a pre-planned interim analysis. The results of the analysis demonstrated that VS-6063 had a generally well tolerated safety profile but that there was not a sufficient level of efficacy to warrant continuation of the study. 
+
+VS &#8209;4718 
+
+Overview 
+
+VS &#8209;4718 is an orally &#8209;available small molecule compound designed to inhibit FAK signaling. We are evaluating VS &#8209;4718 as a potential therapy for multiple solid tumors. 
+
+Development status of VS &#8209;4718 
+
+We are conducting both a Phase 1, single-agent, dose escalation trial of VS-4718 in patients with advanced cancers and a Phase 1 , dose-escalation clinical trial evaluating 28-day cycles of VS &#8209;4718 in combination with gemcitabine (a chemotherapy) and nab-paclitaxel (Abraxane&#174;; a chemotherapy) in patients with advanced solid tumors. We are planning to initiate an expansion cohort during 2016 evaluating the recommended Phase 2 dose in combination with gemcitabine/nab-paclitaxel chemotherapy in first line pancreatic cancer. A s of December 21, 2015, the Maximum Tolerated Dose ( MTD ) had not been reached in either trial. 
+
+Preclinical development 
+
+We are conducting a comprehensive program to study VS &#8209;4718 as a potential treatment for cancers. Key results to date from preclinical studies of VS &#8209;4718 are summarized below. 
+
+Biochemical and cellular tests. In biochemical testing, VS &#8209;4718 inhibited purified FAK and demonstrated in vitro selectivity against a panel of 107 different protein kinases. In addition, in various in vitro assessments of drug effects on CSCs, VS &#8209;4718 exhibited potent activity and a preferential effect, or selectivity, for CSCs as compared to other types of cancer cells. 
+
+FAK inhibitors produce favorable changes to immune system and decrease tumor burden. In September 2015, researchers from the University of Edinburgh published a study in the journal Cell that highlights the potential of FAK inhibition to enable the body&#8217;s immune system to fight cancer. The paper discussed results from preclinical research showing that FAK enables cancer cells to evade attack by the immune system. In this study, the researchers discovered that FAK inhibition can modulate the balance of immune cells in the tumor enabling an immune response to destroy the cancer cells. The research, which was carried out in mice with squamous cell carcinoma, showed complete T-cell mediated tumor regression when the mice were administered the FAK inhibitor VS-4718. This research is the first to demonstrate that FAK inhibition increases the presence of cytotoxic T cells in the tumor and decreases the presence of immunosuppressive T regulatory cells. This groundbreaking research showed that FAK inhibition can induce tumor regression through a T cell-mediated mechanism and su pport the approach that we are pursuing by combining our FAK inhibitors with immuno-oncology agents with the goal of yielding more durable 
+
+&#160;
+
+responses for patients with cancer. We presented this data at the 2015 NCI/AACR/EORTC and SITC scientific conferences. See figure 3 above. 
+
+FAK inhibition reduces stromal density, enabling therapies and immune cells to penetrate tumors. In October 2015, we presented preclinical data (DeNardo, et al) demonstrating that FAK inhibition reduces stromal density and increases T cell entry in to the tumor. In this study, our FAK inhibitor combined with immunotherapeutic agent inhibiting PD-1/PD-L1 signaling improved long term survival in an aggressive pancreatic cancer model. These data support the clinical evaluation of FAK inhibitors in combination with a PD-1 or PD-L1 antibody in patients with pancreatic an d other cancers. We presented this data at the 2015 NCI/AACR/EORTC and SITC scientific conferences. See figure 4 above. 
+
+PI3K/mTOR Inhibition Program 
+
+Overview 
+
+The PI &#160; 3 - kinase/mTOR pathway plays a central role in cancer cell proliferation and survival. Depending on the mode of pathway activation, different PI3K isoforms and mTOR complexes have been shown to play essential roles in oncogenesis and survival of CSCs. There are four Class 1 PI3K enzymes, known as alpha, beta, gamma, and delta, and two mTOR complexes known as mTORC1 and mTORC2. 
+
+Studies published in Nature in 2006 reported that genetic activation of the PI3K/mTOR pathway in adult blood cells led to generation of leukemia CSCs. In addition, multiple studies have shown that PI3K pathway activity contributes to the maintenance of CSCs in breast, lung, and prostate cancers. 
+
+VS &#8209;5584 
+
+Overview 
+
+VS &#8209;5584 is an orally available small molecule that potently and selectively inhibits both PI3K and mTORC1/2 signaling. A 2013 study published in Science Translational Medicine described findings that the observed resistance to PI3K &#8209; alpha inhibitors in breast cancer is mediated by signaling through the mTOR complex. We believe that the dual inhibition of mTORC1/2 and PI3K by VS &#8209;5584 may provide a greater clinical benefit for patients. 
+
+Development status of VS &#8209;5584 
+
+We are conducting a Phase 1, dose-escalation clinical trial of our dual PI3K/mTORC1/2 inhibitor, VS &#8209;5584, in patients with advanced non-hematologic m alignancies or lymphoma. The dose range of 5-75mg TIW has been evaluated and reductions in pharmacodynamic markers of PI3K and mTOR activity have been observed at many of the higher dose levels. Preliminary signs of clinical activity have been observed and disease control of at least six months has been observed in some patients. &#160; A cohort of this trial is enrolling additional patients to confirm the recommended dose for a Phase 2 trial. We are planning to initiate two expansion cohorts during 2016 to evaluate the recommended Phase 2 dose in ovarian /endometrial cancer and non-hodgkins lymphoma ( NHL ) or chronic lymphocytic leukemia ( CLL ) . 
+
+A Phase 1 clinical trial of VS &#8209;5584 in combination with VS &#8209;6063 for patients with relapsed mesothelioma where the anticipated recommended VS-5584 Phase 2 dose of 55mg was combin ed with the 400mg BID of VS-6063 is ongoing . 
+
+Preclinical development 
+
+We are conducting a comprehensive preclinical program to study VS &#8209;5584 as a potential treatment for cancer. Detailed results from this development were published in the January 2015 edition of the journal Cancer Research . Key results of this program to date are summarized below. 
+
+&#160;
+
+Biochemical testing. In biochemical testing, VS &#8209;5584 was equipotent against all four human Class 1 PI3K isoforms and mTOR kinase, the enzymatic component of both mTORC1 and mTORC2 (IC 50 values displayed below in nM). In general, the more potent a drug is, the lower the dose required for a therapeutic effect. An IC 50 value measures the dose at which the activity of the enzyme is reduced by 50%, a commonly used measure of potency. VS &#8209;5584 has demonstrated a selective effect for these kinases versus a panel of over 400 kinases. 
+
+FIGURE 9 
+
+In vitro killing of CSCs. In an in vitro test, SUM159 triple negative breast cancer cells were treated with VS &#8209;5584 or paclitaxel for 4 days, and the percentage of Aldefluor &#8209;positive CSCs was assessed. VS &#8209;5584 dose &#8209;dependently decreased the percentage of CSCs, while paclitaxel increased the percentage of CSCs. 
+
+Key results from the 2015 Cancer Research Article. The study results demonstrated that VS-5584 is up to 30-fold more potent in inhibiting the proliferation and survival of CSCs compared to non-CSCs in solid tumor cell populations. VS-5584 preferentially diminished CSC levels in multiple mouse xenograft models of human cancer. Similarly, VS-5584 treatment ex vivo preferentially reduced CSCs in surgically resected breast and ovarian patient tumors. In contrast, chemotherapeutics such as paclitaxel, cisplatin, and etoposide effectively targeted bulk tumor cells, but enriched CSCs. Mechanistic investigations revealed that knock down of PI3K&#945;, PI3K&#946; or mTOR alone was insufficient to decrease CSCs, while knock down of PI3K&#945;, PI3K&#946; and mTOR together effectively reduced CSCs mimicking the effect of VS-5584. Consistent with CSC ablation, VS-5584 delayed tumor regrowth following chemotherapy in mouse xenograft models of small cell lung cancer. These data help to elucidate the mechanism of VS-5584 targeting CSCs and provide a strong rationale for the clinical development of VS-5584 in combination with chemotherapeutic agents targeting bulk tumor cells to achieve more durable clinical responses in cancer patients. 
+
+FIGURE 10 
+
+&#160;
+
+OUR MANAGEMENT TEAM AND SCIENTIFIC CO &#8209;FOUNDERS AND ADVISORS 
+
+Our experienced management team includes our President and Chief Executive Officer, Robert Forrester, our Chief Financial Officer, John &#8220;Jack&#8221; Green, C.P.A, and our Chief Operating Officer, Daniel Paterson. 
+
+Mr. Forrester has been the chief executive officer, chief operating officer and chief financial officer of both private and public life science companies, including Forma Therapeutics, Inc., CombinatoRx, Inc. and Coley Pharmaceutical Group, Inc., which was acquired by Pfizer Inc. in 2007. 
+
+Mr. Paterson has over 2 5 years of experience in management roles at healthcare and biotechnology companies, including as chief executive officer , chief operating officer and chief business officer , and specific expertise in oncology drug and diagnostic product development , business development, and launch planning . Mr. Paterson was Head of Global Strategy for Specialty Market and Patient &#8209;Level Data at IMS Health after playing a key role in the acquisition of PharMetrics by IMS Health as VP, Marketing and Corporate Development. 
+
+Mr. Green serves in a part-time capacity at Verastem . Prior to Verastem, he was the Senior Vice President and Chief Financial Officer of GTC Biotherapeutics (formerly Genzyme Transgenics Corporation), which was spun out from Genzyme Corporation as a stand &#8209;alone public company and then the Vice President, Finance, of On-Q-ity. Mr. Green is a Certified Public Accountant (CPA) with over 30 years of financial experience, including 20 within the biotechnology industry. 
+
+Our scientific co &#8209;founders are recognized leaders in the field of cancer biology. Robert Weinberg, Ph.D., Founding Member of the Whitehead Institute and Professor of Biology at MIT, has played a key role in identifying the genetic basis of cancer. Dr. Weinberg discovered the first tumor oncogene, the first tumor suppressor gene, the role of a protein related to the cell surface receptor HER2 in preclinical studies and the mechanisms underlying the formation of CSCs. Eric Lander, Ph.D., Founding Director of the Broad Institute, Professor of Biology at MIT and Professor of Systems Biology at Harvard Medical School, played a central role in the Human Genome Project. Collaborative research in the labs of Dr. Lander and Dr. Weinberg developed our proprietary technology for use in the identification of drugs targeting CSCs and a genetic expression signature, useful as a biomarker, to monitor the effect of treatment. 
+
+INTELLECTUAL PROPERTY 
+
+We strive to protect the proprietary technology that we believe is important to our business, including seeking and maintaining patents intended to cover our product candidates and compositions, their methods of use and processes for their manufacture, and any other aspects of inventions that are commercially important to the development of our business. We also rely on trade secrets to protect aspects of our business that are not amenable to, or that we do not consider appropriate for, patent protection. 
+
+We plan to continue to expand our intellectual property estate by filing patent applications directed to compositions, methods of treatment and patient selection created or identified from our ongoing development of our product candidates. Our success will depend on our ability to obtain and maintain patent and other proprietary protection for commercially important technology, inventions and know &#8209;how related to our business, defend and enforce our patents, preserve the confidentiality of our trade secrets and operate without infringing the valid and enforceable patents and proprietary rights of third parties. We also rely on know &#8209;how, continuing technological innovation and in &#8209;licensing opportunities to develop and maintain our proprietary position. We seek to obtain domestic and international patent protection, and endeavor to promptly file patent applications for new commercially valuable inventions. 
+
+The patent positions of biopharmaceutical companies like us are generally uncertain and involve complex legal, scientific and factual questions. In addition, the coverage claimed in a patent application can be significantly reduced before the patent is issued, and patent scope can be reinterpreted by the courts after issuance. Moreover, many jurisdictions permit third parties to challenge issued patents in administrative proceedings, which may result in further narrowing or even cancellation of patent claims. We cannot predict whether the patent applications we are 
+
+&#160;
+
+currently pursuing will issue as patents in any particular jurisdiction or whether the claims of any issued patents will provide sufficient protection from competitors. 
+
+Because patent applications in the United States and certain other jurisdictions are maintained in secrecy for 18 months or potentially even longer, and since publication of discoveries in the scientific or patent literature often lags behind actual discoveries, we cannot be certain of the priority of inventions covered by pending patent applications. Moreover, we may have to participate in interference proceedings or derivation proceedings declared by the United States Patent and Trademark Office to determine priority of invention. 
+
+Patents 
+
+Our patent portfolio includes issued and pending applications worldwide. These patent applications fall into four categories: (1) FAK inhibitor program; (2) PI3K/mTOR inhibitor program; (3) Wnt inhibitor program; and (4) other programs. 
+
+FAK inhibitor program 
+
+We are currently developing the following FAK inhibitors: VS &#8209;6063 and VS &#8209;4718. 
+
+VS &#8209;6063 
+
+We have exclusively licensed a portfolio of patent applications owned by Pfizer, which are directed to FAK inhibitor compounds and methods of their use, for example in cancer. One patent family is related generally to VS &#8209;6063. This patent family includes issued patents having claims covering VS &#8209;6063 generically and specifically. For example, US 7,928,109 covers the composition of matter of VS &#8209;6063 specifically and US 8,247,411 covers the composition of matter of VS &#8209;6063 generically. Also included are issued and pending patent applications having claims directed to methods of treatment and methods of making VS &#8209;6063. For example, US 8,440,822 covers methods of making VS &#8209;6063. Any U.S. patents that have issued or will issue in this family will have a statutory expiration date in April of 2028. Related cases are pending worldwide, including for example in Europe, Brazil, Thailand, Hong Kong, and India, and granted in Australia, Mexico, Canada, China, Korea, Israel, New Zealand, South Africa, Singapore, Taiwan, and Japan. 
+
+In addition to the issued and pending patent applications exclusively licensed from Pfizer, we own two patent families covering VS &#8209;6063. One family is directed to compositions (e.g., oral dosage forms) of VS &#8209;6063 and certain methods of use. Any U.S. patents that will issue in this family will have a statutory expiration date in January of 2035. Another family is directed to methods of using a FAK inhibitor, such as VS &#8209;6063 in combination with a MEK inhibitor for treating a subject. Any U.S. patents that will issue in this family will have a statutory expiration date in February of 2035. 
+
+Our licensed portfolio of patent applications from Pfizer also includes four families of patent applications directed to VS &#8209;6062 and related methods of use. The patent families include issued and pending patent applications having claims directed to VS &#8209;6062, methods of manufacture, and pharmaceutical salts. Patents have issued in these families in the U.S. that will expire in the December of 2023, April of 2025, and November of 2028, respectively. Related cases have been granted worldwide, including for example in Australia, Canada, China, Japan, and Europe. 
+
+VS &#8209;4718 
+
+We have exclusively licensed a family of patent applications owned by the Scripps Research Institute, which is directed to VS &#8209;4718 and related methods of use. For example, US 8,501,763 covers the composition of matter of VS &#8209;4718. The statutory expiration of any patent that has issued or will issue pertaining to VS &#8209;4718 has or will have a statutory expiration date in March of 2028. Related cases are pending worldwide, including for example in China and Canada. The patent has also been allowed in Japan and Europe. 
+
+&#160;
+
+We also own two families of patent applications directed to VS &#8209;4718 formulations and methods of manufacture. Any patents that will issue in either of these families will have a statutory expiration date in June of 2031. 
+
+PI3K/mTOR inhibitor program 
+
+We own, through acquisition from S*Bio, a portfolio of patent applications covering VS &#8209;5584 and related methods of use, including two families of patent applications. One family covers VS &#8209;5584 generically and has a statutory expiration date in October of 2028. For example, US 8,247,410 covers the composition of matter of VS &#8209;5584 generically and US 8,609,838 covers methods of synthesis of VS &#8209;5584. The other family covers VS &#8209;5584 specifically. In the U.S., the composition of matter of VS &#8209;5584 is covered specifically in US 8,754,080 and will expire at the same time as the first family. Also included are issued and pending patent applications having claims directed to methods of treatment and methods of making VS &#8209;5584. A related case in Europe has also been allowed and been validated in Germany, Denmark, Spain, Finland, France, the United Kingdom, Ireland, Italy, the Netherlands, and Sweden. 
+
+In addition, we own one patent family directed to a clinical dosing protocol for VS &#8209;5584. Any patents that will issue in this family will have a statutory expiration date in December of 2035. 
+
+Wnt inhibitor program 
+
+We have exclusively licensed a portfolio of patent applications owned by Broad, Whitehead and Harvard. The family also includes claims covering: methods of identifying compounds that inhibit the growth or survival of CSCs, methods of identifying CSCs and methods of treating cancer, including methods of selecting courses of treatment for cancer therapy, for example, based on the presence of a biomarker. Any U.S. or EU patents that may issue from this application will have a statutory expiration date in April of 2029. 
+
+Other 
+
+We own or have licenses on five families of patent applications directed to methods of selecting patients and predicting patient response. We own two of such patent families, both of which have a statutory expiration date in March of 2033. We license three of such patent families, which have statutory expirations of March of 2025, June of 2026, and August of 2031. We also exclusively license a patent application that includes claims covering: methods of identifying CSCs, in vitro methods of creating CSCs, for example through activation of the epithelial to mesenchymal transition ( EMT ) process, progenitor cells and uses for those cells, methods of determining the metastatic potential of a tumor, and methods of diagnosing, preventing and treating cancer metastasis. Any U.S. patents that may issue from this application would have a statutory expiration date in 2026. 
+
+Patent Term 
+
+The base term of a United States patent is 20 years from the filing date of the earliest &#8209;filed non &#8209;provisional patent application from which the patent claims priority. The term of a United States patent can be lengthened by patent term adjustment, which compensates the owner of the patent for administrative delays at the USPTO. In some cases, the term of a United States patent is shortened by terminal disclaimer that reduces its term to that of an earlier &#8209; expiring patent. 
+
+The term of a United States patent may be eligible for patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984, referred to as the Hatch &#8209;Waxman Act, to account for at least some of the time the drug is under development and regulatory review after the patent is granted. With regard to a drug for which FDA approval is the first permitted marketing of the active ingredient, the Hatch &#8209;Waxman Act allows for extension of the term of one United States patent that includes at least one claim covering the composition of matter of an FDA &#8209;approved drug, an FDA &#8209;approved method of treatment using the drug, and/or a method of manufacturing the FDA &#8209; approved drug. The extended patent term cannot exceed the shorter of five years beyond the non &#8209;extended expiration of the patent or 14 years from the date of the F D A approval of the drug. Some foreign jurisdictions, including Europe and Japan, have analogous patent term extension provisions, which allow for 
+
+&#160;
+
+extension of the term of a patent that covers a drug approved by the applicable foreign regulator y agency. In the future, if and when our pharmaceutical products receive FDA approval, we expect to apply for patent term extension on patents covering those products, their methods of use, and/or methods of manufacture. 
+
+LICENSES 
+
+Whitehead Institute for Biomedical Research 
+
+Drug discovery platform license agreement 
+
+In October 2010, we entered into an exclusive license agreement with the Whitehead Institute, both on its own behalf and as sole and exclusive agent of Harvard and MIT, or the drug discovery platform license agreement, which we amended and restated in January 2012. Under the drug discovery platform license agreement, we acquired an exclusive, royalty &#8209;bearing, worldwide license under patent rights owned by the Whitehead Institute, Harvard and MIT to develop, make, use and sell products covered by the licensed patent rights for use in treating cancer, and to develop and perform licensed processes, in each case, for all human therapeutic, prognostic and diagnostic uses. 
+
+We are required to use commercially reasonable efforts to develop and commercialize licensed products under the agreement. In particular, we are required to fulfill specific development and regulatory milestones by particular dates and, during each calendar year, either spend a specified amount for research and development, actively conduct one or more clinical trials for a licensed product or a product identified using a licensed process that does not constitute a licensed product, which we refer to as an identified product, prepare, file or pursue a filed application for regulatory approval of a licensed product or an identified product, or launch or sell a licensed product or identified product. 
+
+Under the agreement, we paid the Whitehead Institute an upfront license fee and reimbursed patent related fees and costs incurred by the Whitehead Institute, Harvard and MIT totaling $104,000 in the aggregate and issued 166,664 shares of our common stock to the Whitehead Institute and entities and individuals affiliated with the Whitehead Institute. 
+
+We also agreed to pay the Whitehead Institute annual license maintenance fees, milestone payments, royalties as a percentage of net sales and a percentage of sublicense income that we receive. Annual license maintenance fees are creditable against royalties, which are described below, earned during the same calendar year. Milestone payments are triggered upon the achievement of specified development, regulatory and commercialization milestones and are not creditable against the royalties described below. For each licensed product, we agreed to make milestone payments of up to an aggregate of $1,560,000 plus an additional amount for each subsequent approval of additional indications for a maximum number of licensed products. For each identified product that is not a licensed product, we agreed to make milestone payments of up to an aggregate of $815,000 plus an additional amount for each subsequent approval of additional indications for a maximum number of identified products. Each type of specified milestone payment is payable only for each of the maximum number of licensed products and the maximum number of identified products, as the case may be, to achieve the applicable milestone. In addition, a separate milestone payment is due upon the first commercial sale of each licensed product or identified product that is a diagnostic or prognostic test. A single additional milestone payment is due for the first issuance of licensed patent rights in the United States, the United Kingdom, France, Germany, Spain or Italy. The royalty rate is in the low single digits as a percentage of net sales for licensed products that are therapeutics, the mid single digits for licensed products that are diagnostics or prognostics and less than one percent for identified products. 
+
+The Whitehead Institute, Harvard and MIT retain the right to, and may grant licenses to other academic and non &#8209;profit institutions for the right to, practice the licensed patent rights for research, teaching and educational purposes. The Whitehead Institute, Harvard, MIT or any such other institution could seek to license to third parties any intellectual property rights that it discovers using the licensed patent rights while pursuing these purposes. Under the agreement, we have a right, subject to the Whitehead Institute&#8217;s obligations under third party research funding agreements, to negotiate a license for any compounds identified prior to a specified date in the Whitehead Institute&#8217;s laboratory run by Dr. Weinberg that selectively target CSCs generated by induction through the EMT. 
+
+&#160;
+
+After a specified period of time, if a third party requests to sublicense the patent rights for a product or process that is not directly competitive with our products or processes, we must enter into good &#8209;faith negotiations to grant a sublicense for such proposed product or process. If we do not grant a sublicense within a specified period of time after receiving a written request, the Whitehead Institute may grant a license to the third party and our rights in the field of use of such sublicense will terminate. Additionally, after a specified period of time, if we are not actively conducting high &#8209;throughput screening using the licensed patent rights to identify product candidates, then, except for any rights directed to uses that we are actively developing, the Whitehead Institute may convert our license to the licensed patent rights from exclusive to non &#8209;exclusive. 
+
+We have the right to terminate the agreement for any reason upon at least 90 days&#8217; prior written notice. The Whitehead Institute has the right to terminate the agreement if we and all of our sublicensees cease to carry on business related to the agreement for a specified period of time, we fail to pay any amounts due and payable under the agreement to the Whitehead Institute, subject to a grace period, we materially breach the agreement and fail to cure such breach within a specified grace period or we or a sublicensee challenge the licensed patent rights in a legal or administrative proceeding. The agreement otherwise terminates upon the expiration or abandonment of all licensed patents and patent applications. 
+
+Cancer diagnostic license agreement 
+
+In October 2010, we entered into a separate license agreement with the Whitehead Institute, or the cancer diagnostic license agreement, under which we acquired a non &#8209;exclusive, worldwide license to patent rights owned by the Whitehead Institute for research purposes. In December 2011, we amended and restated this agreement with the Whitehead Institute. Under the amended and restated cancer diagnostic license agreement, we acquired an exclusive, royalty &#8209;bearing, worldwide license under these patent rights to develop, make, use and sell products covered by the licensed patent rights and to develop and perform services using a licensed product or the practice of the licensed patent rights for or on behalf of a third party, in each case, for cancer diagnostics and companion clinical uses. 
+
+Under the agreement, we paid the Whitehead Institute upfront license fees and reimbursed patent related fees and costs incurred by the Whitehead Institute totaling $70,000 in the aggregate. We also agreed to pay the Whitehead Institute annual license maintenance fees, milestone payments, royalties as a percentage of net sales and a percentage of sublicense income that we receive. Annual license maintenance fees are creditable against royalties, which are described below, earned during the same calendar year. Milestone payments of up to an aggregate of $825,000 are triggered upon the achievement of specified regulatory and commercialization milestones and are not creditable against the royalties described below. The royalty rate is in the mid &#8209;single digits as a percentage of net sales. 
+
+If we are required to pay royalties to a third party in consideration of a license or similar right in order to make, use or sell a licensed product or licensed service, then we may deduct up to 50% of the amounts paid to such third party, subject to specified limitations, from the payments that we owe to the Whitehead Institute for such licensed product or licensed service. 
+
+We are required to use commercially reasonable efforts to develop and commercialize licensed products or licensed services under the agreement. In particular, we are required to fulfill specific development, regulatory and commercialization milestones by particular dates and to commit a specified number of full time staff equivalents toward the development of a licensed product or licensed service until the first commercial sale of a licensed product or performance of a licensed service. 
+
+The Whitehead Institute retains the right to, and may grant licenses to other academic and non &#8209;profit institutions for the right to, practice the licensed patent rights for research, teaching and educational purposes. The Whitehead Institute or any such other institution could seek to license to third parties any intellectual property rights that it discovers using the licensed patent rights while pursuing these purposes. 
+
+After a specified period of time, if a third party requests to sublicense the patent rights for a product or service that is not directly competitive with our products or services, we must enter into good &#8209;faith negotiations to grant a sublicense for such proposed product or service. If we do not grant such a sublicense within a specified 
+
+&#160;
+
+period of time after receiving a written request, the Whitehead Institute may grant a license to the third party and our rights in the field of use of such sublicense will terminate. Additionally, after a specified period of time, if the market is not being reasonably served by us, as determined by the Whitehead Institute, and a third party requests to sublicense the patent rights for a product or service that is directly competitive with our products or services, we must enter into good &#8209;faith negotiations to grant a sublicense for such proposed product or service. If we do not grant such a sublicense within a specified period of time after receiving a written request, we and the Whitehead Institute have agreed to mutually select a qualified independent third party to set commercially reasonable terms and conditions consistent with similar technology in the industry under which we would sublicense our rights for such proposed product or service to the third party. Additionally, after a specified period of time, if we are not actively conducting efforts to validate, use or commercialize a license product or licensed service, then the Whitehead Institute may convert our license to the licensed patent rights from exclusive to nonexclusive. 
+
+We have the right to terminate the agreement for any reason upon at least 90 days&#8217; prior written notice. The Whitehead Institute has the right to terminate the agreement if we and all of our sublicensees cease to carry on business related to the agreement for a specified period of time, we fail to pay any amounts due and payable under the agreement to the Whitehead Institute, subject to a grace period, we materially breach the agreement and fail to cure such breach within a specified grace period or we or a sublicensee challenge the licensed patent rights in a legal or administrative proceeding. The agreement otherwise terminates upon the expiration or abandonment of all licensed patents and patent applications. 
+
+The Scripps Research Institute 
+
+In November 2011, we entered into a license agreement with Poniard Pharmaceuticals, Inc. ( Poniard ) , under which we acquired an exclusive, worldwide license under patent rights and know &#8209;how owned or controlled by Poniard to develop, make, use and sell compounds and products covered by the licensed patent rights for the diagnosis, treatment, prevention or control of all human diseases and conditions. These licensed patent rights include patent rights owned by The Scripps Research Institute ( Scripps ) , and licensed to Poniard. Under the agreement, we paid Poniard an upfront license fee and agreed to pay Poniard milestone payments upon the achievement of specified development and regulatory milestones. 
+
+On August 2, 2013, patents and other rights which were the subject of our license agreement with Poniard were sold to Encarta, Inc. ( Encarta ) . We purchased these assets from Encarta in an asset purchase agreement dated February 21, 2014 and also entered into a securities issuance agreement. Under the terms of these agreements, we issued 97,500 shares of common stock, issued a warrant to purchase 142,857 shares of common stock with an exercise price equal to $17.16 per share and paid Encarta $25,000. All existing obligations under the license agreement, including an achieved development milestone and an obligation to issue a warrant, were settled as part of this transaction. 
+
+In connection with the asset purchase agreement, we also assumed the rights and obligations under the license agreement by and between Scripps and Poniard, dated May 5, 2008 (the Scripps License Agreement ) . Pursuant to the Scripps License Agreement, we acquired an exclusive, worldwide license under patent rights owned or controlled by Scripps to make and have made, to use and have used, to offer to sell, to sell and have sold, and import products covered by the licensed patent rights for the diagnosis, treatment or prevention of human diseases or conditions. The licensed patent rights include patents covering our product candidate VS &#8209;4718. Under the Scripps License Agreement, Scripps retains the right to grant non &#8209;exclusive licenses to nonprofit or academic institutions, without the right to sublicense and to use any of the licensed patent rights for any noncommercial research or education purposes. 
+
+Pursuant to the Scripps License Agreement, we are obligated to pay Scripps potential product development milestone payments of up to an aggregate of $3,000,000 upon the achievement of specified development and regulatory milestones. In addition, we are obligated to pay Scripps low single &#8209;digit royalties as a percentage of net sales of licensed products. Our obligation to pay royalties on net sales is on a country by country basis. In the event that we challenge a patent or patent application covered by the Scripps License Agreement, our royalties will increase by fifty percent during the pendency of the challenge (and increase by one hundred percent in the event the challenge is not successful). We also forfeit the right to recoup any royalties, sublicense payments, milestone 
+
+&#160;
+
+payments, patent costs or other payments during the period of any challenge to the patents covered under the Scripps License Agreement. 
+
+If we license or acquire technology from a third party in order to commercialize a licensed product and to pay such third party royalties or other amounts, then we may deduct up to 50% of the amount paid to such third party from the payments owed to Scripps for such licensed product. This deduction is subject to specified limitations, including that in no event will any such deduction reduce a payment that we owe to Scripps to less than 50% of the otherwise applicable amount. 
+
+We are required to use reasonable and diligent efforts to commercialize (directly or through sublicense arrangements) licensed products (including our product candidate VS &#8209;4718) in either the United States, the United Kingdom, France, Germany or Japan. 
+
+The Scripps License Agreement expires upon the last expiration of any of the licensed patent rights. We have the right to terminate the Scripps License Agreement or any portion of our licensed rights under the Scripps License Agreement for any reason upon at least 90 days prior written notice and payment of a low five &#8209;figure termination fee. We are not responsible for the termination fee if Scripps defaults in the performance of its material obligations and fails to cure. Scripps can terminate the Scripps License Agreement for certain material breaches by us or defaults in our performance of material obligations. 
+
+Pfizer Inc. 
+
+On July 11, 2012, we entered into a license agreement with Pfizer under which Pfizer granted us worldwide, exclusive rights to research, develop, manufacture and commercialize products containing certain of Pfizer&#8217;s inhibitors of focal adhesion kinase, including VS &#8209;6063, for all therapeutic, diagnostic and prophylactic uses in humans. We have the right to grant sublicenses under the foregoing licensed rights, subject to certain restrictions. We are solely responsible, at our own expense, for the clinical development of these products, which is to be conducted in accordance with an agreed &#8209;upon development plan. We are also responsible for all manufacturing and commercialization activities at our own expense. Pfizer provided us with an initial quantity of clinical supplies of one of the products for an agreed upon price. 
+
+Upon entering into the license agreement, we made a one &#8209;time cash payment to Pfizer in the amount of $1.5 million and issued 192,012 shares of our common stock. Pfizer is also eligible to receive up to $2 million in developmental milestones and up to an additional $125 million based on the successful attainment of regulatory and commercial sales milestones. Pfizer is also eligible to receive high single to mid double digit royalties on future net sales of the products. Our royalty obligations with respect to each product in each country begin on the date of first commercial sale of the product in that country, and end on the later of 10 years after the date of first commercial sale of the product in that country or the date of expiration or abandonment of the last claim contained in any issued patent or patent application licensed by Pfizer to us that covers the product in that country. 
+
+The license agreement will remain in effect until the expiration of all of our royalty obligations to Pfizer, determined on a product &#8209;by &#8209;product and country &#8209;by &#8209;country basis. So long as we are not in breach of the license agreement, we have the right to terminate the license agreement at will on a product &#8209;by &#8209;product and country &#8209;by &#8209;country basis, or in its entirety, upon 90 days written notice to Pfizer. Either party has the right to terminate the license agreement in connection with an insolvency event involving the other party or a material breach of the license agreement by the other party that remains uncured for a specified period of time. If the license agreement is terminated by either party for any reason, worldwide rights to the research, development, manufacture and commercialization of the products revert back to Pfizer. 
+
+COMPETITION 
+
+The biotechnology and pharmaceutical industries are characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary products. While we believe that our technology, development experience and scientific knowledge provide us with competitive advantages, we face potential competition from many different sources, including major pharmaceutical, specialty pharmaceutical and 
+
+&#160;
+
+biotechnology companies, academic institutions and governmental agencies and public and private research institutions. Any product candidates that we successfully develop and commercialize will compete with existing therapies and new therapies that may become available in the future. 
+
+There are other companies working to develop therapies to treat cancer including some who also target CSCs. These companies include divisions of large pharmaceutical companies including Astellas Pharma Inc., Celgene, Inc., Sanofi &#8209;Aventis U.S. LLC, GlaxoSmithKline plc, Boehringer Ingelheim GmbH, Pfizer Inc. and others. There are also biotechnology companies of various sizes that are developing therapies against CSCs, including OncoMed Pharmaceuticals, Inc., Boston Biomedical Inc. (a division of Dainippon Sumitomo Corp), Stemline Therapeutics, Inc. and others. 
+
+Many of our competitors may have significantly greater financial resources and expertise in research and development, manufacturing, preclinical testing, conducting clinical trials, obtaining regulatory approvals and marketing approved products than we do. Mergers and acquisitions in the pharmaceutical, biotechnology and diagnostic industries may result in even more resources being concentrated among a smaller number of our competitors. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical trial sites and patient registration for clinical trials, as well as in acquiring technologies complementary to, or necessary for, our programs. Smaller or early stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. 
+
+The key competitive factors affecting the success of all of our product candidates, if approved, are likely to be their efficacy, safety, convenience, price, the level of generic competition and the availability of reimbursement from government and other third &#8209;party payors. 
+
+Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive than any products that we may develop. Our competitors also may obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for ours, which could result in our competitors establishing a strong market position before we are able to enter the market. In addition, our ability to compete may be affected in many cases by insurers or other third &#8209;party payors seeking to encourage the use of generic products. There are many generic products currently on the market for the indications that we are pursuing, and additional products are expected to become available on a generic basis over the coming years. If our therapeutic product candidates are approved, we expect that they will be priced at a significant premium over competitive generic products. 
+
+The most common methods of treating patients with cancer are surgery, radiation and drug therapy, including chemotherapy, hormone therapy and targeted drug therapy. There are a variety of available drug therapies marketed for cancer. In many cases, these drugs are administered in combination to enhance efficacy. While our product candidates may compete with many existing drug and other therapies, to the extent they are ultimately used in combination with or as an adjunct to these therapies, our product candidates will not be competitive with them. Some of the currently approved drug therapies are branded and subject to patent protection, and others are available on a generic basis. Many of these approved drugs are well established therapies and are widely accepted by physicians, patients and third &#8209;party payors. In general, although there has been considerable progress over the past few decades in the treatment of cancer and the currently marketed therapies provide benefits to many patients, these therapies all are limited to some extent in their efficacy and frequency of adverse events, and none of them are successful in treating all patients. As a result, the level of morbidity and mortality from cancer remains high. 
+
+In addition to currently marketed therapies, there are also a number of products in late stage clinical development to treat cancer. These products in development may provide efficacy, safety, convenience and other benefits that are not provided by currently marketed therapies. As a result, they may provide significant competition for any of our product candidates for which we obtain market approval. 
+
+MANUFACTURING 
+
+We do not own or operate, and currently have no plans to establish, any manufacturing facilities. We currently rely, and expect to continue to rely, on third parties for the manufacture of our product candidates and any 
+
+&#160;
+
+products that we may develop, other than small amounts of compounds that we may synthesize ourselves for preclinical testing. To date, we have obtained starting materials for our supply of the bulk drug substance for our product candidates from third &#8209;party manufacturers. We obtain our supplies from these manufacturers on a purchase order basis and do not have a long &#8209;term supply arrangement in place. We do not currently have arrangements in place for redundant supply or a second source for bulk drug substance. If our current third &#8209;party manufacturers should become unavailable to us for any reason, we believe that there are several potential replacements, although we might incur some delay in identifying and qualifying such replacements. 
+
+All of our drug candidates are organic compounds of low molecular weight, generally called small molecules. We select compounds not only on the basis of their potential efficacy and safety, but also for their ease of synthesis and reasonable cost of their starting materials. We expect to continue to develop drug candidates that can be produced cost &#8209;effectively at third &#8209;party manufacturing facilities. 
+
+GOVERNMENT REGULATION 
+
+Government authorities in the United States, at the federal, state and local level, and in other countries extensively regulate, among other things, the research, development, testing, manufacture, including any manufacturing changes, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, post &#8209;approval monitoring and reporting, import and export of pharmaceutical products, such as those we are developing. 
+
+United States drug approval process 
+
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act ( FDCA ), the Public Health Service Act and implementing regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable United States requirements at any time during the product development process, approval process or after approval, may subject an applicant to a variety of administrative or judicial sanctions, such as the FDA&#8217;s refusal to approve pending applications, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters, product recalls, product seizures, total or partial suspension of production or distribution injunctions, fines, refusals of government contracts, restitution, disgorgement of profits or civil or criminal penalties. 
+
+The process required by the FDA before a drug may be marketed in the United States generally involves the following: 
+
+&#183; 
+
+completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA&#8217;s good laboratory practice ( GLP ) regulations; 
+
+&#183; 
+
+submission to the FDA of an investigational new drug (IND) application , which must become effective before human clinical trials may begin; 
+
+&#183; 
+
+approval by an independent institutional review board ( IRB ) at each clinical site before each trial may be initiated; 
+
+&#183; 
+
+performance of adequate and well &#8209;controlled human clinical trials in accordance with good clinical practices ( GCP ) to establish the safety and efficacy of the proposed drug for each indication; 
+
+&#183; 
+
+submission to the FDA of a new drug application ( NDA ) ; 
+
+&#183; 
+
+satisfactory completion of an FDA advisory committee review, if applicable; 
+
+&#160;
+
+&#183; 
+
+satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current good manufacturing practices ( cGMP ) requirements and to assure that the facilities, methods and controls are adequate to preserve the drug&#8217;s identity, strength, quality and purity; and 
+
+&#183; 
+
+FDA review and approval of the NDA. 
+
+Preclinical studies 
+
+Preclinical studies include laboratory evaluation of product chemistry and formulation, as well as in vitro and animal studies to assess the potential for adverse events and in some cases to establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including GLP regulations. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical studies, among other things, to the FDA as part of an IND. Some long &#8209;term preclinical testing, such as animal tests of reproductive adverse events and carcinogenicity, may continue after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to one or more proposed clinical trials and places the trial on clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence. 
+
+Clinical trials 
+
+Clinical trials involve the administration of the investigational new drug to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include, among other things, the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under written study protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB at each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution, and the IRB must conduct continuing review. The IRB must review and approve, among other things, the study protocol and informed consent information to be provided to study subjects. An IRB must operate in compliance with FDA regulations. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health for public dissemination on their ClinicalTrials.gov website. 
+
+Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined: 
+
+&#183; 
+
+Phase 1: The drug is initially introduced into healthy human subjects or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness. 
+
+&#183; 
+
+Phase 2: The drug is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage. 
+
+&#183; 
+
+Phase 3: The drug is administered to an expanded patient population in adequate and well &#8209;controlled clinical trials to generate sufficient data to statistically confirm the efficacy and safety of the product for approval, to establish the overall risk &#8209;benefit profile of the product and to provide adequate information for the labeling of the product. 
+
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if serious adverse events occur. Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or 
+
+&#160;
+
+terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB&#8217;s requirements or if the drug has been associated with unexpected serious harm to patients. 
+
+Marketing approval 
+
+Assuming successful completion of the required clinical testing, the results of the preclinical and clinical studies, together with detailed information relating to the product&#8217;s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA requesting approval to market the product for one or more indications. Under federal law, the submission of most NDAs is additionally subject to a substantial application user fee, currently exceeding $2.3 million, and the sponsor of an approved NDA is also subject to annual product and establishment user fees, currently exceeding $110,000 per product and $560,000 per establishment. These fees are typically increased annually. 
+
+The FDA conducts a preliminary review of all NDAs within the first 60 days after submission before accepting them for filing to determine whether they are sufficiently complete to permit substantive review. The FDA may request additional information rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in &#8209;depth substantive review. The FDA has agreed to specified performance goals in the review of NDAs. Under these goals, the FDA has committed to review most such applications for non &#8209;priority products within 10 months after accepting the application for filing, and most applications for priority review products, that is, drugs that the FDA determines represent a significant improvement over existing therapy, within six months after accepting the application for filing. The review process may be extended by the FDA for three additional months to consider certain information or clarification regarding information already provided in the submission. The FDA may also refer applications for novel drugs or products that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. 
+
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. In addition, before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP and integrity of the clinical data submitted. 
+
+The testing and approval process requires substantial time, effort and financial resources, and each may take many years to complete. Data obtained from clinical activities are not always conclusive and may be susceptible to varying interpretations, which could delay, limit or prevent regulatory approval. The FDA may not grant approval on a timely basis, or at all. We may encounter difficulties or unanticipated costs in our efforts to develop our product candidates and secure necessary governmental approvals, which could delay or preclude us from marketing our products. 
+
+After the FDA&#8217;s evaluation of the NDA and inspection of the manufacturing facilities, the FDA may issue an approval letter or a complete response letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing or information in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA&#8217;s satisfaction in a resubmission of the NDA, the FDA will issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval and refuse to approve the NDA. 
+
+Even if the FDA approves a product, it may limit the approved indications for use for the product, require that contraindications, warnings or precautions be included in the product labeling, require that post &#8209;approval 
+
+&#160;
+
+studies, including Phase 4 clinical trials, be conducted to further assess a drug&#8217;s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution restrictions or other risk management mechanisms, which can materially affect the potential market and profitability of the product. The FDA may prevent or limit further marketing of a product based on the results of post &#8209;market studies or surveillance programs. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further testing requirements and FDA review and approval. 
+
+Fast track designation 
+
+The FDA is required to facilitate the development and expedite the review of drugs that are intended for the treatment of a serious or life &#8209;threatening condition for which there is no effective treatment and which demonstrate the potential to address unmet medical needs for the condition. Under the fast track program, the sponsor of a new drug candidate may request the FDA to designate the product for a specific indication as a fast track product concurrent with or after the filing of the IND for the product candidate. The FDA must determine if the product candidate qualifies for fast track designation within 60 days after receipt of the sponsor&#8217;s request. 
+
+In addition to other benefits, such as the ability to use surrogate endpoints and have greater interactions with the FDA, the FDA may initiate review of sections of a fast track product&#8217;s NDA before the application is complete. This rolling review is available if the applicant provides and the FDA approves a schedule for the submission of the remaining information and the applicant pays applicable user fees. However, the FDA&#8217;s time period goal for reviewing a fast track application does not begin until the last section of the NDA is submitted. In addition, the fast track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process. 
+
+Priority review 
+
+Under FDA policies, a product candidate may be eligible for priority review, or review within a six &#8209;month time frame from the time a complete application is accepted for filing. Products regulated by the FDA&#8217;s Center for Drug Evaluation and Research ( CDER ) are eligible for priority review if they provide a significant improvement compared to marketed products in the treatment, diagnosis or prevention of a disease. A fast track designated product candidate would ordinarily meet the FDA&#8217;s criteria for priority review. 
+
+Accelerated approval 
+
+Under the FDA&#8217;s accelerated approval regulations, the FDA may approve a drug for a serious or life &#8209;threatening illness that provides meaningful therapeutic benefit to patients over existing treatments based upon a surrogate endpoint that is reasonably likely to predict clinical benefit. In clinical trials, a surrogate endpoint is a measurement of laboratory or clinical signs of a disease or condition that substitutes for a direct measurement of how a patient feels, functions or survives. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. A product candidate approved on this basis is subject to rigorous post &#8209;marketing compliance requirements, including the completion of Phase 4 or post &#8209;approval clinical trials to confirm the effect on the clinical endpoint. Failure to conduct required post &#8209;approval studies, or confirm a clinical benefit during post &#8209;marketing studies, would allow the FDA to withdraw the drug from the market on an expedited basis. All promotional materials for drug candidates approved under accelerated regulations are subject to prior review by the FDA. 
+
+Orphan drugs 
+
+Under the Orphan Drug Act, the FDA may grant orphan drug designation to drugs intended to treat a rare disease or condition, which is generally defined as a disease or condition that affects fewer than 200,000 individuals in the United States. Orphan drug designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the generic identity of the drug and its potential orphan use are disclosed publicly by the FDA. Orphan drug designation does not convey any advantage in, or shorten the duration of, the regulatory review and approval process. The first NDA applicant to receive FDA approval for a particular active ingredient to treat a particular disease with FDA orphan drug designation is entitled to a seven &#8209;year exclusive marketing period in the 
+
+&#160;
+
+United States for that product, for that indication. During the seven &#8209;year exclusivity period, the FDA may not approve any other applications to market the same drug for the same orphan indication, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity in that it is shown to be safer, more effective or makes a major contribution to patient care. Orphan drug exclusivity does not prevent the FDA from approving a different drug for the same disease or condition, or the same drug for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the NDA application user fee. 
+
+Pediatric information 
+
+Under the Pediatric Research Equity Act of 2003, as amended and reauthorized by the Food and Drug Administration Amendments Act of 2007 ( FDAAA ) , an NDA or supplement to an NDA must contain data that are adequate to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements. Unless otherwise required by regulation, the pediatric data requirements do not apply to products with orphan drug designation. 
+
+The Hatch &#8209;Waxman act 
+
+Abbreviated new drug applications 
+
+In seeking approval for a drug through an NDA, applicants are required to list with the FDA each patent with claims that cover the applicant&#8217;s product or a method of using the product. Upon approval of a drug, each of the patents listed in the application for the drug is then published in the FDA&#8217;s Approved Drug Products with Therapeutic Equivalence Evaluations, commonly known as the Orange Book. Drugs listed in the Orange Book can, in turn, be cited by potential competitors in support of approval of an abbreviated new drug application ( ANDA ) . Generally, an ANDA provides for marketing of a drug product that has the same active ingredients in the same strengths, dosage form and route of administration as the listed drug and has been shown to be bioequivalent through in vitro or in vivo testing or otherwise to the listed drug. ANDA applicants are not required to conduct or submit results of preclinical or clinical tests to prove the safety or effectiveness of their drug product, other than the requirement for bioequivalence testing. Drugs approved in this way are commonly referred to as &#8220;generic equivalents&#8221; to the listed drug, and can often be substituted by pharmacists under prescriptions written for the original listed drug. 
+
+The ANDA applicant is required to certify to the FDA concerning any patents listed for the approved product in the FDA&#8217;s Orange Book, except for patents covering methods of use for which the ANDA applicant is not seeking approval. Specifically, the applicant must certify with respect to each patent that: 
+
+&#183; 
+
+the required patent information has not been filed; 
+
+&#183; 
+
+the listed patent has expired; 
+
+&#183; 
+
+the listed patent has not expired, but will expire on a particular date and approval is sought after patent expiration; or 
+
+&#183; 
+
+the listed patent is invalid, unenforceable or will not be infringed by the new product. 
+
+A certification that the new product will not infringe the already approved product&#8217;s listed patents or that such patents are invalid or unenforceable is called a Paragraph IV certification. If the applicant does not challenge the listed patents or indicate that it is not seeking approval of a patented method of use, the ANDA application will not be approved until all the listed patents claiming the referenced product have expired. 
+
+&#160;
+
+If the ANDA applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders once the ANDA has been accepted for filing by the FDA. The NDA and patent holders may then initiate a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within 45 days after the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA until the earlier of 30 months after the NDA or patent holder&#8217;s receipt of the Paragraph IV certification, expiration of the patent, settlement of the lawsuit or a decision in the infringement case that is favorable to the ANDA applicant. 
+
+The ANDA also will not be approved until any applicable non &#8209;patent exclusivity period, such as exclusivity for obtaining approval of a new chemical entity, for the referenced product has expired. Federal law provides a period of five years following approval of a drug containing no previously approved active moiety during which ANDAs for generic versions of those drugs cannot be submitted unless the submission contains a Paragraph IV challenge to a listed patent, in which case the submission may be made four years following the original product approval. Federal law provides for a period of three years of exclusivity during which the FDA cannot grant effective approval of an ANDA for the conditions of use covered by the exclusivity, but FDA requires as a condition of approval new clinical trials conducted by or for the sponsor. This three &#8209;year exclusivity period often protects changes to a previously approved drug product, such as a new dosage form, route of administration, combination or indication. Under the Best Pharmaceuticals for Children Act, federal law also provides that periods of patent and non &#8209;patent marketing exclusivity listed in the Orange Book for a drug may be extended by six months if the NDA sponsor conducts pediatric studies identified by the FDA in a written request. For written requests issued by the FDA after September 27, 2007, the date of enactment of the FDAAA, the FDA must grant pediatric exclusivity no later than nine months prior to the date of expiration of patent or non &#8209; patent exclusivity in order for the six &#8209;month pediatric extension to apply to that exclusivity period. 
+
+Section 505(b)(2) new drug applications 
+
+Most drug products obtain FDA marketing approval pursuant to an NDA or an ANDA. A third alternative is a special type of NDA, commonly referred to as a Section 505(b)(2) NDA, which enables the applicant to rely, in part, on the FDA&#8217;s previous approval of a similar product, or published literature, in support of its application. 
+
+505(b)(2) NDAs often provide an alternate path to FDA approval for new or improved formulations or new uses of previously approved products. Section 505(b)(2) permits the filing of an NDA where at least some of the information required for approval comes from studies not conducted by or for the applicant and for which the applicant has not obtained a right of reference. If the 505(b)(2) applicant can establish that reliance on the FDA&#8217;s previous approval is scientifically appropriate, it may eliminate the need to conduct certain preclinical or clinical studies of the new product. The FDA may also require companies to perform additional studies or measurements to support the change from the approved product. The FDA may then approve the new product candidate for all or some of the label indications for which the referenced product has been approved, as well as for any new indication sought by the Section 505(b)(2) applicant. 
+
+To the extent that the Section 505(b)(2) applicant is relying on studies conducted for an already approved product, the applicant is required to certify to the FDA concerning any patents listed for the approved product in the Orange Book to the same extent that an ANDA applicant would. As a result, approval of a 505(b)(2) NDA can be stalled until all the listed patents claiming the referenced product have expired, until any non &#8209;patent exclusivity, such as exclusivity for obtaining approval of a new chemical entity, listed in the Orange Book for the referenced product has expired, and, in the case of a Paragraph IV certification and subsequent patent infringement suit, until the earlier of 30 months, settlement of the lawsuit or a decision in the infringement case that is favorable to the Section 505(b)(2) applicant. 
+
+Combination products 
+
+The FDA regulates combinations of products that cross FDA centers, such as drug, biologic or medical device components that are physically, chemically or otherwise combined into a single entity, as a combination product. The FDA center with primary jurisdiction for the combination product will take the lead in the premarket review of the product, with the other center consulting or collaborating with the lead center. 
+
+&#160;
+
+The FDA&#8217;s Office of Combination Products ( OCP ) determines which center will have primary jurisdiction for the combination product based on the combination product&#8217;s &#8220;primary mode of action.&#8221; A mode of action is the means by which a product achieves an intended therapeutic effect or action. The primary mode of action is the mode of action that provides the most important therapeutic action of the combination product, or the mode of action expected to make the greatest contribution to the overall intended therapeutic effects of the combination product. 
+
+Often it is difficult for the OCP to determine with reasonable certainty the most important therapeutic action of the combination product. In those difficult cases, the OCP will consider consistency with other combination products raising similar types of safety and effectiveness questions, or which center has the most expertise to evaluate the most significant safety and effectiveness questions raised by the combination product. 
+
+A sponsor may use a voluntary formal process, known as a Request for Designation, when the product classification is unclear or in dispute, to obtain a binding decision as to which center will regulate the combination product. If the sponsor objects to that decision, it may request that the agency reconsider that decision. 
+
+Overview of FDA regulation of companion diagnostics 
+
+We are developing in vitro companion diagnostics for use in selecting the patients that we believe will respond to our cancer therapeutics. 
+
+FDA officials have issued guidance that address issues critical to developing in vitro companion diagnostics, such as biomarker qualification, establishing clinical validity, the use of retrospective data, the appropriate patient population and when the FDA will require that the device and the drug be approved simultaneously. The guidance issued in August 2014 states that if safe and effective use of a therapeutic product depends on an in vitro diagnostic, then the FDA generally will require approval or clearance of the diagnostic at the same time that the FDA approves the therapeutic product. 
+
+The FDA previously has required in vitro companion diagnostics intended to select the patients who will respond to the cancer treatment to obtain Pre &#8209;Market Approval ( PMA ) , simultaneously with approval of the drug. Based on the draft guidance, and the FDA&#8217;s past treatment of companion diagnostics, we believe that the FDA will require one or more of our in vitro companion diagnostics to obtain PMA for our companion diagnostics to identify patient populations suitable for our cancer therapies, such as the in vitro companion diagnostic for our product candidates. The review of these in vitro companion diagnostics in conjunction with the review of our cancer treatments involves coordination of review by CDER and by the FDA&#8217;s Center for Devices and Radiological Health Office of In Vitro Diagnostics Device Evaluation and Safety. 
+
+PMA approval pathway 
+
+A medical device, including an in vitro diagnostic ( IVD ) to be commercially distributed in the United States must receive either 510(k) clearance or PMA approval from the FDA prior to marketing. Devices deemed by the FDA to pose the greatest risk, such as life &#8209;sustaining, life supporting or implantable devices, or devices deemed not substantially equivalent to a previously 510(k) cleared device or a preamendment class III device for which PMA applications have not been called, are placed in Class III requiring PMA approval. The PMA approval pathway requires proof of the safety and effectiveness of the device to the FDA&#8217;s satisfaction. 
+
+The PMA approval pathway generally takes from one to three years or even longer from submission of the application. 
+
+A PMA application for an IVD must provide extensive preclinical and clinical trial data. Preclinical data for an IVD includes many different tests, including how reproducible the results are when the same sample is tested multiple times by multiple users at multiple laboratories. The clinical data need to establish that the test is sufficiently safe, effective and reliable in the intended use population. In addition, the FDA must be convinced that a device has clinical utility, meaning that an IVD provides information that is clinically meaningful. A biomarker&#8217;s clinical significance may be obvious, or the applicant may be able to rely upon published literature or submit data to show clinical utility. 
+
+&#160;
+
+A PMA application also must provide information about the device and its components regarding, among other things, device design, manufacturing and labeling. The sponsor must pay an application fee. 
+
+As part of the PMA review, the FDA will typically inspect the manufacturer&#8217;s facilities for compliance with Quality System Regulation ( QSR ) requirements, which impose elaborate testing, control, documentation and other quality assurance procedures. 
+
+Upon submission, the FDA determines if the PMA application is sufficiently complete to permit a substantive review, and, if so, the FDA accepts the application for filing. The FDA then commences an in &#8209;depth review of the PMA application. The entire process typically takes one to three years, but may take longer. The review time is often significantly extended as a result of the FDA asking for more information or clarification of information already provided. The FDA also may respond with a not approvable determination based on deficiencies in the application and require additional clinical trials that are often expensive and time &#8209;consuming and can substantially delay approval. 
+
+During the review period, an FDA advisory committee, typically a panel of clinicians, may be convened to review the application and recommend to the FDA whether, or upon what conditions, the device should be approved. Although the FDA is not bound by the advisory panel decision, the panel&#8217;s recommendation is important to the FDA&#8217;s overall decision making process. 
+
+If the FDA&#8217;s evaluation of the PMA application is favorable, the FDA typically issues an approvable letter requiring the applicant&#8217;s agreement to specific conditions, such as changes in labeling, or specific additional information, such as submission of final labeling, in order to secure final approval of the PMA. If the FDA concludes that the applicable criteria have been met, the FDA will issue an approval order, which may be for more limited indications than those originally sought by the manufacturer. The approval order can include post &#8209;approval conditions that the FDA believes necessary to ensure the safety and effectiveness of the device, including, among other things, restrictions on labeling, promotion, sale and distribution. Failure to comply with the conditions of approval can result in material adverse enforcement action, including the loss or withdrawal of the approval. 
+
+Even after approval of a PMA, a new PMA or PMA supplement may be required in the event of a modification to the device, its labeling or its manufacturing process. Supplements to a PMA often require the submission of the same type of information required for an original PMA, except that the supplement is generally limited to the information needed to support the proposed change from the product covered by the original PMA. 
+
+Clinical trials 
+
+A clinical trial is almost always required to support a PMA application. In some cases, one or more smaller Investigational Device Exemption ( IDE ) studies may precede a pivotal clinical trial intended to demonstrate the safety and efficacy of the investigational device. 
+
+All clinical studies of investigational devices must be conducted in compliance with the FDA&#8217;s requirements. If an investigational device could pose a significant risk to patients pursuant to FDA regulations, the FDA must approve an IDE application prior to initiation of investigational use. IVD trials usually do not require an IDE, as the FDA does not judge them to be a significant risk because the results do not affect the patient&#8217;s safety in the study. The FDA has confirmed that one of our IVDs does not need an IDE application as it does not pose significant risk at this time. Should interim clinical trial data detect a safety signal between patients who test positive or negative for the specific biomarker, then a IDE would be required. 
+
+An IDE application must be supported by appropriate data, such as laboratory test results, showing that it is safe to test the device in humans and that the testing protocol is scientifically sound. The FDA typically grants IDE approval for a specified number of patients. A nonsignificant risk device does not require FDA approval of an IDE. Both significant risk and nonsignificant risk investigational devices require approval from IRBs at the study centers where the device will be used. 
+
+&#160;
+
+During the trial, the sponsor must comply with the FDA&#8217;s IDE requirements for investigator selection, trial monitoring, reporting and record keeping. The investigators must obtain patient informed consent, rigorously follow the investigational plan and study protocol, control the disposition of investigational devices and comply with all reporting and record keeping requirements. Prior to granting PMA approval, the FDA typically inspects the records relating to the conduct of the study and the clinical data supporting the PMA application for compliance with applicable requirements. 
+
+Although the QSR does not fully apply to investigational devices, the requirement for controls on design and development does apply. The sponsor also must manufacture the investigational device in conformity with the quality controls described in the IDE application and any conditions of IDE approval that the FDA may impose with respect to manufacturing. 
+
+Post &#8209;market 
+
+After a device is on the market, numerous regulatory requirements apply. These requirements include: the QSR, labeling regulations, the FDA&#8217;s general prohibition against promoting products for unapproved or &#8220;off label&#8221; uses, the Medical Device Reporting regulation, which requires that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur, and regulations requiring manufacturers to report recalls and field actions to the FDA if initiated to reduce a risk to health posed by the device or to remedy a violation of the FDCA. 
+
+The FDA enforces these requirements by inspection and market surveillance. If the FDA finds a violation, it can institute a wide variety of enforcement actions, ranging from a public warning letter to more severe sanctions such as: fines, injunctions and civil penalties; recall or seizure of products; operating restrictions, partial suspension or total shutdown of production; refusing requests for PMA approval of new products; withdrawing PMA approvals already granted; and criminal prosecution. 
+
+Other regulatory requirements 
+
+Any drug manufactured or distributed by us pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims are subject to prior FDA review and approval. 
+
+The FDA may impose a number of post &#8209;approval requirements as a condition of approval of an NDA. For example, the FDA may require post &#8209;marketing testing, including Phase 4 clinical trials, and surveillance to further assess and monitor the product&#8217;s safety and effectiveness after commercialization. Regulatory approval of oncology products often requires that patients in clinical trials be followed for long periods to determine the overall survival benefit of the drug. 
+
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies, and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon us and any third &#8209;party manufacturers that we may decide to use. Accordingly, manufacturers must continue to expend time, money and effort in the areas of production and quality control to maintain cGMP compliance. 
+
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in 
+
+&#160;
+
+revisions to the approved labeling to add new safety information, imposition of post &#8209;market studies or clinical trials to assess new safety risks or imposition of distribution or other restrictions under a Risk Evaluation and Mitigation Strategy program. Other potential consequences include, among other things: 
+
+&#183; 
+
+restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls; 
+
+&#183; 
+
+fines, warning letters or holds on post &#8209;approval clinical trials; 
+
+&#183; 
+
+refusal of the FDA to approve pending applications or supplements to approved applications, or suspension or revocation of product license approvals; 
+
+&#183; 
+
+product seizure or detention, or refusal to permit the import or export of products; or 
+
+&#183; 
+
+consent decrees, injunctions or the imposition of civil or criminal penalties. 
+
+The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs may be promoted only for the approved indications and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off label uses, and a company that is found to have improperly promoted off label uses may be subject to significant liability. 
+
+Additional provisions 
+
+Anti &#8209;kickback and false claims laws 
+
+In addition to FDA restrictions on marketing of pharmaceutical products, several other types of state and federal laws have been applied to restrict certain marketing practices in the pharmaceutical industry in recent years. These laws include anti &#8209;kickback statutes and false claims statutes. The federal healthcare program anti &#8209;kickback statute prohibits, among other things, knowingly and willfully offering, paying, soliciting or receiving remuneration to induce or in return for purchasing, leasing, ordering or arranging for the purchase, lease or order of any healthcare item or service reimbursable under Medicare, Medicaid or other federally financed healthcare programs. This statute has been interpreted to apply to arrangements between pharmaceutical manufacturers on the one hand and prescribers, purchasers and formulary managers on the other. Violations of the anti &#8209;kickback statute are punishable by imprisonment, criminal fines, civil monetary penalties and exclusion from participation in federal healthcare programs. Although there are a number of statutory exemptions and regulatory safe harbors protecting certain common activities from prosecution or other regulatory sanctions, the exemptions and safe harbors are drawn narrowly, and practices that involve remuneration intended to induce prescribing, purchases or recommendations may be subject to scrutiny if they do not qualify for an exemption or safe harbor. 
+
+Federal false claims laws prohibit any person from knowingly presenting, or causing to be presented, a false claim for payment to the federal government, or knowingly making, or causing to be made, a false statement to have a false claim paid. Recently, several pharmaceutical and other healthcare companies have been prosecuted under these laws for allegedly inflating drug prices they report to pricing services, which in turn were used by the government to set Medicare and Medicaid reimbursement rates, and for allegedly providing free product to customers with the expectation that the customers would bill federal programs for the product. In addition, certain marketing practices, including off &#8209; label promotion, may also violate false claims laws. The majority of states also have statutes or regulations similar to the federal anti &#8209;kickback law and false claims laws, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor. 
+
+Physician drug samples 
+
+As part of the sales and marketing process, pharmaceutical companies frequently provide samples of approved drugs to physicians. The Prescription Drug Marketing Act ( PDMA ) imposes requirements and limitations upon the provision of drug samples to physicians, as well as prohibits states from licensing distributors of 
+
+&#160;
+
+prescription drugs unless the state licensing program meets certain federal guidelines that include minimum standards for storage, handling and record keeping. In addition, the PDMA sets forth civil and criminal penalties for violations. 
+
+Foreign regulation 
+
+In order to market any product outside of the United States, we would need to comply with numerous and varying regulatory requirements of other countries regarding safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of our products. Whether or not we obtain FDA approval for a product, we would need to obtain the necessary approvals by the comparable regulatory authorities of foreign countries before we can commence clinical trials or marketing of the product in those countries. The approval process varies from country to country and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country may negatively impact the regulatory process in others. 
+
+To date, we have not initiated any discussions with the European Medicines Agency or any other foreign regulatory authorities with respect to seeking regulatory approval for any of our products in Europe or in any other country outside the United States. 
+
+New legislation and regulations 
+
+From time to time, legislation is drafted, introduced and passed in Congress that could significantly change the statutory provisions governing the testing, approval, manufacturing and marketing of products regulated by the FDA. For example, the FDAAA discussed above was enacted in 2007. In addition to new legislation, FDA regulations and policies are often revised or interpreted by the agency in ways that may significantly affect our business and our products. It is impossible to predict whether further legislative changes will be enacted or whether FDA regulations, guidance, policies or interpretations changed or what the effect of such changes, if any, may be. 
+
+Pharmaceutical coverage, pricing and reimbursement 
+
+Significant uncertainty exists as to the coverage and reimbursement status of any drug products for which we obtain regulatory approval. Sales of any of our product candidates, if approved, will depend, in part, on the extent to which the costs of the products will be covered by third &#8209;party payors, including government health programs such as Medicare and Medicaid, commercial health insurers and managed care organizations. The process for determining whether a payor will provide coverage for a drug product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the drug product once coverage is approved. Third &#8209;party payors may limit coverage to specific drug products on an approved list, or formulary, which might not include all of the approved drugs for a particular indication. 
+
+In order to secure coverage and reimbursement for any product that might be approved for sale, we may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost &#8209;effectiveness of the product, in addition to the costs required to obtain FDA or other comparable regulatory approvals. Our product candidates may not be considered medically necessary or cost &#8209;effective. A payor&#8217;s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Third &#8209;party reimbursement may not be sufficient to enable us to maintain price levels high enough to realize an appropriate return on our investment in product development. 
+
+The containment of healthcare costs has become a priority of federal, state and foreign governments, and the prices of drugs have been a focus in this effort. Third &#8209;party payors are increasingly challenging the prices charged for medical products and services and examining the medical necessity and cost &#8209;effectiveness of medical products and services, in addition to their safety and efficacy. If these third &#8209;party payors do not consider our products to be cost &#8209;effective compared to other available therapies, they may not cover our products after approval as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our 
+
+&#160;
+
+products at a profit. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost containment programs to limit the growth of government &#8209;paid health care costs, including price controls, restrictions on reimbursement and requirements for substitution of generic products for branded prescription drugs. Adoption of such controls and measures, and tightening of restrictive policies in jurisdictions with existing controls and measures, could limit payments for pharmaceuticals such as the drug candidates that we are developing and could adversely affect our net revenue and results. 
+
+Pricing and reimbursement schemes vary widely from country to country. Some countries provide that drug products may be marketed only after a reimbursement price has been agreed. Some countries may require the completion of additional studies that compare the cost &#8209;effectiveness of a particular product candidate to currently available therapies. For example, the European Union provides options for its member states to restrict the range of drug products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. European Union member states may approve a specific price for a drug product or may instead adopt a system of direct or indirect controls on the profitability of the company placing the drug product on the market. Other member states allow companies to fix their own prices for drug products, but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become very intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross &#8209;border imports from low &#8209;priced markets exert competitive pressure that may reduce pricing within a country. There can be no assurance that any country that has price controls or reimbursement limitations for drug products will allow favorable reimbursement and pricing arrangements for any of our products. 
+
+The marketability of any products for which we receive regulatory approval for commercial sale may suffer if the government and third &#8209;party payors fail to provide adequate coverage and reimbursement. In addition, an increasing emphasis on managed care in the United States has increased and we expect will continue to increase the pressure on drug pricing. Coverage policies, third &#8209;party reimbursement rates and drug pricing regulation may change at any time. In particular, the Patient Protection and Affordable Care Act was enacted in the United States in March 2010 and contain provisions that may reduce the profitability of drug products, including, for example, increased rebates for drugs sold to Medicaid programs, extension of Medicaid rebates to Medicaid managed care plans, mandatory discounts for certain Medicare Part D beneficiaries and annual fees based on pharmaceutical companies&#8217; share of sales to federal health care programs. Even if favorable coverage and reimbursement status is attained for one or more products for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future. 
+
+EMPLOYEES 
+
+As of February 22, 2016, we had 22 full &#8209;time equivalent employee s , including a total of 4 employees with M.D. or Ph.D. degrees. Of these full &#8209;time employees, 9 employees are engaged in research and development activities. None of our employees is represented by a labor union or covered by a collective bargaining agreement. We consider our relationship with our employees to be good. 
+
+BUSINESS&#8212;EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+The following table sets forth the name, age and position of each of our executive officers as of February 22 , 2016. 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+&#160; 
+
+Robert Forrester 
+
+President, Chief Executive Officer 
+
+John Green 
+
+Chief Financial Officer 
+
+Daniel Paterson 
+
+Chief Operating Officer 
+
+&#160; 
+
+Robert Forrester has served has served as our Chief Executive Officer since July 2013, as our Chief Operating Officer from March 2011 until July 2013 and our President since January 2013. Mr. Forrester has previously held executive level positions at both private and public life sciences companies. Prior to joining us, Mr. Forrester served as Chief Operating Officer of Forma Therapeutics, Inc. from 2010 until 2011. Previously he 
+
+&#160;
+
+served as Interim President and Chief Executive Officer of CombinatoRx, Inc. from 2009 until 2010 and as its Executive Vice President and Chief Financial Officer from 2004 to 2009. Mr. Forrester served as Senior Vice President, Finance and Corporate Development at Coley Pharmaceuticals Group, Inc. from 2000 to 2003. He earned his LL.B. from Bristol University in England. 
+
+John (Jack) Green has served as our Chief Financial Officer since May 2013 , presently on a part-time basis. Prior to joining the Company, from March 2011 until November 2012, Mr. Green was Vice President, Finance and a key member of the senior management team for On &#8209;Q &#8209;ity , a developer of technology to capture and analyze circulating tumor cells. Previously, from May 2002 until June 2010, Mr. Green was the Senior Vice President and Chief Financial Officer of GTC Biotherapeutics (formerly Genzyme Transgenics Corporation) which was spun out from Genzyme Corporation as a stand &#8209;alone public company. Mr. Green is a Certified Public Accountant (CPA) with over 30 years of financial experience, including 20 within the biotechnology industry. Mr. Green received a Master&#8217;s degree in Business Administration from Boston University Graduate School of Management and a Bachelor&#8217;s degree from the College of the Holy Cross. 
+
+Daniel Paterson has served as our Chief Operating Officer since December 2014, our Chief Business Officer from July 2013 to December 2014 and as our Vice President, Head of Corporate Development and Diagnostics from March 2012 until July 2013. Prior to joining us, Mr. Paterson was a consultant in 2011 until joining us in 2012. From 2009 through 2010, Mr. Paterson was the COO of On &#8209;Q &#8209;ity. Mr. Paterson was the President and CEO of The DNA Repair Company from 2006 until 2009, when it was acquired by On &#8209;Q &#8209;ity. Previously, he held senior level positions at IMS Health, CareTools, OnCare and Axion. 
+
+OUR CORPORATE INFORMATION 
+
+We were incorporated under the laws of the State of Delaware in August 2010. Our principal executive offices are located at 117 Kendrick Street, Suite 500, Needham, Massachusetts 02494 and our telephone number is (781) 292 &#8209;4200. 
+
+ADDITIONAL INFORMATION 
+
+We maintain a website at www.verastem.com. We make available, free of charge on our website, our annual report on Form 10 &#8209;K, quarterly reports on Form 10 &#8209;Q, current reports on Form 8 &#8209;K and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (t he Exchange Act ) as soon as reasonably practicable after we electronically file those reports with, or furnish them to, the Securities and Exchange Commission ( SEC ) . We also make available, free of charge on our website, the reports filed with the SEC by our executive officers, directors and 10% stockholders pursuant to Section 16 under the Exchange Act as soon as reasonably practicable after copies of those filings are provided to us by those persons. The information contained on, or that can be accessed through, our website is not a part of or incorporated by reference in this annual report on Form 10 &#8209;K. 
+

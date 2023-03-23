@@ -1,0 +1,350 @@
+ Item 1. Business 
+
+Overview 
+
+We are defining a new category of enterprise software we call Software Analytics. Our cloud-based platform and suite of products, which we call the New Relic Software Analytics Cloud, enables organizations to collect, store, and analyze massive amounts of software data in real time so they can better understand their application performance, improve customer experience, and achieve business success. We design all our products to be highly intuitive and frictionless; they are easy to deploy, and customers can rapidly, often within minutes, realize benefits and results. Software developers can build better applications faster, as they can see how their software will perform and is actually performing for end-users. IT operations teams can use our products to quickly find and fix performance problems as well as prevent future issues. Business users such as product managers can get answers to how their new product launch is being received, or how a pricing change impacted customer retention, without waiting for help from IT. For each of these audiences &#151; software developers, IT operations, and business users&#151;we aim to be the first, best place to look to understand their digital business. As of March 31, 2016, we had 13,518 paid business accounts, 5,887 paid business accounts with annual recurring revenue over $5,000, and annualized revenue per average paid business account of $15,761. A single customer may have multiple paid business accounts for separate divisions, segments, or subsidiaries. 
+
+Software has become increasingly critical to businesses and consumers worldwide, from online retailing to social networking to customer relationship management. This software is found in applications and throughout the architectures on which those applications run: servers, websites, operating systems, mobile devices, and other IT assets. The use of this software generates huge volumes of data about how it is performing, the end-user experience, and the transactions flowing through it. Historically, organizations collected and analyzed only a small fraction of this data due to technology and business constraints, including high costs and limited benefits, except for specific use cases such as application performance management, clickstream analysis, and web traffic measurement. Legacy software products were typically customized, expensive, required training, and thus limited to business-critical applications within large organizations. As a result, the vast majority of software data has been underutilized. 
+
+Several fundamental technology and business trends are enabling Software Analytics today. As software has become increasingly critical, it contains more of the data that organizations need to make key decisions. As cloud computing and software-as-a-service, or SaaS, replace on-premise architectures, more data is being generated and analyzed. Software developers are rapidly increasing in stature and influence within organizations, and able to shape IT trends such as cloud adoption. New technologies have been developed to enable greater storage and faster analysis of massive quantities of data with greater speed and flexibility. 
+
+In light of these trends, we saw the opportunity for Software Analytics to empower technology and business users to make use of this underutilized software data. We provide customers with our software code, called agents, to add to their applications and infrastructure quickly and easily. These intelligent agents enable our users to identify vast amounts of data they would like to have sent to our cloud-based, big data database. Our database stores and organizes the data that we receive from our users for analysis through a simple dashboard interface that users can easily configure to monitor their key metrics and quickly make queries using simple phrases. Our intuitive and frictionless product design results in users being able to quickly receive analysis of their data. With this visibility, developers and operations teams can significantly improve the quality of their digital initiatives, and business and technology users can get real-time insights about their business. 
+
+Our New Relic Software Analytics Cloud is made up of an integrated suite of products, a big data database, and an open platform. All of our products have a simple user interface, and require minimal training or integration. Our products for technology users focus on software performance management and monitoring and 
+
+&#160;
+
+include New Relic APM (Application Performance Management), New Relic Mobile, New Relic Servers, New Relic Browser, and New Relic Synthetics. Built into the core of our technology platform, New Relic Insights provides big data analytics to both business and technology users that enable them to easily extract actionable information from the massive quantities of data flowing through their software. In addition to these products, we offer key platform capabilities in the form of New Relic Alerts and New Relic Plugins. New Relic Alerts offers policy management that delivers alerts across our entire suite of products. New Relic Plugins offers a plugin architecture including application programming interfaces, or APIs, and software development kits, or SDKs, for customers and partners to embed and extend our solution into their products. Today, there are hundreds of plugins to extend our functionality to other applications and infrastructures including Amazon Web Services, Microsoft Azure, MongoDB, and Oracle mySQL. 
+
+Our go-to-market strategy centers on creating a frictionless experience for our customers, enabling them to quickly see results and share their insights broadly across their company. We combine grassroots user adoption with both low-touch and high-touch sales approaches. Our products are easy to download and use, which allowed us to build a large base of users and smaller organizations before we even began to grow and develop our enterprise sales organization. Over time, users within larger organizations began to grow our footprint within their companies, as they often purchase our products for a specific use case and subsequently expand their use of our products. This has led many of our top customers to develop into accounts with hundreds of users across multiple roles, each accessing a common set of data through the New Relic Software Analytics Cloud to answer questions about their digital business. We continue to build our direct enterprise sales and support operation in order to better market to and support larger organizations, which represent a growing portion of our revenue. 
+
+We have achieved rapid customer adoption, high customer retention, and significant growth since our founding. For our fiscal years ended March 31, 2016, 2015, and 2014, our revenue was $181.3 million, $110.4 million, and $63.2 million, respectively, representing year-over-year growth of 64% from the fiscal year ended March 31, 2015 to the fiscal year ended March 31, 2016, and 75% from the fiscal year ended March 31, 2014 to the fiscal year ended March 31, 2015. We had net losses of $67.5 million, $50.1 million, and $40.2 million for our fiscal years ended March 31, 2016, 2015, and 2014, respectively. 
+
+We were formed in Delaware in September 2007 as New Relic Software, LLC. We converted from a Delaware limited liability company to a Delaware corporation and changed our name to New Relic, Inc. in February 2008. Our principal executive offices are located at 188 Spear Street, Suite 1200, San Francisco, California 94105, and our telephone number is (650) 777-7600. Our website address is www.newrelic.com . Information contained on, or that can be accessed through, our website is not intended to be incorporated by reference into this Annual Report on Form 10-K and references to our website address in this Annual Report on Form 10-K are inactive textual references only. We completed our initial public offering in December 2014 and our common stock is listed on the New York Stock Exchange under the symbol &#147;NEWR.&#148; Unless the context requires otherwise, the words &#147;New Relic,&#148; &#147;we,&#148; &#147;Company,&#148; &#147;us,&#148; and &#147;our&#148; refer to New Relic, Inc. and our wholly owned subsidiaries. &#147;New Relic,&#148; the New Relic logo, and other trademarks or service marks of New Relic that may appear in this Annual Report on Form 10-K are our property. This Annual Report on Form 10-K contains additional trade names, trademarks, and service marks of other companies. We do not intend our use or display of other companies&#146; trade names, trademarks, or service marks to imply a relationship with, or endorsement or sponsorship of us by, these other companies. 
+
+Our Solution 
+
+We have developed the New Relic Software Analytics Cloud suite of products, big data database, and open platform to help technology and business users make real-time, data-driven decisions to improve business and IT performance. In addition, developers and operations teams can build better software, build it faster, and keep it running optimally for better end-user experiences. Our solution enables users to collect, store, and analyze vast quantities of data flowing through and about their software. 
+
+&#160;
+
+We currently offer an integrated suite of products and platform capabilities that we continue to enhance and expand: 
+
+&#160;
+
+&#160; &#149; &#160; New Relic APM : Application performance management &#160;
+
+&#160; &#149; &#160; New Relic Mobile : Mobile application performance management &#160;
+
+&#160; &#149; &#160; New Relic Servers : Server monitoring for cloud and data centers &#160;
+
+&#160; &#149; &#160; New Relic Browser : End-user experience monitoring and performance monitoring &#160;
+
+&#160; &#149; &#160; New Relic Synthetics : Software testing through simulated usage &#160;
+
+&#160; &#149; &#160; New Relic Insights : Real-time big data analytics for business managers &#160;
+
+&#160; &#149; &#160; New Relic Alerts : Policy management that delivers alerts across our entire suite of products &#160;
+
+&#160; &#149; &#160; New Relic Plugins : Plugins to extend the functionality of our products into other applications This suite of products and platform capabilities use a common infrastructure to enable customers to: 
+
+&#160;
+
+&#160; &#149; &#160; Collect. Our intelligent agents are software code that developers and operations teams easily deploy into their applications and related IT infrastructure, including physical and virtual servers, browsers, and mobile devices. These agents configure automatically to their particular IT environment and collect and send event and performance data that is defined by the customer securely to our proprietary cloud database. The agents typically send this information once a minute, and are designed to cause minimal latency on the application. &#160;
+
+&#160; &#149; &#160; Store. Data received from the agents deployed by our customers is stored in our highly secure and scalable cloud-based, big data database. Our database has been crafted so that our customers do not need to build or maintain their own big data solution for Software Analytics. We optimized this database to store data as well as handle the analytics and queries that we believe are important to drive decision making. Customers can easily define which data they want to collect and store for analysis. &#160;
+
+&#160; &#149; &#160; Analyze. Our simple and intuitive user interface consists of a dashboard of graphical charts for key performance indicators, which are easily configurable and enable deep drill-down and root cause analysis. Our New Relic Insights product includes two ways for technical and non-technical users to drill down into their data, diagnose problems, and make more informed decisions. New Relic Insights offers a visual Data Explorer that enables a user to understand data attributes, and drill down on graphs and attributes utilizing an intuitive point-and-click interface. New Relic Insights also offers a field for queries utilizing the New Relic Query Language, or NRQL, similar to the commonly used Structured Query Language, or SQL. Users can type a simple query into the NRQL field and receive the answer in a range of visual and graphical formats. We also provide a feature within New Relic Insights called Data Apps that enables users to create and publish a set of customer-curated dashboards, along with an optional search field, for use by non-technical business users. Key Elements of Our Solution 
+
+&#160;
+
+&#160; &#149; &#160; SaaS-Based Delivery Model. We designed our products based on cloud architecture and a SaaS delivery model. We are able to provide frequent updates to our software enabling us to continuously improve it to reflect technology developments. This delivers a wide range of technology and financial benefits over on-premise architectures, including potential faster time to market, accelerated return on investment, and lower total cost of ownership. &#160;
+
+&#160; &#149; &#160; Scalable, Flexible Cloud Architecture. Our customers can collectively analyze billions of data points every second. Because we built our technology with a multi-tenant cloud architecture, customers can leverage its scale to rapidly run queries and get answers&#151;without having to build their own expensive infrastructure. &#160;
+
+&#160; &#149; &#160; Flexibility to Manage Cloud, Hybrid, and On-Premise Architectures. In addition to modern cloud architectures, our SaaS solution can manage hybrid cloud and heterogeneous architectures, including on-premise software. Users are able to rapidly deploy our agents globally across their IT environment. &#160;
+
+&#160; &#149; &#160; Built for Modern Software. We support a broad range of software development languages and frameworks from the widely used Java and .NET, to more modern languages such as Ruby, PHP, Python, and Node.js, as well as mobile operating systems including iOS and Android. Our agents are easily embedded into applications built using all of these languages, without the need for customized coding. &#160;
+
+&#160; &#149; &#160; Mobile Enabled. We provide a native mobile version of our Software Analytics products with nearly all functionality accessible and usable through mobile devices. Our products are designed to anticipate and handle the complexity of mobile architectures, such as mobile carrier performance and user location. &#160;
+
+&#160; &#149; &#160; Big Data Database and Analytics. Our proprietary, cloud-based database leverages modern big data technologies, including in-memory storage and distributed clustering techniques, which enable our users to collect and store billions of events and data points each day. Our database structure allows customers to easily build dashboards or make queries to deliver real-time insights. &#160;
+
+&#160; &#149; &#160; Easy and Intuitive. We design our products to be simple, intuitive, and user-friendly. Users are able to learn, deploy, and begin using our products with minimal or no training, often within a few minutes. This is important for developers and operations teams who do not need to do extra coding or configuration to use our products. It is also important for business and technical users who can leverage our products to augment their existing knowledge of applications and infrastructure. &#160;
+
+&#160; &#149; &#160; Low Total Cost of Ownership. We price our products on a subscription basis, with flexible pricing plans so each customer is only paying for the products and usage they are consuming. Our customers do not need to invest in additional hardware, infrastructure, or services to utilize our products. &#160;
+
+&#160; &#149; &#160; Integrated Suite. Our suite currently consists of six products and two platform capabilities that are integrated, share a common design and user interface, and access the same cloud-based database structure. Users can move seamlessly among different analytic categories and use cases for their software data. Users are able to easily add additional products to extend their ability to obtain insights from their same or new portions of their software data. &#160;
+
+&#160; &#149; &#160; Extensible Platform. We provide APIs and SDKs for customers, partners, and developers to easily build applications that integrate with and embed our product functionality into other applications. Today, there are hundreds of plugins developed internally or by third parties making it even easier to embed our products into specific use cases. This enables our users to tailor our products to specific use cases and industries beyond the programming languages, frameworks, and operating systems that we support. &#160;
+
+&#160; &#149; &#160; Enterprise Grade Security. Our products are designed to be secure. By default, our software data transmissions are encrypted in transit and stored in our secure tier 3 SSAE-16 certified data center. We also perform an annual SOC-2 type 2 audit. In addition, our management tools provide administrators with highly granular security controls including user provisioning, access, and privileges. Benefits of Our Solution 
+
+&#160;
+
+&#160; &#149; &#160; Software Developers. Software developers can use our products to monitor a broad range of traditional and modern development languages and frameworks. With our products, they can better monitor software performance to continuously improve it as well as fix and prevent problems. Developers can build better software, build it faster, and keep it running optimally for better end-user experiences. &#160;
+
+&#160; &#149; &#160; IT Operations Users. Technology users can easily deploy our products across their IT architectures to monitor overall health and performance. They can more rapidly identify problems, isolate root causes, and address problems. Our analytics tools also enable them to prevent future issues. &#160;
+
+&#160; &#149; &#160; Business Users. Business users can use our products to obtain deep real-time analytics about their business. They are able to access, interact, and analyze various dimensions of massive amounts of application, customer experience, and business data to drive business outcomes when traditional on-premise solutions have struggled to keep up with the scale and variety of data. Business users are also able to easily configure their graphical dashboards of key performance indicators, or quickly make queries, without needing to wait for a data scientist to design a new report or program a new query. Limitations of Existing Solutions 
+
+A number of legacy and emerging companies provide products to collect and analyze software data for business and technology managers. However, these suffer from a range of limitations including: 
+
+&#160;
+
+&#160; &#149; &#160; Difficult and Time-Consuming. Existing solutions typically require developers and technology and business users to undergo upfront and ongoing user training to learn. The solutions are often customized and provisioned over the course of several months through the central IT function. Any changes to the collection, storage, or analyses of data needs to go through the IT group or specialized data scientists. &#160;
+
+&#160; &#149; &#160; High Total Cost of Ownership. The majority of existing products has been deployed on-premise, requiring substantial upfront investments in IT infrastructure and extensive implementation, customization, maintenance, and training costs. Organizations often choose not to deploy these products, or postpone implementations of upgraded versions, due to concerns relating to the substantial costs involved. &#160;
+
+&#160; &#149; &#160; On-Premise Architectures. Solutions built for legacy, on-premise architectures are highly customized, expensive to purchase and operate, and require frequent upgrades and maintenance. In addition, they are fundamentally unable to adapt to cloud architectures and SaaS models. They typically rely on systems to collect, store, and analyze data which are highly specific to the particular customer&#146;s software applications and environment at a point in time. For example, the agents for collecting data need to be highly customized and typically involve significant latency to send data. &#160;
+
+&#160; &#149; &#160; Support Limited to Legacy Software. Developers using new languages and frameworks to build modern software need solutions that understand them. Most legacy solutions were built to understand COBOL, C++, Java, and .NET. However, modern languages and frameworks such as Ruby, PHP, Python, and Node.js represent a large and growing proportion of applications and websites. Companies of all sizes, from start-ups to the largest enterprises, require an APM solution that can monitor both legacy and modern applications. &#160;
+
+&#160; &#149; &#160; Lack of Support for Mobile Devices and Applications. Legacy solutions were typically designed for business or technology users sitting at their desktop. Today&#146;s users increasingly expect and need to be able to do their jobs outside their office, wherever and whenever they want, on a variety of mobile devices. In addition, both legacy applications running on mobile devices and native mobile applications involved different architectures and are very difficult to be managed by systems designed to work on-premise. &#160;
+
+&#160; &#149; &#160; Lack of Big Data and Analytics. Existing solutions typically use structured transactional data, representing a small and shrinking portion of software data. This significantly limited the types, timeliness, and flexibility of analyses they could support. Big data analytics are typically cost prohibitive for all but the largest organizations. &#160;
+
+&#160; &#149; &#160; Fragmented Point Solutions. Existing solutions were built for a wide range of specific use cases which had to be business or technology critical, such as traditional application performance management, CRM or ERP analytics, or clickstream analysis. These products addressed limited use cases and were not integrated with other applications, forcing businesses to select and integrate solutions from a variety of vendors, resulting in siloed analytics. &#160;
+
+Our Technology 
+
+Intelligent Software Agents 
+
+We have developed a library of purpose-built intelligent software agents that supports a wide variety of programming languages, mobile platforms, and operating systems. Our agent software code is deployed easily and quickly onto application servers, browsers, mobile devices, and operating systems. We currently provide intelligent software agents that support the following: 
+
+&#160;
+
+Programming Languages 
+
+&#160; Mobile Platforms 
+
+&#160; Operating Systems 
+
+.NET
+
+&#160; Android &#160; Joyent SmartOS Java
+
+&#160; iOS &#160; Linux JavaScript
+
+&#160; &#160; Windows Node.js
+
+&#160; &#160; PHP
+
+&#160; &#160; Python
+
+&#160; &#160; Ruby
+
+&#160; &#160; Once integrated, our agents quickly recognize their IT environment and configure themselves automatically. They then enable our users to collect performance and event data that is defined by the customer and report it each minute, on average, to our cloud-based database for storage and analysis. 
+
+Big Data Database and Analytics 
+
+Our cloud-based, big data database can store and prepare massive amounts of data for rapid analysis and flexible querying. Our New Relic Insights application, which utilizes a flexible and schema-less database architecture optimized for event data, allows seamless storage of new data types including data collected by agents and through our APIs, does not require indexing, and runs in a super-cluster with massive amounts of computing resources to query billions of events in real-time. 
+
+We provide a &#147;single pane of glass&#148; view into all of our applications with diagnostic capabilities including transaction details, database details, error details, topology maps, code deployment reports, and service level reports. Our user interfaces were built internally using modern web and mobile technologies, including HTML5 and JavaScript to deliver interactive and actionable data visualization such as charts and graphs that continuously refresh to provide real-time visibility. Users can interact with New Relic Insights through an easy-to-use, point and click Data Explorer or by using NRQL, which is a modified version of SQL, a language with which developers and many business analysts are already familiar. Users also have the choice of electing to integrate data received from the intelligent software agents they deploy and stored by us into other analytics applications and user interfaces of their choice. 
+
+Our Products and Platform Capabilities 
+
+We offer multiple tiers of our products to service customers of all sizes. At one end, our Lite version is offered at no charge to users and has basic functionality, 24-hour retention of data, and community support. At the other end, our paid Enterprise version includes the highest level of product functionality, our highest levels of support, a dedicated technical account manager, and defined service levels. 
+
+The New Relic Software Analytics Cloud is an integrated suite of SaaS-based products, built on top of a common technology platform. 
+
+&#160;
+
+The New Relic Software Analytics Cloud is comprised of the following products: 
+
+New Relic APM 
+
+New Relic APM provides visibility into the performance and usage of server-based applications, such as data pertaining to response time, transaction throughput, error rates, top transactions, and user satisfaction. Other elements of New Relic APM include: 
+
+&#160;
+
+&#160; &#149; &#160; Comprehensive Diagnostics. New Relic APM provides a comprehensive set of features, including Transaction Tracing, X-ray Sessions, Cross Application Tracing, Thread Profiling, Database Diagnostics, and Slow SQL Traces. These give users visibility into the underlying source code which can significantly reduce the time needed to identify and fix the root cause of a problem by helping users pinpoint the exact lines of code causing the problem. &#160;
+
+&#160; &#149; &#160; Reporting and Alerting. New Relic APM provides reporting and alerting functionality through standard configurations as well as customer-defined policy configurations. These alerts include application performance degradation, falling traffic, and declining user satisfaction metrics. Alerts can be delivered through a variety of channels including email, text messages, push notifications, and social channels and can be integrated with bug tracking systems and group chat applications. &#160;
+
+&#160; &#149; &#160; Business Transaction Monitoring. Within New Relic APM, our Key Transactions feature enables business users to collect and analyze data generated by business transactions separately from data about application performance. New Relic Mobile 
+
+New Relic Mobile provides code-level visibility into the performance and health of mobile applications running on the iOS and Android mobile operating systems. Other elements of New Relic Mobile include: 
+
+&#160;
+
+&#160; &#149; &#160; End-to-End Visibility . When combined with New Relic APM, New Relic Mobile provides end-to-end visibility into the IT infrastructure affecting mobile application performance. Native mobile applications depend on code running on the device and on communications with backend services, such as mobile application servers, both internal and third party. New Relic Mobile provides code-level diagnostics for native app code running on the mobile device and enables performance, throughput, crash reporting, and error analysis for the interactions between the mobile application and the supporting backend services. &#160;
+
+&#160; &#149; &#160; Mobile Device Metrics . New Relic Mobile provides detail on usage of mobile device resources, including CPU, memory, and network bandwidth from actual user devices. This visibility helps developers understand how their applications affect their customers&#146; devices, and how to optimize them. &#160;
+
+&#160; &#149; &#160; User Interactions . The User Interactions feature provides detailed breakdowns of time spent in the code running on the device, including view loading, method calls, and data store activity. Mobile application developers leverage this feature to pinpoint problematic code and resolve problems. New Relic Servers 
+
+New Relic Servers, which is currently included with New Relic APM, provides visibility into server and operating system performance for physical and virtual servers, including servers that are deployed on-premise or in the cloud, by analyzing key metrics which include CPU usage, physical memory, network activity, and disk I/O utilization and capacity. Other elements of New Relic Servers include: 
+
+&#160;
+
+&#160; &#149; &#160; 360&#176; Performance Monitoring. In combination with New Relic APM, New Relic Servers provides end-to-end visibility into how server resources and utilization levels impact the applications being run. &#160;
+
+&#160; &#149; &#160; Cross-Functional Collaboration. New Relic Servers enables greater cross-functional cooperation among software developers, IT operations, quality assurance, and other typical IT departments within companies. By presenting server performance with application performance in a shared user interface, New Relic Servers enables these departments to collaborate better in identifying and addressing underlying performance issues. &#160;
+
+&#160; &#149; &#160; Visibility into Modern Architectures. New Relic Servers delivers visibility to developers and IT operations into new and emerging infrastructure technologies, including Docker containers and Amazon EC2, providing a more complete view of the health and performance of an application. New Relic Browser 
+
+New Relic Browser monitors the page view experiences of actual end-users for desktop and mobile browser-based applications and provides code-level diagnostics for JavaScript code running directly in the browser. Other elements of New Relic Browser include: 
+
+&#160;
+
+&#160; &#149; &#160; End-User Experience Monitoring . New Relic Browser monitors the page load time for user interactions, providing data on how time is spent during each page load, including network time, request queuing, document object model processing, and page rendering. Customers utilize this data to improve the user experience by implementing caching techniques, reducing asset sizes, and leveraging content delivery network services. &#160;
+
+&#160; &#149; &#160; JavaScript Code Diagnostics . Web applications increasingly embed application logic into JavaScript code running within the user&#146;s browser to build richer, browser-based applications. New Relic Browser provides developers with code-level visibility into the performance of JavaScript code within users&#146; browsers. &#160;
+
+&#160; &#149; &#160; Browser Comparison . Developers can compare how their software performs on various desktop and mobile browsers and versions, in order to identify browser-specific problems. &#160;
+
+&#160; &#149; &#160; Geographic Performance . New Relic Browser can automatically identify, track, and analyze the geographic location of each page view to provide performance analytics by geography, including response time, user satisfaction, application adoption, and usage trends. New Relic Synthetics 
+
+New Relic Synthetics simulates usage and reproduces business-critical functionality that enables our users to test their software throughout the entire development life cycle. Users benefit from enhanced visibility, availability, and reliability of their software without depending on interactions from real users. Other elements of New Relic Synthetics include: 
+
+&#160;
+
+&#160; &#149; &#160; Standards-Based . New Relic Synthetics uses open standards, including the open source scripting language Selenium, to make it easy to quickly get started and automate tests. &#160;
+
+&#160; &#149; &#160; Deep Integration . New Relic Synthetics is integrated into our product suite, including New Relic APM, New Relic Browser, and New Relic Insights. &#160;
+
+&#160; &#149; &#160; Global Test Locations . Users can select what region they want their test scripts to run from, giving them visibility into the regional performance of their web application. &#160;
+
+&#160; &#149; &#160; Private Locations . Users can also run test scripts on their own systems, offering even more choice for users to test the performance of their applications from around the globe. &#160;
+
+&#160; &#149; &#160; Preemptive Visibility . Users can resolve issues with business-critical transactions before end-users experience them. New Relic Insights 
+
+New Relic Insights enables technology and business users to perform real-time analysis in order to make faster, data-driven decisions about their organizations. 
+
+New Relic Insights is both a standalone product and an integrated platform feature. We have expanded the New Relic Insights offering into our New Relic Software Analytics Cloud by including eight days of event data retention with paid subscriptions of our New Relic APM, New Relic Browser, and New Relic Mobile products. 
+
+&#160;
+
+Users can query their data in either a curated or ad hoc fashion. For predictable queries that provide visibility into application performance, we offer a curated experience directly within New Relic APM, New Relic Browser and New Relic Mobile. And, to perform ad hoc, deeper investigations into an issue, we enable users to uncover the root cause through the New Relic Insights product interface. 
+
+Other elements of New Relic Insights include: 
+
+&#160;
+
+&#160; &#149; &#160; Iterative Business Intelligence and Analytics . New Relic Insights is built on a proprietary event database, which is our purpose-built event database that runs in a cloud-hosted, highly distributed super-cluster. The database was built to query billions of data points in less than a second, enabling users to perform ad-hoc analytics of business data in real time through a point and click Data Explorer or through a NRQL query. It collects and stores this data from software sources including our New Relic Browser, New Relic Synthetics, New Relic APM and New Relic Mobile products. &#160;
+
+&#160; &#149; &#160; New Relic Query Language . We developed NRQL as a SQL-like query language optimized for real-time analytics. Users with experience with SQL can use NRQL immediately. The language is also easy to learn for non-technical users and users with no SQL experience. NRQL has autocomplete capabilities that assist users by providing proper syntax as they type, suggesting built-in analytics functions, and can list the attributes and event types available for querying. &#160;
+
+&#160; &#149; &#160; Data Visualizations and Dashboards . New Relic Insights produces intuitive data visualizations with every query, with pre-built charts and graphs to make the analysis easier to understand and share. Dashboards automatically update and refresh in real-time by continuously executing NRQL queries. New Relic Insights also includes a feature called Data Apps that enables users to create and publish a set of customer-curated dashboards, along with an optional search field, for use by non-technical business users. The New Relic Software Analytics Cloud also features the following platform capabilities: 
+
+New Relic Alerts 
+
+New Relic Alerts is a centralized notification system that delivers alerts from across the products in the New Relic Software Analytics Cloud. It allows users to manage alert policies and alert conditions, so that they receive early notification to identify potential performance issues and take action. Other elements of New Relic Alerts include: 
+
+&#160;
+
+&#160; &#149; &#160; Integration with Tools . New Relic Alerts is designed to integrate easily with communication and collaboration applications like PagerDuty, Campfire, HipChat, and Slack, so that software teams can quickly understand when critical issues arise and take action. &#160;
+
+&#160; &#149; &#160; Centralized UI . New Relic Alerts provides a dedicated user interface for alert configuration and incident management across New Relic products. New Relic Plugins 
+
+New Relic Plugins, which is currently included with New Relic APM, provides customers, partners, and third-party developers with APIs and SDKs to build plugins that extend our functionality and data into almost any application or IT environment. For example, while our focus is on supporting modern programming languages and frameworks with our agents, some customers and developers have built plugins to address custom or legacy on-premise applications and architectures. In addition, plugins can also extend the functionality and data from other applications and sources into our databases. The New Relic Plugin Central offers hundreds of easily downloadable plugins to users. Other elements include: 
+
+&#160;
+
+&#160; &#149; &#160; Extensibility . We provide APIs and SDKs to allow developers to easily and quickly integrate and embed the functionality of our products and data with other applications and data sources. We also offer a click and drag dashboard creation tool that allows users to customize their user experience. &#160;
+
+&#160; &#149; &#160; Plugins . Plugins have been built to monitor IT architecture elements including databases, networks, queuing systems, and communication tools, enabling customers to monitor their entire application stack. In general, data from sources other than our agents is presented in the same dashboard alongside the monitoring data from our agents. Many plugins are built and used within the workday. Plugins can be kept proprietary or shared with the broader public community. Employees 
+
+As of March 31, 2016, we had 936 employees, including temporary employees. We also engage consultants. None of our employees is covered by collective bargaining agreements and we consider our relations with our employees to be good. 
+
+Operations 
+
+We host our applications and serve all our customers from a data center located in Chicago, Illinois and, to a lesser extent, a combination of cloud hosting providers. We utilize third parties to manage our infrastructure at our Chicago data center. We maintain a formal and comprehensive security program designed to ensure the security and integrity of our data, protect against security threats or data breaches, and prevent unauthorized access to the data of our customers. Our technology uses multi-tenant architecture, enabling all our customers to share the same version of our products and platform capabilities while securely partitioning their data. 
+
+Research and Development 
+
+Our research and development organization is responsible for the design, development, and testing of all aspects of the New Relic Software Analytics Cloud suite of products and platform capabilities. We invest heavily in these efforts to continuously improve, innovate, and add new features to our solutions. 
+
+We deploy new features, functionality, and technologies through daily and weekly software releases or updates in order to minimize disruption and provide for constant improvement. Our product managers regularly engage with customers, partners, and industry analysts, as well as other stakeholders, in functions such as sales, customer success, marketing, and business development to understand customer needs as well as general trends in our industry. Once product improvements are identified, the development organization works closely together to design, develop, test, and launch a solution. 
+
+The majority of our research and development team is based in our Portland, Oregon office, as well as our San Francisco, California office. To foster rapid innovation, our team is further apportioned into smaller, agile development teams. 
+
+As of March 31, 2016, we had 247 employees in our research and development organization. Our research and development expenses were $46.4 million, $24.0 million, and $16.5 million for the fiscal years ended March 31, 2016, 2015, and 2014, respectively. 
+
+Sales and Marketing 
+
+Our sales and marketing organizations work together closely to drive market awareness, create and manage user and customer leads, provide qualified leads to our sales pipeline, and build customer relationships to drive revenue growth. As of March 31, 2016, we had 422 employees in our sales and marketing organization. 
+
+Sales 
+
+We sell our products to businesses of all sizes largely through our direct sales organization. Our direct sales organization is organized by size of customer and geography and is focused on growing accounts and usage so as to provide our customers with a broader set of our product solutions. 
+
+&#160;
+
+Our sales organization has separate teams focused on smaller companies, mid-market organizations, and large enterprises. Our specific sales strategy is based on the size of account and the target user at an organization&#151;software developers, business or product managers, or IT managers. 
+
+Marketing 
+
+Our marketing strategy targets software developers, IT leaders, and technology executives across many industries and regions. Additionally, our events, demand generation, customer programs, corporate communications, and product marketing teams focus on building brand, engagement, and demand with our target markets. We utilize both online and offline marketing initiatives, including search engine and email marketing, online banner and video advertising, blogs, corporate communications, whitepapers, case studies, user events, and webinars. We believe an effective method to market our suite of products is for users to actively use and explore its capabilities. We encourage free trials of one or more of our products in order to successfully convert those accounts to paid subscriptions. 
+
+Customer Support 
+
+Our products and platform capabilities are designed to minimize the need for customer support, as users can easily download, install, and deploy our software agents without needing support. However, as we increase our customer account base with larger enterprises, these customers typically expect and require more support and accountability. We offer a range of customer support options with multiple levels of support. These include free community support, email support, and phone support, up to our enterprise customer support organization that provides dedicated customer success representatives, onsite support, with global capabilities and is available at all hours of the day. 
+
+Partnerships and Strategic Relationships 
+
+We have built marketing relationships with a number of technology companies to help promote and grow our user base and footprint. We also have developed partnerships with several cloud providers including Amazon Web Services, Microsoft Azure, Rackspace, and others where we collaborate to ensure our products and platform capabilities work well on applications running on their clouds. These providers offer access to our products and platform capabilities through links on their websites, refer developers and other potential users to us, and expand our marketing reach. We also have a partnership with Salesforce.com where developers using the Salesforce1 development platform can easily deploy our products and platform capabilities into their applications. 
+
+Competition 
+
+We operate in a highly competitive industry that is characterized by constant change and innovation. Changes in the applications and the programing languages used to develop applications, devices, operating systems, and technology landscape result in evolving customer requirements. 
+
+Our competitors fall into four primary categories: 
+
+&#160;
+
+&#160; &#149; &#160; software performance providers such as AppDynamics, Inc., Dynatrace LLC, and Splunk Inc.; &#160;
+
+&#160; &#149; &#160; diversified technology companies such as Hewlett-Packard Company, International Business Machines Corporation, Microsoft Corporation, and Oracle Corporation; &#160;
+
+&#160; &#149; &#160; large enterprise software and service companies such as BMC Software, Inc., CA, Inc., Riverbed Technology, Inc., and SAP SE; and &#160;
+
+&#160; &#149; &#160; companies offering analytics products competing with our New Relic Insights product, including Amazon Web Services, Inc., Google Inc., and Webtrends Inc. &#160;
+
+The principal competitive factors in our market include: 
+
+&#160;
+
+&#160; &#149; &#160; product features, architecture, reliability, security, performance, effectiveness, and supported environments; &#160;
+
+&#160; &#149; &#160; product extensibility and ability to integrate with other technology infrastructures; &#160;
+
+&#160; &#149; &#160; software analytics expertise; &#160;
+
+&#160; &#149; &#160; ease of use of products and platform capabilities; &#160;
+
+&#160; &#149; &#160; total cost of ownership; &#160;
+
+&#160; &#149; &#160; adherence to industry standards and certifications; &#160;
+
+&#160; &#149; &#160; strength of sales and marketing efforts; &#160;
+
+&#160; &#149; &#160; brand awareness and reputation; and &#160;
+
+&#160; &#149; &#160; focus on customer success. We believe we generally compete favorably with our competitors on the basis of these factors. Many of our competitors have substantially greater financial, technical, and other resources, greater name recognition, larger sales and marketing budgets, broader distribution, and larger and more mature intellectual property portfolios. 
+
+Intellectual Property 
+
+We rely on federal, state, common law, and international rights, as well as contractual restrictions, to protect our intellectual property. We control access to our proprietary technology and algorithms by entering into confidentiality and invention assignment agreements with our employees and contractors, and confidentiality agreements with third parties. 
+
+In addition to these contractual arrangements, we also rely on a combination of trade secrets, copyrights, trademarks, service marks, and domain names to protect our intellectual property. As of March 31, 2016, we had four patent applications pending and two trademark registrations for &#147;New Relic&#148; in the United States, as well as one trademark registration and five trademark applications for &#147;New Relic&#148; outside of the United States. 
+
+Circumstances outside our control could pose a threat to our intellectual property rights. For example, effective intellectual property protection may not be available in the United States or other countries in which we operate. Also, the efforts we have taken to protect our proprietary rights may not be sufficient or effective. Any significant impairment of our intellectual property rights could harm our business or our ability to compete. Also, protecting our intellectual property rights is costly and time-consuming. Any unauthorized disclosure or use of our intellectual property could make it more expensive to do business and harm our operating results. 
+
+Companies in Internet-related industries may own large numbers of patents, copyrights, and trademarks and may frequently request license agreements, threaten litigation, or file suit against us based on allegations of infringement or other violations of intellectual property rights. We are currently subject to, and expect to face in the future, allegations that we have infringed the trademarks, copyrights, patents, and other intellectual property rights of third parties, including our competitors and non-practicing entities. As we face increasing competition and as our business grows, we will likely face more claims of infringement. 
+
+Geographic Information 
+
+For a description of our revenue and long-lived assets by geographic location, see note 14 of the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K. 
+
+&#160;
+
+Available Information 
+
+Our website is located at www.newrelic.com , and our investor relations website is located at http://ir.newrelic.com/ . Copies of our Annual Report on Form 10-K, Quarterly Report on Form 10-Q, Current Reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, are available, free of charge, on our investor relations website as soon as reasonably practicable after we file such material electronically with or furnish it to the Securities and Exchange Commission, or the SEC. The SEC also maintains a website that contains our SEC filings. The address of the site is www.sec.gov . Further, a copy of this Annual Report on Form 10-K is located at the SEC&#146;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. New Relic has used, and intends to continue to use, our investor relations website, as well as our Twitter account (@newrelic), as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD. Further corporate governance information, including our corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the subheading &#147;Corporate Governance.&#148; The contents of our website or our Twitter account are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+
+&#160;
+

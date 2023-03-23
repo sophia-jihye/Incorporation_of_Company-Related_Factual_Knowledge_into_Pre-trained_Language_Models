@@ -1,0 +1,900 @@
+ Item 1. 
+
+Business 
+
+General 
+
+We are a leading supplier of analog and mixed-signal semiconductor products and were incorporated in Delaware in 1960. We design, develop and market a wide range of products for commercial applications, the majority of which are sold into the enterprise computing, communications, high-end consumer and industrial end-markets. 
+
+Enterprise Computing : datacenters, passive optical networks, desktops, notebooks, servers, graphic boards, monitors, printers and other computer peripherals. 
+
+Communications : base stations, optical networks, carrier networks, switches and routers, cable modems, wireless LAN and other communication infrastructure equipment. 
+
+High-End Consumer : handheld products, smartphones, set-top boxes, digital televisions, tablets, digital video recorders and other consumer equipment. 
+
+Industrial and other : video broadcast studio equipment, automated meter reading, Internet of Things ("IoT"), smart grid, wireless charging, military and aerospace, medical, security systems, automotive, industrial and home automation, video security and surveillance and other industrial equipment. 
+
+Our end-customers are primarily original equipment manufacturers and their suppliers, including Cisco Systems, Inc., Huawei Technologies Co., Ltd., LG Electronics, Sharp Corporation, Itron, Inc., Sonova International, Samsung Electronics Co. Ltd., Alphabet Inc., Amazon.com Inc., and ZTE Corporation. 
+
+In March 2016, the United States Department of Commerce published in the Federal Register a &#8220;final rule&#8221; amending the Export Administration Regulations to add ZTE Corporation and three of its subsidiaries to the &#8220;Entity List&#8221; maintained by the Department for actions contrary to the national security and foreign policy interests of the United States. We do not expect this event to have a material impact on our results of operations. 
+
+Overview of the Semiconductor Industry 
+
+The semiconductor industry is broadly divided into analog and digital semiconductor products. Analog semiconductors condition and regulate &#8220;real world&#8221; functions such as temperature, speed, sound and electrical current. Digital semiconductors process binary information, such as that used by computers. Mixed-signal devices incorporate both analog and digital functions into a single chip and provide the ability for digital electronics to interface with the outside world. 
+
+The market for analog and mixed-signal semiconductors differs from the market for digital semiconductors. The analog and mixed-signal industry is typically characterized by longer product life cycles than the digital industry. In addition, analog semiconductor manufacturers tend to have lower capital investment requirements for manufacturing because their facilities tend to be less dependent than digital producers on state-of-the-art production equipment to manufacture leading edge process technologies. The end-product markets for analog and mixed-signal semiconductors are more varied and more specialized than the relatively standardized digital semiconductor product markets. 
+
+Another difference between the analog and digital markets is the amount of available talented labor. The analog industry relies more heavily than the digital industry on design and applications talent to distinguish its products from one another. Digital expertise is extensively taught in universities due to its overall market size, while analog and mixed-signal expertise tends to be learned over time based on experience and hands-on training. Consequently, personnel with analog training are scarcer than digital trained engineers. This has historically made it more difficult for new suppliers in the analog market to quickly develop products and gain significant market share. 
+
+Advancements in digital signal processing technology typically drive the need for corresponding advancements in analog and mixed-signal solutions. We believe that the diversity of our applications allows us to take advantage of areas of relative market strength and reduces our vulnerability to competitive pressure in any one area. 
+
+Business Strategy 
+
+Our objective is to be a leading supplier of analog and mixed-signal semiconductor devices to the fastest growing segments of our target markets. We intend to leverage our pool of skilled technical personnel to develop new products, or, where appropriate, use strategic acquisitions to either accelerate our position in the fastest growing areas or to gain entry into these 
+
+areas. In order to capitalize on our strengths in analog and mixed-signal processing design, development and marketing, we intend to pursue the following strategies: 
+
+Leverage our rare analog/mixed signal design expertise &#32; 
+
+We have developed a strategy to invest heavily in human resources needed to define, design and market high-performance analog and mixed signal platform products. We have built a team of experienced engineers who combine industry expertise with advanced semiconductor design expertise to meet customer requirements and enable our customers to get their products to market rapidly. We intend to leverage this strategy to achieve new levels of integration, power reduction and performance, enabling our customers to achieve differentiation in their end systems. 
+
+Continue to release proprietary new products, achieve new design wins, and cross-sell products &#32; 
+
+We are focused on developing unique, new, proprietary products that bring value to our target customers in our target markets. These products typically are differentiated in performance but are priced competitively. We also focus on achieving design wins for our products with current and future customers. Design wins are indications by the customer that they intend to incorporate our products into their new designs. Although we believe that a design win is an indicator of future potential growth, it does not inevitably result in us being awarded business or receiving a purchase commitment. Our technical talent works closely with our customers in securing design wins, defining new products and in implementing and integrating our products into their systems. We also focus on selling our complete portfolio of products to our existing customers, as we believe the technical expertise of our marketing and sales team allows us to identify and capitalize on cross-selling opportunities. 
+
+Focus on fast-growing market segments and regions &#32; 
+
+We have chosen to target the analog/mixed signal sub-segments of some of the fastest growing end-markets. We participate in these markets by focusing on specific product areas within the analog and mixed-signal market, including products for handheld equipment, mobile equipment, enterprise computing equipment, high-end consumer equipment, communications infrastructure and certain broad-based industrial markets. All of these markets are characterized by their need for leading-edge, high-performance analog and mixed-signal semiconductor technologies. 
+
+The enterprise computing, communications, high-end consumer and industrial end-markets we supply are characterized by several trends that we believe drive demand for our products. The key trends that we believe are significant for our future growth include: 
+
+&#8226; 
+
+Increasing bandwidth over high-speed networks, fueling growth in high speed voice, video and data transmission 
+
+&#8226; 
+
+Increasing electronic system requirements for smaller, lighter, more highly integrated and feature rich devices 
+
+&#8226; 
+
+Increasing need for more efficient energy management in the home and in industrial environments and the proliferation of &#8221;green&#8221; standards 
+
+Our products address these market trends by providing solutions that are ultra-low power thus extending battery life, small form factor enabling smaller more mobile devices, highly integrated enabling more functionality within devices and high performance enabling product differentiation within our customer base. Additionally, as communications functions are increasingly integrated into a range of systems and devices, these products require analog sensing, processing and control capabilities, which increases the number and size of our end-markets. 
+
+Leverage outsourced semiconductor fabrication capacity &#32; 
+
+We outsource most of our manufacturing in order to focus more of our resources on defining, developing and marketing our products. Our primary outside wafer foundries are based in China, Israel, the United States, Europe and Taiwan. Our largest wafer source is a foundry based in China. We believe that outsourcing provides us numerous benefits, including capital efficiency, the flexibility to adopt and leverage emerging process technologies without significant investment risk and a more variable cost of goods, which provides us with greater operating flexibility. 
+
+Products and Technology 
+
+We design, develop, manufacture and market high-performance analog and mixed-signal semiconductor products. We operate and account for results in one reportable segment through four product lines: Signal Integrity, Protection, Wireless and Sensing and Power and High-Reliability. 
+
+On March 4, 2015, we completed the acquisition of Triune Systems, LLC. ("Triune"), a privately-held supplier of wireless charging, isolated switching and power management platforms targeted at high and low power, high efficiency applications. 
+
+This transaction, which was accounted for using the acquisition method of accounting, expanded our power management portfolio. 
+
+On January 13, 2015, we completed the acquisition of certain assets of EnVerv, Inc. (&#8220;EnVerv&#8221;), a privately held company developing innovative products in the Smart Grid and Power Line Communication (&#8220;PLC&#8221;) market place. This transaction, which was accounted for using the acquisition method of accounting, complements our business in the Metering and Machine to Machine (&#8220;M2M&#8221;) markets. It is expected that the EnVerv PLC platform combined with our LoRa Wireless Platform will create a highly differentiated and compelling offering to the energy management, smart grid, IoT and residential gateway markets. 
+
+On March 20, 2012, we acquired, through our wholly-owned subsidiary Semtech Canada Inc., all outstanding equity interests of Gennum Corporation (&#8220;Gennum&#8221;) (TSX: GND), a leading supplier of high speed analog and mixed-signal semiconductors for the optical communications and video broadcast markets. 
+
+Our primary reasons for the acquisition were to broaden our existing portfolio of high performance analog/mixed signal platforms and to acquire a portfolio of high-speed data communications and video platforms to create one of the industry&#8217;s most complete and robust high-speed analog and mixed signal portfolios. In addition, Gennum&#8217;s strong position in the emerging high-definition (&#8220;HD&#8221;) video surveillance market further diversifies our portfolio of high-performance analog semiconductors and provides cross-selling potential with the combined customer base. 
+
+On March 7, 2012, we completed the acquisition of Cycleo SAS (&#8220;Cycleo&#8221;), a privately held company based in France that develops intellectual property (&#8220;IP&#8221;) for wireless long-range semiconductor products used in smart metering and other industrial and consumer markets. This transaction, which was accounted for using the acquisition method of accounting, complements our current wireless offerings and brings customers a set of high-end, digitally enhanced wireless solutions. 
+
+Beginning in fiscal year 2016, we split the product line previously known as Protection, Power and High-Reliability into two new product lines now known as Protection Product Group and Power and High-Reliability Product Group. The presentation of historical performance of these product lines has been recast for consistency for fiscal years 2015 and 2014. 
+
+Our product lines include: 
+
+Signal Integrity Products. &#32; We design, develop and market a portfolio of optical communications, broadcast video, surveillance video, active cable transceiver and backplane products used in a wide variety of enterprise computing, industrial, communications and high-end consumer applications. Our comprehensive portfolio of integrated circuits (&#8220;ICs&#8221;) for optical transceivers, backplane applications and high-speed interfaces ranges from 100Mbps to 100Gbps and supports key industry standards such as Fibre Channel, Infiniband, Ethernet, passive optical networks ("PON") and SONET. Our broadcast video products offer advanced solutions for next generation video formats, ever increasing data rates and evolving I/O and distance requirements. Our security and surveillance products for high-definition closed circuit television (&#8220;HDcctv&#8221;) enable upgrade of analog closed circuit television installations to full digital HD, leveraging the installed base of COAX cabling, and our fully integrated transmit and receive products enable the highest performance, longest reach HDcctv standards-compliant designs. 
+
+We also sell proprietary advanced wired communication, ultra-high speed Serializer/Deserializer (&#8220;SerDes&#8221;) products for long-haul optical transport communication. These ICs perform transmission functions used in high-speed networks at 40Gbps and 100Gbps. We have ceased development of new products for this market due to our strategic decision in the fourth quarter of fiscal year 2014 to reduce investment in the long-haul optical market, but we continue to service our existing customer base. 
+
+Protection Products. &#32; We design, develop and market high performance protection devices, which are often referred to as transient voltage suppressors (&#8220;TVS&#8221;). TVS devices provide protection for electronic systems where voltage spikes (called transients), such as electrostatic discharge or secondary lightning surge energy, can permanently damage sensitive complementary metal-oxide-semiconductor (&#8220;CMOS&#8221;) ICs. Our portfolio of protection solutions include filter and termination devices that are integrated with the TVS device. Our products provide robust protection while preserving signal integrity in high-speed communications, networking and video interfaces. These products also operate at very low voltage. Our protection products can be found in a broad range of applications including smart phones, LCD TVs, set-top boxes, tablets, computers, notebooks, base stations, routers, automobile, and industrial instruments. 
+
+Wireless and Sensing Products. &#32; We design, develop and market a portfolio of specialized radio frequency products used in a wide variety of industrial, medical and communications applications, and specialized sensing products used in industrial and consumer applications. Our wireless products feature industry leading and longest range industrial, scientific and medical radio, enabling a lower total cost of ownership and increased reliability in all environments, making them particularly suitable for machine to machine (&#8220;M2M&#8221;) and Internet of Things (&#8220;IoT&#8221;) applications. Our unique sensing interface platforms can interface to any sensor and output digital data in any form. Specifically, the proximity sensing capability of our devices enable advanced user interface solutions for mobile and consumer products. Our wireless and sensing products can be found in a broad range of applications in the industrial, medical and consumer markets. 
+
+Power and High-Reliability Products. &#32; We design, develop and market power product devices that control, alter, regulate and condition the power within electronic systems. The highest volume product types within the power product line are switching voltage regulators, combination switching and linear regulators, smart regulators, charge pumps and wireless charging. Our Power products feature highly integrated functionality for the communications, industrial and computing markets and low-power, small form factor and high-efficiency products for mobile phones, notebook computers, computer peripherals and other consumer devices. The primary application for these products is power regulation for enterprise computing, communications, high-end consumer and industrial systems. Our high-reliability discrete semiconductor products are comprised of rectifiers, assemblies (packaged discrete rectifiers) and other products that are typically used to convert alternating currents into direct currents and to protect circuits against very high voltage spikes or high current surges. 
+
+Our high-reliability products can be found in a broad range of applications including industrial, military, medical, automotive, aerospace and defense systems, including satellite communications. 
+
+Systems Innovation Group. &#32; Our Systems Innovation Group combines the analog/mixed signal design competencies from our previous Sierra Monolithics, Inc. and Gennum Corporation acquisitions and is chartered with developing innovative analog/mixed signal intellectual property (&#8220;IP&#8221;) for emerging systems. These IP cores are targeted at the datacenter, cloud computing and storage networking markets and complement our rapidly growing library of analog/mixed signal IP Cores that have been developed over several years by our Snowbush IP team based in Canada. We also have developed advanced products in Data Converter IP at the latest, cutting edge CMOS process nodes that are targeted at high performance communications systems. 
+
+Our sales by product line are as follows: 
+
+&#160; 
+
+Fiscal Years 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Signal Integrity 
+
+$ 
+
+221,185 
+
+&#160; 
+
+$ 
+
+219,024 
+
+&#160; 
+
+$ 
+
+254,556 
+
+Protection 
+
+138,674 
+
+&#160; 
+
+191,341 
+
+&#160; 
+
+198,514 
+
+Wireless and Sensing 
+
+70,712 
+
+&#160; 
+
+80,632 
+
+&#160; 
+
+65,947 
+
+Power and High-Reliability 
+
+54,999 
+
+&#160; 
+
+64,402 
+
+&#160; 
+
+58,295 
+
+Systems Innovation 
+
+4,649 
+
+&#160; 
+
+2,486 
+
+&#160; 
+
+17,665 
+
+Total 
+
+$ 
+
+490,219 
+
+&#160; 
+
+$ 
+
+557,885 
+
+&#160; 
+
+$ 
+
+594,977 
+
+Semtech End-Markets 
+
+Our products are sold primarily to customers in the enterprise computing, communications, high-end consumer, and industrial end-markets. Our estimate of sales by major end-markets is detailed below: 
+
+&#160; 
+
+Fiscal Years 
+
+(percentage of net sales) 
+
+&#160; 
+
+&#160; 
+
+Enterprise Computing 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Industrial and Other 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+High-End Consumer 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Communications 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+We believe that our diversity in end-markets provides stability to our business and opportunity for growth. 
+
+The following table depicts our main product lines and their end-market and product applications: &#160; 
+
+Typical End-Product Applications 
+
+Product Groups 
+
+Enterprise Computing 
+
+&#160; 
+
+Communications 
+
+&#160; 
+
+High-End Consumer 
+
+&#160; 
+
+Industrial / Other 
+
+Signal Integrity 
+
+Optical Transceiver Module IC&#8217;s supporting 100Mb/s to 100Gb/s for Ethernet, Fibre Channel and CPRI protocols in Datacenter and Fiber to the Home applications, 
+
+Backplane CDR&#8217;s and signal conditioners for use in Datacenter, storage and cloud computing networks 
+
+&#160; 
+
+Optical Transceiver Module IC's for wireless basestations Optical Transceiver Module IC&#8217;s supporting 100Mb/s to 100Gb/s for Telecom applications 
+
+&#160; 
+
+Signal Conditioners for Thunderbolt Cables 
+
+&#160; 
+
+Serial Digital Interconnect interface IC&#8217;s for Broadcast Video and HD Surveillance 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Protection 
+
+Servers, workstations, desktop PC/ notebooks, Ultrabooks, add-on cards, printers, copiers 
+
+&#160; 
+
+4G/LTE Base stations, 10/100/1000 Gb/s 
+
+&#160; 
+
+Smartphones, tablets, wearables cameras, TVs, set top boxes 
+
+&#160; 
+
+Measurement &#38; instrumentation devices, automobile 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Wireless and Sensing 
+
+&#160; 
+
+&#160; 
+
+4G/LTE wireless basesations 
+
+&#160; 
+
+Smartphones, media players, tablets, digital/still video cameras 
+
+&#160; 
+
+Automated meter readers, industrial automation, IoT, keyless entry hearing aids 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Power and High-Reliability 
+
+Servers, workstations, desktop PC/ notebooks 
+
+&#160; 
+
+Routers/Switches 
+
+Network cards, routers and hubs, telecom network boards 
+
+&#160; 
+
+Smartphones, tablets, wearables cameras, smart TVs, set top boxes 
+
+&#160; 
+
+Power supplies, wireless charging, industrial systems, military, aerospace, medical 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Systems Innovation 
+
+High Speed Connectivity and Interfaces, Datacenters 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Seasonality 
+
+Historically, our results have reflected some seasonality, with demand levels generally being slightly lower in the enterprise computing and high-end consumer products end-markets during the first and fourth quarters of our fiscal year in comparison to the second and third quarters. 
+
+Intellectual Capital and Product Development 
+
+The development of intellectual property (&#8220;IP&#8221;) and the resulting proprietary products is a critical success factor for us. Recruiting and retaining key technical talent is the foundation for designing, developing and selling this IP, in the form of new proprietary products, in the global marketplace. Our ability to recruit and retain our engineering talent is one of the keys to maintaining our competitive advantage. Historically, we have been successful in retaining our key engineering staff and recruiting new talent. One of our strategies to recruit this talent is the establishment of multiple design center locations. As a result, we have design centers throughout the world. 
+
+Circuit design engineers, layout engineers, product and test engineers, application engineers and field application engineers are our most valuable employees. Together they perform the critical tasks of design and layout of integrated circuits, turning these circuits into silicon devices, and conferring with customers about designing these devices into their applications. The majority of our engineers fit into one of these categories. Most of these engineers have many years of experience in the design, development and layout of circuits targeted for use in protection, advanced communications, power management and high-reliability, multimedia and data communications, and wireless and sensing applications. We also employ a number of software 
+
+engineers and systems engineers that specialize in the development of software and systems architecture, who enable us to develop systems oriented products in select markets. 
+
+In fiscal year 2016 , we incurred $113.7 million &#32;of product development and engineering expense. This represents 23% &#32;of net sales. Product development and engineering costs were $119.4 million &#32;or 21% &#32;of net sales and $137.4 million &#32;or 23% &#32;of net sales in fiscal years 2015 &#32;and 2014 , respectively. The expenses in fiscal year 2015 &#32;included $6.6 million of impairment charges relating to our decision to reduce investments in the optical long-haul market. 
+
+&#160; 
+
+We occasionally enter into agreements with customers that allow us to recover certain costs associated with product design and engineering services. Any recovery for these services is recognized during the period in which services are performed, which historically lags behind the period in which we recognize expense. This difference in recognition timing can create volatility in our reported development and engineering expenses. 
+
+Sales and Marketing 
+
+Sales made directly to customers during fiscal years 2016 , 2015 &#32;and 2014 , were approximately 42% , 44% &#32;and 57% , of net sales, respectively. The remaining 58% , 56% &#32;and 43% &#32;of net sales were made through independent distributors. The decline in direct sales in the past three years is related to substantially lower sales of our 40 Gbps and 100 Gbps long-haul transport products which were predominantly sold directly to our end-customers and lower sales to Korean customers. We have direct sales personnel located throughout the United States, Europe and Asia who manage the sales activities of independent sales representative firms and independent distributors. We expense our advertising costs as they are incurred. 
+
+We operate internationally through our wholly owned Swiss and Canadian subsidiaries, Semtech International AG and Semtech Canada Corporation. Semtech International AG serves the European and Asian markets from its headquarters in Rapperswil, Switzerland and through its wholly owned subsidiaries based in France, Germany, Neuchatel - Switzerland, the United Kingdom, Japan, China and Malaysia. Semtech International AG also maintains branch offices, either directly or through one of its wholly owned subsidiaries, in multiple countries, including China, Taiwan and Korea. Semtech Canada Corporation serves the Canadian market for Gennum products, which are now part of the Signal Integrity product group, from its headquarters in Burlington, Ontario. Independent representatives and distributors are also used to serve customers throughout the world. Some of our distributors and sales representatives also offer products from our competitors, as is customary in the industry. 
+
+In the fourth quarter of fiscal year 2016, we entered into an agreement with STMicroelectronics to scale LoRa&#174; technology to provide customers with an additional resource for developing and deploying IoT solutions. While no revenue has been recorded as a result of this arrangement in fiscal year 2016, we believe that this type of arrangement will provide a meaningful enhancement in our approach to supporting our customers in the future. 
+
+Customers, Sales Data and Backlog 
+
+As a result of the breadth of our products and markets, we have a broad and balanced range of customers. 
+
+Representative Customers by End-Markets: 
+
+Enterprise Computing 
+
+&#160; 
+
+Industrial 
+
+&#160; 
+
+High-End Consumer 
+
+&#160; 
+
+Communications 
+
+Hewlett-Packard 
+
+&#160; 
+
+Sharp Corporation 
+
+&#160; 
+
+LG Electronics Inc. 
+
+&#160; 
+
+Cisco Systems, Inc. 
+
+ZTE Corporation 
+
+&#160; 
+
+Honeywell Inc. 
+
+&#160; 
+
+Huawei Technologies Co., Ltd. 
+
+&#160; 
+
+Huawei Technologies Co., Ltd. 
+
+Sumitomo Electric 
+
+&#160; 
+
+Panasonic Corp 
+
+&#160; 
+
+Sharp Corporation 
+
+&#160; 
+
+Ericsson 
+
+Oclaro, Inc. 
+
+&#160; 
+
+Itron, Inc. 
+
+&#160; 
+
+Quanta Computer 
+
+&#160; 
+
+Samsung Electronics Co., Ltd. 
+
+Samsung Electronics Co., Ltd. 
+
+&#160; 
+
+Sony Corp 
+
+&#160; 
+
+Samsung Electronics Co., Ltd. 
+
+&#160; 
+
+ZTE Corporation 
+
+LuxNet Corp 
+
+&#160; 
+
+Sonova International 
+
+&#160; 
+
+Sumitomo Electric 
+
+&#160; 
+
+&#160; 
+
+Alphabet Inc. 
+
+&#160; 
+
+Raytheon Company 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amazon.com Inc. 
+
+&#160; 
+
+Rockwell Automation 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Our customers include major original equipment manufacturers (&#8220;OEMs&#8221;) and their subcontractors in the enterprise computing, communications, high-end consumer and industrial end-markets. Our products are typically purchased by these customers for our performance, price, or technical support, as compared to our competitors. 
+
+During fiscal years 2016 , 2015 &#32;and 2014 , U.S. sales contributed 12% , 12% &#32;and 16% , respectively to our net sales. Foreign sales constituted 88% , 88% &#32;and 84% &#32;of our net sales during fiscal years 2016 , 2015 &#32;and 2014 , respectively. Sales to customers located in Taiwan, South Korea, Japan, and China (including Hong Kong) comprised 8% , 6% , 8% , and 47% &#32;of our net sales, respectively, in fiscal year 2016 . No other foreign country comprised more than 5% of net sales in fiscal year 2016 . See Note 15 &#32;to our consolidated financial statements included in Item 8 of this report for additional financial information by geographic region. Additional information regarding certain risks associated with our international operations is provided under Item 1A. Risk Factors - Risks Relating to Our Business - Risks Relating to International Operations. 
+
+A summary of net sales by region follows. 
+
+Sales by Region 
+
+&#160; 
+
+Fiscal Years 
+
+(in thousands, except percentages) 
+
+&#160; 
+
+&#160; 
+
+Asia-Pacific 
+
+$ 
+
+358,480 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+412,514 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+432,097 
+
+&#160; 
+
+% 
+
+Europe 
+
+85,587 
+
+&#160; 
+
+% 
+
+&#160; 
+
+60,232 
+
+&#160; 
+
+% 
+
+&#160; 
+
+68,306 
+
+&#160; 
+
+% 
+
+North America 
+
+46,152 
+
+&#160; 
+
+% 
+
+&#160; 
+
+85,139 
+
+&#160; 
+
+% 
+
+&#160; 
+
+94,574 
+
+&#160; 
+
+% 
+
+Total Net Sales 
+
+$ 
+
+490,219 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+557,885 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+594,977 
+
+&#160; 
+
+% 
+
+The following table sets forth the concentration of net sales and accounts receivable among the customers that accounted for more than 10% of our net sales or accounts receivable at the end of fiscal years 2016 , 2015 &#32;and 2014 : 
+
+Concentration of Net Sales - Significant Customers 
+
+&#160; 
+
+Fiscal Years 
+
+(percentage of net sales) 
+
+&#160; 
+
+&#160; 
+
+Samsung Electronics (and affiliates) 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Concentration of Accounts Receivable - Significant Customers 
+
+&#160; 
+
+Fiscal Years 
+
+(percentage of net accounts receivable as of fiscal year end) 
+
+&#160; 
+
+Samsung Electronics (and affiliates) 
+
+% 
+
+&#160; 
+
+% 
+
+For fiscal year 2016 , end-market concentration for our significant customers was as follows: 
+
+(percentage of net sales) 
+
+Samsung Electronics (and affiliates) 
+
+High-End Consumer (1) 
+
+% 
+
+Communications 
+
+&#8212; 
+
+% 
+
+Enterprise Computing 
+
+&#8212; 
+
+% 
+
+Industrial and Other 
+
+&#8212; 
+
+% 
+
+Total 
+
+% 
+
+(1) 
+
+For Samsung Electronics Co., Ltd., approximately 87% &#32;of the sales into the High-End Consumer end-market relate to products focused on the handheld market, which includes cell phones. 
+
+Our backlog of orders as of the end of fiscal years 2016 , 2015 &#32;and 2014 &#32;was approximately $84.2 million , $72.7 million &#32;and $84.4 million , respectively. The majority of our backlog is typically requested for delivery within six months. In markets where the end system life cycles are relatively short, customers typically request delivery in four to eight weeks. A backlog analysis at 
+
+any given time gives little indication of our future business except on a short-term basis, principally within the next 45 days. We do not have any significant contracts with our customers calling for shipments over a period of more than 18 months. 
+
+Manufacturing Capabilities 
+
+Our strategy is to outsource the majority of our manufacturing functions to third-party foundries and assembly and test contractors. The third-party foundries fabricate silicon wafers and the assembly and test contractors package and test our products. We believe this outsourcing permits us to take advantage of the best available technology, leverage the capital investment of others, and reduce our operating costs associated with manufacturing assets. 
+
+We perform a limited amount of internal probe and final test activities at our facilities in Camarillo, Irvine, and San Diego in California; Neuchatel in Switzerland; and Reynosa in Mexico. These activities accommodate situations in which tight coupling with product design is desirable or where there are unique requirements. Our packaged discrete rectifier products are packaged and tested in-house in Reynosa, Mexico. Almost all of our other products are packaged and tested by outside subcontractors. 
+
+In keeping with our mostly &#8220;fabless&#8221; business model, we have no wafer fabrication facilities except for our operation in Reynosa, Mexico. For fiscal year 2016 , the Reynosa facility provided almost all of the silicon for our packaged discrete rectifier products, which were approximately 3% &#32;of our end product sales. The remaining 97% &#32;of our end products were supported with finished silicon wafers purchased from outside wafer foundries in China, Taiwan, Germany, and Israel. We anticipate that more than 90% of all silicon wafers we require will come from outside foundries in fiscal year 2017 . 
+
+Despite our use of outside wafer foundries for sourcing a majority of our silicon needs, we do maintain internal process development capabilities. Our process engineers work closely with our outside foundries on the improvement and development of process capabilities. In fiscal year 2016 , we purchased the vast majority of our wafers from approximately six different third-party wafer foundries and used various manufacturing processes, including Bipolar, CMOS, RF-CMOS and Silicon Germanium ("SiGe") BI-CMOS processes. 
+
+While we do have some redundancy of fabrication processes by using multiple outside foundries, any interruption of supply by one or more of these foundries could materially impact us. As a result, we maintain some amount of business interruption insurance to help reduce the financial risk associated with a wafer supply interruption, but we are not fully insured against this risk. 
+
+Although our products are made from basic materials (principally silicon, metals and plastics), all of which are available from a number of suppliers, capacity at wafer foundries sometimes becomes constrained. The limited availability of certain materials, such as silicon wafer substrates, may impact our suppliers&#8217; ability to meet our demand needs or impact the price we are charged. The prices of certain other basic materials, such as metals, gases and chemicals used in the production of circuits have all increased in recent years as demand has grown for these basic commodities. In most cases we do not procure these materials ourselves, but we are nevertheless reliant on these materials for producing our products because our outside foundry and package and test subcontractors must procure them. To help minimize risks associated with constrained capacity, we use multiple foundries and have taken other steps to prevent supply interruptions at certain foundries and subcontractors. 
+
+Our largest wafer source is a foundry in China. In fiscal years 2016 , 2015, and 2014, this Chinese foundry provided 28% , 37% &#32;and 38% &#32;of our total silicon requirements in terms of cost of wafers purchased, respectively. We have consigned certain equipment to this foundry to support our specialized processes run at the foundry and to ensure a specified level of capacity over the next few years. While the provision of these assets to the wafer foundry may be factored into certain pricing arrangements with the foundry, the impact of any pricing adjustments is insignificant and does not impact our margin trends. 
+
+We use third-party subcontractors to perform almost all of our assembly and test operations. A majority of our assembly and test activity is conducted by third-party subcontractors based in China, Malaysia, Taiwan, Thailand, Korea and the Philippines. We have operations offices located in the Philippines, Malaysia and China that support and coordinate some of the worldwide shipment of products. We have installed our own test equipment at some of our packaging and testing subcontractors in order to ensure a certain level of capacity, assuming the subcontractor has ample employees to operate the equipment. 
+
+Our arrangements with both outside wafer foundries and package and test subcontractors are designed to provide some assurance of capacity but are not expected to assure access to all the manufacturing capacity we may need in the future. 
+
+Competition 
+
+The analog and mixed-signal semiconductor industry is highly competitive, and we expect competitive pressures to continue. Our ability to compete effectively and to expand our business will depend on our ability to continue to recruit and retain key 
+
+engineering talent, our ability to execute on new product developments and our ability to persuade customers to design these new products into their applications. 
+
+Our industry is characterized by decreasing unit selling prices over the life of a product as the volumes typically increase. However, price decreases can sometimes be quite rapid and faster than the rate of increase of the associated product volumes. We believe we compete effectively based upon our ability to capitalize on efficiencies and economies of scale in production and sales, and our ability to maintain or improve our productivity and product yields to reduce manufacturing costs. 
+
+We are in direct and active competition, with respect to one or more of our product lines, with numerous manufacturers of varying size, technical capability and financial strength. A number of these competitors are dependent on semiconductor products as their principal source of income, and some are much larger than we are. The number of competitors has grown due to expansion of the market segments in which we participate. Additionally, there has been a trend toward consolidation in our industry as companies attempt to strengthen or hold their market positions in an evolving industry. Such consolidations may make it more difficult for us to compete effectively, including on the basis of price, sales and marketing programs, channel coverage, technology or product functionality. 
+
+We consider our primary competitors with respect to our Protection Products to include STMicroelectronics, NXP Semiconductors N.V., ON Semiconductor Corporation and Infineon Technologies AG. Our primary competitors with respect to our Signal Integrity Products are Texas Instruments Incorporated, Maxim Integrated Products, Inc., M/A-COM Technology Solutions Holdings, Inc., Inphi Corporation, Broadcom Limited, Applied Micro Circuits Corporation and our customers' own internal solutions. With respect to our Power and High-Reliability products, we consider our primary competitors to include Texas Instruments Incorporated, Linear Technology Corporation, Maxim Integrated Products Inc., Microsemi Corporation and Monolithic Power Systems. Our primary competitors with respect to our Wireless and Sensing products include Silicon Laboratories, Texas Instruments Incorporated, Atmel Corporation, Analog Devices Inc. and Cypress Semiconductor Corp. 
+
+Intellectual Property and Licenses 
+
+We have been granted 175 &#32;U.S. patents and 42 &#32;foreign patents and have numerous patent applications pending with respect to our products and to technologies associated with our business. The expiration dates of issued patents range from 2016 to 2034. Although we consider patents to be helpful in maintaining a competitive advantage, we do not believe they create definitive competitive barriers to entry. There can be no assurance that our patent applications will lead to issued patents, that others will not develop or patent similar or superior products or technologies, or that our patents will not be challenged, invalidated, or circumvented by others. We have no revenue from patents that expire in calendar year 2016 and no significant revenue associated with patents that expire in 2017 or 2018. 
+
+We have registered many of our trademarks in the U.S. and in various foreign jurisdictions. Registration generally provides rights in addition to basic trademark protections and is typically renewable upon proof of continued use. We have registered, or are in the process of registering, our SEMTECH trademark in many jurisdictions. In one location use of this trademark is prohibited, but we are permitted to use our Semtech International trade name. This restriction has not had a material impact on our business to date and we do not anticipate it will have a material impact in the future. 
+
+We also have registered certain materials in which we have copyright ownership, which provides additional protection for this intellectual property. 
+
+Employees 
+
+As of January 31, 2016 , we had 1,335 full-time employees. There were 567 employees in research and development, 233 in sales, marketing and field services, and 179 in general, administrative and finance. The remaining employees support operational activities, including product and test engineering, assembly, manufacturing, distribution and quality functions. 
+
+We have not had a work stoppage in the last decade and the only unionized employees are approximately 206 Mexican nationals who work at our manufacturing facility in Reynosa, Mexico. Our employee relations during the last fiscal year have been, and remain, satisfactory. 
+
+We adjust our workforce from time to time to meet the changing needs of our business. Competition for key design engineering talent globally is significant. 
+
+Government Regulations and Environmental Matters 
+
+We are required to comply, and it is our policy to comply, with numerous government regulations that are normal and customary to businesses in our industry and that operate in our markets and operating locations. 
+
+Our sales that serve the military and aerospace markets primarily consist of our High-Reliability products that have been qualified to be sold in these markets by the U.S. Department of Defense (&#8220;DOD&#8221;). In order to maintain these qualifications, we must comply with certain specifications promulgated by the DOD. As part of maintaining these qualifications, we are routinely audited by the DOD. Based on current specifications, we believe we can maintain our qualifications for the foreseeable future. However, these specifications could be modified by the DOD in the future or we could become subject to other government requirements, which could make the manufacturing of these products more difficult and thus could adversely impact our profitability in the Power and High-Reliability product group. In fiscal year 2016 , our sales that serve military and aerospace markets made up 3% of net sales. The U.S. State Department has determined that a small number of special assemblies from the Power and High-Reliability product line are subject to the International Traffic in Arms Regulations (&#8220;ITAR&#8221;). We have a Technical Assistance Agreement in place that permits us to assemble certain of these products in Mexico. International shipments of products subject to ITAR require a State Department license. 
+
+Our facilities throughout the world are subject to various environmental laws and regulations and we believe our operations are in substantial compliance with those laws and regulations. We have incurred, and may continue to incur, liabilities under various statutes for the cleanup of pollutants at locations we have operated and at third-party disposal and recycling sites we have used. During fiscal years 2016 and 2015, the expense incurred with respect to these cleanup matters was not material. In fiscal year 2013, we recorded a $2.5 million environmental reserve associated with the November 2012 draft clean up and abatement order discussed below. In the third quarter of fiscal 2015, we revised the estimate to $2.7 million. New laws or regulations or changes to existing laws or regulations could subject our ongoing operations to different or additional environmental standards that could increase our cost of compliance in the future. In addition, our cost of doing business could increase if our suppliers increase prices to recoup the cost of their compliance with environmental laws or regulations. See Note 14 to our consolidated financial statements included in Item 8 of this report. 
+
+We have used an environmental firm, specializing in hydrogeology, to perform monitoring of the groundwater at our former facility in Newbury Park, California that was leased for approximately forty years. We vacated the building in May 2002. Certain contaminants have been found in the local groundwater and site soils. Groundwater monitoring results to date over a number of years suggest that a measurable amount of groundwater contaminants of concern are believed to come from, or be contributed by, in full or in material part, adjacent facilities and/or to come from environmental cleanup operations separately conducted on the adjacent facilities, never owned or occupied by us. Responsibility for soil contamination remains under investigation. The location of key soil contamination (and some related site groundwater impact associated with the soil contamination) is concentrated in and found to emanate from an area of an underground storage tank that we believe to have been installed and primarily used in the early 1960s by a former tenant at the site who preceded our tenancy. 
+
+The Los Angeles Regional Water Quality Control Board (&#8220;RWQCB&#8221;), as the applicable regulatory agency having authority over the site issued joint instructions in November 2008, ordering us and the current owner of the site to perform additional assessments and surveys, and to create ongoing groundwater monitoring plans before any final regulatory action for &#8220;no further action&#8221; may be approved. In September 2009, the regulatory agency issued supplemental instructions to us and the current site owner regarding previously ordered site assessments, surveys and groundwater monitoring. 
+
+In October 2013, an order was issued including a scope of proposed additional site work, monitoring, and proposed remediation activities. We filed appeals of the October 2013 order seeking reconsideration by the RWQCB and review by the State Water Resources Control Board (&#8220;SWRCB&#8221;) of the removal of two other potentially responsible parties, and seeking clarification of certain other factual findings. In April 2015, the RWQCB denied our request to name the two other potentially responsible parties to the order, but did correct certain findings of fact identified by us in our petition for reconsideration. The SWRCB has not yet ruled on our petition for review of the RWQCB&#8217;s action as the petition was filed with a request it be held in abeyance. 
+
+We have been engaged with the regulatory agency, including technical discussion between our environmental firm and RWQCB staff, and have initiated the technical efforts to comply with the order. We submitted technical reports prepared by the environmental firm to the RWQCB and have received confirmation regarding the satisfaction of portions of the order. We also submitted a remedial action plan prepared by the environmental firm outlining the cleanup of soil, groundwater, and soil vapor at the site. The parties are continuing to work toward compliance with the October 2013 order and anticipate working cooperatively on any ultimate proposed cleanup and abatement work. 
+
+We have accrued liabilities where it is probable that a loss will be incurred and the cost or amount of loss can be reasonably estimated. Based on our preliminary assessment following a November 2012 draft cleanup and abatement order, which has been reviewed under the October 2013 order pending the current appeal by us and other impacted parties, we determined a likely range of probable loss between $2.7 million &#32;and $5.7 million &#32;with respect to our former facility at Newbury Park, California. Based on recent determinations by the RWQCB and refinement of the draft remedial action plan, we have revised our likely range of probable loss to be between $5.3 million &#32;and $7.5 million . Given the uncertainties associated with environmental assessment and the remediation activities, we are unable to determine a best estimate within the revised range of 
+
+loss. Therefore, we have recorded the minimum amount of $5.3 million , $1.1 million &#32;of which is recorded under "Accrued liabilities" with the remaining $4.2 million &#32;recorded under &#8220;Other long-term liabilities&#8221; on our consolidated balance sheets. These estimates could change as a result of changes in planned remedial actions, further actions from the regulatory agency, remediation technology, and other factors. 
+
+Available Information 
+
+General information about us can be found on our website at www.semtech.com . The information on our website is for informational purposes only and should not be relied on for investment purposes. The information on our website is not incorporated by reference into this report and should not be considered part of this or any other report filed with the SEC. 
+
+We make available free of charge, either by direct access on our website or a link to the SEC website, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the SEC. Our reports filed with, or furnished to, the SEC are also available directly at the SEC&#8217;s website at www.sec.gov. 
+

@@ -1,0 +1,176 @@
+ ITEM 1 &#8211; BUSINESS
+
+&#160;
+
+Corporate History 
+
+&#160;
+
+We were incorporated on December 19, 2014 in the State of Nevada.
+
+&#160;
+
+Overview 
+
+&#160;
+
+We are developing a cloud based software to detect advertising fraud on the internet. We had revenues of approximately $116,000 in the year ended December 31, 2015, approximately 85% of which was from a single customer.
+
+&#160;
+
+The Market 
+
+&#160;
+
+Click Fraud 
+
+&#160; 
+
+Click fraud occurs on the internet in pay-per-click online advertising when a person, automated script, or computer program imitates a legitimate user of a web browser by clicking on an ad for the purpose of generating a charge per click without having actual interest in the ad. There are two primary incentives for committing click fraud. First, adwords advertisers may try to attack competitors by raising their costs or exhausting their ad budget. Second, adsense publishers may click ads appearing on their own websites in order to inflate revenue. Often the number of clicks and their value is so small that the fraud goes undetected. Publishers may claim that small amounts of fraudulent clicks is an accident, which is often the case. Large-scale fraud will often run scripts which simulate human clicking on ads in web pages. Sophisticated scripts can mimic human behavior and use trojan code to turn the average person&#8217;s machines into zombie computers and use sporadic redirects to turn the oblivious user&#8217;s actions into actions generating revenue for the scammer.
+
+&#160;
+
+&#160; &#160;-1- &#160; 
+
+&#160; (table of contents) 
+
+The five most common methods for carrying out click fraud attacks are:
+
+&#160;
+
+&#183; manual clicking, &#183; click farms (hiring individuals to click ads), &#183; pay-to-click sites (pyramid schemes created by publishers), &#183; click bots (large scale software to automate clicking), and &#183; botnets (hijacked computers utilized by click bots). &#160;
+
+Our software platform will focus on all five methods. Our software is intended to reduce (using our Standard Version) or eliminate (using our Pro Version) fraudulent traffic. Our customers will be able to better understand and make more efficient use of their marketing dollars.
+
+&#160;
+
+Quantifying Click Fraud 
+
+&#160; 
+
+According to a recent study conducted by the Association of National Advertisers (ANA) and White Ops entitled &#8220;The Bot Baseline: Fraud in Digital Advertising&#8221;, click fraud, and fraudulent &#8220;bot&#8221; traffic, will cost the global display advertising industry $6.3 billion in 2015. The ANA recruited 36 member companies to participate in the study. The participants worked with a wide variety of agency partners, including media agencies, full-service agencies, and in-house agencies. The study measured 181 campaigns, 5.5 billion impressions in 3 million domains over 60 days to determine fraud activity. The 57 page report is public information and is available and wildly published on the internet. 
+
+&#160;
+
+Results of the study include:
+
+&#160;
+
+&#183; botnet controllers hijack everyday consumers&#8217; identities and home machines to conduct ad fraud, &#183; almost a quarter (23 percent) of video ad impressions were identified as bot fraud, &#183; eleven percent of display ad impressions were classified as bot fraud, &#183; publishers who bought sourced traffic from a third party, as a means to drive additional unique visitors to their site, had a bot fraud rate of 52 percent on that sourced traffic, &#183; programmatic display bot traffic averaged 17 percent bot fraud, and &#183; bot fraud for retargeted ads was 19 percent. &#160;
+
+The study also revealed that bot fraud levels vary across the day with peak activity occurring when users are sleeping, but their computers are still awake, between midnight and 7am. Additionally, impressions coming from older web browsers such as IE6 (Internet Explorer 6) and IE7 had fraud levels of 58 and 46 percent, respectively.
+
+&#160;
+
+Our Mission 
+
+&#160;
+
+Our mission is to provide meaningful ad targeting data to potential business customers that gives them the best possible chance of providing a profitable interaction with the consumer.
+
+&#160;
+
+&#160; &#160;-2- &#160; 
+
+&#160; (table of contents) 
+
+Anticipated Products 
+
+&#160;
+
+Our software platform will provide customers with the ability to track who is viewing and interacting with their ads. Our software will provide reporting and/or filtering of fraudulent traffic as well as a rating of each connection based on the customer&#8217;s needs and the likely fit of specific consumers and households. Customers will be able to filter reports based on the following:
+
+&#160;
+
+&#183; location: is the consumer in my locale? &#183; social rating: is the consumer connected to others and likely to broadcast my products or services? &#183; temporal: is the click coming through at a time that is meaningful for my business? &#183; interested: does the consumer have an interest in my product and services? &#160;
+
+We will offer our software on a subscription based model, anticipated to be as follows:
+
+&#160;
+
+&#183; Basis Subscription - $1,500/month, offering reporting on traffic quality and fraud; &#183; Pro Subscription - $5,000/month, offering reporting on traffic quality and fraud, as well as blocking of fraudulent clicks; &#183; Campaign Certification - $250/campaign. For ad agency customers, this can be purchased on a per-campaign basis and will certify that the traffic garnered by the campaign was fraud-free; &#183; Reporting - $250/report. This can be purchased on a one-time basis and analyzes the amount of fraud and quality of traffic to a particular domain name. &#160;
+
+Additional future software products are expected to include the release of:
+
+&#160;
+
+&#183; Enterprise Subscription - $10,000/month, offering enterprise level protectioni and reporting to high-traffic internet customers; &#183; MCA (Multi Channel Attribution) - $8,000/month, correlating digital traffic across multiple enterprise platforms. &#160;
+
+To date, we have not generated revenue using any of the above subscription offerings.
+
+&#160;
+
+Accessing Our Technology 
+
+&#160;
+
+Our software application has been uploaded to the Amazon cloud. The overall system runs over redundant MySql instances using the Amazon SAN for storage of the data. MySql is a relational database management system (RDBMS). MySql is the most widely used open-source (RDBMS) enabling the delivery of reliable, high performance and scalable web based applications. Our use of Amazon computing services is based on a month to month agreement. Amazon has data centers in the U.S., Ireland, Brazil, Singapore, and Tokyo. All of our services can run in any of the data centers at any time based upon demand. This allows for scalability to very large numbers of concurrent users and clicks.
+
+&#160;
+
+&#160; &#160;-3- &#160; 
+
+&#160; (table of contents) 
+
+Sales and Marketing 
+
+&#160;
+
+We aspire to be a provider of &#8220;quality of visitor&#8221; information to businesses who use the internet world wide. Our first year efforts will be focused on deploying the software platform to small and medium business using a combination of traditional enterprise software sales techniques, digital marketing, and ad agencies who need better accountability for their customers.
+
+&#160;
+
+Areas of Sales and Marketing effort will include:
+
+&#160;
+
+&#183; online sales - using web search, pay-per-click advertising, and social media advertising to drive customers directly to our website; &#183; affiliate/dealer sales &#8211; offering our products through an affiliate channel on the internet. Affiliates will receive a commission for orders placed with their customers. &#183; oem sales &#8211; using existing original equipment manufacturers in the computer and software industry to sell the software alongside their current line of products. This may include white labeling, distributing, and product bundling. &#160; 
+
+Patents and Intellectual Property Rights 
+
+&#160; 
+
+We have not filed for any intellectual property protection, however we intend to file a provisional patent for the connection rating and filtering algorithms, and we are considering another patent for our data collection technology.
+
+&#160;
+
+In addition to the patents we are considering, we use intellectual property law that may include a combination of copyright, trade secret and confidentiality agreements to protect our intellectual property. Our employees and independent contractors will be required to sign agreements acknowledging that all inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf are our property, and assigning to us any ownership that they may claim in those works. Despite our precautions, it may be possible for third parties to obtain and use without consent intellectual property that we own. Unauthorized use of our intellectual property by third parties, and the expenses incurred in protecting our intellectual property rights, may adversely affect our business.
+
+&#160;
+
+From time to time, we may encounter disputes over rights and obligations concerning intellectual property. While we believe that our product and service offerings do not infringe the intellectual property rights of any third party, we cannot assure you that we will prevail in any intellectual property dispute. If we do not prevail in such disputes, we may lose some or all of our intellectual property protection, be enjoined from further sales of the applications determined to infringe the rights of others, and/or be forced to pay substantial royalties to a third party.
+
+&#160; 
+
+Governmental Controls, Approval and Licensing Requirements 
+
+&#160;
+
+We are not currently subject to direct federal, state or local regulation other than the requirement to have a business license for the areas in which we conduct business. We do not anticipate being a governmental contractor. We may be, however, subject to United States export control restrictions.
+
+&#160;
+
+&#160; &#160;-4- &#160; 
+
+&#160; (table of contents) 
+
+Competition 
+
+&#160;
+
+We are in an extremely competitive marketplace. Our primary competitors include Distil Networks, Fraudlogix, Forensiq, and Adometry. Each of these competitors is larger than us, has more resources than us, and already has a position in the marketplace. We hope that we can compete with these and other competitors based on ease and speed of product deployment and use, our analytical and statistical capabilities, performance and scalability, the quality and reliability of our customer service and support, total cost of ownership, and the return on investment for the customer.
+
+&#160;
+
+Employees 
+
+&#160; 
+
+As of the date hereof, we do not have any employees other than our officers and directors. Our officers and directors will continue to work for us for the foreseeable future. We anticipate hiring appropriate personnel on an as-needed basis, and utilizing the services of independent contractors as needed.
+
+&#160;
+
+&#160; &#160;-5- &#160; 
+
+&#160; (table of contents) 
+

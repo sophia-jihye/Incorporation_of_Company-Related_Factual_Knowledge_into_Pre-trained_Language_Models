@@ -1,0 +1,360 @@
+ Item 1. Business 
+
+&#160; 
+
+OVERVIEW 
+
+FalconStor Software, Inc. (&#8220;FalconStor&#8221;, the &#8220;Company&#8221;, &#8220;we&#8221;, &#8220;our&#8221; or &#8220;us&#8221;) is a leading Software-Defined Storage ("SDS") company offering a converged data services software platform that is hardware agnostic. Founded in 2000, the Company celebrated its 15th year in business with the launch of its new flagship platform, FreeStor&#174;, which was made generally available in May, 2015. As a global company, our vision is to deliver enterprise class, software-defined, intelligent data services combined with predictive analytics across any primary or secondary storage hardware; in the cloud or on premise. The Company mission is to help IT organizations realize more economic value out of existing environments and any future storage investments while reducing complexity, maximizing flexibility and improving operational efficiency. &#32; Our award-winning solutions are available and supported worldwide by OEMs as well as leading service providers, system integrators, resellers and FalconStor. 
+
+FalconStor was incorporated in Delaware as Network Peripherals, Inc., in 1994. Pursuant to a merger with FalconStor Inc., in 2001, the former business of Network Peripherals, Inc., was discontinued, and the newly re-named FalconStor Software, Inc., continued the storage software business started in 2000 by FalconStor, Inc. FalconStor&#8217;s headquarters are located at 2 Huntington Quadrangle, Suite 2S01, Melville, NY 11747. The Company also maintains offices throughout Europe and Asia Pacific. 
+
+FREESTOR 
+
+FreeStor is a milestone product for FalconStor, leading the industry with what we believe to be the most complete, software-defined, hardware agnostic platform to deliver a truly heterogeneous data services approach. While virtualization has streamlined some common tasks associated with managing data resources, the introduction of a virtualization layer can introduce a whole new level of complexity to the protection, recovery and integration of both virtual and non-virtualized resources. FreeStor helps IT organizations minimize and eliminate that complexity with the delivery of migration, continuity, protection, recovery and optimization services for any storage environment through a single management interface - all for a single price based on managed capacity across arrays, servers, hypervisors, data centers, and the cloud. 
+
+FalconStor accomplishes this through the introduction of its Intelligent Abstraction&#174; core, which provides a scalable storage hypervisor, coupled with a data services engine and automation, to ease the provisioning and management of storage resources with the right level of performance, protection and recovery. The Intelligent Abstraction core optimizes storage resources regardless of type, connectivity, brand or speed, into a storage resource pool that can be provisioned to physical or virtual applications, along with common, unified data services across that pool. FreeStor is designed to eliminate the complexity and incompatibilities of point solutions along with the time involved in managing disparate underlying storage found in today&#8217;s enterprise. 
+
+PRODUCT STRATEGY 
+
+FalconStor&#8217;s stated strategy is to focus on the development of the integrated FreeStor platform going forward. However, FalconStor&#8217;s point solutions are also built upon FreeStor technology and our Intelligent Abstraction core IO engine. As previously stated, our existing point products will continue to be made available. Our Business Continuity and Disaster Recovery products include Network Storage Server (NSS) and Continuous Data Protector (CDP) and feature what we believe is the industry&#8217;s most automated and complete recovery tool, RecoverTrac. These solutions set themselves apart by supporting physical, virtual, hybrid and private cloud environments. We believe a key differentiator is our ability to allow users to manage and to convert across these environments dynamically, giving them the freedom to optimize their IT infrastructure and to eliminate costly vendor and form-factor lock-in. Our Optimized Backup and Deduplication (OBD) product merges our industry-leading Virtual Tape Library (VTL) and File-interface Deduplication System (FDS) solutions to help customers optimize the performance of their existing backup infrastructure, while reducing the cost of underlying storage and data replication. From Fortune 100 enterprises to medium-size businesses, customers across a vast range of industries worldwide have implemented FalconStor solutions in their production IT environments. Whether it is to meet their recovery time objectives (RTO) or their recovery point objectives (RPO), FalconStor helps end users manage their storage infrastructures with minimal total cost of ownership (TCO) and with optimal return on investment (ROI). 
+
+FalconStor&#8217;s commitment to an open, software-based approach continues. In October 2015, we introduced a new Cinder driver to the OpenStack community. This driver allows users of OpenStack, a free, open source infrastructure virtualization software platform, to utilize FreeStor APIs to deliver proven, enterprise-class data services and stability to this newly emerging platform. FalconStor believes that as open-source projects mature, as a company, we have an opportunity to provide our thought leadership and expertise to help the open source community deliver mature, stable capabilities to everyone. We also continue to support open storage networking for any-to-any connectivity via native support for industry standards (including Fibre Channel (FC), iSCSI, SCSI, SAS, SATA and Fibre Channel over Ethernet (FCOE)). The result delivers unified support for multiple storage architectures. FalconStor solutions provide companies of almost any size and complexity with the freedom to implement their choice of state-of-the-art equipment based on any standard protocol from any storage manufacturer, without rendering their existing or future investments obsolete. 
+
+FalconStor&#8217;s products have been certified by many industry leaders which are available on our website at: www.falconstor.com/certification-matrix . 
+
+Deployment options 
+
+FalconStor sells its solutions primarily as standalone software, or as virtual appliances. An option to deliver the software pre-installed on FalconStor-supplied hardware appliances is also available upon request. 
+
+Solutions 
+
+FalconStor is focused on offering solutions in four core areas: 
+
+&#8226; 
+
+Data Migration 
+
+&#8226; 
+
+Continuous Availability 
+
+&#8226; 
+
+Data Protection + Recovery 
+
+&#8226; 
+
+Optimization 
+
+Our core products enable these solutions as follows: 
+
+&#8226; 
+
+FreeStor&#174; - An integrated software-defined platform that provides, migration, continuity, protection, recovery and optimization for any storage environment through a single management interface 
+
+&#8226; 
+
+FalconStor&#174; NSS - Migration, storage virtualization, provisioning, and management 
+
+&#8226; 
+
+FalconStor&#174; CDP - Bootable snapshots, zero-impact backup and both local and remote disaster recovery 
+
+&#8226; 
+
+FalconStor&#174; RecoverTrac - Automated, policy based recovery for local and remote physical, virtual, private cloud and hybrid environments 
+
+&#8226; 
+
+FalconStor&#174; OBD - Optimized backup, archive to tape, and block-based deduplication, file-based deduplication and storage capacity optimization 
+
+FalconStor solutions are scalable in order to address the needs of medium businesses, large organizations, and global enterprises. Our solutions offer high availability (HA) through RAID, synchronous and asynchronous mirroring, HA failover, and clustering technologies. 
+
+FreeStor &#174; 
+
+FreeStor is an industry leading software-defined, completely hardware agnostic platform that delivers a truly heterogeneous data services approach. FreeStor helps IT organizations minimize and eliminate that complexity with the delivery of migration, continuity, protection, recovery and optimization services for any storage environment through a single management interface - all for a single price based on managed capacity across arrays, servers, hypervisors, data centers, and the cloud. 
+
+This is accomplished through the introduction of its Intelligent Abstraction&#174; core IO engine, which provides a scalable storage hypervisor, coupled with a data services engine and automation, to ease the provisioning and management of storage resources with the right level of performance, protection and recovery. The Intelligent Abstraction core optimizes storage resources regardless of type, connectivity, brand or speed, into a storage resource pool that can be provisioned to physical or virtual applications, along with common, unified data services across that pool. FreeStor is designed to eliminate the complexity and incompatibilities of point solutions along with the time involved in managing disparate underlying storage found in today&#8217;s enterprise 
+
+FalconStor &#174; &#32;Network Storage Server (NSS) 
+
+FalconStor NSS is a scalable, highly available solution that enables storage virtualization and business continuity in heterogeneous environments. Supporting existing third-party disk arrays, FalconStor NSS eliminates storage boundaries and vendor lock-in, providing fast and easy data storage provisioning and migration. From a small iSCSI virtual server lab to an enterprise-class Fibre Channel SAN running Tier-1 database applications, FalconStor NSS is designed to meet all of the storage needs of any organization. 
+
+Moving data between different storage platforms can be complex, time consuming, and disruptive to business operations. FalconStor&#8217;s core storage virtualization technology provides a non-disruptive and simple approach to data mobility across different SAN protocols and vendors. With FalconStor NSS, we believe it becomes a simple operation to move data from older platforms to newer ones or to introduce new storage tiers. This allows organizations to respond to evolving performance and capacity requirements. 
+
+By virtualizing storage on any disk array, FalconStor NSS provides the ability to pool and tier disk assets, simplifying provisioning, reducing allocation errors, and maximizing resource utilization. This allows IT organizations to avoid overprovisioning of disk resources and to bring new servers and projects online quickly and efficiently. FalconStor NSS incorporates a full set of application-aware data protection services, including real-time synchronous mirroring, volume snapshots, and site-to-site WAN-optimized data replication, and leverages the RecoverTrac tool for automated disaster recovery. 
+
+When deployed in high availability clusters, FalconStor NSS offers HA functionality. FalconStor NSS can also be implemented as a highly available stretch cluster (also known as a metro-cluster). A stretch cluster provides automatic failover of storage services between different physical locations or geographic sites up to 100 KM apart. Stretch clusters typically are used to create &#8220;active/active&#8221; data centers in order to provide business continuity with bi-directional replication and dynamic workload balancing across sites. FalconStor NSS stretch clusters enable enterprise-level HA and uninterrupted service for organizations requiring the most stringent level of protection and automation for DR. 
+
+Virtual server environments are well-served by virtualized storage. FalconStor NSS is designed to make it easy to create a new disk resource to house virtual machine files, and disk resources are re-allocated to different servers or shared among servers to facilitate virtual machine high-availability operations that require shared disk. Specific integration tools allow FalconStor NSS to service virtual server environments in an optimal manner providing rapid and effective recovery processes of a virtual machine or entire virtual server farms. Specifically, FalconStor NSS integrates with and enhances VMware technologies such as VMware vSphere, VMware vCenter, and VMware vCenter Site Recovery Manager. Support of VMware vStorage APIs for Array Integration (VAAI) extends VMware integration into any storage environment and optimizes VMware deployments with comprehensive, flexible storage virtualization and data protection functionality. 
+
+In addition, FalconStor NSS enables and automates server-less backup processes. FalconStor backup server integration tools offload backup processes from the server to the FalconStor NSS repository, freeing up the application host server and eliminating the backup window. 
+
+The FalconStor NSS Virtual Appliance enables cost-effective server virtualization by converting internal or external server storage resources into shared storage resources to enable high availability options across virtual servers. The solution is designed to reduce infrastructure cost and complexity while maximizing customers&#8217; return on investment. The FalconStor NSS Virtual Appliance brings all the benefits and features of server and storage virtualization to the remote and branch office to reduce costs and to enable effective data protection and recovery solutions across the enterprise. 
+
+FalconStor &#174; &#32;Continuous Data Protector (CDP) 
+
+FalconStor CDP technology reinvents the way data backup and recovery are implemented and performed. Moving beyond failure-prone once-a-day tape backup models, FalconStor CDP combines local and remote protection into a cost-effective, unified, disk-based solution that allows organizations to recover data back to the most recent transaction. Combining application-aware snapshot agents and continuous journaling functions, FalconStor CDP enables customers to recover data to any point in time. 
+
+In addition, FalconStor CDP delivers instant data availability and reliable recovery, bringing business applications back on line in a matter of minutes after a failure. FalconStor CDP protects application-specific data for Microsoft, Oracle, SAP, and other business applications, ensuring high performance and stability for even the most complex business environments. Using a wealth of sophisticated technologies - including application integration, physical-to-virtual recovery, WAN-optimized replication, and disaster recovery automation via the FalconStor RecoverTrac tool - entire systems can be restored in under ten minutes. Lost files can be recovered in as little as two minutes. Data is protected in its native format and is instantly accessible. With FalconStor CDP, the RTO changes from hours to minutes, minimizing system downtime and economic impact. 
+
+Further, FalconStor CDP enables and automates server-less backup processes with our Zero-Impact backup features and eliminates application and system disruption during data protection. Our backup server integration tools offload backup processes from the server to the FalconStor CDP repository, freeing up the application host server and completely eliminating the backup window. 
+
+The FalconStor CDP Virtual Appliance is a pre-configured, ready-to-run software application packaged for quick, easy deployment in virtual environments. The solution reduces infrastructure cost and complexity while maximizing customers&#8217; return on investment. The FalconStor CDP Virtual Appliance provides all the benefits and features of FalconStor CDP to the remote and branch office to enable comprehensive and effective data protection and recovery solutions across the enterprise. 
+
+FalconStor &#174; RecoverTrac Disaster Recovery Automation Tool 
+
+The FalconStor RecoverTrac disaster recovery automation tool is included as a standard feature of the FalconStor NSS and the FalconStor CDP solutions to automate complex, time-consuming and error-prone failover and failback operations of systems, applications, services, and entire data centers. The RecoverTrac tool streamlines the implementation, testing and execution of DR operations. It minimizes service failover time between sites and reduces DR costs by offering full recovery from physical-to-physical, virtual-to-virtual, and physical-to-virtual server infrastructures. This tool can also convert across those environments, enabling organizations to seamlessly migrate locally, remotely or to and from cloud environments. 
+
+FalconStor &#174; &#32;Optimized Backup and Deduplication (OBD) 
+
+The FalconStor OBD solution takes the functionality of two of FalconStor&#8217;s existing products, VTL (Virtual Tape Library) and FDS (File-interface Deduplication System), and combines them into a single platform with a common user interface. OBD solution is one of the industry&#8217;s leading virtual tape solutions, and we believe it is unmatched in terms of performance and scalability. With virtual tape, backups complete faster and more reliably, with little or no change needed to the backup environment. It enhances backup operations seamlessly without changing any backup processes or policies. Sophisticated physical tape integration and data security complete the solution. Designed from the start as an enterprise-class application, FalconStor OBD can achieve sustained backup speeds of 20TB per hour per node. Up to eight nodes can combine into a single logical unit, scaling performance to a remarkable 160 TB per hour. This sustained performance allows users to solve the single biggest issue in backup: meeting the backup window. To put that in context, with our latest version 8.x product releases, existing customers can now do the same backup job in 2.8 hours vs. what previously took 8 hours. Unlike our competitors who report peak speeds using multiple nodes, FalconStor notes sustained speeds on a single node and on multiple nodes to ensure customers can achieve real-world performance and do more actual work in less time. 
+
+Built-in data deduplication significantly reduces the amount of data needed to be stored on disk. Combined with the latest high-speed protocols, including 8Gb Fibre Channel (FC) and 10Gb Ethernet, we believe FalconStor OBD demonstrates the fastest sustained deduplication speeds in the industry: more than 28 terabytes per hour with inline deduplication and more than 40 terabytes per hour with post processing. Because not all data is alike, we believe FalconStor OBD is the only deduplication solution to offer flexible, deduplication options, letting the customer choose from any combination of four deduplication methods (inline, post-process, concurrent, and no deduplication) to align deduplication processes with business goals and unique requirements. By eliminating redundant backup data, the storage footprint can be reduced by as much as 95%, allowing organizations to keep weeks or even months of data on disk for fast, dependable restore without any of the reliability concerns of a tape-based restore. 
+
+FalconStor OBD presents network-attached storage (NAS) interface accessibility to a block-level deduplication repository through common LAN-based file-access protocols such as CIFS and NFS. In addition, FalconStor OBD provides a shared deduplication repository that spans multiple application sources, environments, and storage protocols, maximizing space savings. This allows for backup data from any node to be deduplicated against all data in the repository, for true global deduplication. This improves and accelerates data restores, making it easier to meet or exceed service level agreements. 
+
+While deduplication can eliminate or greatly reduce the need for physical tapes, many organizations still require tape for long-term, offsite, or archival storage. FalconStor OBD has the industry&#8217;s broadest and most sophisticated integration with physical tape libraries, allowing companies to export data directly to physical tape, leveraging the speed of FalconStor OBD without impacting the backup network. 
+
+FalconStor OBD also supports small and remote office environments through FalconStor OBD storage appliances and small footprint virtual appliances. 
+
+BUSINESS STRATEGY 
+
+FalconStor continues to position itself as a leader in the Software-Defined Storage market serving enterprise IT organizations and service providers worldwide. FalconStor intends to achieve this objective through the following strategies. 
+
+Modernize Existing Enterprise Storage Environments While Protecting Investments 
+
+As IT organizations look to modernize existing infrastructure (either refreshing existing technology or introducing new technologies such as All Flash Arrays (AFAs)), they are challenged by the cost, risk, and the disruption upgrades and migrations can cause. Because FreeStor abstracts the data services from the physical storage infrastructure, additional capabilities can be added to legacy hardware, eliminating the need and cost to replace that hardware. This delivers discrete value in terms of lowering capital and operational costs, reduced risk and disruption and significantly faster time to deployment. For IT organizations needing to deploy new hardware or storage paradigms such as all AFAs, FreeStor enables the migration of data and workloads to those new platforms, versus being forced to start with a new or &#8220;greenfield&#8221; deployment required by many of the new HW vendors. FreeStor offers these organizations a path forward with an approach that minimizes or eliminates risk and disruption to business processes and workflows, while lowering both capital and operational costs. 
+
+FalconStor intends to continue to leverage the protocol-independent, unified architecture, and robust open data services technology of its solution to maintain a leadership position in the enterprise storage software market. FalconStor plans to continue its leadership in this market through its deep commitment to research and development and through continued rapid technology innovation. For information on our research and development expenditures, please see &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; and our audited consolidated financial statements. 
+
+Enable Service Providers 
+
+As the service provider segment continues to grow, they increasingly have a need to support heterogeneous storage environments across their own datacenters and their customer&#8217;s environments. Further, they often have different hardware and software capabilities, making it significantly challenging to offer consistent data services across these environments. FreeStor offers several strategic benefits for service providers: 
+
+&#8226; 
+
+Seamlessly and non-disruptively move data from the customer premise to the service provider&#8217;s hosted environment; 
+
+&#8226; 
+
+Offers common data services across customer&#8217;s environments regardless of underlying hardware or technology; 
+
+&#8226; 
+
+Allows for the introduction and ability to monetize additional data services they may not have previously been able to offer; 
+
+&#8226; 
+
+Provides a low-cost growth opportunity due to the flexibility of FreeStor licensing, while eliminating the need to have multiple feature licenses array by array; 
+
+&#8226; 
+
+Realize reduced storage management complexity and costs within their own infrastructure by eliminating silos, reducing licensing costs and optimizing hardware with FreeStor; and 
+
+&#8226; 
+
+Optimize storage hardware based on price/performance needs of customers. 
+
+Expand Software and Hardware Strategic Alliances with Industry Leaders 
+
+The Flash/SSD market should be a key opportunity for us on two fronts: targeting customers wanting to integrate new Flash/SSD technology into existing IT environments; and OEMs needing to enhance their software stack in order to offer data movement and protection services on their platform. Cloud Service Providers (CSPs) also represent a growth opportunity. They need help moving data from the customer site to their own facilities as well as a way to deliver common data services across disparate and often incompatible hardware typically found across the provider and end customer environments. FalconStor is strongly positioned to continue to take advantage of these key opportunities in the global marketplace. Our strategic relationships with Dell, DSI, Fujitsu, Hitachi Data Systems, HP, Huawei, Kaminario, X-IO and others should fuel growth across all three major geographies. 
+
+Expanded Existing Product Offerings 
+
+In 2015, FalconStor introduced its next generation data services platform, FreeStor, and continued to update its existing portfolio to address the needs of customers and leverage newer technologies. Product release updates include: 
+
+&#8226; 
+
+FreeStor 
+
+All new software defined storage platform that unifies date services across a heterogeneous storage pool that is managed via a single console to simplify storage management across entire storage infrastructures, both local and remote. FreeStor leverages the Intelligent Abstraction core IO engine, all enhancements to NSS/CDP, plus additional unique capabilities: 
+
+&#8226; 
+
+Full set of REST APIs and centralized database; 
+
+&#8226; 
+
+HTML5 based central management interface; 
+
+&#8226; 
+
+Active/Active, always-on availability; 
+
+&#8226; 
+
+4-Way Clusters that can be deployed as 2+2 configurations in both local and stretch modes; 
+
+&#8226; 
+
+Inline deduplication for improved storage efficiency; 
+
+&#8226; 
+
+Scalable infrastructure allows for expansion of up to 128 nodes managed through a single interface; 
+
+&#8226; 
+
+Integrates all data services in a single platform with a single license; and 
+
+&#8226; 
+
+Simple licensing - all data services, 24x7 support, future upgrades, and basic installation are all included on a subscription basis. Users only pay for the capacity managed in a simple $/TB model. 
+
+&#8226; 
+
+FalconStor NSS/CDP versions 8.0, 8.1 
+
+Multiple major enhancements were made to the core IO engine to reduce latency, and improve performance, security and reliability. Those improvements include but are not limited to: 
+
+&#8226; 
+
+Improved IO performance to over 500K IOps per node, over 1 million per cluster; 
+
+&#8226; 
+
+Improved HA, new active/active availability; 
+
+&#8226; 
+
+4-Way Clusters that can be deployed as 2+2 configurations in both local and stretch modes; 
+
+&#8226; 
+
+Improved TimeMark&#8482; quiescent flag optimizes application protection while minimizing disruption; 
+
+&#8226; 
+
+Improved storage failure detection; and 
+
+&#8226; 
+
+REST APIs introduced for enhanced management, monitoring and reporting. 
+
+&#8226; 
+
+FalconStor OBD version 8.2 
+
+Multiple security enhancements were made to harden the product for today&#8217;s enterprise environment requirements. 
+
+&#8226; 
+
+Updated to Linux 6.5 kernel to take advantage of OS security improvements; 
+
+&#8226; 
+
+Strong password and account lockout; 
+
+&#8226; 
+
+Improved password expiration management and SA512 password hashing; and 
+
+&#8226; 
+
+VTL-VA virtual appliance and numerous usability enhancements. 
+
+&#8226; 
+
+Various Agents 
+
+&#8226; 
+
+DiskSafe - Both Windows and Linux versions upgraded to work with NSS/CDP and FreeStor. 
+
+&#8226; 
+
+RecoverTrack 2.9 - added Microsoft Hyper-V support, multiple DNS entries and multiple enhancements for migration jobs. 
+
+&#8226; 
+
+Snapshot Agents - Snapshot Director for vSphere 5.5 and 6.0 ready, Oracle v12 support. 
+
+Market Approach 
+
+FalconStor continues to focus on enterprise customers, managed, service providers, cloud service providers, as well as OEM partners. These markets offer the greatest opportunity and are best suited to realize the value of FalconStor products. 
+
+The Company continues to utilize Corporate Marketing and Regional Field Marketing teams to better address market differences. The Corporate Marketing team focuses on company branding, industry analysts, public relations, key messaging, product positioning, and sales enablement. The Field Marketing teams have been organized and funded to focus on go-to-market efforts and marketing activities, lead generation, promotions and event execution. These teams are now empowered to tailor go-to-market efforts and optimize marketing effectiveness for local markets and geographies, moving away from a &#8220;one-size-fits-all&#8221; approach. 
+
+Growth Drivers 
+
+As the adoption of new technologies such as All Flash Arrays and the move to consuming solutions as a service, the IT market continues to show growth in several key market segments. FalconStor continues to focus on and pursue these market segments to deliver software defined storage data services, shifting away from slower growing, traditional Back-up and Data Protection markets. 
+
+According to IDC*, the traditional Business Continuity and Disaster Recovery (BCDR) markets are slowing to just under 6% growth CAGR over the next 3 years. That market is crowded with many incumbent vendors, all fighting for the same customer IT spend. However, the SDS market continues to grow and offers a cumulative CAGR of over 62% over the next 3 years. 
+
+*(Source: IDC Enterprise Storage Software Forecast 2015) 
+
+SALES ROUTES TO MARKET 
+
+FalconStor continues to sell products in a number of ways: 
+
+&#8226; 
+
+Direct to customers 
+
+&#8226; 
+
+Through authorized partners, value-added resellers (VARs), solution providers, and large system integrators 
+
+&#8226; 
+
+Direct to Direct Market Resellers (DMRs) and Distributors 
+
+&#8226; 
+
+Direct to Managed Service Providers (MSPs) and Cloud Service Providers (CSPs) 
+
+&#8226; 
+
+Direct to Original Equipment Manufacturers (OEMs) 
+
+VAR and Distributor Relationships: FalconStor has entered into VAR and distributor agreements to help sell our products in various geographic areas. FalconStor&#8217;s VARs and distributors market various FalconStor products and receive a discount off of the list price on products sold. FalconStor&#8217;s scalable solutions are also being deployed by MSPs and CSPs to deliver online data protection and recovery services across different vertical markets. 
+
+Strategic Alliances: FalconStor has agreements with strategic partners to utilize FalconStor products for use in the strategic partners&#8217; special-purpose storage appliances. 
+
+OEM Relationships: OEMs collaborate with FalconStor to integrate FalconStor technology into their own product offerings or to resell FalconStor technology under their own label. 
+
+Professional Services: FalconStor&#8217;s Professional Services personnel are also available to assist customers and partners throughout the lifecycle of FalconStor solution deployments. The Professional Services team includes experienced Storage Architects (expert field engineers) who can assist in the assessment, planning/design, deployment, and test phases of the deployment project, and a Technical Support Group for post-deployment assistance and ongoing support. 
+
+In a limited number of circumstances, FalconStor has entered into software license agreements directly with end users. 
+
+MARKETING 
+
+The efforts to increase awareness and demand for FreeStor provided solid results in 2015. According to 2015 TrendKite* summary reports, FalconStor and FreeStor &#8220;share of voice&#8221; grew from a combined 11% in 2014 to a combined 27% in 2015. This either surpassed key competitors or put the Company on par with others in the SDS segment. AR/PR efforts yielded a 65% year-over-year increase in the amount of Company coverage in print and online media. Advertising campaigns drove a 176% year-over-year increase in lift, or ad recall rates according to Nielson Research**. When compared to competitors, on average they realized a lift of 1.0 or less compared to FalconStor with an average lift of 4.4 for ad recall. 
+
+*TrendKite is an independent media coverage service to which FalconStor subscribes to capture and report on global and regional media and social coverage. 
+
+** Nielson Research conducted an awareness and ad recall study on behalf of FalconStor based on 2015 advertising campaigns. 
+
+COMPETITION 
+
+As data has become as critical an asset as capital and labor, the entrants into the data management and data protection segments continue to rise, as does the demand for services and integration with emerging technologies. Although there are several companies attempting to offer data protection for specific environments, FalconStor believes that only software-defined storage providers are capable of delivering a high level of data protection services across the data center, crossing the infrastructure boundaries between virtual, physical and hybrid environments. FalconStor holds multiple patents on key technologies that enable and optimize our snapshots, data protection, and data reduction platform. We believe that our integrated services and products based on our common storage virtualization platform - including CDP, NSS, OBD, WAN-optimized replication for remote offices and data centers, and disaster recovery automation - are unique to the industry. 
+
+Although some of FalconStor&#8217;s products provide capabilities that put them in competition with products from a number of companies, FalconStor is not aware of any other software company providing the same level of data protection and recovery capabilities for both physical and virtual infrastructures in a common solution. FalconStor believes that the principle competitive factors enhancing its marketability include product features, such as scalability, high availability, price, reliability, hardware/platform neutrality, and customer service and support. 
+
+As FalconStor refines its focus on enterprise and service provider market segments, the products and services offered by its partners may compete with existing or new products and services offered by current and new entrants to the market. 
+
+FalconStor&#8217;s future and existing competitors could conceivably introduce products with superior features, scalability and functionality at lower prices than FalconStor products. They could also bundle existing or new products with other more established products to compete with FalconStor. Increased competition could result in price reductions and reduced gross margins, which in turn could impact FalconStor&#8217;s business. FalconStor&#8217;s success will depend largely on its ability to generate market demand and awareness of its products and to enhance or develop new products and services in a timely manner. 
+
+When we sell to customers, the competitors we encounter most frequently are HP, EMC, IBM, DataCore, Nexenta and a number of niche players. Many of these competitors have significantly greater resources than we do. 
+
+INTELLECTUAL PROPERTY 
+
+FalconStor&#8217;s success is dependent in part upon its proprietary technology. The IPStor platform forms the core of this proprietary technology. FalconStor currently has twenty-four patents and numerous pending patent applications. The Company has multiple registered trademarks - including &#8220;FalconStor Software&#8221;, &#8220;IPStor&#8221;, &#8220;FreeStor&#8221; and &#8220;Intelligent Abstraction&#8221; - as well as pending trademark applications related to FalconStor and its products. 
+
+FalconStor seeks to protect its proprietary rights and other intellectual property through a combination of copyright, patents, trademark, and trade secret protection, as well as through contractual protections such as proprietary information agreements and nondisclosure agreements. The technological and creative skills of its personnel, new product developments, frequent product enhancements, and reliable product maintenance are essential to establishing and maintaining a technology leader position. 
+
+FalconStor generally enters into confidentiality or license agreements with employees, consultants, and corporate partners and generally controls access to and distribution of its software, documentation, and other proprietary information. Despite the Company&#8217;s efforts to protect its proprietary rights, unauthorized parties may attempt to copy or otherwise obtain and use FalconStor&#8217;s products or technology. Monitoring unauthorized use of FalconStor&#8217;s products is difficult, and there can be no assurance that the steps FalconStor has taken will prevent misappropriation of its technology, particularly in foreign countries where laws may not protect its proprietary rights as fully as do the laws of the United States. 
+
+MAJOR CUSTOMERS 
+
+For the year ended December 31, 2015 , 2014 &#32;and 2013 , we had one customer, Hitachi Data Systems, which accounted for 10%, 11% and 14% of our total revenue, respectively. The loss of this customer, or a significant reduction in revenue from this customer, could have a material adverse effect on our results of operations. In addition, for the year ended December 31, 2015 we had one customer, Violin Memory, Inc., which accounted for 23% of our total revenue. This revenue related to our joint development agreement with Violin Memory, Inc. and is not expected to repeat in the future. If the Company is unable to receive revenue from other sources to replace the revenue from Violin Memory, Inc., it may have a material adverse impact on the results of operations. As of December 31, 2015 , Hitachi Data Systems and Datang Telecom International Technology Co., Ltd's accounts receivable balance was greater than 10% of our gross accounts receivable balance. As of December 31, 2014 , Huawei Technologies Co., Ltd's accounts receivable balance was 11% of our gross accounts receivable balance. 
+
+EMPLOYEES 
+
+As of December 31, 2015 , we had 226 full-time and part-time employees, consisting of 71 in research &#38; development, 74 in sales &#38; marketing, 55 in service, and 26 in general and administrative. We are not subject to any collective bargaining agreements and we believe that our employee relations are good. 
+
+INTERNET ADDRESS AND AVAILABILTY OF FILINGS 
+
+Our internet address is www.falconstor.com. The Company makes available free of charge, on or through its Internet website, the Company&#8217;s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Sections 13(a) or (15)(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after the Company electronically files such material with, or furnishes it to, the Securities and Exchange Commission. The Company complied with this policy for every Securities Exchange Act of 1934, as amended, report filed during the year ended December 31, 2015 . 
+

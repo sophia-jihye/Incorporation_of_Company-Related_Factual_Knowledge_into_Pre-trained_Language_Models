@@ -1,0 +1,260 @@
+ ITEM 1. 
+
+BUSINESS 
+
+General 
+
+We have pioneered the next generation of security through our innovative platform that allows enterprises, service providers, and government entities to secure their organizations by safely enabling applications running on their networks and by preventing breaches that stem from targeted cyber attacks. Our platform uses an innovative traffic classification engine that identifies network traffic by application, user, and content and provides consistent security across the network, endpoint, and cloud. Accordingly, our platform enables our end-customers to maintain the visibility and control needed to protect their valued data and critical control systems while pursuing technology initiatives, like cloud and mobility, that grow their business. We believe our platform offers superior performance compared to legacy approaches and reduces the total cost of ownership for organizations by simplifying their security infrastructure and eliminating the need for multiple, stand-alone security appliances and software products. 
+
+- 3 &#32;- 
+
+Our Next-Generation Security Platform consists of three major elements: our Next-Generation Firewall, our Advanced Endpoint Protection, and our Threat Intelligence Cloud. 
+
+Our Next-Generation Firewall delivers application, user, and content visibility and control as well as protection against network-based cyber threats integrated within the firewall through our proprietary hardware and software architecture. Our Advanced Endpoint Protection prevents cyber attacks that aim to run malicious code or exploit software vulnerabilities on a broad variety of fixed and virtual endpoints and servers. Our Threat Intelligence Cloud provides central intelligence capabilities, security for software as a service (&#8220;SaaS&#8221;) applications, and automated delivery of preventative measures against cyber attacks. 
+
+We were incorporated in 2005 as Palo Alto Networks, Inc., a Delaware corporation. Our corporate headquarters are located in Santa Clara, California. 
+
+Products and Services 
+
+Firewall Appliances. &#32;All of our firewall appliances incorporate our PAN-OS operating system and come with the same rich set of features ensuring consistent operation across our entire product line. These features include: App-ID, User-ID, site-to-site VPN, remote access Secure Sockets Layer (&#8220;SSL&#8221;) VPN, and Quality-of-Service (&#8220;QoS&#8221;). Our appliances are designed for different performance requirements throughout an organization and are classified based on throughput, ranging from our PA-200, which is designed for enterprise remote offices, to our top-of-the-line PA-7080, which is designed for large scale data centers and service provider use. Our firewall appliances come in a physical form factor, as well as in a virtual form factor that is available for virtualization environments from companies such as VMware, Inc. (&#8220;VMware&#8221;), Microsoft Corporation (&#8220;Microsoft&#8221;), and Amazon.com, Inc. (&#8220;Amazon&#8221;), and KVM/OpenStack environments. 
+
+Panorama. &#32;Panorama is our centralized security management solution for global control of all of our appliances deployed on an end-customer&#8217;s network as a virtual appliance or a physical appliance. Panorama is used for centralized policy management, device management, software licensing and updates, centralized logging and reporting, and log storage. Panorama controls the security, network address translation (&#8220;NAT&#8221;), QoS, policy based forwarding, decryption, application override, captive portal, and distributed denial of service/denial of service (&#8220;DDoS/DoS&#8221;) protection aspects of the appliances and virtual systems under management. Panorama centrally manages device software and associated updates, including SSL-VPN clients, GlobalProtect clients, dynamic content updates, and software licenses. Panorama offers the ability to view logs and run reports from all managed appliances without the need to forward the logs and to report on aggregate user activity for all users, including mobile users. Panorama reliably expands the log storage for long-term event investigation and analysis through high-availability features for central management. 
+
+Virtual System Upgrades . &#32;Virtual System Upgrades are available as extensions to the Virtual System capacity that ships with our physical appliances. Virtual Systems provide a mechanism to support multiple distinct security policies and administrative access for tenants on the same hardware device, which is applicable to our large enterprise and service provider end-customers. 
+
+Subscription Services . &#32;We offer a number of subscription services as part of our platform. Of these subscription services, Threat Prevention Subscription, URL Filtering Subscription, WildFire Subscription, and GlobalProtect Subscription are sold as options to our firewall appliances, whereas the others are sold on a per-user or per-endpoint basis. Our subscription services include: 
+
+- 4 &#32;- 
+
+&#8226; 
+
+Threat Prevention Subscription. &#32;This service provides the intrusion detection and prevention capabilities of our platform. Our threat prevention engine blocks vulnerability exploits, viruses, spyware, buffer overflows, denial-of-service attacks, and port scans from compromising and damaging enterprise information resources. It includes mechanisms such as protocol decoder-based analysis, protocol anomaly-based protection, stateful pattern matching, statistical anomaly detection, heuristic-based analysis, custom vulnerability, and spyware phone home signatures. 
+
+&#8226; 
+
+URL Filtering Subscription. &#32;This service provides the uniform resource locator (&#8220;URL&#8221;) filtering capabilities of our platform. The URL filtering database consists of millions of URLs across many categories and is designed to monitor and control employee web surfing activities. The on-appliance URL database can be augmented to suit the traffic patterns of the local user community with a custom URL database. URLs that are not categorized by the local URL database can be pulled into a separate, cache-based URL database from a very extensive, cloud-based URL database. 
+
+&#8226; 
+
+WildFire Subscription. &#32;This cloud-based or appliance-based service provides protection against targeted malware and advanced persistent threats. This service provides a near real-time analysis engine for detecting previously unseen malware. The core component of this service is a sandbox environment that can operate on an end-customers&#8217; private cloud or our public cloud where files can be run and monitored for more than 100 behavioral characteristics that identify the file as malware. Once identified, preventive measures are automatically generated and delivered to all devices that subscribe to the service. By providing this as a cloud-based service, all of our end-customers benefit from malware found on any network. 
+
+&#8226; 
+
+GlobalProtect Subscription. &#32;This appliance-based service provides protection for mobile users of both traditional laptop devices and mobile devices. It expands the boundaries of the physical network, effectively establishing a logical perimeter that encompasses remote laptop and mobile device users irrespective of their location. When a remote user logs into the device, GlobalProtect automatically determines the closest gateway available to the roaming device and establishes a secure connection. Windows and Apple laptops as well as mobile devices, such as Android phones and tablets and Apple iPhones and iPads, will stay connected to the corporate network whenever they are on a network of any kind. As a result, they are protected as if they never left the corporate campus. GlobalProtect ensures that the same secure application enablement policies that protect users at the corporate site are enforced for all users, independent of their location. 
+
+&#8226; 
+
+VM-Series Subscription. &#32;VM-Series, the virtual form factor of our Next-Generation Firewall, is offered as both a perpetual license as well as a term-based subscription service. The VM-Series provides all of the same security capabilities of our hardware appliances, but as a software package that can be deployed on VMware&#8217;s ESXi, Microsoft&#8217;s Hyper-V, and Red Hat KVM hypervisors, as well as natively in Amazon&#8217;s AWS cloud and Microsoft&#8217;s Azure cloud. 
+
+&#8226; 
+
+Traps Endpoint Protection Subscription. &#32;This service provides protection for endpoints against cyber attacks that aim to run malicious code or exploit software vulnerabilities. It prevents known and previously unknown attacks through its unique capability of stopping the underlying exploit techniques and can prevent cyber attacks without relying on prior knowledge of the attack. Through its integration with WildFire, it is also capable of preventing cyber attacks that rely on malware. 
+
+&#8226; 
+
+AutoFocus Subscription. &#32;This cloud-based service provides threat intelligence capabilities to our end-customers&#8217; security operations teams. Indicators of compromise and anomalies that occur on an end-customer&#8217;s network can be correlated with similar data that has been centrally collected by us in our Threat Intelligence Cloud from among all our participating end-customers. This offers our end-customers priority alerts, deep attack context, and high-fidelity threat intelligence across millions of malware samples and tens of billions of file artifacts. 
+
+&#8226; 
+
+Aperture Subscription. &#32;This cloud-based service provides content control for IT-sanctioned SaaS applications that are used to store and share end-customer&#8217;s data. It offers end-customers the capability to safely use these SaaS applications and avert risks associated with improper sharing of confidential data and risks associated with sharing of malicious content. 
+
+Support and Maintenance. &#32;We offer Standard Support, Premium Support, and four-hour Premium Support to our end-customers and channel partners. Our channel partners that operate a Palo Alto Networks Authorized Support Center (&#8220;ASC&#8221;) typically deliver level-one and level-two support. We provide level-three support 24 hours a day, seven days a week through regional support centers that are located worldwide. We also offer an annual subscription-based Technical Account Management (&#8220;TAM&#8221;) service that provides dedicated support for end-customers with unique or complex support requirements. We offer our end-customers ongoing maintenance services for both hardware and software in order to receive ongoing security updates, PAN-OS upgrades, bug fixes, and repair. End-customers typically purchase these services for a one-year or longer term at the time of the initial product sale and typically renew for successive one-year or longer periods. Additionally, we provide expedited replacement for any defective hardware. We use a third-party logistics provider to manage our worldwide deployment of spare appliances and other accessories. 
+
+Professional Services. &#32;Professional services are primarily delivered through our authorized channel partners and include on-location, hands-on experts who plan, design, and deploy effective security solutions tailored to our end-customers&#8217; specific requirements. These services include application traffic management, solution design and planning, configuration, and firewall 
+
+- 5 &#32;- 
+
+migration. Our education services provide online and classroom-style training and are also primarily delivered through our authorized partners. 
+
+Major Product Development Projects 
+
+We continue to invest in innovation and strengthening our product portfolio, which resulted in several new product offerings during fiscal 2016 . These new product offerings include: our PA-7080 appliance, which is our top-of-the-line chassis-based appliance ideally suited for very large enterprise deployments and service provider customers; our Aperture subscription service, which provides added visibility and control within IT-sanctioned SaaS applications; and our AutoFocus cyber threat intelligence service, which provides prioritized actionable intelligence on targeted cyber attacks. In addition, we delivered PAN-OS and Panorama 7.1, an important software release that extended our cloud support to include Microsoft Azure, reduced the time from first detection of new malware to prevention from fifteen minutes down to five minutes, and added new levels of visibility into SaaS usage that when combined with GlobalProtect and Aperture provide security for sanctioned and unsanctioned SaaS applications. 
+
+Technology 
+
+We combine our proprietary hardware and software architecture, PAN-OS operating system, Traps, and Threat Intelligence Cloud to provide a comprehensive security platform. The core of our platform is our Next-Generation Firewall, which integrates application visibility and control and is comprised of three identification technologies: App-ID, User-ID, and Content-ID. These technologies allow organizations to enable the secure use of applications while managing the inherent risks of doing so. These fine-grained policy management and enforcement capabilities are delivered at low latency, multi-gigabit performance through our innovative SP3 architecture. 
+
+App-ID. &#32;App-ID is our application classification engine that uses multiple identification techniques to determine the exact identity of applications traversing the network. App-ID is the foundational classification engine that provides the core traffic classification to all other functions in our platform. The App-ID classification is used to invoke other security functions. 
+
+App-ID uses a series of classification techniques to accurately identify an application. When traffic first enters the network, App-ID applies an initial policy check based on Internet Protocol (&#8220;IP&#8221;) and port. Signatures are then applied to the traffic to identify the application based on application properties and related transaction characteristics. If the traffic is encrypted and a decryption policy is in place, the application is first decrypted, then application signatures are applied. Additional context-based signature analysis is then performed to identify known protocols that may be hiding other applications. Encrypted traffic that was decrypted is then re-encrypted before being sent back into the network. For evasive applications that cannot be identified through advanced signature and protocol analysis, heuristics or behavioral analysis are used to determine the identity of the application. When an application is accurately identified during this series of successive techniques, the policy check determines how to treat the application and associated functions. The policy check can block the application, allow it and scan for threats, inspect it for unauthorized file transfer and data patterns, or shape its use of network resources by applying a quality-of-service policy. 
+
+App-ID consistently classifies all network traffic, including business applications, consumer applications, and network protocols, across all ports. Consequently, there is no need to perform a series of signature checks to look for an application that is thought to be on the network. App-ID continually monitors the state of the application to determine if the application changes. Our platform allows only those applications within the policy to enter the network, while all other applications are blocked. 
+
+Internally developed or custom applications can be managed using either an application override or custom App-IDs. End-customers can use either of these mechanisms to apply the same level of control over their internal or custom applications that they apply to common applications. Because the application landscape is constantly changing, our research teams are constantly updating our App-ID classification engine. We deliver updated App-IDs automatically to our end-customers through our weekly update service. 
+
+User-ID. &#32; User-ID integrates our platform with a wide range of enterprise user directories and technologies, including Active Directory, eDirectory, Open LDAP, Citrix Terminal Server, Microsoft Exchange, Microsoft Terminal Server, and ZENworks. A network-based, User-ID agent communicates with the domain controllers, directories, or supported enterprise applications, mapping information such as user, role, and current IP address to the firewall, making the policy integration transparent. In cases where user repository information does not include the current IP address of the user, a transparent, captive portal authentication or challenge/response mechanism can be used to tie users into the security policy. In cases where a user repository or application is in place that already has knowledge of users and their current IP address, a standards-based application programming interface (&#8220;API&#8221;) can be used to tie the repository to our platform. 
+
+Content-ID. &#32;Content-ID is a collection of technologies that enables many of our subscription services. Content-ID combines a real-time threat prevention engine, a cloud-based analysis service, and a comprehensive URL categorization database to limit unauthorized data and file transfers, detect and block a wide range of threats, and control non-work related web surfing. 
+
+The threat prevention engine blocks several common types of attacks, including vulnerability exploits, buffer overflows, and port scans from compromising and damaging enterprise information resources. It includes mechanisms such as protocol decoder-based 
+
+- 6 &#32;- 
+
+analysis, protocol anomaly-based protection, stateful pattern matching, statistical anomaly detection, heuristic-based analysis, custom vulnerability, and spyware &#8220;phone home&#8221; signatures. 
+
+Our cloud-based analysis service, WildFire, provides a near real-time analysis engine for detecting previously unseen targeted malware. The core component of WildFire is a sandbox environment that can be deployed in a customer&#8217;s private cloud or on our public cloud where files can be run and monitored for more than 100 behavioral characteristics that identify the file as malware. Once identified, signatures are automatically generated and delivered to all end-customers that subscribe to the WildFire service. By providing WildFire as a cloud-based service, all of our end-customers benefit from malware found on a single network or endpoint. Refer to the &#8220;WildFire&#8221; section below for a more detailed discussion of our WildFire technology. 
+
+Our URL filtering database consists of millions of URLs across many categories and is designed to monitor and control employee web surfing activities. The on-appliance URL database can be augmented to suit the traffic patterns of the local user community with a custom URL database. URLs that are not categorized by the local URL database can be pulled into an on-appliance data cache from a very extensive, cloud-based URL database. The data filtering features in our platform enable policies that reduce the risks associated with the transfer of unauthorized files and data. This can be achieved by blocking files by type, by controlling sensitive data, such as credit card and social security numbers in application content or attachments, and by controlling file transfers within applications. 
+
+SP3. &#32;SP3 is our proprietary software and hardware architecture that is comprised of two elements: single-pass software and parallel processing hardware. 
+
+Our single-pass software accomplishes two key functions in our platform. First, it performs operations once per packet. As a packet is processed, the networking functions, the policy lookup, the application identification and decoding, and the signature matching for any and all threats and content are all performed simultaneously. This significantly reduces the amount of processing required to perform multiple functions in one security device. Second, the content scanning step is stream-based and uses uniform signature matching to detect and block threats. Instead of using multiple scanning passes and file proxies, which require download prior to scanning, our single-pass software scans content once in a stream-based fashion to minimize latency. This results in very high throughput and low latency, even with all security functions active. It also offers a single, fully integrated policy, thus enabling easier management of security. 
+
+Our parallel processing hardware is designed to optimize single-pass software performance through the use of separate data and control planes, which means that heavy utilization of one does not negatively impact the performance of the other. Our hardware also uses discrete, specialized processing groups to perform critical functions. On the data plane, this includes functions such as networking, policy enforcement, encryption and decryption, decompression, and content scanning. On the control plane, this includes configuration management, logging, and reporting. 
+
+We believe that the combination of single-pass software and parallel processing hardware is unique in the enterprise security industry and allows our platform to safely enable applications and prevent cyber threats at very high levels of performance and throughput. 
+
+PAN-OS Operating System. &#32;Our PAN-OS operating system provides the foundation for our security platform and contains App-ID, User-ID, and Content-ID. PAN-OS performs the core functions of our platform while also providing the networking, security, and management functions needed for implementation. The PAN-OS networking functions include dynamic routing, switching, high availability, and VPN support, which enables deployment into a broad range of networking environments. 
+
+We have the ability to enable a series of virtual firewall instances or virtual systems. Each virtual system is an independent (virtual) firewall within the device that is managed separately and cannot be accessed or viewed by any other administrator of any other virtual system. This capability allows enterprises and service providers to separate firewall instances in departmental and multi-tenant managed services scenarios. 
+
+The security functions in PAN-OS are implemented in a single security policy and include application, application function, user, group, port, and service-based elements. Policy responses can range from open (allow but monitor for activity), to moderate (enabling certain applications or functions), to closed (deny). The tight integration of application control, users, and groups, and the ability to scan the allowed traffic for a wide range of threats minimizes the number of policies. 
+
+PAN-OS also includes attack protection capabilities, such as blocking invalid or malformed packets, IP defragmentation, Transmission Control Protocol (&#8220;TCP&#8221;) reassembly, and network traffic normalization. PAN-OS eliminates invalid and malformed packets, while TCP reassembly and IP defragmentation is performed to ensure the utmost accuracy and protection despite any attack evasion techniques. 
+
+WildFire. &#32;WildFire is our cloud-based malware analysis environment that offers a completely new approach to cybersecurity. Through native integration with our Next-Generation Firewall, the service brings advanced threat detection and prevention to every system deployed throughout the network, automatically sharing protections with all WildFire subscribers globally. 
+
+The service offers a unified, hybrid cloud architecture deployed via either the public cloud, a private cloud appliance that maintains all data on the local network, or a combination of the two. This allows us to perform dynamic analysis of suspicious content 
+
+- 7 &#32;- 
+
+in a cloud-based virtual environment to discover unknown threats, automatic creation and enforcement of best-in-class, content-based malware protections, and link detection in email, proactively blocking access to malicious websites. 
+
+Advanced attacks are not point-in-time events. Adversaries deliver attacks persistently, often using non-standard ports, protocols or encryption for subsequent attack stages. Like our Next-Generation Firewall, WildFire provides complete visibility into unknown threats within all traffic across thousands of applications, including Web traffic, email protocols (SMTP, IMAP, POP), and FTP, regardless of ports or encryption (SSL). 
+
+Once WildFire discovers a new threat, the service automatically generates protections across the attack lifecycle, blocking malicious files and command-and-control traffic. Uniquely, many of these protections are content-based, not relying on easily changed attributes such as hash, filename or URL, allowing the service to block the initial malware and future variants without any additional action or analysis. WildFire informs the protection of our other security services, blocking threats in-line through Threat Prevention (anti-malware, DNS, command-and-control), Web Security (malicious URLs in PAN-DB), and GlobalProtect (anti-malware for mobile devices). 
+
+Traps. &#32;Traps is our Advanced Endpoint Protection product that prevents advanced attacks originating from either exploits or malicious executables before any malicious activity can successfully run, regardless of software patches in place. If an attack attempt is made, Traps will immediately block the technique or techniques, terminate the process, and notify both the user and the administrator that an attack was thwarted. Whenever a block does occur, Traps will collect detailed forensics, including the offending process, the memory state when it was prevented, and many other details that are reported to the Endpoint Security Manager (&#8220;ESM&#8221;). 
+
+The Traps agent injects itself into each process as it is started. When an attacker attempts to exploit a software vulnerability, the Traps protection modules cause the exploit attempt to fail because Traps has already made the process impervious to those techniques. When the attempt is prevented, the Traps agent kills the process and reports all of the details to the ESM. 
+
+Traps policy is configured to protect over 100 processes - each one with dozens of proprietary exploit prevention modules (&#8220;EPMs&#8221;). However, unlike other products, Traps is not limited to protecting only those processes or applications. Our end-customers use Traps to protect all manner of processes and applications by simply adding them to the policy configuration. Processes that have been run on the endpoint automatically show up in the ESM console, making it easy to protect those processes with the click of a button. This is especially useful for those end-customers running industry-specific applications. Traps can protect point-of-sale (&#8220;POS&#8221;) systems, ATM machines, SCADA, and any other applications from exploitation. 
+
+Certifications. &#32;Many of our products have been awarded Federal Information Processing Standard &#32; (&#8220;FIPS&#8221;) 140-2 Level 2, Common Criteria/National Information Assurance Partnership (&#8220;NIAP&#8221;) Evaluation Assurance Level &#32;(&#8220; EAL&#8221;) 2, Common Criteria/NIAP EAL4+, Network Equipment-Building System (&#8220;NEBS&#8221;), and ICSA Firewall certifications. 
+
+Intellectual Property 
+
+Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation regarding patent and other intellectual property rights. In particular, leading companies in the enterprise security industry have extensive patent portfolios and are regularly involved in both offensive and defensive litigation. We continue to grow our patent portfolio and own intellectual property and related intellectual property rights around the world that relate to our products, services, research and development, and other activities, and our success depends in part upon our ability to protect our core technology and intellectual property. We file patent applications to protect our intellectual property and believe that the duration of our issued patents is sufficient when considering the expected lives of our products. 
+
+We actively seek to protect our global intellectual property rights and to deter unauthorized use of our intellectual property by controlling access to and use of our proprietary software and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, end-customers and partners, and our software is protected by U.S. and international copyright laws. Despite our efforts to protect our trade secrets and proprietary rights through intellectual property rights, licenses, and confidentiality agreements, unauthorized parties may still copy or otherwise obtain and use our software and technology, particularly in countries that provide less protection of intellectual property rights and in the absence of harmonized international intellectual property standards. 
+
+&#32;From time to time, third parties may assert patent, copyright, trademark, and other intellectual property rights against us, our channel partners, or our end-customers, which our standard license and other agreements may obligate us to indemnify against such claims. Successful claims of infringement by a third party could prevent us from distributing certain products or performing certain services, require us to expend time and money to develop non-infringing solutions, or force us to pay substantial damages (including treble damages if we are found to have willfully infringed patents or copyrights), royalties or other fees. In addition, based on our greater visibility and market exposure as a public company, we face a higher risk of being the subject of intellectual property infringement claims from third parties. We cannot assure you that we do not currently infringe, or that we will not in the future infringe, upon any third-party patents or other proprietary rights. See &#8220;Risk Factors&#8212;Claims by others that we infringe their proprietary technology or other rights could harm our business&#8221; and &#8220;Legal Proceedings&#8221; below for additional information. 
+
+- 8 &#32;- 
+
+Customers 
+
+Our end-customers are predominantly medium to large enterprises, service providers, and government entities. Our end-customers operate in a variety of industries, including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications. Our end-customers deploy our platform for a variety of security functions across a variety of deployment scenarios. Typical deployment scenarios include the enterprise perimeter, the enterprise data center, and the distributed enterprise perimeter. Our end-customer deployments typically involve at least one pair of our products along with one or more of our subscription services, depending on size, security needs and requirements, and network complexity. As of July 31, 2016 , we had approximately 34,000 &#32;end-customers worldwide. No single end-customer accounted for more than 10% of our total revenue in fiscal 2016 , 2015 , or 2014 . 
+
+Backlog 
+
+Orders for services for multiple years are billed upfront shortly after fulfillment of an order and are included in deferred revenue. Timing of revenue recognition for services may vary depending on the contractual service period or when the services are rendered. Products are shipped and billed shortly after receipt of an order. The majority of our product revenue comes from orders that are received and shipped in the same quarter. As such, we do not believe that our product backlog at any particular time is meaningful and it is not necessarily indicative of our future operating results. 
+
+Seasonality 
+
+Our business is affected by seasonal fluctuations in customer spending patterns. We have begun to see seasonal patterns in our business, which we expect to become more pronounced as we continue to grow, with our strongest sequential revenue growth occurring in our fiscal second and fourth quarters. 
+
+Sales, Customer Support and Marketing 
+
+We primarily sell our products and services to end-customers through our channel partners utilizing a two-tier, indirect fulfillment model whereby we sell our products and services to our distributors, which, in turn, sell to our resellers, which then sell to our end-customers. Sales are subject to our standard, non-exclusive distributor agreement, which provides for an initial term of one year, one-year renewal terms, termination by us with 30-90 days written notice prior to the renewal date, and payment to us from the channel partner within 30-45 calendar days of the date we issue an invoice for such sales. For fiscal 2016 , 58.2% &#32;of our total revenue was derived from sales to two &#32;distributors. 
+
+We also sell our VM-Series virtual firewalls directly to end-customers through Amazon&#8217;s AWS Marketplace and Microsoft&#8217;s Azure Marketplace under a usage-based licensing model. 
+
+Sales. &#32;Our sales organization is responsible for large-account acquisition and overall market development, which includes the management of the relationships with our channel partners, working with our channel partners in winning and supporting end-customers through a direct-touch approach, and acting as the liaison between our end-customers and our marketing and product development organizations. We expect to continue to grow our sales headcount in all of our principal markets and expand our presence into countries where we currently do not have a direct sales presence. 
+
+Our sales organization is supported by sales engineers with responsibility for pre-sales technical support, solutions engineering for our end-customers, and technical training for our channel partners. 
+
+Channel Program. &#32;Our NextWave Channel Partner program is focused on building in-depth relationships with solutions-oriented distributors and resellers that have strong security expertise. The program rewards these partners based on a number of attainment goals, as well as provides them access to marketing funds, technical and sales training, and support. To ensure optimal productivity, we operate a formal accreditation program for our channel partners&#8217; sales and technical professionals. As of July 31, 2016 , we had more than 3,600 &#32;channel partners. 
+
+Customer Support. &#32; Our customer support organization is responsible for delivering support, professional, and educational services directly to our channel partners and to end-customers. We leverage the capabilities of our channel partners and train them in the delivery of support, professional, and educational services to ensure these services are locally delivered. We believe that a broad range of support services is essential to the successful customer deployment and ongoing support of our products, and we have hired support engineers with proven experience to provide those services. 
+
+Marketing. &#32;Our marketing is focused on building our brand reputation and the market awareness of our platform and driving pipeline and end-customer demand. Our marketing team consists primarily of product marketing, programs marketing, field marketing, channel marketing, and public relations functions. Marketing activities include pipeline development through demand generation, social media and advertising programs, managing the corporate web site and partner portal, trade shows and conferences, press, analyst, and customer relations, and customer awareness. Every year we organize our end-customer conference &#8220;Ignite.&#8221; We also publish major market research papers such as the &#8220;Application Usage and Threat Report,&#8221; which are based on the application and 
+
+- 9 &#32;- 
+
+cyber threat landscape of our end-customers. These activities and tools benefit both our direct and indirect channels and are available at no cost to our channel partners. 
+
+Manufacturing 
+
+We outsource the manufacturing of our security products to various contract manufacturers and original design manufacturers. This approach allows us to reduce our costs as it reduces our manufacturing overhead and inventory and also allows us to adjust more quickly to changing end-customer demand. Our primary manufacturing partner is Flextronics International, Ltd. (&#8220;Flex&#8221;), who assembles our products using design specifications, quality assurance programs, and standards that we establish, and procures components and assembles our products based on our demand forecasts. These forecasts represent our estimates of future demand for our products based upon historical trends and analysis from our sales and product management functions as adjusted for overall market conditions. 
+
+The component parts within our products are either sourced by our contract manufacturers or by various suppliers. We do not have any long-term manufacturing contracts that guarantee us any fixed capacity or pricing, which could increase our exposure to supply shortages or price fluctuations related to raw materials. 
+
+Research and Development 
+
+Our research and development effort is focused on developing new hardware and software and on enhancing and improving our existing products and services. We believe that hardware and software both are critical to expanding our leadership in the enterprise security market. Our engineering team has deep networking, endpoint, and security expertise and works closely with end-customers to identify their current and future needs. In addition to our focus on hardware and software, our research and development team is focused on research into applications and threats, which allows us to respond to the rapidly changing application and threat landscape. 
+
+We believe that innovation and timely development of new features and products is essential to meeting the needs of our end-customers and improving our competitive position. We supplement our own research and development effort with technologies and products that we license from third parties. We test our products thoroughly to certify and ensure interoperability with third-party hardware and software products. 
+
+We plan to continue to significantly invest in our research and development effort. Our research and development expense was $284.2 million , $185.8 million , and $104.8 million &#32;in fiscal 2016 , 2015 , and 2014 , respectively. 
+
+Competition 
+
+We operate in the intensely competitive enterprise security market that is characterized by constant change and innovation. Changes in the application, threat, and technology landscape result in evolving customer requirements for the protection from threats and the safe enablement of applications. Our main competitors fall into four categories: 
+
+&#8226; 
+
+large networking vendors such as Cisco Systems, Inc. (&#8220;Cisco&#8221;) and Juniper Networks, Inc. (&#8220;Juniper&#8221;) that incorporate security features in their products; 
+
+&#8226; 
+
+large companies such as Intel Corporation (&#8220;Intel&#8221;) and International Business Machines Corporation (&#8220;IBM&#8221;) that have acquired large network and endpoint security specialist vendors in recent years and have the technical and financial resources to bring competitive solutions to the market; 
+
+&#8226; 
+
+independent security vendors such as Check Point Software Technologies Ltd. (&#8220;Check Point&#8221;), Fortinet, Inc. (&#8220;Fortinet&#8221;), FireEye, Inc. (&#8220;FireEye&#8221;), and Symantec Corporation (&#8220;Symantec&#8221;) that offer a mix of network and endpoint security products; and 
+
+&#8226; 
+
+small and large companies that offer point solutions that compete with some of the features present in our platform. 
+
+As our market grows, it will attract more highly specialized vendors as well as larger vendors that may continue to acquire or bundle their products more effectively. 
+
+The principal competitive factors in our market include: 
+
+&#8226; 
+
+product features, reliability, performance, and effectiveness; 
+
+&#8226; 
+
+product line breadth, diversity, and applicability; 
+
+&#8226; 
+
+product extensibility and ability to integrate with other technology infrastructures; 
+
+&#8226; 
+
+price and total cost of ownership; 
+
+&#8226; 
+
+adherence to industry standards and certifications; 
+
+&#8226; 
+
+strength of sales and marketing efforts; and 
+
+- 10 &#32;- 
+
+&#8226; 
+
+brand awareness and reputation. 
+
+We believe we generally compete favorably with our competitors on the basis of these factors as a result of the features and performance of our platform, the ease of integration of our products with technological infrastructures, and the relatively low total cost of ownership of our products. However, many of our competitors have substantially greater financial, technical, and other resources, greater name recognition, larger sales and marketing budgets, broader distribution, more diversified product lines, and larger and more mature intellectual property portfolios. 
+
+Employees 
+
+As of July 31, 2016 , we had 3,795 &#32;employees. Competition for qualified personnel in our industry is intense, and we believe that our future success depends in part on our continued ability to hire, motivate, and retain such personnel. 
+
+Segment and Geographic Information 
+
+We are organized and operate in a single reportable segment, with 70.6% of our total revenue from the Americas, 17.9% from Europe, the Middle East, and Africa (&#8220;EMEA&#8221;), and 11.5% from Asia Pacific and Japan (&#8220;APAC&#8221;) in fiscal 2016 . Refer to Note 14 . Segment Information of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for more information about segments and revenue and assets by geographic region. 
+
+Available Information 
+
+Our website is located at www.paloaltonetworks.com, and our investor relations website is located at investors.paloaltonetworks.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), are available free of charge on the Investors portion of our web site as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (&#8220;SEC&#8221;). We also provide a link to the section of the SEC&#8217;s website at www.sec.gov that has all of our public filings, including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, our Proxy Statements, and other ownership related filings. Further, a copy of this Annual Report on Form 10-K is located at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+We also use our investor relations website as a channel of distribution for important company information. For example, webcasts of our earnings calls and certain events we participate in or host with members of the investment community are on our investor relations website. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading &#8220;Governance.&#8221; The contents of our websites are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+

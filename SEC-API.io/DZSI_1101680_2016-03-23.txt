@@ -1,0 +1,374 @@
+ ITEM 1. BUSINESS 
+
+Company Overview 
+
+We design, develop and manufacture communications network equipment for enterprises and telecommunications operators worldwide. Our products enable both enterprises and network service providers to deliver high speed fiber access, while transporting voice, video and data to the end user. Our next-generation solutions are based upon our SLMS architecture. From its inception, this SLMS architecture was specifically designed for the delivery of multiple classes of subscriber services (such as voice, data and video distribution), rather than being based on a particular protocol or media. In other words, our SLMS products are built to support the migration from legacy circuit to packet technologies and from copper to fiber technologies. This flexibility and versatility allows our products to adapt to future technologies while allowing service providers to focus on the delivery of additional high bandwidth services. Because this SLMS architecture is designed to interoperate with existing legacy equipment, service providers can leverage their existing networks to deliver a combination of voice, data and video services today, while they migrate, either simultaneously or at a future date, from legacy equipment to next-generation equipment with minimal interruption. We believe that our SLMS solution provides an evolutionary path for service providers from their existing infrastructures, as well as gives newer service providers the capability to deploy cost-effective, multi-service networks that can support voice, data and video. In addition to our established product offerings in our core business, our FiberLAN Passive Optical Local Area Network (LAN) product provides an alternative to switched copper-based ethernet LANs. 
+
+Our core business provides access products to carriers and service providers worldwide. We believe that carriers and service providers can increase their revenues and lower their operating costs by using our products to deliver high quality video and interactive entertainment and Internet Protocol (IP) enabled next generation voice services in addition to their existing voice and data service offerings, all on a platform that permits a seamless migration from legacy technologies to a converged packet-based architecture. 
+
+Target customers of our FiberLAN business include hospitality, education, sports arenas, corporate campuses, government, manufacturing and business enterprises. We believe FiberLAN Passive Optical LAN is one of the most cost-effective, efficient and environmentally friendly alternatives to existing copper-based Ethernet LAN infrastructure. 
+
+In 2015, we established a dedicated sales team to focus on the growth of our FiberLAN Passive Optical LAN market penetration. As a result of this dedication, we became a leading supplier of FiberLAN Passive Optical LAN solutions in the hospitality and education markets and grew our global market presence by triple digit percentages. We also expanded our sales 
+
+footprint with the addition of several new channel partners and announced joint marketing efforts with TE Connectivity and Clearfield Communications. 
+
+Our established SLMS architecture provides cost-efficiency and feature flexibility with support for voice over internet protocol (VoIP) and IP entertainment (IPTV). Within this versatile SLMS architecture, our products allow service providers to deliver all of these and other next generation converged packet services over their existing copper lines while providing support for fiber or Fiber to the home or business (FTTx) build-out. With our products and solutions, network service providers can seamlessly migrate from traditional circuit-based networks to packet-based networks and from copper-based access lines to fiber-based access lines without abandoning the investments they have made in their existing infrastructures. 
+
+Zhone launched our flagship MXK IP Multi-service Terabit Access Concentrator (MXK) and multiple new Optical Line Terminal (OLT) and outdoor units in late 2009. Our MXK product is a converged multi-services access platform that can be configured as a Gigabit Passive Optical Network (GPON) or Active Ethernet OLT. The MXK GPON line module is ITU-T G.984 compliant, delivering data throughputs of up to 2.5 Gbps downstream and 1.25 Gbps upstream. Each line card is designed for up to 64 passive splits per fiber. Active Ethernet delivers up to 1 Gbps point-to-point from a 20-port card. MXK continues to be widely deployed by service providers around the world, with over 9,777 total MXK units deployed as of December 31, 2015 at over 150 service providers in more than 40 countries. 
+
+Zhone&#8217;s MXK product supports high-performance business and residential FTTx services. Unlike most competing products, MXK has the ability to support both Passive Optical Network (PON) and Active Ethernet fiber technologies to the node, curb or premises as well as a host of copper line interfaces. With our MXK product, service providers can offer digital or Radio Frequency (RF) video, high-bandwidth Internet access, VoIP and digital subscriber line (DSL) from a single platform. Additionally, our MXK product can support up to 9,216 GPON subscribers in a single MXK chassis. In 2014, Zhone's MXK GPON solution was one of the first to receive Metro Ethernet Forum's Certification for Carrier Ethernet (CE) 2.0. 
+
+Our FiberLAN Passive Optical LAN is comprised of our MXK OLT and zNID Optical Network Terminals (ONT), and delivers GPON and Active Ethernet-based LAN services to enterprises. Both our core business and FiberLAN business leverage the same R&#38;D efficiencies. In 2013, the Association for Passive Optical LAN was established, which includes as founding members IBM, 3M, Corning and Zhone. In addition, our FiberLAN solution (including FiberLAN OLT and ONT PON) was granted JITC (Joint Interoperability Test Command) certification by the Defense Information Systems Agency. This certification provides new sales opportunities in military and government markets, while helping to demonstrate the capabilities and security aspects of our FiberLAN solution. In 2014, Zhone announced a marketing relationship with Corning for their ONE DAS (Distributed Antenna System), which will assist in university and hospitality deployments. 
+
+The flexibility of our MXK product enables service provider and enterprise customers alike to choose the best technology for both services and network architecture. Active Ethernet provides dedicated high symmetric bandwidth to the end customers and makes it an excellent technology for deployment of business services. GPON provides a cost-effective way to deliver high bandwidth to the residence for a robust triple play offering while enabling a host of high speed data and video options for the businesses. In addition to Active Ethernet and dense GPON support, the MXK provides a wide array of multi-service functionality supporting well defined access standards enabling the convergence of voice, data and entertainment over any access medium delivering high-performance all IP solutions designed for either our core business or FiberLAN customers. 
+
+In 2014, we observed a growing demand for an ultra high density fiber-only GPON and Active Ethernet solution. To address this need, we developed the MXK-F platform. MXK-F is the fiber-only evolution of our MXK product line, offering ten times the switching capacity and two times the port capacity, while giving our customers a path to migrate to new high speed fiber services and access to network functions such as software defined networks, deep packet inspection and other network virtualization functions. The MXK-F is based on the SLMS architecture and leverages our 15 years of development and maturity of the SLMS code base in a new higher density platform. 
+
+We will continue to support and enhance our MXK platforms for copper and fiber access deployments but the MXK-F rounds out our portfolio and gives our carrier customers another tool to offer to their end user customers. 
+
+In 2015, we launched our first fiber-only ONTs with integrated support for RF video and Power over Ethernet (PoE). The new 2625p and 2645p GPON ONTs are designed to deliver advanced triple-play services in multi-room environments such as hotels, hospitals, assisted living facilities and university dorms where traditional cable television service must also be delivered over the fiber infrastructure. These indoor models in Zhone's zNID 2600 product line provide a simple, fully integrated solution, flexibility in deployment, reduced hardware costs and greater energy efficiency. 
+
+Corporate Information 
+
+We were incorporated in Delaware under the name Zhone Technologies, Inc. in June 1999, and in November 2003, we consummated our merger with Tellium, Inc. (Tellium). Although Tellium acted as the legal acquirer, due to various factors, including the relative voting rights, board control and senior management composition of the combined company, Zhone was treated as the &#8220;acquirer&#8221; for accounting purposes. Following the merger, the combined company was renamed Zhone Technologies, Inc. and retained substantially all of Zhone&#8217;s previous management and operating structure. The mailing address of our worldwide headquarters is 7195 Oakport Street, Oakland, California 94621, and our telephone number at that location is (510) 777-7000. Our website address is www.zhone.com . The information on our website does not constitute part of this report. Through a link on the Investor Relations section of our website , &#32;we make available the following filings as soon as reasonably practicable after they are electronically filed with or furnished to the SEC: our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. All such filings are available free of charge. 
+
+Industry Background 
+
+Over the past decade, the communications network industry has experienced rapid expansion as the internet and the proliferation of bandwidth intensive applications and services have led to an increased demand for high bandwidth communications networks. The broad adoption of new technologies such as smartphones, digital cameras and high definition televisions allow music, pictures, user-generated content (as found on the many video-sharing sites) and high definition video to be a growing part of consumers&#8217; regular exchange of information. In recent years, the growth of social communications and social networking has continued to place demands on existing copper based access infrastructure and new consumer demands are challenging even the newest and most advanced infrastructures. All of these new technologies share a common dependency on high bandwidth communication networks and sophisticated traffic management tools. However, network service providers have struggled to meet the increased demand for high speed broadband access due to the constraints of the existing communications network infrastructure. This infrastructure consists of two interconnected networks: 
+
+&#8226; 
+
+the &#8220;core&#8221; network, which interconnects service providers with each other; and 
+
+&#8226; 
+
+the &#8220;access&#8221; network, which connects end-users to a service provider&#8217;s closest facility. 
+
+To address the increased demand for higher transmission speeds via greater bandwidth, service providers have expended significant capital over the past decade to upgrade the core network by replacing much of their copper infrastructure with high-speed optical infrastructure. While the use of fiber optic equipment in the core network has relieved the bandwidth capacity constraints in the core network between service providers, the access network continues to be a &#8220;bottleneck&#8221; that severely limits the transmission speed between service providers and end-users. As a result, communications in the core network can travel at up to 10 gigabits per second, while in stark contrast, many communications over the access network throughout the world still occur at a mere 56 kilobits per second, a speed that is 175,000 times slower. At 56 kilobits per second, it may take several minutes to access even a modestly media laden website and several hours to download large files. Fiber access lines have the potential to remedy this disparity, but re-wiring every home or business with fiber optic cable is both cost prohibitive and extremely time consuming. Consequently, solving the access network bottleneck has typically required more efficient use of the existing copper wire infrastructure and support for the gradual migration from copper to fiber. 
+
+In an attempt to deliver high bandwidth services over existing copper wire in the access network, service providers began deploying DSL technology over a decade ago. However, this early DSL technology has practical limitations. Copper is a distance sensitive medium in that the amount of bandwidth available over a copper wire is inversely proportional to the length of the copper wire. In other words, the greater the distance between the service provider&#8217;s equipment and the customer&#8217;s premises, the lower the bandwidth. Unfortunately, most DSL services available today are provided by first generation DSL access multiplexer (DSLAM) equipment. These large unwieldy devices require conditioned power and a climate controlled environment typically found only in a telephone company&#8217;s central office, which is often at great distance from the customer. While adequate for basic data services, these first generation DSLAMs were not designed to meet the needs of today&#8217;s high bandwidth applications. The modest bandwidth provided by existing DSLAM equipment is often incapable of delivering even a single channel of standard definition video, much less multiple channels of standard definition video or high definition video. 
+
+Over the past decade, regulatory changes have introduced new competitors in the telecommunication services industry. Cable operators, with extensive networks designed originally to provide only video programming, have collaborated to adopt new packet technologies that leverage their hybrid fiber/coaxial cable infrastructure. Using more recent technologies, cable operators have begun to cost-effectively deliver new service bundles. The new service offerings provide not only enhanced features and capabilities, but also allow the cable operators to deliver these services over a common network. The resulting cost-efficiencies realized by cable operators are difficult for incumbent telephone companies to match. Even with the telephone companies&#8217; legacy voice switches fully paid for, maintaining separate networks for their circuit-based voice and packet-based video and data networks is operationally non-competitive. Perhaps even more important than economic efficiencies, by 
+
+integrating these services over a common packet infrastructure, cable operators will realize levels of integration between applications and new features that will be difficult to achieve from a multi-platform solution. Despite these benefits, coaxial cable has its own share of limitations. Unlike DSL, coaxial cable shares its bandwidth among all customers connected to it. Consequently, as new customers are added to coaxial cable networks, performance decreases. As a shared medium, large numbers of subscribers who simultaneously access the same segment of the coaxial cable network can potentially compromise performance and security. This represents a source of strategic advantage for telecom operators who employ technology designed to maximize their service capabilities on the point-to-point (i.e. not shared) architecture of their copper infrastructure. In addition, the introduction of 3G and 4G wireless technologies and improved satellite technologies have enabled wireless and satellite service providers to provide competitive broadband offerings as alternatives to traditional landline access. This increased competition has placed significant pressure on all network service providers. With significant service revenues at risk, these service providers have sought to upgrade and modernize their networks and broaden their service offerings to enable delivery of additional high bandwidth, high margin services, and to lower the cost of delivering these services. 
+
+The Zhone Solution 
+
+We believe that we are the first company dedicated solely to developing the full spectrum of next-generation access network solutions to cost-effectively deliver high bandwidth services while simultaneously preserving the investment in legacy networks. Our next-generation solutions are based upon our SLMS architecture. From its inception, this SLMS architecture was specifically designed for the delivery of multiple classes of subscriber services (such as voice, data and video distribution), rather than being based on a particular protocol or media. In other words, our SLMS products are built to support the migration from legacy circuit to packet technologies and from copper to fiber technologies. This flexibility and versatility allows our products to adapt to future technologies while allowing service providers to focus on the delivery of additional high bandwidth services. Because this SLMS architecture is designed to interoperate with existing legacy equipment, service providers can leverage their existing networks to deliver a combination of voice, data and video services today, while they migrate, either simultaneously or at a future date, from legacy equipment to next-generation equipment with minimal interruption. We believe that our SLMS solution provides an evolutionary path for service providers using their existing infrastructures, as well as giving newer service providers the capability to deploy cost-effective, multi-service networks that can support voice, data and video. 
+
+Triple Play Services with Converged Voice, Data and Video &#8211; &#32;SLMS simplifies the access network by consolidating new and existing services onto a single line. This convergence of services and networks simplifies provisioning and operations, ensures quality of service and reliability, and reduces the time required to provide services. SLMS integrates access, transport, customer premises equipment, and management functions in a standards-based system that provides scalability, interoperability and functionality for voice, data and video services. 
+
+Packet Migration &#8211; &#32;SLMS is a flexible multi-service architecture that provides current services while simultaneously supporting migration to a pure packet network. This flexibility allows service providers to cost-effectively provide carrier class performance, and functionality for current and future services without interrupting existing services or abandoning existing subscribers. SLMS also protects the value of the investments made by residential and commercial subscribers in equipment, inside wiring and applications, thereby minimizing transition impact and subscriber attrition. 
+
+Fiber to the Home, Premise, Node, or Curb (FTTx) &#32;&#8211; We provide support for the full range of fiber-based access network architectures that are seeing increased use by carriers. In many markets worldwide, both business and residential demand for bandwidth is growing to the point where the deployment of fiber in the access network is increasingly desirable. Where copper loops are plentiful and where civil restrictions make fiber deployment all the way to the customer premises prohibitively expensive, if not impossible, many operators are choosing to deploy fiber from central offices to neighborhoods and then using VDSL2 over copper to deliver broadband connectivity over the last hundred meters or so. In other circumstances operators choose to deploy passive optical networks (PON) all the way to the customer premises, where a single fiber&#8217;s bandwidth is shared through splitters with up to 64 subscribers. Some circumstances demand so-called &#8220;home run&#8221; fiber networks (with dedicated fiber resources linking every customer directly to the central office) to maximize bandwidth or service segmentation. By supporting all these architectures within a common SLMS-based platform, we provide carriers maximum flexibility to build the network that best suits their needs. 
+
+Ethernet Service Delivery &#8211; &#32;We offer a complete array of equipment that allows carriers to deliver ethernet services over copper or fiber. For business subscribers, our ethernet over copper product family allows carriers to quickly deliver ethernet services over existing copper symmetrical high-speed digital subscriber line (SHDSL) or T1/E1 circuits. Multiple circuits can be bonded to provide over 70 Megabits per second, enough to deliver ample ethernet bandwidth to satisfy business subscribers&#8217; growing service requirements. This copper-based solution provides a compelling alternative to burying fiber and dedicating valuable fiber strands to long-haul ethernet services to small and medium enterprises. 
+
+FiberLAN Passive Optical LAN - &#32;Passive Optical LAN is a next generation passive optical network architecture built using industry leading IT standards. This fully converged solution is scalable for a single building or large campus environments where customers are installing new facilities or upgrading their current LAN infrastructures. The solution provides a future-resistant LAN with environmentally friendly benefits, and high bandwidth capabilities to handle large sharing, file transfers, imaging, streaming video or real-time workgroup collaboration. Optical LAN Solutions are engineered to help improve network efficiencies, reduce capital costs, reduce space requirements, and conserve energy. 
+
+The Zhone Strategy 
+
+Our strategy has been to combine internal development with acquisitions of established access equipment vendors to achieve the critical mass required of telecommunications equipment providers. We expect that our future growth will focus primarily on organic growth in emerging technology markets. Going forward, the key elements of our strategy include: 
+
+&#8226; 
+
+Expanding Our Infrastructure to Meet Service Provider Needs . Network service providers require extensive support and integration with manufacturers to deliver reliable, innovative and cost-effective services. By combining advanced, computer-aided design, test and manufacturing systems with experienced, customer-focused management and technical staff, we believe that we have established the critical mass required to fully support global service provider requirements. We continue to expand our infrastructure through ongoing development and strategic relationships, continuously improving quality, reducing costs and accelerating delivery of advanced solutions. 
+
+&#8226; 
+
+Continuing the Development and Enhancement of Our SLMS Products . Our SLMS architecture is the cornerstone of our product development strategy. The design criteria for SLMS products include carrier-class reliability, multi-protocol and multi-service support, and ease of provisioning. We intend to continue to introduce SLMS products that offer the configurations and feature sets that our customers require. In addition, we have introduced products that adhere to the standards, protocols and interfaces dictated by international standards bodies and service providers. In 2009, we introduced our MXK product, an SLMS-based product that provides a converged multi-services access platform. In 2012, we launched our FiberLAN Optical LAN Solutions (OLS), a cost-effective, efficient and environmentally friendly alternative to existing copper-based ethernet LAN infrastructure. In 2014, we developed our MXK-F fiber-only platform to meet the growing needs of fiber-only carriers. To facilitate the rapid development of our existing and new SLMS architecture and products, we have established engineering teams responsible for each critical aspect of the architecture and products. We intend to continue to leverage our expertise in voice, data and video technologies to enhance our SLMS architecture, supporting new services, protocols and technologies as they emerge. To further this objective, we intend to continue investing in research and development efforts to extend the SLMS architecture and introduce new SLMS products. 
+
+&#8226; 
+
+Delivering Full Customer Solutions . In addition to delivering hardware and software product solutions, we provide customers with pre-sales and post-sales support, education and professional services to enable our customers to more efficiently deploy and manage their networks. We provide customers with application notes, business planning information, web-based and phone-based troubleshooting assistance and installation guides. Our support programs provide a comprehensive portfolio of support tools and resources that enable our customers to effectively sell to, support and expand their subscriber base using our products and solutions. 
+
+Product Portfolio 
+
+Our products provide the framework around which we are designing and developing high speed communications software and equipment for the access network. All of the products listed below are currently available and being shipped to customers. Our products span two distinct categories: 
+
+SLMS Products 
+
+Our SLMS products address four areas of customer requirements. Our Broadband Aggregation and Service products aggregate, concentrate and optimize communications traffic from copper and fiber networks. These products are deployed in central offices, remote offices, points of presence, curbsides, data and co-location centers, and large enterprises. Our Customer Premise Equipment, or CPE, products offer a cost-effective solution for combining analog voice and data services to the subscriber&#8217;s premises over a single platform. The Zhone Management System, or ZMS, product provides optional software tools to help manage aggregation and customer premises network hardware. These products deliver voice, data and video interface connectivity for broadcast and subscription television, internet routers and traditional telephony equipment. The FiberLAN Passive Optical LAN product is a cost-effective alternative to existing copper-based ethernet LAN, which is scalable for a single building or large campus environments. 
+
+Our SLMS products include: 
+
+Category 
+
+Product 
+
+Function 
+
+Broadband Aggregation and Service 
+
+MXK-F 
+
+Fiber-only Multi Terabit Access OLT 
+
+&#160; 
+
+MXK 
+
+Multi-Service Terabit Access Concentrator 
+
+&#160; 
+
+MALC 
+
+Multi-Access Line Concentrator 
+
+&#160; 
+
+MXP/MX 
+
+Scalable 1U SLMS VDSL2/Active Ethernet 
+
+&#160; 
+
+MALC-OLT 
+
+FTTx Optical Line Terminal 
+
+&#160; 
+
+8000 /12000 
+
+DSLAMs 
+
+Customer Premise Equipment (CPE) 
+
+EtherXtend 
+
+Ethernet Over Copper 
+
+&#160; 
+
+15xx, 67xx, 65xx 
+
+Wireline/Wireless DSL Modems 
+
+&#160; 
+
+17xx, 6xxx 
+
+Wireline/Wireless DSL Modems 
+
+&#160; 
+
+zNID 
+
+Optical Network Terminals 
+
+Zhone Management System 
+
+ZMS 
+
+Network and Subscriber Management 
+
+FiberLAN Passive Optical LAN 
+
+MXK 
+
+Multi-Service Terabit Access Concentrator 
+
+&#160; 
+
+zNID 
+
+Optical Network Terminals 
+
+Legacy, Service and Other Products 
+
+Our legacy products support a variety of voice and data services, and are broadly deployed by service providers worldwide. Our main legacy product during 2015 &#32;and 2014 &#32;was our Integrated Multiple Access Communication Server (IMACS) product which functions as a multi-access multiplexer. 
+
+Global Service &#38; Support 
+
+In addition to our product offerings, we provide a broad range of service offerings through our Global Service &#38; Support organization. We supplement our standard and extended product warranties with programs that offer technical support, product repair, education services and enhanced support services. These services enable our customers to protect their network investments, manage their networks more efficiently and minimize downtime for mission-critical systems. Technical support services are designed to help ensure that our products operate efficiently, remain highly available, and benefit from recent software releases. Through our education services program, we offer in-depth training courses covering network design, installation, configuration, operation, trouble-shooting and maintenance. Our professional services offering is a comprehensive program that provides network engineering, configuration, integration, project management, installation, and other consultative support to maximize the results of our customers during the design, deployment and operational phases. As part of our commitment to ensure around-the-clock support, we maintain a technical assistance center and a world wide staff of qualified network support engineers to provide customers with 24-hour service, seven days a week. 
+
+Technology 
+
+We believe that our future success is built upon our investment in the development of advanced technologies. SLMS is based on a number of technologies that provide sustainable advantages, including the following: 
+
+&#8226; 
+
+Services-Centric Architecture. &#32;SLMS has been designed from inception for the delivery of multiple classes of subscriber services (such as voice, data or video distribution), rather than being based on a particular protocol or media. Our SLMS products are built to interoperate in networks supporting packet, cell and circuit technologies. This independence between services and the underlying transportation is designed to position our products to be able to adapt to future transportation technologies within established architectures and to allow our customers to focus on service delivery. 
+
+&#8226; 
+
+Common Code Base. &#32;Our SLMS products share a common base of software code, which is designed to accelerate development, improve software quality, enable rapid deployment, and minimize training and operations costs, in conjunction with network management software. 
+
+&#8226; 
+
+Network Management and Operations. &#32;Our ZMS product provides management capabilities that enable rapid, cost-effective, and secure control of the network; standards-based interfaces for seamless integration with supporting systems; hierarchical service and subscriber profiles to allow rapid service definition and provisioning, and to enable wholesaling of services; automated and intelligent CPE provisioning to provide the 
+
+best end-user experience and accelerate service turn-up; load-balancing for scalability; and full security features to ensure reliability and controlled access to systems and data. 
+
+&#8226; 
+
+Test Methodologies. &#32;Our SLMS architecture provides for interoperability with a variety of products that reside in networks in which we will deploy our products. To ensure interoperability, we have built a testing facility to conduct extensive multi-vendor trials and to ensure full performance under valid network conditions. Testing has included participation with partners&#8217; certification and accreditation programs for a wide range of interoperable products, including soft switches, SAN equipment and management software. The successful completion of these processes is required by our largest customers to ensure interoperability with their existing software and systems. 
+
+&#8226; 
+
+Acquired Technologies. &#32;Since our inception, we have completed twelve acquisitions pursuant to which we acquired products, technology and additional technical expertise. 
+
+Customers 
+
+For our core business, we sell our products and services to network service providers that offer voice, data and video services to businesses, governments, utilities and residential consumers. Our global customer base includes regional, national and international telecommunications carriers. To date, our products are deployed by over 750 network service providers on six continents worldwide. Emirates Telecommunications Corporation (Etisalat) accounted for 11% of net revenue in 2015 and 2014. Baud Telecom Company represented 1% and 14% of net revenue in 2015 and 2014, respectively. No other customers accounted for 10% or more of net revenue during either period. 
+
+For our FiberLAN business, we sell our FiberLAN solutions directly and through system integrators and distributors to hospitality, education, stadiums, manufacturing and business enterprises as well as to the government and military. Our global FiberLAN customer base includes hotels, universities, sports arenas, military bases, government institutions, manufacturing facilities and Fortune 500 businesses. In 2015, we grew our global enterprise revenue by 150% and achieved over 300% growth in both the hospitality and education vertical. We were selected as an alliance partner to IBM's Sports and Entertainment Global Consortium focused on designing, building and delivering the ultimate fan experience. 
+
+Research and Development 
+
+The industry in which we compete is subject to rapid technological developments, evolving industry standards, changes in customer requirements, and continuing developments in communications service offerings. Our continuing ability to adapt to these changes, and to develop new and enhanced products, is a significant factor in maintaining or improving our competitive position and our prospects for growth. Therefore, we continue to make significant investments in product development. 
+
+We conduct the majority of our research and product development activities at our headquarters in Oakland, California. In Oakland, we have built an extensive communications laboratory with hundreds of access infrastructure products from multiple vendors that serve as an interoperability and test facility. This facility allows us to emulate a communications network with serving capacity equivalent to that supporting a city of 350,000 residents. We also have focused engineering staff and activities at additional development centers located in Alpharetta, Georgia and Largo, Florida. 
+
+Our product development activities focus on products to support both existing and emerging technologies in the segments of the communications industry that we consider viable revenue opportunities. We are actively engaged in continuing to refine our SLMS architecture, introducing new products under our SLMS architecture, and creating additional interfaces and protocols for both domestic and international markets. 
+
+We continue our commitment to invest in leading edge technology research and development. Our research and product development expenditures were $15.4 million , $17.3 million , and $15.3 million &#32;in 2015 , 2014 &#32;and 2013 , respectively. All of our expenditures for research and product development costs, as well as stock-based compensation expense relating to research and product development, have been expensed as incurred. Stock-based compensation expense in 2015, 2014 and 2013 related to research and product development was immaterial. We plan to continue to support the development of new products and features, while seeking to carefully manage associated costs through expense controls. 
+
+Intellectual Property 
+
+We seek to establish and maintain our proprietary rights in our technology and products through the use of patents, copyrights, trademarks and trade secret laws. We also seek to maintain our trade secrets and confidential information by nondisclosure policies and through the use of appropriate confidentiality agreements. We have obtained a number of patents and trademarks in the United States and in other countries. There can be no assurance, however, that these rights can be 
+
+successfully enforced against competitive products in every jurisdiction. Although we believe the protection afforded by our patents, copyrights, trademarks and trade secrets has value, the rapidly changing technology in the networking industry and uncertainties in the legal process make our future success dependent primarily on the innovative skills, technological expertise, and management abilities of our employees rather than on the protection afforded by patent, copyright, trademark, and trade secret laws. 
+
+Many of our products are designed to include software or other intellectual property licensed from third parties. While it may be necessary in the future to seek or renew licenses relating to various aspects of our products, we believe, based upon past experience and standard industry practice, that such licenses generally could be obtained on commercially reasonable terms. Nonetheless, there can be no assurance that the necessary licenses would be available on acceptable terms, if at all. Our inability to obtain certain licenses or other rights or to obtain such licenses or rights on favorable terms, or the need to engage in litigation regarding these matters, could have a material adverse effect on our business, operating results and financial condition. 
+
+The communications industry is characterized by rapidly changing technology, a large number of patents, and frequent claims and related litigation regarding patent and other intellectual property rights. We cannot assure you that our patents and other proprietary rights will not be challenged, invalidated or circumvented, that others will not assert intellectual property rights to technologies that are relevant to us, or that our rights will give us a competitive advantage. In addition, the laws of some foreign countries may not protect our proprietary rights to the same extent as the laws of the United States. 
+
+Sales and Marketing 
+
+We have a sales presence in various domestic and foreign locations, and we sell our products and services both directly and indirectly through channel partners with support from our sales force. Channel partners include distributors, resellers, system integrators and service providers. These partners sell directly to end customers and often provide system installation, technical support, professional services and support services in addition to the network equipment sale. Our sales efforts are generally organized according to geographical regions: 
+
+&#8226; 
+
+U.S. Sales. &#32;Our U.S. Sales organization establishes and maintains direct relationships with domestic customers, which include communication service providers, cable operators, independent operating companies, or IOCs, as well as competitive carriers, developers and utilities. In addition, this organization is responsible for managing our distribution and original equipment manufacturer, or OEM, partnerships. 
+
+&#8226; 
+
+International Sales. &#32;Our International Sales organization targets foreign based service providers and is staffed with individuals with specific experience dealing with service providers in their designated international territories. 
+
+Our marketing team works closely with our sales, research and product development organizations, and our customers by providing communications that keep the market current on our products and features. Marketing also identifies and sizes new target markets for our products, creates awareness of our company and products, generates contacts and leads within these targeted markets and performs outbound education and public relations. 
+
+Backlog 
+
+Our backlog consists of purchase orders for products and services that we expect to ship or perform within the next year. Our backlog may fluctuate based on the timing of when purchase orders are received. At December 31, 2015 , our backlog was $4.2 million, as compared to $4.8 million at December 31, 2014 . We consider backlog to be an indicator, but not the sole predictor, of future sales because our customers may cancel or defer orders without penalty. 
+
+Competition 
+
+We compete in the communications equipment market, providing products and services for the delivery of voice, data and video services. This market is characterized by rapid change, converging technologies and a migration to solutions that offer superior advantages. These market factors represent both an opportunity and a competitive threat to us. We compete with numerous vendors in our core business, including Alcatel-Lucent, Calix, Adtran, Huawei, and ZTE, among others. In our FiberLAN business, our competitors include Tellabs and Cisco, among others. In addition, a number of companies have introduced products that address the same network needs that our products address, both domestically and abroad. The overall number of our competitors may increase, and the identity and composition of competitors may change. As we continue to expand our sales globally, we may see new competition in different geographic regions. Barriers to entry are relatively low, and new ventures to create products that do or could compete with our products are regularly formed. Many of our competitors have greater financial, technical, sales and marketing resources than we do. 
+
+The principal competitive factors in the markets in which we presently compete and may compete in the future include: 
+
+&#8226; 
+
+product performance; 
+
+&#8226; 
+
+interoperability with existing products; 
+
+&#8226; 
+
+scalability and upgradeability; 
+
+&#8226; 
+
+conformance to standards; 
+
+&#8226; 
+
+breadth of services; 
+
+&#8226; 
+
+reliability; 
+
+&#8226; 
+
+ease of installation and use; 
+
+&#8226; 
+
+geographic footprints for products; 
+
+&#8226; 
+
+ability to provide customer financing; 
+
+&#8226; 
+
+price; 
+
+&#8226; 
+
+technical support and customer service; and 
+
+&#8226; 
+
+brand recognition. 
+
+While we believe that we compete successfully with respect to each of these factors, we expect to face intense competition in our market. In addition, the inherent nature of communications networking requires interoperability. As such, we must cooperate and at the same time compete with many companies. 
+
+Manufacturing 
+
+We manufacture our products using a strategic combination of procurement from qualified suppliers, in-house manufacturing at our facility in Florida, and the use of original design manufacturers (ODM) located in the Far East. We manufacture a significant majority of our more complex products at our manufacturing facility in Florida. 
+
+Our parts and components are procured from a variety of qualified suppliers in the U.S., Far East, Mexico, and other countries around the world per our approved supplier list and detailed engineering specifications. Some completed products are procured to our specifications and shipped directly to our customers. We also acquire completed products from certain suppliers and configure and ship from our facility. Some of these purchases are significant. We purchase both standard off-the-shelf parts and components, which are generally available from more than one supplier, and single-source parts and components. We have generally been able to obtain adequate supplies to meet customer demand in a timely manner from our current vendors, or, when necessary, from alternate vendors. We believe that alternate vendors can be identified if current vendors are unable to fulfill our needs, or design changes can be made to employ alternate parts. 
+
+We design, specify, and monitor all of the tests that are required to meet our quality standards. Our manufacturing and test engineers work closely with our design engineers to ensure manufacturability and testability of our products, and to ensure that manufacturing and testing processes evolve as our technologies evolve. Our manufacturing engineers specify, build, or procure our test stations, establish quality standards and protocols, and develop comprehensive test procedures and processes to assure the reliability and quality of our products. Products that are procured complete or partially complete are inspected, tested, or audited for quality control. 
+
+Our Quality Management System is compliant with ISO-9001:2008 and we are certified to ISO-9001:2008 by our external registrar, National Standards Authority of Ireland (NSAI). ISO-9001:2008 ensures our processes are documented, followed, and continuously improved. Internal audits are conducted on a regular schedule by our quality assurance personnel, and external audits are conducted by our external registrar every year. Our quality system is based upon our model for quality assurance in production and service to ensure our products meet rigorous quality standards. 
+
+We believe that we have sufficient production capacity to meet current and future demand for our product offerings through a combination of existing and added capacity, additional employees, or the outsourcing of products or components. 
+
+Compliance with Regulatory and Industry Standards 
+
+Our products must comply with a significant number of voice and data regulations and standards which vary between the U.S. and international markets, and which vary between specific international markets. Standards for new services continue to evolve, and we may need to modify our products or develop new versions to meet these standards. Standards setting and 
+
+compliance verification in the U.S. are determined by the Federal Communications Commission, or FCC, Underwriters Laboratories, Quality Management Institute, Telcordia Technologies, Inc., and other communications companies. In international markets, our products must comply with standards issued by the European Telecommunications Standards Institute, or ETSI, and implemented and enforced by the telecommunications regulatory authorities of each nation. 
+
+Environmental Matters 
+
+Our operations and manufacturing processes are subject to federal, state, local and foreign environmental protection laws and regulations. These laws and regulations relate to the use, handling, storage, discharge and disposal of certain hazardous materials and wastes, the pre-treatment and discharge of process waste waters and the control of process air pollutants. 
+
+We believe that our operations and manufacturing processes currently comply in all material respects with applicable environmental protection laws and regulations. If we fail to comply with any present and future regulations, we could be subject to future liabilities, the suspension of production or a prohibition on the sale of our products. In addition, such regulations could require us to incur other significant expenses to comply with environmental regulations, including expenses associated with the redesign of any non-compliant product. From time to time new regulations are enacted, and it is difficult to anticipate how such regulations will be implemented and enforced. For example, in 2003 the European Union enacted the Restriction on the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Directive (RoHS) and the Waste Electrical and Electronic Equipment Directive (WEEE), for implementation in European Union member states. We are 
+
+aware of similar legislation that is currently in force or is being considered in the United States, as well as other countries, such as Japan and China. Our failure to comply with any of such regulatory requirements or contractual obligations could result in our being liable for costs, fines, penalties and third-party claims, and could jeopardize our ability to conduct business in countries in the jurisdictions where these regulations apply. 
+
+Employees 
+
+As of December 31, 2015 , we employed 246 individuals worldwide. We consider the relationships with our employees to be positive. Competition for technical personnel in our industry is intense. We believe that our future success depends in part on our continued ability to hire, assimilate and retain qualified personnel. To date, we believe that we have been successful in recruiting qualified employees, but there is no assurance that we will continue to be successful in the future. 
+
+Executive Officers 
+
+Set forth below is information concerning our executive officers and their ages as of December 31, 2015 . 
+
+&#160; 
+
+Name 
+
+Age 
+
+Position 
+
+Morteza Ejabat (1) 
+
+Executive Chairman of the Board of Directors 
+
+James Norrod 
+
+Chief Executive Officer and President 
+
+Kirk Misaka 
+
+Chief Financial Officer, Corporate Treasurer and Secretary 
+
+(1) On January 31, 2016, Morteza Ejabat resigned from his position as a director and as Executive Chairman of Zhone, effective immediately. 
+
+Morteza Ejabat &#32;was a co-founder of Zhone and served as Executive Chairman of the Board of Directors from July 2014 until January 31, 2016. From June 1999 to July 2014, Mr. Ejabat served as Zhone's President, Chief Executive Officer and Chairman of the Board. Prior to co-founding Zhone, from June 1995 to June 1999, Mr. Ejabat was President and Chief Executive Officer of Ascend Communications, Inc., a provider of telecommunications equipment which was acquired by Lucent Technologies, Inc. in June 1999. Previously, Mr. Ejabat held various senior management positions with Ascend from September 1990 to June 1995, most recently as Executive Vice President and Vice President, Operations. Mr. Ejabat holds a B.S. in Industrial Engineering and an M.S. in Systems Engineering from California State University at Northridge, and an M.B.A. from Pepperdine University. 
+
+James Norrod &#32;became Zhone's President, Chief Executive Officer, and Zhone director in July 2014. With 25 years of experience as a chairman and chief executive officer, Mr. Norrod's relevant expertise includes development of domestic and international operations, establishment of new sales distribution channels, hiring and developing world class management teams while developing and implementing business strategies. Mr. Norrod's extensive chief executive officer experience includes leading companies such as Infinite Power Solutions, Segway, ZAN3D, CGX, Octocom, Telebit and ITK. Mr. Norrod earned an MBA at University of Detroit and a B.S. at Oakland University. 
+
+Kirk Misaka &#32;has served as Zhone&#8217;s Corporate Treasurer since November 2000 and as Chief Financial Officer and Secretary since July 2003. Prior to joining Zhone, Mr. Misaka was a Certified Public Accountant with KPMG LLP from 1980 to 2000, becoming a partner in 1989. Mr. Misaka earned a B.S. and an M.S. in Accounting from the University of Utah, and an M.S. in Tax from Golden Gate University. 
+

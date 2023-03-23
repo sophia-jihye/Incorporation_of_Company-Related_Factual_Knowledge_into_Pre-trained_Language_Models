@@ -1,0 +1,376 @@
+ Item 1. Business. 
+
+&#160; 
+
+Cohu, Inc. (&#8220;Cohu&#8221;, &#8220;we&#8221;, &#8220;our&#8221; and &#8220;us&#8221;) was incorporated under the laws of California in 1947, as Kalbfell Lab, Inc. and commenced active operations in the same year. Our name was changed to Kay Lab in 1954. In 1957, Cohu was reincorporated under the laws of the State of Delaware as Cohu Electronics, Inc. and in 1972 our name was changed to Cohu, Inc. 
+
+&#160; 
+
+Over the last year and a half we increased the focus on our core business, selling our mobile microwave communications equipment business, Broadcast Microwave Services, Inc. (&#8220;BMS&#8221;) on June 10, 2015 and our video camera business, Cohu Electronics on June 6, 2014. Our decision to sell BMS and Cohu Electronics resulted from the determination that these businesses were no longer a strategic fit within our organization. The operating results of BMS and Cohu Electronics are being presented as discontinued operations and all prior period amounts have been reclassified accordingly. Unless otherwise noted all amounts presented are from continuing operations. 
+
+&#160; 
+
+Subsequent to the sale of BMS and Cohu Electronics, we have one reportable segment, semiconductor equipment. Financial information on our reportable segment for each of the last three years is included in Note 8, &#8220;Segment and Geographic Information&#8221; in Part IV, Item 15(a) of this Form 10-K. 
+
+&#160; 
+
+Cohu is a leading supplier of semiconductor test and inspection handlers, micro-electro mechanical system (MEMS) test modules, test contactors and thermal sub-systems used by global semiconductor manufacturers and test subcontractors. We develop, manufacture, sell and service a broad line of equipment capable of handling a wide range of integrated circuits and light-emitting diodes ( LEDs). Test handlers are electromechanical systems used to automate testing of integrated circuits and LEDs in the back-end of the semiconductor manufacturing process. Testing determines the quality and performance of the semiconductor device prior to shipment to customers. Testers are designed to verify the performance of semiconductor devices, such as microprocessors, logic, analog, memory or mixed signal devices. Handlers are automated systems engineered to thermally condition and present for testing the packaged semiconductor devices. The majority of test handlers use either pick-and-place, gravity-feed, turret or test-in-strip technologies. The type of packaged device, test parallelism, thermal requirements and signal interface requirements normally determines the appropriate handling approach. 
+
+&#160; 
+
+Pick-and-place handling is the predominant solution for devices with leads on all four sides, such as the quad flat pack, or with balls or pads on the bottom or top of the package, such as ball grid array packages, and quad flat no-lead packages as well as certain low profile devices with leads on two sides, such as the thin small outline package, and wafer-level packages. Pick-and-place handlers use robotic mechanisms to move devices from JEDEC (Joint Electron Device Engineering Council) standard trays and place them in precision transport boats or carriers for processing through the system. After testing, devices are sorted and reloaded into designated trays, based on test results. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Gravity-feed handling is the predominant solution for temperature testing of high performance small outline leaded and non-leaded packages, as well as for large packages with leads on only one or two sides as is common in high power devices. In gravity-feed handlers, devices are unloaded from plastic tubes, metal magazines or a bowl at the top of the machine and flow through the system, from top to bottom, propelled by the force of gravity. After testing, devices are sorted and reloaded into tubes, magazines, bulk or tape for additional process steps or final shipment. 
+
+&#160; 
+
+Turret handlers are ideally suited for high-volume and low-mix testing of smaller integrated circuit and LED devices. In turret handlers, devices are unloaded from tubes, a bowl, trays or film frame. Turret-based handlers use a rotating turret mechanism that provides very high device throughput and efficient integration of multiple back-end finishing operations. 
+
+&#160; 
+
+Test-in-strip handlers accommodate devices in strips or panels prior to the final singulation step in the semiconductor manufacturing process flow and are typically used for high-parallel testing applications. 
+
+&#160; 
+
+MEMS test modules are independent physical stimuli units for testing sensor integrated circuits typically used in the automotive and consumer electronics industries. These MEMS test modules can be integrated to our gravity-feed, pick-and-place, turret or test-in-strip handlers for testing a variety of sensors, including pressure, acoustic, magnetic field hall effect, optical and others. 
+
+&#160; 
+
+To ensure quality, semiconductors are typically tested at hot and/or cold temperatures, which can simulate the final operating environment. Our test handler products are designed to provide a precisely controlled test environment, often over the range of -60 degrees Celsius to +175 degrees Celsius. As the speed and power of certain integrated circuits, such as microprocessors and mobile processors, have increased so has the need to actively manage the self-generated heat during the test process to maximize yield. This heat is capable of damaging or destroying the integrated circuit and can result in speed downgrading, when devices self-heat and fail to successfully test at their maximum possible speed. Device yields are extremely important and speed grading directly affects the selling price of the integrated circuit and the profitability of the semiconductor manufacturer. In addition to temperature capability, other key factors in the design of test handlers are handling speed, flexibility, parallel test capability, alignment to the test contactors, system size, reliability and cost. 
+
+&#160; 
+
+Thermal sub-systems are used in advanced burn-in and system-level test applications to maintain and control the temperature of integrated circuits during the testing process. Burn-in stresses devices for detection of early failures (infant mortality) prior to distribution. The burn-in process is also used by semiconductor manufacturers to develop reliability models of newly introduced devices. The objective of reliability testing is to determine a device&#8217;s fault-free operation and estimated useful life by exposing the device to various electrical and thermal conditions that impact its performance. System-level testing is required for functional testing of high-end microprocessors as well as mobile processors combined with memory. This is typically the last test operation of complex, expensive integrated circuits prior to the final electronic integration process. 
+
+&#160; 
+
+Our products are complex electromechanical systems that are used in high-volume production environments and many are in service twenty-four hours per day, seven days a week. Customers continuously strive to increase the utilization of their production test equipment and expect high reliability from test handlers, MEMS test modules and thermal subsystems used in burn-in and system-level test. The availability of trained technical support personnel is an important competitive factor in the marketplace. Our semiconductor equipment companies deploy service engineers worldwide, often within customers&#8217; production facilities, who work with customer personnel to maintain, repair and continuously improve the performance of our equipment. 
+
+&#160; 
+
+Our Products 
+
+&#160; 
+
+We offer products for the pick-and-place, gravity-feed, test-in-strip and turret handling, MEMS, burn-in and system-level test markets. We currently sell the following products: 
+
+&#160; 
+
+Pick-and-place 
+
+The Delta EDGE is a pick-and-place handler that combines an economical design with a small footprint and fast index time (processing speed of the contactor placement mechanism). The EDGE handler is designed to meet the needs of integrated circuit manufacturers and subcontractors who test at ambient and hot temperatures. 
+
+&#160; 
+
+The Delta MATRiX is a high performance pick-and-place handler capable of thermally conditioning devices from -60 degrees Celsius to +175 degrees Celsius. It provides increased productivity in several dimensions of performance: high throughput and test parallelism, scalability and active thermal control per test site. With an adjustable test site configuration, customers can reuse existing load-boards, including those made for competitor equipment and gravity handlers. The system also provides flexibility with field upgradeable options including a chamberless tri-temperature test site and auto contactor cleaning. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+The Delta Pyramid is a high performance thermal handler for microprocessors, graphics processors and other high power integrated circuits. The Pyramid incorporates our proprietary T-Core thermal control technology that optimizes test yield of power dissipative integrated circuits. 
+
+&#160; 
+
+The Delta Summit series of pick-and-place thermal handlers incorporate our proprietary thermal control technology. The Summit PTC, or Passive Thermal Control, and ATC, or Active Thermal Control, models dissipate the heat generated during test enabling the integrated circuit to be tested successfully at its maximum speed and performance. 
+
+&#160; 
+
+Delta Eclipse is our next generation pick-and-place platform tailored for Fabless and Outsourced Semiconductor Assembly and Test (OSAT) customers, as well as integrated device manufacturers (IDMs). This is a highly configurable platform capable of handling general purpose integrated circuits to advanced computing and mobile processors that require Cohu&#8217;s T-Core active thermal control during test. 
+
+&#160; 
+
+Delta LinX is our platform serving assembly automation. Back-end semiconductor assembly is the major process step prior to device testing and validation. The LinX product line offers advanced JEDEC handing automation that efficiently links various assembly test processes. 
+
+&#160; 
+
+Gravity-Feed 
+
+The Rasco SO1000 is a high throughput gravity-feed platform that provides an economical solution for testing up to 4 devices in parallel. This handler can be configured for tube-to-tube or metal magazine input and output, ambient-hot or tri-temperature testing and is easily kit-able for a wide range of integrated circuit packages. 
+
+&#160; 
+
+The Rasco SO2000 is a modular platform that offers a reliable solution for testing small integrated circuit packages up to 4 devices in parallel. The base platform can be configured with various input and output modules: tube, metal magazine, bowl, bulk, tape and reel, and an optional laser marking unit. This handler can be configured for ambient-hot or tri-temperature testing. 
+
+&#160; 
+
+Rasco Saturn and Jupiter are our next generation gravity handlers delivering a fast index time capability with up to 8 devices tested in parallel at cold and/or hot temperature. Saturn has a configuration that covers testing of very small to medium size packaged integrated circuits, and Jupiter is a version that enables testing of medium to very large packaged integrated circuits typically serving the power management device market. 
+
+&#160; 
+
+Test-in-strip 
+
+The Rasco Jaguar test-in-strip handler can process an entire strip at once or index the strip for single/multiple device testing. The system has tri-temperature capability, accommodates either stacked or slotted input/output media and is configured with automated vision alignment. The Jaguar is also a solution for in-process testing of next generation multi-stacked packages. 
+
+&#160; 
+
+Turret 
+
+Ismeca NY32 is a scalable, 32-position turret handler used for testing and inspection of integrated circuits, LEDs, and discrete devices. There are many configurations of the NY32 turret handler: handling wafers in film-frame for input and/or output that is common for LEDs and wafer level package (WLP) devices; tray and tube input and/or output used for integrated circuits and discrete devices; and bowl feeding, tape and de-taping, alignment, laser marking, inspection and test modules. The NY32 is capable of testing devices at ambient and hot temperature. 
+
+&#160; 
+
+Ismeca NY20 is a turret handler platform that delivers high throughput combined with fast device change-over time for both high-volume and high-mix testing and inspection of integrated circuits, LEDs and discrete devices. The 20-position turret offers many of the functional modules and capabilities available on the NY32 platform in a smaller footprint, higher throughput handler. 
+
+&#160; 
+
+Micro-Electro-Mechanical Systems (&#8220;MEMS&#8221;) 
+
+MEMS test modules generate physical stimuli for testing of sensor integrated circuits. These are typically used in the automotive (e.g. tire pressure, airbag sensors) and consumer electronics (e.g. tilt, motion, microphone and light sensors) industries. The MEMS modules are stand-alone units that can be integrated into our pick-and-place, turret, test-in-strip, or gravity-feed handlers. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Thermal Sub-Systems 
+
+We have adapted our proprietary thermal control technology for use by integrated circuit manufacturers in high performance burn-in and system level test. The Delta T-Core thermal sub-systems provide fast and accurate temperature control of the integrated circuit during the testing process using the same technology available in the Pyramid handler. T-Core is also used in engineering device characterization applications. 
+
+&#160; 
+
+Delta Fusion HD is a tri-temperature thermal sub-system that utilizes T-Core technology for testing mobile processors. The Fusion HD thermal sub-system can test greater than 450 devices in parallel while thermally conditioning and accurately controlling each device temperature through stringent, power dissipative test scripts. 
+
+&#160; 
+
+Contactors 
+
+We design, manufacture, sell and support various lines of test contactor solutions. These are consumable, electro-mechanical assemblies that connect the device under test, inside our test handlers, and the automated test equipment. 
+
+&#160; 
+
+Spares 
+
+We provide consumable and non-consumable items that are used to maintain, sustain or otherwise enable customer&#8217;s equipment to meet its performance, availability and production requirements. 
+
+&#160; 
+
+Tooling (kits) 
+
+We design and manufacture a wide range of device dedication kits that enable handlers to process different semiconductor packages. Our Philippines and China operations design and manufacture the majority of our handler kits and provide applications support to customers in the southeast Asia region. 
+
+&#160; 
+
+Sales by Product Line 
+
+During the last three years, sales of our products were distributed as follows: 
+
+&#160; 
+
+&#160; &#160; 2015 
+
+&#160; &#160; 2014 
+
+&#160; &#160; 2013 
+
+&#160; Semiconductor test handler systems 
+
+&#160; &#160; 47% &#160; &#160; &#160; 47% &#160; &#160; &#160; 40% &#160; Thermal sub-systems 
+
+&#160; &#160; 7% &#160; &#160; &#160; 9% &#160; &#160; &#160; 8% &#160; Spares, tooling (kits) and service 
+
+&#160; &#160; 46% &#160; &#160; &#160; 44% &#160; &#160; &#160; 52% &#160; &#160; 
+
+Customers 
+
+&#160; 
+
+Our customers include semiconductor integrated device manufacturers and test subcontractors. Repeat sales to existing customers represent a significant portion of our sales. During the last three years, the following customers comprised 10% or greater of our consolidated net sales: 
+
+&#160; 
+
+&#160; &#160; 2015 
+
+&#160; &#160; 2014 
+
+&#160; &#160; 2013 
+
+&#160; Intel 
+
+&#160; &#160; 18.0 % &#160; &#160; 15.7 % &#160; &#160; 18.5 % NXP Semiconductors N.V. (1) 
+
+&#160; &#160; 11.4 % &#160; &#160; 11.4 % &#160; &#160; 13.5 % (1) 
+
+The merger of NXP Semiconductors N.V. and Freescale Semiconductor, Ltd. was completed on December 7, 2015. Sales to these customers have been combined for all periods presented. 
+
+&#160; 
+
+The loss of, or a significant reduction in, orders by these or other significant customers, including reductions due to market, economic or competitive conditions or the outsourcing of final integrated circuit test to subcontractors that are not our customers would adversely affect our financial condition and results of operations and as a result, we believe that our customer concentration is a significant business risk. 
+
+&#160; 
+
+Additional financial information on revenues from external customers by geographic area for each of the last three years is included in Note 8, &#8220;Segment and Geographic Information&#8221; in Part IV, Item 15(a) of this Form 10-K. 
+
+&#160; 
+
+Sales and Marketing 
+
+&#160; 
+
+We market our products worldwide through a combination of a direct sales force and independent sales representatives. In geographic areas where we believe there is sufficient sales potential, we generally employ our own personnel. Our U.S. sales office is located in Poway, California. The Europe sales offices are located in Kolbermoor, Germany and La Chaux-de-Fonds, Switzerland. We operate in Asia with offices in Singapore, Malaysia, Thailand, Philippines, Taiwan, China, and Korea. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Competition 
+
+&#160; 
+
+The semiconductor equipment industry is intensely competitive and is characterized by rapid technological change and demanding worldwide service requirements. Significant competitive factors include product performance, price, reliability, customer support and installed base of products. While we are a leading worldwide supplier of semiconductor test handling equipment, we face substantial competition. The Japanese and Korean markets for test handling equipment are large and represent a significant percentage of the worldwide market. During each of the last three years our sales to Japanese and Korean customers, who have historically purchased test handling equipment from Asian suppliers, have represented less than 10% of our total sales. Some of our current and potential competitors are part of larger corporations that have substantially greater financial, engineering, manufacturing and customer support capabilities and offer more extensive product offerings than Cohu. To remain competitive we believe we will require significant financial resources to offer a broad range of products, maintain customer support and service centers worldwide and to invest in research and development of new products. Failure to introduce new products in a timely manner or the introduction by competitors of products with actual or perceived advantages could result in a loss of competitive position and reduced sales of existing products. No assurance can be given that we will continue to compete successfully throughout the world. 
+
+&#160; 
+
+Backlog 
+
+&#160; 
+
+Our backlog of unfilled orders for products, was $66.5 million at December 26, 2015 and $66.8 million at December 27, 2014. 
+
+&#160; 
+
+Backlog is generally expected to be shipped within the next twelve months. Our backlog at any point in time may not be representative of actual sales in any future period due to the possibility of customer changes in delivery schedules, cancellation of orders, potential delays in product shipments, difficulties in obtaining parts from suppliers, failure to satisfy customer acceptance requirements resulting in the inability to recognize revenue under accounting requirements. Furthermore, many orders are subject to cancellation or rescheduling by the customer with limited or no penalty. A reduction in backlog during any particular period could have a material adverse effect on our business, financial condition and results of operations. 
+
+&#160; 
+
+Manufacturing and Raw Materials 
+
+&#160; 
+
+Our principal manufacturing operations are currently located in Poway, California (Delta); Laguna, Philippines (Delta-kits, handler sub-assemblies and contactors); Kolbermoor, Germany (Rasco); Malacca, Malaysia (Delta, Ismeca and Rasco); and Suzhou, China (Ismeca-kits). 
+
+&#160; 
+
+Many of the components and subassemblies we utilize are standard products, although some items are made to our specifications. Certain components are obtained or are available from a limited number of suppliers. We seek to reduce our dependence on sole and limited source suppliers, however in some cases the complete or partial loss of certain of these sources could have a material adverse effect on our operations while we attempt to locate and qualify replacement suppliers. 
+
+&#160; 
+
+Patents and Trademarks 
+
+&#160; 
+
+Our technology is protected by various intellectual property laws including patent, license, trademark, copyright and trade secret laws. In addition, we believe that, due to the rapid pace of technological change in the semiconductor equipment industry, the successful manufacture and sale of our products also depends upon our experience, technological know-how, manufacturing and marketing skills and speed of response to sales opportunities. In the absence of patent protection, we would be vulnerable to competitors who attempt to copy or imitate our products or processes. We believe our intellectual property has value and we have in the past and will in the future take actions we deem appropriate to protect such property from misappropriation. However, there can be no assurance such actions will provide meaningful protection from competition. Protecting our intellectual property rights or defending against claims brought by other holders of such rights, either directly against us or against customers we have agreed to indemnify, would likely be expensive and time consuming and could have a material adverse effect on our operations. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+Research and development activities are carried on in our various subsidiaries and are directed toward development of new products and equipment, as well as enhancements to existing products and equipment. Our total research and development expense was $33.1 million in 2015, $36.0 million in 2014 and $40.5 million in 2013. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+We work closely with our customers to make improvements to our existing products and in the development of new products. We expect to continue to invest heavily in research and development and must manage product transitions successfully as introductions of new products could adversely impact sales of existing products. 
+
+&#160; 
+
+Environmental Laws 
+
+&#160; 
+
+Our business is subject to numerous federal, state, local and international environmental laws. On occasion, we have been notified by local authorities of instances of noncompliance with local and/or state environmental laws. We believe we are in compliance with applicable federal, state, local and international regulations. Compliance with foreign, federal, state and local laws that have been enacted or adopted regulating the discharge of materials into the environment or otherwise relating to the protection of the environment and the prevention of climate change have not had a material effect and are not expected to have a material effect upon our capital expenditures, results of operations or our competitive position. However, future changes in regulations may require expenditures that could adversely impact earnings in future years. 
+
+&#160; 
+
+Executive Officers of the Registrant 
+
+&#160; 
+
+The following sets forth the names, ages, positions and offices held by all executive officers of Cohu as of February 11, 2016. Executive Officers serve at the discretion of the Board of Directors, until their successors are appointed. 
+
+&#160; 
+
+Name &#160; Age 
+
+&#160; Position 
+
+Luis A. M&#252;ller 
+
+&#160; 46 
+
+&#160; President and Chief Executive Officer 
+
+Jeffrey D. Jones 
+
+&#160; 54 
+
+&#160; Vice President, Finance and Chief Financial Officer 
+
+John H. Allen 
+
+&#160; 64 
+
+&#160; Vice President, Administration 
+
+Hock W. Chiang 
+
+&#160; 58 
+
+&#160; Vice President Global Sales &#38; Service 
+
+&#160; 
+
+Mr. M&#252;ller joined Delta in 2005 as Director of Engineering . In July 2008, Mr. M&#252;ller was promoted to the position of Vice President of the High Speed Handling Group for Delta and in January 2009 he was named Managing Director of Rasco. In January 2011, Mr. M&#252;ller was appointed President of Cohu&#8217;s Semiconductor Equipment Group. Effective December 28, 2014 Mr. M&#252;ller was promoted to President and Chief Executive Officer of Cohu and was appointed to Cohu&#8217;s Board of Directors. 
+
+&#160; 
+
+Mr. Jones joined Delta in 2005 as Vice President Finance. In November 2007, Mr. Jones was named Vice President, Finance and Chief Financial Officer of Cohu. Prior to joining Delta, Mr. Jones, was a consultant from 2004 to 2005 and Vice President and General Manager of the Systems Group at SBS Technologies, Inc., a designer and manufacturer of embedded computer products, from 1998 to 2003. 
+
+&#160; 
+
+Mr. Allen has been employed by Cohu since June 1995. He was Director of Finance until September 1995, became Vice President, Finance in September 1995, and was appointed Chief Financial Officer in October 1995. In November 2007, Mr. Allen was named Vice President, Administration. Prior to joining Cohu, Mr. Allen held various positions with Ernst &#38; Young LLP from 1976 until June 1995 and had been a partner with that firm since 1987. 
+
+&#160; 
+
+Mr. Chiang has been employed by Cohu since October 2012 as Vice President, Global Sales &#38; Service for Cohu&#8217;s Semiconductor Equipment Group. Prior to joining Cohu, Mr. Chiang served as a Director for AXElite Technology Corporation. Additionally, from 1995 through 2011, Mr. Chiang held a variety of positions at Teradyne, Inc. (&#8220;Teradyne&#8221;) including Director &#8211; Asia SOC Marketing &#38; New Business Development, Managing Director of Teradyne&#8217;s Singapore and China operations and Director of Worldwide Field Total Quality Management. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+At December 26, 2015, we had approximately 1,600 employees. Our employee headcount has fluctuated in the last five years primarily due to the volatile business conditions in the semiconductor equipment industry, the acquisitions of Rasco and Ismeca, and the divestiture of Broadcast Microwave Services and Cohu&#8217;s Electronics. Our employees in the United States and most locations in Asia are not covered by collective bargaining agreements, however, certain employees at Rasco&#8217;s facility in Kolbermoor, Germany, are represented by a works council, employees at Ismeca&#8217;s facility La Chaux-de-Fonds, Switzerland are members of the micro-technology and Swiss watch trade union and certain employees in Ismeca&#8217;s China operation belong to local trade unions. We have not experienced any work stoppages and consider our relations with our employees to be good. We believe that a great part of our future success will depend on our continued ability to attract and retain qualified employees. Competition for the services of certain personnel, particularly those with technical skills, is intense. There can be no assurance that we will be able to attract, hire, assimilate and retain a sufficient number of qualified employees. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Available Information 
+
+&#160; 
+
+Our web site address is www.cohu.com. We make available free of charge, on or through our web site, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports, as soon as reasonably practicable after such material is electronically filed with the Securities and Exchange Commission. Our Code of Business Conduct and Ethics and other documents related to our corporate governance is also posted on our web site at www.cohu.com/investors/corporategovernance. Information contained on our web site is not deemed part of this report. 
+
+&#160; 
+

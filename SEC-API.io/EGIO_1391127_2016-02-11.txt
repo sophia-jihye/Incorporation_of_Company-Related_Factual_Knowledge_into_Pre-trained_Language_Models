@@ -1,0 +1,276 @@
+ Item 1. Business 
+
+Overview 
+
+Limelight operates a globally distributed, high-performance network and provides a suite of integrated services marketed under the Orchestrate Platform which include content delivery, video content management, website and web application acceleration, website and content security, and cloud storage services. 
+
+The services we provide help our customers optimize and deliver digital content to web, mobile, social, gaming, large screen, and other digital channels. These services provide advanced features including video publishing, mobile enablement, content delivery, website and web application acceleration and security, transcoding, and cloud storage. These services leverage our global network, which provides highly available, highly redundant storage, bandwidth, and computing resources, as well as connectivity to last-mile broadband network providers. 
+
+We derive revenue primarily from the sale of components of the Orchestrate Platform. We also generate revenue through the sale of professional services and other infrastructure services, such as transit and rack space services. We also maintain relationships with resellers that purchase our services for resale to their end customers. 
+
+We provide our services to customers that we believe view Internet, mobile, social, and other digital initiatives as critical to their success, including traditional and emerging media companies operating in the television, music, radio, newspaper, magazine, movie, game, software, and social media industries, as well as to enterprises, technology companies, and government entities conducting business online. Our offerings enable our customers to deliver a high quality online experience across all customer interaction channels, and thereby improve brand awareness, drive revenue, and enhance their customer relationships. 
+
+We are a Delaware corporation formed in 2001. Our principal executive offices are located at 222 South Mill Avenue, 8 th &#32;Floor, Tempe, Arizona 85281, and our main telephone number is (602) 850-5000. We began development of our infrastructure in 2001 and began generating meaningful revenue in 2002. We began international operations in 2004. As of December 31, 2015, we had approximately 963 active customers and had a presence in approximately 56 countries throughout the world. 
+
+We are registered as a reporting company under the Securities Exchange Act of 1934, as amended (Exchange Act). Accordingly, we file or furnish with the SEC annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to such reports as required by the Exchange Act and the rules and regulations of the SEC. We refer to these reports as "Periodic Reports". The public may read and copy any Periodic Reports or other materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F. Street, NE, Washington, DC 20549. Information on the operation of the Public Reference Room is available by calling 1-800-SEC-0330. In addition, the SEC maintains an Internet website that contains reports, proxy and information statements and other information regarding issuers, such as Limelight Networks, Inc., that file electronically with the SEC. The address of this website is www.sec.gov. 
+
+Our Internet website address is www.limelight.com. We make available, free of charge, on or through our Internet website our Periodic Reports and amendments to those Periodic Reports as soon as reasonably practicable after we electronically file them with the SEC. We are not, however, including the information contained on our website, or information that may be accessed through links on our website, as part of, or incorporating it by reference into, this annual report on Form 10-K. 
+
+Five Trends Driving Internet Congestion 
+
+We have identified five trends that point to an Internet of the future in which congestion may cause outages and prevent organizations from delivering the highest quality digital experiences. In this situation, the need and demand for private, global networks to deliver digital content become important. These trends are: 
+
+&#8226; 
+
+Shift to over the top (OTT) consumption for online video. OTT is growing rapidly, especially amongst millennials which represent the largest demographic. In our December 2015 State of Online Video consumer research report, we discovered that millennials are watching a significant amount more online video than the general population and doing so from a variety of devices. This trend reflects that many top-tier content owners have either already launched their content direct-to-consumer (e.g., HBO, CBS, Showtime) or have announced plans to do so. In addition, content owners are joining forces with large media companies (e.g., Sony, Apple, Dish Networks) to launch OTT subscription services enabling consumers to bundle together channels for a fraction of the cost of a cable subscription. As day-to-day consumption of video content shifts to Internet-based delivery, we believe this will put an increasing strain on the Internet placing additional pressure on organizations and service providers to take steps to protect the quality of the end-user experience as this increasing segment of traffic competes with other Internet activities, such as browsing websites and downloading digital content. 
+
+&#8226; 
+
+Broadcast Quality Online Video . Consumers are continuing to consume online streaming video in record numbers. As demonstrated by Yahoo!&#8217;s streaming of an NFL game in 2015 and by service providers like YouTube, online video is rapidly growing towards becoming a primary method by which users consume video content, whether it&#8217;s via their personal computers (PCs), smartphones, tablets, or connected televisions. Yet, consumers continue to expect the same quality experience online as they would have in viewing a television. To keep up with the 
+
+consumer expectations, organizations have been forced to increase quality to provide a &#8220;broadcast-like&#8221; experience. For example, with the recent advent of 4K resolution devices, several large-scale online video providers are already streaming in this new format that requires, in most cases, four times the bandwidth of a traditional high definition stream. We believe that as more content is made available in 4K resolution (coupled with increasing sales of 4K-ready devices like televisions and computer monitors), more consumers will want to consume the higher-quality content, resulting in increased strain on Internet architecture and infrastructure. 
+
+&#8226; 
+
+Growth of digital downloads. W ith the growing availability of higher bandwidth connections to connected devices, consumers are becoming more accustomed to making purchases of movies, music, games, and applications digitally from a variety of retailers. As a result, consumers accept larger download sizes. For example, recent releases of popular games have topped 50 gigabytes (GBs) in size. As digital purchases of massive files increases, we believe that this will cause more strain on the Internet&#8217;s infrastructure resulting in additional pressure on organizations and service providers to take steps to avoid congestion, latency, lengthening download times, and increasingly interrupted downloads, all of which we believe would undermine an organization&#8217;s ability to deliver the best possible digital experience. 
+
+&#8226; 
+
+The Internet of Things. Connected devices communicate with each other and with server-based resources via the Internet. Although it is unclear as to how much bandwidth this &#8220;background communication&#8221; will consume, as more devices become connected and begin communicating with each other and other resources, this traffic will compete with other Internet traffic such as streaming video and digital downloads. We believe that the Internet of Things may complicate an organization&#8217;s ability to utilize the Internet to deliver high quality digital experiences. 
+
+&#8226; 
+
+Webpage size. Organizations are building more complex, interactive, and engaging digital experiences which rely heavily on imagery and multimedia content. This trend is reflected in the growing size of webpages. According to the HTTP-Archive, webpages were over 2100KB by the end of 2015, a 150% growth since 1995. We believe, through a highly congested Internet, these websites will become increasingly harder to deliver at the level of performance that users expect. 
+
+Seven Trends Illustrating Consumer Demand for Digital Content &#160; 
+
+The Internet is key for today&#8217;s digital business. Hyper text transfer protocol (HTTP) and other Internet protocols are critical to enabling organizations to digitize their business processes and operations as well as provide the kinds of experiences that consumers around the globe have come to expect across web, mobile, social, and large screen channels. We believe there are seven trends that illustrate a demand for digital content, contribute to the overall usage of the Internet, increase potential congestion, and punctuate the need for a private, global network to meet the level of performance that users expect. We believe these trends are: 
+
+&#8226; 
+
+The continued growth of online video. &#32;Consumers are demanding and consuming, and publishers are increasingly making available for these consumers, video, music, and other forms of rich media over the Internet. According to eMarketer&#8217;s Q2 2015 State of Video &#32;report, ad spend for online video has doubled since 2013 (from 2.2% to 4.4%) and people are watching almost five times as much online video per day (from 39 minutes in 2011 to 1 hour, 55 minutes in 2015). This growth is reflective of predictions made by Cisco in their Visual Network Index &#32;annual report that online video will account for 70% of Internet traffic by 2017. Based on this trend, we expect that businesses will continue to incorporate video into their digital marketing efforts as a way to further differentiate their message from competitors and generate new opportunities for engagement. 
+
+&#8226; 
+
+Mobile First. &#32;We believe that mobile is becoming increasingly important as a primary method users employ to interact with online content, a position supported by our April 2015 State of Online Video &#32;consumer research which indicated smartphones as the second most popular device from which to watch online video. KPCB analyst Mary Meeker&#8217;s 2015 Internet Trends report also shows that between 2013 and 2014 mobile usage for accessing the web in some countries doubled as a percentage of overall web access with clear growth in all regions around the globe clearly illustrating that consumers use their mobile devices more than anything else (even computers) to access the Internet. Ultimately, mobile devices enable consumers to remain connected and engaged with an organization&#8217;s content when they are away from their primary computers or TVs and it&#8217;s clear that consumers are employing these devices more often to do so. But in order for those consumers to remain engaged, the experience must be consistent across devices. An organization&#8217;s dynamic content and video has to be accessible regardless of device and provide the same engagement and interaction with those users. 
+
+&#8226; 
+
+The continued migration of information technology (IT) services into the cloud. &#32;Enterprises may seek to decrease infrastructure expenditures by moving to a &#8220;cloud-based&#8221; model in which application delivery and storage are available on-demand and paid for on an as-needed basis. We anticipate that the core cloud computing market will 
+
+continue to grow at a rapid pace as the cloud increasingly becomes a mainstream IT strategy embraced by corporate enterprises and government agencies. This presumption is supported by the growth of the cloud market which, according to Global Industry Analysts, will reach $127 billion by 2017. The core cloud market includes platform-as-a-service (PaaS) and infrastructure-as-a-service (IaaS) offerings such as content delivery networks (CDN), as well as the cloud-delivered software used to build and manage a cloud environment. 
+
+&#8226; 
+
+Increasing user expectations for digital experience performance. &#32;Websites are becoming increasingly complex and large while user expectations for website performance are becoming more demanding. We anticipate that these demanding consumer expectations will drive a continued need for website and web application acceleration services. The combination of performance expectation coupled with multi-device delivery creates a considerable challenge for most organizations. 
+
+&#8226; 
+
+Increasing need for scalable storage. &#32;The amount of data created each year has grown rapidly and we believe this rapid growth in data production will create demand for flexible and scalable storage mechanisms to support growing libraries of digital content. We anticipate the need for digital content storage to increase because of the growing demand for video and other types of digital content as well as other trends like the continued migration of IT services into the cloud. But organizations must consider their choice of storage solution carefully when the technology is part of a digital content delivery chain as the wrong selection can lead to incremental latency that can undermine digital experience performance. 
+
+&#8226; 
+
+The evolution of digital marketing. &#32;As the global online economy has continued to expand and grow, it has become increasingly difficult for businesses to capture consumer attention. Because of this difficulty, we anticipate that marketing will continue to evolve from &#8220;broadcast advertising&#8221; to engaging with users through conversations associated with content in a variety of places including websites and social networks. We believe this kind of engagement requires that content be increasingly comprised of video and rich media, and be delivered in a manner that meets the high user expectations for the delivery and responsiveness of digital experiences. In fact, according to the 2015 State of Digital Marketing Report , three out of four marketers now incorporate video into their strategy. 
+
+&#8226; 
+
+Global broadband speed increase. &#32; With each passing year, the average broadband connection speed is increasing around the world, especially as governmental agencies (such as the United States Federal Communications Commission) take an active role in ensuring that consumers have access to high-speed connections. The continued increase in speed is illustrative of consumer desire to access multimedia content (i.e., online video, game downloads, interactive web applications) through the Internet and how integral rich, digital experiences have become to the way people conduct their lives on a daily basis. 
+
+Requirements for delivering effective digital experiences 
+
+We believe that the challenges of delivering digital content, particularly related to rich media, dynamic content, and applications over the Internet to a wide variety of mobile and connected devices, have created a new set of technical, management, and economic requirements for organizations seeking to succeed in the online economy. We believe those requirements include the following: 
+
+&#8226; 
+
+Reduction of IT involvement. &#32;As businesses rely increasingly on cloud-based services they will require more intuitive web-based interfaces that enable adoption and usage of the cloud-based services by the entire company or organization, regardless of location, with less direct IT support required. 
+
+&#8226; 
+
+Security. Maintaining effective security is a challenge for any enterprise that operates an Internet presence. Threats, denial of service attacks, viruses, and piracy can impact online web presence in many ways, including compromising personal and sensitive information, loss of customer trust and loyalty, loss of revenue, and negative publicity and brand reputation. Businesses require services that employ a number of software and network features to mitigate the risk of unauthorized access to content and network-related attacks against web properties, digital content, and applications. In 2015, there were a number of high profile security incidents that continue to raise the awareness, and strategic importance of, security in our industry. 
+
+&#8226; 
+
+Business rules-based content delivery. Consumers increasingly expect the ability to consume any form of media content online. To meet this expectation, traditional media companies are making their enormous libraries of content, such as television shows and movies, available for viewing online. Content providers often have regulations with respect to where they can display, or store their content, whether that is because of industry requirements (such as PCI and HIPAA) or geographic location. Accordingly, companies require powerful features that enable them to control where content is stored, for how long, and in what regions it can be delivered. 
+
+&#8226; 
+
+Ability to scale capacity to handle rapidly accelerating demand. Online businesses must scale delivery of their web presence smoothly as the quantity of their site visitors or audience increases to avoid delays for users. When a large number of users simultaneously access a particular digital content asset like a website or video, the operator must be able to meet that surge in demand without making users wait. Rapidly accelerating demand can be related to a single event, such as a breaking news story or seasonal shopping, or can be spread across an entire library of content, such as when a social media website surges in popularity. The continued increase in video and other rich media consumption, and the growing size of digital content objects, contributes to concerns that Internet bandwidth may be supply constrained in the future. 
+
+&#8226; 
+
+Ability to easily publish and deliver online video. As the consumer demand for online video grows, businesses and organizations may be required to adopt video into their marketing messages. However, there are a host of complexities involved in developing and implementing a &#8220;video publishing workflow.&#8221; Businesses will require intuitive tools that will enable them to manage their video portfolio, and quickly and efficiently publish and deliver their video content at scale with quality performance. Additionally, businesses will require that video content can be converted automatically for quality playing on any mobile device with the opportunity to integrate advertisements into on-demand assets. 
+
+&#8226; 
+
+Multi-device delivery. With the increasing popularity of smartphones and tablets, businesses and organizations must ensure that their content, whether dynamic web pages or video, display properly in their mobile format. However, adding this requirement to existing content publishing workflows may greatly complicate internal processes that may result in delays for making content available to end users. Additionally, because many mobile devices have separate requirements, businesses will require features for automatically delivering correctly formatted content. 
+
+&#8226; 
+
+Reliability and Consistency. Throughout the path data must traverse to reach a user, problems with the underlying infrastructure supporting the Internet can occur. For example, servers can crash or network connections can fail. Network, datacenter, or service provider outages can mean frustrated users, lost audiences, and missed revenue opportunities. Businesses require a massively redundant network that they can rely on to ensure a reliable and consistent delivery of their digital experiences. 
+
+Our Services 
+
+We believe our integrated suite of services, coupled with our global network, are responsive to the trends that are driving Internet growth and address the requirements for delivering effective digital experiences. Our primary services include the following: 
+
+&#8226; 
+
+Content delivery services &#32;improve the reliability and performance of digital content by using our global network to deliver rich media files such as video, music, games, and software, or live streaming of corporate or entertainment events. We support all major formats as well as dynamic and static webpages. 
+
+&#8226; 
+
+Mobile delivery services &#32;help publishers deliver properly-formatted, device-optimized video to almost any media-enabled mobile device as well as to present dynamic pre-, mid-, or post-roll video and audio advertising into media that is delivered to mobile or connected users. These mobility services automatically detect the requesting mobile device and provide a version of the content suitable to that device. 
+
+&#8226; 
+
+Video content management services &#32;help organizations publish, manage, syndicate, analyze, and monetize video content through a cloud-based service. Services here also include off-the-shelf players for quick deployment, a mobile application to capture video in the field, and monetization features that enable customers to integrate advertising into the video playback experience. 
+
+&#8226; 
+
+Performance services improve web experiences by speeding up the loading of web pages for faster action and providing consistent performance from any geography for dynamic and personalized content, online commerce transactions, and web applications. 
+
+&#8226; 
+
+Cloud-based storage services &#32;provide customers with a scalable, redundant, geographically diverse storage of media and enterprise content offering policies for global geographic placement, content workflow, and business logic controls while maintaining the highest levels of performance for object retrieval. 
+
+&#8226; 
+
+Cloud-based content security services &#32; mitigate a variety of network-based attacks (i.e., distributed denial of service) against websites and web properties by redirecting traffic to global scrubbing centers where malformed or bad traffic (as part of an attack) can be removed in real time. This service ensures an organization&#8217;s digital 
+
+experience remains operational and available. In addition, these cloud services can help limit who has access to digital content (like online video) as well as protect it from theft through rights management and other mechanisms. 
+
+Our Solutions 
+
+In addition to marketing our core suite of services, we continue to develop and launch prepackaged solutions that help organizations tackle workflow-related challenges in delivering digital content to their customers. These solutions integrate multiple Orchestrate services with documented &#8220;reference architectures&#8221; that align to specific use cases and industries. Our solutions include the following: 
+
+&#8226; 
+
+Software and Device Manufacturers &#32;addresses the complexities of delivering software downloads and updates to connected and consumer devices. 
+
+&#8226; 
+
+Media and Broadcasters &#32;addresses the complexities of publishing and delivering digital video content to global audiences on any devices. 
+
+&#8226; 
+
+Gaming &#32;addresses the complexities of distributing, promoting, and updating video games across PC, consoles, and mobile devices. 
+
+Limelight Global Network 
+
+Our global network provides highly available, highly redundant storage, bandwidth, and computing resources in support of our services and solutions. This architecture, managed by our proprietary software, automatically responds to network and datacenter outages and disruptions. All of our delivery locations are interconnected via our global network and also connected to multiple Internet backbone and broadband Internet service provider (ISP) networks. This global network has three main features: 
+
+&#8226; 
+
+Densely configured, high-capacity. &#32;Our global network consists of dense clusters of specially configured servers organized into large, multi-tiered, logical delivery locations. The extensive storage capacity of these logical locations leads to fewer cache misses to our network of servers than we believe would occur in other CDN architectures and provides significant scalability and responsiveness to surges in end-user demand. The clustering of many high-performance CPUs provide us with aggregated computational power. 
+
+&#8226; 
+
+Many connections to other networks. &#32;Our logical locations are directly connected to hundreds of ISPs and other user access networks, which are computer networks connected to end-users. In addition, for dedicated connectivity between our logical locations, we operate a dedicated fiber optic backbone and metro area networks. Also, our infrastructure has multiple connections to the Internet. In combination, these connections enable us to frequently bypass the often-congested public Internet, improving the delivery speed of content. 
+
+&#8226; 
+
+Intelligent software to manage the network. &#32;We have developed proprietary software that manages our global network. This software manages, among other things, the delivery of digital content, the retrieval of dynamic content, storage and retrieval of objects, activity logging, and information reporting. 
+
+We have been expanding our architecture through the use of &#8220;smart pops.&#8221; These smaller pops are less dense than our traditional densely-configured metro pops and are designed to be quickly and more cost-effectively deployed within existing networks. In addition, we continue to explore and implement ways to improve throughput and efficiency of our infrastructure through the use of advanced technologies, hardware tuning, and software refinement that help us deliver more content, more quickly, for less cost. 
+
+Segment and Geographic Information 
+
+We operate in one industry segment, providing content delivery and related services and solutions for global businesses to help them deliver their digital content across Internet, mobile, and social channels. We operate in three geographic areas - Americas; Europe, Middle East and Africa (EMEA); and Asia Pacific. For the years ended December 31, 2015, 2014, and 2013, approximately 40%, 38%, and 31%, respectively, of our total revenue was derived from our operations outside the Americas. For the years ended December 31, 2015, 2014, and 2013, we derived approximately 48%, 55%, and 57%, respectively of our international revenue from EMEA and approximately 52%, 45%, and 43%, respectively, of our international revenue from Asia Pacific. During 2015 and 2014, we had two countries, Japan and the United States, that represented more than 10% of our total revenues. During 2013, no single country outside of the United States accounted for 10% or more of our total revenues. For a description of risks attendant to our foreign operations, see the section titled &#8220;Risk Factors&#8221; set forth in Part 1, Item 1A of this annual report on Form 10-K. For more segment and geographic information, including revenue from 
+
+customers, a measure of profit or loss, and total assets for each of the last three fiscal years, see our Consolidated Financial Statements included in this annual report on Form 10-K, including Note 21 thereto. 
+
+Sales, Service and Marketing 
+
+Our sales and service professionals are located in five offices in the United States with an additional six office locations in EMEA and Asia Pacific. We target media, high tech, software, gaming, enterprise, and other organizations for which the delivery of digital content is critical to the success of their business. 
+
+Our sales and service organization includes employees in telesales and field sales, professional services, account management, and solutions engineering. As of December 31, 2015, we had approximately 118 employees in our sales organization. Our ability to achieve revenue growth in the future will depend in large part on whether we successfully recruit, train, and retain sufficient sales, technical, and global services personnel, and how well we establish and maintain our distribution and reseller relationships. We believe that the complexity of our services will continue to require highly trained global sales and services personnel. 
+
+To support our sales efforts and promote the Limelight brand, we conduct marketing programs. Our marketing strategies include an active public relations campaign, advertisements, events and trade shows, strategic alliances, and on-going customer communication programs. As of December 31, 2015, we had 22 employees in our global marketing organization. 
+
+Customers 
+
+Our customers operate in the media, entertainment, gaming, software, enterprise, and other sectors. As of December 31, 2015, we had approximately 963 active customers worldwide, including many widely recognized names in the fields of video, digital music, news media, games, rich media applications, and software delivery. During 2015, some of our most notable customers included ABC, Amazon, Apple, BBC, Bell Canada, Ciena, DirecTV, HBO, MLB, Middle East Broadcasting Company (MBC), NBC, NFL, Microsoft, Nintendo, Nissan, QVC, Sony, Walmart, and Yahoo! 
+
+For the year ended December 31, 2015 and 2014, respectively, we had no customer who accounted for 10% or more of our total revenue. During 2013, we had one customer, Netflix who accounted for approximately 11% of our total revenue. In the past, the customers that comprise our top 20 customers have continually changed, and our large customers may not continue to be as significant going forward as they have been in the past. 
+
+From time to time we have discontinued service to customers for non-payment. Although we did not receive continuing revenue from these former customers, these changes provided for a stronger mix of customers across our base, decreased our days sales outstanding, and allowed us to recoup network capacity to help meet future growth needs. We continue to focus on acquiring and retaining high quality customers across all market segments. 
+
+Competition 
+
+We operate in the digital content delivery market, which is rapidly evolving and highly competitive. We expect this competitive environment to continue. We believe that the principal competitive factors affecting this market fall into four primary categories: management, delivery, security, and metrics. 
+
+Management for digital content is measured by the features available for managing, publishing, and delivering digital content across multiple channels and to multiple devices. 
+
+Delivery for digital content is measured by scale and performance. We measure scale by the number of physical locations in the network and the capabilities of the network to deliver large amounts of content to locations around the world and to absorb unplanned spikes in requests for content. We measure performance by file delivery time, end-user media consumption rates, quality of the end-user experience, and scalability, both in terms of average capacity and special event capacity. 
+
+Security for digital content is measured by the features available for addressing attacks against digital properties (i.e., websites) and protecting content from unauthorized view, transmission, or access. 
+
+In addition, metrics around the ability to efficiently locate and deliver web content, the ease of implementation, the ability to customize systems for unique content types and mixes, reliability, security, consumer engagement, and cost efficiency continue to be key criteria for this market. 
+
+The market for digital content delivery is increasingly complex and can require multiple vendors to provide customers with a complete set of tools and services to manage and deliver all of their digital content to all audiences as part of a global 
+
+digital presence. We believe that in those situations where multiple vendors are required, Limelight is one of the few CDNs with the scale, performance, and reach required to deliver digital content to global audiences. We also believe the combination of cloud-based software and infrastructure/bandwidth associated with our physical global network solve multiple challenges for customers by removing the need to install, manage, or provision software and hardware to satisfy the requirements for storing and delivering digital content. 
+
+We believe our future success will depend on our ability to continue to enhance the performance, integration, and functionality of our existing suite of services and of our global network, and on our ability to add additional services and functionality to meet the market&#8217;s increasing expectations regarding digital content delivery and consumer engagement. 
+
+The global digital content delivery market is fragmented, but we face primary competition from Akamai, Level 3, Amazon, CDNetworks, and Verizon Digital Media Services. 
+
+The principal methods of competition in this market include scale, performance, service, ease of use, product features, and price. We believe we are competitive in scale, performance, and price, and have made significant improvements in both service and ease of use. Product feature competition is heated, requiring continuous investment in innovation. 
+
+Research and Development 
+
+Our research and development organization is responsible for the design, development, testing, and certification of the software, hardware, and network architecture of our global network and support of our content delivery and other Orchestrate Platform solutions. As of December 31, 2015, we had 170 employees and employee equivalents in our research and development group. Our research and development personnel are primarily located in San Francisco, California; Boston, Massachusetts; Grand Rapids, Michigan; Seattle, Washington; Lviv, Ukraine and at our headquarters in Tempe, Arizona. Our engineering efforts support product development across all of our service areas, as well as innovation related to the global network itself. We test our services to ensure scalability in times of peak demand. We use internally developed and third-party software to monitor and to improve the performance of our network in the major Internet consumer markets around the world where we provide services for our customers. Our research and development expenses were $28,016, $20,965 and $22,003 in 2015, 2014, and 2013, respectively, including stock-based compensation expense of $2,236, $1,477, and $2,256 in 2015, 2014, and 2013, respectively. 
+
+Intellectual Property 
+
+Our success depends in part upon our ability to protect our core technology and other intellectual capital. To accomplish this, we rely on a combination of intellectual property rights, including patents, trade secrets, copyrights, trademarks, domain registrations, and contractual protections. 
+
+As of December 31, 2015, we had received 133 patents in the United States, expiring between 2023 and 2034, and we had 39 U.S. patent applications pending. We have 9 issued patents in foreign countries. We do not know whether any of our patent applications will result in the issuance of a patent or whether the examination process will require us to narrow our claims. Any patents that may be issued to us may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing them. Therefore, we cannot predict the exact effect of having a patent with certainty. 
+
+As of December 31, 2015, we had received four trademarks in the United States. Our name, Limelight Networks, has been filed for multiple classes in the United States, Australia, Canada, the European Union, India, Japan, South Korea and Singapore. We have 21 non United States trademarks registered. There is a risk that pending trademark applications may not issue, and that those trademarks that have issued may be challenged by others who believe they have superior rights to the marks. 
+
+We generally control access to and use of our proprietary software and other confidential information through the use of internal and external controls, including physical and electronic security, contractual protections with employees, contractors, customers and partners, and domestic and foreign copyright laws. 
+
+Despite our efforts to protect our trade secrets and proprietary rights and other intellectual property rights by following sound business practices, licenses, and confidentiality agreements, there is risk that unauthorized parties may still copy or otherwise obtain and use our software and technology. In addition, we have been expanding our international operations, and effective patent, copyright, trademark, and trade secret protection may not be available or may be limited in foreign countries. Further, expansion of our business with additional employees, locations, and legal jurisdictions may create greater risk that our trade secrets and proprietary rights will be harmed. If we fail to effectively protect our intellectual property and other proprietary rights, our business could be harmed. 
+
+Third parties could claim that our products or technologies infringe their proprietary rights. The Internet content delivery services industry is characterized by the existence of a large number of patents, trademarks, and copyrights and by frequent litigation based on allegations of infringement or other violations of intellectual property rights. We expect that infringement claims may further increase as the number of products, services, and competitors in our market increases. Further, continued success in this market may provide an impetus to those who might use intellectual property litigation as a weapon against us. We have been the target of intellectual property infringement claims in the past and may be the target of such claims by third parties in the future. 
+
+During 2015, we were party to a lawsuit alleging aspects of our content delivery network infringed upon third party patent rights. More information about this case, Akamai Technologies, Inc. vs. Limelight Networks, Inc., is described in further detail under &#8220;Legal Proceedings&#8221; in Part 1, Item 3 of this annual report on Form 10-K. 
+
+Employees 
+
+As of December 31, 2015, we had 509 employees and employee equivalents. Of these, 369 are based in the Americas, 104 are based in EMEA and 36 are based in Asia Pacific. None of our employees are represented by a labor union, and we have not experienced any work stoppages to date. We consider the relationships with our employees to be positive. 
+
+Executive Officers of the Registrant 
+
+Our executive officers and their ages and positions as of February 1, 2016 are as follows: 
+
+Name 
+
+Age 
+
+Position 
+
+Robert A. Lento 
+
+President, Chief Executive Officer and Director 
+
+Sajid Malhotra 
+
+Chief Strategy Officer and Interim Chief Financial Officer 
+
+Michael D. DiSanto 
+
+Chief Administrative and Legal Officer and Secretary 
+
+George E. Vonderhaar 
+
+Chief Sales Officer 
+
+Robert A. Lento &#32; has served as our Chief Executive Officer since November 2012 and has served as a member of our board of directors since January 2013. Prior to joining us, Mr. Lento was a senior sales executive at Convergys Corporation, a provider of customer management services, from July 1998 to May 2012, most recently serving as President - Information Management Division from September 2007 to May 2012. Prior to that, from 1997 to 1998, Mr. Lento served as President of LAN Systems for Donnelly Enterprise Solutions, Inc., a provider of information management solutions. From 1989 to 1996, Mr. Lento served in leadership positions at ENTEX Information Services, Inc., a provider of computing infrastructure services. Mr. Lento received a B.S. in Management from the State University of New York. 
+
+Sajid Malhotra &#32;has served as our Interim Chief Financial Officer since December 2015. Mr. Malhotra has also served as our Chief Strategy Officer since June 2015 and was our Senior Vice President, Strategy, Facilities, Investor Relations and Procurement from March 2014 to June 2015. Prior to joining us, from September 2012 to March 2013, Mr. Malhotra was an independent consultant focused on strategic and financial consulting, communication, and value creation. Prior to that, from 2006 to 2012, Mr. Malhotra was the Senior Vice President of Strategy, Marketing and Mergers and Acquisitions for Convergys Corporation. Prior to joining Convergys, Mr. Malhotra held several senior executive positions with NCR Corporation and AT&#38;T. Mr. Malhotra earned his bachelor&#8217;s degree in computer science and a master&#8217;s degree of business administration in finance from PACE University in New York. 
+
+Michael D. DiSanto &#32;has served as our Senior Vice President, Chief Administrative and Legal Officer and Secretary since April 2015. Prior to joining us, Mr. DiSanto was a partner at the law firm Bingham McCutchen LLP from 2013 to 2014. From 2010 to 2013, Mr. DiSanto was a partner at the law firm Dinsmore &#38; Shohl LLP. From 2008 to 2010, Mr. DiSanto was a partner at the law firm Reed Smith. Mr. DiSanto received a B.A. from Vanderbilt University and his J.D. from Santa Clara University School of Law. 
+
+George E. Vonderhaar &#32;has served as our Chief Sales Officer since February 2013. Prior to joining us, Mr. Vonderhaar served in various capacities for Convergys Corporation, a provider of customer management services, from 1984 through 2012, including as Senior Vice President, General Manager - Cable and Satellite from January 2011 until the division was acquired by NEC Corporation in May 2012, where Mr. Vonderhaar then served as Vice President, General Manager North America Cable from May 2012 to July 2012. Mr. Vonderhaar also was Senior Vice President - Human Resources Management at Convergys Corporation from April 2006 through June 2010, when the Human Resources Outsourcing division was acquired by NorthgateArinso, where Mr. Vonderhaar then served as Vice President, Client Services and General Manager from June 2010 to December 2010. Mr. Vonderhaar also served as General Manager - Mobile Cable Solutions Group at Convergys Corporation from November 2004 to April 2006. Mr. Vonderhaar received a B.S. in Business Administration from Marquette University. &#32; 
+

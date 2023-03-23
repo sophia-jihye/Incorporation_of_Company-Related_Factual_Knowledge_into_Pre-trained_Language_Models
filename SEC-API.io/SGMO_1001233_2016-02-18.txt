@@ -1,0 +1,842 @@
+ ITEM 1 &#8211; BUSINESS 
+
+Overview 
+
+We are the leading company in the field of therapeutic genome editing which we are applying to &#8220;Engineer Genetic Cures&#8221; for numerous gene-based diseases. As a clinical stage biopharmaceutical company we are focused on the research, development and commercialization of engineered DNA-binding proteins for therapeutic genome editing and gene regulation. Our proprietary zinc finger DNA-binding proteins (ZFP) technology enables efficient and highly specific genome editing and gene regulation and we are developing ZFP Therapeutics; novel therapeutic products for the treatment of genetic disease. We have several proprietary clinical and preclinical programs in development and have strategically partnered certain programs with biopharmaceutical companies to obtain funding for our own programs and to expedite clinical and commercial development. Our long-term goal is to forward integrate into manufacturing, development and commercial operations to more fully capture the value of our proprietary ZFP Therapeutic products. 
+
+We, and our licensed partners, are the leaders in the research, development and commercialization of ZFPs, a naturally occurring class of proteins found in humans. We have used our knowledge and expertise to develop a proprietary technology platform in both genome editing and gene regulation. ZFPs can be engineered to make ZFP nucleases (ZFNs), proteins that can be used to specifically modify DNA sequences by adding or knocking out specific genes (genome editing) and ZFP transcription factors (ZFP TFs), proteins that can be used to turn genes on or off (gene regulation). As ZFPs act at the DNA level, they potentially have broad and fundamental applications in several areas, including human therapeutics, plant agriculture and research reagents, including the production of transgenic animals and cell-line engineering. In the process of developing this platform we have accrued significant scientific, manufacturing and regulatory capabilities and know-how that is generally applicable in the broader field of gene therapy.
+
+The main focus for our company is the development of novel human therapeutics. Our lead ZFP Therapeutic, SB-728, a ZFN-modified autologous cell product for the treatment of HIV/AIDS, is the first therapeutic application of our ZFN genome editing technology and is being evaluated in an ongoing Phase 2 study of ZFN-modified T-cells (SB-728-T-1101, Cohort 3*) and a Phase 1/2 study of modified hematopoietic stem cells (SB-728mR-HSPC) in HIV-infected subjects. We are also initiating Phase 1/2 studies of in vivo genome editing applications of ZFP Therapeutics for hemophilia B and MPS I, a lysosomal storage disorder (LSD). In addition, we have proprietary preclinical programs in hemophilia A and other LSDs and research stage programs in other monogenic diseases, including certain central nervous system (CNS) disorders and cancer immunotherapy.
+
+We have established a collaborative partnership with Biogen Inc. (Biogen) to research, develop and commercialize our preclinical ZFP Therapeutic development program in hemoglobinopathies, including sickle cell disease (SCD) and beta-thalassemia. We also have a collaborative partnership with Shire International GmbH, formerly Shire AG (Shire), to research, develop and commercialize our preclinical ZFP Therapeutic development program in Huntington&#8217;s disease (HD). 
+
+We believe the potential commercial applications of ZFPs are broad-based and we have entered into strategic partnerships in fields outside human therapeutics to facilitate the sale or licensing of our ZFP platform. We have a license agreement with Sigma-Aldrich Corporation (Sigma). Under this agreement, Sigma has the exclusive rights to develop and market ZFP-based laboratory research reagents marketed under the trademark CompoZr &#174; as well as ZFP-modified cell lines for commercial production of protein pharmaceuticals and ZFP-engineered transgenic animals. We also have a license agreement with Dow AgroSciences, LLC (DAS), a wholly owned subsidiary of Dow Chemical Corporation. Under this agreement, DAS has the exclusive rights to use our ZFP technology to modify the genomes or alter protein expression of plant cells, plants, or plant cell cultures and markets our ZFN technology under the trademark EXZACT TM Precision Technology. 
+
+We have a substantial intellectual property position in the genome editing field including the design, selection, composition and use of engineered ZFPs to support our commercial activities. As of February 1, 2016, we either owned outright or have exclusively licensed the commercial rights to approximately 760 patents issued in the United States and foreign national jurisdictions, and we have 629 patent applications owned and licensed pending worldwide. We continue to license and file new patent applications that strengthen our core and accessory patent portfolio. We believe that our intellectual property position is a critical element in our ability to research, develop and commercialize products and services based on ZFP technology across our chosen applications. 
+
+DNA, Genes, and Proteins 
+
+DNA is present in all cells except mature red blood cells, and encodes the inherited characteristics of all living organisms. A cell&#8217;s DNA is organized in chromosomes as thousands of individual units called genes. Genes encode proteins, which are assembled through the process of transcription&#8212;whereby DNA is transcribed into ribonucleic acid (RNA)&#8212;and, subsequently, translation&#8212;whereby RNA is translated into protein (Figure 1). Proteins are involved in virtually all cell functions. DNA, RNA and proteins comprise many of the targets for pharmaceutical drug discovery and therapeutic intervention. 
+
+&#160;
+
+Figure 1: 
+
+Schematic of the relationship between the human genome, DNA, RNA and protein 
+
+The human body is composed of specialized cells that perform different functions and are thus organized into tissues and organs. All somatic cells in an individual&#8217;s body contain the same set of genes. However, only a fraction of these genes are turned on, or expressed, in an individual human cell at any given time. Genes are regulated (i.e. turned on or turned off) by DNA-binding proteins called transcription factors in response to a wide variety of stimuli and developmental signals. Distinct sets of genes are expressed in different cell types. It is this pattern of gene expression that determines the structure, biological function and health of all cells, tissues and organisms. The aberrant expression of certain genes can lead to disease. Similarly, a mistake, or mutation in the DNA sequence of a gene can result in corresponding error in the protein encoded by the gene, which may have serious consequences for the cell and its function. A number of disorders have been identified that are caused by the inheritance of a single defective gene. These so-called monogenic diseases include hemophilia, HD, SCD, LSDs and many others. 
+
+Zinc finger DNA-binding proteins ( ZFPs) are Naturally Occurring Transcription Factors in Humans 
+
+Transcription factors are proteins that bind to DNA and regulate gene expression. A transcription factor recognizes and binds to a specific DNA sequence within or near a particular gene and causes expression of that gene to be &#8220;turned on&#8221; (activated) or &#8220;turned off&#8221; (repressed). ZFPs are the largest class of naturally occurring transcription factors in organisms from yeast to humans. In higher organisms naturally occurring transcription factors typically comprise two principal domains: the first is a DNA-binding domain, (designated in Figure 2 as the &#8220;Recognition Domain&#8221;) which recognizes a target DNA sequence and thereby directs the transcription factor to the proper chromosomal location; the second is a functional domain that causes the target gene to be activated or repressed. Sangamo has added to these naturally occurring functional domains to include domains enabling genome editing at the site determined by the DNA-binding domain. 
+
+&#160;
+
+Figure 2: 
+
+Schematic of the two-domain structure of a ZFP Therapeutic 
+
+Engineered ZFP Nucleases (ZFNs) can be designed for Genome Editing and Engineered Zinc Finger Protein Transcription Factors (ZFP TFs) for Gene Regulation 
+
+Consistent with the two-domain structure of natural ZFP transcription factors, we take a modular approach to the design of the proteins that we engineer. The ZFP portion, the DNA-recognition domain, is typically composed of three or more zinc fingers. Each individual finger recognizes and binds to a three-four base pair sequence of DNA and multiple fingers can be linked together to recognize longer stretches of DNA, thereby improving specificity. By modifying the amino acids of a ZFP, we can engineer novel ZFPs capable of recognizing pre-selected DNA sequences for any genomic target. We use the engineered ZFP DNA-binding domain linked to a functional domain. The ZFP DNA-binding domain brings the functional domain into the proximity of the gene of interest. Our ability to use our highly specific ZFP technology to precisely target a DNA sequence in a gene of interest provides us with a range of genome editing and gene regulation functions that can be applied in many different cell types. 
+
+Our engineered ZFPs can be attached to a cleavage domain of a restriction endonuclease, an enzyme that cuts DNA, creating a zinc finger nuclease or ZFN. When a pair of ZFNs is bound to the DNA in the correct orientation and spacing, the DNA sequence is cut between the ZFP binding sites. DNA binding by both ZFNs is necessary for cleavage, and both domains of the restriction endonuclease must be present in the correct orientation to interact with each other, in order to mediate DNA cleavage. This break in the DNA triggers a natural process of DNA repair in the cell. The repair process can be harnessed to achieve one of several outcomes that may be therapeutically useful (Figure 3). If cells are simply treated with ZFNs alone the repair process joins the two ends of the broken DNA together and frequently results in the loss of a small amount of genetic material at the site of the break. This disrupts the original DNA sequence and can result in the generation of a shortened or non-functional protein, effectively &#8220;knocking out&#8221; the protein. ZFN-mediated genome editing can be used to disrupt a gene that is involved in disease pathology such as the CCR5 gene which encodes a protein that is critical for HIV infection. We are also using ZFN-mediated gene disruption of the BCL11A Enhancer in hematopoietic stem progenitor cells (HSPCs) as a single long-lasting treatment for SCD and beta-thalassemia. 
+
+In contrast, if cells with a mutation in a particular gene are treated with a DNA sequence that encodes the correct gene sequence (referred to as a &#8220;donor&#8221; DNA) and with ZFNs that recognize and bind to sequences flanking the mutation, the cell&#8217;s repair machinery can use the donor as a template to correct the mutated gene. This ZFN-mediated gene correction enables the corrected gene to be expressed in its natural chromosomal context and may provide a novel approach for the precise repair of DNA sequence mutations responsible for cert ain monogenic diseases. In addition, by making the donor sequence a gene-sized segment of DNA, a new copy of a gene can also be precisely added into the genome at a specific location. The ability to precisely place a gene-sized segment of DNA specifically into a pre-determined location in the genome broadens the range of mutations of a gene that can be corrected in a single step and eliminates the insertional mutagenesis concerns associated with traditional integrating gene replacement approaches such as re troviruses, in which the insertion of a new corrective copy of the gene typically occurs at random locations in the genome. Our In Vivo Protein Replacement Platform&#8482; (IVPRP&#8482;), in which our ZFN technology is used to insert a gene encoding a therapeutic prot ein into a safe harbor site such as the Albumin gene, is an approach that we are investigating for the treatment of hemophilia and LSDs which may potentially provide a single and potentially curative treatment for these diseases. 
+
+We can also create ZFP TFs which are capable of controlling or regulating the expression of a target gene in the desired manner (Figure 3). For instance, attaching an activation domain to a ZFP will cause a target gene to be &#8220;turned on.&#8221; Alternatively, a repression domain causes the gene to be &#8220;turned off.&#8221; We have a preclinical ZFP Therapeutic program for HD in which we are evaluating a ZFP TF designed to differentially down regulate the mutated disease-causing Huntingtin (HTT) gene, while leaving expression of the normal gene unchanged. 
+
+&#160;
+
+Figure 3: 
+
+ZFP Therapeutics can be designed to accomplish a range of functions in genome editing and gene regulation. 
+
+To date, we and our partners have designed, engineered and assembled many thousands of ZFPs and have tested many of these proteins for their affinity, or tightness of binding to their DNA target, as well as their specificity, or preference for their intended DNA target. We have developed methods for the design, selection and assembly of ZFPs capable of binding to a wide spectrum of DNA sequences and genes. We have linked ZFPs to endonuclease domains to create highly specific ZFNs and to numerous functional domains to create gene-specific ZFP TFs and have demonstrated the ability of these proteins to enable genome editing or gene regulation, respectively, in hundreds of genes in dozens of different cell types and in whole organisms, including non-human primates, mice, rats, rabbits, pigs, fruit flies, worms, zebrafish and yeast, and in plant species including canola and maize. We and our collaborators have published data from many of these studies in peer-reviewed scientific journals. ZFNs are currently being used to generate transgenic animals and cell lines that have specific genetic modifications that make them useful models of human disease. These high value biologic tools are being used by academics, and biotechnology and pharmaceutical companies for medical research and drug development. Our preclinical data have been reviewed by advisory bodies such as the NIH Recombinant Advisory Committee (RAC) and regulatory bodies such as the U.S. Food and Drug Administration (FDA) and we have ongoing clinical trials to evaluate the safety and efficacy of ZFNs in humans.
+
+We have employed several strategies for the application of our ZFP Therapeutics depending on the disease or indication. We routinely deliver our therapeutics as nucleic acids, either as messenger RNA (mRNA) or encoded in a viral vector such as Adeno Associated Virus (AAV) that the cell then uses to make the protein form of the ZFN or ZFP TF. We can deliver ZFP Therapeutics ex vivo (outside the body) to isolated cells of the blood, such as T-cells, in the case of our clinical HIV program, and HSPCs for our programs in HIV and monogenic blood diseases such as SCD and beta-thalassemia. We are also developing ZFP Therapeutics in which we deliver our therapeutic proteins in vivo , either systemically (directly into the blood stream) as in our IVPRP programs in hemophilia and LSD, or directly into a specifi c tissue such as the brain as in our HD program. 
+
+ZFP Therapeutics Provide the Opportunity to Develop a New Class of Human Therapeutics 
+
+We believe that our ZFP technology provides a unique and proprietary basis for a broad new class of drugs that have differential technical advantages over small-molecule drugs, protein pharmaceuticals, RNA-based therapeutics, conventional gene therapy approaches and other genome editing platforms, enabling us to develop therapies for a broad range of unmet medical needs. 
+
+We can generate highly specific ZFNs for genome editing and gene regulation and have developed multiple delivery strategies to administer these therapeutics, including using mRNA, AAV, adenovirus and plasmid. As more genes and DNA sequences are linked to specific diseases, we believe that the clinical breadth and scope of our ZFP Therapeutic applications will continue to expand. 
+
+For example, ZFP Therapeutics can: 
+
+&#160;
+
+&#183; 
+
+Enable genome editing and gene regulation strategies to address novel drug targets. Engineered ZFNs enable the efficient disruption, correction or targeted addition of a gene sequence in a very precise fashion, and ZFP TFs enable either repression or activation of a therapeutically relevant gene in a cell. This gives our technology a degree of flexibility not seen in other drug development platforms. Direct, targeted modification of the genome cannot be achieved using conventional gene therapy approaches, antisense RNA, siRNA, conventional small molecules, antibodies, or other protein. Our ZFN genome editing technology, which requires only brief cellular expression of ZFNs, enables the permanent disruption or addition of a therapeutically relevant gene in a highly targeted fashion. For example, our IVPRP strategy enables targeted insertion of a therapeutic gene into the genome of liver cells. This strategy has the potential to provide an extended or life-long clinical benefit in the treatment of monogenic diseases, such as hemophilia, without the risk of washout of therapeutic genes delivered using non-integrating vectors such as AAV or the potentially deleterious issues related to random insertion of therapeutic genes into the genome by randomly integrating viral vectors such as lentiviral vectors. 
+
+&#160;
+
+&#183; 
+
+Provide therapeutic solutions for targets that cannot be effectively addressed by existing drug modalities. The sequencing and publication of the human genome and growing information generated by genome-wide association studies have enabled the identification of both genes and regulatory sequences as potential new therapeutic targets. Many of these targets have a direct role in disease processes but cannot be bound or modulated for therapeutic purposes by small molecules, monoclonal antibodies or RNA based therapeutics. Alternative therapeutic approaches are required to modulate the biological activity of these so-called &#8220;non-druggable&#8221; targets. One such target is the BCL11A Enhancer, a regulatory sequence, which we are disrupting using ZFNs in hematopoietic stem progenitor cells (HSPCs) in order to elevate levels of fetal globin. This target is being developed in collaboration with Biogen as a therapeutic approach for a long-lasting treatment for SCD and beta-thalassemia 
+
+&#160;
+
+&#183; 
+
+Provide high specificity and selectivity for targets. ZFP Therapeutics can be designed to act with high specificity and we have published several examples of such data in high impact journals including ( Proc. Natl. Acad. Sci (2003) vol:100, 11997-12002; J Neurosci. (2010) 30(49):16469-74; Nat Biotechnol. (2008) 26(7):808-16 and Nature (2011)478(7369):391-4 ). In addition, as there are only two copies of each gene in a cell, there are generally only two targets per cell for a ZFP Therapeutic, which means that ZFNs and ZFP TFs need to be available in the cell in relatively low concentrations, which may reduce the risk of toxicity. In contrast, drugs that act on protein and RNA targets that are naturally present in higher cellular concentrations may need to be administered in higher concentrations. Many small molecule and RNA-based approaches either affect multiple targets demonstrating so-called &#8220;off-target effects&#8221; or may be toxic in the concentrations required to be therapeutically effective. 
+
+&#160;
+
+&#183; 
+
+Provides a genome editing platform with superior qualities for therapeutic development . Unlike other less developed bacterial-based genome editing platforms, such as CRISPR/Cas9 and TALENS, our proprietary ZFN genome editing technology is based on human proteins that have co-evolved with our complex human genome. The relative complexity of the protein-DNA interaction of our ZFN platform and the ability to engineer the entire protein-DNA interface also gives us the ability to optimize all components of our genome editing technology to drive efficient cutting with singular specificity. The ZFN-mediated mechanism is optimized for both gene insertion and gene knockout and over years of developing this platform, we have engineered our ZFN proteins to provide maximum design density (1:2 base pairs), giving us the capability to target virtually any sequence of interest and to place a ZFN 
+
+&#160;
+
+exactly where we choose with single gene specificity. This precision is particularly critical for therapeutic gene insertion and correction . Finally, we have an established validated process for rapid development of a ZFN Therapeutic clinical lead and have taken our therapeutics through regulatory review and into human clinical studies where we are able to evaluate both the safety and efficacy of our approach. 
+
+THERAPEUTIC PRODUCT DEVELOPMENT 
+
+ZFP Therapeutic Product Development Programs 
+
+&#160;
+
+Figure 4: 
+
+Sangamo&#8217;s Therapeutic Pipeline 
+
+Clinical Stage Programs 
+
+&#160;
+
+Product Candidate
+
+&#160;
+
+Targeted Indication
+
+&#160;
+
+Stage of Development
+
+&#160;
+
+Protocol
+
+&#160;
+
+Milestones
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+SB-728-T
+
+&#160;
+
+HIV/AIDS
+
+&#160;
+
+Phase 2
+
+&#160;
+
+SB-728-1101 (Cytoxan pre-conditioning dose-ranging study)
+
+&#160;
+
+Cohort 3* ongoing, two of three subjects in Cohort 3*demonstrated viral load control in the absence of ART, additional five subjects will be accrued; full data expected in 2016. Enrollment and treatment of Cohorts 1-5 completed; in long-term follow-up. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Phase 2
+
+&#160;
+
+SB-728mR-T-1401
+
+&#160;
+
+Accrual completed; in long-term follow-up . 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Phase 1
+
+&#160;
+
+SB-728-902, Cohorts 1-3 Cohort 5 (CCR5 delta-32 heterozygotes)
+
+&#160;
+
+Enrollment and treatment completed; in long-term follow-up. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Phase 1
+
+&#160;
+
+SB-728-T*
+
+&#160;
+
+Enrollment and treatment completed, in long-term follow-up. Data published + 2014.
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Phase 2
+
+&#160;
+
+SB-728-T* (Cytoxan pre-conditioning)
+
+&#160;
+
+Trial ongoing at University of Pennsylvania.
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+SB-728-HSPC
+
+&#160;
+
+HIV/AIDS
+
+&#160;
+
+Phase 1/2
+
+&#160;
+
+SB-728mR-HSPC*
+
+&#160;
+
+Trial ongoing at City of Hope.
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+SB-FIX
+
+&#160;
+
+Hemophilia B
+
+&#160;
+
+Phase 1/2
+
+&#160;
+
+SB-FIX-1501
+
+&#160;
+
+Dose escalation study. Trial expected to begin in 1H 2016.
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+SB-318
+
+&#160;
+
+Hurler Syndrome (MPS I)
+
+&#160;
+
+Phase 1/2
+
+&#160;
+
+SB-318-1502
+
+&#160;
+
+Dose escalation study. Trial expected to begin in mid-2016
+
+&#160;
+
+Table 1: Summary of our ongoing clinical trials. 
+
+&#160;
+
+&#160;
+
+(*Investigator sponsored trial) 
+
++ N.Eng. J. Med. 2014: 370:897-906 &#8220;Gene Editing of CCR5 in Autologous CD4 T-cells of Persons Infected with HIV.&#8221;
+
+ZFP Therapeutic Programs 
+
+Human Immunodeficiency Virus (HIV) and Acquired Immunodeficiency Syndrome (AIDS) 
+
+HIV infection results in the death of immune system cells, particularly CD4+ T-cells, and thus leads to AIDS, a condition in which the body&#8217;s immune system is depleted to such a degree that the patient is unable to fight off common infections. Ultimately, these patients succumb to opportunistic infections or cancers. According to the most recent data from The United States Centers for Disease Control and Prevention (CDC) over 2 million people were newly infected with HIV in 2014. An estimated 1.2 million people died of AIDS-related illnesses in the same year. There are now over 36 million people living with HIV and AIDS worldwide. At the end of 2012, (the most recent data available) it is estimated that there were 1.2 million people living with HIV/AIDS in the United States, of which approximately 13% were unaware that they were infected. It is estimated that approximately 50,000 people are newly infected with HIV each year in the United States. Approximately 48,000 new infections occurred in 2010, and more than 13,700 people with AIDS died in the United States in 2012.
+
+Current Treatments and Unmet Medical Need 
+
+Currently, there are over 30 antiretroviral drugs approved by the U.S. Food and Drug Administration (FDA) to treat people infected with HIV. While these drugs can suppress virus in the blood to undetectable levels, they cannot eliminate the reservoir of cells containing genomically-integrated HIV from the body. Hence, individuals infected with HIV need to take antiretroviral drugs continuously. The drugs are expensive and can have significant side effects over time. There is no therapeutic approach available which protects CD4+ T-cells, suppresses viral load, reduces the viral reservoir and does not require daily dosing. 
+
+Sangamo&#8217;s Therapeutic Approach 
+
+Our therapeutic approach aims to use our ZFN-mediated genome editing technology to replicate a naturally occurring human mutation which renders individuals largely resistant to infection with the most common strain of HIV. CCR5 is a co-receptor for HIV 
+
+entry into T-cells and if CCR5 is not expressed on their surface HIV infects them with lower efficiency. A population of individuals that is immune to HIV infection, despite multiple exposures to the virus, has been identified and extensively studied. The majority of these individuals have a natural mutation, CCR5 delta-32 , of both of their CCR5 gene copies (homozygous), resulting in the expression of a shortened non-functional CCR5 protein. This mutation appears to have no observable deleterious effect. Individuals who carry the CCR5 delta-32 mutation in only one of their two CCR5 gene copies (h eterozygotes), tend to take longer to develop AIDS and are classified as so-called &#8220;long-term non-progressors.&#8221; In addition, a study published in Blood in December 2010 reported an effective cure when an AIDS patient with leukemia received a bone marrow tr ansplant from a &#8220;matched&#8221; donor who was homozygous for this CCR5 delta-32 mutation. This approach transferred the HSPCs residing in the bone marrow from the delta-32 donor, and provided a self-renewable and potentially lifelong source of HIV-resistant immu ne cells. After transplantation, the AIDS patient was able to discontinue all anti-HIV drug treatments, CD4 counts increased and viral load dropped to an undetectable level, demonstrating effective transplantation of protection from HIV infection. 
+
+We are using our ZFN-mediated genome editing technology to disrupt the CCR5 gene in cells of a patient&#8217;s immune system to make these cells permanently resistant to HIV infection. The aim is to provide a population of HIV-resistant cells that can fight HIV and opportunistic infections mimicking the situation in individuals that carry the natural CCR5 delta-32 mutation. 
+
+We began clinical trials in this program in late 2009 and over the past six years have conducted several studies in different populations of HIV infected subjects designed to evaluate, safety and tolerability of SB-728-T treatment. We have treated over 80 subjects and to date these studies have shown that the treatment is well-tolerated. In addition we have evaluated the effect of SB-728-T on subjects&#8217; CD4 T-cell counts, levels of CCR5-modified T-cells, viral burden during a treatment interruption (TI) from anti-retroviral therapy (ART) and levels of HIV DNA in peripheral blood mononuclear cells as a measure of the viral reservoir. We have also studied the effect of Cytoxan preconditioning on levels of cell engraftment, treatment with modified CD4 T-cells alone and treatments that include both modified CD4 and CD8 T-cells. In addition our studies have compared the effectiveness of the SB-728-T cell product when ZFNs were delivered to T-cells using either Adenovirus or mRNA and electroporation. The data have demonstrated durable engraftment and persistence of SB-728-T, ability of the ZFN-modified cells to traffic to the gut mucosa and that the modified cells have a survival advantage over unmodified cells during a TI from ART. In addition, our studies have demonstrated improvements in the overall CD4 T-cell count and the CD4:CD8 ratio in multiple subjects as well as a decrease in the viral reservoir and the ability of certain subjects to control their viral loads for prolonged periods in the absence of ART. The data from our first Phase 1 study were published in the New England Journal of Medicine in 2014 ( N.Eng. J. Med. 2014: 370:897-906 ). 
+
+We also have a Phase 1/2 clinical study (SB-729mR-HSPC) to investigate this approach to treat HIV in hematopoietic stem progenitor cells (HSPCs), using electroporation of mRNA to deliver the ZFNs. In May 2014 California Institute for Regenerative Medicine (CIRM) agreed to fund a $5.6 million Strategic Partnership Award for clinical studies of this program at City of Hope.
+
+Hemophilia B
+
+We have a Phase 1/2 open-label, dose-escalation clinical trial in hemophilia B.
+
+Hemophilia, a rare bleeding disorder in which the blood does not clot normally, is an example of a monogenic disease (a disease that is caused by a genetic defect in a single gene). There are several types of hemophilia caused by mutations in genes that encode factors which help the blood clot and stop bleeding when blood vessels are injured. Individuals with hemophilia experience bleeding episodes after injuries and spontaneous bleeding episodes that often lead to joint disease such as arthritis. The most prevalent form of the disease, hemophilia A, is caused by a defect in clotting Factor VIII, while defects in clotting Factor IX lead to hemophilia B. The most severe forms of hemophilia affect males. According to the National Hemophilia Foundation and the World Federation of Hemophilia, hemophilia A occurs in about one in every 5,000 male births in the US with approximately 16,000 males currently affected in the US, and hemophilia B in about 1 in every 25,000 male births with approximately 4,000 males currently affected. The standard treatment for individuals with hemophilia is replacement of the defective clotting factor with regular infusion of recombinant clotting factors or plasma concentrates. These therapies are expensive and sometimes stimulate the body to produce antibodies against the factors that inhibit the benefits of treatment. In these situations, other clotting factors such as Factor VII and X may be used to treat patients. 
+
+Sangamo&#8217;s Therapeutic Approach
+
+We have developed a platform strategy, our In Vivo Protein Replacement Platform&#8482; (IVPRP&#8482;), to address hemophilia A and B and other monogenic diseases that are currently treated using enzyme or protein replacement therapy. Using our ZFN genome editing technology we are adding a new therapeutic copy of the Factor VIII or IX gene precisely into a safe-harbor site, the Albumin gene or locus, and using the powerful Albumin promoter to drive expression of the newly inserted gene. We have published data demonstrating the potential utility of this platform for several different monogenic disease applications (Blood. 2015 Oct 8;126(15):1777-84). 
+
+Preclinical studies of our IVPRP approach, have demonstrated that therapeutic levels of Factor IX could be generated in a dose-dependent manner in non-human prima tes (NHPs). There were no significant alterations in circulating albumin levels. Studies in mice also demonstrated stable Factor IX production for over 1 year. The IVPRP is designed to be a broadly applicable strategy for gene replacement that will provid e a permanent correction for the lifetime of the patient, thus increasing its potential usefulness in a pediatric population and would reduce or eliminate the need for chronic infusions of replacement proteins or clotting factor products. Our hemophilia B program was reviewed by the NIH Recombinant DNA Advisory Committee (RAC) and an IND application for the program was cleared by the FDA in December 2015. We expect to begin enrolling subjects into a Phase 1/2, open-label, dose-escalation clinical trial in t he first half of 2016. Our goal is to file an IND application for our hemophilia A program in the second half of 2016. 
+
+Lysosomal Storage Disorders 
+
+Lysosomal storage disorders (LSDs) are a heterogeneous group of inherited disorders including Fabry disease, Gaucher disease, Mucopolysaccharidosis type I (MPS I, Hurler syndrome) and Mucopolysaccharidosis Type II (MPS II Hunter syndrome) and many others. They are caused by defects in genes that encode proteins known as enzymes, which break down and eliminate unwanted substances in cells. These enzymes are found in structures called lysosomes which act as recycling sites in cells, breaking down unwanted material into simple products. A defect in a lysosomal enzyme leads to the accumulation of toxic levels of the substance that the enzyme would normally eliminate and resulting cell damage which can lead to serious health problems. There are nearly 50 of these disorders altogether and they may affect different parts of the body, including the skeleton, skin, heart and CNS. While their individual incidence tends to be rare, this group as a whole has an incidence of more than 1:5,000 live births according to the National Institute of Neurological Disorders and Stroke. 
+
+There are no cures for LSDs, and treatments have not yet been developed for many of these diseases. For certain disorders, including Gaucher, Fabry, MPS I and MPS II, enzyme replacement therapies (ERTs) are available. However, these require frequent administration, are costly and there is a risk that over time patients develop an immune response to the administered protein reducing its efficacy. 
+
+Our IVPRP has the potential to provide a broadly applicable genetic approach to enzyme replacement for several LSDs. 
+
+MPS I
+
+MPS I is caused by mutations in the gene encoding the alpha-L-iduronidase (IDUA) enzyme, resulting in a deficiency of IDUA which is required for the degradation of the glycosaminoglycans (GAGs) dermatan sulfate and heparin sulfate. The inability to degrade GAGs leads to their accumulation within the lysosomes throughout the body and individuals with this mutation experience multi-organ dysfunction and damage. Depending on the severity of the mutations and degree of residual enzyme activity, affected individuals may develop organomegaly, joint stiffness, skeletal deformities, corneal clouding, hearing loss and mental retardation. Three forms of MPS I, in order of increasing severity, include Scheie, Hurler-Scheie and Hurler syndromes. According to the National MPS Society, one in 500,000 births in the U.S. will result in Scheie syndrome, one in 115,000 births in Hurler/Scheie, and one in 100,000 births results in Hurler syndrome. There are approximately 2,000 MPS I patients in the U.S. 
+
+The current therapies for individuals with MPS I include hematopoietic stem cell transplantation (HSCT) for those with the most severe form of the disease (Hurler) and enzyme replacement therapy (ERT) for patients with the attenuated forms of the disease (Hurler-Scheie, Scheie). However, the reported mortality rate after HSCT is approximately 15% and the survival rate with successful engraftment is 56%. Most patients with milder forms of the disease receive weekly enzyme replacement therapy (ERT), usually in a doctor&#8217;s office. For MPS I, IDUA infusions take on average four to six hours, however within hours, the replacement enzyme cannot be detected in the circulation. We expect to initiate a Phase 1/2 open-label, dose-escalation clinical trial in MPS I in mid-2016. 
+
+Pre-clinical Programs
+
+MPS II
+
+MPS II is an X-linked disorder primarily affecting males and caused by mutations in the gene encoding the iduronate-2-sufatase (IDS) enzyme. This results in a deficiency of IDS which is required for the degradation of GAGs. The inability to degrade GAGs leads to their accumulation within the lysosomes throughout the body and individuals with this mutation experience multi-organ dysfunction and damage. Children with MPS II appear normal at birth but begin showing symptoms of developmental delay by age 2 &#8211; 3 years. Depending on the severity of the mutations and degree of residual enzyme activity, affected individuals may develop delayed development, enlarged internal organs, cardiovascular disorders, stunted growth and skeletal abnormalities and hearing loss. The disorder is progressive and symptoms range from mild (normal cognitive function) to severe (cognitively impaired). According to the National MPS Society, one in 100,000 male births in the U.S. will result in MPS II. There are approximately 500 MPS II patients in the U.S. 
+
+The current therapy for individuals with MPS II includes weekly ERT. In contrast with Hurler syndrome, hematopoietic stem cell transplantation (HSCT) does not ameliorate neurologic symptoms. 
+
+Gaucher disease
+
+Gaucher disease is caused by mutations in the gene encoding beta-glucocerebrosidase. Deficiency of this enzyme results in the accumulation of glucocerebroside and related substances in white blood cells, called macrophages, within the patient&#8217;s spleen, liver, bone marrow and other organs, leading to damage to several tissues and organs within the body. Clinical manifestations of Type 1 Gaucher&#8217;s disease, which occurs more frequently in people of Ashkenazi Jewish heritage, are diverse and include liver and/or spleen enlargement, skeletal weakness, bone disease, anemia, thrombocytopenia, and leukopenia but not CNS involvement. Patient symptomology may be masked or not attributed to the disease, leading to delayed diagnosis or misdiagnosis. Type 2 and 3 Gaucher disease affect the CNS. According to the National Gaucher Foundation approximately one in 50,000-75,000 live non-Ashkenazi Jewish births and one in 600 Ashkenazi Jewish births will lead to Gaucher disease. There are approximately 5,000-7,000 Gaucher patients in the US and 5,000-15,000 in Europe, however, the prevalence is likely under-reported due to delayed diagnosis or misdiagnosis. The current therapies for individuals with Gaucher disease include oral substrate inhibitor therapy once or twice a day and ERT every two weeks.
+
+Fabry disease
+
+Fabry disease is caused by mutations in the alpha galactosidase gene resulting in a deficiency of the alpha-galactosidase A enzyme and leading to the accumulation of a type of fat molecule, called globotriaosylceramide, in cells lining blood vessels in the skin and cells in the kidneys, heart, and nervous system. Patients with Fabry&#8217;s disease may experience nerve pain, kidney damage, left ventricular hypertrophy and neurological damage. Symptoms may appear at any point from childhood to middle age, but their appearance largely depends on whether there is some residual enzymatic activity. The incidence of the disease is unknown but it is estimated that there are approximately 2,700 &#8211; 8,000 patients in the US. The current therapy for individuals with Fabry disease therapy is recombinant alpha-galactosidase A ERT every two weeks which leads to stabilization, but not reversal of organ damage caused by the accumulation of alpha-galactosidase A enzyme substrate.
+
+Sangamo&#8217;s Therapeutic Approach
+
+Beginning with MPS I and MPS II our aim is use this approach to enable the patient&#8217;s liver to produce therapeutic quantities of the corrective enzymes, IDUA and IDS, respectively. 
+
+Our third and fourth IVPRP LSD targets are Gaucher disease and Fabry disease, respectively. Similar to MPS I and MPS II, our aim is to enable the patient&#8217;s liver to produce therapeutic quantities of the corrective enzymes, beta-glucocerebrosidase for Gaucher and alpha-galactosidase A for Fabry disease. 
+
+An IND application for our product candidate for MPS I was filed in 2015 and was cleared by the FDA in early February 2016.We expect to begin a Phase 1/2, open-label, dose escalation, clinical trial for this program in mid-2016. We are in preclinical development for MPS II , Gaucher disease and Fabry disease Our goal is to file an IND application for our product candidate for MPS II in the first half of 2016 and two additional IND applications for Gaucher disease and Fabry disease in the second half of 2016.
+
+Programs Partnered with Biogen 
+
+Hemoglobinopathies: Sickle cell disease and Beta-thalassemia 
+
+Mutations in the gene encoding beta-globin, the oxygen carrying protein of red blood cells, lead to hemoglobinopathies such as SCD and beta-thalassemia. The mutation that gives rise to SCD causes the red blood cells to form an abnormal sickle or crescent shape. The cells are fragile and deliver less oxygen to the body&#8217;s tissues. They can also get stuck more easily in small blood vessels and break into pieces that can interrupt healthy blood flow which further decrease the amount of oxygen flowing to body tissues. Almost all patients with SCD experience these painful vaso-occlusive crises, which can last from hours to days and may cause irreversible organ damage. Current standard of care is to manage and control symptoms, and to limit the number of crises. Treatments include administration of hydroxyurea, blood transfusions, iron-chelation therapy, pain medications and antibiotics. The CDC estimates that there are 90,000 to 100,000 Americans living with SCD which occurs in approximately 1 out of every 500 African-American births and 1 out of every 36,000 Hispanic-American births. 
+
+There are several forms of beta-thalassemia. Broadly, the disorder results in greatly impaired production of healthy red blood cells despite bone marrow over activity, leading to life-threatening anemia, enlarged spleen, liver and heart, and bone abnormalities. Beta-thalassemia major is a severe form of thalassemia that requires regular, often monthly, blood transfusions and subsequent iron-chelation therapy to treat iron overload. The CDC estimates that 1,000 people have beta-thalassemia major in the United States, and an 
+
+unknown number carry the genetic trait and can pass it on to their children. Thalassemia is most common among people of Mediterranean descent and is also found among people from Southeast Asia, the Arabian Peninsula, Iran, Africa and Southern China. 
+
+In collaboration with Biogen, we are developing ZFP Therapeutics for both SCD and beta-thalassemia based on the use of our ZFN genome editing technology to modify a patient&#8217;s own (autologous) HSPCs. Our ZFN genome editing technology enables multiple approaches to the correction of SCD and beta-thalassemia. Both diseases manifest in the months after birth, when patients switch from producing functional fetal gamma-globin to a mutant form of adult beta-globin, which results in their condition. Naturally occurring increased levels of fetal hemoglobin have been shown to reduce the severity of both SCD and beta-thalassemia disorders. In HSPCs, our genome editing technology can be used to precisely disrupt regulatory sequences that control the expression of key transcriptional regulators, such as BCL11A , to reverse the switch from expression of the mutant adult beta-globin back to the production of functional fetal gamma-globin. 
+
+A bone marrow transplant (BMT), of HSPCs from a &#8220;matched&#8221; related donor (allogeneic BMT) is curative for both diseases. However, this therapy is limited due to the scarcity of matched donors and the significant risk of Graft versus Host Disease (GvHD) after transplantation of the foreign cells. By performing genome editing in HSPCs that are isolated from and subsequently returned to the same patient (i.e. an autologous HSPC transplant), our approach eliminates both the need for a matched donor and the risk of acute and chronic GvHD. The goal of this approach is to develop a one-time long-lasting treatment for SCD and beta-thalassemia. 
+
+We expect to file an IND application for our beta-thalassemia program in the first half of 2016. Biogen expects to file an IND application for the SCD program in the second half of 2016. 
+
+Programs Partnered with Shire 
+
+Huntington&#8217;s disease 
+
+HD is an inherited, progressive neurologic disease for which there is no treatment or cure. The disease is caused by a particular type of mutation in a single gene, the HTT gene. Most patients inherit one normal and one defective or mutant copy of the HTT gene, which causes HD. The mutation is characterized by expansion of a repeated stretch of DNA sequence within the gene called a &#8220;CAG repeat.&#8221; A normal copy of the HTT gene usually has 10 to 29 of these CAG repeats but a defective copy has many more&#8212;generally greater than 39 repeats. While the protein produced by the normal copy of the gene appears to be essential for development (mice lacking the gene do not survive to birth), the product of the mutated gene is damaging to cells. Symptoms, which include deterioration of muscle control, cognition and memory, usually develop between 35 and 44 years of age. It is known that the greater the number of CAG repeats, the earlier the onset. HD is usually fatal within 15 to 20 years after the onset of symptoms. The disease has a high prevalence for an inherited disorder. According to the Huntington&#8217;s disease Society of America (HDSA) approximately 30,000 people in the U.S. have HD. In addition, it is estimated that approximately 200,000 people in the U.S. are at risk of developing the disease. 
+
+Research in animal models of the disease has shown that lowering the levels of the mutant HTT protein can prevent, or even reverse, disease progression. However, to date most &#8220;HTT-lowering&#8221; methods decrease levels of both the normal and mutant forms of HTT, raising potential safety concerns given the importance of normal HTT protein. In collaboration with Shire, we are developing ZFP TFs that can selectively repress the expression of the mutant disease-causing form of HTT while leaving expression levels of the normal gene unchanged. Preclinical studies in animal models of the disease are ongoing and Shire is responsible for all clinical development activities including filing the IND application. 
+
+ZFP Therapeutic Research Programs 
+
+We have research stage programs in other monogenic diseases, in CNS disorders and in cancer immunotherapy. 
+
+CORPORATE RELATIONSHIPS 
+
+We have established collaborative and strategic partnerships in non-therapeutic areas and for several of our ZFP Therapeutic programs. We will continue to pursue further partnerships when appropriate with selected pharmaceutical, biotechnology and chemical companies to fund internal research and development activities and to assist in product development and commercialization. We are applying our ZFP technology platform to several commercial applications in which our products provide us and our strategic partners and collaborators with potential technical, competitive and economic advantages. 
+
+Therapeutic Collaborations 
+
+Collaboration and License Agreement with Biogen Inc. in Human Therapeutics and Diagnostics 
+
+In January 2014 we entered into an exclusive worldwide collaboration and license agreement with Biogen to develop therapeutics for hemoglobinopathies, focused on beta-thalassemia and SCD. Under the agreement, the two companies will jointly 
+
+conduct two research programs: the beta-thalassemia program and the SCD program. In the beta-thalassemia program, we are responsible for all discovery, research and development activi ties through the first human clinical trial. In the SCD program, both parties are responsible for research and development activities through the submission of an IND application for ZFP therapeutics intended to treat SCD. Biogen reimburses us for agreed u pon internal and external program-related costs. 
+
+Under both programs, Biogen is responsible for subsequent worldwide clinical development, manufacturing and commercialization of licensed products developed under the agreement. At the end of the specified research terms for each program or under certain specified circumstances, Biogen retains the right to step in and take over any of our remaining activities. Furthermore, we have an option to co-promote in the U.S. any licensed product to treat beta-thalassemia and SCD developed under the agreement, and Biogen will compensate us for such co-promotion activities. Subject to the terms of the agreement, we have granted Biogen an exclusive, royalty-bearing license, with the right to grant sublicenses, to use certain ZFP and other technology controlled by Sangamo for the purpose of researching, developing, manufacturing and commercializing licensed products developed under the agreement. We have also granted Biogen a non-exclusive, worldwide, royalty-free, fully paid license, with the right to grant sublicenses, of our interest in certain other intellectual property developed pursuant to the agreement. 
+
+Under the agreement, we received an upfront license fee of $20.0 million and are eligible to receive development milestone payments upon the achievement of specified regulatory, clinical development and commercialization milestones. The total amount of potential regulatory, clinical development, commercialization and sales milestone payments, assuming the achievement of all specified milestones in the agreement, is $293.8 million, including Phase 1 milestone payments of $7.5 million for each of the beta-thalassemia and SCD programs. In addition, we will also receive royalty payments for each licensed product that are a tiered double-digit percentage of annual net sales of each product. 
+
+The Agreement may be terminated by (i) us or Biogen for the uncured material breach of the other party, (ii) us or Biogen for the bankruptcy or other insolvency proceeding of the other party; (iii) Biogen, upon 180 days&#8217; advance written notice to us and (iv) Biogen, for certain safety reasons upon written notice to, and after consultation with, us. As a result, actual future milestone payments could be lower than the amounts stated above. 
+
+Amended Collaboration and License Agreement with Shire International GmbH (formerly Shire AG) in Human Therapeutics and Diagnostics 
+
+In January 2012 we entered into a collaboration and license agreement with Shire to research, develop and commercialize human therapeutics and diagnostics based on our ZFP technology. Under the agreement, we received an upfront license fee of $13.0 million. The two companies agreed to develop potential human therapeutic or diagnostic products for seven gene targets. The initial four gene targets were blood clotting Factors VII, VIII, IX and X, and products developed for such initial gene targets would be used for treating or diagnosing hemophilia. In June 2012, Shire selected a fifth gene target for the development of a ZFP therapeutic for treating HD. Shire had the right, subject to certain limitations, to designate two additional gene targets. Pursuant to the agreement, we granted Shire an exclusive, world-wide, royalty-bearing license, with the right to grant sublicenses, to use our ZFP technology for the purpose of developing and commercializing human therapeutic and diagnostic products for the gene targets. 
+
+On September 1, 2015, the Shire Agreement was amended such that Shire agreed to return to Sangamo the exclusive, world-wide rights to gene targets for the development and commercialization of ZFP Therapeutics for hemophilia A and B. Shire retains the rights and will continue to develop a ZFP Therapeutic for Huntington&#8217;s disease and a ZFP Therapeutic for one additional gene target yet to be named. Sangamo will provide certain target feasibility services, and upon Shire&#8217;s request, certain research activities according to a research plan as agreed upon by both companies. Such research activities performed by Sangamo will be reimbursed by Shire. Shire&#8217;s rights with respect to other targets contemplated in the original agreement revert to Sangamo. Under the revised agreement, each company is responsible for expenses associated with its own programs and will reimburse the other for any ongoing services provided. Shire is responsible for reimbursement of expenses related to obligations prior to the amendment date which will be recognized as revenue as expenses are incurred. Sangamo has granted Shire a right of first negotiation to license the hemophilia A and B IVPRP programs. Under the amended agreement, Shire does not have any milestone payment obligations with respect to the retained programs, but it is required to pay single digit percentage royalties to Sangamo, up to a specified maximum cap, on the commercial sales of ZFP Therapeutic products from such programs. Under the Agreement, Sangamo has full control over, and full responsibility for the costs of, the hemophilia programs returned to the Company, subject to certain diligence obligations and Shire&#8217;s right of first negotiation to obtain a license to such programs under certain circumstances. Sangamo is required to pay single digit percentage royalties to Shire, up to a specified maximum cap, on commercial sales of ZFP Therapeutic products from such returned programs. 
+
+The agreement may be terminated by (i) us or Shire, in whole or in part, for the uncured material breach of the other party, (ii) us or Shire for the bankruptcy or other insolvency proceeding of the other party and (iii) Shire, in its entirety, effective upon at least 90 days&#8217; advance written notice. 
+
+Strategic Partnerships in Non Therapeutic Applications of the Technology 
+
+Agreement with Sigma-Aldrich Corporation in Laboratory Research Reagents, Transgenic Animal and Commercial Protein Production Cell-line Engineering 
+
+In July 2007 we entered into a license agreement with Sigma. Under the license agreement, we agreed to provide Sigma with access to our proprietary ZFP technology and the exclusive right to use the technology to develop and commercialize research reagents products and services in the research field, excluding certain agricultural research uses that we previously licensed to DAS. 
+
+In October 2009 we expanded the license agreement with Sigma to include exclusive rights to develop and distribute ZFP-modified cell lines for commercial production of protein pharmaceuticals and certain ZFP-engineered transgenic animals for commercial applications. Under the terms of the agreement, Sigma made an upfront cash payment of $20.0 million, consisting of a $4.9 million purchase of 636,133 shares of our common stock, valued at $4.9 million, and a $15.1 million upfront license fee. Under the terms of the agreement, we were eligible to receive commercial license fees of $5.0 million based on a percentage of net sales and sublicensing revenue and thereafter a reduced royalty rate of 10.5% of net sales and sublicensing revenue. During the term of the license agreement, Sigma is obligated to pay us minimum annual payments, a share of certain revenues received by Sigma from sublicensees and royalty payments on the sale of licensed products and services. Sigma also has the right to sublicense the ZFP technology for research applications and we will receive 25% of any sublicensing revenues. We retain the sole right to use and license our ZFP technology for GMP production purposes, for the production of materials used in or administered to humans, and for any other industrial commercial use. In addition, upon the achievement of certain cumulative commercial milestones Sigma will make milestone payments to us up to an aggregate of $25.0 million. The agreements may be terminated by Sigma at any time with a 90-day notice or by either party upon an uncured material breach of the other party. As a result, actual future milestone payments could be lower than the amounts stated above. In the event of any termination, all rights to use our ZFP technology will revert to us, and Sigma will no longer be permitted to practice our ZFP technology or to develop or, except in limited circumstances, commercialize any products derived from our ZFP technology. 
+
+Other Programs and Partners in Transgenic Animal and Commercial Protein Production Cell-line Engineering 
+
+Prior to our agreement with Sigma, we marketed our ZFP TF and ZFN technology and intellectual property in products and areas outside ZFP Therapeutics directly to the pharmaceutical and biotechnology industry. We established agreements in cell line engineering for pharmaceutical protein production with Genentech and in the development of transgenic animals with Open Monoclonal Technology, Inc. (OMT) and F. Hoffmann-La Roche Ltd and Hoffmann-La Roche Inc. (collectively, Roche). 
+
+Genentech has continuing obligations to pay us an annual technology access fee and, for each product developed by Genentech containing a protein expressed by the modified cell line created using our ZFN technology, aggregate milestone payments of up to $5.4 million upon achievement of specified milestones relating to the development and commercialization of such products. 
+
+In December 2015 Ligand Pharmaceuticals Inc. (Ligand) acquired OMT. For any given OMT-derived product, Ligand has the right to buy out its future royalty payment obligations under the license agreement by paying a lump sum fee to us. Roche will pay milestone payments upon the achievement of certain clinical development milestones relating to products produced under such commercial license, and low-single-digit royalties on sales of such products. The aggregate milestone payments for therapeutic products will not exceed $5.8 million, but the diagnostics milestone payments are not similarly capped. Under the research and license agreement, on a product-by-product basis, Roche has the right to buy out its future royalty payment obligations by paying specified fixed amounts. 
+
+Agreement with Dow AgroSciences in Plant Agriculture 
+
+We and our collaborators have shown that ZFNs and ZFP TFs can be used to regulate and modify genes in plants. The ability to regulate gene expression with engineered ZFP TFs may lead to the creation of new plants that increase crop yields, lower production costs and are more resistant to herbicides, pesticides, and plant pathogens, which could permit the development of branded agricultural products with unique nutritional and processing characteristics. In addition, ZFNs may be used to facilitate the efficient and reproducible generation of transgenic plants. 
+
+In October 2005 we entered into an exclusive commercial license with DAS. Under this agreement, we provided DAS with access to our proprietary ZFP technology and the exclusive right to use the technology to modify the genomes or alter the nucleic acid or protein expression of plant cells, plants, or plant cell cultures. DAS also obtained a license to sell products incorporating or derived from plant cells generated using our ZFP technology, including agricultural crops, industrial products and plant-derived biopharmaceuticals. We have retained rights to use plants or plant-derived products to deliver ZFNs and ZFP TFs into humans or animals for diagnostic, therapeutic, or prophylactic purposes. 
+
+The agreement also provides for minimum sublicense fees each year due to us every October, provided the agreement is not terminated by DAS. Annual fees range from $250,000 to $3.0 million and total $25.3 million over 11 years. Furthermore, DAS has the right to sublicense our ZFP technology to third parties for use in plant cells, plants, or plant cell cultures, and we will be entitled to 25% of any cash consideration received by DAS under such sublicenses. We do not have any performance obligations with respect to the sublicensing activities to be conducted by DAS. DAS has the right to terminate the agreement at any time; accordingly, our actual sublicense fees over the term of the agreement could be lower than $25.3 million. In addition, each party may terminate the agreement upon an uncured material breach of the agreement by the other party. In the event of any termination of the agreement, all rights to use our ZFP technology will revert to us, and DAS w ill no longer be permitted to practice our ZFP technology or to develop or, except in limited circumstances, commercialize any products derived from our ZFP technology. 
+
+Funding from Research Foundations 
+
+California Institute for Regenerative Medicine 
+
+In May 2013 CIRM granted us a $6.4 million Strategic Partnership Award to develop a potentially curative ZFP Therapeutic for beta-thalassemia based on the application of our ZFN genome editing technology in HSPCs. The four year grant provides matching funds for preclinical work that will support an IND application and a Phase 1 clinical trial in transfusion-dependent beta-thalassemia patients which will be carried out at Children&#8217;s Hospital &#38; Research Center Oakland, and City of Hope in collaboration with our partner in this program, Biogen. In May 2015 Sangamo announced a consolidated development path for its beta-thalassemia and SCD programs using the &#8220;BCL11A Enhancer&#8221; target. Due to the switch to the BCL11A Enhancer strategy, CIRM and Sangamo terminated the Strategic Partnership Award as of June 30, 2015. Sangamo returned $3.0 million in unused funds received from CIRM under the award during the three months ended September 30, 2015. 
+
+In May 2014 CIRM agreed to fund a $5.6 million Strategic Partnership Award to fund clinical studies of a potentially curative ZFP Therapeutic for HIV/AIDS based on the application of our ZFN genome editing technology in HSPCs. The four year grant provides matching funds to support evaluation of our stem cell-based ZFP Therapeutic in a clinical trial in HIV-infected individuals conducted at City of Hope. The State of California has the right to receive, subject to the terms and conditions of the agreement between us and CIRM, payment from us, or our collaborators, from sales of a commercial product resulting from research and development efforts supported by grants, in accordance with Title 17, California Code of Regulations, Section 100600.
+
+INTELLECTUAL PROPERTY AND TECHNOLOGY LICENSES 
+
+Patents and licenses are important to our business. Our strategy is to file or license patent applications to protect technology, inventions and improvements to inventions that we consider important for the development of our genome editing and gene regulation technology. We seek patent protection and licenses that relate to our technology and candidates in our pipeline and/or may be important to our future. We have filed numerous patents and patent applications with the United States Patent and Trademark Office (USPTO) and foreign jurisdictions. This proprietary intellectual property includes methods relating to the design of zinc finger, TALE (Transcription activator-like effector) proteins and CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)/Cas editing systems, therapeutic applications of genome editing technology, enabling technologies related to our platform and the use of genome editing across a variety of applications. We rely on a combination of patent, copyright, trademark, proprietary know&#8211;how, continuing technological innovations, trade secret laws, as well as confidentiality agreements, materials transfer agreements, research agreements and licensing agreements, to establish and protect our proprietary rights. 
+
+Technology Licenses 
+
+We have licensed intellectual property directed to the design, selection, and use of ZFPs, ZFNs and ZFP TFs for genome editing and gene regulation from the Massachusetts Institute of Technology, Johnson &#38; Johnson, The Scripps Research Institute, the California Institute of Technology, City of Hope and the University of Utah. These licenses grant us rights to make, use and sell ZFPs, ZFNs and ZFP TFs under 15 families of patent filings. As of February 1, 2016, these patent filings have resulted in 17 issued U.S. patents and 41 granted foreign patents, with 4 currently pending U.S. patent applications and 9 pending applications in foreign patent offices. 
+
+We believe that these in-licensed patents and patent applications include several of the early and important patent filings directed at the design, selection, composition and use of ZFPs, ZFNs and ZFP TFs, particularly those licensed under agreements with the Massachusetts Institute of Technology, the University of Utah, Johnson &#38; Johnson and The Scripps Research Institute. 
+
+We have licensed intellectual property directed to the composition of two AAV vectors (AAV5 and AAV6) from the National Institute of Health and the University of Washington, respectively. The AAV5 license from the National Institute of Health is a nonexclusive license that will expire in 2021. The AAV6 license from the University of Washington is also a non-exclusive license 
+
+and will expire in 2017. Additionally, Sangamo has licensed intellectual property from the National Institutes of H ealth (NIH) relating to methods of production of production of AAV. This license will expire in 2021. 
+
+Massachusetts Institute of Technology 
+
+We entered into a patent license agreement with the Massachusetts Institute of Technology, or MIT, on May 9, 1996, as subsequently amended, whereby MIT granted us a worldwide exclusive license to technology and patents relating to the design, selection and use of ZFPs for all fields of use, including the right to sublicense. Under the patent license agreement, we are obligated to pay an annual license fee, low single-digit royalties of product sales, an up-front sublicense and annual sublicense fees, a percentage of its sublicense revenues, and milestone payments upon achievement of certain commercial development milestones. The aggregate milestone payments under the patent license agreement are $450,000, of which $150,000 has been paid. At the request of Sangamo, the patent license has been amended to remove some of the intellectual property in this license agreement that does not affect the development of our technology. The patent license agreement still expires upon the expiration of the last patent covered by the patent license agreement. Based on currently licensed patents, the patent license agreement will terminate on or about October 9, 2019. MIT may terminate the license agreement upon a material default by us that remains uncured following written notice. We may terminate the license agreement at any time upon six months&#8217; written notice. 
+
+University of Utah Research Foundation
+
+We entered into a patent license agreement with the University of Utah Research Foundation, on September 8, 2004, as subsequently amended, whereby Utah granted us a worldwide license to technology and patents relating to the use of ZFNs for all fields of use, including the right to sublicense. Under the patent license agreement, we are obligated to pay an annual license fee, low single-digit royalties of product sales, an up-front sublicense and annual sublicense fees, a percentage of its sublicense revenues, and milestone payments upon achievement of certain commercial development milestones. The license agreement expires on the expiration of the last patent covered by the patent license agreement. Based on currently issued patents, the license agreement will terminate on or about March 2, 2025. Utah may terminate the license agreement upon a default by us that remains uncured following written notice. We may end the agreement at any time upon 90 days written notice. 
+
+Johnson &#38; Johnson 
+
+We entered into a sublicense agreement with Johnson &#38; Johnson on May 9, 1996, whereby Johnson &#38; Johnson granted us a worldwide exclusive sublicense to technology and patents for the research, development and commercialization of human and animal therapeutic and diagnostic products using engineered ZFPs, including the right to sublicense. These patents were originally exclusively licensed by Johnson &#38; Johnson from The Scripps Research Institute. Under the sublicense agreement, we will pay low single-digit royalty payments based upon sales of license products by us or our sublicensees and a milestone payment upon the achievement of a commercial development milestone. The sublicense agreement expires upon the expiration of the last patent covered by the sublicense agreement. Based on currently issued patents and currently filed patent applications, the sublicense agreement will terminate on or about June 5, 2018. Johnson &#38; Johnson has the right to terminate the sublicense agreement upon a breach or default by us that remains uncured following written notice of such default. We may terminate the sublicense agreement at any time upon sixty days&#8217; written notice. 
+
+The Scripps Research Institute 
+
+We entered into a license agreement with The Scripps Research Institute on March 14, 2000, as subsequently amended, whereby The Scripps Research Institute granted us a worldwide exclusive license to technology and patents for the research, development and commercialization of products and services using engineered ZFPs, excluding the use of these engineered ZFPs in plant agriculture, therapeutics and diagnostics. Under the license agreement, we are required to pay a low-single digit royalty on sales of licensed products by us and our sublicensees, subject to an annual minimum. The license agreement expires upon the expiration of the last patent covered by the license agreement. Based on currently issued patents and currently filed patent applications, the license agreement will terminate on or about June 5, 2018. Each party may terminate the license agreement upon a material default by the other party that remains uncured following written notice. 
+
+Therapeutic Licenses
+
+We have entered into licenses potentially useful for specific therapeutic uses of our genome editing technologies with the Regents of the University of California and the Children's Medical Center Corporation. The patents included in these licenses relate to CNS disorders and hemoglobinopathies, respectively. These license include 3 patent families, including 5 issued foreign patents, 9 issued US patents, 34 pending foreign patents and 2 pending US patents.
+
+Sangamo Intellectual Property 
+
+In addition to our in-licensed patent portfolio, as of February 1, 2016, we had 141 families of Sangamo-owned or co-owned patent filings, including the acquired Ceregene patent estate, which totaled approximately 144 issued U.S. patents, 510 granted foreign patents, 110 pending U.S. patent applications and 470 pending foreign patent applications. These patent filings are directed to the design, composition and use of ZFPs, ZFNs, ZFP TFs and TALE proteins and CRISPR/Cas systems.
+
+As of February 1, 2016, the earliest active patents in our portfolio are set to begin expiring in 2017, with the average expiration of our currently issued patents expiring being mid-2025. However, these patents in our portfolio may be subject to Patent Term Adjustment (due to delays in patent prosecution by the USPTO), Patent Term Extension (due to review of a patented product by a regulatory agency) or terminal disclaimer. Additionally, patents that may be issued from our pending applications will extend the patent exclusivity of our patent estate. Accordingly, all dates given above for patent expirations are estimates and the actual dates of expirations may differ. 
+
+We believe that our licensed patents and patent applications, as well as the issued Sangamo patents and pending Sangamo patent applications, in the aggregate, will provide us with a substantial intellectual property position in our commercial development of ZFP technology. In this regard, patents issued to us, applied for by us, or exclusively and non-exclusively licensed to us, cover the following types of inventions, processes and products: 
+
+&#160;
+
+&#183; 
+
+ZFP and ZFN design, engineered nucleases, and compositions: includes DNA target site selection and zinc finger binding domain design and nuclease domain design (see newly issued US8962281), DNA nickases (see newly issued EP2313515), target site arrays, ZFP libraries databases and methods of construction, as well as methods to increase zinc finger binding specificity, nuclease activity (see newly issued EP2188384, US9121072, US9145565 and US9115409), linker designs and methods of making modified plant zinc finger proteins (see newly issued EP2415873 and EP2412812); 
+
+&#160;
+
+&#183; 
+
+ZFP targeted regulation of endogenous genes: methods relating to activation and inhibition of endogenous cellular genes, identification of accessible regions within chromatin, and regulation of endogenous plant genes; 
+
+&#160;
+
+&#183; 
+
+ZFP Therapeutics: Treatment of Huntington&#8217;s disease, cancer therapeutics, treatment of head and neck cancer, glioblastoma, pain, modulation of cardiac contractility and methods to regulate the glucocorticoid receptor, treatments for HIV; 
+
+&#160;
+
+&#183; 
+
+Nuclease Therapeutics: Treatments for HIV, SCD and beta-thalassemia (see patent publication US20140093913, 20150132269, 20150218253 and 20140080216, In Vivo Protein Replacement Platform for treatment of hemophilia and lysosomal storage diseases (see newly issued US9150847, patent publication US 20140112896, and US20140017214), genome editing (see newly issued US9222105), models for Parkinson&#8217;s Disease, regulation of the expression of PD1; Immunomodulatory therapeutics (see newly issued US8945868, US8956828 and patent publications US20140120622, US20150037304, US20140301990); Cystic Fibrosis (see newly issued US9161995); hemophilia (see newly issued US9175280 and EP2627665 and patent publication US20150159172); glioblastoma (see newly issued US9217026); 
+
+&#160;
+
+&#183; 
+
+Non-Therapeutic Applications of ZFPs: Identification of genes, analysis of gene regulation, structure and biological function, methods of agricultural biotechnology, methods of altering cellular differentiation state, and methods of introducing exogenous nucleic acids of interest into a safe harbor locus; 
+
+&#160;
+
+&#183; 
+
+Non-Therapeutic Applications of ZFNs: Methods for identification of regulatory DNA sequences, prediction of patient response to drug therapeutics, and development of cell lines for improved protein production , methods of transgenic animal development (see newly issued US9206404); 
+
+&#160;
+
+&#183; 
+
+Donor DNA design: Methods for designing optimal donors for transgene delivery (see newly issued US9005973, US9045763 and US9045763); 
+
+&#160;
+
+&#183; 
+
+Non-ZFP nucleases, methods of design and use (see newly issued US9150879 and patent publication US20150056705, 20150353917and 20150307561); 
+
+&#160;
+
+&#183; 
+
+Engineering of stem cells (see patent publication US20150110762); 
+
+&#160;
+
+&#183; 
+
+Methods for genome editing (see newly issued US9200266). 
+
+We have been advised that certain aspects of our technology can give us and our collaborators independence from third party patent claims to gene sequences. In general, under United States patent law, a patent may be obtained for any new and useful process, machine, manufacture, or composition of matter. An underlying theme of U.S. patent law, as related to biotechnology, is that the sequence of a gene, as it exists in the chromosome, is not patentable, even when newly discovered, although a cDNA corresponding to the transcription product of that gene may be. Accordingly, U.S. patent claims to DNA sequences can cover only isolated cDNAs, or modified nucleic acid sequences (e.g., a purified DNA fragment or a DNA sequence inserted into a vector). We have been advised that 
+
+U.S. patent claims to DNA sequences do not, and cannot, cover gene sequences as they exist in their natural chromosomal environment, and international patent law is even more stringent than U.S. patent law in this regard. Most current methods for over-expression of a gene or protein involve the introduction into a cell of a vector containing a DNA encoding the protein to be over-expressed. Since such a vector contains isolated cDNA sequences which encode the protein, it would be covered by any patent claims to those sequences. In contrast, our methods for over-expression utilize ZFP TFs that target endogenous genes as they exist in the chromosome. As a result, our gene regulation methods do not require the use of isolated cDNA sequences encoding the protein to be over-expressed and, our counsel has advised us, do not infringe patent claims to such sequences. Notwithstanding this advice, we realize that others could take a contrary position that could result in litigation. While we believe that we would prevail in any such litigation, the uncertainties involved in litigation generally make it impossible to provide assurance as to the ultimate outcome of such matters. See &#8220;Risk Factors&#8212;Because it is difficult and costly to protect our proprietary ri ghts, and third parties have filed patent applications that are similar to ours, we cannot ensure the proprietary protection of our technologies and products.&#8221; 
+
+The patent positions of pharmaceutical and biotechnology firms, including our patent position, are uncertain and involve complex legal and factual questions for which important legal tenets are largely unresolved and are subject to interpretation and refinement by the court system. Patent applications may not result in the issuance of patents and the coverage claimed in a patent application may be significantly reduced before a patent is issued. Although we have filed for patents on some aspects of our technology, we cannot provide assurances that patents will be issued as a result of these pending applications or that any patent that has been or may be issued will be upheld. The laws of some foreign countries may not protect our proprietary rights to the same extent as do the laws of the United States. For example, our issued European patents EP2281050, EP2171052 and EP2527435 have been opposed in Europe. We do not know what the outcome of these procedures will be. The claims of these patents may be amended such that claim scope is reduced or the patents may be revoked as a result of these procedures. 
+
+In the future, third parties may assert patent, copyright trademark, and other intellectual property rights to technologies that are important to our business. Any claims asserting that our products infringe or may infringe proprietary rights of third parties, if determined adversely to us, could significantly harm our business. See &#8220;Risk Factors&#8212;Because it is difficult and costly to protect our proprietary rights, and third parties have filed patent applications that are similar to ours, we cannot ensure the proprietary protection of our technologies and products.&#8221; 
+
+Estimated Licensing and Other Contingent Expenses 
+
+If we are successful in the development and commercialization of our products, we will be obligated by our license agreements to make sublicensing, milestone and royalty payments to some or all of the licensors mentioned above. We plan to continue to license and generate intellectual property internally covering the design, selection, composition and use of ZFPs; the genes encoding these proteins; the application of ZFPs, ZFNs and ZFP TFs in ZFP Therapeutics; and non-therapeutic applications of the technology including applications in research and plant agriculture, and intellectual property relating to TALE and CRISPR/Cas design and use. 
+
+COMPETITION 
+
+We, and our licensed partners, are the leaders in the research, development, and commercialization of DNA binding proteins for genome editing and regulation of gene expression. We are aware of several companies focused on other methods for editing genes and regulating gene expression and a limited number of commercial and academic groups pursuing the development of ZFP gene regulation and genome editing technology. The field of applied gene regulation and genome editing is highly competitive and we expect competition to persist and intensify in the future from a number of different sources, including pharmaceutical, agricultural, and biotechnology companies; academic and research institutions; and government agencies that will seek to develop ZFPs as well as technologies that will compete with our ZFP technology platform, such as TALE proteins and the CRISPR/Cas9 system. 
+
+Accordingly, our competitors may succeed in obtaining patent protection, receiving FDA approval, or commercializing ZFP Therapeutics or other competitive products before us. If we commence commercial product sales, we may be competing against companies with greater marketing and manufacturing capabilities, areas in which we have limited or no experience. In addition, any product candidate that we successfully develop may compete with existing products that have long histories of safe and effective use. 
+
+Although we are in the clinical development phase of operations and have no current therapeutic product sales, we believe the following companies, products and/or technologies may potentially be competitive with our technology or our products under development: 
+
+&#160;
+
+&#183; 
+
+Protein pharmaceuticals under development at pharmaceutical and biotechnology companies such as Pfizer, Baxter, Bayer, Novo Nordisk, Genzyme, Shire, BioMarin, Biogen, Acceleron and numerous other pharmaceutical and biotechnology firms. 
+
+&#160;
+
+&#183; 
+
+Gene therapy companies developing gene-based products in clinical trials. uniQure&#8217;s product for lipoprotein lipase deficiency (LPLD) was recently approved in Europe but no other products have yet been approved. Our competitors in 
+
+&#160;
+
+this category may include, but not be limited to, uniQure, BioMarin, bluebird bio, RegenX, Spark Therapeutics, Dimension Therapeutics, and Voyager Therapeutics. 
+
+&#160;
+
+&#183; 
+
+Cell therapy companies developing cell-based products. Our competitors in this category may include Novartis, Adaptimmune, bluebird bio, Cellectis SA, Juno Therapeutics, Kite Pharma and Lion Biotechnologies. 
+
+&#160;
+
+&#183; 
+
+Nuclease technologies under development for therapeutic applications of genome modification including companies such as Editas Medicine, CRISPR Therapeutics, Caribou BioSciences and Intellia Therapeutics developing the CRISPR/Cas9 system, Cellectis SA developing TALE nucleases and meganucleases, bluebird developing Homing Endonucleases and MegaTALs and Precision BioSciences, Inc. developing meganucleases. 
+
+&#160;
+
+&#183; 
+
+Antisense therapeutics and RNA interference technology, including RNAi and microRNA, which are technologies that may compete with ZFP Therapeutics in the development of novel therapeutic products acting through the regulation of gene expression. These technologies are being developed by several companies including Alnylam Pharmaceuticals, Inc., Ionis Pharmaceuticals, Inc., Genzyme (a Sanofi Company) and Regulus Therapeutics, LLC. 
+
+&#160;
+
+&#183; 
+
+Small molecules in development from both in-house drug discovery programs of pharmaceutical companies such as Pfizer, Inc., GlaxoSmithKline (GSK), Novartis, and Merck &#38; Co., Inc., as well as from biotechnology companies with expertise and capabilities in small molecule discovery and development such as Gilead, Genzyme, and Global Blood Therapeutics which has a small molecule product in development for SCD. 
+
+&#160;
+
+&#183; 
+
+Monoclonal antibody companies and product candidates from certain biotechnology firms such as Genentech, Inc. and Amgen. 
+
+We expect to face intense competition from other companies for collaborative arrangements with pharmaceutical and biotechnology companies; for establishing relationships with academic and research institutions, for licenses to proprietary technology and for subjects in our clinical trials of treatments for rare diseases. These competitors, either alone or with their collaborative partners, may succeed in developing technologies or products that are more effective or less costly than ours. 
+
+Our ability to compete successfully will depend, in part, on our ability to: 
+
+&#160;
+
+&#183; 
+
+develop safe, efficacious and commercially attractive proprietary products; 
+
+&#160;
+
+&#183; 
+
+obtain access to gene transfer technology on commercially reasonable terms; 
+
+&#160;
+
+&#183; 
+
+obtain required regulatory approvals; 
+
+&#160;
+
+&#183; 
+
+attract and retain qualified scientific and product development personnel; 
+
+&#160;
+
+&#183; 
+
+enter into collaborative and strategic partnerships with others, including our competitors, to develop our technology and product candidates; 
+
+&#160;
+
+&#183; 
+
+obtain and enforce patents, licenses or other proprietary protection for our products and technologies; 
+
+&#160;
+
+&#183; 
+
+formulate, manufacture, market and sell any product that we develop; and 
+
+&#160;
+
+&#183; 
+
+develop and maintain products that reach the market first and are technologically superior to or are of lower cost than other products in the market. 
+
+&#160;
+
+&#183; 
+
+recruit subjects into our clinical trials in a timely fashion. 
+
+GOVERNMENT REGULATION 
+
+The research, testing manufacturing and marketing of human therapeutics are extensively regulated in the United States and the rest of the world. 
+
+Before marketing in the United States, any therapeutic or pharmaceutical products we develop must undergo rigorous preclinical testing (generally conducted in mammalian cells and animals) and clinical trials in humans followed by a formal regulatory submission and an extensive regulatory clearance process conducted by the FDA under the federal Food, Drug and Cosmetic Act. The FDA regulates, among other things, the development, testing, manufacture, safety, efficacy, record keeping, labeling, storage, approval, advertising, promotion, sale and distribution of biopharmaceutical products. The regulatory review and final drug approval process, which includes preclinical testing and clinical trials of each product candidate, is lengthy, expensive and uncertain. Securing FDA approval requires the submission of extensive preclinical and clinical data and supporting information including manufacturing information and stability data to the FDA for each indication to establish a product candidate&#8217;s safety and efficacy. The approval process takes many years, requires the expenditure of substantial resources, involves post-marketing surveillance and may involve ongoing requirements for post-marketing studies. 
+
+Before commencing clinical investigations in humans in the United States , we must carry out preclinical testing. In addition, our proposed clinical studies that are conducted at a clinical site that carries out NIH-sponsored research require review from the Recombinant DNA Advisory Committee (RAC), which is the advisory board to the NIH, focusing on clinical trials invo lving gene transfer. 
+
+Preclinical tests include laboratory and animal studies to evaluate product characteristics, potential safety and efficacy. The results of these studies must be submitted to the FDA as part of an IND application, which must be reviewed by the FDA before proposed clinical testing in humans can begin. The FDA has 30 days to comment on the application and if the agency has no comments, we or our clinical partner may begin clinical trials. 
+
+Clinical trials are lengthy and are typically conducted in three sequential phases, but the phases may overlap or be combined in certain circumstances. At each stage of testing, the proposed clinical protocol must be reviewed by the FDA and reviewed and approved by an independent ethics committee or institutional review board of each participating center before it can begin. Phase 1 usually involves the initial introduction of the investigational drug into a small number of subjects to evaluate certain factors, including its safety and dose tolerance. Phase 2 usually involves trials in a limited patient population to evaluate dosage tolerance and appropriate dosage, identify possible adverse effects and safety risks, and evaluate preliminary efficacy of the drug for specific indications. Phase 3 trials usually further evaluate clinical efficacy and test further for safety by using the drug in its final form in an expanded patient population. Phase 2 and 3 trials, as well as certain Phase 1 trials, must be registered in a government database of clinical trials. Later clinical trials may fail to support the findings of earlier trials, which can delay, limit or prevent regulatory approvals. We have been engaged in clinical trials of our ZFP Therapeutic products since 2005. Since 2009 we have had an ongoing clinical program to evaluate SB-728-T, a ZFN modified autologous T-cell therapy for treatment of HIV. Within our HIV program we have an ongoing Phase 2 clinical trial SB-728-1101 Cohort 3* as well as a Phase 1/2 clinical trial of this same approach in HSPCs. Most subjects enrolled in completed clinical trials related to this program are in long-term follow-up. In 2015 we filed a RAC submission and an IND application for SB-FIX, which uses AAV delivery of our ZFNs for correction of hemophilia B in vivo , and a RAC submission for SB-318, using the same AAV delivery system for correction of IDUA deficiency for MPS I. Phase 1/2 clinical trials for both of these programs, SB-FIX-1501 for hemophilia B and SB-318-1502 for MPS I, will begin in the first half of 2016 and mid-2016, respectively.
+
+The results of the preclinical and clinical testing of a pharmaceutical product are submitted to the FDA in the form of a New Drug Application (NDA), or a Biologic License Application (BLA), for approval to commence commercial sales. In responding to an NDA or a BLA, the FDA may grant marketing approval, grant conditional approval (such as an accelerated approval), request additional information or deny the application if the FDA determines that the application does not provide an adequate basis for approval. Most research and development projects fail to produce data sufficiently compelling to enable progression through all of the stages of development and to obtain FDA approval for commercial sale. See also &#8220; Our potential therapeutic products are subject to a lengthy and uncertain regulatory process, and we may encounter unanticipated toxicity or adverse events or fail to demonstrate efficacy, causing us to delay, suspend or terminate the development of a ZFP Therapeutic. If these potential products are not approved, we will not be able to commercialize those products .&#8221; under &#8220;Risk Factors&#8221; below in Part I, Item 1A of this Form 10-K. 
+
+Outside the United States, our ability to market a product is contingent upon receiving marketing authorization from the appropriate regulatory authorities. The requirements governing the conduct of clinical trials, marketing authorization, pricing, and reimbursement vary widely from country to country. At present, foreign marketing authorizations are applied for at a national level; although, within the European Union (EU), a centralized registration procedure is available to companies wishing to market an &#8220;Advanced Therapies&#8221; product in more than one EU member state. If the regulatory authority is presented with adequate evidence of safety, quality, and efficacy, they will grant a marketing authorization. This foreign regulatory approval process involves all of the risks associated with FDA clearance discussed above. 
+
+We have hired personnel with expertise in preclinical and clinical development of therapeutic programs, clinical manufacturing and regulatory affairs to assist us in developing our programs and obtaining appropriate regulatory approvals as required. We also intend to work with collaborators who have experience in clinical development to assist us in obtaining regulatory approvals for collaborative products. See Risk Factors&#8212;&#8220;Our potential therapeutic products are subject to a lengthy and uncertain regulatory process, and if these potential products are not approved, we will not be able to commercialize those products and&#8212;Regulatory approval, if granted, may be limited to specific uses or geographic areas which could limit our ability to generate revenues.&#8221; 
+
+EMPLOYEES 
+
+As of February 1, 2016, we had 119 full-time employees, all of whom are located at our headquarters in Richmond, California. None of our employees are represented by a collective bargaining organization or covered by a collective bargaining agreement, nor have we experienced work stoppages. We believe that our relations with our employees are good. 
+
+AVAILABLE INFORMATION 
+
+We were incorporated in June 1995 in the state of Delaware. 
+
+Sangamo can be found on the internet at http://www.sangamo.com. We make available free of charge, on or through our internet site, our annual, quarterly, and current reports and any amendments to those reports filed or furnished pursuant to Section 13(a) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Information contained in our internet site is not part of, nor incorporated by reference into, this report. 
+
+&#160;
+
+&#160;
+

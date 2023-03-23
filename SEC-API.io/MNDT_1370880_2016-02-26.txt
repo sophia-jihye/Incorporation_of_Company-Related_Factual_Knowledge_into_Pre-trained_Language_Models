@@ -1,0 +1,342 @@
+ Item 1. Business 
+
+General 
+
+We provide a comprehensive cybersecurity solution for detecting, preventing, analyzing and resolving today's advanced cyber-attacks that evade legacy signature-based security products. Our cybersecurity solutions combine our purpose-built virtual-machine technology, threat intelligence, and advanced security expertise in a suite of products and services that reduces our customers&#8217; exposure to attacks by enabling accurate detection and rapid response. Our proprietary virtual machine-based technology delivers high efficacy detection and prevention, while also scaling in response to ever-increasing network performance requirements, to provide real-time protection to enterprises and governments worldwide. Our analysis and forensic solutions, threat intelligence subscriptions, managed services, compromise assessments, incident response and consulting services complement our threat prevention products to help organizations adapt their security profile as threats evolve. This adaptive approach to cybersecurity represents a paradigm shift in how IT security has been conducted since the earliest days of the information technology industry. We believe it is imperative for organizations to invest in this new approach to protect their critical assets from the global pandemic of cybercrime, hacktivism, cyber espionage and cyber warfare. 
+
+The new generation of cyber-attacks on organizations, including large and small enterprises and governments worldwide, is characterized by an unprecedented escalation in the complexity and scale of advanced malware created by criminal organizations and nation-states. These modern attacks are built on dynamic, stealthy and targeted malware that penetrates defenses in multiple stages and through multiple entry points of an IT network. These highly targeted, &#8220;single-use&#8221; cyber-attacks easily circumvent security solutions that rely on pattern-matching detection technologies. Additionally, because legacy solutions reference outdated signatures of past threats, they also generate a high number of false-positive alerts. 
+
+To address the shortcomings of signature-based security solutions, we developed a new threat prevention platform based on our purpose-built, virtual machine-based detection engine, MVX. Our comprehensive platform combines our MVX virtual execution engine and our cloud-based threat intelligence network to identify previously unknown threats and protect organizations at all stages of the attack lifecycle and across all primary threat vectors, including Web, email, file, endpoint and mobile. 
+
+Our over ten years of research and development in proprietary virtual machine technology, anomaly detection and associated heuristic, or experience-based, algorithms enables MVX to provide real-time, dynamic threat protection without the use of signatures while delivering high efficacy and network performance. Our MVX engine detonates, or &#8220;runs,&#8221; Web objects, executable code, suspicious attachments and files within virtual environments to detect and block the full array of modern threats, including attacks that leverage unknown vulnerabilities in widely used software programs, also known as &#8220;zero-day&#8221; attacks. Newly identified threats are quarantined to prevent exposure to the organization&#8217;s actual network environment, and information regarding such threats is correlated with other FireEye products within the organization through our management platform and sent to our Dynamic Threat Intelligence, or DTI, cloud. Our DTI cloud enables real-time global sharing of threat intelligence uploaded by our customers&#8217; cloud-connected FireEye appliances. 
+
+In December 2013, we acquired privately held Mandiant, a leading provider of advanced endpoint security products and professional service solutions. FireEye and Mandiant have been strategic partners with integrated product offerings since April 2012. We believe the combination of the two companies created the industry&#8217;s leading advanced threat protection vendor with the ability to find and stop attacks at every stage of the attack life cycle. The combination of our industry-leading security products and threat intelligence with products and services from Mandiant enables us to provide a complete solution for detecting, preventing, analyzing and resolving advanced cybersecurity threats across four distinct disciplines: 
+
+&#8226; 
+
+First, Mandiant provided endpoint-based threat detection, forensic and response solutions, and we have continued to develop Mandiant&#8217;s endpoint technology as part of our comprehensive security platform. The integration of threat intelligence from our endpoint products with our web, email, file and mobile platforms increases security teams' visibility into attacks and enables faster, more accurate decisions about potential security incidents occurring across an organization&#8217;s network and endpoints. 
+
+&#8226; 
+
+Second, Mandiant brings significant depth in intelligence on next-generation attacks and threat actors, which is continually gathered from ongoing monitoring of more than six million endpoints and through compromise assessments, incident response and remediation teams that serve on the front lines combating the most advanced attacks. When this depth of threat intelligence is paired with the breadth of the FireEye real-time threat intelligence gathered from more than ten million virtual machines every hour, organizations will have robust detection and contextual information about attempted attacks, including the level of risk, the identity of the attackers, and the intended target of the attacks. 
+
+&#8226; 
+
+Third, Mandiant&#8217;s team of highly skilled incident response experts has performed hundreds of incident response investigations across numerous industries at some of the largest organizations in the world. This role as first responder to high profile breaches fosters a trusted advisor relationship with organizations and enables long term strategic relationships. 
+
+&#8226; 
+
+Fourth, Mandiant brought its Managed Defense monitoring service to FireEye. The addition of these skills and expertise significantly expands our ability to offer value-added services to our customers, and was the basis for our FireEye-as-a-Service advanced security-as-a-service offering. 
+
+Our cybersecurity platform includes a family of software-based appliances, endpoint agents, cloud-based subscription services, support and maintenance, and professional consulting services. Our principal threat prevention appliance families address critical vectors of attack: Web, email, file, endpoint and mobile. We also offer a cloud-based email threat prevention solution that can be deployed either standalone or in conjunction with our appliance-based email solution. Our management appliances serve as a central nervous system unifying reporting and configuration, while monitoring and correlating attacks that simultaneously cross multiple vectors of the network, thereby increasing the efficacy of our security platform. Our management appliances enable us to cross-correlate intelligence regarding threats detected at the local implementation level with other FireEye appliances deployed across the organization to block multi-vector attacks and the exfiltration of critical data. 
+
+We maintain the efficacy of our solution by distributing our global threat intelligence through our DTI cloud. We also offer a cloud-based threat analysis platform that allows IT security analysts to analyze and prioritize attack alerts from security devices utilizing our repository of dynamic and contextual threat intelligence. 
+
+We also provide a family of forensic and analysis appliances and agents to enable investigation and remediation of breaches. Our endpoint forensics solution enables rapid identification and remediation of attacks that have penetrated an organization's defenses and are residing on an organization's endpoints, such as desktop computers, laptops or mobile devices. Our network forensics solution pairs high performance packet capture of network data with analysis tools to aid investigation efforts. We also offer a malware analysis appliance that provides IT security analysts with the ability to test, characterize and conduct forensic examinations on next-generation cyber attacks by simulating their execution path with our virtual machine technology. Our cloud-based mobile threat prevention platform identifies and stops mobile threats by analyzing mobile applications within our MVX engine. 
+
+Finally, we offer both incident response services to assist our customers who have been breached and compromise assessments, security program assessments and consulting services to help customers build and maintain their security programs. Additionally, we offer our FireEye-as-a-Service subscription services for management of FireEye devices and comprehensive monitoring of attacks based on our threat intelligence and security expertise. 
+
+Our sales model consists of direct and inside sales teams and channel partners that collaborate to identify new sales prospects, sell products and services, and provide post-sale support. We believe this approach allows us to maintain face-to-face connectivity with our customers, including key enterprise accounts, and helps us support our partners, while leveraging their reach and capabilities. Further, we believe our leading incident response, compromise assessment and security program assessment capabilities position us as a trusted advisor to our customers and offer us the opportunity to help customers prevent future breaches through the use of our products and services. As of December 31, 2015 , we had over 4,400 &#32;end-customers, including more than 680 , or approximately 34% , of the Forbes Global 2000. Our customers include leading enterprises in a diverse set of industries, including telecommunications, technology, financial services, public utilities, healthcare and oil and gas, as well as leading U.S. and international governmental agencies. 
+
+For 2015 , 2014 &#32;and 2013 , our revenue was $623.0 million , $425.7 million &#32;and $161.6 million , respectively, representing year-over-year growth of 46% &#32;for 2015 , 163% &#32;for 2014 &#32;and 94% &#32;for 2013 , and our net losses were $539.2 million , $443.8 million &#32;and $120.6 million , respectively. 
+
+We primarily market and sell our intelligence-led security platform to enterprise companies in a broad range of industries and to national, regional and local governments worldwide. Our business is geographically diversified, with 70% &#32;of our total revenue from the United States, 13% &#32;from Europe, the Middle East, and Africa (EMEA), 12% &#32;from Asia Pacific and Japan (APAC), and 5% &#32;from other regions in 2015 . See Note 16 contained in "Notes to Consolidated Financial Statements" in Item 8 of Part II of this Annual Report on Form 10-K for more information about customers and revenue and assets by geographic region. 
+
+We were incorporated in Delaware in February 2004 under the name NetForts, Inc., and changed our name to FireEye, Inc. in September 2005. Our principal executive offices are located at 1440 McCarthy Blvd, Milpitas, California 95035, and our telephone number is (408) 321-6300. Our website is www.fireeye.com. Information contained on, or that can be accessed through, our website is not incorporated by reference into this report, and you should not consider information on our website to be part of this report. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on the Investors portion of our web site as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. 
+
+We are organized and operate in a single segment. See "Management's Discussion and Analysis of Financial Condition and Results of Operations" included in Part II, Item 7 of this Annual Report on Form 10-K. 
+
+Our Products, Subscriptions and Services 
+
+Products 
+
+&#8226; 
+
+Threat Prevention Platform. Our Threat Prevention Platform consists of vector-specific appliance and cloud-based solutions that provide comprehensive advanced threat protection, from network to endpoint, for both inbound and outbound network traffic that may contain sensitive information. Our portfolio of Threat Prevention solutions includes the following appliances covering the Web, email, endpoint, file and mobile threat vectors: 
+
+&#8226; 
+
+Network Threat Prevention Platform (NX Series). Our Network Security NX Series appliances scale from 10 Mbps to multiple gigabits of throughput and are deployed in-line at enterprise Internet access points to analyze all web traffic. Utilizing our MVX engine, these appliances identify and block cyber threats deeply embedded inside web traffic, create real-time protection descriptors with the identification of new threats, and capture potential multi-protocol outbound communication data from threats that may already be inside the network. Our MVX engine detects advanced attacks exploiting unknown vulnerabilities as well as malicious code embedded in common Web and multimedia content. Our MVX engine executes suspicious software against a range of browsers, plug-ins, applications, and operating environments that are instrumental in tracking malicious actions. As potential threats can sometimes enter the network via user devices and may have been resident in the network previously, our MVX engine also analyzes outbound traffic for threats that may attempt to extract sensitive information or enable control of devices within the network by communicating with servers. Using our MVX engine, our Network Security platform confirms zero-day attacks, generates real-time security intelligence and captures dynamic callback destinations to defend against attacks. In September 2013, we introduced the NX 10000, a multi-gigabit throughput appliance that can be deployed in-line at Internet egress points to block Web exploits and outbound multi-protocol callbacks. In December 2013, we introduced our NX 900 to enable threat protection at various remote and branch offices as well as at the homes of an organization&#8217;s executive officers and key personnel. In June 2014, we added intrusion prevention systems functionality (IPS) to our Network Threat Prevention Platform to allow organizations to consolidate advanced threat prevention with traditional signature-based network security. This allows an organization to optimize security spending, reduce false positives to illuminate actual attacks, and enable compliance. In September 2014, we introduced the NX 7500 with support for Windows and Mac OSX on the same appliance. In February 2015, we introduced the NX 4400 to bridge performance requirements from 1 gigabit to multiple gigabits, and in October 2015, we added decryption capabilities to enable visibility into encrypted network traffic. 
+
+&#8226; 
+
+Email Threat Prevention Platform (EX Series and ETP). Our Email Threat Prevention appliances (EX series) and cloud-based solutions (ETP) detect and stop advanced attacks that exploit unknown operating system, browser, and application vulnerabilities as well as malicious code and attachments included in emails. Using our MVX engine, both the appliance and cloud-based solutions analyze email content as well as email attachments, including all common file and archive formats. In particular, our Email Threat Prevention solutions secure networks against spear phishing emails, which bypass traditional anti-spam and reputation-based technologies. Spear phishing attacks use individually targeted content to trick users into clicking on a malicious link or opening a document, and are frequently used by cybercriminals to extract sensitive information such as user IDs and passwords. Our MVX engine actively executes, and is able to quickly identify, links to compromised websites and malicious attachments and blocks spear-phishing emails. 
+
+&#8226; 
+
+Endpoint Threat Prevention Platform (HX Series). &#32;Our Endpoint Threat Prevention Platform is an appliance and endpoint agent system that equips security organizations to detect, analyze and resolve security incidents on desktops, laptops and other end-user devices using the threat detection algorithms of the MVX engine. Threat intelligence and alerts are correlated between our Network Threat Prevention and Endpoint Threat Prevention platforms to provide visibility across an organization and enable rapid containment. Additionally, the HX agent collects forensic data necessary for investigation and analysis of attacks. Our Endpoint Threat Prevention can be configured to sweep for indicators of compromise at regular intervals to identify new attacks and compromised devices and is a component of our FireEye-as-a-Service offering. In November 2015, we introduced HX Endpoint 3.0 with enterprise search and live response, enabling organizations to rapidly search for new threats across as many as 100,000 endpoints. 
+
+&#8226; 
+
+File Content Security (FX Series) . Our FX Series appliances analyze network file servers to detect and quarantine malicious software brought into the network through technologies that bypass traditional security solutions, such as online file sharing and associated collaboration tools. These appliances analyze files using our MVX engine and detect malicious code embedded in common file types, including PDF, Microsoft Office documents, archived files, and multimedia content such as QuickTime and other video, audio and image files. Our FX Series appliances perform recursive, scheduled, and on-demand scanning of accessible network file servers to continuously identify and quarantine resident threats. 
+
+&#8226; 
+
+Mobile Threat Prevention (MX Series) . Our Mobile Threat Prevention product allows organizations to identify malicious mobile apps and assess risk levels for other apps for Android and Apple devices. Using our MVX technology, we have threat intelligence from more than nine million mobile applications and assigned security and privacy risk levels for each. Our Mobile Threat Prevention platform includes a downloadable app and a management solution that can integrate with a number of the major mobile device management solutions. The management solution is available as an on-premise appliance or a cloud-based solution. 
+
+&#8226; 
+
+Security Management Products 
+
+&#8226; 
+
+Central Management System. Our Central Management System, or CMS, unifies reporting, configuration, and threat intelligence sharing and manages the overall deployment of the components of our Threat Prevention Platform. CMS appliances distribute threat intelligence from the DTI cloud and provide cross-enterprise threat data correlation to identify and block blended attacks across multiple attack vectors. CMS consolidates the management and reporting of activities in a unified security dashboard to provide a real-time view of an organization&#8217;s security profile. Customers generally purchase this appliance when they need to manage multiple FireEye appliances. 
+
+&#8226; Security Analysis Products 
+
+&#8226; 
+
+Threat Analytics Platform (TAP). &#32;Our Threat Analytics Platform, or TAP, is a cloud-based solution that enables security teams to identify and effectively respond to cyber threats by correlating enterprise-generated security event data from any security product with real-time threat intelligence from FireEye. The platform is designed to scale by keeping as much data online and searchable as business needs demand. Search results can be exported from the user interface for use in other incident response management tools as needed. 
+
+&#8226; 
+
+Malware Analysis System (AX Series). Our AX Series of appliances provide a secure environment to test, replay, characterize and document advanced malicious activities by allowing security teams to manually execute and inspect advanced malware, zero-day, and other advanced cyber-attacks embedded in files, email attachments, and Web objects. Using our MVX engine, AX analyzes the execution path of a particular malware sample to generate a dynamic and anonymized profile that can be distributed to other FireEye appliances on the network. Larger customers typically purchase the product to enable advanced and deeper analysis of potential malicious software outside of the real-time traffic scanning done by our Threat Prevention appliances. 
+
+&#8226; Security Forensics Products 
+
+&#8226; 
+
+Network Forensics Platform (PX Series). &#32;Our Network Forensics Platform appliances complement our Threat Prevention Platform by capturing and indexing full packets at extremely rapid speeds to allow organizations to investigate and resolve security incidents. Using our Network Forensics Platform in conjunction with our Threat Prevention Platform, security analysts can detect threats and view specific packets and sessions before, during, and after the attack to confirm what may have triggered a malware download or callback. This information can be used for rapid response and to develop future protective strategies. 
+
+&#8226; 
+
+Investigation Analysis System (AI Series). &#32;Our Investigative Analysis System provides a centralized, easy-to-use analytical interface to the Network Forensics Platform to provide data visualization and in-depth analytics to security analysts in a single centralized dashboard. Our Investigation Analysis System supports a number of configurations for single node and distributed architectures to optimize bandwidth and performance of metadata aggregation, queries, and analytics. 
+
+&#8226; 
+
+Mandiant Intelligent Response (MIR). &#32;The MIR endpoint forensics product enables remote investigation of endpoints and allows security teams to collect targeted forensic data for identification of attacker behavior, tools and techniques. 
+
+Subscription and Services 
+
+&#8226; 
+
+Product Subscriptions 
+
+&#8226; 
+
+Threat Intelligence Subscriptions 
+
+Dynamic Threat Intelligence Cloud (DTI). Our Dynamic Threat Intelligence, or DTI, cloud interconnects FireEye appliances deployed within customer networks, technology partner networks, and service providers around the world to gather and share real-time threat intelligence. Our DTI cloud is a bi-directional system that collects threat intelligence from our appliances, our global threat gathering network and our security labs, and distributes updated intelligence throughout our installed base of customers to provide real-time detection of advanced attacks. The network effects of a globally distributed, automated threat analysis network improve the efficacy of our Threat Prevention Platform and differentiate our security solutions. Customers are required to purchase either a one or three year subscription to our DTI cloud as part of their initial appliance purchase. 
+
+Advanced Threat Intelligence (ATI). Our Advanced Threat Intelligence augments our &#32; Dynamic Threat Intelligence with contextual information on threats and threat actors, including information on the identity of the attacker, likely motives, and details on attack patterns. This information can be used to search for additional compromises and enhance protective measures to prevent future attacks. ATI is an optional upgrade to our DTI Cloud subscription. 
+
+Advanced Threat Intelligence Plus (ATI+). ATI+ adds comprehensive dossiers, trends, news, and analysis on advanced cyber threat groups as well as profiles of targeted industries and information about the types of data threat groups are targeting. It also includes community threat sharing, which allows organizations to share threat intelligence with trusted partners to develop personalized community cyber defenses. Customers at this level can also benefit from our 24/7/365 critical alert and detection efficacy monitoring. 
+
+Email Threat Prevention Attachment/URL Engine. Our Email Threat Prevention Attachment/URL engine analyzes email attachments and URLs embedded in emails for threats. Customers who purchase the Email Threat Prevention appliance are also required to purchase one or three year subscriptions to our DTI cloud and the Email Threat Prevention Attachment/URL engine. 
+
+Email Threat Prevention Cloud (ETP). Our cloud-based Email Threat Prevention solution (ETP) is a software-as-a-service (SaaS) offering that protects cloud-based mailboxes from advanced threats using our MVX engine and provides anti-spam and anti-virus protection. ETP can be used to complement and extend our FireEye EX Series appliances, whereby the incoming emails are analyzed and quarantined by the anti-spam, anti-virus engine in the cloud to thwart known threats while the on-premise EX Series combats the advanced unknown threats and zero-day attacks. Subscriptions to the DTI cloud and Email Threat Prevention Attachment/URL engine are included in the per mailbox price of ETP. 
+
+Mobile Threat Prevention (MTP). Our Mobile Threat Prevention solution uses the MVX engine to analyze a combination of semantic, dynamic, and behavioral characteristics to provide a comprehensive risk assessment of mobile applications for Apple iOS and Android devices, and includes an MTP App, MTP Management and MTP Analysis. The MTP App is a lightweight mobile app that alerts mobile users to threats, communicates with the MTP Management appliance to display the threat scores of mobile apps, details malicious or unwanted behavior within each app, and examines factors associated with endpoint device compromise. MTP Management is a hybrid cloud offering that works with the MTP App to enable an enterprise-wide view into mobile device compromise and a customizable enforcement option. MTP Analysis is a standalone subscription that provides for deeper on-demand app forensics and analysis by security analysts. 
+
+&#8226; 
+
+Security-as-a-Service Offerings 
+
+&#8226; 
+
+FireEye-as-a-Service. Our FireEye-as-a-Service offering includes our Network Security Platform and our Endpoint Security Platform solutions, managed by our security experts through our security operations centers around the world. Using automated techniques and our advanced threat intelligence, our analysts monitor and analyze network traffic, regularly sweep enterprise endpoints for new malware, and actively hunt for new attacks and adversaries. Customers receive detailed analyses of threats with the context necessary to assess risk and prioritize action, as well as recommendations for containment and response. 
+
+&#8226; 
+
+Customer Support and Consulting Services 
+
+&#8226; 
+
+Incident response, compromise assessments and related consulting services. We have a team of cybersecurity experts to quickly respond to customers that have experienced a breach and help them understand the scope of the incident and quickly remediate the attack. Our cybersecurity experts will inform customers who is behind the attack (i.e., organized crime, nation state or malicious insider) and how much damage was done, and will work with them to recover from the incident while minimizing the impact of the event on the organization. We have performed hundreds of successful security investigations across all industries, organization sizes and technical environments. As part of our services, we can help customers scope their own security programs, provide litigation support and forensic analysis. Our cybersecurity experts also perform compromise assessments to analyze network, endpoint and log data to identify indications of present or historical attacker activity. These consulting services are marketed under the Mandiant brand. 
+
+&#8226; 
+
+Training and professional services. We offer training services to our customers and channel partners through our training department and authorized training partners. These services are designed to provide education regarding implementation, use and functionality, and maintenance and support of our products. We also provide training on managing the stages of our sales cycle for our channel partners. We offer professional services to customers for large implementations where expert technical resources are required. We provide professional services both directly to our customers, and indirectly through our authorized partners, who provide similar services to the end-customer. 
+
+&#8226; 
+
+Customer Support and Maintenance Services. We offer technical support on our products and subscriptions. We provide multiple levels of support and have regional support centers located across the globe to help customers solve technical challenges that they may encounter. In addition to post-sales support activities, our support organization works with our product management and engineering teams to ensure the attainment of defined pre-requisite quality levels for our products and services prior to release. Like our subscription services, our support and maintenance contracts have terms of either one or three years. 
+
+Our products are designed to address security requirements for small-to-mid sized businesses, remote offices, large enterprises, governments and service providers. We offer multiple appliance models, each with various features and capabilities. All our appliance products require subscriptions to threat intelligence and support, which are typically priced as a percentage of the appliance price in one or three year subscriptions. FireEye-as-a-Service and cloud-based offerings are offered in one or three year subscriptions and are typically priced based on appropriate use metrics. We typically invoice customers for the full term of the subscription up front. 
+
+For contributions to total revenue by significant class of revenues, see "Management's Discussion and Analysis of Financial Condition and Results of Operations" included in Part II, Item 7 of this Annual Report on Form 10-K. 
+
+Our Technology 
+
+Our MVX multi-vector execution engine has been built from the ground up to address today's modern threats, and is the key threat detection technology underlying our platform and threat intelligence network. Our foundational technologies in the MVX engine are: (i) line rate anomaly detection, (ii) proprietary virtual execution, (iii) exploit stage monitoring, (iv) cross correlation, (v) evolved network security architecture, and (vi) advanced endpoint validation and containment. We have built our technology over 10 years of research and development, and we believe it represents a significant competitive advantage for us. In 2015, we completed a multi-year effort to re-architect the MVX engine that increased overall analysis speed by three-fold and increased detection capacity by five-fold. 
+
+Custom Anomaly Detector. Commercial anomaly detectors are common-place in IT security. While such anomaly detectors are the foundation for IPS solutions, they generate a significant number of false positives, making their efficacy in detecting IT security threats challenging. We have custom built our anomaly detector with a focus on rapidly and accurately filtering potentially suspicious data from benign traffic, using algorithms based on real-time threat intelligence delivered through our DTI cloud. This filtering allows benign traffic to pass through and forwards suspicious traffic to the MVX detonation chamber to be executed in the target environment. While our virtual machine can process all traffic, using an anomaly detector helps increase network throughput and limit the amount of traffic that requires virtual execution. We are constantly improving the efficacy of our anomaly detector as we discover new threats. In addition to updates from MVX, our anomaly detector also receives updates from our DTI cloud in the attributes, or markers, it looks for when inspecting potentially suspicious data based on our global threat intelligence network. Our line rate anomaly detector minimizes missed attacks (false negatives) by aggressively categorizing traffic as suspicious. False alerts in the output of this system are automatically weeded out by our MVX engine, which confirms whether a suspicious flow or object is malicious. Because we first identify suspicious flows with our line rate anomaly detector and then, through a separate process, use our MVX engine to determine whether such suspicious flows are malicious, our solution is able to achieve negligible false-positive rates and missed attacks, which are the desired results of the ideal detection engine. 
+
+Proprietary Virtual Execution. Our appliances utilize a proprietary virtual execution engine to execute potentially suspicious software code. We have built our virtual execution engine to take advantage of advances in multi-core processing and run on many-core network processors. As we do not use a commercially available virtual machine technology, we are not encumbered by any incremental overhead beyond the execution of our environments and the detection of threats. We are also free to make rapid modifications to the code base of our virtual execution engine as attackers develop new evasion techniques, which our competitors are not able to do. Our virtual execution engine is capable of mimicking thousands of combinations of operating systems and user configurations, including several popular operating systems, applications and Web browsers. Once suspicious software code identified by the custom anomaly detector is loaded into the target environment, our MVX engine monitors the software&#8217;s behavior. Using a proprietary behavior analysis technology, MVX determines if the actions the code is taking in the virtual environment are malicious or benign. We have developed our MVX engine over the past 10 years to provide high performance threat protection through high detection efficacy, negligible false-positive rates, and minimal impact on network performance. 
+
+Exploit Stage Monitoring. &#32;Our appliances are able to monitor the full spectrum of data that enters the network. This allows visibility into all stages of an attack, including the exploit phase, where an attacker first compromises a program through a vulnerability in the software. The exploit object can be embedded in any piece of content, such as an ordinary Web page. This stage of the attack is invisible to network security technologies that are focused on examining files and executables once they are written to the hard drive on a host computer. Today's threats often encrypt the malware file they download, making detection impossible unless the attack has been monitored at the exploit phase. We are able to detect new exploits by running suspicious software through our MVX virtual execution engine. Additionally, MVX collects the encryption key necessary to properly execute the subsequent malware in a virtual environment. 
+
+Multi-Vector Cross Correlation. Our appliances, when deployed with the CMS appliance, communicate threat information between appliances in real-time as well as receive updates from our DTI cloud. This awareness allows our appliances, which are specific to threat vectors, to prevent sophisticated multi-vector threats, particularly blended attacks. This cross-fertilization of attack information enables our appliances to piece together separate and seemingly benign components to identify and block a blended or multi-vector attack. 
+
+Evolved Network Security Architecture. Our solutions are designed to operate as part of a comprehensive architecture to defend networks against today's advanced threats. This allows appliances to be deployed at the right vectors and have visibility into the traffic streams necessary to detect and block next-generation threats. The ability to monitor all traffic and file stores is critical to detecting next-generation threats that will enter through multiple vectors and move laterally across the network. This is impossible for legacy network security providers to achieve with architectures that were built around traditional threats and file scanning, which do not have visibility into the traffic sources today's advanced threats utilize during attacks. 
+
+Advanced Endpoint Validation and Containment. Our Endpoint Threat Prevention System is a hybrid appliance and endpoint agent-based solution that enables real-time, automated validation and investigation of security incidents across thousands of endpoints. Our Endpoint Threat Prevention technology allows customers to uncover attacks in their environment by identifying indicators of compromise, or IOCs, on endpoints left behind by attacker activity. Suspicious hosts are flagged using non-signature based intelligence so security analysts can confirm the scope of the attack, identify and contain all compromised hosts, and quickly secure their networks from further attack. 
+
+The Endpoint Threat Prevention Platform also enables security operations teams to correlate network and endpoint attack activity and threat intelligence. Organizations can automatically investigate alerts generated by other FireEye Threat Prevention Platforms, log management and network security products, apply proprietary intelligence from FireEye, or sweep for IOCs, to identify the devices that have been compromised and contain compromised endpoints with a single click using our Agent Anywhere technology. Our endpoint validation and containment technologies include: 
+
+&#8226; 
+
+Automatic creation of indicators of compromise coupled with rapid enterprise-wide search. &#32;Security teams are able to generate search parameters based on new threat intelligence, query tens or hundreds of thousands of endpoints to identify critical issues, and contain compromised hosts in a matter of minutes. 
+
+&#8226; 
+
+Agent Anywhere . Investigate any endpoint event even when the device is disconnected from the network. 
+
+&#8226; 
+
+Unified endpoint dashboard. &#32; In addition, our Endpoint Threat Prevention platform provides a unified dashboard that allows administrators to view malicious activity both on conventional endpoints like PCs as well as mobile devices. 
+
+Customers 
+
+Our customer base has grown from approximately 450 end-customers at the end of 2011 to over 4,400 &#32;end-customers as of December 31, 2015 , including 680 &#32;of the Forbes Global 2000. We provide products, subscriptions and services to customers of varying sizes, including enterprises, governmental agencies and educational and nonprofit organizations. Our customers include leading enterprises in a diverse set of industries, including telecommunications providers, financial services entities, Internet search engines, social networking sites, stock exchanges, electrical grid operators, networking vendors, oil and gas companies, healthcare and pharmaceutical companies and leading U.S. and international governmental agencies. Our business is not dependent on any particular end-customer as no end-customer represented more than 10% of our revenue for any of the years ended December 31, 2015 , 2014 &#32;or 2013 . For the years ended December 31, 2015 , 2014 &#32;and 2013 , one reseller represented 13% , 11% &#32;and 11% , respectively, of our total revenue. For the year ended December 31, 2013 , another reseller also represented 11% &#32;of our total revenue. For the year ended December 31, 2015 , one distributor represented 17% &#32;of our total revenue. No distributor represented 10% or greater of our total revenue for the years ended December 31, 2014 &#32;and 2013 . 
+
+Backlog 
+
+Orders for subscriptions and services for multiple years are typically billed in their entirety shortly after receipt of the order and are included in deferred revenue. The timing of revenue recognition for subscriptions and services may vary depending on the contractual service period or when the services are rendered. Products are shipped and billed shortly after receipt of an order. The majority of our product revenue comes from orders that are received and shipped in the same quarter. We do not believe that our product backlog at any particular time is meaningful because it is not necessarily indicative of future revenue in any given period, as the fulfillment of such orders may be delayed. 
+
+Sales and Marketing 
+
+Sales. Our sales organization consists of a direct sales team and channel partners who work in collaboration with our direct sales team to identify new sales prospects, sell products, subscriptions and services, and provide post-sale support. Our direct field sales team is responsible for securing enterprise and government accounts globally. Our direct inside sales organization is responsible for securing medium and smaller organizations that are focused on protecting key assets. We also recently built a strategic account 
+
+management team to support and expand sales within our customer base. Our sales cycle varies by industry and can last multiple months, although some transactions can close in a few weeks when an active breach is discovered. 
+
+We also have a dedicated team focused on channel sales who manage the relationships with our value-added reseller and distributor partners and work with these channel partners in winning and supporting customers. We believe this direct-touch sales approach allows us to leverage the benefits of broader market coverage provided by a reseller channel as well as maintain a face-to-face connection with our customers, including key enterprise accounts. 
+
+We have also cultivated alliances with non-traditional partners to generate customer referrals and extend our technologies and sales coverage to new segments. These relationships include relationships with insurance providers, large systems integrators and managed service providers, and we have engaged in joint solution development with leading providers of engineering services and payment systems. 
+
+Our sales organization is supported by sales engineers with deep technical domain expertise who are responsible for pre-sales technical support, solutions engineering for our customers, proof of concept work and technical training for our channel partners. We believe that, by providing a proof of concept to potential customers, we are able to contrast the effectiveness of our platform versus our competitors in identifying suspicious and potentially malicious software code in their actual IT environments. Our sales engineers also act as the liaison between customers and our marketing and product development organizations. 
+
+As part of our sales strategy, we often provide prospective customers with our products for a short-term evaluation period. In such cases, our products are deployed within the prospective customer&#8217;s network, typically for a period ranging from one week to several months. During this period, the prospective customer conducts evaluations with the assistance of our system engineers and members of our security research team. These evaluations have been part of our ordinary course business practices for the past three years, and we often discover incidents of next-generation threats that successfully evaded the prospective customers&#8217; existing security infrastructure, including traditional firewalls, next-generation firewalls, intrusion prevention systems, anti-virus software, email security and Web filtering appliances. By deploying our platform, organizations can stop inbound attacks and outbound theft of valuable intellectual property and data with a negligible false-positive rate, enabling them to avoid potentially catastrophic financial and intellectual property losses, reputational harm and damage to critical infrastructures at a lower total cost of ownership compared to many other security solutions. 
+
+Marketing. Our marketing is focused on building our brand reputation and market awareness for our platform, driving customer demand and a strong sales pipeline, and working with our channel partners around the globe. Our marketing team consists primarily of corporate marketing, channel marketing, account/lead development, operations and corporate communications. Marketing activities include demand generation, advertising, product launch activities, managing our corporate Website and partner portal, trade shows and conferences, press and analyst relations, and customer awareness. We are also actively engaged in driving global thought leadership programs through blogs and media and developing rich content such as the global cyber maps and threat reports. 
+
+Technology Alliance Partners 
+
+FireEye has built a robust ecosystem of Technology Alliance Partners who, through integration and joint go-to-market efforts, extend the breadth and depth of cybersecurity and protection customers gain from FireEye. Spanning multiple technology categories, including network monitoring vendors, security information and event management vendors, network equipment vendors, forensic software vendors and web application firewall vendors, these partnerships provide for threat intelligence sharing, cross-vendor integrations, and joint solution development. By helping to ease the complications that organizations face when implementing multi-layered security solutions, our technology alliances facilitate integrated solution design, accelerate the time to realize value, and enhance our role as a strategic security partner. 
+
+Government Affairs 
+
+We maintain relationships with several governments around the globe. Our thought leadership in defending against next-generation threats has helped to shape the legislative, regulatory and policy environment to better enhance these governments&#8217; individual and collective cyber posture. As part of this effort, we contribute to the evolving standard-making processes, help define best practices in various jurisdictions and help organizations of all sizes better understand the cyber threat landscape. We also help governments identify future needs and requirements. In the United States, David G. DeWalt, our Chief Executive Officer, is a member of President Obama&#8217;s National Security Telecommunications Advisory Committee, which provides recommendations to the President on how to assure vital telecommunications links through any event or crisis, and help the nation maintain a reliable, secure and resilient national communications posture. Through these and related activities, we engage on the front lines of emerging cybersecurity related public policy and use our knowledge and insight to improve the cybersecurity of our government and industry customers. 
+
+Manufacturing 
+
+The manufacturing of our security products is outsourced to principally one third-party contract manufacturer. This approach allows us to reduce our costs as it reduces our manufacturing overhead and inventory and also allows us to adjust more quickly to changing customer demand. Our manufacturing partner assembles our products using design specifications, quality assurance 
+
+programs, and standards that we establish, and it procures components and assembles our products based on our demand forecasts. These forecasts represent our estimates of future demand for our products based upon historical trends and analysis from our sales and product management functions as adjusted for overall market conditions. 
+
+Our primary contract manufacturer is Flextronics Telecom Systems, Ltd., or Flextronics. The manufacturing agreement we have entered into with Flextronics does not provide for any minimum purchase commitments and had an initial term of one year and automatically renews for one-year terms, unless either party gives written notice to the other party not less than 90 days prior to the last day of the applicable term. Additionally, this agreement may be terminated by either party (i) with advance written notice provided to the other party, subject to certain notice period limitations, or (ii) with written notice, subject to applicable cure periods, if the other party has materially breached its obligations under the agreement. 
+
+Research and Development 
+
+We invest substantial resources in research and development to enhance our virtual execution engine, build add-on functionality to our products and improve our core technologies. We believe that hardware, software and cloud-based technologies are critical to expanding our leadership in the security industry. Our engineering teams have deep networking and security expertise and work closely with our customers to identify their current and future needs. Additionally, our Mandiant consultants use our products in their incident response and compromise assessment engagements and provide continual feedback to our engineering teams on product performance, detection efficacy, evasion techniques and attack trends. 
+
+In addition to our focus on platform expansion and enhancement, our research and development teams are focused on developing automation tools and machine learning techniques to reduce the time to discover and distribute new threat intelligence, as well as generate efficiencies in our services offerings. We are also investing in security platform management capabilities to provide unified reporting and security orchestration features to customers in a single dashboard. 
+
+We maintain research and development activities across the globe with teams located in Germany, India, Ireland, Japan, Singapore and the United States. 
+
+Research and development expense totaled $279.5 million , $203.2 million &#32;and $66.0 million &#32;for the years ended December 31, 2015 , 2014 &#32;and 2013 , respectively. 
+
+Competition 
+
+We operate in the intensely competitive IT security market which is characterized by constant change and innovation. Changes in the threat landscape and broader IT infrastructures result in evolving customer requirements for security. Several vendors have either introduced new products or incorporated new features into existing products that compete with our solutions. Our current and potential future competitors fall into six general categories: 
+
+&#8226; 
+
+large networking vendors such as Cisco and Juniper that may emulate or integrate features similar to ours into their own products; 
+
+&#8226; 
+
+large companies such as Intel, IBM and HPE that have acquired large IT security specialist vendors in recent years and have the technical and financial resources to bring competitive solutions to the market; 
+
+&#8226; 
+
+independent security vendors such as Palo Alto Networks and Trend Micro that offer products that claim to perform similar functions to our platform; 
+
+&#8226; 
+
+small and large companies, including new entrants, that offer point solutions that compete with some of the features present in our platform; 
+
+&#8226; 
+
+providers of traditional IT security solutions, such as Symantec, that we may compete with in the future; and 
+
+&#8226; 
+
+other providers of incident response and compromise assessment services. 
+
+As our market grows and IT budgets are allocated to support protection from advanced threats, it will attract more highly specialized vendors as well as larger vendors that may continue to acquire or bundle their products more effectively. The principal competitive factors in our market include: 
+
+&#8226; 
+
+ability to deliver the combination of technology, intelligence and expertise necessary to combat the current threat landscape; 
+
+&#8226; 
+
+ability to detect current threats by overcoming the limitations of signature-based approaches, while maintaining a low rate of false-positive alerts; 
+
+&#8226; 
+
+scalability, throughput and overall performance of the virtual machine technology; 
+
+&#8226; 
+
+visibility into all stages of an attack, especially the exploit phase; 
+
+&#8226; 
+
+breadth and richness of the shared threat intelligence, including threat intelligence on cyber crime, cyber espionage, hacktivism, attacks on critical infrastructure and nation-state attacks; 
+
+&#8226; 
+
+flexible deployment options, including on-premise appliances, software in the cloud, or a hybrid of both; 
+
+&#8226; 
+
+brand awareness and reputation; 
+
+&#8226; 
+
+strength of sales and marketing efforts; 
+
+&#8226; 
+
+product extensibility and ability to integrate with other technologies in the network infrastructure; 
+
+&#8226; 
+
+ease of use; 
+
+&#8226; 
+
+price and total cost of ownership; and 
+
+&#8226; 
+
+ability to provide an orchestrated solution of products and services for detecting, preventing and resolving advanced cybersecurity threats across multiple attack vectors. 
+
+We believe we compete favorably with our competitors on the basis of these factors as a result of the features and performance of our platform, the ease of integration of our products with network infrastructures, the breadth of our services and solution offerings and the relatively low total cost of ownership of our products. However, many of our competitors have substantially greater financial, technical and other resources, greater name recognition, larger sales and marketing budgets, deeper customer relationships, broader distribution, and larger and more mature intellectual property portfolios. 
+
+Intellectual Property 
+
+Our success depends in part upon our ability to protect our core technology and intellectual property. We rely on, among other things, patents, trademarks, copyrights and trade secret laws, confidentiality safeguards and procedures, and employee non-disclosure and invention assignment agreements to protect our intellectual property rights. We file patent applications to protect our intellectual property and believe that the duration of our issued patents is sufficient when considering the expected lives of our products. We cannot assure you whether any of our patent applications will result in the issuance of a patent or whether the examination process will result in patents of valuable breadth or applicability. In addition, any patents that may issue may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing them. We also license software from third parties for integration into our products, including open source software and other software available on commercially reasonable terms. 
+
+We control access to and use of our proprietary software, technology and other proprietary information through the use of internal and external controls, including contractual protections with employees, contractors, end-customers and partners, and our software is protected by U.S. and international copyright, patent and trade secret laws. Despite our efforts to protect our software, technology and other proprietary information, unauthorized parties may still copy or otherwise obtain and use our software, technology and other proprietary information. In addition, we intend to expand our international operations, and effective patent, copyright, trademark, and trade secret protection may not be available or may be limited in foreign countries. 
+
+Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation regarding patent and other intellectual property rights. If we become more successful, we believe that competitors will be more likely to try to develop products that are similar to ours and that may infringe our proprietary rights. It may also be more likely that competitors or other third parties will claim that our products infringe their proprietary rights. In particular, large and established companies in the IT security industry have extensive patent portfolios and are regularly involved in both offensive and defensive litigation. From time-to-time, third parties, including certain of these large companies and non-practicing entities, may assert patent, copyright, trademark, and other intellectual property rights against us, our channel partners, or our end-customers, whom our standard license and other agreements obligate us to indemnify against such claims. Successful claims of infringement by a third party, if any, could prevent us from distributing certain products or performing certain services, require us to expend time and money to develop non-infringing solutions, or force us to pay substantial damages (including, in the United States, treble damages if we are found to have willfully infringed patents), royalties or other fees. We cannot assure you that we do not currently infringe, or that we will not in the future infringe, upon any third-party patents or other proprietary rights. For example, we are currently a party to claims alleging, among other things, patent infringement, which are in the early stages of litigation. See &#8220;Risk Factors&#8212;Risks Related to Our Business and Our Industry&#8212;Claims by others that we infringe their proprietary technology or other rights could harm our business&#8221; for additional information. 
+
+Business Seasonality 
+
+For discussion of seasonal trends, see our quarterly results of operations discussion within "Management's Discussion and Analysis of Financial Condition and Results of Operations" included in Part II, Item 7 of this Annual Report on Form 10-K. 
+
+Employees 
+
+As of December 31, 2015 , we had approximately 3,100 &#32;employees. None of our employees is represented by a labor organization or is a party to any collective bargaining arrangement. We have never had a work stoppage, and we consider our relationship with our employees to be good. 
+
+Facilities 
+
+We currently lease approximately 223,000 &#32;square feet of space for our corporate headquarters in Milpitas, California under lease agreements that expire during the year ended December 31, &#32; 2018 . We maintain additional offices throughout the United States and various international locations including, Australia, Dubai, Germany, India, Ireland, Japan, Singapore and the United Kingdom. We believe that our current facilities are adequate to meet our ongoing needs, and that, if we require additional space, we will be able to obtain additional facilities on commercially reasonable terms. 
+
+Legal Proceedings 
+
+The information set forth under "Litigation" in Note 9 contained in the "Notes to Consolidated Financial Statements" in Item 8 of Part II of this Annual Report on Form 10-K is incorporated herein by reference. 
+

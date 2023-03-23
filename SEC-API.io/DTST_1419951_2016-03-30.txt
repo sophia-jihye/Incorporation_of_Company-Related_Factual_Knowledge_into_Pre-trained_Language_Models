@@ -1,0 +1,296 @@
+ ITEM 1. DESCRIPTION OF BUSINESS 
+
+&#160;
+
+Overview 
+
+&#160;
+
+OVERVIEW OF DATA STORAGE CORPORATION &#38; INDUSTRY: 
+
+&#160;
+
+Data Storage Corporation (&#8220;DSC&#8221; or &#8220;the Company&#8221;) is focused on our infrastructure, disaster recovery and email archival and compliance solutions. Our mission: Protecting our client&#8217;s data, ensuring business continuity, assisting in their compliance requirements and giving our clients better control over their digital information. We continue to stay on top of this dynamic industry with new solutions and services. The Company owns intellectual property with our proprietary email archival and data analysis software, Message Logic. We provide Recovery Clouds for Managed Service Providers, so that these companies can enter the industry of providing Disaster Recovery and Business Continuity solutions at a lower entry point. Our IBM solutions continue to grow with our joint venture, Secure Infrastructure and Services LLC, leading the way for Infrastructure as a Service on IBM&#8217;s Power i systems for the past two years.
+
+&#160;
+
+DSC is a 15 year veteran in cloud storage and cloud computing providing data protection, disaster recovery, business continuity and compliance solutions that assist organizations in protecting their data, minimizing downtime and ensuring regulatory compliance. Serving the business continuity market, DSC&#8217;s clients save time and money, gain more control and better access to data and enable a high level of security for their data. Solutions include: Infrastructure-as-a-Service, data backup, recovery and restore, high availability data replication services; email archive and compliance for compliance officer alerts and e-discovery; continuous data protection; data de-duplication; and virtualized system recovery. DSC has forged relationships with leading organizations.
+
+&#160;
+
+Headquartered in Garden City, NY, with officers in New York City and Providence, Rhode Island, DSC offers its solutions and services to businesses within the healthcare, banking and finance, distribution services, manufacturing, construction, education, and government industries.
+
+&#160;
+
+Our Continuing Strategy 
+
+&#160;
+
+DSC derives revenues from long-term subscription and professional services contracts related to the implementation of solutions that provide protection of critical computerized data. In 2009, revenues consisted primarily of offsite data backup, de-duplication, continuous data protection and cloud disaster recovery solutions, protecting information for our clients. In 2010, we expanded our solutions based on the asset acquisition of SafeData, a provider of disaster recovery and business continuity for IBM&#8217;s mid-range servers, Power i. In 2013, we continued to assimilate organizations, expanded our technology, as well as our technical group and positioned the new organization for growth. In October 2012, we purchased the software and assets of Message Logic, an email archival and compliance software. We deliver our solutions over highly reliable, redundant and secure fiber optic networks with separate and diverse routes to the internet from data centers in various states in the U.S.
+
+&#160;
+
+DSC is positioned to leverage our infrastructure, data center, equipment capacity and leadership team to grow revenue to significant levels. Positioned for organic growth, our strategy will be to grow through acquisition of synergistic solutions. DSC believes opportunities exist to acquire service providers to enhance our products and services portfolio, increase our distribution channels, expand our management and increase our cash flow.
+
+&#160;
+
+Our objective with acquisitions is to reduce costs through economies of scale while increasing market share and consolidating efforts. We believe that through a strategy of partnership program, as well as acquisition of synergistic service providers we can create significant value.
+
+&#160;
+
+We continue to believe that the opportunity exists today to acquire and consolidate synergetic companies in this fragmented industry. This strategy will enable DSC to create an international presence and a recognizable premiere brand. The roll up of these technical consulting companies and system integrators will also form a powerful distribution channel for both our current and future service offerings.
+
+&#160;
+
+&#160;
+
+&#160;
+
+DESCRIPTION OF SERVICES AND SOLUTIONS 
+
+&#160;
+
+DSC&#8217;s core competencies are the following: Email Archival and Data Analysis, Data Vaulting, Virtual Disaster Recovery and High Availability for Intel and IBM infrastructures. DSC has entered in agreements to provide solutions Microsoft 365 and Hosted Email in 2016.
+
+&#160;
+
+BUSINESS CONTINUITY SOLUTION: The Recovery Cloud : 
+
+&#160;
+
+DSC offers a fully automated service designed to reduce the overall costs associated with backup and recovery of application and file servers that enables organizations to centralize and streamline their data protection process. Business-critical data can be backed up any time while servers are up and running.
+
+&#160;
+
+The essence of data backup is the scheduled movement of &#8220;point-in-time&#8221; snapshots of data across a network to a remote location. DSC&#8217;s disk-to-disk backup and recovery solution is reliable and easy-to-use. As part of this service, DSC offers Continuous Data Protection (&#8220;CDP&#8221;), delta block processing, data de-duplication and large volume protection.
+
+&#160;
+
+Significant advantages over traditional backup software: 
+
+&#160;
+
+&#9679; Immediate off-site backup &#9679; Reduced backup windows &#9679; Elimination of tape management issues &#9679; Minimized costs associated with distributed backups &#9679; Elimination of human intervention &#9679; Encryption of all backed up data &#9679; Optimized bandwidth &#160;
+
+BENEFITS AND FEATURES OF THE RECOVERY CLOUD: 
+
+&#160;
+
+Data Archiving &#8211; Lifecycle Management 
+
+&#160;
+
+Backup data must be managed throughout its life cycle to provide the best data protection, meet compliance regulations and to improve recovery time objectives (&#8220;RTO&#8221;). DSC offers policy-based file archiving and manages archiving and restoration of data from backup sessions, reducing the cost of inactive files on-line. DSC creates restorable point-in-time copies of backup sets for historical reference to meet compliance objectives and creates Certificates of Destruction. All of an enterprise's data can be placed into one of two categories; Critical information which is needed for day-to-day operations and resides in the system's primary storage for fast access; Important information is the historical, legal and regulatory information that can safely be archived to secondary storage, lower cost disk or tapes stored offsite.
+
+&#160;
+
+Continuous Data Protection (&#8220;CDP&#8221;) 
+
+&#160;
+
+What if a database is corrupted in the middle of the workday? As data continually mounts in today&#8217;s fast paced business environment, organizations need to protect their systems on an ongoing basis, or risk losing mission-critical data, information, and transactions, as well as associated business revenue. CDP solutions employ sophisticated I/O, CPU, and network throttling to achieve efficiency and reliability. Moreover, to protect against connectivity failures and interruptions, CDP features an auto resume mechanism that sustains replication and adapts according to the environment to achieve optimal and predictable performance.
+
+&#160;
+
+Our technology will identify and propagate only that sector of data to the disaster recovery site, effectively reducing bandwidth and storage consumption. CDP also employs data compression and encryption to maximize network bandwidth utilization and ensure end-to-end security between the primary and DR site.
+
+&#160;
+
+&#160;
+
+&#160;
+
+Microsoft Exchange 
+
+&#160;
+
+Ensure business-critical e-mail data is protected against application or hardware-based corruption or loss, user error, or a natural disaster with our solution. Designed with ease of use in mind, our solution provides Exchange Server 2000/2003/2007 complete protection down to the individual mailbox or even an individual mail message.
+
+&#160;
+
+BUSINESS CONTINUTY SOLUTION: Disaster Recovery WITH STAND BY SERVERS: A data recovery solution leveraging electronic vaulting technology and standby servers for businesses with recovery time objectives of 10 hours or less operating on Intel or IBM system i platforms.
+
+&#160;
+
+Disaster Recovery for Intel Windows and IBM Power i 
+
+&#160;
+
+Organizations may not require real-time recovery. For those with recovery time objectives of 10 hours or less, DSC&#8217;s Disaster Recovery subscription-based service is a viable option requiring little or no initial capital expenditure.
+
+&#160;
+
+Available for the IBM System iSeries, UNIX, AIX and Windows operating systems. Instantly transfers data off-site to one of DSC&#8217;s secure data centers. All data is encrypted prior to transmission and remains encrypted &#8220;in-flight&#8221; and &#8220;at rest&#8221; to ensure protection and to meet today&#8217;s compliance standards.
+
+&#160;
+
+Benefits of DR include: 
+
+&#160;
+
+&#9679; Fast recovery times (in hours, not days) &#9679; No tapes to get lost or damaged &#9679; Virtual recovery that fully protects your server investment &#9679; Eliminate data recovery burden on IT resources &#160;
+
+High Availability / Replication for both Windows and IBM Power i 
+
+&#160;
+
+Our cloud-based HA services provide businesses with cost-effective access to best-in-class replication technologies for organizations of all sizes, operating in Windows, IBM iSeries/AS400, MS Windows, UNIX, Linux and AIX environments. For those companies that have recovery time objectives of 1 hour or less, DSC&#8217;s HA solution meets the high availability demands of their business. DSC&#8217;s HA solution is a subscription-based high availability offering. For a monthly subscription fee and long-term contract, DSC creates and maintains a mirror of its clients&#8217; mission-critical systems and data at a secure off-site data center ensuring their business is &#8220;switch ready.&#8221; During either planned or unplanned downtime, DSC&#8217;s HA solution ensures the business will continue to operate, by providing an essential Infrastructure-as-a-service (IaaS), switchable &#8220;mirror&#8221; of a client&#8217;s data and applications.
+
+&#160;
+
+In the event of an outage, the DSC system becomes the client&#8217;s production system. When the client&#8217;s production system is again operational, the DSC server updates the client&#8217;s system with any new data. When downtime is planned, the customer can switch to the DSC server and run its production applications.
+
+&#160;
+
+Benefits of DSC&#8217;s HA include: 
+
+&#160;
+
+&#9679; Data and application availability in one hour or less &#9679; Cost-effective &#9679; Easy to implement and manage &#9679; Reliable backup and recovery &#160;
+
+Cloud Based IBM Power i IaaS: 
+
+&#160;
+
+A fully managed service, offering &#8220;capacity on demand&#8221; for IBM Power Systems (AS400/IBM i, AIX) and Windows based applications. This infrastructure as a service is secure and reliable solution for enterprises. IBM iSeries infrastructure is provided through our Joint Venture, Secure Infrastructure and Services, LLC. IBM Power i servers are turned up in hours instead of weeks and on demand. Distributed through our partnership network.
+
+&#160;
+
+&#160;
+
+&#160;
+
+Message Logic 
+
+&#160;
+
+Email Archival, compliance &#38; analytics*: Services designed to keep email and message content safe, secure and accessible with powerful, cost-efficient email and IM archiving, monitoring and retrieval that is flexible, scalable and dependable.
+
+&#160;
+
+Our MLArchiver has taken email archiving to a new level by combining archiving with advanced analytics. We deliver our technology as the only certified VMware Ready software, and cloud enabled software with partners such as Amazon Web Services, Windows Azure and NASDAQ OMX. We turn all emails into searchable records to meet regulatory and legal search needs and work with companies in all industries including K-12, local government, finance and healthcare which have strict regulatory requirements to archive and produce emails when requested. Our combined analytic engine also identifies potential problems and concerns for management and can alert them and the sender of a possible issue. This has become a major advantage for businesses that handle personal and confidential information such as social security numbers or HR concerns. Emails are introduced as evidence in nearly all court cases and are very often cited in the media. Having a system to manage emails as records with integrity has become a critical function for all organizations.
+
+&#160;
+
+Benefit of MLArchiver
+
+&#160;
+
+Ease of Use, Affordable 
+
+&#160;
+
+&#160; &#9679; Intuitive design for ease of use; yet the features are advanced and powerful. &#160;
+
+Records Management 
+
+&#160;
+
+&#160; &#9679; Good record keeping is essential for any organization. MLArchiver captures all emails; full-text indexes the message and attachment, applies retention policies and turns emails into non-alterable records. &#160;
+
+Regulatory &#38; Litigation Process 
+
+&#160;
+
+&#160; &#9679; MLArchiver make responding to regulatory or litigation search requests quick and easy. We meet the Federal Rules of Civil Procedure process for legal discovery and have advanced searching, dynamic folders, tagging, legal hold management and exporting options. &#160;
+
+Compliant 
+
+&#160;
+
+&#160; &#9679; Nearly all industries have one or more regulations which require them to treat emails as corporate records and produce them when requested. ML is a fully compliant solution. &#160;
+
+Analytics 
+
+&#160;
+
+&#160; &#9679; 50 custom and standard analytics to let management &#8220;Know what is being archived&#8221; with real-time alerts. Identify and report on business critical information. &#160;
+
+Employee Access &#38; Email Storage Cost 
+
+&#160;
+
+&#160; &#9679; Emails older than six months are infrequently accessed. MLArchiver provides tools for employee access via web interface or Outlook. Archive storage is lower cost storage for cost reductions. &#160;
+
+&#160;
+
+&#160;
+
+COMPETITION 
+
+&#160;
+
+Several of the companies we compete with have substantially greater name recognition, benefit of cross selling to their client base and financial resources, although we continue to compete through unique marketing efforts.
+
+&#160;
+
+High Availability and Virtual Disaster Recovery Services 
+
+&#160;
+
+The following vendors compete with DSC within the HA and virtual DR services sector: HP Services, IBM Business Continuity and Recovery Services, and SunGard. Recently these companies have expanded into data vaulting to target smaller clients.
+
+&#160;
+
+Email Archival and Data Analytics: 
+
+&#160;
+
+Message Logic provides software, a cloud managed service, appliance and a virtual appliance as options for our clients:
+
+&#160;
+
+Software competitors: GFI, Mimecast, Symantec Enterprise Vault
+
+Cloud Managed Service: Sonian, Smarsh, Global Relay
+
+Appliance: Barracuda Networks, ArcMail, Jatheon
+
+&#160;
+
+Data Vaulting 
+
+&#160;
+
+&#9679; Information Management and Protection Vendors : Vendors include EMC, i365, Symantec and CommVault. &#160; &#160; &#9679; Specialized Vendors : Venyu, which focuses on SMBs in the U.S. &#160; &#160; &#9679; Technology Providers / Service providers . OEM-focused vendors may or may not be service providers, but they have access to a large business based on licensing their technology to other vendors. This includes vendors such as CommVault and i365. Symantec acquired online backup provider SwapDrive. i365, A Seagate Company, acquired EVault in January 2007, renaming it i365. Connected Backup has an established enterprise customer base. IBM Global Technology Services acquired Arsenal Digital Solutions in 2007, adding a range of Online backup services to its portfolio and rebranding it IBM Information Protection Services to Managed Data Vault. Venyu offers two online backup and recovery services: AmeriVault-AV and AmeriVault-EV. Its services protect PCs and servers, and while it focuses mostly on SMBs, it can also support Enterprises. &#160;
+
+CORPORATE HISTORY 
+
+&#160;
+
+To date, DSC consummated (i) a share exchange with Euro Trend Inc. in October 20, 2008, (ii) an asset acquisition of SafeData, LLC (&#8220;SafeData&#8221;) in June 2010, and (iii) an asset acquisition of Message Logic LLC, (&#8220;Message Logic&#8221;) in October 2012.
+
+&#160;
+
+On October 20, 2008 we completed a share exchange agreement whereby we acquired all of the outstanding capital stock and ownership interests of DSC. In exchange we issued 13,357,143 shares of our common stock to the shareholders. This transaction was accounted for as a reverse merger for accounting purposes. Accordingly, DSC, the accounting acquirer, is regarded as the predecessor entity.
+
+&#160;
+
+On June 17, 2010 we entered into an asset purchase agreement with SafeData, a provider of Cloud Storage and Cloud Computing mostly to IBM&#8217;s mid-range equipment users, under which we acquired all right, title and interest in the end user customer base of SafeData and all related current and fixed assets and contracts including the transfer of all of SafeData&#8217;s current liabilities arising out of the business or the assets acquired. Pursuant to the Agreement, we paid an aggregate purchase price equal to $3,000,000. Giving effect to certain holdback and contingency clauses as defined in the agreement, we paid $1,229,952 in cash and $850,000 in shares of our common stock as well as assumption of SafeData accounts payable and receivables. In June of 2011, we made a final payment net of holdback of $482,308 and we issued the remaining balance of $150,000 in Common Stock. The final settlement resulted in a gain of $176,497.
+
+&#160;
+
+On October 31, 2012, DSC purchased the assets of Message Logic including email compliance software all source code to Message Logic&#8217;s email archival and data analytics software and select fixed assets. In exchange for the assets, at closing, DSC gave 725,960 shares of its common stock and assumed liabilities of $102,109. The contingent purchase price provides for up to 769,290 additional shares of DSC common stock and $800,000. This contingent purchase price is based upon the achievement of certain metrics at the end of the 7 th , 13 th , 19 th , and 25 th month as defined in the asset purchase agreement dated October 31, 2012.
+
+&#160;
+
+In November 2012, DSC entered into a joint venture partnership with an IBM partner, ABC Services Inc. to provide an IBM Infrastructure as a service (&#8220;IaaS&#8221;) offering, marketed under the name Secure Infrastructure &#38; Services, a New York limited liability company. The Company is required to convert ABC Services Inc.&#8217;s interest in the joint venture into shares of common stock of the Company upon the Company (i) raising $10 million in financing through a private placement or secondary offering of stock and (ii) the market capitalization of the Company exceeding or equaling $25 million. The value of the membership interest that is converted shall be equal to 200% of the Company&#8217;s prior fiscal year GAAP gross revenue, net of sales tax, plus the fair market value of additional assets, as determined by an independent appraiser. The Company shall be required to pay off all amounts owed to the joint venture for services prior to the conversion.
+
+&#160;
+
+In November 2012, DSC also entered into agreements with Amazon AWS to offer its Message Logic email archiving software through the AWS marketplace and to offer stand-by-server and storage solutions.
+
+&#160;
+
+In December 2012, DSC was accepted as an IBM Service provider for cloud solutions.
+
+&#160;
+
+The result of these acquisitions, joint venture and strategic alliances combined with DSC&#8217;s legacy disaster recovery and business continuity solutions positions DSC as a potential leader in business to business cloud storage and cloud computing sector specializing in email compliance Software as a Service (SaaS), Windows Infrastructure as a Service (IaaS) and IBM iSeries Platform as a Service (PaaS). DSC will continue to provide our solutions and continue our planned industry consolidations.
+
+&#160;
+
+&#160;
+
+&#160;
+

@@ -1,0 +1,688 @@
+ ITEM 1. BUSINESS 
+
+&#160; 
+
+INTRODUCTION 
+
+&#160; 
+
+We are an early entrant in the digital currency ecosystem and one of the first U.S. publicly traded companies to be involved with digital currencies. We aim to enable users to engage in the digital currency ecosystem through one point of access - a universal digital currency platform. We plan to design and build this platform under the brand &#8220;Blockchain Technology Consumer Solutions,&#8221; or &#8220;BTCS.&#8221; 
+
+&#160;
+
+&#160; 
+
+&#160; 
+
+We were incorporated in the State of Nevada in 2008 under the name &#8220;Hotel Management Systems, Inc.&#8221; On February 5, 2014, we entered into an Exchange Agreement (the &#8220;Exchange Agreement&#8221;) with BitcoinShop.us, LLC, a Maryland limited liability company (&#8220;Bitcoinshop&#8221;), and the holders of the membership interests in BitcoinShop (&#8220;Bitcoinshop Members&#8221;). Pursuant to the Exchange Agreement, Bitcoinshop Members transferred all the outstanding membership interests of Bitcoinshop to us in exchange for an aggregate of 100,773,923 shares of our common stock (the &#8220;Share Exchange&#8221;). As a result, Bitcoinshop became our wholly-owned subsidiary. Immediately following the Share Exchange with Bitcoinshop, we discontinued our business as manufacturer of touch screen and touch board products, interactive whiteboard displays and large touch-screens. 
+
+&#160; 
+
+On July 24, 2015, we effected a change in our name from Bitcoin Shop, Inc. to BTCS Inc. As permitted by Chapter 92A.180 of Nevada Revised Statutes we changed our name by the filing Articles of Merger with the Secretary of State of Nevada on July 24, 2015, along with an Agreement and Plan of Merger pursuant to which we merged with our wholly owned subsidiary and amended our Articles of Incorporation to reflect our new name, BTCS Inc. In connection with the name change, on August 3, 2015, our common stock began trading on the OTC Markets under the new name and with a new CUSIP (05581M 107), but retained our stock symbol &#8220;BTCS.&#8221; 
+
+&#160; 
+
+OUR BUSINESS 
+
+&#160; 
+
+During February 2014 we entered the business of hosting an online ecommerce marketplace where consumers can purchase merchandise using digital currencies, including bitcoin and are building a diversified company with operations in the digital currency ecosystem. We currently operate a beta ecommerce marketplace which already accepts a variety of digital currencies, have designed a beta secure digital currency storage solution BTCS Wallet, and, since the second half of 2014, have been expanding our transaction verification services business, recently leasing and building out a 83,000 square foot facility and putting into service a suite of servers capable of generating bitcoins (i.e. bitcoin mining). 
+
+&#160; 
+
+In January 2015 we began a rebranding campaign using our BTCS.COM domain (shorthand for Blockchain Technology Consumer Solutions) to better reflect our broadened strategy. We released our new website which included broader information on our strategy, access to our ecommerce site, and launching an invite only beta version of our multi-sig secure storage solution (digital wallet). Although we continue to support and develop our ecommerce marketplace, we recently shifted a portion of our focus towards our transaction verification service, also known as bitcoin mining. 
+
+&#160; 
+
+Transaction Verification Service Business (bitcoin mining) 
+
+&#160; 
+
+We believe that we can establish and expand a low cost transaction verification services business (bitcoin mining) and believe this will provide revenue growth and synergies with our platform development efforts. During January 2015, we entered into a two year lease for an 83,000 square foot facility. Additionally we have the option to purchase the property for $775,000 less the $10,000 security deposit and all lease payments. In July 2015 we completed the internal build out of our facility which increased our operating capacity to 3 megawatts (mw). We are currently using approximately 0.95 megawatts of the facility&#8217;s capacity and plan to increase our use of its capacity to 3 megawatts. 
+
+&#160; 
+
+Transaction verification entails running ASIC (application-specific integrated circuit) servers which solve a set of prescribed complex mathematical calculations in order to add a block to the Blockchain and thereby confirm bitcoin transactions. When we are successful in adding a block to the Blockchain, we are awarded a fixed number of bitcoins for our effort. Over time it is anticipated that the rewarded value in newly issued bitcoins of adding a block to the Blockchain will decrease, and we expect to charge transaction fees to verify transactions. Bitcoin&#8217;s Blockchain is maintained by a global network of participants that are running ASIC or other servers which secure the Blockchain. Over time as the reward value decreases we believe the lowest cost participants (miners) will set the market rate for transaction fees such that they remain profitable. Please see the section entitled &#8220;Incentives for Transaction Verification (Mining)&#8221; beginning at page 52 of this Annual Report for further discussion. 
+
+&#160; 
+
+Given the size and low cost of our facility and electricity, we are also evaluating offering hosted mining services as well as traditional data center services. 
+
+&#160;
+
+&#160; 
+
+&#160; 
+
+E-commerce Marketplace 
+
+&#160; 
+
+We believe our e-commerce marketplace was the first such site to accept bitcoin. Our beta ecommerce marketplace is currently operational and offers over 250,000 curated products and utilizes our &#8220;Intelligent Shopping Engine&#8221; to find competitive prices on products from over 250 retailers. Products are curated through the application of filters such as popularity, reviews, categories, sales rank and other features which are chosen by management. In early 2014, we began a complete redesign of our ecommerce marketplace to incorporate our Intelligent Shopping Engine as a value added function to our ecommerce marketplace. During 2014, many new businesses (such as Dell, Microsoft, Overstock, NewEgg and TigerDirect) opted to accept bitcoin as a form of payment. While this poses competition for our marketplace efforts, we believe it strengthens the acceptance of bitcoin and should, in the long run, be beneficial to our planned universal platform. 
+
+&#160; 
+
+Although we have turned some of our focus on developing our transaction verification services business, our online ecommerce marketplace remains hosted, maintained, and developed by us. We have developed software that allows us to interface with vendors and search for competitive prices in real time and display up-to-date inventory, and present prices in bitcoin, litecoin or dogecoin according to the exchange rate from USD. The exchange rate is updated frequently and at each stage of the checkout process, when customers reach the checkout page the exchange rate is locked in by our payment processor for 15 minutes and our payment processor assume the currency exchange risk (unless we choose to accept the digital currency). All marketplace customer orders are fulfilled by third party vendors and we are not involved in the logistics chain, however, we oversee the fulfillment process and strive for a smooth shopping experience. Our payment processor allows us to select a ratio of cash versus each respective digital currency we accept. We charge our customers a processing fee of approximately three percent (which management may change from time to time) on transactions if we are not in the affiliate program with the end retailer selling a particular product. If we are a part of an affiliate program we are paid affiliate fees by the retailer which varies depending on both the retailer and by product which can range from one to fifteen percent. 
+
+&#160; 
+
+Strategic Partnerships 
+
+&#160; 
+
+We have partnered with and invested in five digital currency companies (collectively referred to herein as our &#8220;Partner Companies&#8221;) to further our efforts to build a universal digital currency platform. We have integrated with GoCoin LLC (&#8220;GoCoin&#8221;). GoCoin is an international payment platform enabling online and retail merchants a way to accept bitcoin, litecoin and dogecoin as payment methods. We have also integrated with Bitvault Inc., which operates under the Gem brand (&#8220;Gem&#8221;). Gem offers a secure software development toolkit for companies to develop multi-signature storage solutions to store bitcoin. We have invested in and currently utilize Spondoolies Tech Ltd. (&#8220;Spondoolies&#8221;) ASIC servers for our transaction verification services business. 
+
+&#160; 
+
+Blockchain Technologies and Other Growth Initiatives 
+
+&#160; 
+
+We are also keenly focused on other blockchain technologies. Since the most prominent use case for blockchain technologies is digital currencies (or more specifically, bitcoin), it remains our core focus. Nonetheless, we anticipate continuing to evaluate other blockchain technology opportunities, as well as technologies that are complementary to our business strategy in an effort to minimize risks and enhance shareholder value. This will include evaluating opportunities that diversify our revenue streams, provide other consumer services and provide on-ramps for new users. 
+
+&#160; 
+
+INDUSTRY AND MARKET OVERVIEW (BITCOIN AND BLOCKCHAIN TECHNOLOGIES) 
+
+&#160; 
+
+Introduction to Bitcoins and the Bitcoin Network 
+
+&#160; 
+
+A bitcoin is one type of a Digital Currency that is issued by, and transmitted through, an open source, math-based protocol platform using cryptographic security that is known as the &#8220;Bitcoin Network.&#8221; The Bitcoin Network is an online, peer-to-peer user network that hosts the public transaction ledger, known as the &#8220;Blockchain,&#8221; and the source code that comprises the basis for the cryptography and math-based protocols governing the Bitcoin Network. No single entity owns or operates the Bitcoin Network, the infrastructure of which is collectively maintained by a decentralized user base. Bitcoins can be used to pay for goods and services or can be converted to fiat currencies, such as the US Dollar, at rates determined on Bitcoin Exchanges or in individual end-user-to-end-user transactions under a barter system. 
+
+&#160; 
+
+Bitcoins are &#8220;stored&#8221; or reflected on the digital transaction ledger known as the &#8220;Blockchain,&#8221; which is a digital file stored in a decentralized manner on the computers of each Bitcoin Network user. The Blockchain records the transaction history of all bitcoins in existence and, through the transparent reporting of transactions, allows the Bitcoin Network to verify the association of each bitcoin with the digital wallet that owns them. The Bitcoin Network and Bitcoin software programs can interpret the Blockchain to determine the exact bitcoin balance, if any, of any digital wallet listed in the Blockchain as having taken part in a transaction on the Bitcoin Network. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+The Blockchain is comprised of a digital file, downloaded and stored, in whole or in part, on all bitcoin users&#8217; software programs. The file includes all blocks that have been solved by miners and is updated to include new blocks as they are solved. As each newly solved block refers back to and &#8220;connects&#8221; with the immediately prior solved block, the addition of a new block adds to the Blockchain in a manner similar to a new link being added to a chain. Each new block records outstanding bitcoin transactions, and outstanding transactions are settled and validated through such recording, the Blockchain represents a complete, transparent and unbroken history of all transactions on the Bitcoin Network. 
+
+&#160; 
+
+The Bitcoin Network is decentralized and does not rely on either governmental authorities or financial institutions to create, transmit or determine the value of bitcoins. Rather, bitcoins are created and allocated by the Bitcoin Network protocol through a &#8220;mining&#8221; process subject to a strict, well-known issuance schedule. The value of bitcoins is determined by the supply of and demand for bitcoins in the Bitcoin Exchange Market (and in private end-user-to-end-user transactions), as well as the number of merchants that accept them. As bitcoin transactions can be broadcast to the Bitcoin Network by any user&#8217;s bitcoin software and bitcoins can be transferred without the involvement of intermediaries or third parties, there are little or no transaction costs in direct peer-to-peer transactions on the Bitcoin Network. Third party service providers such as Bitcoin Exchanges and bitcoin third party payment processing services may charge significant fees for processing transactions and for converting, or facilitating the conversion of, bitcoins to or from fiat currency. 
+
+&#160; 
+
+Overview of the Bitcoin Network&#8217;s Operations 
+
+&#160; 
+
+In order to own, transfer or use bitcoins, a person generally must have Internet access to connect to the Bitcoin Network. Bitcoin transactions between parties occur very rapidly (within several seconds) and may be made directly between end-users without the need for a third-party intermediary, although there are entities that provide third-party intermediary services. To prevent the possibility of double-spending a single bitcoin, a user must notify the Bitcoin Network of the transaction by broadcasting the transaction data to its network peers. The Bitcoin Network provides confirmation against double-spending by memorializing every transaction in the Blockchain, which is publicly accessible and transparent. This memorialization and verification against double-spending is accomplished through the bitcoin mining process, which adds &#8220;blocks&#8221; of data, including recent transaction information, to the Blockchain. 
+
+&#160; 
+
+Brief Description of Bitcoin Transfers 
+
+&#160; 
+
+Prior to engaging in bitcoin transactions, a user generally must first install on its computer or mobile device a bitcoin software program that will allow the user to generate a digital &#8220;wallet&#8221; (analogous to a bitcoin account). Alternatively, a user may retain a third party to create a digital wallet to be used for the same purpose. Each such wallet includes one or more unique digital addresses and verification system consisting of a &#8220;public key&#8221; and a &#8220;private key,&#8221; which are mathematically related. 
+
+&#160; 
+
+In a bitcoin transaction, the bitcoin recipient must provide its digital address, which serves as a routing number to the recipient&#8217;s digital wallet on the Blockchain, to the party initiating the transfer. The recipient, however, does not make public or provide to the sender its related private key. The payor, or &#8220;spending&#8221; party, does reveal its public key in signing and verifying its spending transaction to the Blockchain. 
+
+&#160; 
+
+Neither the recipient nor the sender reveal their digital wallet&#8217;s private key in a transaction, because the private key authorizes access to, and transfer of, the funds in that digital wallet to other users. In the data packets propagated from a user&#8217;s bitcoin software program onto the Bitcoin Network to allow transaction confirmation, the sending party must &#8220;sign&#8221; its transaction with a data code derived from entering the private key into a &#8220;hashing algorithm.&#8221; The hashing algorithm converts the private key into a digital signature, which signature serves as validation that the transaction has been authorized by the holder of the digital wallet&#8217;s private key. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Transaction Verification (Bitcoin Mining) &#38; Creation of New Bitcoins 
+
+&#160; 
+
+Transaction Verification Process (Mining Process) 
+
+&#160; 
+
+The process by which bitcoins are &#8220;mined&#8221; results in new blocks being added to the Blockchain and new bitcoins being issued to the miners. Miners engage in a set of prescribed complex mathematical calculations in order to add a block to the Blockchain and thereby confirm bitcoin transactions included in that block&#8217;s data. Miners that are successful in adding a block to the Blockchain are automatically awarded a fixed number of bitcoins for their effort; we also refer to this process of receiving the aforementioned award as transaction verification services. This reward system is the method by which new bitcoins enter into circulation to the public and is accomplished in the added block through the notation of the new bitcoin creation and their allocation to the successful miner&#8217;s digital wallet. To begin mining, a user can download and run Bitcoin Network mining software, which, like regular Bitcoin Network software programs, turns the user&#8217;s computer into a &#8220;node&#8221; on the Bitcoin Network that validates blocks. 
+
+&#160; 
+
+All bitcoin transactions are recorded in blocks added to the Blockchain. Each block contains the details of some or all of the most recent transactions that are not memorialized in prior blocks, a reference to the most recent prior block, and a record of the award of bitcoins to the miner who added the new block. In order to add blocks to the Blockchain, a miner must map an input data set (i.e., a reference to the immediately preceding block in the Blockchain, plus a block of the most recent Bitcoin Network transactions and an arbitrary number called a &#8220;nonce&#8221;) to a desired output data set of predetermined length (&#8220;hash value&#8221;) using the SHA-256 cryptographic hash algorithm. To &#8220;solve&#8221; or &#8220;calculate&#8221; a block, a miner must repeat this computation with a different nonce until the miner generates a SHA-256 hash of a block&#8217;s header that has a value less than or equal to the current target set by the Bitcoin Network. Each unique block can only be solved and added to the Blockchain by one miner; therefore, all individual miners and mining pools on the Bitcoin Network are engaged in a competitive process and are incentivized to increase their computing power to improve their likelihood of solving for new blocks. 
+
+&#160; 
+
+The cryptographic hash function that a miner uses is one-way only and is, in effect, irreversible: hash values are easy to generate from input data (i.e., valid recent network transactions, Blockchain and nonce), but neither a miner nor participant is able to determine the original input data solely from the hash value. As a result, generating a new valid block with a header less than the target prescribed by the Bitcoin Network is initially difficult for a miner, yet other nodes can easily confirm a proposed block by running the hash function just once with the proposed nonce and other input data. A miner&#8217;s proposed block is added to the Blockchain once a majority of the nodes on the Bitcoin Network confirms the miner&#8217;s work, and the miner that solved such block receives the reward of a fixed number of bitcoins (plus any transaction fees paid by transferors whose transactions are recorded in the block). Therefore, &#8220;hashing&#8221; is akin to a mathematical lottery, and miners that have devices with greater processing power (i.e., the ability to make more hash calculations per second) are more likely to be successful miners because they can generate more hashes or &#8220;entries&#8221; into that lottery. 
+
+&#160; 
+
+As more miners join the Bitcoin Network and its processing power increases, the Bitcoin Network automatically adjusts the complexity of the block-solving equation in an effort to set distribution such that newly-created blocks will be added to the Blockchain, on average, approximately every ten minutes. Processing power is added to the Bitcoin Network at irregular rates that have grown on a parabolic scale since early 2013, though the rate of additional mining power slowed steadily through 2014, until the computational speed of the network temporarily and marginally declined during December 2014. 
+
+&#160; 
+
+Incentives for Transaction Verification (Mining) 
+
+&#160; 
+
+Miners dedicate substantial resources to mining. Given the increasing difficulty of the target established by the Bitcoin Network, current miners must invest in expensive mining devices with adequate processing power to hash at a competitive rate. The first mining devices were standard home computers; however, mining computers are currently designed solely for mining purposes. Such devices include ASIC machines built by specialized companies like BitFury, KnCMiner, Cointerra, Spondoolies and Butterfly Labs. Miners also incur substantial electricity costs in order to continuously power and cool their devices while solving for a new block. 
+
+&#160; 
+
+The Bitcoin Network is designed in such a way that the reward for adding new blocks to the Blockchain decreases over time and the production (and reward) of bitcoins will eventually cease. Once such reward ceases, it is expected that miners will demand compensation in the form of transaction fees to ensure that there is adequate incentive for them to continue mining. The amount of transaction fees will be based upon the structural requirements necessary to provide sufficient revenue to incentivize miners, as counterbalanced by the need to retain sufficient bitcoin users (and transactions) to make mining profitable. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+Though not free from doubt, bitcoin industry participants have expressed a belief that transaction fees would be enforced through (i) mining operators collectively refusing to record transactions that do not include a payment of a transaction fee or (ii) the updating of bitcoin software to require a minimum transaction fee payment. Under a regime whereby large miners require fees to record transactions, a transaction where the spending party did not include a payment of transaction fees would not be recorded on the Blockchain until a miner who does not require transaction fees solves for a new block (thereby recording all outstanding transaction records for which it has received data). If popular bitcoin software for digital wallets were to require a minimum transaction fee, users of such programs would be required to include such fees; however, because of the open-source nature of the Bitcoin Network, there may be no way to require that all digital wallets include minimum transaction fees for spending transactions. Alternatively, a future Bitcoin Network software update could simply build a small transaction fee payment into all spending transactions (e.g., by deducting a fractional number of bitcoins from all transactions on the Bitcoin Network as transaction fees). 
+
+&#160; 
+
+The Bitcoin Network protocol already includes transaction fee rules and the mechanics for awarding transaction fees to the miners that solve for blocks in which the fees are recorded; however, users currently may opt not to pay transaction fees (depending on the bitcoin software they use) and miners may choose not to enforce the transaction fee rules since, at present, the bitcoin rewards are far more substantial than transaction fees. In January 2016, transaction fees accounted for an average of 1.0 percent of miners&#8217; total revenue, though the percentage of revenue represented by transaction fees is not static and fluctuates based on the number of transactions for which sending users include transaction fees, the levels of those transaction fees and the number of transactions a miner includes in its solved blocks. Typically, transactions do not have difficulty being recorded if transaction fees are not included. 
+
+&#160; 
+
+Mining Pools 
+
+&#160; 
+
+The Bitcoin Network&#8217;s mining protocol was created in a manner to make it more difficult to solve for new blocks as the processing power dedicated to mining increases (in order to maintain the 10 minute per block solution time average). Therefore, the difficulty of finding a valid hash value has grown exponentially since the first blocks were mined. Currently, the likelihood that an individual acting alone will be able to mine bitcoins is extremely low. As a result, mining &#8220;pools&#8221; have developed in which multiple miners act cohesively and combine their processing power to solve blocks. When a pool solves a new block, the participating mining pool members split the resulting reward based on the processing power they each contributed to solve for such block. Mining pools provide participants with access to smaller, but steadier and more frequent, bitcoin payouts. The Company monitors the Blockchain network and, based on the information we collected from our network access, as of February 8, 2016, the largest three mining pools were, F2Pool, AntPool and BTCC, which, when aggregated, represented approximately 61 percent of the processing power on the Bitcoin Network (as calculated by determining the percentage of blocks mined by each such pool over the prior month). 
+
+&#160; 
+
+Mathematically Controlled Supply 
+
+&#160; 
+
+The method for creating new bitcoins is mathematically controlled in a manner so that the supply of bitcoins grows at a limited rate pursuant to a pre-set schedule. The number of bitcoins awarded for solving a new block is automatically halved every 210,000 blocks. Thus, the current fixed reward for solving a new block is 25 bitcoins per block and the reward will decrease by half to become 12.5 bitcoins in or around the middle of July 2016 (based on estimates of the rate of block solution calculated by BitcoinClock.com). This deliberately controlled rate of bitcoin creation means that the number of bitcoins in existence will never exceed 21 million and that bitcoins cannot be devalued through excessive production unless the Bitcoin Network&#8217;s source code (and the underlying protocol for bitcoin issuance) is altered. The Company monitors the Blockchain network and, based on the information we collected from our network access as of February 8, 2016, 15,190,000 bitcoins have been mined. 
+
+&#160; 
+
+Modifications to the Bitcoin Protocol 
+
+&#160; 
+
+Bitcoin is an open source project (i.e., a product whose source code is freely available to the public and that utilizes crowdsourcing to identify possible issues, problems and defects) and there is no official developer or group of developers that controls the Bitcoin Network. The Bitcoin Network&#8217;s development is overseen by a core group of developers, which currently includes Wladimir J. van der Laan, Gavin Andresen, Jeff Garzik, Gregory Maxwell and Pieter Wuille (&#8220;Core Developers&#8221;). The Core Developers are able to access and can propose alterations to the Bitcoin Network source code hosted on GitHub, an online service and forum used to share and develop open source code. Other programmers have access to and can propose changes to the bitcoin source code on GitHub, but the Core Developers have an elevated level of influence over the process. As a result, the Core Developers are responsible for quasi-official releases of updates and other changes to the Bitcoin Network&#8217;s source code. Users and miners must accept any changes made to the Bitcoin Network (including those proposed by the Core Developers) by downloading the proposed modification of the source code. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+A modification of the source code is only effective with respect to the bitcoin users and miners that download it. Consequently, as a practical matter, a modification to the source code (e.g., a proposal to increase the 21 million total limit on bitcoins or to reduce the average confirmation time target from 10 minutes per block) only becomes part of the Bitcoin Network if accepted by participants collectively having a substantial majority of the processing power on the Bitcoin Network. If a modification is accepted only by a percentage of users and miners, a division in the Bitcoin Network will occur such that one network will run the pre-modification source code and the other network will run the modified source code; such a division is known as a &#8220;fork&#8221; in the Bitcoin Network. It should be noted that, although their power to amend the source code is effectively subject to the approval of users and miners, the Core Developers have substantial influence over the development of the Bitcoin Network and the direction of the bitcoin community. 
+
+&#160; 
+
+Other Blockchain Technologies 
+
+&#160; 
+
+Core Development of the bitcoin source code has increasingly focused on modifications of the bitcoin protocol to allow non-financial and next generation uses (sometimes referred to as Bitcoin 2.0 projects). These uses include smart contracts and distributed registers built into, built atop or pegged alongside the Blockchain. For example, the white paper for Blockstream, a program of which Core Developers Jeff Garzik and Gregory Maxwell are a part, calls for the use of &#8220;pegged sidechains&#8221; to develop programming environments that are built within block chain ledgers that can interact with and rely on the security of the Bitcoin Network and Blockchain, while remaining independent thereof. We are actively evaluating other Blockhain technologies related to Bitcoin 2.0 projects. At this time, Bitcoin 2.0 projects remain in early stages and have not been materially integrated into the Blockchain or Bitcoin Network. 
+
+&#160; 
+
+Bitcoin Value 
+
+&#160; 
+
+Bitcoins are an example of a Digital Currency that is not a fiat currency (i.e., a currency that is backed by a central bank or a national, supra-national or quasi-national organization) and are not backed by hard assets or other credit. As a result, the value of bitcoins is determined by the value that various market participants place on bitcoins through their transactions. 
+
+&#160; 
+
+Exchange Valuation 
+
+&#160; 
+
+Due to the peer-to-peer framework of the Bitcoin Network and the protocols thereunder, transferors and recipients of bitcoins are able to determine the value of the bitcoins transferred by mutual agreement or barter with respect to their transactions. As a result, the most common means of determining the value of a bitcoin is by surveying one or more Bitcoin Exchanges where bitcoins are publicly bought, sold and traded (i.e., the Bitcoin Exchange Market). 
+
+&#160;
+
+On each Bitcoin Exchange, bitcoins are traded with publicly disclosed valuations for each transaction, measured by one or more fiat currencies such as the US Dollar, the Euro or the Chinese Yuan. Bitcoin Exchanges typically report publicly on their site the valuation of each transaction and bid and ask prices for the purchase or sale of bitcoins. Although each Bitcoin Exchange has its own market price, it is expected that most Bitcoin Exchanges&#8217; market prices should be relatively consistent with the Bitcoin Exchange Market average since market participants can choose the Bitcoin Exchange on which to buy or sell bitcoins (i.e. exchange shopping). Arbitrage between the prices on various Bitcoin Exchanges is possible, but the imposition of fees and fiat currency deposit/withdrawal policies appears to have, at times, prevented an active arbitrage mechanism among users on some Bitcoin Exchanges. For example, delayed fiat currency withdrawals imposed by Mt. Gox resulted in Mt. Gox trading at a premium of up to 10 to 20 percent for several months through January 2014. In February 2014, Mt. Gox suspended trading, closed its website and exchange service, and filed for a form of bankruptcy protection from creditors called minjisaisei, or civil rehabilitation, to allow courts to seek a buyer. In April 2014, Mt. Gox began liquidation proceedings. 
+
+&#160; 
+
+Even in the absence of large trading fees and fiat currency deposit/withdrawal policies, price differentials across Bitcoin Exchanges remain. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+Forms of Attack Against the Bitcoin Network 
+
+&#160; 
+
+Exploitation of Flaws in the Bitcoin Network&#8217;s Source Code 
+
+&#160; 
+
+As with any other computer code, the Bitcoin Network source code may contain certain flaws. Several errors and defects have been found and corrected, including those that disabled some functionality for users, exposed users&#8217; information, or allowed users to create multiple views of the Bitcoin Network. Such flaws have been discovered and quickly corrected by the Core Developers or the bitcoin community, thus demonstrating one of the advantages of open source codes that are available to the public: open source codes rely on transparency to promote community-sourced identification and solution of problems within the code. 
+
+&#160; 
+
+Reports of flaws in or exploitations of the source code that allow malicious actors to take or create money in contravention of known Bitcoin Network rules have been exceedingly rare. For example, in 2010, a hacker or group of hackers exploited a flaw in the Bitcoin Network source code that allowed them to generate 184 billion bitcoins in a transaction and send them to two digital wallet addresses. However, the bitcoin community and developers identified and reversed the manipulated transactions within approximately five hours, and the flaw was corrected with an updated version of the bitcoin protocol. Another addressed issue with the Bitcoin Network source code, &#8220;transaction malleability&#8221; was addressed by the Core Developers in a March 2013 software update. The Core Developers, in conjunction with other developers and miners, work continuously to ensure that flaws are quickly fixed or removed. 
+
+&#160; 
+
+Greater than Fifty Percent of Network Computational Power 
+
+&#160; 
+
+Malicious actors can structure an attack whereby such actor gains control of more than half of the Bitcoin Network&#8217;s processing power or &#8220;hashrate.&#8221; Computer scientists and cryptographers believe that the immense collective processing power of the Bitcoin Network makes it impracticable for an actor to gain control of computers representing a majority of the processing power on the Bitcoin Network. During May and June 2014, mining pool GHash.io&#8217;s hashing power approached 50 percent of the processing power on the Bitcoin Network. During a brief period in early June 2014, the mining pool may have controlled in excess of one-half of the Bitcoin Network&#8217;s processing power. Although no malicious activity or abnormal transaction recording was observed, the incident establishes that it is possible that a substantial mining pool may accumulate close to or more than a majority of the processing power on the Bitcoin Network. As of December 26, 2014, GHash.io controlled approximately one-tenth of the processing power on the Bitcoin Network, and no single pool controlled more than a quarter of the total processing power. 
+
+&#160; 
+
+If a malicious actor acquired sufficient computational power necessary to control the Bitcoin Network (which amount would be well in excess of fifty percent), it would be able to engage in double-spending, or prevent some or all transactions from being confirmed, and prevent some or all other miners from mining any valid new blocks. The malicious actor or group of actors, however, would not be able to reverse other people&#8217;s transactions, change the fixed number of bitcoins generated per new block, or transfer previously existing bitcoins that belong to other users. 
+
+&#160; 
+
+Cancer Nodes 
+
+&#160; 
+
+This form of attack involves a malicious actor propagating &#8220;cancer nodes&#8221; to isolate certain users from the legitimate Bitcoin Network. A target user functionally surrounded by cancer nodes would be put on a separate &#8220;network,&#8221; allowing the malicious actor to relay only blocks created by the separate network and thus opening the target user to double-spending attacks. By using cancer nodes, a malicious actor also can disconnect the target user from the bitcoin economy entirely by refusing to relay any blocks or transactions. Bitcoin software programs make these attacks more difficult by limiting the number of outbound connections through which users are connected to the Bitcoin Network. 
+
+&#160; 
+
+Manipulating Blockchain Formation 
+
+&#160; 
+
+A malicious actor may attempt to double-spend bitcoins by manipulating the formation of the Blockchain rather than through control of the Bitcoin Network. In this type of attack, a miner creates a valid new block containing a double-spend transaction and schedules the release of such attack block so that it is added to the Blockchain before a target user&#8217;s legitimate transaction can be included in a block. Variations of this form of attack include the &#8220;Finney attack,&#8221; &#8220;race attack,&#8221; and &#8220;vector76 attack.&#8221; All double-spend attacks require that the miner sequence and execute the steps of its attack with sufficient speed and accuracy. Users and merchants can dramatically reduce the risk of a double-spend attack by waiting for multiple confirmations from the Bitcoin Network before settling a transaction. The Bitcoin Network still may be used to execute instantaneous, low-value transactions without confirmation to the extent the recipient of bitcoins determines that a malicious miner would be unwilling to carry out a double-spend attack for low-value transactions because the reward from mining would be higher than the small profit gained from double-spending. Users and merchants can take additional precautions by adjusting their Bitcoin Network software programs to connect only to other well-connected nodes and to disable incoming connections. These precautions reduce the risk of double-spend attacks involving manipulation of a target&#8217;s connectivity to the Bitcoin Network (as is the case with vector76 and race attacks). 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Historical Chart of the Price of Bitcoins 
+
+&#160; 
+
+The price of bitcoins is volatile and fluctuations are expected. Movements may be influenced by various factors, including, but not limited to, government regulation, security breaches experienced by service providers, as well as political and economic uncertainties around the world. Since our Transaction Verification Services business records revenue based on the price of earn bitcoins and may retain such bitcoins as an asset or as payment for future expenses, the relative value of such revenues may fluctuate, as will the value of any bitcoins we retain. The following chart illustrates the fluctuating value of the US Dollar exchange rate for bitcoins for the one-year period ending January 21, 2016, as reported by Blockchain.info: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Uses of Bitcoins 
+
+&#160; 
+
+Global Bitcoin Market 
+
+&#160; 
+
+Global trade in bitcoins consists of individual end-user-to-end-user transactions, together with facilitated exchange-based bitcoin trading. A limited market currently exists for bitcoin-based derivatives. There is currently no reliable data on the total number or demographic composition of users or miners on the Bitcoin Network. 
+
+&#160; 
+
+Goods and Services 
+
+&#160; 
+
+Bitcoins also can be used to purchase goods and services, either online or at physical locations, although reliable data is not readily available about the retail and commercial market penetration of the Bitcoin Network. In addition to our Company in January 2014, US national online retailers Overstock.com and TigerDirect began accepting bitcoin payments. Over the course of 2014, computer hardware and software company Microsoft began accepting bitcoins as online payment for certain digital content, online retailer NewEgg began accepting bitcoins, and computer hardware company Dell began accepting bitcoins. There are thousands of additional online merchants that accept bitcoins, and the variety of goods and services for which bitcoins can be exchanged is increasing. Currently, local, regional and national businesses, including Time Inc., Wikimedia, WordPress, Expedia and Foodler, accept bitcoin. Bitcoin service providers such as BitPay, Coinbase and GoCoin and online gift card retailer Gyft provide other means to spend bitcoin for goods and services at additional retailers. There are also many real-world locations that accept bitcoin throughout the world. In 2014, payments giant PayPal announced a partnership with BitPay, Coinbase and GoCoin to expand their bitcoin-related services to PayPal&#8217;s merchant customers, thereby significantly expanding the reach of bitcoin-accepting merchants. To date, the rate of consumer adoption and use of bitcoin in paying merchants has trailed the broad expansion of retail and commercial acceptance of bitcoin. Nevertheless, there will likely be a strong correlation between continued expansion of the Bitcoin Network and its retail and commercial market penetration. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Anonymity and Illicit Use 
+
+&#160; 
+
+The Bitcoin Network was not designed to ensure the anonymity of users, despite a common misperception to the contrary. All bitcoin transactions are logged on the Blockchain and any individual or government can trace the flow of bitcoins from one address to another. Off-Blockchain transactions occurring off the Bitcoin Network are not recorded and do not represent actual bitcoin transactions or the transfer of bitcoins from one digital wallet address to another, though information regarding participants in an Off-Blockchain transaction may be recorded by the parties facilitating such Off-Blockchain transactions. Digital wallet addresses are randomized sequences of 27-34 alphanumeric characters that, standing alone, do not provide sufficient information to identify users; however, various methods may be used to connect an address to a particular user&#8217;s identity, including, among other things, simple Internet searching, electronic surveillance and statistical network analysis and data mining. Anonymity is also reduced to the extent that certain Bitcoin Exchanges and other service providers collect users&#8217; personal information, because such Bitcoin Exchanges and service providers may be required to produce users&#8217; information in order to comply with legal requirements. In many cases, a user&#8217;s own activity on the Bitcoin Network or on Internet forums may reveal information about the user&#8217;s identity. 
+
+&#160; 
+
+Users may take certain precautions to enhance the likelihood that they and their transactions will remain anonymous. For instance, a user may send its bitcoins to different addresses multiple times to make tracking the bitcoins through the Blockchain more difficult or, more simply, engage a so-called &#8220;mixing&#8221; or &#8220;tumbling&#8221; service to switch its bitcoins with those of other users. However, these precautions do not guarantee anonymity and are illegal to the extent that they constitute money laundering or otherwise violate the law. 
+
+&#160; 
+
+As with any other asset or medium of exchange, bitcoins can be used to purchase illegal goods or fund illicit activities. For example, Silk Road, an anonymous online marketplace that sold illegal substances prior to its seizure and the arrest of its founder and operator in October 2013, accepted only bitcoins. The use of bitcoins for illicit purposes, however, is not promoted by the Bitcoin Network or the user community as a whole. Furthermore, we do not believe our ecommerce platform has exposure to such uses because the products sold in our marketplace are curated by our management and the sellers of those products are big box retailers with credible products and retail operations. 
+
+&#160; 
+
+Alternative Digital Currencies 
+
+&#160; 
+
+Bitcoins are not the only type of Digital Currencies founded on math-based algorithms and cryptographic security, although it was considered the most prominent as of August 31, 2015. Over 600 other Digital Currencies or &#8220;altcoins&#8221; have been developed since the Bitcoin Network&#8217;s inception, including litecoin, peercoin, dogecoin, ripple and stellar. The Bitcoin Network, however, possesses the &#8220;first-to-market&#8221; advantage and thus far has captured the majority of the industry&#8217;s market share and is secured by a mining network with significantly more processing power than that of any other Digital Currency. 
+
+&#160; 
+
+GOVERNMENT OVERSIGHT 
+
+&#160; 
+
+The Bitcoin Network is a recent technological innovation and the regulatory schemes to which bitcoins and the Bitcoin Network may be subject have not been fully explored or developed. For example, the SEC and CFTC have yet to issue official statements describing how each will treat bitcoins for a variety of regulatory purposes. 
+
+&#160; 
+
+Until February 2014, the only US federal regulator to release official guidance on bitcoin and the Bitcoin Network was FinCEN, a bureau of the US Department of the Treasury responsible for the federal regulation of currency market participants. On March 18th, 2013, FinCEN issued interpretive guidance relating to the application of the Bank Secrecy Act to distributing, exchanging and transmitting &#8220;virtual currencies.&#8221; More specifically, it determined that a user of bitcoins will not be considered a money services business or be required to register, report and perform recordkeeping; however, an administrator or exchanger of bitcoins must be a registered money services business under FinCEN&#8217;s money transmitter regulations. As a result, Bitcoin Exchanges that deal with US residents or otherwise fall under US jurisdiction are required to obtain licenses and comply with FinCEN regulations. FinCEN released additional guidance on January 30, 2014, April 29, 2014 and October 27, 2014, clarifying that most miners, software developers, hardware manufacturers, escrow service providers and investors in bitcoin would not be required to register with FinCEN on the basis of such activity alone, but that Bitcoin Exchanges and payment processors would likely be required to register with FinCEN on the basis of the activities described in the October 27th letters. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+US state regulators, including the California Department of Financial Institutions, New York State Department of Financial Services, Virginia Corporation Commission, Idaho Department of Financial Services and Washington State Department of Financial Institutions, have similarly released interpretations or mandates that Bitcoin Exchanges and similar bitcoin service providers register on a state-level as money transmitters or money service businesses. In June 2014, the State of California adopted legislation that would formally repeal laws that could be interpreted as making illegal the use of bitcoins or other Digital Currencies as a means of payment. In June 2015, the New York State Department of Financial Services released the first US regulatory framework for licensing participants in &#8220;digital currency business activity.&#8221; The regulations known as the &#8220;BitLicense&#8221; focuses on consumer protection, anti-money laundering compliance, and cyber security rules. On December 16, 2014, the Conference of State Bank Supervisors released for public comment a proposed model regulatory framework for state regulation of participants in &#8220;virtual currency activities.&#8221; Although similar in some regards, the proposed model framework does not track completely the BitLicense regulations in New York. The Conference of State Bank Supervisors proposed framework is a non-binding model and would have to be independently adopted, in sum or in part, by state legislatures or regulators on a case-by-case basis. 
+
+&#160; 
+
+On March 25, 2014, the IRS released guidance on the treatment of virtual currencies, such as bitcoins, for federal income tax purposes. The guidance was the first from a US government agency to provide asset classification of bitcoins, classifying them as &#8220;property&#8221; for federal income tax purposes. The guidance clarified that bitcoins could be held as capital assets and that holders of bitcoins would be required to track gains and losses relating to their cost basis at acquisition and their realization value upon sale or spending of the bitcoins. The IRS also clarified that bitcoins received as payment (e.g., as wages or, in the case of a miner, as a reward for solving a block) would be taxable as ordinary income using the fair market value of bitcoins when received. The asset classification of bitcoins by the IRS is not controlling on other government agencies for purposes other than those relating to federal income tax. 
+
+&#160; 
+
+As of December 2014, the US Congress, US Senate Committee on Homeland Security and Government Affairs, US Senate Committee on Banking, Housing and Urban Affairs, the CFTC, the New York State Department of Financial Services, and the Conference of State Bank Supervisors had initiated formal inquiries into or held hearings on Digital Currencies, including bitcoins, and possible regulation thereof. Members of the private sector and representatives of the Department of Justice, Secret Service and FinCEN (among other government agencies) had participated in such inquiries and hearings. 
+
+&#160; 
+
+On June 26, 2014, the US Government Accountability Office publicly released a Report to the Committee on Homeland Security and Government Affairs that summarized regulatory, law enforcement and consumer protection assessments regarding the bitcoin economy and bitcoin in general. The report recommended that the US Consumer Financial Protection Bureau participate in inter-agency working groups on bitcoin to assess how the agency might address bitcoin-related consumer protection issues. The report echoed, in part, a May 7, 2014 investor alert published by the SEC that highlighted fraud and other concerns relating to certain investment opportunities denominated in bitcoins and fraudulent and unregistered investment schemes targeted at participants in online bitcoin forums. In the fall of 2014, the SEC is reported to have initiated an inquiry into the sale of unregistered securities denominated in bitcoins or altcoins, and into the sale of &#8220;crypto-equity&#8221; (i.e., tokens for use on altcoin programming platforms), although the Sponsor has not verified the scope or veracity of such reports. 
+
+&#160; 
+
+In addition, various foreign jurisdictions may adopt laws, regulations or directives that affect bitcoin. In October 2012, the European Central Bank issued a report on &#8220;virtual currency&#8221; schemes indicating that bitcoin may become the subject of regulatory interest in the European Union. In August 2013, the German Ministry of Finance released an interpretation that labeled bitcoins to be a form of private money or a unit of account that is not recognized as a full currency, but is subject to German tax laws. Foreign government bodies have also initiated public inquiries similar to those taken by US government bodies, including public hearings on Digital Currencies, including bitcoins, held by both the French and Canadian Senates. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+On December 5, 2013, the People&#8217;s Bank of China and five Chinese ministries released a notice that restricted bitcoin activity among its financial and payment institutions while classifying bitcoins as a &#8220;virtual commodity&#8221; that was legal to own and speculate in. Over the subsequent six months, news reports from China indicated that many banking institutions and third party payment processors in China had received private guidance leading them to close Bitcoin Exchange bank accounts that held Chinese Yuan on behalf of exchange customers. As a result, though the Chinese government has not banned the use of bitcoin or the holding of bitcoins, the effective result of the public and private notices has been to severely restrict the operation of Chinese Bitcoin Exchanges through the limitation of customers&#8217; ability to deposit or withdraw Chinese Yuan with or from the exchanges. During the second half of 2014, Chinese Bitcoin Exchanges again began to accept deposits of Chinese Yuan through the use of third-part payment providers, and trading activity returned to higher levels. 
+
+&#160; 
+
+In Russia, state agencies and prosecutors have released guidance or statements that have hampered the growth of bitcoin. On January 15, 2015 anonymous electronic transfers were restricted to de minimus sums; although bitcoin transactions are not truly anonymous, this measure has been taken to apply to the Bitcoin Network. On January 27, 2015, a central bank statement warned of the association of bitcoin and money laundering and terrorist activity. In early February, a prosecutor implied that the use of bitcoins were not legal tender and were illegal, although whether this amounted to a ban on bitcoin has been questioned. The legal status of bitcoin in Russia remains unclear, though the recently hostile approach of certain government arms indicates a restrictive environment. 
+
+&#160; 
+
+After the United States, China and Russia were among the next tier of large bitcoin-using jurisdictions as of late 2013. The impact of the restrictions has been seen in a decline of Chinese investment activity in bitcoins and a reduction in the number of bitcoin nodes operating in Russia that has continued into late 2014, despite a pickup in trading volume on Chinese Bitcoin Exchanges. Less active bitcoin jurisdictions in Iceland (conversion between bitcoins and krona prohibited), Vietnam (financial services firms prohibited from interacting with bitcoin) and Bolivia (use of bitcoins prohibited by the Central Bank of Bolivia) have more severely restricted the use of bitcoin with little impact on the global growth of bitcoin. Similarly, the reported ban on decentralized Digital Currencies in Ecuador (made in advance of plans to introduce a government backed electronic cash system) have had no visible impact on the Bitcoin Network due to limited use of bitcoin in Ecuador. 
+
+&#160; 
+
+While jurisdictions such as Germany and China have taken a preliminary regulatory stance on bitcoin, countries such as India have declined to apply regulation to bitcoin when afforded the opportunity. In June 2014, the Swiss government elected not to regulate bitcoin use and issued guidance on the further development and future application of laws to bitcoin-related activity in Switzerland. Australia, Finland and the Netherlands have joined Canada and Germany among the foreign countries releasing formal or informal tax guidance regarding bitcoin income or operations. 
+
+&#160; 
+
+Due in part to its international nature and the nascent stage of regulation, along with the limited experience with bitcoin of, and language barriers between, international journalists, information regarding the regulation of bitcoin in various jurisdictions may be incomplete, inaccurate or unreliable. For example, news of the People&#8217;s Bank of China notice release on December 5, 2013 was followed by days of confusion relating to difficulty in interpreting and analyzing the content of the release. In another instance, on July 29, 2013, a bitcoin service business in Thailand announced that, in a meeting with the Bank of Thailand, regulators from the Foreign Exchange Administration and Policy Department had functionally banned bitcoin activity in the country, leading to widespread reporting of a blanket ban. Later reporting, however, questioned whether the Bank of Thailand regulators had the authority, or ever expressed the intention, to ban all bitcoin use in Thailand. Recent reports indicate that, on February 15, 2014, the Bank of Thailand authorized the operation of exchanges converting bitcoin to and from Thai baht. 
+
+&#160; 
+
+On September 17, 2015, the U.S. Commodity Futures Trading Commission (the &#8220;CFTC&#8221;) issued an order filing and simultaneously settling charges against Coinflip, Inc. d/b/a Derivabit (&#8220;Coinflip&#8221;) and its chief executive officer Francisco Riordan for conducting activity related to bitcoin options transactions without complying with the Commodity Exchange Act (&#8220;CEA&#8221;) and CFTC Regulations, specifically, by operating a facility for the trading or processing of bitcoin options without complying with the CEA or CFTC Regulations otherwise applicable to swaps or conducting the activity pursuant to the CFTC&#8217;s exemption for trade options. The CFTC&#8217;s Order provides an initial interpretation that bitcoin is to be treated as a commodity in the United States. We do not believe the CFTC&#8217;s stance as set forth in the September 17, 2015 Order will be applicable and, as a result, have any impact to our business. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+Our business can be best described as the ownership and operation of computer hardware and software for the mining and generation of bitcoins via blockchain algorithms. Once we own bitcoins obtained through our efforts, ownership and operation of computer hardware, we can sell the bitcoins as principal to third parties for cash. 
+
+&#160; 
+
+The CFTC Order issued September 17, 2015 (See Release PR7231-15) (the &#8220;Order&#8221;) represents the first action against an unregistered bitcoin options trading platform. As noted in the Order, Coinflip, Inc./Derivabit conducted activity related to commodity options transactions without complying with the Commodity Exchange Act and CFTC Regulations, specifically &#8220;operating a facility for the trading or processing of commodity options without complying with the CEA or CFTC Regulations otherwise applicable to swaps or conducting the activity pursuant to the CFTC&#8217;s exemption for trade options.&#8221; The Order further notes Coinflip operated an online facility named Derivabit, offering to connect buyers and sellers of Bitcoin option contracts, and the charges involved conducting activity related to commodity options transactions. The Company neither operates an online facility offering to connect buyers and sellers of Bitcoin, or Bitcoin option contracts, and thus our analysis concludes that the findings are not applicable to the Company&#8217;s business. 
+
+&#160; 
+
+The Order also for the first time noted the CFTC has reached the conclusion that Bitcoin and other digital currencies are properly defined as commodities and therefore subjected the online facility and options contracts to CFTC jurisdictional reach. We describe the Bitcoin asset as constituting a commodity, which in the future could be subjected to regulation and which faces risks associated with commodities, in general. Accordingly, we believe Bitcoin is viewed by regulators as a currency, but that the CFTC Order as it relates to an online platform and options trading is inapplicable to our business. 
+
+&#160; 
+
+On October 22, 2015 the Court of Justice of the European Union (the &#8220;CJEU&#8221;) ruled that bitcoin exchanges that transfer conventional currencies such as Euros or Swedish krona into bitcoin for a fee are exempt from value-added taxes. The CJEU ruling provides an initial interpretation that bitcoin is to be treated as a currency from a tax perspective in the European Union. 
+
+&#160; 
+
+As both the regulatory landscape develops and journalistic familiarity with bitcoin increases, mainstream media&#8217;s understanding of bitcoin and the regulation thereof may improve. 
+
+&#160; 
+
+CONSUMERS 
+
+&#160; 
+
+Customers access our ecommerce website through the web and mobile devices. We place orders on behalf of our customers and oversee the fulfillment process through delivery. We support these transactions through our customer service. 
+
+&#160; 
+
+VENDORS AND DISTRIBUTORS 
+
+&#160; 
+
+We have consented to the terms of service of our current ecommerce vendors and plan to enter agreements with other vendors and distributors to offer products for sale on our ecommerce site. We are not the seller of record in these transactions, but instead earn either an affiliate fee or a processing fee on the transactions. We use payment processers to manage the conversion of the digital currency into the desired currency acceptable to the vendor, and we remit the final payment to the vendor or distributor. We manage the product data import into our platform&#8217;s Intelligent Shopping Engine utilizing APIs (application programming interfaces) from third party vendors that allow integration between our online ecommerce platform and inventory and product category information. 
+
+&#160; 
+
+COMPETITION 
+
+&#160; 
+
+E-commerce Marketplace 
+
+&#160; 
+
+In 2014, the number for merchants willing to accept digital currencies dramatically grew and more established retailers such as Overstock, NewEgg, Dell and Microsoft began accepting digital currencies. Our current and future competition is centered on the following areas: 
+
+&#160; 
+
+&#9679; Merchants that choose to accept digital currencies at their branded websites and affiliate sellers websites; &#160; &#160; &#9679; Physical &#8220;brick and mortar&#8221; locations, distributors, vendors and manufacturers that sell products and accept digital currencies as payment; &#160; &#160; &#9679; Other mobile applications, websites, shopping sites, niche aggregation sites, private sale sites and group buying sites that sell or distribute products in exchange for digital currency; &#160; &#160; &#9679; Providers of mobile applications and websites, that offer secure storage solutions for digital currency; and &#160; &#160; &#9679; Digital currency focused companies that offer exchange, payment processing, remittance, money transmission service, and financial services that enable consumers or vendors to exchange or improve the acceptance of digital currency. &#160; 
+
+&#160; 
+
+&#160; 
+
+Many of our current and potential competitors have greater resources, longer histories, more customers, and greater brand recognition. They may secure better terms from suppliers, adopt more aggressive pricing, and devote more resources to technology, infrastructure, fulfillment, and marketing. Other companies also may enter into business combinations or alliances that strengthen their competitive positions. 
+
+&#160; 
+
+Transaction Verification Service Business (bitcoin mining) 
+
+&#160; 
+
+Our current and future competition is centered on the following areas: 
+
+&#160; 
+
+&#9679; Vertically integrated companies such as Bitfury, KNC Miner, 21 Inc., Bitmain, Avalon, and BW which design and build ASIC servers and are engaged in transaction verification services through the use of their own ASIC servers; and &#160; &#160; &#9679; Companies that are engaged in transaction verification services which may have lower operating costs than our operations. &#160; 
+
+Many of our current and potential competitors have greater resources, longer histories, more intellectual property, greater hashing capacity, and lower cost operations. They may secure better terms from ASIC server suppliers, deploy ASIC servers faster than us, and devote more resources to technology infrastructure. Other companies also may enter into business combinations or alliances that strengthen their competitive positions. 
+
+&#160; 
+
+INTELLECTUAL PROPERTY AND TRADE SECRETS 
+
+&#160; 
+
+Our trademark (in application), domain names, and proprietary technology are needed for us to remain competitive and we rely on trademark, copyright, patent law, trade-secret protection, and confidentiality and/or license agreements with our employees, customers, partners, and others to protect our proprietary rights. We have registered, or applied for the registration of, a number of U.S. and international domain names, and trademarks. 
+
+&#160; 
+
+On January 2, 2014, we applied for a trademark of &#8220;BitcoinShop&#8221; with the United States Patent and Trademark Office and the application is still in process. 
+
+&#160; 
+
+TECHNOLOGY 
+
+&#160; 
+
+We use third party open source platforms as well as internally developed tools to operate our website, and a combination of proprietary technologies and commercially available licensed technologies and solutions to support our operations. 
+
+&#160; 
+
+SEASONALITY 
+
+&#160; 
+
+Based on comparable and established ecommerce trends we expect our ecommerce business will be affected by seasonality throughout the year with increased growth in the fourth fiscal quarter. Due to our short operating history we are unable to determine if seasonality will affect our business, however, we expect this pattern may repeat in the future based on comparisons to established ecommerce marketplaces and traditional &#8220;brick and mortar&#8221; stores. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+GROWTH STRATEGY 
+
+&#160; 
+
+Universal Platform Growth Strategy 
+
+&#160; 
+
+We plan to build our universal digital currency platform both through internal development, partnerships and potentially through acquisitions. Our strategy has three key phases: first develop a robust platform, second acquire customer and third monetize the platform. Our current focus is on developing the platform and integrating. 
+
+&#160; 
+
+Transaction Verification Services Growth Strategy 
+
+&#160; 
+
+We believe the time is ideal to expand our transaction verification services business and have secured an 83,000 square foot facility to provided room to grow. However this is a capital intense endeavor and our ability to scale this business will depend our access to capital on acceptable terms if at all. 
+
+&#160; 
+
+Ecommerce Growth 
+
+&#160; 
+
+Our planned growth for our ecommerce platform is to expand affiliate relationships, add drop shippers capable of international shipping and pursue exclusive product offering. 
+
+&#160; 
+
+RESEARCH AND DEVELOPMENT 
+
+&#160; 
+
+We believe that an agile development approach combined with being at the leading edge of technology trends in digital currency could be a powerful competitive advantage for us. We believe that new technologies will evolve rapidly within the digital currency ecosystem. We anticipate that part of our value proposition will be our ability to successfully test and integrate new technologies, to develop proprietary systems, and / or acquire businesses that have proprietary systems. 
+
+&#160; 
+
+ENVIRONMENTAL LAW COMPLIANCE 
+
+&#160; 
+
+It is our policy to conduct our operations in accordance with all applicable laws, regulations and other requirements. While it is not possible to quantify with certainty the potential impact of actions regarding environmental matters, particularly remediation and other compliance efforts that we may undertake in the future, in the opinion of management, compliance with the present environmental protection laws, before taking into account estimated recoveries from third parties, will not have a material adverse effect on our consolidated annual results of operations, financial position or cash flows. 
+
+&#160; 
+
+EMPLOYEES 
+
+&#160; 
+
+We currently have 2 full-time employees and 4 independent contractors working at our facility in North Carolina. 
+
+&#160; 
+
+GLOSSARY OF DEFINED TERMS 
+
+&#160; 
+
+In this Annual Report, each of the following quoted terms has the meanings set forth after such term: 
+
+&#160; 
+
+&#8220;bitcoin&#8221; &#8212; A type of a Digital Currency based on an open source math-based protocol existing on the Bitcoin Network and utilizing cryptographic security. 
+
+&#160; 
+
+&#8220;Bitcoin Exchange&#8221;&#8212; An electronic marketplace where exchange participants may trade, buy and sell bitcoins based on bid-ask trading. The largest Bitcoin Exchanges are online and typically trade on a 24-hour basis, publishing transaction price and volume data. 
+
+&#160; 
+
+&#8220;Bitcoin Exchange Market&#8221; &#8212; The global bitcoin exchange market for the trading of bitcoins, which consists of transactions on electronic Bitcoin Exchanges. 
+
+&#160; 
+
+&#8220;Bitcoin Network&#8221; &#8212; The online, end-user-to-end-user network hosting the public transaction ledger, known as the Blockchain, and the source code comprising the basis for the math-based protocols and cryptographic security governing the Bitcoin Network. 
+
+&#160; 
+
+&#8220;Blockchain&#8221; &#8212; The public transaction ledger of the Bitcoin Network on which miners or mining pools solve algorithmic equations allowing them to add records of recent transactions (called &#8220;blocks&#8221;) to the chain of transactions in exchange for an award of bitcoins from the Bitcoin Network and the payment of transaction fees, if any, from users whose transactions are recorded in the block being added. 
+
+&#160; 
+
+&#8220;CEA&#8221; &#8212; Commodity Exchange Act of 1936, as amended. 
+
+&#160; 
+
+&#160; 
+
+&#160;
+
+&#8220;CFTC&#8221; &#8212; The US Commodity Futures Trading Commission, an independent agency with the mandate to regulate commodity futures and option markets in the United States. 
+
+&#160; 
+
+&#8220;Code&#8221; &#8212; The US Internal Revenue Code of 1986, as amended. 
+
+&#160; 
+
+&#8220;Core Developers&#8221; &#8212; The core group of developers, which currently includes Wladimir J. van der Laan, Gavin Andresen, Jeff Garzik, Gregory Maxwell and Pieter Wuille, who informally oversee the development of the Bitcoin Network. The Core Developers are able to access and can alter the Bitcoin Network source code hosted on GitHub, an online service and forum used to share and develop open source code. 
+
+&#160; 
+
+&#8220;Digital Currency&#8221; &#8212; Collectively, all digital assets based upon a computer-generated math-based and/or cryptographic protocol that may, among other things, be used to buy and sell goods or pay for services. Bitcoins represent one type of Digital Currency. 
+
+&#160; 
+
+&#8220;DDoS Attack&#8221; &#8212; Distributed denial of service attacks are coordinated hacking attempts to disrupt websites, web servers or computer networks in which an attacker bombards an online target with a large quantity of external requests, thus precluding the target from processing requests from genuine users. 
+
+&#160; 
+
+&#8220;Exchange Act&#8221; &#8212; The Securities Exchange Act of 1934, as amended. 
+
+&#160; 
+
+&#8220;FDIC&#8221; &#8212; The Federal Deposit Insurance Corporation. 
+
+&#160; 
+
+&#8220;FinCEN&#8221; &#8212; The Financial Crimes Enforcement Network, a bureau of the US Department of the Treasury. 
+
+&#160; 
+
+&#8220;FINRA&#8221; &#8212; The Financial Industry Regulatory Authority, Inc., which is the primary regulator in the United States for broker-dealers. 
+
+&#160; 
+
+&#8220;Fiat Currency&#8221; &#8212; Currency that a government has declared to be legal tender, but is not backed by a physical commodity. The value of fiat money is derived from the relationship between supply and demand rather than the value of the material that the money is made of. 
+
+&#160; 
+
+&#8220;IRS&#8221; &#8212; The US Internal Revenue Service, a bureau of the US Department of the Treasury. 
+
+&#160; 
+
+&#8220;Mining&#8221; &#8212; The process by which Bitcoins are created involving programmers solving complex math problems with the computers in the Bitcoin Network. 
+
+&#160; 
+
+&#8220;SEC&#8221; &#8212; The US Securities and Exchange Commission. 
+
+&#160; 
+
+&#8220;Securities Act&#8221; &#8212; The Securities Act of 1933, as amended. 
+
+&#160; 
+
+&#8220;SIPC&#8221; &#8212; The Securities Investor Protection Corporation. 
+
+&#160; 
+
+&#8220;Transaction Verification&#8221; &#8212; Is equivalent to Mining 
+
+&#160; 
+

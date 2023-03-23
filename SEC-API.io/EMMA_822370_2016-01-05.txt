@@ -1,0 +1,682 @@
+ ITEM 1. Business &#160;
+
+With respect to this discussion, the terms &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; MYnd,&#8221; and the &#8220;Company&#8221; refer to MYnd Analytics, Inc., a Delaware corporation and its wholly-owned subsidiary CNS Response, Inc., a California corporation (&#8220;CNS California&#8221;). 
+
+&#160;
+
+Introduction 
+
+&#160;
+
+MYnd Analytics, Inc. is a cloud-based predictive analytics company that provides objective clinical decision support to mental healthcare providers for the treatment of behavioral disorders, including depression, anxiety, bipolar disorder and post-traumatic stress disorder (&#34;PTSD&#34;). The Company uses its proprietary neurometric platform, PEER Online, to generate Psychiatric Electroencephalogram, or EEG, Evaluation Registry (&#34;PEER&#34;) Reports to predict the likelihood of response by an individual to certain medications for the treatment of behavioral disorders.
+
+&#160;
+
+In April 2014, based on an interim analysis of less than 10% of the planned clinical trial enrollees, statistically significant results were achieved for ten of the twelve endpoints of the trial conducted at the Walter Reed National Military Medical Center (&#34;Walter Reed&#34;) and Fort Belvoir Community Hospital (&#34;Fort Belvoir&#34;) (collectively, the &#34;Walter Reed PEER Trial&#34;). However, in May 2014, following the interim analysis and submission of the initial results, the Walter Reed Institutional Review Board (the &#34;Walter Reed IRB&#34;) suspended enrollment of new patients in order to conduct an internal review. We do not expect to recommence the Walter Reed PEER Trial. We are continuing our discussions with the US Military&#8217;s Defense Health Agency (the &#8220;DHA&#8221;), which has expressed interest in conducting further PEER Trials at other Military Treatment Facilities (&#8220;MTFs&#8221;) in the future.
+
+&#160;
+
+At our annual meeting of shareholders held on October 28, 2015, our shareholders approved a proposal to change the Company&#8217;s name to MYnd Analytics, Inc. from CNS Response, Inc. The new corporate name was selected to better reflect the Company&#8217;s commitment to; (i) personalized medicine, (MY) ; neuro data, (nd) , and (iii) predictive analytics (Analytics) . 
+
+&#160;
+
+The Challenge and the Opportunity 
+
+&#160;
+
+Psychotropic medications have become the dominant treatment for mild to severe behavioral disorders with greater than 400% growth in the prescription of antidepressant medications over the last two decades. However, recent research has emerged challenging the assumption of efficacy of psychotropic medications for the treatment of mild to severe behavioral disorders, finding that these medications often do not work or lose their efficacy over time. There are over 17 million Americans who are considered to be &#34;treatment-resistant,&#34; having failed two or more courses of psychotropic medication treatment for their behavioral disorder. For these treatment-resistant patients, the conventional &#34;trial and error&#34; method of prescribing psychotropic medications has resulted in low efficacy, multiple side-effects and high relapse rates leading to treatment discontinuation, prolonged patient suffering and billions of dollars in additional healthcare costs to payers.
+
+&#160;
+
+&#160; 3 &#160; 
+
+&#160;
+
+&#160;
+
+Currently, due to the lack of objective neurophysiological data available to physicians, there is no objective test to guide the prescribing of psychotropic medications. Physicians regularly make prescribing decisions based on incomplete symptomatic factors. Consequently, the underlying pathology and physiology of behavioral disorders are often not analyzed effectively by treating physicians and treatment for the patient is often ineffective, costly and may require multiple different courses of treatment before an effective medication is identified, if at all. To address this unmet medical need, we offer our PEER Online technology to analyze an individual's digital Quantitative EEG (&#34;QEEG&#34;). This analysis produces a PEER Report that predicts the likelihood of response, or non-response, to certain medication classes and individual medications. The reliability of QEEG data as a predictor of medication outcomes has been well established in over 100 published studies involving more than 6,000 patients. The PEER Report has been used as adjunctive information by physicians for over a decade on approximately 12,000 patients suffering from a variety of behavioral disorders including depression, anxiety disorders, obsessive-compulsive disorder (&#34;OCD&#34;), bipolar disorder, PTSD, addiction and eating disorders, including anorexia.
+
+&#160;
+
+Our PEER Online technology correlates medication outcomes in our proprietary database with an individual's QEEG data to predict the efficacy of psychotropic medications by class and individual medication. Our founders developed this process in an effort to improve pharmacotherapy outcomes by replacing the low efficacy practice of a physician prescribing medications by &#34;trial and error&#34;, with objective, individualized data, known as &#34;personalized medicine,&#34; to better inform a physician's prescribing decisions. We believe our PEER Online technology is instrumental in providing personalized medicine to patients suffering from behavioral disorders, especially those who are &#34;treatment resistant.&#34; Addressing the unmet clinical need for effective prescribing is crucial in overcoming the low efficacy, side-effects and high relapse rates of the current trial and error method of prescribing which we believe leads to treatment discontinuation, prolonged patient suffering and billions of dollars of additional healthcare costs to payers for patients with behavioral disorders.
+
+&#160;
+
+Military Clinical Trials 
+
+&#160;
+
+The performance of pharmacotherapy in military mental healthcare has been, and continues to be, a focus of media coverage and legislative debate. The Walter Reed PEER Trial was designed to generate real-world, generalizable evidence with a significant statistical sample of almost 2,000 subjects. The protocol was designed as a randomized, double-blind, multi-site controlled clinical trial for military patients with a primary diagnosis of depression, and allowed for comorbid diagnoses such as PTSD, mTBI and other behavioral disorders. Walter Reed acted as the lead site and provided the Principal Investigator, with a secondary site at Fort Belvoir. Its primary prospective endpoint was a change from baseline using the Quick Inventory of Depression Symptomatology Self Report (QIDS-SR16) scale in comparing the experimental group with the control group. Additional endpoints included: a) suicidality measured via the Concise Health Risk Tracking scale (CHRT); b) post-traumatic stress via the PTSD Checklist (PCL-C); c) achievement of Maximum Medical Improvement (MMI) and psychiatric adverse events.
+
+&#160;
+
+The protocol was designed to produce reportable results at several points during the study, with interim results to be assessed when the study reached 10%, 25%, and 50% of targeted enrollment. A post-hoc analysis was performed to evaluate the predictiveness of the database for the entire evaluable patient population, including the control subjects (i.e. did the physicians, in both the experimental and control groups, whose prescriptions matched medications rated highly in the PEER Reports do better than physicians whose prescriptions did not match up with the medications rated highly by the reports). A brief timeline follows:
+
+&#160;
+
+&#183; Approvals : Multiple approvals of protocol design, pre-specified endpoints and project staffing were obtained in 2012 and in early 2013. The U.S. Food and Drug Administration (&#8220;FDA&#8221;) Center for Devices and Radiological Health concluded the trial to be a Non-Significant Risk (&#8220;NSR&#8221;) trial that did not require an Investigational Device Exemption (IDE). &#183; Recruiting: Recruiting began at Walter Reed National Military Medical Center in March of 2013, during the first month of sequestration (budget reductions imposed by Congress), and subsequently at Ft. Belvoir Community Hospital in June 2013. &#160;
+
+&#183; Data collection : Data was collected by independent, third-party contractors from the Henry M. Jackson Foundation who entered the data into an FDA-compliant electronic data capture system. Importantly, no issues have been raised which could have vitiated the standard research protections, including patient randomization and double blinding, thereby preventing data bias; consequently there was no potential to impact the significant interim findings. Throughout the trial, there were no subject or provider complaints. &#160;
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Interim analysis: Per the protocol, an interim analysis was performed in early 2014, by our bio-statistician, yielding a statistically significant and material safety finding with respect to the current standard of care verses PEER. The interim analysis indicated that suicidality was significantly higher for physicians who did not use PEER, than for those who followed PEER recommendations. Similar findings were obtained for medication efficacy and treatment efficiency, all of which were consistent with previous PEER clinical trials. The Army Surgeon General shared early results with Congress, and a manuscript summarizing the interim findings was prepared, submitted for peer review to a neuropsychiatric journal, and was accepted for publication. Nevertheless, Walter Reed leadership has initiated no contact with the Company or the co-investigators from academia, who were study participants, to discuss these findings. &#183; Recruiting hold: The Walter Reed Institutional Review Board halted recruiting of subjects into our trial two days after the journal manuscript was submitted to them, whereupon they initiated their own internal investigation of the project. Walter Reed has subsequently refused to provide us with any details regarding their internal investigation. However, under the Freedom of Information Act (FOIA), we have obtained certain documentation pertaining to Walter Reed's internal investigation of the Walter Reed PEER Trials, which indicated that: &#160;
+
+- The PEER trial posed no quality or safety issues to subjects. - The Walter Reed and Fort Belvoir leadership recommended to the Acting Principal Investigator that the trial be continued at Walter Reed and Fort Belvoir with new personnel and minor protocol revisions and resubmission to the Walter Reed IRB. - The Walter Reed reviewer recommended to the Walter Reed leadership that all interim data and findings be eliminated due to &#34;administrative issues&#34;. While Walter Reed has offered no explanation to the Company regarding this recommendation, materials we obtained through FOIA suggest that there was concern that the military &#8212; per the protocol &#8212; was required to pay approximately $40,000 for production of PEER Reports. The Walter Reed reviewer noted: &#160;
+
+&#8220;The financial gain to be made by CNSRI (CNS Response, now MYnd Analytics) should their device be proved to be accurate and beneficial is most likely in the billions of dollars. CNSRI should be bearing every aspect of financial risk related to this trial.&#8221; 
+
+&#160;
+
+Further, based on the information returned to us under the FOIA, Walter Reed's internal investigation determined that Walter Reed&#8217;s purchase order and payment for PEER Reports had been designated for commercial items, under which research and publication of results is prohibited. We believe that the Walter Reed purchase order should have been designated for clinical research. This critical distinction was never communicated with the Company, but was obtained in response to our FOIA requests, and is not supported by the contract documentation we had provided the military and by Walter Reed&#8217;s internal communications. We have offered to correct the record, but have received no response from Walter Reed. Further, while the Company, as the Trial Sponsor, is required to maintain all clinical trial records, those records remain in the possession of Walter Reed, which has refused to return these records (patient reported outcomes) to us.
+
+&#160;
+
+&#183; Continuation of protocol under Defense Health Agency: Following the Walter Reed review, senior leadership of the Defense Health Agency remarked in a meeting with the Company that PEER represents important technology with scientific merit and further recommended that our research should continue. The Company has agreed that, regardless of the issues with Walter Reed, to rapidly commence new trials at other locations, using substantially the same protocol as employed in the Walter Reed Trial. Furthermore leadership at the Defense Health Agency pledged in a meeting with the Company in March 2015 to work toward continuing the Walter Reed protocol at other locations, subject to finding an acceptable senior principal investigator within the military to lead the project. As of the date of this filing, no senior principal investigator has yet been identified by the military. &#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Next steps: The Company is proceeding with rapid replication trials outside the U.S. military, commencing with the SoCal PEER Trial and the Canadian Armed Forces/NATO Trial, and once approved by the Defense Health Agency, we will proceed on a &#34;pay as you go&#34; basis. We anticipate these trials will have the effect of providing additional evidence regarding the effectiveness of our PEER technology to the military, while mitigating further administrative delays. &#160;
+
+We believe that the Walter Reed PEER Trial protocol generated good evaluable data and was well vetted - with multiple reviews and inputs by the FDA, the Internal Review Boards (&#34;IRB&#34;) of Walter Reed and Fort Belvoir and other subject matter experts. This protocol is therefore the foundation of the protocols designed for the SoCal PEER Trial and the Canadian Armed Forces/NATO Trial.
+
+&#160;
+
+Our Strategy 
+
+&#160;
+
+For 2016, the Company is focused on a commercial rollout of its PEER Online technology in Southern California using a targeted social media advertising campaign and providing in-house EEG services. Successful proof of this marketing and service concept will result in the expansion of PEER Online services to other metropolitan areas.
+
+&#160;
+
+The key elements of our strategy are to:
+
+&#160;
+
+&#183; Engage consumers and their physicians. Consumers are transforming healthcare markets through their demand for better outcomes and greater involvement in the process of treatment selection. The emerging strategy in the pharmaceutical industry has shifted to consumer outreach through advertising, social media, and events because consumers drive the sale for new interventions and information tools. Activated consumers bring this information to physicians who are often &#8220;sold&#8221; by their customer. MYND anticipates that it will engage consumers through: &#160;
+
+- Sustained social media marketing, which we initially intend to focus on our base of providers in Southern California, and thereafter intend to expand to other metropolitan areas. - EEG support through both mobile EEG subcontractors and a physical EEG testing location where patients can easily obtain an EEG for the generation of a PEER Report. We believe that by making the process of getting a PEER Report more convenient, more patients will get a PEER Report. - Targeted public relations and media placements based on news events like the SoCal PEER Trial, which complement and amplify the social media messaging. - Expanded use of intelligent marketing automation to find and convert sales, as well as optimize and speed consumer adoption. &#160;
+
+&#183; Build evidence for expanded applications of PEER. Virtually all clinical trials of PEER and related technologies have focused on improvement in medication efficacy for physicians utilizing PEER Reports. However, based on findings from more recent trials, we anticipate that we will add additional endpoints or subgroups to future trials which, if successful, could lead to expanded applications for PEER including: &#160;
+
+- The reduction of risk as a result of reduced trial and error pharmacotherapy, some studies have indicated corresponding reductions in severe adverse events including suicidality; - Treatment-naive patients will be included in the prospective clinical trial, which could demonstrate the utility of PEER Reports to support first-line treatments in primary care settings; and - PTSD and mTBI are both included as comorbid diagnoses in the trials, which could demonstrate potential clinical utility for PEER Reports in an area with few approved treatments and significant trial and error pharmacotherapy. - Adding genetic data to the prospective clinical trials, could demonstrate that the combination of a PEER Report and a genetic test could be more predictive and result in improved outcomes for patients &#160;
+
+&#183; Expand payer reimbursement. Given their large enrollment and randomized, controlled designs, clear outcomes from the SoCal PEER Trial and Canadian Forces/NATO trials are expected to fulfill evidence requirements for PEER for virtually all healthcare payers. We have already received approval as an Emerging Technology from United Healthcare, which stipulated that one more successful, significant controlled study could result in full reimbursement approval. We anticipate that a successful clinical finding in either of our current trials will drive broad adoption by standard payers. Additionally, EEG and QEEG services representing up to half of the cost of PEER are now routinely reimbursed by certain payers, lowering the out of pocket cost of PEER and supporting our consumer and physician marketing initiative. &#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Facilitate military adoption. Over one million soldiers and family members are estimated to need care in the military for depression, PTSD, and mTBI following the conflicts in Iraq and Afghanistan. Simultaneous with the commercial rollout of PEER Online, we will be conducting a clinical trial, the &#8220;SoCal Trial&#8221;, using substantially the same protocol as the Walter Reed PEER Trial. The goal of the SoCal Trial is to replicate the results achieved in prior PEER trials, as well as the unpublished interim results of the Walter Reed PEER Trial. Additionally, we anticipate the commencement of a clinical trial with the Canadian Forces, with subsequent expansion to other NATO participants (the &#8220;NATO Trial&#8221;) using substantially the same protocol, which is currently under review by the IRB for the Canadian forces. All these clinical trials use the PEER Interactive platform to provide PEER Reports to psychiatrists treating patients primarily for depression with various comorbidities. &#160;
+
+&#183; Expand MYnd&#8217;s voice in legislative demands for military health reform and evidence-based treatments for active duty military and veterans. Preventable medical error in military hospitals, waiting lists for treatment in the Veterans Affairs Hospitals or other treatment facilities, and other challenges to military mental healthcare have become major issues in the news during the past year, leading to unprecedented demands from Congress for transparency and accountability on these issues. &#160;
+
+- Evidence-based treatment: MYnd has had an active voice in driving adoption of evidence-based treatments that can have a measurable impact on soldiers, veterans and their families today. - Veteran Support Groups: Through active involvement with the top five veteran service organizations, US House testimony, US Senate NDAA language, AdvaMed Capitol Hill presentation and issue advocacy, MYnd will seek to harness this bipartisan support to drive more rapid recognition of PEER technology: - Advocacy groups: We will seek to expand the role of third party recommendations through inclusion of the MYnd message in communications by veteran service organizations to their members. - Congressional Support: We intend to solicit congressional support for bills introduced in the House of Representatives and Senate which call for evidence based medicine. - Key Opinion Leaders: We expect to continue working with key opinion leaders whose objective align with better mental health care and cost savings. &#160;
+
+PEER Technology 
+
+&#160;
+
+Our technology offers an improvement over traditional methods for evaluating pharmacotherapy options in patients suffering from non-psychotic behavioral disorders, because it correlates the success of courses of medication with the neurophysiological characteristics of a particular patient. PEER provides medical professionals with medication sensitivity data for a subject patient based upon the identification and correlation of treatment outcome information from other patients with similar neurophysiologic characteristics. This treatment outcome information is contained in what we believe to be the largest outcomes database for mental health care pharmacotherapy; there are now over 38,000 outcomes within the database from over 10,000 unique patients with behavioral disorders. We refer to this database as the PEER Online database (formerly known as the &#8220;CNS Database&#8221;). For each patient in the PEER Online database, we have compiled neurophysiology data from EEG scans, symptoms and outcomes often across multiple treatments from multiple psychiatrists and other physicians. This patented technology, called PEER Online TM (based on a technology known as &#8220;Referenced-EEG&#174;&#8221; or &#8220;rEEG&#174;&#8221;), represents an innovative approach to prescribing effective medications for patients suffering from debilitating behavioral disorders.
+
+&#160;
+
+PEER Reports 
+
+&#160;
+
+We provide concise reports (&#8220;PEER Reports&#8221;) for qualified medical professionals which summarize the historical treatment efficacy of specific medications for patients with similar EEG brain patterns.
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+PEER Reports do not diagnose or direct a specific treatment for a mental health condition, but like all lab results, provide objective, evidence-based statistical information to help the prescriber in their selection of an appropriate medication for a patient. With PEER Reports, physicians order a digital EEG for a patient, which is then referenced to the PEER Online database. By considering this reference correlation, an attending physician can better establish a treatment strategy with the knowledge of how other patients with similar brain function have previously responded to a myriad of treatment alternatives. Analysis of this complete data set yielded a platform of neurometric variables that have shown utility in characterizing patient response to diverse medications. This platform then allows a new patient to be characterized based on these neurometric variables and the database to be queried to understand the statistical response of patients with similar brain patterns to the medications currently in the database.
+
+&#160;
+
+The development of pathophysiological markers as the new method for identifying the correct patient population to research is being encouraged by the National Institute of Mental Health (&#8220;NIMH&#8221;) and the FDA.
+
+&#160; 
+
+The PEER Online Process 
+
+&#160;
+
+In 2011, the Company introduced a fundamentally new approach to its product, publishing its physician outcome registry to the web and providing online access to methodology, raw data, and individual medication analyses &#8211; PEER Reports &#8212; for researchers and clinicians who use EEG in their practice. PEER Reports are offered as a neurometric service, in which QEEG readings are referenced to the Company&#8217;s outcome registry database to identify patient-specific probabilities of response, and non-response, to different medications. EEG recording devices are widely available, inexpensive to lease and are available in most metropolitan areas via institutional and independent mobile EEG providers.
+
+&#160;
+
+A second generation of PEER Online was released in June 2014, and rolled out to practitioners. This version of PEER Online has a superior user interface which increases the ease of use by a practitioner. It also enables the practitioner to track and upload a patient's outcomes to the Company. The service works as follows:
+
+&#160;
+
+&#183; patients are directed to a local PEER network provider, who performs a standard digital EEG; &#183; the EEG data file is uploaded via a secure web portal to our central analytic database; &#183; we analyze the data against the PEER Online database for patients with similar brain patterns, based on roughly 5.000 variables produced by FDA approved QEEG software; &#183; we provide a descriptive, statistical analysis describing the success of patients with similar neurophysiology on different pharmacotherapies (much like an antibiotic sensitivity report commonly used in medicine); and &#183; the analysis is sent back to the attending physician via a secure web portal, usually by the next business day. &#160;
+
+Currently we do not operate our own healthcare facilities, employ our own treating physician or provide medical advice or treatment for patients; however, to enhance a patient&#8217;s convenience, we plan to provide contracted and on-site EEG services in the future. Physicians who contract for our PEER Reports own their own facilities or professional licenses and control and are responsible for the clinical activities provided on their premises. Patients receive medical care in accordance with orders from their attending physicians or providers. Physicians who contract for PEER Reports are responsible for exercising their independent medical judgment in determining the specific application of the information contained in the PEER Reports and the appropriate course of care for each patient. Following the prescription of any medication, physicians are presumed to administer and provide continuing care treatment to the patient.
+
+&#160;
+
+Referenced-EEG (rEEG&#174;), the Company&#8217;s original product, was developed by a pathologist and a psychiatrist who recognized that correlation of a patient&#8217;s unique brain patterns to known long-term medication outcomes of similar patients might significantly improve therapeutic performance.
+
+&#160;
+
+PEER Interactive 
+
+&#160; 
+
+Commencing in May 2013, the Company began clinical trials of PEER Interactive, a significantly updated and automated version of PEER Online.
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; PEER Interactive represents a significant expansion of the current database, based on receipt of hundreds of new patient outcomes from network physicians. &#183; The Company has also upgraded its normative QEEG database to improve the robustness and utility of its findings by converting to the Neuroguide database platform generated by Applied Neurosciences Inc. In addition to an improved normative dataset and additional variables for characterizing neurophysiology (10 times more than our original database), this platform offers the opportunity for improved pattern recognition and display of three-dimensional findings from QEEG through LORETA, a modeling capability which analyzes deeper structures within the brain. &#183; Finally, clinical utility and user interface have been improved in the PEER Interactive release. Physicians are able to access the PEER database utilizing tablet computers (such as the Apple iPad) and are receiving same-day turnaround of PEER Reports. &#160;
+
+PEER Evidence 
+
+&#160; 
+
+The correlation of QEEG variables with individual medication outcomes has been researched substantially over the past two decades, as documented in over 100 studies involving over 6,000 subjects. The vast majority of this growing evidence base is the result of independent university and commercial research. Because PEER machine-learning algorithms aggregate important QEEG features from all sources, the Company believes that its research has contributed significantly to this growing evidence base.
+
+&#160;
+
+The PEER Meta Data Analysis: The Company presented its research at the Military Health Services Research Symposium in August 2015, summarizing the full scope of clinical research on PEER and similar technologies.
+
+&#160;
+
+&#183; PEER addresses a longstanding problem: Psychiatry has long searched for a biomarker technology to objectively guide medication choice. &#160;
+
+&#183; &#8220; The problem is that it&#8217;s trial and error for any one person. Even the most skilled psychiatrists tend to choose medications or therapy based on population-wide statistics, not individual profiles .&#8221; Helen Mayberg, professor of psychiatry, neurology, and radiology at Emory University &#160;
+
+&#183; Evidence for current treatments has been overstated, as noted by Erick Turner in Selective Publication of Antidepressant Trials and its Influence on Apparent Efficacy, New England Journal of Medicine, 2008. &#160;
+
+- &#8220; Among 74 FDA-registered studies, 31%, accounting for 3,449 study participants, were not published. Whether and how the studies were published were associated with the study outcome&#8230; According to the published literature, it appeared that 94% of the trials conducted were positive. By contrast, the FDA analysis showed that 51% were positive.&#8221; &#160;
+
+&#183; The military has stated that clinical results in this drug class are inadequate &#160;
+
+- &#8220; Despite the magnitude of the problem, treatment of mental illness at best and unsatisfactory at worst. Current psycho-pharmacotherapy practices are clinician-dependent, inductive and assume that certain behavioral symptoms respond to a specific medication class. This selection process is highly subjective. Further, there has been no objective method to select which of the numerous psychoactive medications will be effective in a particular patient. A large pharmacoeconomic benefit could be seen if medications for patients could be based on an objective tool to inform the choice of medication by responsiveness or decreased adverse events. &#8221; Per a senior military researcher. &#160;
+
+- Ineffective treatments crowd out &#8220;good&#8221;: 45% of soldiers dropout of treatment after 1 visit. &#160;
+
+- Budget impact: Patients who fail to respond to their first two medications have overall healthcare costs that are four times higher. Surprisingly, most of that increase is attributable to direct medical costs and lost productivity, not the costs of mental healthcare. &#160; 
+
+&#183; PEER Evidence reviews and technology assessments &#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160;
+
+- A 2008 systematic review by the Center for Health Economics, Epidemiology and Science Policy, United Biosource concluded: &#160;
+
+In conclusion, the evidence supporting PEER appears superior to that supporting APA or TMAP treatment guidelines for Treatment Resistant Depression (TRD) and certainly the results of the STAR*D Level 3 and Level 4 studies that are commonly used by payers.
+
+&#160;
+
+- A 2011 Technology Assessment by United Healthcare suggested that one more randomized study of sufficient quality and effect size would put PEER technology in the &#8220;proven&#8221; range: &#160;
+
+The Scientific Merit Rating Scale average for all studies was below 4, however the strongest studies averaged a SMRS score of 4.05, which is in the proven range. However, the quantity of peer-reviewed studies focused on the treatment resistant depression population (2 studies as opposed to the required 3 studies) falls in the unproven category. The committee felt that given the SMRS scores and other factors, this technology does demonstrate a higher level of evidence, and therefore is considered an emerging technology. 
+
+&#183; PEER randomized controlled trials &#160;
+
+There have been three previous randomized controlled trials of PEER and its predecessor product, rEEG:
+
+&#160;
+
+- Veterans Administration - Sepulveda (J Am Physicians &#38; Surgeons, 2007) &#160;
+
+- Depression Efficacy Pilot Study (NCDEU 2009) &#160;
+
+- Depression Efficacy Study - Harvard/Stanford multi-site (J Psych Res, 2011) &#160;
+
+In this pooled analysis (n = 145) subjects, PEER guidance was compared to Treatment As Usual (TAU) in the treatment of patients with Treatment-Resistant Depression (TRD).
+
+&#160;
+
+The mean change from baseline was a 43% improvement when treatment guided by PEER was used, compared to a 20% improvement for patients receiving Treatment as Usual. Moreover, PEER surpassed results of the Control Group in half the number of visits, suggesting that reduced trial and error can yield a 50% improvement in treatment efficiency, as shown in the charts below.
+
+&#160;
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#183; Independent clinical trials &#160;
+
+- In addition to the above, an additional eight (8) randomized controlled trials with over 1,900 subjects have been performed by other researchers, demonstrating utility for EEG biomarkers in response to traditional antidepressants, experimental compounds (Ketamine), and non-pharmacologic treatments like Transcranial Magnetic Stimulation (cf. www.peerdossier.com ). &#160;
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160;
+
+- Independent replication of methodology: a group of scientists at McMaster University recently replicated our PEER technology&#8216;s machine-learning approach, using different classifiers and statistical techniques but achieving a remarkably similar result, with 87% predictive accuracy. &#160;
+
+&#8226; Observational studies &#160;
+
+- Twenty (20) observational cohort studies with over 1,400 subjects have been conducted on rEEG/PEER and similar technologies, with consistently positive findings. &#160;
+
+- One particular area of interest in these studies is Suicidality, since all antidepressant medications carry FDA &#8220;black box&#8221; warnings for Suicidality. In the largest recent study of antidepressant response, the STAR*D trial found that 8.2% of patients experienced emergence or worsening of suicidality on their second antidepressant. Specific baseline QEEG features have been correlated with treatment emergent suicidal ideation in Depression (Iosifescu 2008), with statistically significant results (P=.011) even after controlling for gender, baseline suicidality, and antidepressant drug choice. &#160;
+
+- A 2012 open label study of 435 health plan participants identified statistically significant improvements in Suicidality (85%, P=0.001), medication efficacy (Clinical Global Improvement P=0.001), reduced medication use (P=0.001), and more rapid improvement for PEER subjects than for patients whose treatment did not adhere to the PEER Report. &#160;
+
+- In a pooled analysis of Adverse Event data from this 2012 review and the Depression Efficacy Study, severe adverse events were more than twice as likely in patients receiving treatment not recommended by rEEG/PEER. &#160;
+
+&#8226; Predictive accuracy of PEER vs common diagnostic tools. &#160;
+
+- Overall predictive accuracy for PEER is 86%, which compares favorably to commonly used and reimbursed tests such as Mammogram (61%), EKG for heart attack (63%), or UTI assays (61%). &#160;
+
+- 10-fold cross validation is performed to test how well the models for each classifier generalize to an independent data set. &#160;
+
+- PEER Interactive is a new kind of learning registry that uses machine learning to improve the accuracy and robustness of its predictions. There are currently over 10,000 unique patients in the PEER Database. &#160;
+
+&#8226; Comparative evidence: given the declining level of evidence for current treatments (51% positive studies) delivered under trial and error administration, and the increasing predictive accuracy of PEER (86%), the Company believes that the weight of evidence is shifting toward use of objective tools like PEER. &#160;
+
+Walter Reed PEER Trial: In April 2013, the Company commenced a clinical trial at Walter Reed and Fort Belvoir Community Hospital, focused on subjects with a primary diagnosis of depression with various comorbidities, including PTSD and mTBI. In April 2014, based on an interim analysis of less than 10% of the planned clinical trial enrollees, statistically significant results were achieved for ten of the twelve endpoints of the Walter Reed PEER Trial. 
+
+&#160;
+
+At the request of Congress, the Company and the Army Surgeon General have provided information regarding evidence for PEER, and specific performance of the Walter Reed PEER Trial. On July 10, 2014, the Company provided testimony to the House Veterans Affairs Committee on the subject of Suicide Prevention, and the potential contribution of technologies such as PEER Interactive. This testimony included the following:
+
+&#160;
+
+&#183; Treatment efficiency: previous studies have demonstrated a potential for a 40% improvement in treatment efficiency through the reduction of trial &#38; error. Improved treatment efficiency has the potential of opening up more treatment slots, which is a critical need for VA facilities contending with long waiting lists. &#183; PEER can complement current VA suicide prevention programs: a prior published study demonstrated an 87% reduction in suicidal ideation for patients treated according to PEER recommendations (DeBattista, 2012). The use of QEEG features to predict suicidal ideation has been independently demonstrated in other studies (Iosifescu, 2008; Hunter, 2010), and has been included as a secondary endpoint in the Walter Reed PEER Trial. &#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Outcome Metrics: the Institute of Medicine released a four-year study on PTSD research and treatment in June, 2014, finding that no consistent outcome metrics were collected within the VA or DoD healthcare systems, thereby rendering a $9.3 billion investment in PTSD research unmeasurable. By contrast, physicians using PEER capture and record medication outcomes with every patient visit under the current protocol. &#160;
+
+On November 19, 2014, MYnd Analytics, Inc. again provided a submission for the record to the House Committee on Veterans' Affairs, Subcommittee on Health, for a legislative hearing in consideration of H.R. 5059, the Clay Hunt Suicide Prevention for American Veterans Act. The submission for the record included the interim results based on the first 10% of trial enrollment of the Walter Reed PEER Trial. When physicians used predictive analytics in the form of PEER information to establish a treatment strategy they demonstrated the following statistically significant results:
+
+&#160;
+
+&#183; 75% greater improvement in Suicidality scores &#183; 144% greater improvement in Depression scores &#183; 139% greater improvement in Post-Traumatic Stress Disorder (PTSD) scores &#183; 43% more patients remained in treatment, with more than 50% improvement in treatment efficiency &#160;
+
+&#160;
+
+&#160; Depression Efficacy Study : Over the last few years, we have been primarily focused on demonstrating the efficacy of PEER Report-informed treatments through multiple clinical trials. The largest of these &#8212; the Depression Efficacy Trial &#8212; was a multi-center, randomized, parallel controlled trial completed in 2009 at 12 academic and commercial sites, including Harvard University, Stanford University, Cornell University, University of California Irvine, Rush University and other sites. The study began in late 2007 and was completed in September 2009. The study screened 465 potential subjects with Treatment-Resistant Depression and ultimately randomized 114 participants to a 12-week course of treatment utilizing PEER Reports in the experimental group and a modified STAR*D algorithm in the control group (STAR*D, or Sequenced Treatment Alternatives to Relieve Depression, was a large, seven-year study sponsored by the National Institute of Mental Health that was completed in 2006). Primary clinical outcome measures included the Quick Inventory of Depression Symptomology (QIDS-SR16) and the Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q-SF). Top-line results were consistent with previous trials of PEER Reports:
+
+&#160;
+
+&#183; The study found that physicians using PEER Reports significantly outperformed the modified STAR*D treatment algorithm beginning at week 2. The difference, or separation, between PEER Reports and the STAR*D control group was 50 and 100 percent for the study&#8217;s two primary endpoints. By contrast, separation between a new treatment and a control group often averages less than 10 percent in antidepressant studies. Separation was achieved early (in week 2) and was durable, continuing to grow through week 12. &#160;
+
+&#183; Statistical significance (p &#60;.05) was achieved on all primary and most secondary endpoints. &#160;
+
+Commercial Payer Analysis: During 2011, a retrospective analysis was conducted of physician reports and health records of patients who were members of several of the Nation&#8217;s largest managed care networks. The results were published in Neuropsychiatric Disease and Treatment - the journal of the International Neuropsychiatric Association (INA). The paper, &#8220;Measuring Severe Adverse Events and Medication Selection Using A &#8216;PEER Report&#8217; for Non-Psychotic Patients: A Retrospective Chart Review,&#8221; was authored by Daniel Hoffman M.D., of the Neuro-Therapy Clinic, Charles DeBattista M.D., of the Stanford University School of Medicine, Rob Valuck, Ph.D., from the University of Colorado Health Sciences Center and Dan Iosifescu, M.D., of the Mood and Anxiety Disorders Program, Mount Sinai School of Medicine and Harvard University Faculty. The analysis of 257 evaluable patient records for the period starting in 2003 through mid-2011 represents cases in which the prescribers utilized PEER Reports for these patients. The analysis found that prescribers using the PEER Reports reported reduced trial-and-error pharmacotherapy through the following findings:
+
+&#160;
+
+&#183; 27 patients (11%) actually required no medications at all after the PEER Report. &#160;
+
+&#160; 13 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Of the remaining patients who required medications: &#160;
+
+- 87% of the patients achieved &#8220;much improved&#8221; or &#8220;very much improved&#8221; on the Clinical Global Improvement standardized outcomes measurement and 71% showed significant improvement using the Quality of Life Enjoyment and Satisfaction Questionnaire. - 69% of the patients achieved Maximum Medical Improvement (MMI) in an average of four visits. - Out of 68 (26%) patients who had reported suicidality preceding their PEER Report, nine (4%) reported suicidality during the average two year follow-up period. - Out of 33 patients who had experienced a severe adverse event on their previous medications, 18 (55%) had PEER Reports which indicated poor outcomes for those medications in patients with similar EEG findings, suggesting caution in using those drugs. &#160;
+
+Medco Analysis: In 2011, the Company signed an agreement with Medco Health Services Inc. to analyze historical PEER Report outcome results in terms of Medco drug and healthcare claims datasets. Approximately 2,200 matching records were analyzed, yielding about 211 patients for whom 365 days of continuous claim data were available before and after the test. Based on these data, the Company&#8217;s consultants assessed the performance of physicians before and after testing. Findings include:
+
+&#160;
+
+&#183; significant changes in physician prescribing behavior: approximately 92% of physicians receiving PEER Reports changed pharmacotherapy strategies post-test, with over half changing every single medication; and &#183; increased proportion of generic prescribing: (generic utilization increased 32% after receipt of PEER Reports). &#160;
+
+Medco Research performed an analysis of the tested group against a control cohort of patients in its database matched by age, sex, disease-chronicity and prescription profile.
+
+&#160;
+
+&#183; The primary endpoint of the analysis was to measure impact on healthcare utilization, with a 25% reduction in health care costs experienced for those in the PEER group compared to those in the control cohort. However, because the claim sample size was small (only 29 health care records), the reduction did not reach statistical significance. &#183; Drug mix: a significantly higher proportion of older medications were utilized by physicians in the tested group, with generally fewer SSRIs (Selective Serotonin Reuptake Inhibitors) and Atypical Antipsychotics, and categorical increases in MAOI (Monoamine Oxidase Inhibitors) and Tricyclic class antidepressants, and certain stimulants. &#160;
+
+Eating Disorders Study: In November 2011, we published in Neuropsychiatric Disease and Treatment - the journal of the INA, a paper entitled &#8220;Retrospective Chart Review of a Referenced EEG Database in Assisting Medication Selection for Treatment of Depression in Patients with Eating Disorders.&#8221; The physicians reviewed two-year pre-treatment data and between two- to five-year follow-up data, and found that study patients experienced significantly decreased depressive symptoms and overall 53 percent fewer hospitalization days, which significantly reduced overall healthcare costs.
+
+&#160;
+
+Polypharmacy Paper: We published an additional paper in Neuropsychiatric Disease and Treatment - the journal of the INA, entitled &#8220;Polypharmacy or Medication Washout: An Old Tool Revisited&#8221;. The paper includes a comparison of the advantages and risks from using medication washout compared to polypharmacy with treatment-resistant patients. Polypharmacy is a common medical practice in which physicians prescribe additional psychiatric medications on top of previous medications already being used for a patient. This can result in patients being on too many drugs with the potential for harmful side effects. When done appropriately, washing medications out of select patients can be valuable in supporting better patient diagnosis and assessing medication needs, and can reduce the risks resulting from unknown drug interactions. While some patients will still need more than one medication as part of their treatment regimen, the ultimate goal is to determine which medications are necessary and effective for an individual patient. The paper highlights previous study findings and current data related to medication washout and polypharmacy.
+
+&#160; &#160; 
+
+&#160; 14 &#160; 
+
+&#160;
+
+&#160; 
+
+The Market for PEER Reports 
+
+&#160; 
+
+PEER is composed of two components: (1) an EEG and (2) a conversion to a Quantitative EEG (&#8220;QEEG&#8221;) analysis and the generation of a PEER Report. Payers now routinely reimburse EEG recording and the QEEG under current procedure codes, which are approximately $400 or half of the total retail cost of a PEER Report. This reimbursement is primarily a result of, among other things, Mental Health Parity legislation (MHPEA) passed in 2008. The regulations reinforce the principle under MHPEA that health plans cannot refuse to pay for specific mental health treatments and services, or restrict access to such services through copays or selective provider networks, in any way that is different from the services they routinely pay for under a medical plan. Final regulations and enforcement rules for Mental Health Parity became fully effective in July 2014. 
+
+&#160;
+
+For the PEER Report (also $400), we believe there are strong prospects for further payer reimbursement due to the fact that patients who have failed traditional pharmacotherapy are significant cost drivers for health plans, adding approximately $8,500 in medical costs per patient per year. Since passage of the Affordable Care Act, payers have shown greater interest in reimbursing selected procedures which can reduce preventable medical error and reduce their underwriting losses. Accordingly, there have been several promising developments in payer reimbursement for PEER technology: 
+
+&#160;
+
+&#183; United Healthcare approval as an Emerging Technology - based on PEER evidence in 2011. With two subsequent studies (the Commercial Payer Analysis published in 2012 and the ongoing Walter Reed PEER Trial), the Company believes that there may be sufficient evidence to justify full reimbursement by United Healthcare and similar commercial payers. &#183; Similarly, genomic tests used for personalizing psychotropic therapies are now routinely reimbursed for up to half of billed charges. &#183; Health plans that initially deny coverage for the PEER Report will be required to provide the evidence and criteria for any denials, and affirmatively demonstrate that these criteria are consistent with those used for medical-surgical procedures. &#183; During the last six months we have increased our billing of commercial payers and we have seen an increase in payer reimbursement of EEG and QEEG services. &#160;
+
+It is the Company's intention to submit both clinical and pharmacoeconomic results from the SoCal and NATO Trials to the Centers for Medicare and Medicaid Services, as well as commercial payers, to seek full reimbursement for PEER Reports.
+
+&#160;
+
+The National Institute of Mental Health (NIMH) estimates that only 12.7% of patients receive minimally effective treatment, with over 17 million Americans now classified as &#8220;treatment-resistant&#8221;, meaning that they have failed to find relief after trying two or more medications. Assuming a $600 average selling price (ASP) and an addressable market of 25% of treatment-resistant patients, we estimate a U.S. commercial market size of approximately $2.7 billion annually.
+
+&#160;
+
+We see four distinct but complementary market segments in the United States for PEER Reports.
+
+&#160;
+
+Consumer: The end client for all pharmacotherapies is the consumer, which is why pharmaceutical firms have spent approximately $5.5 billion annually to reach consumers through direct-to-consumer (&#8220;DTC&#8221;) advertising. Since 2013, the Company had several brief opportunities of retelling its story to general media, including appearances on Fox News, Bloomberg TV, BNN, CTV, CBS&#8217;s the &#8220;Doctors&#8221; show and Varney &#38; Company. Articles were also published in the Wall Street Journal, Military Times, Washington Post, Stars &#38; Stripes, and the Associated Press. The Company also developed a significant social media presence through Twitter and Facebook. Overall, these media appearances and social media initiatives generated significant incremental traffic to the Company&#8217;s website and referrals to the PEER Network. During the last year we have engaged in two targeted advertising campaign using Facebook. Based upon our analysis of our first social media campaign, we made adjustments to our second social media campaign, which was even more successful and is expected to result in additional business opportunities if we are able to sustain the campaign for an extended period.
+
+&#160;
+
+&#160; 15 &#160; 
+
+&#160;
+
+&#160;
+
+We plan to stimulate media coverage of our clinical trial results and other physician success stories, which we believe will benefit the Company by highlighting our trials and get exposure to a larger audience which will allow us to channel inquiries to such coverage to our PEER Network physicians.
+
+&#160;
+
+Payer : the traditional challenge for any new medical technology is the achievement of sustained reimbursement. As a result of Mental Health Parity legislation passed in 2008, EEG tests are now being routinely reimbursed by most U.S. healthcare payers. Final regulations and enforcement rules for the Mental Health Parity and Addiction Equity Act (&#8220;MHPEA&#8221;) were published in November 2013, becoming fully effective in July 2014. The regulations reinforce the principle under MHPEA that health plans cannot refuse to pay for specific mental health treatments and services, or restrict access to such services through copays or selective provider networks, in any way that is different from the services they pay for under the patient&#8217;s medical plan. Practically, this means that reimbursement for EEG and QEEG services is probable, as EEG testing and QEEG analysis are currently paid for under medical plans for neurological indications. Likewise, for the PEER Report, health plans will be required to provide evidence for any claim denials and affirmatively demonstrate that such denials use the same criteria in mental health as in physical health. Accordingly, we believe these final MHPEA rules will be a significant benefit for physicians and consumers, as fully one-half of the retail cost of a PEER Report (approximately $400) is now covered under most health insurance plans. Importantly, patients who have failed on two or more medications continue to be a significant cost driver for payers, adding approximately $8,500 in medical costs per patient per year. It is the Company&#8217;s intention to submit both clinical and pharmaco-economic results from the SoCal and NATO Trials to the Centers for Medicare and Medicaid Services, and commercial payers, to seek reimbursement for PEER Reports.
+
+&#160;
+
+Subject to capital availability, the Company expects to provide turnkey support to its physician network in the performance and provisioning of EEG tests, by providing equipment, technical support, billing and reimbursement services to physician offices. 
+
+&#160;
+
+Military: Military and VA mental healthcare combine patient, provider, and payer in a single enterprise. Because of its visibility and capital efficiency, the military and VA will be a large-scale addressable market for PEER. However, because both of these massive organizations take time to respond and initiate matters, initial adoption is slow. It is the Company&#8217;s intention to derive both clinical and pharmacoeconomic data from the SoCal and NATO Trials to drive expansion into TriCare, the VA, and the Department of Defense to support military-wide adoption of PEER Interactive. Our discussions with the DHA are ongoing, as the DHA has expressed interest in conducting an expanded clinical trial of PEER at several large Military Treatment Facilities, however, we do not anticipate commencement of this trial before the end of fiscal year 2016.
+
+&#160;
+
+Global market opportunity: In the United States, it is estimated that approximately one quarter of adults are diagnosed in a given year for one or more mental disorders, and 16% of adults will experience major depressive disorder in their lifetime. These results are, in fact, common to most developed countries: a study published by the European College of Neuropsychopharmacology reported that 165 million (38%) of Europeans are plagued by mental and neurological disorders, which have become Europe&#8217;s largest health challenge according to the study authors.
+
+&#160;
+
+We are currently exploring opportunities in Canada, Europe, Japan and Australia through partnerships which have not yet been established.
+
+&#160;
+
+PEER Online Technology in Pharmaceutical Development 
+
+&#160; 
+
+In addition to its utility in providing psychiatrists and other physicians/prescribers with medication sensitivity data, our PEER Online technology provides us with significant opportunities in the area of pharmaceutical development. Our PEER Online&#8482; technology, in combination with the information contained in the PEER Online database, offers the potential to enable the identification of novel uses for neuropsychiatric medications currently on the market and in late stages of clinical development, as well as in aiding the identification of neurophysiologic characteristics of clinical subjects that may be successfully treated with neuropsychiatric medications in the clinical testing stage. We will explore opportunities with established drug and biotechnology companies to further explore these opportunities, although we have not entered into any arrangements or agreements to date and no relationships are currently contemplated.
+
+&#160;
+
+&#160; 16 &#160; 
+
+&#160;
+
+&#160; 
+
+Research &#38; Development 
+
+&#160;
+
+We plan to continue to enhance, refine and improve the accuracy of our PEER Online database and PEER Reports through expansion of the number of medications covered by our PEER Reports, expansion of our neurometrics, the addition of a genetic test, refinement of our report generating system, and by reducing the time to turnaround a report to the physician. Research and Product Development expenses during the fiscal years ended September 30, 2015 and 2014 were $0.78 million and $1.45 million respectively.
+
+&#160;
+
+Intellectual Property 
+
+&#160; 
+
+PEER Online Patent 
+
+&#160;
+
+&#160; We have 22 issued patents, of which nine are in the U.S., which cover the process involved in our PEER Online service. Our patents expire between September 2017 and July 2022. We believe these patents cover the analytical methodology we use with any form of neurophysiology measurement including SPECT (Single Photon Emission Computed Tomography), fMRI (Functional Magnetic Resonance Imaging), PET (Positron Emission Tomography), CAT (Computerized Axial Tomography), and MEG (Magnetoencephalography). We do not currently have data on the use of such alternate measurements, but we believe they may, in the future, prove to be useful to guide therapy in a manner similar to referenced-EEG. We have been issued patents in the following countries and regions: Canada (three patents), Europe (two patents), Australia (three patents), Mexico (two patents), Japan (two patents) and Israel (one patent). We also have filed multiple additional patent applications for our technology in the U.S., Europe and Canada. No assurances can be given of the effectiveness of the protection provided by these patents from competitors.
+
+&#160;
+
+One of our recent US patent approvals was for a distinctly new patent estate, covering internet transmission of neurometric information. This new allowance under its basic methods patent portfolio, file number CNSR-09318, covers remote or web-based transmission of neurometric data. In the event that use of neurometric data or algorithms becomes widespread, this patent could make it necessary for major equipment manufacturers to license rights from the Company in order to transmit such information for use in medication response prediction.
+
+&#160;
+
+During 2009 and 2011, we were awarded additional process patents for use of PEER Online technology in drug discovery, including clinical trial and drug efficacy studies. In addition, we successfully defended our patents by requesting reexamination of a patent issued to Aspect Medical (acquired by Covidien, plc.), resulting in a reduction and narrowing of claims awarded under the previously issued Aspect Medical patents.
+
+&#160;
+
+Transcranial Magnetic Stimulation 
+
+&#160;
+
+MYnd has filed patent applications in the U.S. and Canada related to the Company's acquisition of patient responsivity data for Transcranial Magnetic Stimulation (&#8220;TMS&#8221;). This would be the Company's first application for a neurometric predictor of a non-drug therapy. The Company anticipates using this methodology to help physicians better understand which patients may positively respond to TMS for treating depression. The U.S. and Canadian patent applications are entitled &#8220;Method for Assessing the Susceptibility of a Human Individual Suffering from a Psychiatric or Neurological Disorder to Neuromodulation Treatment.&#8221;
+
+&#160;
+
+TMS is a non-invasive outpatient procedure that uses magnetic fields to stimulate areas of the brain thought to control mood. TMS, which is approved by the U.S. Food and Drug Administration and offered by approximately 300 psychiatrists nationwide, is sometimes used as an alternative treatment for patients who have failed one or more antidepressants for the treatment of depression. While treatment periods vary by patient, a typical treatment regimen generally involves 20 to 30 treatments over a four to six week period.
+
+&#160;
+
+TMS responsivity data, which is based on QEEG, helps physicians learn how patients with similar EEG patterns responded to TMS, thereby enabling them to more effectively guide patients most likely to benefit from this treatment and reduce expenditures on patients for whom TMS is not likely to be an effective solution for their depression.
+
+&#160;
+
+&#160; 17 &#160; 
+
+&#160;
+
+&#160;
+
+TMS Response Study: In February 2012, results from a study of EEG prediction of TMS responsivity were published by Dr. Martijn Arns in the peer-reviewed journal Brain Stimulation. &#8220;Neurophysiological predictors of non-response to rTMS in depression&#8221; presents results of a multi-site clinical trial (n=90) in the Netherlands using several MYND variables (iAPF, Theta and P300 amplitude) associated with non-response to TMS therapy. Use of these combined neurometrics in a discriminant analysis resulted in a reliable identification of non-responders with low false positive rates. Replication studies are currently being planned in both the Netherlands and the United States.
+
+&#160;
+
+Trademarks 
+
+&#160;
+
+&#8220;Referenced-EEG&#8221;, &#8220;rEEG&#8221; and PEER Online are registered trademarks of CNS California in the United States. We will continue to expand our brand names and our proprietary trademarks worldwide as our operations expand. We have trademark applications for PEER Reports and MYnd Analytics pending and expect that they will be registered in due course by the United States Patent and Trademark Office.
+
+&#160;
+
+PEER Online Database 
+
+&#160;
+
+The PEER Online database consists of over 37,300 clinical outcomes for over 10,000 unique patients with psychiatric or addictive problems. The PEER Online database is maintained in two parts:
+
+&#160;
+
+1. The QEEG Database &#160; 
+
+The QEEG Database includes EEG recordings and neurometric data derived from analysis of these recordings. QEEG is a standard measure that adds cloud-based computerized statistical analyses to traditional EEG studies. We utilize two separate QEEG databases which provide statistical and normative information in the generation of a PEER Report.
+
+&#160;
+
+2. The PEER Outcomes Database 
+
+&#160; 
+
+The PEER Outcomes Database consists of physician-provided assessments of the clinical long-term outcomes of patients and their associated medications. The clinical outcomes of patients are recorded using an industry-standard outcome rating scale, the Clinical Global Impression-Improvement scale (&#8220;CGI-I&#8221;). The CGI-I allows a clinician to rate how much the patient&#8217;s illness has improved or worsened relative to a baseline state. A patient&#8217;s illness is compared to change over time and rated as: very much improved, much improved, minimally improved, no change, minimally worse, much worse, or very much worse.
+
+&#160;
+
+The format of the data is standardized and that standard is enforced at the time of capture by a software application. Outcome data is input into the database by the treating physician or their office staff. Each physician has access to their patient data through the software tool that captures the clinical outcome data.
+
+&#160;
+
+We consider the information contained in the PEER Online database to be a valuable trade secret and are diligent about protecting such information. The PEER Online database is stored on a secure server to which only a limited number of employees have access.
+
+&#160;
+
+Competition 
+
+&#160; 
+
+Although we are not aware of any company that offers a service directly comparable to PEER Online services, the following companies might be noted as pursuing similar strategies:
+
+&#160;
+
+&#183; BRAIN RESOURCE COMPANY is an Australian Clinical Research Organization (CRO) and neurosciences company focused on personalized medicine solutions for patients, clinicians, pharmaceutical trials and discovery research. Its iSpot clinical trial, and list of genomic and neurocognitive tools, some of which include QEEG, appears to focus on the same growing market that is targeted by CNS Response. &#160;
+
+&#160; 18 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; ASSURE Rx, GENOMIND, ALTHEADX and HARMONYX are representative of CLIA lab companies focused on a genomic lab-based test for medication response, based primarily on their individual metabolism of medications. All have achieved varying levels of reimbursement for their tests from insurors. We consider such tests to be related and complementary. AssureRx recently reported the approval of its test for use and reimbursement by the Veterans Administration. &#160;
+
+&#183; 23&#38;ME has also entered the market with products based on predictive analytics and a large database of patient genomic information. &#160;
+
+&#183; Google Life Sciences recently announced the hiring of the nation&#8217;s top research Psychiatrist, Dr. Thomas Insel, to head its new division focused on predictive analytics in mental health. &#160;
+
+&#183; IBM Corporation entered the field of clinical decision support with the launch of its Watson product, a natural language artificial intelligence system. According to IBM, the supercomputer-based software can scan information in 1 million books or about 200 million pages of data, analyze it and respond with answers in less than three seconds. Watson will sort through large amounts of electronic health records and unstructured medical data providing recommendations to doctors and nurses on treatment plans. &#160;
+
+&#183; MICROSOFT CORPORATION and GENERAL ELECTRIC have combined their respective health information technology product lines into a new, jointly-owned population health management company called Caradigm. The venture is purported to bring Microsoft&#8217;s deep expertise in building platforms and ecosystems, and GE Healthcare&#8217;s experience in clinical and administrative workflows. &#160;
+
+&#183; ASPECT MEDICAL SYSTEMS, INC. (now part of Covidien plc.) was developing a specific EEG measurement system that indicates a patient&#8217;s likely response to several antidepressant medications. It is not currently known if the intellectual assets of Aspect Medical will be used in a future commercial product. &#160;
+
+&#183; NEUROVIGIL, based in La Jolla, California, is a company focused on developing an inexpensive, single channel EEG unit which can be used in sleep research and clinical trials to obtain brain function data. &#160;
+
+Government Regulation 
+
+&#160; 
+
+In 2008, the FDA informed us that it believes our rEEG service, and its successor, now called PEER Online, constitutes a medical device which is subject to regulation by the FDA, requiring pre-market approval or 510(k) clearance by the FDA pursuant to the Federal Food, Drug and Cosmetic Act (the &#8220;Act&#8221;) before our service can be marketed or sold.
+
+&#160;
+
+In early 2010, based upon written guidance from the FDA&#8217;s Center for Devices and Radiological Health (&#8220;Center&#8221;), we submitted an application to obtain 510(k) clearance for our rEEG service, without waiving our right to continue to take the position that our services do not constitute a medical device. We sought review of our rEEG service, based upon its equivalence to predicate devices that already have FDA clearance, which appeared to represent a sound mechanism in order to reduce regulatory risks.
+
+&#160;
+
+On July 27, 2010, we received a letter (the &#8220;NSE Letter&#8221;) from the FDA stating that they determined that our rEEG service was Not Substantially Equivalent (&#8220;NSE&#8221;) to the predicate devices that had previously been granted 510(k) clearance and that among other options we could be required to file a premarket approval application (PMA) and obtain approval before our rEEG service can be marketed legally, unless it is otherwise reclassified. The Company has filed an appeal for reconsideration of this finding based on material product modifications and additional evidence. For example, the Company received in June 2011, a response to its outstanding Freedom of Information Act request for original copies of the predicate filings, which the Company believes confirms its position that the predicate devices were cleared for the same intended use as the rEEG service.
+
+&#160;
+
+&#160; 19 &#160; 
+
+&#160;
+
+&#160;
+
+In December 2010, and again in September 2011, the Company met with Center officials to determine whether the FDA had or would soon be developing a regulatory pathway for clinical decision support services such as PEER. In the latter meeting, the Company provided a detailed outline of its PEER Outcome registry, a published, transparent repository of individual medication response reports which reference known electrophysiology variables. Application of these published data can be performed manually, much like tables in medical journals, and do not meet the traditional definition of a regulated medical device.
+
+&#160;
+
+Following its September, 2011, meeting with Center officials, the Company successfully registered its PEER Outcome database as a Class I Exempt Device within the category of Medical Device Data System, Section 860.6310. Recently, the Company completed registration in California of its Class I MDDS, and as part of the approval process, hosted an on-site audit of its quality management systems and software validation processes. The State of California Department of Public Health, Food and Drug Branch, Device Manufacturing License was issued and received by the Company on December 23, 2013.
+
+&#160;
+
+At the same time, the Company continued its engagement with Center staff over the potential for a regulatory pathway for PEER Online as a Class II medical device, based on the Center&#8217;s recommendation that military use of PEER Online move forward under an Investigational Device Exemption (&#8220;IDE&#8221;) in order to provide additional data to support a successful 510(k) filing. The Company submitted a protocol in November, 2011 for a multi-site clinical trial led by Walter Reed, to include several other sites, partnering with military physicians treating 2,000 patients diagnosed with mental health conditions such as depression, PTSD, mTBI and several other disorders.
+
+&#160;
+
+In August 2012, the FDA issued a determination that the Walter Reed PEER Trial was considered a Non-Significant Risk (&#8220;NSR&#8221;) clinical trial and did not require an IDE application.
+
+&#160;
+
+On November 30, 2012, Walter Reed&#8217;s Institutional Review Board (&#8220;IRB&#8221;) approved the protocol for research to be conducted at Walter Reed and Fort Belvoir. On January 23, 2013, the Company received a memorandum from the Commander of Walter Reed, which officially confirmed the approval of the protocol and permission to conduct the clinical trial. The project title of the clinical trial is &#8220;Use of PEER Interactive to inform the prescription of psychotropic medications to patients with behavioral disorders.&#8221; Subsequently, the same protocol was also approved by the IRB at Fort Belvoir.
+
+&#160;
+
+In April 2014, based on an interim analysis of less than 10% of the planned clinical trial enrollees, statistically significant results were achieved for ten of the twelve endpoints of the Walter Reed PEER Trial. In May 2014, following the interim analysis, the Walter Reed IRB suspended enrollment of new patients into the study in order to conduct an internal review. In December 2014, the review was completed and the protocol, with minor amendments, was resubmitted by the interim Principal Investigator to the Walter Reed IRB for approval. The leadership has expressed interest in continuing the trial and, if clinical utility is demonstrated, the significant potential impact that the PEER Interactive technology can have in the treatment of depression. The leadership has also expressed its desire to devote time and attention to the trial to make it a successful endeavor.
+
+&#160;
+
+We currently intend to continue marketing as a cloud-based neurometric information service branded as PEER Online, under our Class I registration, while we continue to pursue the military trial and consider submission of a Class II device premarket application. If we continue to market PEER Online and the FDA determines that we should be subject to further FDA regulation, it could seek enforcement action against us based upon its position that our PEER Online product represents a Class II medical device, as a result of which we could be forced to cease our marketing activities and pay fines and penalties, which would have a material adverse impact on us.
+
+&#160;
+
+In addition to the foregoing, federal and state laws and regulations relating to the sale of our neurometric services are subject to future changes, as are administrative interpretations of regulatory agencies. In the event that federal and state laws and regulations change, we may need to incur additional costs to seek government approvals for the sale of our neurometric services.
+
+&#160;
+
+&#160; 20 &#160; 
+
+&#160;
+
+&#160;
+
+In the future, we may seek approval for medications or combinations of medications for new indications, either with corporate partners, or potentially, on our own. The development and commercialization of medications for new indications is subject to extensive regulation by the U.S. Federal government, principally through the FDA and other federal, state and governmental authorities elsewhere. Prior to marketing any central nervous system medication, and in many cases prior to being able to successfully partner a central nervous system medication, we will have to conduct extensive clinical trials at our own expense to determine safety and efficacy of the indication that we are pursuing.
+
+&#160;
+
+Environmental Compliance 
+
+&#160;
+
+The Company&#8217;s operations are cloud-based, involve software algorithms and are administrative in nature. Therefore, the Company believes that there are no compliance issues associated with applicable environmental laws and regulations that would have a material adverse effect on the Company.
+
+&#160;
+
+Employees 
+
+&#160; 
+
+As of September 30, 2015, our Neurometric Services operation had six full-time and three part-time independent contractors. We believe that our relations with our employees are good. None of our employees belong to a union.
+
+&#160;
+
+Corporate Background 
+
+&#160;
+
+The Company was incorporated in Delaware on March 20, 1987, under the name Age Research, Inc. Prior to January 16, 2007, the Company (then called Strativation, Inc.) existed as a &#8220;shell company&#8221; with nominal assets whose sole business was to identify, evaluate and investigate various companies to acquire or with which to merge. On January 16, 2007, we entered into an Agreement and Plan of Merger with CNS Response, Inc., a California corporation formed on January 11, 2000 (&#8220;CNS California&#8221;), and CNS Merger Corporation, a California corporation and our wholly-owned subsidiary (&#8220;MergerCo&#8221;) pursuant to which we agreed to acquire CNS California in a merger transaction wherein MergerCo would merge with and into CNS California, with CNS California being the surviving corporation (the &#8220;Merger&#8221;). On March 7, 2007, the Merger closed, CNS California became our wholly-owned subsidiary, and on the same date we changed our corporate name from Strativation, Inc. to CNS Response, Inc.
+
+&#160;
+
+At the meeting of shareholders of CNS Response, Inc. held on October 28, 2015, the shareholders approved a proposal to change the Company&#8217;s name to MYnd Analytics, Inc. The Company&#8217;s charter was amended on November 2, 2015.
+
+&#160;
+
+The Company actively operates its businesses through CNS Response, Inc. (California) and, until September 30, 2012, also operated the Neuro-Therapy Clinic, Inc. (&#8220;NTC&#8221;), which was acquired as a wholly-owned subsidiary in January 2008, when it was the Company&#8217;s largest customer. NTC operations were discontinued effective September 30, 2012, as the Company chose to focus its limited cash resources on its clinical trial. Consequently, NTC is accounted for as a discontinued operation.
+
+&#160;
+
+Our current address is 85 Enterprise, Suite 410, Aliso Viejo, California 92656, for which our lease terminates at the end of January 2016. We are in the process of finalizing a lease on suitable premises nearby. Our telephone number is (949) 420-4400 and we maintain a website at www.MYndAnalytics.com . The reference to our web address does not constitute incorporation by reference of the information contained at this site.
+
+&#160;
+
+&#160;
+
+&#160; 21 &#160; 
+
+&#160;
+
+&#160; 
+

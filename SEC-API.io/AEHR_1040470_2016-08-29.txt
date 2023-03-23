@@ -1,0 +1,278 @@
+ Item 1. B usiness 
+
+&#160; 
+
+THE COMPANY 
+
+&#160; 
+
+Aehr Test was incorporated in the state of California on May 25, 1977. We develop, manufacture and sell systems which are designed to reduce the cost of testing and to perform reliability screening, or burn-in, of complex logic devices, memory ICs, sensors and optical devices. These systems can be used to simultaneously perform parallel testing and burn-in of packaged integrated circuits, or ICs, singulated bare die or ICs still in wafer form. Increased quality and reliability needs of the Automotive, Mobility and flash memory integrated circuit markets are driving additional testing requirements, capacity needs and opportunities for Aehr Test products in package and wafer level testing. Leveraging its expertise as a long-time leading provider of burn-in equipment, with over 2,500 systems installed worldwide, the Company has developed and introduced several innovative product families, including the ABTS TM &#160; and &#160; FOX TM systems, the WaferPak TM cartridge and the DiePak &#174; carrier. The latest ABTS family of packaged part burn-in and test systems can perform test during burn-in of complex devices, such as digital signal processors, microprocessors, microcontrollers and systems-on-a-chip, and offers individual temperature control for high-power advanced logic devices. The FOX systems are full wafer contact parallel test and burn-in systems designed to make contact with all pads of a wafer simultaneously, thus enabling full wafer parallel test and burn-in. The WaferPak cartridge includes a full-wafer probe card for use in testing wafers in FOX systems. The DiePak carrier is a reusable, temporary package that enables IC manufacturers to perform cost-effective final test and burn-in of singulated bare die. 
+
+&#160; 
+
+INDUSTRY BACKGROUND 
+
+&#160; 
+
+Semiconductor manufacturing is a complex, multi-step process, and defects or weaknesses that may result in the failure of an integrated circuit, or IC, may be introduced at any process step. Failures may occur immediately or at any time during the operating life of an IC, sometimes after several months of normal use. Semiconductor manufacturers rely on testing and reliability screening to identify and eliminate defects that occur during the manufacturing process. 
+
+&#160; 
+
+Testing and reliability screening involve multiple steps. The first set of tests is typically performed by IC manufacturers before the processed semiconductor wafer is cut into individual die, in order to avoid the cost of packaging defective die into their packages. This &#8220;wafer probe&#8221; testing can be performed on one or many die at a time, including testing the entire wafer at once. After the die are packaged and before they undergo reliability screening, a short test is typically performed to detect packaging defects. Most leading-edge microprocessors, microcontrollers, digital signal processors, memory ICs, sensors and optical devices (such as vertical-cavity surface-emitting lasers, or VCSELs) then undergo an extensive reliability screening and stress testing procedure known as &#8220;burn-in&#8221; or &#8220;cycling,&#8221; depending on the application. The burn-in process screens for early failures by operating the IC at elevated voltages and temperatures, up to 150 degrees Celsius (302 degrees Fahrenheit), for periods typically ranging from 2 to 48 hours. A typical burn-in system can process thousands of ICs simultaneously. After burn-in, the ICs undergo a final test process using automatic test equipment, or testers. The cycling process screens flash memory devices for failure to meet write/erase cycling endurance requirements. 
+
+&#160; 
+
+PRODUCTS 
+
+&#160; 
+
+The Company manufactures and markets full wafer contact test systems, test during burn-in systems, test fixtures, die carriers and related accessories. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+All of the Company&#8217;s systems are modular, allowing them to be configured with optional features to meet customer requirements. Systems can be configured for use in production applications, where capacity, throughput and price are most important, or for reliability engineering and quality assurance applications, where performance and flexibility, such as extended temperature ranges, are essential. 
+
+&#160; 
+
+FULL WAFER CONTACT SYSTEMS 
+
+&#160; 
+
+The FOX-1P full wafer parallel test system, introduced in October 2014, is designed for massively parallel test in wafer sort. The FOX-1P system is designed to make electrical contact to and test all of the die on a wafer in a single touchdown. The FOX-1P test head and WaferPak contactor are compatible with industry-standard 300 mm wafer probers which provide the wafer handling and alignment automation for the FOX-1P system. The FOX-1P pattern generator is designed to functionally test industry-standard memory devices such as flash and DRAMs, plus it is optimized to test memory or logic ICs that incorporate design for testability, or DFT, and built-in self-test, or BIST. The FOX-1P universal per-pin architecture to provide per-pin electronics and per-device power supplies is tailored to full-wafer functional test. The Company believes that the FOX-1P system can significantly reduce the cost of testing IC wafers. The Company&#8217;s FOX-1P system was partially funded through a development agreement with a leading semiconductor manufacturer. The Company has received the first production order of this new system and shipped the first system in July 2016. 
+
+&#160; 
+
+The FOX-1 full wafer parallel test system, the predecessor to the FOX-1P system, was introduced in June 2005 and was designed for massively parallel test in wafer sort. The FOX-1 system is nearing the end of its lifecycle and limited shipments are expected in the future. 
+
+&#160; 
+
+The FOX-XP full wafer contact test and burn-in system, introduced in July 2016, is designed for use with wafers that require test and burn-in times typically measured in hours. The FOX-XP system is focused on parallel testing and burning-in up to 18 wafers at a time. For high reliability applications, such as automotive, mobile devices, sensors, and SSDs the FOX-XP system is a cost-effective solution for producing tested and burned-in die for use in multi-chip packages. Using Known-Good Die, or KGD, which are fully burned-in and tested die, in multi-chip packages helps assure the reliability of the final product and lowers costs by increasing the yield of high-cost multi-chip packages. Wafer-level burn-in and test enables lower cost production of KGD for multi-chip modules, 3-D stacked packages and systems-in-a-package. 
+
+&#160; 
+
+The FOX-15 full wafer parallel test system, the predecessor to the FOX-XP system, was introduced in October 2007 and was designed for full-wafer test and burn-in. The FOX-15 system is nearing the end of its lifecycle and limited shipments are expected in the future. 
+
+&#160; 
+
+One of the key components of the FOX systems is the patented WaferPak cartridge system. The WaferPak cartridge contains a full-wafer single-touchdown probe card which is easily removable from the system. Traditional probe cards contact only a portion of the wafer, requiring multiple touchdowns to test the entire wafer. The unique design is intended to accommodate a wide range of contactor technologies so that the contactor technology can evolve along with the changing requirements of the customer&#8217;s wafers. 
+
+&#160; 
+
+Another key component of our FOX-XP and FOX-15 test cell is the WaferPak Aligner. The WaferPak Aligner performs automatic alignment of the customer&#8217;s wafer to the WaferPak cartridge so that the wafer can be tested and burned-in by the FOX-XP and FOX-15 systems. Typically one WaferPak Aligner can support several FOX-XP or FOX-15 systems. 
+
+&#160; 
+
+The full wafer contact systems product category accounted for approximately 60%, 31% and 42% of the Company&#8217;s net sales in fiscal 2016, 2015 and 2014, respectively. 
+
+&#160; 
+
+SYSTEMS FOR PACKAGED PARTS 
+
+&#160; 
+
+Test during burn-in, or TDBI, systems consist of several subsystems: pattern generation and test electronics, control software, network interface and environmental chamber. The test pattern generator allows duplication of most of the functional tests performed by a traditional tester. Pin electronics at each burn-in board, or BIB, position are designed to provide accurate signals to the ICs being tested and detect whether a device is failing the test. 
+
+&#160; 
+
+Devices being tested are placed on BIBs and loaded into environmental chambers which typically operate at temperatures from 25 degrees Celsius (77 degrees Fahrenheit) up to 150 degrees Celsius (302 degrees Fahrenheit) (optional chambers can produce temperatures as low as -55 degrees Celsius (-67 degrees Fahrenheit)). A single BIB can hold up to several hundred ICs, and a production chamber holds up to 72 BIBs, resulting in thousands of memory or logic devices being tested in a single system. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+The Advanced Burn-in and Test System, or ABTS, was introduced in fiscal 2008. The ABTS family of products is based on a completely new hardware and software architecture that is intended to address not only today&#8217;s devices, but also future devices for many years to come. The ABTS system can test and burn-in both high-power logic and low-power ICs. It can be configured to provide individual device temperature control for devices up to 70W or more and with up to 320 I/O channels. 
+
+&#160; 
+
+The MAX system family, the predecessor to the ABTS family, was designed for monitored burn-in of memory and logic devices. The MAX system is nearing the end of its lifecycle and limited shipments are expected in the future. 
+
+&#160; 
+
+This packaged part systems product category accounted for approximately 40%, 65% and 57% of the Company&#8217;s net sales in fiscal 2016, 2015 and 2014, respectively. 
+
+&#160; 
+
+TEST FIXTURES 
+
+&#160; 
+
+The Company sells, and licenses others to manufacture and sell, custom-designed test fixtures for its systems. The test fixtures include BIBs for the ABTS parallel test and burn-in system and for the MAX monitored burn-in system. These test fixtures hold the devices undergoing test or burn-in and electrically connect the devices under test to the system electronics. The capacity of each test fixture depends on the type of device being tested or burned-in, ranging from several hundred in memory production to as few as eight for high pin-count complex Application Specific Integrated Circuits, or ASICs, or microprocessor devices. Test fixtures are sold both with new Aehr Test systems and for use with the Company&#8217;s installed base of systems. Test fixtures are also available from third-party suppliers. 
+
+&#160; 
+
+The Company&#8217;s DiePak product line includes a family of reusable, temporary die carriers and associated sockets that enable the test and burn-in of bare die using the same test and burn-in systems used for packaged ICs. DiePak carriers offer cost-effective solutions for providing KGD for most types of ICs, including memory, microcontroller and microprocessor devices. The DiePak carrier consists of an interconnect substrate, which provides an electrical connection between the die pads and the socket contacts, and a mechanical support system. The substrate is customized for each IC product. The DiePak carrier comes in several different versions, designed to handle ICs ranging from 54 pin-count memory up to 320 pin-count microprocessors. 
+
+&#160; 
+
+The Company has received patents or applied for patents on certain features of the FOX, ABTS and MAX4 test fixtures. The Company has licensed or authorized several other companies to provide MAX4 BIBs from which the Company receives royalties. Royalties and revenue for the test fixtures product category accounted for less than 5% of net sales in fiscal 2016, 2015 and 2014. 
+
+&#160; 
+
+CUSTOMERS 
+
+&#160; 
+
+The Company markets and sells its products throughout the world to semiconductor manufacturers, semiconductor contract assemblers, electronics manufacturers and burn-in and test service companies. 
+
+&#160; 
+
+Sales to the Company&#8217;s five largest customers accounted for approximately 94%, 79%, and 90% of its net sales in fiscal 2016, 2015 and 2014, respectively. During fiscal 2016, Apple Operations, or Apple, and Texas Instruments Incorporated, or Texas Instruments, accounted for approximately 47% and 32%, respectively, of the Company&#8217;s net sales. During fiscal 2015, Texas Instruments, and Micronas GMBH, or Micronas, accounted for approximately 45% and 11%, respectively, of the Company&#8217;s net sales. During fiscal 2014, Texas Instruments, and Spansion Inc., or Spansion, and Micronas accounted for approximately 40%, 30% and 12%, respectively, of the Company&#8217;s net sales. No other customers accounted for more than 10% of the Company&#8217;s net sales for any of these periods. The Company expects that sales of its products to a limited number of customers will continue to account for a high percentage of net sales for the foreseeable future. In addition, sales to particular customers may fluctuate significantly from quarter to quarter. Such fluctuations may result in changes in utilization of the Company&#8217;s facilities and resources. The loss of or reduction or delay in orders from a significant customer or a delay in collecting or failure to collect accounts receivable from a significant customer could materially and adversely affect the Company&#8217;s business, financial condition and operating results. 
+
+&#160; 
+
+MARKETING, SALES AND CUSTOMER SUPPORT 
+
+&#160; 
+
+The Company has sales and service operations in the United States, Japan, Germany and Taiwan, and has established a network of distributors and sales representatives in certain key parts of the world. See &#8220;REVENUE RECOGNITION&#8221; in Item 7 under &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; for a further discussion of the Company&#8217;s relationship with distributors, and its effects on revenue recognition. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+The Company&#8217;s customer service and support program includes system installation, system repair, applications engineering support, spare parts inventories, customer training and documentation. The Company has both applications engineering and field service personnel located at the corporate headquarters in Fremont, California, at two locations in Texas, at the Company&#8217;s subsidiaries in Japan and Germany, and its branch office in Taiwan. The Company&#8217;s distributors provide applications and field service support in other parts of the world. The Company customarily provides a warranty on its products. The Company offers service contracts on its systems directly and through its subsidiaries, distributors and representatives. The Company maintains customer support personnel in the Philippines, China and Korea. The Company believes that maintaining a close relationship with customers and providing them with ongoing engineering support improves customer satisfaction and will provide the Company with a competitive advantage in selling its products to the Company&#8217;s customers. 
+
+&#160; 
+
+BACKLOG 
+
+&#160; 
+
+At May 31, 2016, the Company&#8217;s backlog was $5.3 million compared with $12.0 million at May 31, 2015. The Company&#8217;s backlog consists of product orders for which confirmed purchase orders have been received and which are scheduled for shipment within 12 months. Due to the possibility of customer changes in delivery schedules or cancellations and potential delays in product shipments or development projects, the Company&#8217;s backlog as of a particular date may not be indicative of net sales for any succeeding period. 
+
+&#160; 
+
+RESEARCH AND PRODUCT DEVELOPMENT 
+
+&#160; 
+
+The Company historically has devoted a significant portion of its financial resources to research and development programs and expects to continue to allocate significant resources to these efforts. Certain research and development expenditures related to non-recurring engineering milestones have been transferred to cost of goods sold, reducing research and development expenses. The Company&#8217;s research and development expenses during fiscal 2016, 2015 and 2014 were $4.3 million, $4.1 million and $3.4 million, respectively. 
+
+&#160; 
+
+The Company conducts ongoing research and development to design new products and to support and enhance existing product lines. Building upon the expertise gained in the development of its existing products, the Company has developed the FOX family of systems for performing test and burn-in of entire processed wafers, rather than individual die or packaged parts. During the first quarter of fiscal 2013, the Company entered into an agreement with a customer to develop a next generation FOX system, and the Company shipped the first system in July 2016. This new FOX system is designed to provide the customer with increased test flexibility and capability at a significantly lower cost of test than alternative solutions while also expanding the markets addressed by our FOX full wafer test products. The Company is developing enhancements to the ABTS and FOX families of products, intended to improve the capability and performance for testing and burn-in of future generation ICs and provide the flexibility in a wide variety of applications from logic to memory. 
+
+&#160; 
+
+MANUFACTURING 
+
+&#160; 
+
+The Company assembles its products from components and parts manufactured by others, including environmental chambers, power supplies, metal fabrications, printed circuit assemblies, ICs, burn-in sockets, high-density interconnects, wafer contactors and interconnect substrates. Final assembly and testing are performed within the Company&#8217;s facilities. The Company&#8217;s strategy is to use in-house manufacturing only when necessary to protect a proprietary process or when a significant improvement in quality, cost or lead time can be achieved and relies on subcontractors to manufacture many of the components and subassemblies used in its products. The Company&#8217;s principal manufacturing facility is located in Fremont, California. The Company&#8217;s facility in Utting, Germany provides limited manufacturing and product customization. 
+
+&#160; 
+
+COMPETITION 
+
+&#160; 
+
+The semiconductor equipment industry is intensely competitive. Significant competitive factors in the semiconductor equipment market include price, technical capabilities, quality, flexibility, automation, cost of ownership, reliability, throughput, product availability and customer service. In each of the markets it serves, the Company faces competition from established competitors and potential new entrants, many of which have greater financial, engineering, manufacturing and marketing resources than the Company. 
+
+&#160; 
+
+The Company&#8217;s FOX full wafer contact systems face competition from larger systems manufacturers that have significant technological know-how and manufacturing capability. Competing suppliers of full wafer contact systems include Advantest Corporation, Teradyne Inc., Micronics Japan Co., Ltd., and Tokyo Electron Limited. 
+
+&#160; 
+
+The Company&#8217;s ABTS TDBI systems have faced and are expected to continue to face increasingly severe competition, especially from several regional, low-cost manufacturers and from systems manufacturers that offer higher 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+power dissipation per device under test. Some users of such systems, such as independent test labs, build their own burn-in systems, while others, particularly large IC manufacturers in Asia, acquire burn-in systems from captive or affiliated suppliers. The market for burn-in systems is highly fragmented, with many domestic and international suppliers. Competing suppliers of burn-in and functional test systems that compete with ABTS systems include Dong-Il Corporation, Micro Control Company, Incal Technology and Advantest Corporation. 
+
+&#160; 
+
+The Company&#8217;s WaferPak products are facing and are expected to face increasing competition. Several companies have developed or are developing full-wafer and single-touchdown probe cards. As the full-wafer test market develops, the Company expects that other competitors will emerge. The primary competitive factors in this market are cost, performance, reliability and assured supply. Competing suppliers of full-wafer probe cards include FormFactor, Inc., Japan Electronic Materials Corporation and Micronics Japan Co., Ltd. 
+
+&#160; 
+
+The Company&#8217;s test fixture products face numerous regional competitors. There are limited barriers to entry into the BIB market, and as a result, many companies design and manufacture BIBs, including BIBs for use with the Company&#8217;s ABTS and MAX systems. The Company has granted royalty-bearing licenses to several companies to make BIBs for use with the Company&#8217;s MAX4 systems and the Company may grant additional licenses as well. Sales of MAX4 BIBs by licensees result in royalties to the Company. 
+
+&#160; 
+
+The Company expects that its DiePak products will face significant competition. The Company believes that several companies have developed or are developing products which are intended to enable test and burn-in of bare die. If the bare die market develops, the Company expects that other competitors will emerge. The DiePak products also face severe competition from other alternative test solutions. The Company expects that the primary competitive factors in this market will be cost, performance, reliability and assured supply. Suppliers with products that compete with our DiePak products include Yamaichi Electronics Co., Ltd. 
+
+&#160; 
+
+The Company expects its competitors to continue to improve the performance of their current products and to introduce new products with improved price and performance characteristics. New product introductions by the Company&#8217;s competitors or by new market entrants could cause a decline in sales or loss of market acceptance of the Company&#8217;s products. The Company has observed price competition in the systems market, particularly with respect to its less advanced products. Increased competitive pressure could also lead to intensified price-based competition, resulting in lower prices which could adversely affect the Company&#8217;s operating margins and results. The Company believes that to remain competitive it must invest significant financial resources in new product development and expand its customer service and support worldwide. There can be no assurance that the Company will be able to compete successfully in the future. 
+
+&#160; 
+
+PROPRIETARY RIGHTS 
+
+&#160; 
+
+The Company relies primarily on the technical and creative ability of its personnel, its proprietary software, and trade secrets and copyright protection, rather than on patents, to maintain its competitive position. The Company&#8217;s proprietary software is copyrighted and licensed to the Company&#8217;s customers. At May 31, 2016 the Company held forty-six issued United States patents with expiration date ranges from 2017 to 2029 and had several additional United States patent applications and foreign patent applications pending. 
+
+&#160; 
+
+The Company&#8217;s ability to compete successfully is dependent in part upon its ability to protect its proprietary technology and information. Although the Company attempts to protect its proprietary technology through patents, copyrights, trade secrets and other measures, there can be no assurance that these measures will be adequate or that competitors will not be able to develop similar technology independently. Further, there can be no assurance that claims allowed on any patent issued to the Company will be sufficiently broad to protect the Company&#8217;s technology, that any patent will be issued to the Company from any pending application or that foreign intellectual property laws will protect the Company&#8217;s intellectual property. Litigation may be necessary to enforce or determine the validity and scope of the Company&#8217;s proprietary rights, and there can be no assurance that the Company&#8217;s intellectual property rights, if challenged, will be upheld as valid. Any such litigation could result in substantial costs and diversion of resources and could have a material adverse effect on the Company&#8217;s business, financial condition and operating results, regardless of the outcome of the litigation. In addition, there can be no assurance that any of the patents issued to the Company will not be challenged, invalidated or circumvented or that the rights granted thereunder will provide competitive advantages to the Company. Also, there can be no assurance that the Company will have the financial resources to defend its patents from infringement or claims of invalidity. 
+
+&#160; 
+
+There are currently no pending claims against the Company regarding infringement of any patents or other intellectual property rights of others. However, the Company may receive communications from third parties asserting intellectual property claims against the Company. Such claims could include assertions that the Company&#8217;s products infringe, or may infringe, the proprietary rights of third parties, requests for indemnification against such infringement or suggest the Company may be interested in acquiring a license from such third parties. There can be no assurance that any such 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+claim made in the future will not result in litigation, which could involve significant expense to the Company, and, if the Company is required or deems it appropriate to obtain a license relating to one or more products or technologies, there can be no assurance that the Company would be able to do so on commercially reasonable terms, or at all. 
+
+&#160; 
+
+EMPLOYEES 
+
+&#160; 
+
+As of May 31, 2016, the Company, including its two foreign subsidiaries and one branch office, employed 76 persons collectively, on a full-time basis, of whom 21 were engaged in research, development and related engineering, 21 were engaged in manufacturing, 23 were engaged in marketing, sales and customer support and 11 were engaged in general administration and finance functions. In addition, the Company from time to time employs a number of contractors and part-time employees, particularly to perform customer support and manufacturing. The Company&#8217;s success is in part dependent on its ability to attract and retain highly skilled workers, who are in high demand. None of the Company&#8217;s employees are represented by a union and the Company has never experienced a work stoppage. The Company&#8217;s management considers its relations with its employees to be good. 
+
+&#160; 
+
+BUSINESS SEGMENT DATA AND GEOGRAPHIC AREAS 
+
+&#160; 
+
+The Company operates in a single business segment, the designing, manufacturing and marketing of advanced test and burn-in products to the semiconductor manufacturing industry in several geographic areas. Selected financial information, including net sales and property and equipment, net for each of the last three fiscal years, by geographic area is included in Part II, Item 8, Note 13 &#8220;Segment Information&#8221; and certain risks related to such operations are discussed in Part I, Item 1A, under the heading &#8220;We sell our products and services worldwide, and our business is subject to risks inherent in conducting business activities in geographic regions outside of the United States.&#8221; 
+
+&#160; 
+
+AVAILABLE INFORMATION 
+
+&#160; 
+
+The Company&#8217;s common stock trades on the NASDAQ Capital Market under the symbol &#8220;AEHR.&#8221; The Company&#8217;s annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to these reports that are filed with the United States Securities and Exchange Commission, or SEC, pursuant to Section 13(a) or 15(d) of the Exchange Act, are available free of charge through the Company&#8217;s website at www.aehr.com as soon as reasonably practicable after we electronically file them with, or furnish them to the SEC. 
+
+&#160; 
+
+The public may read and copy any materials filed by the Company with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operations of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site, www.sec.gov , that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. 
+
+&#160; 
+
+In addition, information regarding the Company&#8217;s code of conduct and ethics and the charters of its Audit, Compensation and Nominating and Governance Committees, are available free of charge on the Company&#8217;s website listed above. 
+
+&#160; 
+

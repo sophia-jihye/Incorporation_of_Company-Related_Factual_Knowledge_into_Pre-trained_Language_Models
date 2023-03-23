@@ -1,0 +1,932 @@
+ Item 1. Business 
+
+&#160;
+
+Please refer to the Glossary beginning on page 22 of this Business section for definitions or descriptions of scientific, diagnostic, health care and regulatory terms used in this Annual Report. 
+
+&#160; 
+
+Overview 
+
+&#160; 
+
+We are a precision medicine company using molecular diagnostics and informatics to combat infectious disease. We are developing molecular information solutions to combat infectious disease in global healthcare settings, helping to guide clinicians with more rapid information about life threatening infections, improve patient outcomes, and decrease the spread of infections caused by multidrug-resistant microorganisms. Our proprietary DNA tests and bioinformatics address the rising threat of antibiotic resistance by helping physicians and healthcare providers optimize patient care decisions and protect the hospital biome through customized screening and surveillance solutions.
+
+&#160;
+
+Our molecular information solution combines Acuitas&#174; DNA tests, Acuitas Lighthouse&#8482; bioinformatics systems, CLIA lab services for MDRO surveillance, and a proprietary data warehouse including genomic data matched with antibiotic susceptibility information for microbes and patient information from healthcare providers. We are working to deliver our molecular information solution to a global network of customers and partners. Our Acuitas DNA tests provide rapid microbial ID, and antibiotic resistance gene information. These products include the QuickFISH&#174; family of FDA-cleared and CE-marked diagnostics used to rapidly detect pathogens in positive blood cultures, the Acuitas MDRO Gene Test to detect, type, track, and trend antibiotic resistant organisms in real-time and our rapid antibiotic resistance test in development. We are working to provide actionable, precise diagnostic information powered by pathogen surveillance data collected through hospital screening programs and a network of hospital and public health laboratories globally. The Acuitas Lighthouse&#8482; data warehouse is a cloud-based HIPAA compliant solution that combines clinical lab test results with patient and hospital information and provides analytics to help manage MDROs in the hospital and patient care environment.
+
+&#160;
+
+There is rising global concern about the profound health and macroecnomic consequences if the growing threat of antimicrobial resistance is not tackled. Drug resistant infections currently claim at least 50,000 lives each year in the United States and Europe alone, with many hundreds of thousands more dying in other areas of the world. Recognizing this emerging threat, the White House issued a National Action Plan for Combating Antibiotic Resistance Bacteria in March 2015. The National Action Plan aims to achieve major reductions in the incidence of these urgent and serious threats and improvements in antibiotic stewardship during the next five years. The 2016 U.S. government budget includes approximately $1 billion to help combat drug resistant infections. Three key areas have been highlighted for investment: rapid diagnostics, surveillance, and new antibiotics. We are focused in rapid diagnostics where our tests help identify microorganisms and determine their antibiotic resistance genes and susceptibility. Through the use of our Acuitas Lighthouse analytics we are working to provide antibiotic decision support tools to help physicians interpret and act on this information. A second area of our focus is surveillance of microbial infections and colonization with MDROs in the hospital environment. These products and services are designed to help enable effective response to resistant organisms and to help control MDRO transmission and outbreaks in the hospital.
+
+&#160;
+
+We believe that the diagnostic paradigm for management of drug resistant infections is poised for change. In acute care settings, initial treatment today relies heavily on initial use of broad spectrum antibiotics on an empiric basis. It is common for patients to receive the antibiotic vancomycin for treatment of potential Gram positive infections such as Staphylococcus and the antibiotic cefipime for treatment of potential Gram negative infections from organisms such as Escherichia coli, Klebsiella pneumoniae, or Pseudomonas. These powerful antibiotics are often prescribed without previous knowledge of whether the organism they are intended to treat is present. Current methods require 2-4 days to determine the organism ID and antibiotic susceptibility. During this period in advance of receiving the correct diagnosis, patients are often over treated or treated with the wrong antibiotic leading to potentially undesirable outcomes such as morbidity from expanded infection, drug resistance, and opportunistic C. difficile infections. If the diagnosis is that the initial empiric antibiotic therapy was incorrect, a new therapy must be chosen often resulting in poor clinical outcomes, additional length of stay, and increased health care costs.
+
+&#160;
+
+&#160; 4 &#160; 
+
+&#160;
+
+&#160;
+
+Improved diagnostics for detection of resistant bacteria and characterization of resistance patterns will help healthcare providers make optimal treatment decisions and assist public health officials in taking action to prevent and control disease. Improved and more rapid diagnostics will also help decrease unnecessary or inappropriate use of antibiotics. Optimal precision medicine tests for combatting infectious disease will provide diagnostic information in the first hours after presentation of the acutely ill patient in order to impact initial antibiotic selection decisions. Conventional microbiology methods have been largely unchanged, and we believe that it is unlikely that they will be adapted to provide rapid one-hour diagnostic tests for high resolution microbial analysis. DNA analysis technology, such as our Acuitas DNA tests, has the potential to help revolutionize rapid diagnostics for microbiology. DNA tests are highly accurate and can be performed in just 30 minutes to an hour. Our FDA-cleared QuickFISH rapid pathogen ID tests are examples of such rapid detection technology. In addition, DNA sequencing technology now makes it possible to sequence the entire genome of microbes for subsequent analysis, antibiotic selection decision making software, and microbe tracking.
+
+&#160;
+
+Our suite of DNA-based products and products in development are intended to provide actionable, precise diagnostics powered by microbial surveillance data. The high resolution Acuitas DNA tests use multiplex PCR to help provide reliable and accurate detection of drug resistance. The QuickFISH tests are powered by PNA technology and provide rapid pathogen ID, typically in less than 30 minutes from a positive blood culture result. The Acuitas MDRO Gene Test is used for determining if ICU patients are colonized with MDROs. Positive samples are confirmed using microbiological methods and the Acuitas Resistome&#8482; test for high resolution genotyping. Test results are maintained in the Acuitas Lighthouse&#8482; data warehouse for subsequent interpretation by physicians and healthcare providers.
+
+&#160;
+
+We are developing a new disruptive one-hour-testing paradigm that we believe could help address many of the current issues with testing for antibiotic resistance. Results from a new high resolution Acuitas DNA test designed to detect the key resistome profiles of Gram negative organisms will be informed by a smart cloud based clinical database that will provide molecular profiles to aid initial antibiotic selection and clinical decision making. Our proprietary Acuitas Lighthouse profiles distill large amounts of data into one actionable profile. We believe our disruptive approach will be globally applicable and could be an important new weapon in the fight against drug-resistant bacteria. The figure below describes the potential workflow and anticipated results from our new testing approach.
+
+&#160;
+
+&#160;
+
+Our Strategy
+
+&#160;
+
+We are using our current products and products in development to provide precision medicine solutions for combatting infectious diseases with a focus on developing diagnostic tests for rapid pathogen identification and genetic profiling, antibiotic resistance analysis and advanced bioinformatics to store and analyze MDRO and other infectious disease data for hospitals, out-patient settings and other health care providers. We believe more rapid genetic identification methods will reduce morbidity from MDROs, reduce health care costs through reduced length of stay, and assist in the identification of targeted antibiotic therapy. Current conventional microbiology, largely unchanged in 50 years, requires one to two days for growth and phenotypic analysis and often leads to the use of broad spectrum antibiotic therapy in the early stages of infection. Our current QuickFISH, PNA FISH and XpressFISH FDA-cleared, CE-marked diagnostic tests can accelerate accurate pathogen identification by one to three days when compared to conventional methods by providing identification of the pathogen within 20 to 90 minutes of positive blood culture results. We are working to:
+
+&#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Expand our rapid diagnostics product offerings through development of additional Acuitas Gene Tests, with a goal of achieving one hour antibiotic resistance analysis; &#183; Grow our Acuitas Lighthouse bioinformatics platform to serve as a data warehouse for resistance and susceptibility data in a hospital, hospital system, or broader community; &#183; Continue development of our Acuitas Lighthouse Portal and decision-making software and work to install Acuitas Lighthouse Portals at all customer sites in the United States and globally who meet minimum test volume license requirements; &#183; Accelerate the commercialization of our Acuitas Gene Tests and Acuitas Lighthouse informatics; &#183; Expand our lab service offerings and capabilities through the supply of kits for use on our DNA probe assay platform and commercially available rapid diagnostic testing systems, develop additional MDRO DNA sequencing tests and informatics; &#183; Partner with reference laboratories, government agencies, diagnostic companies and information technology providers to offer our Acuitas Lighthouse portal on a global basis; and &#183; Accelerate growth through strategic partnerships, which may include companies developing rapid diagnostic tests for MDROs, sponsored research programs with governments and industry, and strategic acquisitions. &#160;
+
+We believe our products and services can be integrated into a single solution for healthcare providers. By seeking to address institutional needs for informatics, genetic analysis and microbiologic testing, we are working to establish a market leadership position in MDRO analysis. The OpGen solution is intended to help hospitals reduce hospital acquired infection rates by helping to rapidly identify patients colonized with MDROs who should receive contact precautions, and helping to guide antibiotic therapy.
+
+&#160; 
+
+Molecular Information Business 
+
+&#160; 
+
+We are working to build a unique and highly proprietary molecular information business. Our approach combines FDA-cleared and CE-marked rapid diagnostics and CLIA lab-based MDRO surveillance tests with our Acuitas Lighthouse bioinformatics systems.
+
+&#160;
+
+&#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+We operate in one segment. Substantially all of our operations are in the United States. Total revenues from customers for the years ended December 31, 2015 and 2014 were $3.2 million and $4.1 million, respectively. Net loss for the years ended December 31, 2015 and 2014 was $17.4 million and $5.7 million, respectively. Total assets at December 31, 2015 and 2014 were $13.8 million and $2.7 million, respectively.
+
+&#160;
+
+2015 Events
+
+&#160;
+
+Initial Public Offering
+
+&#160;
+
+On May 8, 2015, we completed our initial public offering (&#8220;IPO&#8221;) in which we offered and sold 2,850,000 units, each unit consisting of one share of our common stock and a detachable stock purchase warrant to purchase an additional share of common stock, at an initial offering price of $6.00 per unit. Of the total gross proceeds of $17.1 million, approximately $2.1 million was used to satisfy outstanding demand notes by exchanging such notes for 350,000 units in the IPO. After considering the demand notes, underwriting discounts and commissions and offering expenses, the total net cash proceeds were $12.1 million. On the IPO closing date, the underwriters exercised their over-allotment option to acquire an additional 422,500 stock purchase warrants. In connection with the IPO, all of our then-outstanding Series A Preferred Stock, 2014 convertible notes and 2015 convertible notes were converted into 7,374,852 shares of common stock.
+
+&#160;
+
+Acquisition of AdvanDx
+
+&#160;
+
+On July 14, 2015, we completed the strategic acquisition by merger (the &#8220;Merger&#8221;) of AdvanDx, Inc. and its wholly owned subsidiary AdvanDx A/S, collectively referred to as AdvanDx. Pursuant to the terms of a Merger Agreement, our newly formed subsidiary, Velox Acquisition Corp. merged with and into AdvanDx, Inc. with AdvanDx, Inc. surviving as OpGen&#8217;s wholly owned subsidiary.
+
+&#160;
+
+Merck GHI Investment
+
+&#160;
+
+In connection with the Merger, on July 14, 2015, the Company entered into a Common Stock and Note Purchase Agreement with Merck Global Health Innovation Fund, LLC (&#8220;Merck GHI&#8221;) pursuant to which Merck GHI purchased 1,136,364 shares of common stock of the Company at a price of $4.40 per share for gross proceeds of approximately $5,000,000. Pursuant to the Purchase Agreement, the Company also issued to Merck GHI a Senior Secured Promissory Note (the &#8220;Note&#8221;) in the principal amount of $1,000,000 with a two-year maturity date from the date of issuance. The Company&#8217;s obligations under the Note are secured by a lien on all of the Company&#8217;s assets.
+
+&#160;
+
+Market Overview
+
+&#160;
+
+Antibiotic Resistance &#8211; An Urgent Global Issue
+
+&#160;
+
+We believe that antimicrobial resistance is an urgent global healthcare issue. MDROs have been prioritized as an urgent national and global threat by the CDC, the President of the United States and the WHO. In September 2014, The White House issued a National Strategy for combating antibiotic-resistant bacteria. The strategy calls for the strengthening of surveillance efforts to combat resistance, the development and use of innovative diagnostic tests for identification and characterization of resistant bacteria and antibiotic stewardship and development.
+
+&#160;
+
+The CDC estimates that in the United States more than two million people are sickened every year with antibiotic-resistant infections, with at least 23,000 dying as a result. Antibiotic-resistant infections add considerable but often avoidable costs to the U.S. healthcare system. In most cases, these infections require prolonged and/or costlier treatments, extended hospital stays, additional doctor visits and healthcare facilities use, and result in greater disability and death compared with infections that are treatable with antibiotics. Estimates for the total economic cost to the U.S. economy range between $20 and $35 billion annually. As described in a December 2014 report issued by the Review on Antimicrobial Resistance commissioned by the U.K. Prime Minister titled &#8220; Antimicrobial Resistance: Tackling a Crisis for the Health and Wealth of Nations ,&#8221; 300 million people are expected to die prematurely because of drug resistance over the next 35 years, which could result in $60 to $100 trillion worth of economic output if the problem of antimicrobial drug resistance is not resolved.
+
+&#160;
+
+In the United States, on August 1, 2014, CMS issued a final rule under the PPACA that, among other things, establishes CMS&#8217; financial incentive program to hospitals that can demonstrate reduction in HAIs. The estimated amount available for these value-based incentive payments in fiscal year 2015 was approximately $1.4 billion. On the other hand, in December 2014, CMS announced its Hospital Acquired Condition Reduction Program, under which CMS will penalize hospitals for excess rates of infections and other patient injuries by reducing Medicare payments. Total penalties are estimated to be approximately $373 million in the first year.
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+Another emerging global threat are CREs that are either difficult to treat or wholly untreatable. According to CDC Director Dr. Tom Frieden, CREs are a &#8220;nightmare bacteria.&#8221; The strongest antibiotics do not work and patients are left with potentially untreatable infections with mortality rates ranging between 40% and 80%. CRE strains are transmitted easily in healthcare settings from patients with asymptomatic intestinal colonization, and the CRE strains have the potential to spread antibiotic resistance through plasmid transfer to other bacterial species, including common human flora and potential pathogens such as Escherichia coli. The CDC has called for urgent action to combat the threat of CRE bacteria. Core prevention measures recommended by the CDC for all acute and long-term care facilities include: contact precautions for all patients who are colonized or infected with CRE, single patient room housing or cohorting, laboratory notification procedures, antibiotic stewardship and screening to identify unrecognized CRE colonization in patients admitted to high risk settings such as ICUs, long-term acute care units or facilities, or epidemiologically linked contacts.
+
+&#160;
+
+Emergence of Superbugs and Lack of Treatment Options
+
+&#160;
+
+Over the last decade multidrug-resistant Gram negative bacteria, frequently referred to as Superbugs, have been implicated in severe HAIs, and their occurrence has increased steadily. For example, Klebsiella pneumoniae, or K. pneumoniae, is responsible for roughly 15% of Gram-negative infections in hospital intensive care units. Infections caused by KPC strains have few treatment options and are associated with a mortality rate upwards of 50%.
+
+&#160;
+
+Exacerbating the problems associated with the emergence of these highly resistant KPC strains is their propensity to cause outbreaks in healthcare institutions. These pathogens persist both in the flora of hospitalized patients and in the hospital environment, and they have the capacity to silently colonize patients or hospital personnel by establishing residence in the gastrointestinal tract without causing any signs of infection. Individuals can be silently colonized or become asymptomatic carriers for long periods of time, with detection of these carriers often proving difficult. These silent carriers act as reservoirs for continued transmission, which makes subsequent spread difficult to control and outbreaks difficult to stop. In addition, KPC strains can survive for several hours on the hands of hospital personnel, which likely facilitates spread from patient to patient. Effective control of KPC outbreaks requires a detailed understanding of how transmission occurs, but current technologies do not allow healthcare providers to routinely perform these investigations on a timely basis.
+
+&#160;
+
+The lack of currently available treatment options and scarcity of new treatment options in development are compounding the emerging Superbug problem. It has been close to 30 years since a new class of antibiotics was developed and successfully introduced. As a result, we believe that rapid, accurate identification of the pathogen and its genetic make-up, screening, infection control and antibiotic stewardship have become the most powerful weapons in the fight to contain this threat.
+
+&#160;
+
+Based on industry analyses, we believe the global HAI market is a $2 billion dollar market with the molecular diagnostic segment representing a fast growing segment of such market with multiple high acuity patients and significant infectious sites, including urinary tract infections, surgical site infections, pneumonia, bloodstream infections.
+
+&#160;
+
+The initial focus of our MDRO surveillance business is the U.S. hospital market where there are approximately 5,000 hospitals and a potential market opportunity of six million tests annually for our Acuitas MDRO Gene Test. According to statistics issued by AHA Hospitals Statistics in 2011 , there are 1,395 acute care hospitals in the United States with 200 or more beds that are candidates for weekly screening of the approximately 20% of patients who are at high risk for MDRO colonization or infection. There are also 290 long term acute care hospitals where we believe all patients are candidates for bi-weekly screening. We believe the high-risk MDRO testing market opportunity in the United States is approximately $400 million. The trend toward consolidated health systems is resulting in the combination of small and mid-sized hospitals into large health systems that are the initial targets for our test and informatics products. A typical large health system could have more than $4 billion in annual revenue, a central hospital with more than 400 beds and 6-8 smaller hospitals and long-term care facilities. These large health systems have started to centralize their microbiology lab testing, making them an attractive target market for us.
+
+&#160;
+
+The trend towards forming ACOs is expected to increase the focus on reducing length of stay and the overall cost of hospital procedures. Since HAIs result in increased costs of approximately $24,000 per affected patient, we anticipate ACOs will be particularly receptive to our MDRO management solutions. According to Diagnostic Kit &#8211; second edition, March 2014 by Cowen &#38; Co., the MRSA surveillance testing market and C. difficile testing market in the United States are approximately $300 million and $150 million, respectively.
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+Products 
+
+&#160; 
+
+Our current product offerings include our QuickFISH&#174; and PNA FISH&#174; products, which are FDA-cleared, CE-marked in vitro diagnostic tests designed to rapidly identify antimicrobial resistant pathogens significantly earlier than currently available conventional methods, our Acuitas MDRO Gene Test, Acuitas CR Elite Test and Acuitas Resistome Test, each a CLIA lab-based test that provides a profile of MDRO resistant genes for surveillance and response to outbreaks, and our Acuitas Lighthouse bioinformatics platform which is being developed to provide an evergreen database for comprehensive testing and bioinformatics analysis to help guide antibiotic therapy decision making.
+
+&#160;
+
+FISH Products
+
+&#160;
+
+We have commercialized 15 QuickFISH, PNA FISH and XpressFISH diagnostic test products in the United States and Europe for the identification of various infectious pathogens. The pathogens identified and differentiated by our FISH products are:
+
+&#160;
+
+QuickFISH PNA FISH XpressFISH Staphylococcus Staphylococcus MRSA Enterococcus Enterococcus MSSA Gram-negative bacteria Gram-negative bacteria &#160; Gram &#8211;positive bacteria Gram-positive bacteria &#160; Candida Candida &#160; &#160;
+
+Our FISH products can provide pathogen identification and differentiation within 20 to 90 minutes of positive blood culture results. Differentiation of the pathogen, such as, for example differentiating a methicillin resistant Staphylococcus aureus (&#8220;MRSA&#8221;) infection from a methicillin susceptible Staphylococcus aureus (&#8220;MSSA&#8221;) infection provides actionable information that can be used by the health care provider to determine appropriate antibiotic therapy.
+
+&#160;
+
+We currently have approximately 100 U.S. hospital customers purchasing our FISH products, and sell our FISH products to hospitals in 10 countries with antibiotic stewardship programs. Our hospital customers include academic medical centers, tertiary care hospitals and community hospitals.
+
+&#160;
+
+An example of the usefulness of our QuickFISH products at Winter Haven Hospital in Florida was described in a recent publication &#8220;The Impact of Implementation of Rapid QuickFISH Testing for Detection of Coagulase Negative Staphylococci at a Community-Based Hospital,&#8221; American Journal of Clinical Pathology, January 2016. In such case study our QuickFISH products demonstrated clinical utility and cost effectiveness in the more rapid identification and differentiation of staph-infected patients which resulted in a 90% reduction in pathogen identification (1.4 hours as compared to 17.2 hours from a positive blood culture), decreased utilization of Vancomycin antibiotic therapy, a 30% reduction in length of stay and annual savings of approximately $764,000.
+
+&#160;
+
+Acuitas Products
+
+&#160; 
+
+Our high resolution DNA tests are marketed under the Acuitas trade name. We have developed Acuitas DNA tests for use in our CLIA lab such as the Acuitas MDRO Gene Test and we are developing a rapid Acuitas DNA test for use in hospital laboratories that will combine rapid pathogen ID and detection of antibiotic resistance genes. In the future we anticipate marketing new FISH products that we may develop under the Acuitas trade name.
+
+&#160;
+
+&#183; Our Acuitas MDRO Gene Test is, to our knowledge, the first CLIA lab-based test able to provide information regarding the presence of ten MDRO resistance genes from one patient specimen. The ten drug-resistant genes identified by our Acuitas MDRO Gene Test are associated with CRE, ESBL and VRE organisms, and are gastrointestinal organisms frequently associated with antibiotic-resistant infections. The test results can be used by healthcare providers to identify patients colonized with organisms expressing the drug-resistant genes or who are actively infected. &#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Our Acuitas CR Elite Test adds the ability for the healthcare provider to order a microbiology culture screen to be performed from the same specimen sent for our Acuitas MDRO Gene Test, thereby providing additional information about the organism(s) associated with an active infection, as well as an antibiotic susceptibility profile for such organism(s). &#183; Our Acuitas Resistome Test, launched in the second quarter of 2015, is a more comprehensive MDRO molecular test which detects 49 genes covering over 900 subtypes associated with antibiotic resistance. The test includes additional resistance genes for carbapenemases, ESBLs and AmpC genes, in replacement of the vancomycin resistant genes found in the Acuitas MDRO Gene Test. We believe the AmpC targets of the Acuitas Resistome Test are more specific for Gram-negative bacteria, thereby strengthening the coverage provided by our Acuitas Resistome Test to detect resistance genes found in Klebsiella pneumoniae , Escherichia coli , Acinetobacter baumannii , Pseudomonas aeruginosa , Enterobacter cloacae , and Citrobacter freundii. We use Acuitas Resistome Test results for Acuitas Lighthouse profiling of specimens collected in hospitals and clinical isolates from infected patients. Information from our Acuitas Resistome Test provides additional gene detection information to supplement our Acuitas MDRO Gene Test. Acuitas Resistome Test results can be used in conjunction with the Acuitas CR Elite Test to provide high resolution Acuitas Lighthouse profiles. Our goal is to provide DNA test-based Acuitas Lighthouse profiles, within 24 hours of sample receipt, and, using the Acuitas CR Elite Test to supplement our Acuitas Lighthouse profiles, with biologically derived, phenotypic antibiotic susceptibility data within 84 hours. We anticipate improving the accuracy, over time, of our Acuitas Resistome Test by performing DNA sequence analysis of microbial isolates within our Acuitas Lighthouse data warehouse. We believe our menu of genotypic and phenotypic tests along with our Acuitas Lighthouse bioinformatics platform profiles, will enable better surveillance and epidemiology, improved infection control practices, improved antibiotic stewardship and individualized patient care, as well as help to facilitate outbreak detection and response in healthcare settings. We also anticipate combining tests for infectious diseases such as C. difficile , MRSA and others to provide enhanced MDRO screening and patient management solutions. &#160;
+
+Acuitas Lighthouse 
+
+&#160;
+
+Our Acuitas Lighthouse bioinformatics platform enables proactive MDRO management to prevent in-hospital transmission events and to help improve patient outcomes. Trend analysis of patient specific data, data specific to individual hospital facilities and health systems can be provided safely and confidentially to healthcare providers. Our Acuitas Lighthouse&#8217;s dynamic profiling incorporates identity, phenotype and MDRO gene presence and assigns unique microbe identifiers, or Acuitas Lighthouse profiles, based on MDRO gene composition, and antibiotic susceptibility, or AST, data. We believe our Acuitas Lighthouse profiling will provide a comprehensive diagnostic tracking tool for MDRO infections in the hospital setting. It is based on our CLIA- and HIPAA-compliant LIMS database system. We have developed a web-based portal to allow our customers access to LIMS-based lab reports and Acuitas Lighthouse data reports.
+
+&#160;
+
+We are also focused on further developing Acuitas Lighthouse as an evergreen database with continual global pathogen data from our CLIA lab and hospital customers, with such data to be used to:
+
+&#160;
+
+&#183; assist in accelerating more rapid diagnosis with improved molecular susceptibility data; &#183; provide MDRO screening and surveillance capabilities to hospitals to identify pathogen and resistance profiles; and &#183; potentially accelerate new antibiotic development as the data are used to reveal genetic resistance patterns to direct drug discovery. &#160;
+
+In November 2015, the Company and the District of Columbia Hospital Association (&#8220;DCHA&#8221;) initiated a comprehensive citywide evaluation, HARP-DC (Healthcare facility Antibiotic Resistance Prevalence-District of Columbia), to be overseen by Washington D.C. public health departments, to gauge the prevalence of the multidrug-resistant CREs in healthcare facilities throughout the District of Columbia. The DC Department of Health led study is being funded by the CDC&#8217;s Epidemiology and Laboratory Capacity for Infectious Diseases (&#8220;ELC&#8221;) Funding program for tracking healthcare associated infections. The DC Department of Health contracted with OpGen to perform the related laboratory services using OpGen&#8217;s products, including Acuitas Lighthouse. The HARP-DC study marks the first effort of its kind in the District of Columbia to proactively combat CREs.
+
+&#160; 
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160; 
+
+Other Products 
+
+&#160;
+
+Prior to our shift in focus to developing and commercializing our MDRO products, OpGen had developed and commercialized the Argus&#174; Whole Genome Mapping System, MapIt&#174; Services and MapSolver&#8482; bioinformatics products and services. Such products and services were sold to academic, public health and corporate customers to allow them to perform Whole Genome Mapping and analysis of microbial, plant, animal and human genomes for life sciences applications. We have more than ten years of experience mapping microbial genomes. Our customers for these products include government and public health agencies such as the CDC, FDA, USDA and biodefense organizations, who use the Argus and MapSolver products in research and development, food safety and public health settings. We continue to provide these products and services to existing customers, however, we anticipate that such revenues will continue to decline as we have shifted our focus to our MDRO, rapid diagnosis and bioinformatics products and services.
+
+&#160;
+
+In September 2013, we entered into a strategic collaboration with Hitachi High-Technologies Corporation (&#8220;Hitachi&#8221;) to commercialize our Whole Genome Mapping technology for mapping, assembly and analysis of human DNA. Under that collaboration we developed cloud-based human genome map assembly capabilities. The collaboration agreement ended in December 2015. We have seen declining revenues from our current customers for our Whole Genome Mapping products and services over the past few years, as DNA sequencing techniques and products have grown in popularity. While we continue to provide products and services to our existing customer base, we intend to monetize our Whole Genome Mapping technology by out-licensing or selling our technology to the extent possible.
+
+&#160;
+
+For the year ended December 31, 2015, revenue earned from Hitachi represented 11% of total revenues. For the year ended December 31, 2014, revenue earned from Hitachi represented 64% of total revenues.
+
+&#160;
+
+Research and Development 
+
+&#160;
+
+For the years ended December 31, 2015 and 2014, our research and development expenses were $6.0 million and $4.4 million, respectively. We intend to continue to invest in the development of additional Acuitas gene tests, our Acuitas Lighthouse bioinformatics platform, and our QuickFISH rapid identification tests. Our current focus is on completing the development of our product offerings to provide actionable, precise diagnostics powered by surveillance data for rapid diagnostics of pathogens, determination of the correct antibiotics appropriate to treat the infection and accumulation of actionable surveillance data to provide information useful for monitoring and controlling outbreaks and promoting antibiotic stewardship.
+
+&#160;
+
+Our ongoing research and development efforts include:
+
+&#160;
+
+&#183; Development of a one hour rapid Acuitas DNA test capable of providing genetic resistance information for up to 150 drug resistance genes and a cloud-based Acuitas Lighthouse data warehouse for interpretation of test results and clinical decision making support tools to help select appropriate antibiotic therapies; &#183; Development of more rapid molecular diagnostic products to achieve actionable pathogen identification and differentiation in the first few hours of presentation or symptoms; &#183; Automating our QuickFISH products through digital imaging and analysis, new formats requiring less hands on time to process samples, multiplex formats that allow for testing of a broader range of microorganisms; &#183; Continued investments in our Acuitas Lighthouse bioinformatics platform, focused on (i) data warehouse and portal for MDRO data and (ii) antibiotic analysis; &#183; Further development of our Acuitas MDRO Gene Test, Acuitas Resistome Test and DNA sequencing; and &#183; Converting our CLIA lab-based products to in vitro diagnostic kits that can be sold, upon receipt of FDA clearance and other approvals, directly to our customers and to other clinical reference laboratories. &#160;
+
+Our ongoing research and development programs and their stage of development are provided below.
+
+&#160;
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Sales and Marketing 
+
+&#160; 
+
+We currently sell and market our products and services in the United States through a 12 person sales and marketing organization including direct sales professionals and a dedicated marketing support organization. Internationally, we sell our products through a network of distributors in 16 countries. We operate a subsidiary in Denmark that provides support for our European customers and to distributors in other parts of the world. We are involved in pilot programs in approximately 10 countries to demonstrate the clinical and cost effectiveness of our FISH products. We are working to expand our market reach by entering into strategic co-marketing relationships with larger diagnostic and pharmaceutical companies and by expanding our network of distributors globally.
+
+&#160;
+
+Competition
+
+&#160;
+
+We believe we are currently the only company developing a molecular information business focused on leading a transformation in microbiology and infectious disease through precision medicine solutions combining bioinformatics and clinical diagnostics. Our approach combines proprietary DNA tests developed in our CLIA laboratory, FDA-cleared and CE-marked rapid diagnostics, and our Acuitas Lighthouse bioinformatics and data warehouse offerings. Our competitors include rapid diagnostic testing and traditional microbiology companies, commercial laboratories, information technology companies, and hospital laboratories who may internally develop testing capabilities. Principal competitive factors in our target market include: organizational size, scale, and breadth of product offerings; rapidity of test results; quality and strength of clinical and analytical validation data and confidence in diagnostic results; cost effectiveness; ease of use; and regulatory approval status.
+
+&#160;
+
+Our principal competition comes from traditional methods used by healthcare providers to diagnose and screen for MDROs and from other molecular diagnostic companies creating screening and diagnostic products such as Cepheid, Becton-Dickinson, bioMerieux, Accelerate Diagnostics, T2 Biosystems and Nanosphere. We believe our focus on identifying antibiotic-resistant genes, rather than organisms, the genes and associated diseases included in our gene tests, and our Acuitas Lighthouse bioinformatics platform products and services to distinguish us from such competitors.
+
+&#160;
+
+We also face competition from commercial laboratories, such as Bio-Reference Laboratories, Inc., Laboratory Corporation of America Holdings and Quest Diagnostics Incorporated, which have strong infrastructure to support the commercialization of diagnostic services.
+
+&#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160;
+
+Competitors may develop their own versions of our product offerings in countries where we do not have patents or where our intellectual property rights are not recognized.
+
+&#160;
+
+Many of our potential competitors have widespread brand recognition and substantially greater financial, technical, research and development and selling and marketing capabilities than we do. Others may develop products with prices lower than ours that could be viewed by hospitals, physicians and payers as functionally equivalent to our solution, or offer solutions at prices designed to promote market penetration, which could force us to lower the list prices of our solutions and affect our ability to achieve profitability. If we are unable to change clinical practice in a meaningful way or compete successfully against current and future competitors, we may be unable to increase market acceptance and sales of our products, which could prevent us from increasing our revenue or achieving profitability and could cause our stock price to decline.
+
+&#160; 
+
+Laboratory Operations 
+
+&#160; 
+
+Our laboratory operations are headquartered at our CLIA-certified laboratory in Gaithersburg, Maryland, where we perform all Acuitas testing. Samples are transported to the laboratory by FedEx or by courier. Once received, samples are assessed for acceptability, accessioned into our LIMS, prepared for processing and analyzed with traditional microbiology culture methods or using molecular testing instrumentation. Laboratory test data is housed in a proprietary LIMS database that is CLIA laboratory compliant. Customers access CLIA laboratory test results through individual PDF test reports and through our Acuitas Lighthouse portal. Our laboratory also performs testing for research and development purposes and for both the creation and ongoing maintenance of our Acuitas Lighthouse data warehouse.
+
+&#160;
+
+We believe we have sufficient laboratory capacity to perform Acuitas testing for at least the next 24 months.
+
+&#160;
+
+Manufacturing
+
+&#160;
+
+We manufacture our FDA-cleared and CE-marked QuickFISH products in our Woburn, Massachusetts research and manufacturing facility. We are currently operating this facility under a one year lease with an option to extend our lease for subsequent periods. Specialty reagents for our CLIA laboratory are manufactured at our Gaithersburg, Maryland facility.
+
+&#160;
+
+Manufacturing of our FDA-cleared products is performed under the current Good Manufacturing Practices - Quality System Regulation as required by the FDA for the manufacture of diagnostic products. These regulations carefully control the manufacture, testing and release of diagnostics products as well as raw material receipt and control. Both before and after a product is commercially released, we have ongoing responsibilities under FDA regulations. We are also subject to periodic inspections by the FDA to determine compliance with the FDA&#8217;s requirements, including primarily the quality system regulations and medical device reporting regulations. The results of these inspections can include inspectional observations on FDA&#8217;s Form 483, warning letters, or other forms of enforcement. Our Woburn, Massachusetts facility was inspected by the FDA in 2015. Following such inspection, the FDA issued a report of its findings and observations, typically referred to as &#8220;Form 483 observations,&#34; primarily related to our quality systems and testing policies and documentation. We have responded, or intend to respond, to all inspection observations within the required timeframe and are working with the FDA&#8217;s Office of Compliance to satisfy the identified deficiencies.
+
+&#160;
+
+Quality Assurance
+
+&#160;
+
+Our quality assurance function oversees the quality of our laboratory and our FDA-cleared and CE-marked diagnostic products as well as the quality systems used in research and development, client services, billing operations and sales and marketing. We have established a quality assurance system across our entire business, including implementation and maintenance, document control, supplier qualification, corrective or preventive actions, oversight, and employee training processes. We monitor and seek to improve our quality over time.
+
+&#160;
+
+&#160; 13 &#160; 
+
+&#160;
+
+&#160;
+
+Raw Materials and Suppliers
+
+&#160;
+
+We procure reagents, equipment, chips and other materials we use to perform our Acuitas MDRO Gene Test from sole suppliers such as Fluidigm Corporation. We purchase the PNA probes, glass slides and specialty consumables for our QuickFISH products from third party manufacturers who have long lead times and who manufacture several of these products for us on a sole source basis. We also purchase our collection kits from sole-source suppliers. Some of these items are unique to these suppliers and vendors. While we have developed alternative sourcing strategies for these materials and vendors, we cannot be certain whether these strategies will be effective or whether alternative sources will be available when we need them. If these suppliers can no longer provide us with the materials we need to perform our Acuitas MDRO Gene Test or manufacture our QuickFISH products, if the materials do not meet our quality specifications, or if we cannot obtain acceptable substitute materials, our business would be negatively affected.
+
+&#160;
+
+Payments and Reimbursement
+
+&#160; 
+
+Our Acuitas MDRO test products, our Acuitas Lighthouse bioinformatics platform and our QuickFISH tests are, and other future products and services will be, sold to hospitals and public health organizations on a fee-for-service basis. When hospital and health system clients purchase our QuickFISH tests we bill them directly for the purchase of test kits and consumables. Hospitals that purchase MDRO services from our CLIA laboratory are billed on a per test basis. Currently we provide access to our Acuitas Lighthouse through portals. The portal capability is provided to our test customers who have sufficient test volume as part of our MDRO test offerings.
+
+&#160;
+
+In the future we envision selling our Acuitas Lighthouse bioinformatics platform to health systems, hospitals and long-term care facilities under capitated, flat-rate contracts. Health systems and hospitals absorb the costs of extended stay from HAIs and poor treatment outcomes. For healthcare providers to support the use of our tests and services, OpGen needs to demonstrate improved outcomes and reduced costs. Various studies have documented increased hospital stays of six days or more for patients infected with MDROs, resulting in increased costs of $14,000 to $33,000 per infected patient. Determining if an infection is hospital-acquired or was originally obtained from another source is an important issue for hospitals. We believe our tests will help adjudicate payment favorably for hospitals. Isolation procedures are also costly to hospitals, so it is critical that isolation/de-isolation decisions are made accurately. Two recent studies documented a daily extra cost of approximately $101 for contact precaution equipment and approximately $57 for nursing time and contact precaution supplies for each infected patient. In addition to costs to individual hospitals, estimates of the economic costs of antibiotic resistance to the U.S. economy range from $20 billion to $35 billion annually.
+
+&#160;
+
+Our marketing strategy focuses on the rapid turn-around time of our Acuitas MDRO and QuickFISH test results and the panel of results available from one patient sample. We believe the combination of our Acuitas MDRO test products, including QuickFISH, and our Acuitas Lighthouse bioinformatics platform differentiates us in the marketplace by offering a single sample process for identification and management of MDROs. Our approach can deliver a number of benefits to healthcare organizations including: (1) reduced lengths of stays; (2) cost savings and improved patient outcomes; and (3) avoidance of penalties by third-party payers for HAIs.
+
+&#160;
+
+We employ diverse marketing programs to inform key stakeholders of the value of our solutions in order to drive adoption. As part of our marketing strategy, we educate hospitals, other health care institutions, and healthcare professionals about our value proposition. We intend to expand our marketing efforts using proceeds from this offering to increase these activities by expanding our sales and marketing efforts to microbiology and infection control professionals and hospital executives. We anticipate supporting efforts to advocate for expanded MDRO hospital surveillance, legislation at the state and federal level to encourage best practices for MDRO surveillance, and clinical practice guidelines. Finally, our website serves as a portal for educational material for hospitals, healthcare professionals and patients.
+
+&#160; 
+
+Third-Party Payers 
+
+&#160; 
+
+We do not currently rely on any third-party payers for payment or reimbursement to us for our Acuitas MDRO or QuickFISH test products. Although we do not anticipate seeking direct reimbursement to us, we do believe that federal healthcare programs and other third-party payers may, in the future, reimburse hospitals for implementing institution-wide surveillance, infection control and antibiotic stewardship programs. Our management team has experience seeking reimbursement from federal healthcare programs and other third-party payers, and would work to:
+
+&#160;
+
+&#183; Meet the evidence standards necessary to be consistent with leading clinical guidelines. We believe demonstrating that our solution meets leading clinical practice guidelines plays a critical role in payers&#8217; coverage decisions; &#160;
+
+&#160; 14 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Engage reimbursement specialists to ensure the payor outreach strategy reacts to and anticipates the changing needs of our customer base. A customer service team would be an integral part of our reimbursement strategy, working with hospitals to navigate the claims process; &#183; Cultivate a network of key opinion leaders. Key opinion leaders are able to influence clinical practice by publishing research and determining whether new tests should be integrated into practice guidelines. We would collaborate with key opinion leaders early in the development process to ensure our clinical studies are designed and executed in a way that clearly demonstrates the benefits of our tests to physicians and payers; and &#183; Compile a library of peer-reviewed studies that demonstrate that our Acuitas MDRO test products are effective, accurate and faster than current methods. &#160;
+
+Intellectual Property
+
+&#160;
+
+In order to remain competitive, we must develop and maintain protection of the proprietary aspects of our technologies. To that end, we rely on a combination of patents, copyrights and trademarks, as well as contracts, such as confidentiality, invention assignment and licensing agreements. We also rely upon trade secret laws to protect unpatented know-how and continuing technological innovation. In addition, we have what we consider to be reasonable security measures in place to maintain confidentiality. Our intellectual property strategy is intended to develop and maintain our competitive position.
+
+&#160;
+
+As of December 31, 2015, we had total license or ownership rights to 132 patents, including 31 pending United States non-provisional patent applications, and 71 issued United States patents. More specifically, as of December 31, 2015, related to our FISH products, we had license or ownership rights to 84 patents, including 12 pending United States non-provisional patent applications, and 52 issued United States patents. These issued patents began to expire in December 2015 and will be fully expired by January 2029. As of December 31, 2015, related to our Acuitas products, we had license or ownership right to 3 pending United States non-provisional patent applications and no issued United States patents. As of December 31, 2015, related to our other products, we had license or ownership rights to 45 patents, including 16 pending United States non-provisional patent applications, and 19 issued United States patents related to our other products. These issued patents begin to expire in April 2016 and will be fully expired by January 2032.
+
+&#160;
+
+We intend to file additional patent applications in the United States and abroad to strengthen our intellectual property rights; however, our patent applications (including the patent applications listed above) may not result in issued patents in a timely fashion or at all, and we cannot assure investors that any patents that have issued or might issue will protect our technology.
+
+&#160;
+
+We require all employees and technical consultants working for us to execute confidentiality agreements, which provide that all confidential information received by them during the course of the employment, consulting or business relationship be kept confidential, except in specified circumstances. Our agreements with our research employees provide that all inventions, discoveries and other types of intellectual property, whether or not patentable or copyrightable, conceived by the individual while he or she is employed by us are assigned to us. We cannot provide any assurance, however, that employees and consultants will abide by the confidentiality or assignment terms of these agreements. Despite measures taken to protect our intellectual property, unauthorized parties might copy aspects of our technology or obtain and use information that we regard as proprietary.
+
+&#160;
+
+Regulation
+
+&#160;
+
+The following is a summary of the regulations materially affecting our business and operations.
+
+&#160;
+
+Clinical Laboratory Improvement Amendments of 1988
+
+&#160;
+
+As a clinical reference laboratory, we are required to hold certain federal, state and local licenses, certifications and permits to conduct our business. Under CLIA, we are required to hold a certificate applicable to the type of laboratory examinations we perform and to comply with standards covering personnel, facilities administration, quality systems and proficiency testing.
+
+&#160;
+
+We have a current Certificate of Compliance under CLIA and a Medical Laboratory Permit from the State of Maryland to perform clinical testing at our Gaithersburg, Maryland laboratory. To renew our CLIA certificate, we are subject to survey and inspection every two years to assess compliance with program standards. The regulatory and compliance standards applicable to the testing we perform may change over time, and any such changes could have a material effect on our business. Our current CLIA certificate expires on October 1, 2017, and our Medical Laboratory Permit expires on June 30, 2016.
+
+&#160;
+
+If our clinical laboratory is out of compliance with CLIA requirements, we may be subject to sanctions such as suspension, limitation or revocation of our CLIA certificate, as well as a directed plan of correction, state on-site monitoring, civil money penalties, civil injunctive suit or criminal penalties. We must maintain CLIA compliance and certification in order to perform clinical laboratory tests and report patient test results. If we were to be found out of compliance with CLIA requirements and subjected to sanction, our business could be harmed.
+
+&#160;
+
+&#160; 15 &#160; 
+
+&#160;
+
+&#160;
+
+Federal Oversight of Laboratory Developed Tests and Research-Use-Only Products
+
+&#160;
+
+Clinical laboratory tests, like our Acuitas MDRO Gene Test, are regulated under CLIA, as well as by applicable state laws. Historically, most laboratory developed tests (&#8220;LDTs&#8221;), were not subject to FDA regulations applicable to medical devices, although reagents, instruments, software or components provided by third parties and used to perform LDTs may be subject to regulation. FDA defines the term &#8220;laboratory developed test&#8221; as an in vitro diagnostic test that is intended for clinical use and designed, manufactured and used within a single laboratory. We believe that our Acuitas MDRO test products are LDTs. Currently, the FDA exercises enforcement discretion with respect to LDTs such that it does not enforce provisions of the Food, Drug and Cosmetic Act applicable to in vitro diagnostic (IVD) devices. In July 2014, due to the increased proliferation of LDTs for complex diagnostic testing, and concerns with several high-risk LDTs related to lack of evidentiary support for claims, erroneous results and falsification of data, the FDA notified Congress that it would issue guidance that, when finalized, would adopt a risk-based framework that would increase FDA oversight of LDTs. As part of this developing framework, the FDA issued draft guidance in October 2014, informing manufacturers of LDTs of its intent to collect information from laboratories regarding their current LDTs and newly developed LDTs through a notification process. The FDA will use this information to classify LDTs and to prioritize enforcement of premarket review requirements for categories of LDTs based on risk, beginning with LDTs that present the highest risk. Specifically, the FDA plans to use advisory panels to provide recommendations to the agency on LDT risks, classification and prioritization of enforcement of applicable regulatory requirements on certain categories of LDTs, as appropriate, for those tests not yet categorized.
+
+&#160;
+
+Some products are for research use only (&#8220;RUO&#8221;), or for investigational use only (&#8220;IUO&#8221;). RUO and IUO products are not intended for human clinical use and must be properly labeled in accordance with FDA guidance. Claims for RUOs and IUOs related to safety, effectiveness, or clinical utility or that are intended for human diagnostic or prognostic use are prohibited. In November 2013, the FDA issued guidance titled &#8220;Distribution of In Vitro Diagnostic Products Labeled for Research Use Only or Investigational Use Only - Guidance for Industry and Food and Drug Administration Staff.&#8221; This guidance sets forth the requirements to utilize such designations, labeling requirements and acceptable distribution practices, among other requirements. Mere placement of an RUO or IUO label on an in vitro diagnostic product does not render the device exempt from otherwise applicable clearance, approval or other requirements. The FDA may determine that the device is intended for use in clinical diagnosis based on other evidence, including how the device is marketed.
+
+&#160;
+
+We cannot predict the potential effect the FDA&#8217;s current and forthcoming guidance on LDTs and IUOs/RUOs will have on our solutions or materials used to perform our diagnostic services. While we qualify all materials used in our diagnostic services according to CLIA regulations, we cannot be certain that the FDA might not promulgate rules or issue guidance documents that could affect our ability to purchase materials necessary for the performance of our diagnostic services. Should any of the reagents obtained by us from vendors and used in conducting our diagnostic services be affected by future regulatory actions, our business could be adversely affected by those actions, including increasing the cost of service or delaying, limiting or prohibiting the purchase of reagents necessary to perform the service.
+
+&#160;
+
+We cannot provide any assurance that FDA regulation, including premarket review, will not be required in the future for our surveillance and diagnostic services, whether through additional guidance or regulations issued by the FDA, new enforcement policies adopted by the FDA or new legislation enacted by Congress. On November 17, 2015, the House Committee on Energy and Commerce held one such hearing entitled &#8220; Examining the Regulation of Diagnostic Tests and Laboratory Operations .&#8221; We expect that new legislative proposals will be introduced from time to time. It is possible that legislation could be enacted into law or regulations or guidance could be issued by the FDA which may result in new or increased regulatory requirements for us to continue to offer our diagnostic services or to develop and introduce new services.
+
+&#160;
+
+&#160; 16 &#160; 
+
+&#160;
+
+&#160;
+
+FDA&#8217;s Premarket Clearance and Approval Requirements
+
+&#160;
+
+The FDA classifies medical devices into one of three classes: Class 1, Class 2 or Class 3. Devices deemed to pose lower risk are placed into either Class 1 or Class 2. Class 1 or Class 2 devices that are exempt from the premarket notification process must comply with applicable regulations but can simply list their products with the FDA. Class 1 or Class 2 devices that are non-exempt from the premarket notification process must comply with applicable regulations and submit a 510(k) premarket submission for review to receive clearance to list and market their devices. The 510(k) must establish substantial equivalence to a predicate device. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices, or devices deemed not substantially equivalent to a previously cleared device, are placed in Class 3 and require premarket approval (&#8220;PMA&#8221;) before commercialization. The majority of the medical devices manufactured by OpGen at its Woburn, Massachusetts facility (i.e., the AdvanDx products) are Class 1; one product manufactured in Woburn is a Class 2 device. All of these products are non-exempt and required 510(k) premarket submissions. At this time our CLIA tests are not required to be reviewed by the FDA; however, our LDTs would be considered non-exempt Class 2 devices and would require a 510(k) premarket submission to continue.
+
+&#160;
+
+All medical device manufacturers must register their establishments with the FDA; such registrations require the payment of user fees. In addition, both 510(k) premarket submissions and PMA applications are subject to the payment of user fees, paid at the time of submission for FDA review. At this time our CLIA lab is not required to register and list with the FDA; however, the Medical Device User Fee Act IV (&#8220;MFUFA IV&#8221;) negotiations currently taking place between the FDA and medical device manufacturers include discussions regarding user fees for clinical laboratories running LDTs. This new fee would be in addition to the user fees required to operate a clinical laboratory.
+
+&#160;
+
+The FDA has issued a regulation outlining specific requirements for &#8220;specimen transport and storage containers.&#8221; &#8220;Specimen transport and storage containers&#8221; are medical devices if &#8220;intended to contain biological specimens, body waste, or body exudate during storage and transport&#8221; so that the specimen can be used effectively for diagnostic examination. Since medical devices are subject to registration and listing requirements, the reporting of corrections and removals, and responsible for medical device reporting requirements, if the FDA were to determine that our sample collection container is a medical device, the manufacturer would be required to register and list with the FDA for us to use the container for diagnostic purposes. The specimen collection device would be exempt from premarket review, and from QSR requirements except for recordkeeping and complaint handling requirements, so long as no sterility claims are made, but the manufacturer would still be required to comply with applicable regulations.
+
+&#160;
+
+510(k) Clearance Pathway
+
+&#160;
+
+If required to obtain 510(k) clearance for our future products or conversion of our Acuitas MDRO test products to diagnostic kits, such tests would be classified as medical devices and we would have to submit a premarket notification demonstrating that the proposed device is substantially equivalent to a previously cleared 510(k) device or a device that was in commercial distribution before May 28, 1976, for which the FDA has not yet called for the submission of premarket approval applications. FDA&#8217;s 510(k) clearance pathway usually takes from three to twelve months. On average the review time is approximately six months, but it can take significantly longer than twelve months in some instances, as the FDA may require additional information, including clinical data, to make a determination regarding substantial equivalence.
+
+&#160;
+
+After a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a new or major change in its intended use, will require a new 510(k) clearance or, depending on the modification, require premarket approval. The FDA requires each manufacturer to determine whether the proposed change requires submission of a new 510(k) notice, or a premarket approval, but the FDA can review any such decision and can disagree with a manufacturer&#8217;s determination. If the FDA disagrees with a manufacturer&#8217;s determination, the FDA can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or premarket approval is obtained. If the FDA requires us to seek 510(k) clearance or premarket approval for any modifications to a previously cleared product, we may be required to cease marketing or recall the modified device until we obtain this clearance or approval. Also, in these circumstances, we may be subject to significant regulatory fines or penalties. We have made and plan to continue to make additional product enhancements to products that we believe do not require new 510(k) clearances.
+
+&#160;
+
+Premarket Approval Pathway
+
+&#160;
+
+A premarket approval application must be submitted if a device cannot be cleared through the 510(k) process. The premarket approval application process is generally more costly and time consuming than the 510(k) process. A premarket approval application must be supported by extensive data including, but not limited to, analytical, preclinical, clinical trials, manufacturing, statutory preapproval inspections, and labeling to demonstrate to the FDA&#8217;s satisfaction the safety and effectiveness of the device for its intended use.
+
+&#160;
+
+&#160; 17 &#160; 
+
+&#160;
+
+&#160;
+
+After a premarket approval application is sufficiently complete, the FDA will accept the application and begin an in-depth review of the submitted information. By statute, the FDA has 180 days to review the &#8220;accepted application,&#8221; although, generally, review of the application can take between one and three years, but it may take significantly longer. During this review period, the FDA may request additional information or clarification of information already provided. Also during the review period, an advisory panel of experts from outside the FDA may be convened to review and evaluate the application and provide recommendations to the FDA as to the approvability of the device. The preapproval inspections conducted by the FDA include an evaluation of the manufacturing facility to ensure compliance with the QSR, as well as inspections of the clinical trial sites by the Bioresearch Monitoring group to evaluate compliance with good clinical practice and human subject protections. New premarket approval applications or premarket approval application supplements are required for modifications that affect the safety or effectiveness of the device, including, for example, certain types of modifications to the device&#8217;s indication for use, manufacturing process, labeling and design. Significant changes to an approved PMA require a 180-day supplement, whereas less substantive changes may utilize a 30-day notice, or the 135-day supplement. Premarket approval supplements often require submission of the same type of information as a premarket approval application, except that the supplement is limited to information needed to support any changes from the device covered by the original premarket approval application, and may not require as extensive clinical data or the convening of an advisory panel. None of our products are currently approved under a premarket approval.
+
+&#160;
+
+Clinical Trials
+
+&#160;
+
+Clinical trials are almost always required to support a premarket approval application and are usually required to support non-exempt Class 1 and Class 2 510(k) premarket submissions. Clinical trials may also be required to support certain marketing claims. If the device presents a &#8220;significant risk,&#8221; as defined by the FDA, to human health, the FDA requires the device sponsor to file an investigational device exemption (&#8220;IDE&#8221;) application with the FDA and obtain IDE approval prior to conducting the human clinical trials. The IDE application must be supported by appropriate data, such as analytical, animal and laboratory testing results, manufacturing information, and an Investigational Review Board (&#8220;IRB&#8221;) approved protocol showing that it is safe to test the device in humans and that the testing protocol is scientifically sound. The IDE application must be approved in advance by the FDA prior to initiation of enrollment of human subjects. Clinical trials for a significant risk device may begin once the investigational device exemption application is approved by the FDA. If the clinical trial design is deemed to be &#8220;non-significant risk,&#8221; the clinical trial may eligible for the &#8220;abbreviated&#8221; IDE requirements; in some instances IVD clinical trials may be exempt from the more burdensome IDE requirements if certain labeling requirements are met. All clinical trials conducted to support a premarket submission must be conducted in accordance with FDA regulations and federal and state regulations concerning human subject protection, including informed consent, oversight by an IRB and healthcare privacy requirements. A clinical trial may be suspended by the FDA or the IRB review board at any time for various reasons, including a belief that the risks to the study participants outweigh the benefits of participation in the study. Even if a study is completed, the results of our clinical testing may not demonstrate the safety and efficacy of the device, or may be equivocal or otherwise not be sufficient to obtain approval of our product. Similarly, in Europe the clinical study must be approved by the local ethics committee and in some cases, including studies of high-risk devices, by the Ministry of Health in the applicable country.
+
+&#160;
+
+Pervasive and Continuing FDA Regulation
+
+&#160;
+
+Numerous regulatory requirements apply to our products classified as devices would continue to apply. These include:
+
+&#160;
+
+&#183; product listing and establishment registration, which helps facilitate FDA inspections and other regulatory action; &#183; QSR, which requires manufacturers, including third-party manufacturers, to follow stringent design, testing, control, documentation and other quality assurance procedures during all aspects of the development and manufacturing process; &#183; labeling regulations and FDA prohibitions against the promotion of products for uncleared, unapproved or off-label use or indication; &#183; clearance of product modifications that could significantly affect safety or efficacy or that would constitute a major change in intended use of one of our cleared devices; &#183; approval of product modifications that affect the safety or effectiveness of one of our cleared devices; &#160;
+
+&#160; 18 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; medical device reporting regulations, which require that manufacturers comply with FDA requirements to report if their device may have caused or contributed to a death or serious injury, or has malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction of the device or a similar device were to recur; &#183; post-approval restrictions or conditions, including post-approval study commitments; &#183; post-market surveillance regulations, which apply when necessary to protect the public health or to provide additional safety and effectiveness data for the device; &#183; the FDA&#8217;s recall authority, whereby it can ask, or under certain conditions order, device manufacturers to recall from the market a product that is in violation of governing laws and regulations; &#183; regulations pertaining to voluntary recalls; and &#183; notices of corrections or removals. &#160;
+
+OpGen&#8217;s Woburn, Massachusetts facility is currently registered as an establishment with the FDA. If the LDTs performed in OpGen&#8217;s CLIA lab were deemed medical devices by the FDA, then we and any third-party manufacturers of such devices would need to register with the FDA as medical device manufacturers and obtain all necessary state permits or licenses to operate our business. We and any third-party manufacturers would be subject to announced and unannounced inspections by the FDA to determine our compliance with quality system regulation and other regulations. Our Woburn, Massachusetts facility was inspected by the FDA in 2015. Following such inspection, the FDA issued a report of its findings and observations, typically referred to as &#8220;Form 483 observations,&#34; primarily related to our quality systems and testing policies and documentation. We have responded, or intend to respond, to all inspection observations within the required time frame and are working with the FDA&#8217;s Office of Compliance to satisfy the identified deficiencies.
+
+&#160;
+
+Failure to comply with applicable regulatory requirements could result in enforcement action by the FDA, which might include any of the following sanctions: (1) untitled letters, warning letters, fines, injunctions, consent decrees and civil penalties; (2) unanticipated expenditures to address or defend such actions; (3) customer notifications for repair, replacement and refunds; (4) recall, detention or seizure of our products; (5) operating restrictions or partial suspension or total shutdown of production; (6) refusing or delaying our requests for 510(k) clearance or premarket approval of new products or modified products; (7) operating restrictions; (8) withdrawing 510(k) clearances or PMA approvals that have already been granted; (9) refusal to grant export approval for our products; or (10) criminal prosecution.
+
+&#160;
+
+After a medical device is placed on the market, numerous regulatory requirements apply. These include: all of the relevant elements of the Quality System Regulation (&#8220;QSR&#8221;), labeling regulations, restrictions on promotion and advertising, the medical device reporting (which requires the manufacturer to report to the FDA if its device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur), and the Reports of Corrections and Removals regulations (which requires manufacturers to report certain recalls and field actions to the FDA).
+
+&#160;
+
+Health Insurance Portability and Accountability Act
+
+&#160;
+
+Under HIPAA, the Department of Health and Human Services (&#8220;HHS&#8221;), has issued regulations to protect the privacy and security of protected health information used or disclosed by health care providers, such as us, and by certain vendors of ours, also known as our business associates. The regulations include limitations on the use and disclosure of protected health information and impose notification requirements in the event of a breach of protected health information. HIPAA also regulates standardization of data content, codes and formats used in health care transactions and standardization of identifiers for health plans and providers. Penalties for violations of HIPAA regulations include civil and criminal penalties.
+
+&#160;
+
+We have developed and implemented policies and procedures designed to comply with these regulations. The requirements under these regulations may change periodically and could have an effect on our business operations if compliance becomes substantially more costly than under current requirements.
+
+&#160;
+
+In addition to federal privacy regulations, there are a number of state laws governing confidentiality of health information that are applicable to our business. If our business expands internationally, we would be subject to compliance with other laws regarding confidentiality of health information and privacy.
+
+&#160;
+
+&#160; 19 &#160; 
+
+&#160;
+
+&#160;
+
+New laws governing privacy may be adopted in the future as well. We have taken steps to comply with health information privacy requirements to which we are aware that we are subject. However, we can provide no assurance that we are or will remain in compliance with diverse privacy requirements in all of the jurisdictions in which we do business. Failure to comply with privacy requirements could result in civil or criminal penalties, which could have a materially adverse effect on our business.
+
+&#160;
+
+Federal and State Physician Self-referral Prohibitions
+
+&#160;
+
+As a clinical laboratory, and manufacturer and seller of diagnostic tests, we are subject to the federal physician self-referral prohibitions, commonly known as the Stark Law, and to similar restrictions under the Maryland Physician Self-Referral Law. Together these restrictions generally prohibit us from billing a patient or any governmental or private payor for any clinical laboratory services when the physician ordering the service, or any member of such physician&#8217;s immediate family, has an investment interest in or compensation arrangement with us, unless the arrangement meets an exception to the prohibition.
+
+&#160;
+
+Both the Stark Law and the Maryland Physician Self-Referral Law contain an exception for compensation paid to a physician for personal services rendered by the physician. We have compensation arrangements with a number of physicians for personal services, such as clinical advisory board services, speaking engagements and other consulting activities. We have structured these arrangements with terms intended to comply with the requirements of the personal services exception to Stark and Maryland Physician Self-Referral Law.
+
+&#160;
+
+However, we cannot be certain that regulators would find these arrangements to be in compliance with Stark, the Maryland Physician Self-Referral Law, or similar state laws. We would be required to refund any payments we receive pursuant to a referral prohibited by these laws to the patient, the payor or the Medicare program, as applicable.
+
+&#160;
+
+Sanctions for a violation of the Stark Law include the following:
+
+&#160;
+
+&#183; denial of payment for the services provided in violation of the prohibition; &#183; refunds of amounts collected by an entity in violation of the Stark Law; &#183; a civil penalty of up to $15,000 for each service arising out of the prohibited referral; &#183; possible exclusion from federal healthcare programs, including Medicare and Medicaid; and &#183; a civil penalty of up to $100,000 against parties that enter into a scheme to circumvent the Stark Law&#8217;s prohibition. &#160;
+
+These prohibitions apply regardless of the reasons for the financial relationship and the referral. No finding of intent to violate the Stark Law is required for a violation. In addition, knowing violations of the Stark Law may also serve as the basis for liability under the Federal False Claims Act, which prohibits knowingly presenting, or causing to be presented, a false or fraudulent claim for payment to the U.S. Government.
+
+&#160;
+
+Further, if we submit claims in violation of the Maryland Physician Self-Referral Law, we can be held liable to the payer for any reimbursement received for the services by us. Finally, other states have self-referral restrictions with which we have to comply that differ from those imposed by federal and Maryland law. While we have attempted to comply with the Stark Law and the Maryland Physician Self-Referral Law, it is possible that some of our financial arrangements with physicians could be subject to regulatory scrutiny at some point in the future, and we cannot provide assurance that we will be found to be in compliance with these laws following any such regulatory review.
+
+&#160;
+
+Federal and State Anti-Kickback Laws
+
+&#160;
+
+The Federal health care program Anti-Kickback Law makes it a felony for a person or entity, including a laboratory, to knowingly and willfully offer, pay, solicit or receive remuneration, directly or indirectly, in order to induce business that is reimbursable under any federal health care program. A violation of the Anti-Kickback Law may result in imprisonment for up to five years and fines of up to $250,000 in the case of individuals and $500,000 in the case of organizations. Convictions under the Anti-Kickback Law result in mandatory exclusion from federal health care programs for a minimum of five years. In addition, HHS has the authority to impose civil assessments and fines and to exclude health care providers and others engaged in prohibited activities from Medicare, Medicaid and other federal health care programs. Actions which violate the Anti-Kickback Law also incur liability under the Federal False Claims Act.
+
+&#160;
+
+&#160; 20 &#160; 
+
+&#160;
+
+&#160;
+
+Although the Anti-Kickback Law applies only to federal health care programs, a number of states, including Maryland, have passed statutes substantially similar to the Anti-Kickback Law pursuant to which similar types of prohibitions are made applicable to all other health plans and third-party payers. Violations of Maryland&#8217;s anti-kickback law are punishable by tiered criminal penalties based on the crime with a maximum penalty of life imprisonment and fines of up to $200,000, or both. Civil penalties include three times the amount of any overpayment made in violation of the statute.
+
+&#160;
+
+Federal and state law enforcement authorities scrutinize arrangements between health care providers and potential referral sources to ensure that the arrangements are not designed as a mechanism to induce patient care referrals or induce the purchase or prescribing of particular products or services. The law enforcement authorities, the courts and Congress have also demonstrated a willingness to look behind the formalities of a transaction to determine the underlying purpose of payments between health care providers and actual or potential referral sources. Generally, courts have taken a broad interpretation of the scope of the Anti-Kickback Law, holding that the statute may be violated if merely one purpose of a payment arrangement is to induce referrals or purchases.
+
+&#160;
+
+In addition to statutory exceptions to the Anti-Kickback Law, regulations provide for a number of safe harbors. If an arrangement meets the provisions of a safe harbor, it is deemed not to violate the Anti-Kickback Law. An arrangement must fully comply with each element of an applicable safe harbor in order to qualify for protection. There are no regulatory safe harbors to the Maryland anti-kickback law.
+
+&#160;
+
+Among the safe harbors that may be relevant to us is the discount safe harbor. The discount safe harbor potentially applies to discounts provided by providers and suppliers, including laboratories, to physicians or institutions. If the terms of the discount safe harbor are met, the discounts will not be considered prohibited remuneration under the Anti-Kickback Law. Maryland does not have a discount safe harbor.
+
+&#160;
+
+The personal services safe harbor to the Anti-Kickback Law provides that remuneration paid to a referral source for personal services will not violate the Anti-Kickback Law provided all of the elements of that safe harbor are met. One element is that if the agreement is intended to provide for the services of the physician on a periodic, sporadic or part-time basis, rather than on a full-time basis for the term of the agreement, the agreement specifies exactly the schedule of such intervals, their precise length, and the exact charge for such intervals. Our personal services arrangements with some physicians may not meet the specific requirement of this safe harbor that the agreement specify exactly the schedule of the intervals of time to be spent on the services because the nature of the services, such as speaking engagements, does not lend itself to exact scheduling and therefore meeting this element of the personal services safe harbor is impractical. Failure to meet the terms of the safe harbor does not render an arrangement illegal. Rather, the government may evaluate such arrangements on a case-by-case basis, taking into account all facts and circumstances.
+
+&#160;
+
+While we believe that we are in compliance with the Anti-Kickback Law and the Maryland anti-kickback law, there can be no assurance that our relationships with physicians, academic institutions and other customers will not be subject to investigation or challenge under such laws. If imposed for any reason, sanctions under the Anti-Kickback Law and the Maryland anti-kickback law could have a negative effect on our business.
+
+&#160;
+
+Other Federal and State Fraud and Abuse Laws
+
+&#160;
+
+In addition to the requirements discussed above, several other health care fraud and abuse laws could have an effect on our business. For example, provisions of the Social Security Act permit Medicare and Medicaid to exclude an entity that charges the federal health care programs substantially in excess of its usual charges for its services. The terms &#8220;usual charge&#8221; and &#8220;substantially in excess&#8221; are ambiguous and subject to varying interpretations.
+
+&#160;
+
+Further, the Federal False Claims Act prohibits a person from knowingly submitting a claim, making a false record or statement in order to secure payment or retaining an overpayment by the federal government. In addition to actions initiated by the government itself, the statute authorizes actions to be brought on behalf of the federal government by a private party having knowledge of the alleged fraud, also known as qui tam lawsuits. Because the complaint is initially filed under seal, the action may be pending for some time before the defendant is even aware of the action. If the government is ultimately successful in obtaining redress in the matter or if the plaintiff succeeds in obtaining redress without the government&#8217;s involvement, then the plaintiff will receive a percentage of the recovery. It is not uncommon for qui tam lawsuits to be filed by employees, competitors or consultants. Finally, the Social Security Act includes its own provisions that prohibit the filing of false claims or submitting false statements in order to obtain payment. Violation of these provisions may result in fines, imprisonment or both, and possible exclusion from Medicare or Medicaid programs. Maryland has an analogous state false claims act applicable to state health plans and programs, as do many other states.
+
+&#160;
+
+&#160; 21 &#160; 
+
+&#160;
+
+&#160;
+
+Maryland Laboratory Licensing
+
+&#160;
+
+Maryland requires that any site that performs clinical laboratory testing located in the state of Maryland, with limited exceptions, must be licensed by the state, in addition to meeting federal CLIA requirements. As such, our laboratory in Gaithersburg, Maryland holds a current Maryland license and is subject to on site surveys by Maryland&#8217;s Office of Health Care Quality. Our license is due to be renewed in June 2016.
+
+&#160;
+
+Other States&#8217; Laboratory Licensing
+
+&#160;
+
+In addition to Maryland, other states including California, Florida, New York, Pennsylvania, Rhode Island, and the District of Columbia, require licensing of out-of-state laboratories under certain circumstances. We have obtained a license to receive specimens from Pennsylvania, and we have submitted applications to Florida and New York. We intend to obtain licenses from additional states and jurisdictions where we believe we are required to be licensed, and believe we are in compliance with applicable licensing laws.
+
+&#160;
+
+From time to time, we may become aware of other states that require out-of-state laboratories to obtain licensure in order to accept specimens from the state, and it is possible that other states do have such requirements or will have such requirements in the future. If we identify any other state with such requirements or if we are contacted by any other state advising us of such requirements, we intend to comply with such requirements.
+
+&#160; 
+
+International Regulation 
+
+&#160; 
+
+Sales of diagnostic tests like our Acuitas MDRO test products outside the United States would be subject to foreign government regulations, which vary substantially from country to country. In order to market our products in other countries, we would need to obtain regulatory approvals and comply with extensive safety and quality regulations in other countries. OpGen&#8217;s Woburn, Massachusetts facility is currently ISO 13485 certified; the facility passed an inspection by our Notified Body in January 2016. While such certification is not required to distribute products internationally, the ISO 13485 certification implies that we are in compliance with the applicable regulatory requirements to distribute our medical devices internationally. OpGen currently distributes products in the European Union through its Denmark office. The time required to obtain approval by a foreign country may be longer or shorter than that required for FDA clearance or approval, and the requirements may differ significantly. If we elect to, or are required to, seek clearance of or approval for any of our products from the FDA, we may be able to commercialize such products with shorter lead time in international markets, but would need to establish international operations in order to do so.
+
+&#160;
+
+Environmental Matters
+
+&#160;
+
+Our operations require the use of hazardous materials (including biological materials) which subject us to a variety of federal, state and local environmental and safety laws and regulations. Some of these regulations provide for strict liability, holding a party potentially liable without regard to fault or negligence. We could be held liable for damages and fines as a result of our, or others&#8217;, business operations should contamination of the environment or individual exposure to hazardous substances occur. We cannot predict how changes in laws or new regulations will affect our business, operations or the cost of compliance.
+
+&#160;
+
+Glossary
+
+&#160;
+
+The following scientific, healthcare, regulatory and OpGen-specific terms are used throughout this Annual Report: 
+
+&#160;
+
+&#8220;ACOs&#8221; means accountable care organizations, a voluntary combination of doctors, hospitals and other health care providers and other health care system participants, including insurers, formed under the PPACA, to provide coordinated health care to patients.
+
+&#160;
+
+&#8220;Acuitas CR Elite&#8221; is a comprehensive test for detection of CRE including our Acuitas MDRO gene test, culture based detection, and Acuitas resistome testing on positive specimens. 
+
+&#160; 
+
+&#160; 22 &#160; 
+
+&#160;
+
+&#160;
+
+&#8220;Acuitas Lighthouse&#8221; is our bioinformatics product being internally developed to provide real-time information on the MDRO status for patients and hospitals. We combine our molecular test information and microbiology test results from our customized CLIA-based tests to create Acuitas Lighthouse profiles for hospitals, health systems and communities. Acuitas Lighthouse profiling facilitates MDRO tracking and results can be aggregated with hospital data to provide customized reports including alerts, prevalence, trend analysis and transmission information.
+
+&#160;
+
+&#8220;Acuitas MDRO Gene Test&#8221; means our internally developed test that detects ten critical MDRO genes, including CRE (7 genes), ESBL (2 genes) and VRE resistant organisms, from one patient swab.
+
+&#160;
+
+&#8220;Acuitas MDRO test products&#8221; means our Acuitas MDRO Gene Test, Acuitas CR Elite Test and Acuitas Resistome Test.
+
+&#160;
+
+&#8220;Acuitas Resistome Test&#8221; means our rapid, high resolution test that includes additional resistance genes for carbapenems, ESBLs and AmpC.
+
+&#160;
+
+&#8220;Annual Report&#8221; means this Annual Report on Form 10-K for the year ended December 31, 2015.
+
+&#160;
+
+&#8220;antibiotic stewardship&#8221; has been defined by the CDC to mean hospital-based programs dedicated to improving use of antibiotic therapy with the goal of optimizing the treatment of infections and reducing the adverse events associated with antibiotic use.
+
+&#160;
+
+&#8220;Argus System&#8221; means OpGen&#8217;s proprietary system used to perform Whole Genome Mapping.
+
+&#160;
+
+&#8220;bioinformatics&#8221; refers to methods, algorithms and processes for the collection, classification, storage and analysis of biochemical and biological data and information using computers, especially as applied in molecular genetics and genomics. Our focus is on acquiring such data and information related to MDROs to assist in diagnosis and screening of patients and antibiotic stewardship initiatives by acute care hospitals. When we use the term &#8220;advanced bioinformatics,&#8221; we mean bioinformatics combined with higher levels of complexity, sophistication and subject matter expertise related to MDROs, diagnostics, antibiotic stewardship, and the development of associated analysis tools, or the novel application of existing bioinformatics in future products or services. In this Annual Report, we also sometimes use the phrase &#8220;bioinformatics products and services,&#8221; often interchangeably with &#8220;bioinformatics platform,&#8221; to describe the Company&#8217;s focus on the use of bioinformatics and advanced bioinformatics in its current and future product and service offerings.
+
+&#160;
+
+&#8220;bioinformatics platform&#8221; means a combination of software tools and analytical processes that streamline the production and analysis of bioinformatics data. When we use the term bioinformatics platform, we are primarily referring to Acuitas Lighthouse.
+
+&#160;
+
+&#8220;CDC&#8221; means the U.S. Centers for Disease Control and Prevention.
+
+&#160;
+
+&#8220; C. difficile &#8221; means clostridium difficile, an MDRO that causes intestinal tract infections that can lead to sepsis.
+
+&#160;
+
+&#8220;CLIA&#8221; means the Clinical Laboratory Improvements Act of 1988, as amended.
+
+&#160;
+
+&#8220;CLIA lab&#8221; means a clinical or reference laboratory meeting the requirements of the Clinical Laboratory Improvements Act of 1988, as amended.
+
+&#160;
+
+&#8220;CMS&#8221; means the Centers for Medicare and Medicaid Services.
+
+&#160;
+
+&#8220;CRE&#8221; means Carbapenem-resistant Enterobacteriaceae, an MDRO.
+
+&#160;
+
+&#8220;DNA probe analysis&#8221; is a test where an agent binds directly to a predefined or labeled sequence of nucleotides in a DNA molecule in order to detect unique nucleotide sequences within the molecule.
+
+&#160;
+
+&#8220;DNA sequencing&#8221; is the process of determining the precise order of nucleotides within a DNA molecule.
+
+&#160;
+
+&#8220;epidemiologically linked&#8221; means situations where it is shown that one person is the source of an infection that spreads through contact to one or more other persons.
+
+&#160;
+
+&#160; 23 &#160; 
+
+&#160;
+
+&#8220;ESBL&#8221; means extended spectrum beta lactamase bacteria.
+
+&#160;
+
+&#8220;FDA&#8221; means the U.S. Food and Drug Administration.
+
+&#160;
+
+&#8220;HAIs&#8221; means hospital acquired infections. Such infections could arise first in the hospital or other healthcare setting, or could result from a patient, colonized with an organism, developing an active infection once admitted to the hospital or other healthcare setting.
+
+&#160;
+
+&#8220;HIPAA&#8221; means the federal Health Insurance Portability and Accountability Act of 1996, as amended by the Health Information Technology for Economic and Clinical Health Act (&#8220;HITECH Act&#8221;). HIPAA and HITECH are federal laws mandating security and privacy of protected personal health information of patients.
+
+&#160;
+
+&#8220;hospital biome&#8221; is used in this Annual Report to refer to the unique characteristic microbial environment found in a specific hospital or other healthcare setting, which could change from time to time based on the MDRO profile of the institution.
+
+&#160;
+
+&#8220;ICU&#8221; means an intensive care unit in a health-care facility.
+
+&#160;
+
+&#8220;KPC&#8221; means Klebsiella pneumoniae carbapenemase, an MDRO.
+
+&#160;
+
+&#8220;LIMS&#8221; means a laboratory information management system.
+
+&#160;
+
+&#8220;MDRO&#8221; means a multidrug-resistant organism.
+
+&#160;
+
+&#8220;microfluidic&#8221; means devices or processes that are designed, manufactured or formulated to accommodate applications that require very small volumes of fluid, on the order of nanoliters or picoliters.
+
+&#160;
+
+&#8220;nosocomial&#8221; means hospital acquired.
+
+&#160;
+
+&#8220;PPACA&#8221; means the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act.
+
+&#160;
+
+&#8220;sensitivity&#8221; of a clinical laboratory test reflects the probability that a patient with a specific bacterial organism present will have a positive test result.
+
+&#160;
+
+&#8220;specificity&#8221; of a clinical laboratory test reflects the probability that a patient without the specific bacterial organism will have a negative test result.
+
+&#160;
+
+&#8220;USDA&#8221; means the United States Department of Agriculture.
+
+&#160;
+
+&#8220;WHO&#8221; means the World Health Organization.
+
+&#160;
+
+&#8220;Whole Genome Mapping&#8221; means OpGen&#8217;s proprietary technology that provides a customer with a high resolution, ordered, whole genome restriction map generated from single DNA molecules extracted from organisms, such as bacteria, yeast or other fungi, plants or animals and humans. Whole Genome Mapping compliments genome assembly and enables scientist to identify highly repetitive regions, tandem repeats and translocations that are difficult to identify and clarify with sequencing alone.
+
+&#160;
+
+Employees
+
+&#160;
+
+As of December 31, 2015, we had 48 employees worldwide, with 47 employed in the United States and one employed in Denmark. The 47 employees in the United States primarily work in our Gaithersburg, Maryland and Woburn, Massachusetts locations. None of our employees are the subject of collective bargaining arrangements, and our management considers its relationships with employees to be good.
+
+&#160;
+
+Corporate Information
+
+&#160;
+
+OpGen, Inc. was incorporated in Delaware in 2001. On July 14, 2015, it acquired AdvanDx in the Merger. The Company&#8217;s headquarters are in Gaithersburg, Maryland, and its principal operations are in Gaithersburg, Maryland and Woburn, Massachusetts. The Company also has operations in Copenhagen, Denmark.
+
+&#160;
+
+&#160; 24 &#160; 
+
+&#160;
+
+Available Information
+
+&#160;
+
+The Company maintains a website at www.opgen.com. Our Code of Business Conduct and Ethics is available on our website. We are not incorporating our website into this Annual Report. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and amendments to those reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, are available free of charge on our website as soon as practicable after electronic filing of such material with, or furnishing it to, the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;). This information may be read and copied at the Public Reference Room of the SEC at 100 F Street, N.E., Washington D.C. 20549. The SEC also maintains an internet website that contains reports, proxy statements, and other information about issuers, like OpGen who file electronically with the SEC. The address of the site is http://www.sec.gov.
+
+&#160; 
+
+Seasonality of Business 
+
+&#160; 
+
+We do not believe our business is subject to seasonality. However, our business can be subject to and affected by the business practices of our business partners. To the extent that the availability of inventory or materials from or development practices of our partners is seasonal, our sales may be subject to fluctuations quarter to quarter or year over year.
+
+&#160;
+
+&#160; 25 &#160; 
+
+&#160;
+
+&#160; 
+

@@ -1,0 +1,902 @@
+ Item 1. 
+
+Business. 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K contains "forward-looking statements" within the meaning of the safe-harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can often be identified by words such as: "expect," "believe," "estimate," "plan," "strategy," "future," "potential," "continue," "may," "should," "will," and similar references to future periods. Examples include, among others, statements about: expected operating results, such as revenue and earnings; anticipated levels of capital expenditures; future market conditions; our belief that we have sufficient liquidity to fund our business operations for at least the next 12 months; expectations of the effect on our financial condition of claims, litigation, contingent liabilities and supplier audits; and strategies for customer retention, growth, new product and service developments, and market position.
+
+Forward-looking statements are neither historical facts nor assurances about future performance. Instead they are only predictions, based on current beliefs, expectations and assumptions about the future of our business and other future conditions. Forward-looking statements are subject to known and unknown risks, uncertainties and changes in circumstances that are difficult to predict and many of which are outside of our control. Actual events and results may differ materially. Therefore, you should not rely on any of these forward-looking statements.
+
+Any forward-looking statement made by us in this report is based only on information available to us on the date of this report. Except as may be required by law, we undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise.
+
+Our forward-looking statements can be affected by inaccurate assumptions we might make or by known or unknown risks, uncertainties and other factors. We discuss many of these risks, uncertainties and other factors in this Annual Report on Form 10-K in greater detail under the Item 1A&#8212;&#8220;Risk Factors.&#8221; We caution readers that our business and financial performance are subject to substantial risks and uncertainties. 
+
+BUSINESS 
+
+Overview 
+
+As used in this Annual Report on Form 10-K, &#8220;we,&#8221; &#8220;us&#8221;, &#8220;our&#8221;, &#8220;the Company&#8221; and &#8220;BSQUARE&#8221; refer to BSQUARE Corporation. We primarily resell software from Microsoft Corporation (&#8220;Microsoft&#8221;) and provide software solutions and related engineering services to companies that develop smart, connected systems. A smart, connected system is a dedicated purpose computing device that typically has a display, runs an operating system (e.g., Microsoft &#174; Windows &#174; CE or Google Android TM platform) and is usually connected to a network or data cloud via a wired or wireless connection. Examples of smart, connected systems include set-top boxes, home gateways, point-of-sale terminals, kiosks, voting machines, gaming platforms, tablets, handheld data collection devices, personal media players, smart phones, smart vending machines, ATM machines, casino gaming machines, digital signs and in-vehicle telematics and entertainment devices. We focus on smart, connected systems that utilize various Microsoft Windows Embedded and Windows Mobile operating systems as well as devices running other popular operating systems such as Android, Linux, and QNX. 
+
+We have been providing software solutions for smart, connected systems since our inception. Our customers include world class original equipment manufacturers (&#8220;OEMs&#8221;), original design manufacturers (&#8220;ODMs&#8221;) and corporate enterprises (&#8220;Enterprises&#8221;), as well as silicon vendors (&#8220;SVs&#8221;) and peripheral vendors which purchase our software solutions for purposes of facilitating processor and peripheral sales. In the case of Enterprises, our customers include those that develop, market and distribute smart, connected systems on their own behalf as well as those that purchase systems from OEMs or ODMs and require additional software, integration and/or testing. The software solutions we provide are utilized and deployed throughout various phases of our customers&#8217; device life cycle, including design, development, customization, quality assurance and deployment. 
+
+Increasingly, we are focusing on developing and offering our own products such as DataV TM to address the emerging Internet of Things (&#8220;IoT&#8221;) market, which is the interconnection of uniquely identifiable embedded computing devices within the existing internet infrastructure. DataV is an actionable data solution for the IoT market that includes software products, applications and services that turn raw device data into useful, meaningful and actionable data.
+
+We were incorporated in the State of Washington in July 1994. Our principal office is located at 110 110th Avenue NE, Suite 300, Bellevue, Washington 98004, and our telephone number is (425) 519-5900. 
+
+&#160;
+
+Industry Background 
+
+The increasing opportunity for connectivity and exchange of data coupled with the rise of cloud storage and cloud computing infrastructure is driving new applications for smart, connected systems of all kinds. 
+
+The smart, connected systems industry is characterized by a wide variety of software and hardware configurations and end-user applications, often designed to address a specific vertical market. To accommodate these diverse characteristics in a cost-effective manner, OEMs, ODMs and Enterprises require operating systems and software that can support a diverse set of hardware requirements and connect to a wide variety of networks, systems, peripherals, content and applications. 
+
+The smart, connected systems marketplace is being influenced by the following factors: 
+
+&#160;
+
+&#183; 
+
+Continuing demand by business professionals and consumers for integrated mobile devices, which combine telephony, data (such as email and internet browsing), multimedia, location awareness and cameras; 
+
+&#160;
+
+&#183; 
+
+Businesses are increasingly deploying specialized devices in stores, shopping centers, shop floors, etc., or to their employees who work in the field but need connectivity to business systems and data; 
+
+&#160;
+
+&#183; 
+
+The ubiquity of cellular and wireless local area networks (&#8220;WLANs&#8221;) is driving rapid adoption of smart connected systems that leverage broadband and high-speed wireless data networks, including Internet Protocol (&#8220;IP&#8221;) set-top boxes, voice-over-IP (&#8220;VoIP&#8221;) phones, residential gateways, and home networking solutions linking smart connected systems with personal computers; 
+
+&#160;
+
+&#183; 
+
+The vastly increasing number of sensors and similar devices requires new solutions for these devices to interact with other devices autonomously through the &#8220;Internet of Things&#8221; and to provide data to applications, both those that reside local to the device and those running in the cloud; 
+
+&#160;
+
+&#183; 
+
+Expectations for device functionality continue to grow. Users expect to be able to access email and the internet, synchronize their devices with cloud and corporate data sources and deploy multiple applications on their devices; 
+
+&#160;
+
+&#183; 
+
+The availability of multimedia content has increased demand for high-performance, multimedia-capable devices that are able to access, share and play audio, video and application content located on remote computers; 
+
+&#160;
+
+&#183; 
+
+Security is an increasingly important concern as devices are now often able to access networks and store sensitive information locally such as email, spreadsheets and other documents. Users are demanding that these types of information be protected in the same ways they are protected on the desktop; 
+
+&#160;
+
+&#183; 
+
+Higher bandwidth networks coupled with larger displays and increased processing power found on new devices means that more multimedia content will be available to devices&#8212;increasing demand for digital rights management, content management and related technologies; and 
+
+&#160;
+
+&#183; 
+
+Increase in device complexity is being driven by rising user expectations of functionality, complex device interactions with wireless networks and updated versions of embedded operating systems and silicon processors, all of which are driving OEMs, ODMs and Enterprises to continually refresh and update their device designs. 
+
+Software Solutions and Related Engineering Services for Smart Connected Systems 
+
+Our customers include world class OEMs and ODMs, Enterprises, SVs and peripheral vendors which are developing smart connected systems or assisting others in doing so. Representative customer engagements in 2015 included the following: 
+
+&#160;
+
+&#183; 
+
+We continued support of the second generation of MyFord Touch, a product of Ford Motor Company (&#8220;Ford&#8221;). The MyFord Touch infotainment system is an in-car communications and entertainment system which enables drivers of Ford&#8217;s car offerings to access a wide range of connected information and entertainment experiences including music and multi-media services, hands-free telephony, internet-enabled applications, language services, news and navigation; 
+
+&#160;
+
+&#183; 
+
+The Coca-Cola Company (&#8220;Coca-Cola&#8221;) continues to engage us in the development and support of Freestyle &#174; , its next generation drink dispensing machine; and 
+
+&#160;
+
+&#183; 
+
+We continued work with Google to assist in the development of their advanced technology &#8220;Project Tango.&#8221; We have expanded our work with Google to include additional projects. 
+
+The software we deliver to our customers as part of our smart connected software solutions takes three forms. The first is our own proprietary software products, the second is best-of-class third-party software products and the last is custom software delivered through our engineering services teams. The majority of the software we sell is from Microsoft. Due to the complexity of embedded software, the integration of our own proprietary software, third-party software products and customer software on 
+
+&#160;
+
+customers&#8217; devices often requires us to provide addi tional engineering services addressing systems integration, customization and/or optimization as well as quality assurance testing. Our goal is to increase the breadth and depth of our software product and engineering service offerings to our customers to enhance our position as an overall smart connected software solutions provider. 
+
+Software revenue for the last two fiscal years was as follows (in thousands): 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Year Ended
+
+&#160;
+
+&#160;
+
+&#160;
+
+December 31,
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Software revenue:
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Third-party software
+
+&#160;
+
+$
+
+82,885
+
+&#160;
+
+&#160;
+
+$
+
+73,933
+
+&#160;
+
+Proprietary software
+
+&#160;
+
+&#160;
+
+3,323
+
+&#160;
+
+&#160;
+
+&#160;
+
+2,314
+
+&#160;
+
+Total software revenue
+
+&#160;
+
+$
+
+86,208
+
+&#160;
+
+&#160;
+
+$
+
+76,247
+
+&#160;
+
+Software revenue as a percentage of total revenue
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+Third-party software revenue as a percentage of total
+
+&#160; software revenue
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+Third-Party Software Products 
+
+We have distribution agreements with multiple third-party software vendors. Our ability to resell these third-party software products, whether stand-alone or in conjunction with our own proprietary software and engineering service offerings, provides our customers with a significant solution source for their project needs. Our primary third-party software offerings include the following: 
+
+&#160;
+
+&#183; 
+
+For 17 years, we have been a Microsoft authorized Value-Added Provider (&#8220;VAP&#8221;) of Windows Embedded operating systems and toolkits for the complete line of Windows Embedded Products, including major product families such as Windows Embedded Compact, Windows Embedded Standard and Windows Embedded Server. We are authorized to sell Windows Embedded operating systems in the United States, Canada, Mexico, Argentina, Brazil, Chile, Columbia, Peru, Puerto Rico, the Caribbean (excluding Cuba), the European Union, the European Free Trade Association, Turkey and Africa. Of our total revenue, 64% was generated through the sale of Windows Embedded operating systems in both 2015 and 2014. Our current distribution agreements related to Windows Embedded expire on June 30, 2016; 
+
+&#160;
+
+&#183; 
+
+We have been a Microsoft authorized VAP of Windows Mobile operating systems since November 2009. Along with Windows Mobile operating systems, we also sell Microsoft&#8217;s Office Mobile product. We are currently authorized to sell Windows Mobile operating systems and related products in North America, South America, and Central America (excluding Cuba) (the &#8220;Americas&#8221;), Japan, Taiwan, and the region comprised of Europe, the Middle East, and Africa (&#8220;EMEA&#8221;). Of our total revenue in 2015, 12% was generated through the sale of Windows Mobile operating systems, compared to 9% in 2014. Our current distribution agreements related to Windows Mobile expire on June 30, 2016; 
+
+&#160;
+
+&#183; 
+
+We are an authorized distributor for Adobe Flash technologies and Adobe Reader. We have the right to distribute Adobe Flash Lite licenses on a worldwide basis; and 
+
+&#160;
+
+&#183; 
+
+We are an authorized distributor of Intel Corporation&#8217;s Embedded Security product in North America. 
+
+&#160;
+
+The sale of Microsoft operating systems has accounted for substantially all of our third-party software revenue historically, including 97% of third-party software revenue in 2015 and 95% of third-party software revenue in 2014. 
+
+&#160;
+
+Engineering Service Offerings 
+
+We offer a variety of engineering services to our customers including: 
+
+&#160;
+
+&#183; 
+
+Architectural and system design; 
+
+&#160;
+
+&#183; 
+
+Software design and development; 
+
+&#160;
+
+&#183; 
+
+Platform development systems integration; 
+
+&#160;
+
+&#183; 
+
+Application, middleware and multimedia software development; 
+
+&#160;
+
+&#183; 
+
+Quality assurance and testing; 
+
+&#160;
+
+&#183; 
+
+Device solution strategy consulting; 
+
+&#160;
+
+&#183; 
+
+Technical support; 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Implementation; and &#160;
+
+&#160;
+
+&#183; 
+
+Test automation engineering and consulting services. 
+
+Customers engage us for engineering services due to our extensive device software development and testing experience and because of our deep experience with embedded and mobile operating systems. We believe that engaging us on a new device design typically results in shorter development cycles and reduced time-to-market, lower overall costs to complete projects, and enhanced product robustness and features, which a customer may otherwise have been unable to achieve. 
+
+Service revenue for the last two fiscal years was as follows (in thousands): 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Year Ended
+
+&#160;
+
+&#160;
+
+&#160;
+
+December 31,
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Service revenue
+
+&#160;
+
+$
+
+20,393
+
+&#160;
+
+&#160;
+
+$
+
+19,669
+
+&#160;
+
+Service revenue as a percentage of total revenue
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+%
+
+&#160;
+
+Service revenue related to Google was $4.7 million, or 23% of 2015 service revenue, and $1.0 million, or 5% of service revenue in 2014. Service revenue related to Coca-Cola was $4.5 million, or 22% of 2015 service revenue, and $4.6 million, or 24% of service revenue in 2014. Service revenue related to the MyFord Touch program was $2.9 million, or 14% of service revenue, in 2015 and $2.8 million, or 14% of service revenue, in 2014. 
+
+Proprietary Software Products 
+
+Our primary proprietary software offerings being actively sold or developed include: 
+
+&#160;
+
+&#183; 
+
+HTML5 Rendering Engine&#8212;Our award-winning HTML5 Rendering Engine is based on the open-source WebKit platform which is maintained by a number of leading internet and device companies. Using WebKit, device makers can create portable applications and user interfaces for their devices using the industry-standard HTML5 markup language. We ported WebKit to the latest versions of Microsoft&#8217;s Windows Embedded Compact Operating System and sell our porting layer to customers along with engineering services to implement our WebKit port on their devices; 
+
+&#160;
+
+&#183; 
+
+TestQuest TM 10&#8212;TestQuest 10 is our latest generation software testing automation tool that provides customers with a complete test solution that brings together everything necessary to test smart connected systems, including tools to create and manage test cases, a platform that allows teams to collaborate on test development, an execution environment that enables tests to be executed on the smart connected systems and capture results, and a reporting tool that allows customers to analyze test results; and 
+
+&#160;
+
+&#183; 
+
+DataV TM &#8212;An actionable data solution for the IoT market. DataV includes software products, applications and services that turn raw device data into useful, meaningful and actionable data. The goal of DataV is to help our customers unlock their data and use the data to lower costs, improve and enhance operations, lower go-to-market risks, and identify new revenue opportunities. 
+
+Strategy 
+
+Our strategy is to continue to enhance our position as a provider of software solutions and related engineering services for smart, connected systems, ultimately becoming the go-to solutions provider for our customers and potential customers around the globe. To advance this strategy, we intend to focus on the following: 
+
+&#160;
+
+&#183; 
+
+Expanding the breadth of services we offer to our customers, particularly those that are focused on making existing smart connected systems more useful and valuable to their customers; 
+
+&#160;
+
+&#183; 
+
+Focusing on our core geographic areas of North America, the United Kingdom, Taiwan and Japan; 
+
+&#160;
+
+&#183; 
+
+Building our offerings and capabilities in the rapidly growing Internet of Things market. As we drive to grow in this market, we will seek to deepen our customer relationships in our software solutions and engineering services businesses to deliver a family of products and services that will turn raw device data into useful, meaningful and actionable information; and 
+
+&#160;
+
+&#183; 
+
+Seeking additional software products, such as DataV, in which to invest. 
+
+&#160;
+
+Relationship with Microsoft and Impact on our Smart Connected Solutions Business 
+
+We have a long-standing relationship with Microsoft and this relationship is critical to the continuing success of our business. Our credentials as a Microsoft partner include: 
+
+&#160;
+
+&#183; 
+
+We have been one of Microsoft&#8217;s largest distributors of Windows Embedded operating systems for over 17 years; 
+
+&#160;
+
+&#183; 
+
+We have been a distributor of Microsoft&#8217;s Windows Mobile operating systems since November 2009; 
+
+&#160;
+
+&#183; 
+
+We are a Windows Embedded Gold-level Systems Integrator; 
+
+&#160;
+
+&#183; 
+
+We were the OED Americas Channel Sales &#38; Marketing Award recipient for Distributor Sales Excellence in 2013; 
+
+&#160;
+
+&#183; 
+
+We were the Microsoft Embedded Distributor of the Year for 2011; 
+
+&#160;
+
+&#183; 
+
+We received a Microsoft Technical Excellence Award for our delivery of highest quality technical solutions on the latest Windows Embedded technologies in the European region in 2011; 
+
+&#160;
+
+&#183; 
+
+Our HTML5 Rendering Engine won a Microsoft Technical Excellence Award in 2012; 
+
+&#160;
+
+&#183; 
+
+We are a developer and provider of Microsoft Official Curriculum Training for Windows Embedded Compact and Windows Embedded Standard; 
+
+&#160;
+
+&#183; 
+
+We are a Preferred Provider of Visual Tools for Microsoft; 
+
+&#160;
+
+&#183; 
+
+We are a Gold-level member of Microsoft&#8217;s Third-Party Tools Provider Program; 
+
+&#160;
+
+&#183; 
+
+We are a Silver Intelligent Systems partner; 
+
+&#160;
+
+&#183; 
+
+We are a Silver Data Analytics partner; 
+
+&#160;
+
+&#183; 
+
+We are a Silver Data Platform partner; and 
+
+&#160;
+
+&#183; 
+
+We have been engaged by Microsoft on various engineering service engagements. 
+
+We work closely with Microsoft executives, developers, product managers and sales personnel. We leverage these relationships in a variety of ways, including: 
+
+&#160;
+
+&#183; 
+
+We gain early access to new Microsoft embedded software and other technologies; 
+
+&#160;
+
+&#183; 
+
+We are able to leverage co-marketing resources, content and strategies from Microsoft, including market development funds, to support our own marketing and sales efforts; 
+
+&#160;
+
+&#183; 
+
+We participate in Microsoft-sponsored trade shows, seminars, and other events; 
+
+&#160;
+
+&#183; 
+
+We receive sales leads from Microsoft; and 
+
+&#160;
+
+&#183; 
+
+We receive rebates from Microsoft based upon the achievement of predefined sales objectives. 
+
+See Item 1A, &#8220;Risk Factors,&#8221; for more information regarding our relationship with Microsoft. 
+
+Customers 
+
+Customers purchasing third-party software and our software solutions and engineering services include leading OEMs, ODMs, Enterprises, SVs and peripheral vendors seeking to leverage the software we provide them, be it our own proprietary software, third-party software or custom software developed via our engineering services, to develop high-quality, smart, connected systems that meet the requirements of numerous end-markets. Representative customers include Hewlett Packard, Google, Coca-Cola, Elo Touch Solutions, Honeywell International, Inc., IGT, Microsoft, Mitsubishi Electric Corporation, Panasonic, Oracle, Omnicell, Elektrobit and several industrial handset companies. 
+
+Sales and Marketing 
+
+We market our software solutions and engineering services utilizing a direct sales model. We have sales personnel throughout the United States and in Taiwan, the United Kingdom and Japan. Historically, we have not made significant use of resellers, channel partners, representative agents or other indirect channels. 
+
+Key elements of our sales and marketing strategy include direct marketing, content marketing, trade shows, event marketing, public relations, analyst relations, social media properties, customer and strategic alliance partner co-marketing programs and a comprehensive website. We rely significantly on lead referral and other marketing support programs from strategic partners. 
+
+&#160;
+
+Research and Development 
+
+Our research and development personnel are responsible for the design, development and release of our proprietary software products. Members of our research and development staff work closely with our sales and marketing departments, as well as with our customers and potential customers, to better understand market needs and requirements. We perform our research and development primarily utilizing engineering staff located in the United States. Research and development expense was $1.6 million and $1.7 million in 2015 and 2014, respectively. Our primary focus in 2015 has been research and development on our new DataV products.
+
+Competition 
+
+The market for smart, connected systems software and services is extremely competitive. We face competition from the following: 
+
+&#160;
+
+&#183; 
+
+Microsoft Windows Embedded and Windows Mobile operating system distributors such as Arrow Electronics, Inc., Avnet, Inc. and Synnex Corporation in Taiwan; 
+
+&#160;
+
+&#183; 
+
+Our current and potential customers&#8217; internal research and development departments, which may seek to develop their own software solutions which compete with our proprietary software products and engineering services; 
+
+&#160;
+
+&#183; 
+
+Engineering service firms, including off-shore development companies, such as Adeneo, SymphonyTeleca division of Harmon Industries and Wipro; 
+
+&#160;
+
+&#183; 
+
+ODMs, particularly those in Taiwan and China, which have added or are adding software development capabilities to their offerings; 
+
+&#160;
+
+&#183; 
+
+Contract manufacturers which have added or are adding software development capabilities to their offerings; 
+
+&#160;
+
+&#183; 
+
+Mobile and embedded test automation providers including Perfecto Mobile, mVerify, JAMO Solutions, SmartBear Software (AutomatedQA), TestPlant (eggPlant) and Keynote. In this market we also compete against customers&#8217; internally created tools and against manual testing; 
+
+&#160;
+
+&#183; 
+
+Marketing agencies and specialized vendors who provide mobile application services; and 
+
+&#160;
+
+&#183; 
+
+The growing Internet of Things market will provide increasing competition from a number of additional software and service providers as we focus on this market in 2016 and beyond. 
+
+Some of our competitors focus on only one aspect of our business or offer complementary products which can be integrated with our products. As we develop and bring to market new software products and service offerings, we may begin competing with companies with which we have not previously competed. Further, as we expand the geographic markets into which we sell our software solutions and related services, or increase our penetration therein, we may expect to increasingly compete with companies with which we have not previously competed. It is also possible that new competitors will enter the market or that our competitors will form alliances, including alliances with Microsoft, that may enable them to rapidly increase their market share. 
+
+Microsoft has not agreed to any exclusive arrangement with us, nor has it agreed not to compete with us. Microsoft may decide to bring more of the core embedded development services and expertise that we provide in-house, possibly resulting in reduced software and service revenue opportunities for us. The barrier to entering the market as a provider of Microsoft-based smart connected systems software and services is low. In addition, Microsoft has created marketing programs to encourage systems integrators to work on Windows Embedded and Windows Mobile operating system software and services. These systems integrators are given substantially the same access by Microsoft to the Microsoft technology as we are. New competitors may have lower overhead than we do and may be able to undercut our pricing. We expect that competition will increase as other established and emerging companies enter the connected device market, and as new products and technologies are introduced. 
+
+International Operations 
+
+Our international operations outside of North America consist principally of engineering services operations in Taipei, Taiwan and Trowbridge, England. We have a sales and sales support office in Tokyo, Japan. Because our OEM Distribution Agreement with Microsoft for the sale of Microsoft Windows Embedded operating systems (e.g. Windows Embedded Compact) has been, until relatively recently, restricted to North America, including Mexico, the majority of our revenue continues to be generated from North America. In 2015, revenue generated from customers located outside of North America was 8% of total revenue, compared to 10% in 2014. The decrease in revenue from outside of North America in 2015 was primarily attributable to lower service revenue in Asia as a result of the completion of a large handheld project in Japan during 2014.
+
+&#160;
+
+See Item 1A, &#8220;Risk Factors,&#8221; and Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations,&#8221; for more information regarding our international operations. 
+
+Personnel 
+
+The following indicates our total headcount by area: 
+
+&#160;
+
+&#160;
+
+&#160;
+
+December 31,
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Engineering Services
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Sales, Marketing and Administrative
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Research and Product Development
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Total Employees
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Contractors (primarily engineering services)
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Total Headcount
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Of the total headcount of 201 at December 31, 2015, 113 were located in North America, 50 in Taiwan, 37 in the United Kingdom and one in Japan. As conditions necessitate, engineering service employees perform research and development activities and vice versa. 
+
+Intellectual Property and Other Proprietary Rights 
+
+In general, we strive to protect our intellectual property rights through patent, copyright, trademark and trade secret laws and through contractual arrangements. However, we cannot be certain that our efforts will be effective to prevent the misappropriation of our intellectual property, or to prevent the development and design by others of products or technologies similar to, or competitive with, those developed by us. 
+
+Additionally, because a significant portion of our revenue relates to the sale of third-party software products, we also rely on our partners, particularly Microsoft, to appropriately protect their own intellectual property. 
+
+As of December 31, 2015 we had eight issued United States (&#8220;US&#8221;) patents and one pending US patent application that has been allowed and that we expect will issue in 2016. We also have a number of registered trademarks in various jurisdictions. We will continue to pursue appropriate protections for our intellectual property. 
+
+See Item 1A, &#8220;Risk Factors,&#8221; for more information regarding our intellectual property and other proprietary rights. 
+
+Available Information 
+
+We electronically file with the Securities and Exchange Commission (&#8220;SEC&#8221;) our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. We make available on our website at www.bsquare.com, free of charge, copies of these reports, as soon as reasonably practicable after electronically filing such reports with, or furnishing them to, the Securities and Exchange Commission. The information contained in, or that can be accessed through, our website is not part of, and is not incorporated into, this Annual Report on Form 10-K.
+
+&#160;
+
+Directors and Executive Officer s of the Registrant 
+
+The following table sets forth certain information with respect to our directors and executive officers as of January 31, 2016: 
+
+&#160;
+
+Name 
+
+&#160;
+
+Age 
+
+&#160;
+
+Position 
+
+Andrew S. G. Harries
+
+&#160;
+
+&#160;
+
+Chairman of the Board
+
+Jerry D. Chase
+
+&#160;
+
+&#160;
+
+President and Chief Executive Officer; Director
+
+Robert J. Chamberlain
+
+&#160;
+
+&#160;
+
+Director
+
+Elliott H. Jurgensen, Jr.
+
+&#160;
+
+&#160;
+
+Director
+
+William D. Savoy
+
+&#160;
+
+&#160;
+
+Director
+
+Kendra A. VanderMeulen
+
+&#160;
+
+&#160;
+
+Director
+
+Scott B. Caldwell
+
+&#160;
+
+&#160;
+
+Vice President, Worldwide OEM Sales
+
+Martin L. Heimbigner
+
+&#160;
+
+&#160;
+
+Chief Financial Officer, Secretary and Treasurer
+
+David Wagstaff
+
+&#160;
+
+&#160;
+
+Vice President and Chief Architect
+
+Kevin T. Walsh
+
+&#160;
+
+&#160;
+
+Vice President, Marketing
+
+Mark D. Whiteside
+
+&#160;
+
+&#160;
+
+Vice President, Solutions
+
+&#160;
+

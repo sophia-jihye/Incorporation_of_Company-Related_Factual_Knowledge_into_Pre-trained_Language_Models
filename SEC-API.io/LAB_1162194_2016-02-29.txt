@@ -1,0 +1,822 @@
+ ITEM 1. BUSINESS 
+
+Overview 
+
+We create, manufacture, and market innovative technologies and life science tools focused on the exploration and analysis of single cells, as well as the industrial application of genomics, based upon our core microfluidics and mass cytometry technologies. We sell instruments and consumables, including integrated fluidic circuits, or IFCs, assays, and reagents, to academic institutions, clinical laboratories, and pharmaceutical, biotechnology, and agricultural biotechnology, or Ag-Bio, companies. 
+
+Single-cell analysis is a rapidly-growing field that we believe has the potential to revolutionize basic discovery in biology and lead to new and better ways to diagnose and treat disease. We pioneered a field that is now known as single-cell genomics and, through our acquisition of DVS Sciences, Inc., or DVS, in February 2014, we expanded into the field of single-cell proteomics. Our single-cell biology platform empowers our customers to analyze a large number of individual cells using simplified workflows with increased speed and accuracy at reduced costs. Our products also enable customers to apply the knowledge of biology in industrial or other applied settings that typically utilize low quantity and/or quality samples in high-throughput repeat testing applications. 
+
+Researchers have successfully employed our products to help achieve breakthroughs in a variety of fields, including single-cell gene and protein expression, gene regulation, genetic variation, cellular function, and applied genetics. These breakthroughs include using our systems to help detect life-threatening mutations in cancer cells, discover cancer associated biomarkers, analyze the genetic composition of individual stem cells, and assess the quality of agricultural products, such as seeds or livestock. 
+
+As of December 31, 2015, we had sold approximately 1,630 systems to customers in more than 45 countries worldwide. Over 800 systems sold have been designated for single-cell biology research. 
+
+Our Target Markets 
+
+The current markets for our products include life science research and production genomics. 
+
+Life Science Research 
+
+Single-Cell Biology . Life science research typically involves the analysis of samples containing many thousands of cells of many different types. When such samples are studied using traditional methodologies, the results obtained reflect a rough average of the activity of all of the cells in the sample, which masks critical differences in cell types and between individual cells of the same type. Additionally, in fields such as in-vitro fertilization and stem cell research, the number of cells available for analysis is inherently limited and the small amount of genetic material in a single cell prevents conventional methods from analyzing the activity of more than a few genes. 
+
+Single-cell biology is a rapidly emerging area of life science research that requires specialized tools and techniques to harvest and process individual cells with high sensitivity and reproducibility. Single-cell biology researchers need to conduct a high number of tests on a large number of individual cells, which in combination translates into thousands of experiments that must be accurate, fast, simple, and low cost. Our systems enable researchers to perform gene expression or protein expression analysis on single cells on a scale that is otherwise impractical with conventional systems due to the cost, experimental variability, and the large amount of biological sample required to initiate typical studies. 
+
+Genomics. One primary area of focus within life science research is genetic analysis, the study of genes and their functions. The hereditary material or nucleic acid of an organism is often referred to as its genome, the protein-encoding regions of which are commonly known as genes. Analysis of variations in genomes, genes, and gene activity in and between organisms can provide valuable insight into their health and functioning. Single-cell genomics is the study of the sequence and expression of genes and their ultimate functions at the individual cell level. 
+
+There are several forms of genetic analysis in use today, including genotyping, gene expression analysis, and DNA sequencing. 
+
+&#8226; 
+
+Genotyping involves the analysis of DNA variations across individual genomes. There are multiple forms of variants, including single nucleotide polymorphism, or SNPs, insertion-deletions, and copy number variation. A common application of genotyping focuses on analyzing SNPs to determine whether a SNP or group of SNPs are associated with a particular genetic trait, such as propensity for a disease. 
+
+&#8226; 
+
+Gene expression analysis involves measuring the levels of particular ribonucleic acid sequences known as messenger RNAs, or mRNAs, which have been transcribed from genes. Determining these levels is important because mRNAs are often translated by the cell into proteins, and may affect the activity of the cell or the larger organism. 
+
+&#8226; 
+
+DNA sequencing is a process by which researchers are able to determine the particular order of nucleotide bases that comprise all or a portion of a particular gene or genome, and typically improves with target enrichment, such as complex sample preparation and tagging processes. Researchers are increasingly using next-generation DNA sequencers to rapidly and cost-effectively sequence portions of genomes, which is important for the identification of genetic variations that correlate with particular phenotypes. 
+
+Gene expression and genotyping are studied through a combination of various technology platforms that characterize gene function and genetic variation. These platforms often rely on polymerase chain reaction, or PCR, amplification to generate exponential copies of a DNA sample to provide sufficient signal to facilitate detection. Real-time quantitative PCR, or real-time qPCR, is a more advanced form of PCR that makes it possible to quantify the number of copies of DNA present in a sample. 
+
+Proteomics . Another focus within life science research is protein analysis, the study of proteins and their structures and functions. Proteins perform a vast array of functions within living organisms, including catalyzing metabolic reactions, replicating DNA, responding to stimuli, and transporting molecules from one location to another. Protein analysis is required to profile and understand cellular function. 
+
+There are several forms of high-throughput protein analysis in use today, including mass spectrometry, traditional flow cytometry, and mass cytometry. 
+
+&#8226; 
+
+Mass spectrometry is an analytical chemistry technique that measures the mass-to-charge ratio in molecules using external electric and magnetic fields. Mass spectrometry techniques are limited to bulk samples and provide an understanding of global protein dynamics on a tissue or organism level, but does not alone enable researchers to analyze data at a single cell level. 
+
+&#8226; 
+
+Traditional flow cytometry utilizes a suspension of cells in a stream of fluid and passes them through an electronic detection apparatus to allow simultaneous multi-parameter analysis of the physical and chemical characteristics of up to thousands of cells per second. Although traditional flow cytometry technologies are high-throughput with single-cell analysis capabilities, a key limitation is the use of fluorescent dyes to label antibodies for detection. These fluorescent labels have emission spectra that typically overlap, making it challenging to optimize reagents to analyze many protein markers at once. In general, the number of protein targets for conventional flow cytometry is less than about 10 with significant reagent optimization often involved. 
+
+&#8226; 
+
+Mass cytometry is similar to traditional flow cytometry but is based primarily on antibodies using heavy metal isotope labels rather than fluorescent labels for detection of proteins, enabling the significant expansion of the number of parameters analyzed per individual cell versus conventional flow cytometry technologies. With high-throughput, single-cell analysis capabilities, and the ability to analyze more protein markers per individual cell, researchers have more granular information, which allows them to identify and characterize even finer subpopulations of cells. 
+
+Production Genomics 
+
+Production genomics includes applied markets that utilize biology in an industrial or applied setting and typically involves high-throughput repeat testing applications. Key production genomics customers include Ag-Bio companies, clinical laboratories, biorepositories and biopharmaceutical companies. 
+
+Agricultural Biotechnology . Ag-Bio applies scientific techniques, including genetic analysis techniques such as SNP genotyping and DNA sequencing, to study and improve desired characteristics in plants, animals, and microorganisms. Genetic analysis techniques have become increasingly useful in Ag-Bio applications, including wildlife population studies, agricultural quality control, and commercial genetic engineering and identification. Ag-Bio customers require systems that can quickly and accurately analyze a large number of samples, such as tissue from livestock populations or seeds from a production lot, in a high-throughput and cost-efficient manner. 
+
+Clinical Laboratories . Recent advances in genetic analysis technology are increasingly being used for clinical research applications. Techniques such as SNP genotyping, gene expression analysis, targeted DNA sequencing and other genetic correlation studies have been developed to identify disease susceptibility and to diagnose, classify, and monitor 
+
+disease progression. Prognostics and diagnostics based on measuring these genetic markers have the potential to be much more accurate and robust than conventional diagnostics. The validation and translation of prognostics and diagnostics into clinically available tests often requires life science automation systems that are able to measure multiple biomarkers efficiently in a large number of patient samples. 
+
+Biorepositories . Advancements in biology have led to an increased dependence on biorepositories to store genetic material for future testing and analysis. Flaws in the identity and quality of biorepository specimens are costly and result in erroneous data. To ensure sample integrity, biorepositories require cost-effective, simple, and high-throughput techniques to identify DNA samples and ensure traceability throughout the banking and downstream analytical processes. 
+
+Biopharmaceuticals. &#32;Biopharmaceutical companies use production scale genomic and proteomic analytical methods in numerous phases of the discovery, development and approval process of a therapeutic agent. These methods also may be used in companion diagnostics to attempt to reduce adverse events and identify patient populations that may more effectively respond to a therapeutic agent. 
+
+Products 
+
+We market innovative technologies and life-science tools, including analytical and preparatory systems for genomic and proteomic analysis, and consumables, including IFCs, assays, and reagents. Our primary product offerings are summarized in the table below: 
+
+Product 
+
+&#160; 
+
+Product Description 
+
+&#160; 
+
+Applications 
+
+Preparatory Instruments 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+C1 Single-Cell Auto Prep System 
+
+&#160; 
+
+Sample preparation system that rapidly and reliably isolates and processes individual cells for genomic analysis. 
+
+&#160; 
+
+Single-Cell Targeted Gene Expression, Single-Cell microRNA Analysis, Single-Cell mRNA Sequencing, Single-Cell Targeted DNA Sequencing, Single-Cell Whole Exome Sequencing, and Single-Cell Whole Genome DNA Sequencing, Single-Cell Epigenetics, Single-Cell Protein Expression 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Access Array System 
+
+&#160; 
+
+Sample preparation system that enables automated PCR-based target enrichment, barcoding, and tagging of targeted sequencing libraries and facilitates parallel amplification of up to 480 amplicons across 48 unique samples. 
+
+&#160; 
+
+Targeted Resequencing with 
+
+Next-Generation DNA 
+
+Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Juno System and IFCs 
+
+&#160; 
+
+System that automates the preparation of samples for genomic analysis. The system automates PCR-based target enrichment, barcoding, and tagging of targeted sequencing libraries utilizing Targeted Sequencing Prep chemistry and IFCs. The Targeted Sequencing Prep IFCs and chemistry facilitate parallel amplification of up to 5000 amplicons across up to 48 unique samples, or up to 2500 amplicons across up to 192 unique samples. Juno also automates workflows for PCR-based gene expression and genotyping, preparing the Flex Six, 48.48, and 96.96 IFCs for both gene expression and genotyping. The Juno genotyping IFC incorporates preamplification for genotyping of challenging and low-concentration DNA samples, genotyping of up to 96 samples and 96 assays on a single IFC. 
+
+&#160; 
+
+SNP Genotyping and Targeted Resequencing with Next-Generation DNA Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Callisto System and IFC 
+
+&#160; 
+
+Integrated high-throughput system and IFC that enable automated cell culture and combinatorial dosing on a single device. 
+
+&#160; 
+
+Stem Cell Reprogramming and Differentiation 
+
+Product 
+
+&#160; 
+
+Product Description 
+
+&#160; 
+
+Applications 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Preparatory Analytical Instruments 
+
+&#160; 
+
+&#160; 
+
+Polaris System and IFC 
+
+&#160; 
+
+System and IFC that incorporate cell selection, isolation, imaging, dosing, culture, and processing of single cells for downstream molecular biology and analysis techniques preparation into a single workflow. 
+
+&#160; 
+
+Functional Genomics Using Single-Cell mRNA Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Analytical Instruments 
+
+&#160; 
+
+&#160; 
+
+Biomark HD System 
+
+&#160; 
+
+Real-time PCR analytical instrument for high-throughput gene expression analysis, single-cell targeted gene expression analysis, microRNA analysis, SNP genotyping, and digital PCR. 
+
+&#160; 
+
+SNP Genotyping, Digital PCR, and Gene Expression, including Single-Cell Targeted Gene Expression 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+EP1 System 
+
+&#160; 
+
+End-point PCR analytical instrument that performs high-throughput SNP genotyping and end-point digital PCR. 
+
+&#160; 
+
+SNP Genotyping and Digital 
+
+PCR 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Helios/CyTOF 2 System 
+
+&#160; 
+
+Mass cytometry instrument that performs high-parameter single-cell protein analysis by analyzing cells labeled with a panel of reagents conjugated to stable metal isotopes. 
+
+&#160; 
+
+Single-Cell Protein Analysis 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Integrated Fluidic Circuits (IFCs) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+C1 IFCs 
+
+&#160; 
+
+IFCs that capture and prepare individual cells for genomic analysis, and uses integrated thermal and pneumatic controls at nanoliter scale to perform all the steps of the single-cell genomic workflow without intervention; designed to maximize cell capture efficiency based on cell size (5-25 micron); available in three sizes per application. 
+
+&#160; 
+
+Single-Cell Targeted Gene Expression, Single-Cell microRNA Analysis, Single-Cell mRNA Sequencing, Single-Cell Targeted DNA Sequencing, Single-Cell Whole Exome DNA Sequencing, and Single-Cell Whole Genome DNA Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Access Array IFC 
+
+&#160; 
+
+IFC that facilitates parallel amplification, barcoding, and tagging of 48 unique samples and designed to enable recovery of reaction products from the IFC for sequencing. 
+
+&#160; 
+
+Targeted Sequencing with Next-Generation DNA Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Dynamic Array IFCs 
+
+&#160; 
+
+IFCs based on matrix architecture, allowing users to (i) individually assay up to 48 samples against up to 48 assays, (ii) individually assay up to 96 samples against up to 96 assays, or (iii) individually assay up to 192 samples against up to 24 assays. 
+
+&#160; 
+
+Real-time qPCR, End-Point PCR, SNP Genotyping and Gene Expression, including Single-Cell Targeted Gene Expression 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Digital Array IFCs 
+
+&#160; 
+
+IFCs based on partitioning architecture, allowing users to divide samples into up to 770 chambers in each of up to 48 panels for up to 36,960 reactions per IFC. 
+
+&#160; 
+
+Digital PCR, Copy Number Variation and 
+
+Mutation Detection 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Flex Six IFC 
+
+&#160; 
+
+IFC that incorporates six 12 X 12 partitions that can be organized in any configuration, in up to six separate experimental runs. 
+
+&#160; 
+
+Gene Expression and SNP Genotyping 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+High-Throughput C1 mRNA 
+
+Sequencing IFC 
+
+&#160; 
+
+IFC that enables sequencing transcriptomes of up to 800 single cells. 
+
+&#160; 
+
+Single-Cell mRNA Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+&#160; 
+
+Product Description 
+
+&#160; 
+
+Applications 
+
+Assays and Reagents 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Delta Gene and SNP Type Assays 
+
+&#160; 
+
+Custom designed assays for specific nucleic acid regions of interest, providing optimized assays, content, and services to users of Biomark and EP1 systems at lower cost as compared to other commercially available chemistries. 
+
+&#160; 
+
+Gene Expression, Single-Cell Targeted Gene Expression, and SNP Genotyping 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Access Array Target-Specific Primers and Targeted Sequencing Prep Primers 
+
+&#160; 
+
+Custom designed amplicon-library preparation assays for use with Access Array IFCs on the Access Array or Juno systems. 
+
+&#160; 
+
+Targeted Sequencing with 
+
+Next-Generation DNA 
+
+Sequencing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Maxpar Reagents 
+
+&#160; 
+
+Pre-conjugated metal-labeled antibodies for functional and phenotypic profiling of single cells, application specific panel kits, and reagents for custom antibody labeling and nucleic acid staining. 
+
+&#160; 
+
+Single-Cell Protein Analysis 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+We have announced the following new products, which we expect will be commercially available in the near future (as indicated below): 
+
+Product 
+
+&#160; 
+
+Product Description 
+
+&#160; 
+
+Applications 
+
+Imaging Mass Cytometer (IMC) instrument and reagents 
+
+&#160; 
+
+New platform instrument that enables simultaneous measurements of more than 35 proteins in complex tissue samples or cell suspensions deposited on a microscopy slide, with spatial resolution provided by analysis of individual one micrometer pixels. The platform consists of a laser ablation module, capable of generating non-overlapping single shot ablation plumes at a frequency of 100 Hz and higher, and Helios system. The laser ablation module is compatible with existing Helios system installations. 
+
+The instrument and associated reagents are expected to be commercially available in the second half of 2016. 
+
+&#160; 
+
+Research into system biology of solid tumors, such as breast cancer, pancreatic cancer, lung cancer 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Laser Ablation Module 
+
+&#160; 
+
+When connected to a Helios system, provides a solution for the growing need to conduct high-parameter imaging to complement existing single-cell genomics and proteomics techniques by providing spatial context. 
+
+Expected to be commercially available in the second half of 2016. 
+
+&#160; 
+
+Spatial analysis of complex tissue samples and smeared cells on slides. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Additional Maxpar Reagents 
+
+&#160; 
+
+Pre-conjugated cadmium isotope-labeled antibodies for functional and phenotypic profiling of single cells, application specific panel kits, and reagents for custom cadmium isotope-antibody labeling and nucleic acid staining. 
+
+Expected to be commercially available by 
+
+the end of 2016. 
+
+&#160; 
+
+Single-Cell Protein Analysis 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Our Technology 
+
+Multi-Layer Soft Lithography 
+
+Our IFCs are manufactured using multi-layer soft lithography technology, or MSL technology, to create valves, chambers, channels, and other fluidic components on our IFCs that allow nanoliter quantities of fluids to be precisely manipulated within the IFC. We have developed commercial manufacturing processes to fabricate valves, channels, vias, and chambers with dimensions in the ten to 100 micron range, at high density and with high yields. 
+
+Integrated Fluidic Circuits 
+
+Our IFCs incorporate several different types of technology that together enable us to use MSL technology to rapidly design and deploy new microfluidic applications. The first level of our IFC technology is a library of components that perform basic microfluidic functions, such as pumps, mixers, single-cell capture chambers, separation columns, control logic, and reaction chambers. The second level of our IFC technology comprises the architectures we have designed to exploit our ability to conduct thousands of reactions on a single IFC. The third level of our IFC technology involves the interaction of our IFCs with the actual laboratory environment. Our IFCs are built on specially designed input frames that are compatible with most commonly used laboratory systems. 
+
+Instrumentation and Software 
+
+We have developed instrumentation technology to load samples and reagents onto our IFCs and to control and monitor reactions within our IFCs. Our line of IFC controllers consists of commercial pneumatic components and both custom and commercial electronics. They apply precise control of multiple pressures to move fluid and control valve states in a microfluidic IFC. 
+
+Our Biomark HD system includes our custom thermal cycler, the FC1 cycler, and a sophisticated fluorescence imaging system. Our EP1 instrument is a fluorescence reader designed for end-point imaging, suitable for genotyping and digital PCR applications. Our C1 system combines the hardware elements of our IFC controllers and FC1 cycler with sophisticated scripting and protocol control software to enable automation of single-cell capture and preparation for subsequent analysis. Certain capabilities of the C1 system have been used to create our Juno system, which serves as a universal controller and cycler for our Dynamic Array IFCs. Our Callisto system integrates environmental regulation for long-term cell culture with the C1 control system. Our Polaris system combines the capabilities of all these instruments by incorporating thermal cycling, IFC control, environmental regulation, and imaging. 
+
+Our mass cytometry instrumentation technology includes a custom-designed inductively-coupled plasma ion source, ion-optical and vacuum systems, and instrument control electronics. With our CyTOF 2 system and our Helios system, which is an enhanced version of our CyTOF 2 system, individual cells are atomized, ionized, and extracted. A time-of-flight mass analyzer separates atomic ions of different mass-to-charge ratios, providing information on temporal distribution of ions. 
+
+We have also developed specialized software to manage and analyze the unusually large amounts of data produced by our systems. Our bioinformatic toolset, the Singular software, facilitates the analysis and visualization of single-cell gene expression data. More recently, we extended the scope of the toolset to include DNA analysis tools. We also developed the C1 Script Builder software to enable customers to take full advantage of the flexibility of C1 IFC architecture by allowing them to program their own control scripts for the C1 system. We offer Fluidigm Cytobank, our cloud-based platform of analytical tools, for use with the Helios/CyTOF 2 systems. 
+
+Assays and Reagents 
+
+Our Delta Gene and SNP Type assay products consist of assay design and custom content delivery systems for gene expression and genotyping, respectively. These offerings provide low-cost alternatives to chemistries such as TaqMan, and allow customers to use IFCs in more flexible ways. PCR assay reagents need to be specific to the gene targets of interest but the process of designing a set of assays may delay the implementation experiments or require the use of expensive pre-designed assays. We have developed a process to provide customers with validated assays for their targets of interest. 
+
+We also manufacture metal-conjugated antibodies for use with our Helios/CyTOF 2 system to allow detection of up to approximately 37 protein targets simultaneously in a single cell. Our metal-conjugated antibodies are manufactured using metal-chelating polymers, which are produced using proprietary polymerization processes and subsequent post-polymerization modifications. 
+
+Sales and Marketing 
+
+We distribute our systems through our direct sales force and support organizations located in North America, Europe, and Asia-Pacific, and through distributors or sales agents in several European, Latin American, Middle Eastern, and Asia- 
+
+Pacific countries. Our sales and marketing efforts are targeted at laboratory directors and principal investigators at leading companies and academic institutions who need reliable life science automation solutions or enabling new single-cell biology technologies for research or commercial purposes. 
+
+Our sales process often involves numerous interactions and demonstrations with multiple people within an organization. Some potential customers conduct in-depth evaluations of the system, including running experiments on our system and competing systems. In addition, in most countries, sales to academic or governmental institutions require participation in a tender process involving preparation of extensive documentation and a lengthy review process. As a result of these factors and the budget cycles of our customers, our sales cycle, the time from initial contact with a customer to our receipt of a purchase order, can often be 12 months or longer. 
+
+As of December 31, 2015, we had 209 people employed in sales, technical support, and marketing, including 106 sales representatives and applications specialists located in the field. 
+
+Customers 
+
+We have sold our instruments to leading academic institutions, clinical laboratories, and pharmaceutical, biotechnology and Ag-Bio companies. No single customer represented more than 10% of our total revenue for 2015, 2014, or 2013. 
+
+Manufacturing 
+
+Our manufacturing operations are primarily located in Singapore and Canada. Our facility in Singapore manufactures our genomics instruments, several of which are assembled at facilities of our contract manufacturers in Singapore, with testing and calibration of the assembled products performed at our Singapore facility. All of our IFCs for commercial sale and some IFCs for our research and development purposes are also fabricated at our Singapore facility. Our proteomics analytical instruments for commercial sale, as well as for internal research and development purposes, are manufactured at our facility in Canada. We are in the process of relocating this facility into a larger building. We also manufacture IFCs for research and development, assays, and reagents at our facilities in South San Francisco, California. 
+
+We rely on a limited number of suppliers for certain components and materials used in our products. Key components in our products that are supplied by sole or limited source suppliers include a specialized polymer and other specialized materials from which our IFC cores are fabricated, specialized custom camera lenses, fiber light guides, and other components required for the reader of our Biomark system, specialized pneumatic and electronic components for our C1, Juno, Callisto and Polaris systems, the electron multiplier detector included in, and the nickel sampler cone and certain metal isotopes used with, our Helios/CyTOF 2 system, and certain raw materials for our Delta Gene and SNP Type assays and Access Array Target-Specific primers. The loss of a single or sole source supplier would require significant time and effort to locate and qualify an alternative source of supply, if at all, and could adversely impact our business. For additional information, please see the section entitled &#8220;Risk factors&#8221; in Part I, Item 1A of this Form 10-K. 
+
+Research and Development 
+
+We have assembled experienced research and development teams at our South San Francisco, California, Markham, Ontario, Canada, and Singapore locations with the scientific, engineering, software, bioinformatic, and process talent that we believe is required to grow our business. 
+
+The largest component of our current research and development effort is in the areas of new products and new applications. For example, we have developed a prototype imaging mass cytometer to provide spatial resolution of protein expression in samples at the single-cell level, quantitative measurement using metal isotope tags, and analysis of more than 30 proteins. We also invest significantly in research and development efforts to expand our single-cell biology and production genomics applications. For example, we have developed our Singular bioinformatics tools for analyzing and visualizing single-cell gene expression data; our C1 Open App Program, which enables researchers to develop and share new single-cell applications on the C1 system; and our single-cell whole exome, single-cell whole genome, and high-throughput single-cell mRNA sequencing workflows for use with our C1 system. 
+
+The second component of our research and development effort is to continuously develop new manufacturing processes and test methods to drive down manufacturing cost, increase manufacturing throughput, widen fabrication process capability, and support new microfluidic devices and designs. 
+
+Our research and development expenses were $39.3 million, $43.4 million, and $20.0 million in 2015, 2014, and 2013, respectively. As of December 31, 2015, 132 of our employees were engaged in research and development activities. 
+
+Competition 
+
+The life science research and applied markets are highly competitive and expected to grow more competitive with the increasing knowledge gained from ongoing research and development. We believe that the principal competitive factors in our target markets include cost of capital equipment and supplies; reputation among customers; innovation in product offerings; flexibility and ease of use; accuracy and reproducibility of results; and compatibility with existing laboratory processes, tools, and methods. 
+
+We compete with both established and development stage life science companies that design, manufacture, and market instruments for gene expression analysis, genotyping, other nucleic acid detection, protein expression analysis, and additional applications. In addition, a number of other companies and academic groups are in the process of developing novel technologies for life science markets. Many of our competitors enjoy several competitive advantages over us, including significantly greater name recognition; greater financial and human resources; broader product lines and product packages; larger sales forces and eCommerce channels; larger and more geographically dispersed customer support organization; substantial intellectual property portfolios; larger and more established customer bases and relationships; greater resources dedicated to marketing efforts; better established and larger scale manufacturing capability; and greater resources and longer experience in research and development. For additional information, please see the section entitled &#8220;Risk factors&#8221; in Part I, Item 1A of this Form 10-K. 
+
+To successfully compete with existing products and future technologies, we need to demonstrate to potential customers that the cost savings and performance of our technologies and products, as well as our customer support capabilities, are superior to those of our competitors. To differentiate our company from other, larger enterprises, we need to introduce new and innovative offerings regularly and maintain a well-staffed commercial team &#8220;in the field&#8221; to successfully communicate the advantages of our products and overcome potential obstacles to acceptance of our products. In addition, ongoing collaborations and partnerships with key opinion leaders are desirable to demonstrate both innovation and applicability of our products. 
+
+Single-Cell Genomics Collaborations 
+
+In May 2012, in collaboration with the Broad Institute, we announced the launch of the Single-Cell Genomics initiative, or SCGi, a research center dedicated to accelerating the development of research methods and discoveries in mammalian single-cell genomics. The SCGi facilitates collaborative development by single-cell genomics researchers of novel single-cell, microfluidic approaches for gene expression profiling, RNA/DNA sequencing, and epigenetic analysis, and to develop and disseminate new application workflows, reagents, bioinformatics tools, and data sets to the greater scientific community. The SCGi is located at the Broad Institute in Cambridge, Massachusetts, and features a complete suite of our single-cell tools, protocols, and technologies, most notably the C1 and Biomark HD systems. 
+
+In December 2012, in collaboration with the Genome Institute of Singapore, or GIS, an institute under the umbrella of the Agency for Science, Technology and Research, we announced the establishment of the Single-Cell &#8216;Omics Center, or SCOC, the first research center in Asia exclusively dedicated to accelerating the understanding of how individual cells work, and how diagnosis and treatment might be enhanced through insight derived from single cells. The SCOC provides integrated analytics for single-cell genomic applications to the region&#8217;s single-cell genomics researchers. The SCOC is located in dedicated laboratory space at GIS facilities in Biopolis, Singapore, and features the full capabilities of our C1 and Biomark HD systems for single-cell targeted gene expression analytics and validation. 
+
+In December 2014, we announced a collaboration with the Wellcome Trust Sanger Institute - European Bioinformatics Institute Single-Cell Genomics Centre, or SCGC, located on the Wellcome Trust Genome Campus. The SCGC will work with our onsite senior staff to ensure that the SCGC has early access to the latest equipment, workflows, and methods for single-cell genomics and proteomics research. In addition to technology advancements, the collaboration is expected to make single-cell research more accessible to the greater research community by developing and disseminating new workflows, bioinformatics tools, and data sets. The SCGC features our C1 and Biomark HD systems and has access to our CyTOF technology. 
+
+Intellectual Property 
+
+Patents 
+
+We have developed a portfolio of issued patents and patent applications directed to commercial products and technologies in development. As of December 31, 2015, we owned or licensed over 520 patents and we had approximately 320 pending patent applications worldwide. Our patents have expiration dates ranging from 2016 to 2033. 
+
+License Agreements 
+
+We have entered into licenses for technologies from various companies and academic institutions. 
+
+Microfluidic Technologies. Our core microfluidics technology originated at the California Institute of Technology, or Caltech, in the laboratory of Professor Stephen Quake, who is a co-founder of Fluidigm. We license microfluidics technology from Caltech, Harvard University, and Caliper Life Sciences, Inc., which subsequently became a PerkinElmer company, referred to as Caliper. 
+
+&#8226; 
+
+We exclusively license from Caltech relevant patent filings relating to developed technologies that enabled the production of specialized valves and pumps capable of controlling fluid flow at nanoliter volumes. The license agreement will terminate as to each country and licensed product upon expiration of the last-to-expire patent covering licensed products in each country. The U.S. issued patents we have licensed from Caltech expire between 2017 and 2030. 
+
+&#8226; 
+
+We have entered into a co-exclusive license agreement with Harvard University for the license of relevant patent filings relating to microfluidic technology. The license agreement will terminate with the last-to-expire of the licensed patents. The U.S. issued patents we have licensed from Harvard University expire between 2019 and 2027. 
+
+&#8226; 
+
+In May 2011, we entered into a license agreement with Caliper Life Sciences, Inc., which subsequently became a PerkinElmer company, referred to as Caliper, to license Caliper&#8217;s existing patent portfolio in certain fields. The license agreement will terminate with the last-to-expire of the licensed patents. As later amended, the license agreement provides for certain royalty payments until mid-2018 for our existing products at the time of amendment and their future equivalents. 
+
+Instrumentation and Digital PCR. On June 30, 2011, we settled litigation and entered into a series of patent cross-license and sub-license agreements with Life Technologies Corporation (now part of Thermo Fisher Scientific) and its Applied Biosystems, LLC subsidiary, referred to as Life. The agreements involve a cross-license concerning our imaging readers and other patent filings and certain of Life&#8217;s patent families relating to methods and instruments for conducting nucleic acid amplification, such as with PCR; a sub-license that provides us access to certain of Life&#8217;s digital PCR patents; and a sublicense that provides Life access to certain of our non-core technology patents licensed from Caltech. In July 2011, pursuant to the terms of the agreements, we paid Life $2.0 million in connection with our exercise of an option to preclude Life from initiating litigation under its patents existing as of June 30, 2011 against our customers for two years and against our company, with respect to our current products and equivalent future products, for four years, subject to certain exceptions. The license agreement will terminate with the last-to-expire of the licensed patents, which is expected to be in 2028. 
+
+Mass Cytometry. Some of the intellectual property rights covering our mass cytometry products were subject to a license agreement, referred to as the Original License Agreement, between Fluidigm Canada Inc., referred to as Fluidigm Canada, and PerkinElmer Health Sciences, Inc., referred to as Perkin Elmer. Under the Original License Agreement, Fluidigm Canada received an exclusive, royalty bearing, worldwide license to certain patents owned by PerkinElmer in the field of ICP-based mass cytometry, including the analysis of elemental tagged materials in connection therewith, referred to as the Patents, and a non-exclusive license for reagents outside the field of ICP-based mass cytometry. On November 4, 2015, we entered into a patent purchase agreement with PerkinElmer pursuant to which we purchased the Patents for a purchase price of $6.5 million and a patent assignment agreement pursuant to which PerkinElmer transferred and assigned to us all rights, title, privileges, and interest in and to the Patents and the Original License Agreement. Accordingly, we have no further financial obligations to PerkinElmer under the Original License Agreement. Contemporaneously with the purchase of the Patents, we entered into a license agreement with PerkinElmer pursuant to which we granted PerkinElmer a worldwide, non-exclusive, fully paid-up license to the Patents in fields other than (i) ICP-based mass analysis of atomic elements associated with a biological material, including any elements that are unnaturally bound, directly or indirectly, to such biological material (Mass Analysis) and (ii) the development, design, manufacture, and use of equipment or associated reagents for such Mass Analysis. The license will terminate on the last expiration date of the Patents, currently expected to be in December 2025, unless earlier terminated pursuant to the terms of the license agreement. 
+
+&#32;Any loss, termination, or adverse modification of our licensed intellectual property rights could have a material adverse effect on our business, operating results, and financial condition. For additional information, please see the section entitled &#8220;Risk factors&#8221; in Part I, Item 1A of this Form 10-K. 
+
+Other 
+
+In addition to pursuing patents and licenses on key technologies, we have taken steps to protect our intellectual property and proprietary technology by entering into confidentiality agreements and intellectual property assignment agreements with our employees, consultants, corporate partners, and, when needed, our advisors. 
+
+Government Regulation 
+
+Our products are currently labeled and sold for research purposes only, and we sell them to academic institutions, life sciences and clinical laboratories that conduct research, and pharmaceutical and biotechnology companies for non-diagnostic and non-clinical purposes. Our products are not intended for use in clinical practice in the diagnosis of disease or other conditions, and they are labeled for research use only. Accordingly, they are subject only to limited, specific regulation with respect to labeling by the U.S. Food and Drug Administration, or FDA. In particular, while FDA regulations require that research use only products be labeled, &#8220;For Research Use Only. Not for use in diagnostic procedures,&#8221; or RUO products, the regulations do not subject such products to the FDA&#8217;s broader pre- and post-market controls for medical devices. 
+
+In November 2013, the FDA issued a final guidance document stating that merely including a labeling statement that the product is for research purposes only will not necessarily render the device exempt from the FDA&#8217;s clearance, approval, or other regulatory requirements if the totality of circumstances surrounding the distribution of the product indicate that the manufacturer knows its product is being used by customers for diagnostic uses or the manufacturer intends such a use. These circumstances may include, among other things, written or verbal marketing claims regarding a product&#8217;s performance in clinical applications and a manufacturer&#8217;s provision of technical support for such activities. In the future, certain of our products or related applications could become subject to regulation as medical devices by the FDA. If we wish to label and market our products for use in performing clinical diagnostics, thus subjecting them to regulation by the FDA under premarket and postmarket control as medical devices, unless an exemption applies, we would be required to obtain either prior 510(k) clearance or prior pre-market approval from the FDA before commercializing the product. The FDA classifies medical devices into one of three classes. Devices deemed to pose lower risk to the patient are placed in either class I or II, which, unless an exemption applies, requires the manufacturer to submit a pre-market notification requesting FDA clearance for commercial distribution pursuant to Section 510(k) of the FFDCA. This process, known as 510(k) clearance, requires that the manufacturer demonstrate that the device is substantially equivalent to a previously cleared and legally marketed 510(k) device or a &#8220;pre-amendment&#8221; class III device for which pre-market approval applications, or PMAs, have not been required by the FDA. This process typically takes from four to twelve months, although it can take longer. Most class I devices are exempted from this 510(k) premarket submission requirement. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting, or implantable devices, or those deemed not substantially equivalent to a legally marketed predicate device, are placed in class III. Class III devices typically require PMA approval. To obtain PMA approval, an applicant must demonstrate the reasonable safety and effectiveness of the device based, in part, on data obtained in clinical studies. PMA reviews generally last between one and two years, although they can take longer. Both the 510(k) and the PMA processes can be expensive and lengthy and may not result in clearance or approval. If we are required to submit our products for pre-market review by the FDA, we may be required to delay marketing while we obtain premarket clearance or approval from the FDA. There would be no assurance that we could ever obtain such clearance or approval. 
+
+In some cases, our customers or collaborators may use our RUO products in their own laboratory-developed tests, or LDTs, or in other FDA-regulated products for clinical diagnostic use. The FDA has historically exercised enforcement discretion in not enforcing the medical device regulations against LDTs and LDT manufacturers. However, on October 3, 2014, the FDA issued two draft guidance documents that set forth the FDA&#8217;s proposed risk-based framework for regulating LDTs, which are designed, manufactured, and used within a single laboratory. The guidance documents, if and when finalized, may impact the sales of our products and how customers use our products, and may require us to change our business model in order to maintain compliance with these laws. 
+
+We would become subject to additional FDA requirements if our products are determined to be medical devices or if we elect to seek 510(k) clearance or prior pre-market approval. We would need to continue to invest significant time and other resources to ensure ongoing compliance with FDA quality system regulations and other post-market regulatory requirements. For additional information, please see the section entitled &#8220;Risk factors&#8221; in Part I, Item 1A of this Form 10-K. 
+
+International sales of medical devices are subject to foreign government regulations, which vary substantially from country to country. Outside of the EU, regulatory approval needs to be sought on a country-by-country basis in order to market medical devices. Although there is a trend towards harmonization of quality system standards, regulations in each country may vary substantially which can affect timelines of introduction. 
+
+Environmental Matters 
+
+We are subject to many federal, state, local, and foreign environmental regulations. To comply with applicable regulations, we have and will continue to incur significant expense and allocate valuable internal resources to manage compliance-related issues. In addition, such regulations could restrict our ability to expand or equip our facilities, or could require us to acquire costly equipment or to incur other significant expenses to comply with the regulations. For example, 
+
+the Restriction on the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Directive, or RoHS, and the Waste Electrical and Electronic Equipment Directive, or WEEE, enacted in the European Union, regulate the use of certain hazardous substances in, and require the collection, reuse, and recycling of waste from, products we manufacture. Certain of our products sold in these countries may become subject to RoHS and WEEE requirements. If we fail to comply with any present and future regulations, we could be subject to future fines, penalties, and restrictions, such as the suspension of manufacturing of our products or a prohibition on the sale of products we manufacture. For additional information, please see the section entitled &#8220;Risk factors&#8221; in Part I, Item 1A of this Form 10-K. 
+
+Additionally, our research and development and manufacturing processes involve the controlled use of hazardous materials, including flammables, toxics, corrosives, and biologics. Our research and manufacturing operations produce hazardous biological and chemical waste products. We seek to comply with applicable laws regarding the handling and disposal of such materials. The volume of such materials used or generated at our facilities is small. However, we cannot eliminate the risk of accidental contamination or discharge and any resultant injury from these materials. We do not currently maintain separate environmental liability coverage and any such contamination or discharge could result in significant cost to us in penalties, damages, and suspension of our operations. 
+
+Geographic Information 
+
+During the last three years, a majority of our revenue was generated within the United States and Europe and a majority of our long-lived assets are located within the United States and Singapore. Total product and service revenue received from customers outside the United States totaled $59.3 million, or 52% of our total product and service revenue, in 2015, compared to $56.8 million, or 49% of our total product and service revenue, in 2014, and $33.9 million, or 48% of our total product and service revenue, in 2013. Please see Note 13 to our audited consolidated financial statements for additional information for geographic areas. 
+
+Seasonality 
+
+In 2011, 2012, and 2014, our product revenue was higher in the fourth quarter of the year than in the first quarter of the next year reflecting numerous factors, including, among others, seasonal variations in customer operations and customer budget and capital spending cycles. Although this was not the case in the fourth quarter of 2013 compared to the first quarter of 2014, this historical trend resumed in 2015 and we expect it to continue. 
+
+Raw Materials 
+
+Certain raw materials used in our Delta Gene and SNP Type assays and Access Array target-specific primers are available from a limited number of sources. Additionally, certain metals used in our Maxpar reagents are available from a sole source. Currently, we do not have supply agreements with these suppliers. While we generally attempt to keep our inventory at minimal levels, we purchase incremental inventory as circumstances warrant to protect our supply chain. 
+
+Employees 
+
+As of December 31, 2015, we had 584 employees, of which 132 &#32; work in research and development, 86 work in general and administrative, 157 work in manufacturing, and 209 work in sales, technical support, and marketing. None of our employees are represented by a labor union or are the subject of a collective bargaining agreement. 
+
+Corporate and Available Information 
+
+We were incorporated in California in May 1999 as Mycometrix Corporation, changed our name to Fluidigm Corporation in April 2001, and reincorporated in Delaware in July 2007. Our principal executive offices are located at 7000 Shoreline Court, Suite 100, South San Francisco, California 94080. Our telephone number is (650) 266-6000. Our website address is www.fluidigm.com. We make available on our website, free of charge, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or SEC. Our SEC reports can be accessed through the investor relations page of our website located at http://investors.fluidigm.com/sec.cfm. Additionally, a copy of this Annual Report on Form 10-K is located at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations page of our website. Corporate governance information, including our board committee charters, code of ethics, and corporate governance principles, is also available on our investor relations page of our website located at http://investors.fluidigm.com/corporate-governance.cfm. 
+
+In addition to SEC filings, press releases, public conference calls, and webcasts, we use our website (www.fluidigm.com), corporate Twitter account (@Fluidigm), Facebook page (https://www.facebook.com/Fluidigm), and 
+
+LinkedIn page (https://www.linkedin.com/company/fluidigm-corporation) as channels of distribution of information about our company, our products, our planned financial and other announcements, our attendance at upcoming investor and industry conferences, and other matters. It is possible that the information we post on our website and through these social media accounts could be deemed material information. We may use these channels to comply with our disclosure obligations under Regulation FD. Therefore, investors should monitor our website and our social media accounts in addition to following our press releases, SEC filings, public conference calls, and webcasts. 
+
+The contents of our website and the information we post through social media are not a part of, and are not incorporated by reference into, this Annual Report on Form 10-K or any other report or document we file with the SEC. Any references to our websites are intended to be inactive textual references only. 
+
+Executive Officers 
+
+The following table sets forth the names, ages (as of February 10, 2016) and positions of our executive officers: 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Gajus V. Worthington 
+
+&#160; 
+
+&#160; 
+
+President, Chief Executive Officer, and Director 
+
+Vikram Jog 
+
+&#160; 
+
+&#160; 
+
+Chief Financial Officer 
+
+Robert C. Jones 
+
+&#160; 
+
+&#160; 
+
+Chief Technology Officer, Genomics 
+
+Steven C. McPhail 
+
+&#160; 
+
+&#160; 
+
+General Manager, Production Genomics 
+
+William M. Smith 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Legal Affairs, General Counsel, and Secretary 
+
+Mai Chan (Grace) Yow 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Worldwide Manufacturing and Managing Director of Fluidigm Singapore Pte. Ltd. 
+
+Marc Unger, Ph.D. 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Research and Development and Marketing 
+
+Gajus V. Worthington &#32;is a co-founder of Fluidigm and has served as our President, Chief Executive Officer and a director since our inception in June 1999. From May 1994 to April 1999, Mr. Worthington held various staff and management positions at Actel Corporation, a public semiconductor company that was acquired by Microsemi Corporation in 2010. Mr. Worthington received a B.S. in Physics and an M.S. in Electrical Engineering from Stanford University. 
+
+Vikram Jog &#32;has served as our Chief Financial Officer since February 2008. From April 2005 to February 2008, Mr. Jog served as Chief Financial Officer for XDx, Inc. (now CareDx, Inc.), a molecular diagnostics company. From March 2003 to April 2005, Mr. Jog was a Vice President of Applera Corporation, a life science company that is now part of Thermo Fisher Scientific, and Vice President of Finance for its related businesses, Celera Genomics and Celera Diagnostics. From April 2001 to March 2003, Mr. Jog was Vice President of Finance for Celera Diagnostics and Corporate Controller of Applera Corporation. Mr. Jog received a Bachelor of Commerce degree from Delhi University and an M.B.A. from Temple University. Mr. Jog is a member of the American Institute of Certified Public Accountants. 
+
+Robert C. Jones &#32;has served as our Chief Technology Officer, Genomics since August 2015. Previously, Mr. Jones served as Executive Vice President, Research and Development from August 2005 to July 2015. From August 1984 to July 2005, Mr. Jones held various managerial and research and development positions at Applied Biosystems, a laboratory equipment and supplies manufacturer that was a division of Applera Corporation, including: Senior Vice President Research and Development from April 2001 to August 2005; Vice President and General Manager Informatics Division from 1998 to 2001; and Vice President PCR Business Unit from 1994 to 1998. Mr. Jones received a BSEE in Electrical Engineering and an MSEE in Computer Engineering from the University of Washington. 
+
+Steven C. McPhail has served as our General Manager, Production Genomics since May 2015. From February 2003 to August 2012, Mr. McPhail was President and Chief Executive Officer of Expression Analysis, Inc., a genomic services company that was acquired by Quintiles Transnational Corporation in August 2012, where Mr. McPhail was President of the post-acquisition operation until March 2015. Prior to Expression Analysis, Inc., Mr. McPhail held various staff and management positions at companies in the diagnostic, biotechnology, and medical device markets, including ArgoMed Inc., Xanthon, Inc., TriPath Imaging Inc., Dynex Technologies, Inc., and Abbott Laboratories. Mr. McPhail serves on the Board of Visitors of NC Children's Hospital and on the Board of Trustees of the Carolinas chapter of the Crohn's and Colitis Foundation of America. Mr. McPhail received a B.S. in Biology from San Diego State University. 
+
+William M. Smith &#32;has served as our Executive Vice President, Legal Affairs since February 2012, and as General Counsel and our Secretary since May 2000. From May 2000 to February 2012, Mr. Smith served as our Vice President, Legal Affairs and served as a director from May 2000 to April 2008. Mr. Smith served as an associate and then as a partner 
+
+at the law firm of Townsend and Townsend and Crew, LLP from 1985 through April 2008. Mr. Smith received a J.D. and an M.P.A. from the University of Southern California and a B.A. in Biology from the University of California, San Diego. 
+
+Mai Chan (Grace) Yow &#32;has served as Executive Vice President, Worldwide Manufacturing of Fluidigm Singapore Pte. Ltd., our Singapore subsidiary, since February 2012, and as Managing Director of Fluidigm Singapore Pte. Ltd. since March 2006. Ms. Yow served as Vice President, Worldwide Manufacturing, from March 2006 to January 2012. From June 2005 to March 2006, Ms. Yow served as General Manager of Fluidigm Singapore Pte. Ltd. From August 2004 to May 2005, Ms. Yow served as Vice President Engineering (Asia) for Kulicke and Soffa, a public semiconductor equipment manufacturer. From March 1991 to July 2004, Ms. Yow served as Director, Assembly Operations, Plant Facilities and EHS, for National Semiconductor Singapore, a semiconductor fabrication subsidiary of National Semiconductor Corporation. Ms. Yow received a B.E. in Electronic Engineering from Curtin University, a Certificate in Management Studies from the Singapore Institute of Management, and a Diploma in Electrical Engineering from Singapore Polytechnic. 
+
+Marc Unger, Ph.D. , has served has our Executive Vice President of Research and Development and Marketing since January 2014. Dr. Unger first joined Fluidigm in 2002 as our Director of Microfluidic Research and Development. Dr. Unger also has served as our Director of Research and Development from 2003 to 2007, Chief Scientific Officer from 2007 to 2012, and Chief Technology Officer from 2012 to 2013. Dr. Unger received a Ph.D. in Physical Chemistry from the California Institute of Technology and a B.S. in Chemistry from Union College. 
+

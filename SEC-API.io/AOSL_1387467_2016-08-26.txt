@@ -1,0 +1,372 @@
+ Item 1. 
+
+Business 
+
+Forward Looking Statements 
+
+This Annual Report on Form 10-K and the documents incorporated herein by reference contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management's beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;intend,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Annual Report on Form 10-K in greater detail in Item 1A.&#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Annual Report on Form 10-K in its entirety and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+Overview 
+
+We are a designer, developer and global supplier of a broad portfolio of power semiconductors. Our portfolio of power semiconductors includes approximately 1,600 products, and has grown significantly with the introduction of over 90 new products during each of the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 . Our teams of scientists and engineers have developed extensive intellectual properties and technical knowledge that encompass major aspects of power semiconductors, which we believe it enables us to introduce and develop innovative products to address the increasingly complex power requirements of advanced electronics. We have an extensive patent portfolio that consists of 601 patents and 150 patent applications in the United States as of June 30, 2016 . We differentiate ourselves by integrating our expertise in technology, design, manufacturing capability and advanced packaging to optimize product performance and cost. Our portfolio of products targets high-volume applications, including personal computers, flat panel TVs, LED lighting, smart phones, battery packs, consumer and industrial motor controls and power supplies for TVs, computers, servers and telecommunications equipment. 
+
+During the fiscal year ended June 30, 2016, we continued our diversification strategy by developing new silicon and packaging platforms to expand our serviceable available market, or SAM and offer higher performance products. Our metal-oxide-semiconductor field-effect transistors, or MOSFET, portfolio expanded significantly across a full range of voltage applications. We also developed new technologies and products designed to penetrate into markets beyond our MOSFET computing base, including the consumer, communications and industrial markets as well as power IC for the next generation computing applications. 
+
+Our business model leverages global resources, including research and development and manufacturing in the United States and Asia. Our sales and technical support teams are localized in several growing markets primarily in Asia. We operate a 200mm wafer fabrication facility located in Hillsboro, Oregon, or the Oregon fab, which enables us to accelerate proprietary technology development, new product introduction and improve our financial performance. To meet the market demand for the more mature high volume products, we also utilize the wafer manufacturing capacity of selected third party foundries. For assembly and test, we primarily rely upon our in-house facilities in China. In addition, we utilize subcontracting partners for industry standard packages. We believe our in-house packaging and testing capability provides us with a competitive advantage in proprietary packaging technology, product quality, costs and sales cycle time. 
+
+On March 29, 2016, we entered into a joint venture contract (the &#8220;JV Agreement&#8221;) with two investment funds affiliated with the municipalities of Chongqing (the &#8220;Chongqing Funds&#8221;), pursuant to which we and Chongqing Funds form a joint venture, (the &#8220;JV Company&#8221;), for the purpose of constructing a power semiconductor packaging, testing and wafer fabrication facility in the Liangjiang New Area of Chongqing, China (the &#8220;JV Transaction&#8221;). The total initial capitalization of the JV Company will be $330.0 million (the &#8220;Initial Capitalization&#8221;). The Initial Capitalization will be completed in stages commencing on the incorporation of the JV Company. We own 51%, and the Chongqing Funds own 49%, of the equity interest in the JV Company. We expect the JV company to commence its initial production in the first half of fiscal 2018. Over the 
+
+&#32;1 
+
+long term, the JV Company expects to construct a 12-inch wafer fabrication facility for the production of power semiconductors. 
+
+We were incorporated in Bermuda on September 27, 2000 as an exempted limited liability company. The address of our registered office is Clarendon House, 2 Church Street, Hamilton HM 11, Bermuda. Our agent for service of process in the U.S. for the purpose of our securities filings is our Chief Executive Officer, Mike F. Chang, c/o Alpha and Omega Semiconductor Incorporated, 475 Oakmead Parkway, Sunnyvale, CA 94085. Telephone number of our agent is (408) 830-9742. 
+
+We have incorporated various wholly-owned subsidiaries in different jurisdictions, and a subsidiary in which it has a controlling interest. Please refer to Exhibit 21.1 for a complete list of our subsidiaries. 
+
+Our industry 
+
+Semiconductors are electronic devices that perform a variety of functions, such as converting or controlling signals, processing data and delivering or managing power. With advances in semiconductor technology, the functionality and performance of semiconductors have generally increased over time, while size and cost have generally decreased. These advances have led to a proliferation of more complex semiconductors being used in a wide variety of consumer, computing, communications and industrial markets and have contributed to the growth of the semiconductor industry. 
+
+Analog semiconductors 
+
+The semiconductor industry is segmented into analog and digital. Analog semiconductors process light, sound, motion, radio waves and electrical currents and voltages. In contrast, digital semiconductors process binary signals represented by a sequence of ones and zeros. 
+
+As a result of these fundamental differences, the analog semiconductor industry is distinct from the digital semiconductor industry in terms of the complexity of design and the length of product cycle. Improper interactions between analog circuit elements can potentially render an electronic system inoperable. Experienced engineers engaged in the design process are necessary because computer-aided design cannot fully model the behavior of analog circuitry. Therefore, experienced analog engineers with requisite knowledge are in great demand but short supply worldwide. In addition, analog semiconductors tend to have a longer product life cycle because original design manufacturers, or ODMs and original equipment manufacturers, or OEMs typically design the analog portions of a system to span multiple generations of their products. Once designed into an application, the analog portion is rarely modified because even a slight change to the analog portion can cause unexpected interactions with other components, resulting in system instability. 
+
+Power semiconductors 
+
+Power semiconductors are a subset of the analog semiconductor sector with their own set of characteristics unique to power architecture and function. Power semiconductors transfer, manage and switch electricity to deliver the appropriate amount of voltage or current to a broad range of electronic systems and also protect electronic systems from damage resulting from excessive or inadvertent electrical charges. 
+
+Power semiconductors can be either discrete devices, which typically comprise only a few transistors or diodes, or ICs, which incorporate a greater number of transistors. The function of power discretes is power delivery by switching, transferring or converting electricity. Power transistors comprise the largest segment of the power discretes market. Power ICs, sometimes referred to as power management ICs, perform power delivery and power management functions, such as controlling and regulating voltage and current and controlling power discretes. 
+
+The growth of the power semiconductor market in recent years has several key drivers. The proliferation of computer and consumer electronics, such as desktop computers, notebooks, tablets, smart phones, flat panel displays and portable media players created the need for sophisticated power management to improve power efficiency and extend battery life. The evolution of these products is characterized by increased functionality, thinner or smaller form factors and decreasing prices. Our Power IC and low voltage (5V-40V) MOSFET products address this market. In the area of AC-DC power supplies for electronic equipment, data centers and servers, the market is characterized by a continuous demand for energy conservation through higher efficiency, which is driving the need for our medium voltage (40V-400V) and high voltage (500V-1000V) MOSFET products. The increased application of power semiconductors to control motors in white goods and industrial applications, is driving demand for Insulated Gate Bipolar Transistors, or IGBTs. IGBTs are also being used in renewable energy and automotive applications. 
+
+&#32;2 
+
+The evolution toward smaller form factors and complex power requirements in the low voltage areas has driven further integration in power semiconductors, resulting in power ICs that incorporate the functionalities of both power management and power delivery functions in a single device. Power ICs can be implemented by incorporating all necessary power functions either on one piece of silicon or multiple silicon chips encapsulated into a single device. Additionally, the advancement in semiconductor packaging technology enables increased power density and shrinking form factors. 
+
+Power semiconductor suppliers develop and manufacture their products using various approaches which tend to fall across a wide spectrum of balancing cost savings with proprietary technology advantages. At one end of the spectrum are integrated design manufacturers, or IDMs, which own and operate the equipment used in the manufacturing process and design and manufacture products at their in-house facilities. IDMs exercise full control over the implementation of process technologies and have maximum flexibility in setting priorities for their production and delivery schedules. At the other end of the spectrum are completely-outsourced fabless semiconductor companies, which rely entirely on off-the-shelf technologies and processes provided by their manufacturing partners. These companies seek to reduce or eliminate fixed costs by outsourcing both product manufacturing and development of process technologies to third parties. The &#8220;fab-lite&#8221; model seeks to achieve the best balance between technological advancement and cost effectiveness by using a dedicated in-house technology laboratory to drive rapid new product developments, while utilizing third-party foundry capacity for mature products. This is particularly important in the development of power semiconductor products due to the unique nature of their technology. While digital technologies are highly standardized in leading foundries, power semiconductor technologies tend to be more unique as they seek to accommodate a wider range of voltage applications. Accordingly, third-party foundries, which are primarily setup for digital technologies, can be limited when it comes to the development of new power semiconductor technologies. 
+
+Our strategies 
+
+Our strategy is to advance our position as a designer, developer and global supplier of a broad portfolio of power semiconductors utilizing a fab-lite business model. 
+
+&#32;The fab-lite business model allows us to accelerate the development of our proprietary technology at our Oregon fab, bring new products to market faster, and improve our financial performance in the long run. This &#8220;fab-lite&#8221; model also provides quicker response to our customer demands, enhances relationships with strategic customers, provides flexibility in capacity management and geographic diversification of our wafer supply chain. This approach allows us to retain a higher level of control over the development and application of our proprietary process technology, thereby reducing certain operational risks and costs associated with utilizing third-party foundries. 
+
+In response to the decline of the global PC market, we continue to execute our strategies of diversifying our portfolio of products and expanding into other market segments, including the consumer, communications and industrial market segments, improving gross margin and profit by implementing cost control measures. We have been making progress in reducing our reliance on the PC market, but we are also committed to continue to support our computing business by growing bill-of-material content, expanding market share, and acquiring new customers. 
+
+We plan to further expand the breadth of our product portfolio to increase our total bill-of-materials within an electronic system and to address the power requirements of additional electronic systems. Our product portfolio currently consists of approximately 1,600 products and we have introduced over 90 new products in this past fiscal year. We will continue to leverage our expertise to further increase our product lines, including higher performance power ICs, IGBTs and high and medium voltage MOSFETs, in order to broaden our addressable market and improve our margin profile. We also believe that our increased product offerings will allow us to penetrate new end-market applications and provide us with an important competitive advantage. OEMs and ODMs generally prefer to limit their supplier base to a smaller set of vendors capable of providing a comprehensive menu of products across multiple electronic platforms. 
+
+Leverage our power semiconductor expertise to drive new technology platforms 
+
+We believe that the ever-increasing demand for power efficiency in power semiconductors requires expertise in and a deep understanding of the interrelationship among device physics, process technologies, design and packaging. We also believe that engineers with experience and understanding of these multiple disciplines are in great demand but short supply. Within this context, we believe that we are well positioned to be a leader in providing total power management solutions due to our extensive pool of experienced scientists and engineers and our strong IP portfolio. Accordingly, we intend to leverage our expertise to increase the number of power discrete technology platforms and power IC designs to expand our product offerings and deliver complete power solutions for our targeted applications. 
+
+Increase direct relationships and product penetration with OEM and ODM customers 
+
+&#32;3 
+
+We have developed direct relationships with key OEMs who are responsible for branding, designing and marketing a broad array of electronic products, as well as ODMs who have traditionally been responsible for manufacturing these products. While OEMs typically focus their design efforts on their flagship products, as the industry has evolved, ODMs are increasingly responsible for designing portions, or entire systems, of the products they manufacture for the OEMs. In addition, several ODMs are beginning to design, manufacture and brand their own proprietary products which they sell directly to consumers. We intend to strengthen our existing relationships and form new ones with both OEMs and ODMs by aligning our product development efforts with their product requirements, increasing the number of our products used within their systems, and leveraging our relationships to penetrate their other products. In addition, we are refocusing our research and development efforts to respond more directly to the market demand by designing and developing new products based on feedback from our customers, which also allows us to reduce time-to-market and sales cycles. 
+
+Leverage global business model for cost-effective growth 
+
+We intend to continue to leverage our global resources and regional strengths. We will continue to deploy marketing, sales and technical support teams in close proximity to our end customers. We plan to further expand and align our technical marketing and application support teams along with our sales team to better understand and address the needs of our end customers and their end-market applications, in particular for those with the new technology platforms developed in this past year and in the future. This will assist us in identifying and defining new technology trends and products and to help us gain additional design wins. In addition, we have established a joint venture with investment funds affiliated with the municipalities of Chongqing, China for the purpose of constructing a power semiconductor packaging, testing and wafer fabrication. We expect our collaboration with Chongqing will, in the long term, reduce the cost of manufacturing our products and accelerate the development of new products, while allowing us to gain valuable access to new customers in China. 
+
+Our products 
+
+To serve the large and diverse analog market for power semiconductors, we have created a broad product portfolio consisting of two major categories: power discretes and power ICs. 
+
+Our power discretes products consist primarily of low, medium and high voltage power MOSFETs. Our low-voltage MOSFET series is based on our proprietary technology, which offers increased efficiency and performance by reducing on-resistance and switching losses. We also introduced the compact AlphaDFN package series that has been designed to enhance power dissipation while providing protection to the chip for easier and safer handling when surface mounting. Our mid-voltage MOSFET portfolio offers high efficiency solutions for advanced telecommunications and industrial power supply applications. Our high-voltage portfolio includes our proprietary insulated-gate bipolar transistor ("IGBT") technology, which we developed highly robust and easy-to-use solutions designed for industrial motor control and white goods applications. 
+
+Our power ICs deliver power as well as control and regulate the power management variables, such as the flow of current and level of voltage. We continued to expand our EZBuck power IC family with products that feature lower on-resistance, less power consumption, small footprint and thermally enhanced packages. While we derive the majority of our revenue from the sales of power discretes products, sales of power ICs continue to gain traction during the past years. 
+
+&#32;4 
+
+The following table lists our product families and the principal end uses of our products: 
+
+&#160; Product Family 
+
+Description 
+
+Product Categories 
+
+within Product Type 
+
+Typical Application 
+
+Power Discretes 
+
+Low on-resistance switch used for routing current and switching voltages in power control circuits 
+
+High power switches used for power circuits 
+
+DC-AC conversion 
+
+AC-DC conversion 
+
+Load switching 
+
+Motor control 
+
+Battery protection 
+
+Power factor correction 
+
+Notebooks, Ultrabooks, desktop and tablet PC's, servers, flat panel displays, TVs, graphics cards, game boxes, chargers, battery packs, AC adapters, power supplies, E-bikes, motor control, smart phones and other portable devices, white goods and industrial motor drives, UPS systems, wind turbines, solar inverters and industrial welding 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Power ICs 
+
+Integrated devices used for power management and power delivery 
+
+DC-DC Buck conversion 
+
+DC-DC Boost conversion 
+
+Smart load switching DrMOS power stage 
+
+Flat panel displays, TVs, Notebooks, Ultrabooks, servers, DVD/Blu-Ray players, set-top boxes, and networking equipment 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Analog power devices used for circuit protection and signal switching 
+
+Transient voltage protection 
+
+Analog switch 
+
+Electromagnetic interference filter 
+
+Notebooks, Ultrabooks, desktop PCs, tablets, flat panel displays, TVs, smartphones, and portable electronic devices 
+
+Power discrete products 
+
+Power discretes are used across a wide voltage and current spectrum, requiring them to operate efficiently and reliably under harsh conditions. Due to this wide applicability across diverse end-market applications, we market general purpose MOSFETs that are used in multiple applications as well as MOSFETs targeted for specific applications. 
+
+Our current power discrete product line includes industry standard trench MOSFETs, SRFETs, XSFET, electrostatic discharge, protected MOSFETs, high and mid-voltage MOSFETs and IGBTs. 
+
+Power IC products 
+
+In addition to the traditional monolithic or single chip design, we employ a multi-chip approach for the majority of our power ICs. This multi-chip technique leverages our proprietary MOSFET and advanced packaging technologies to offer integrated solutions to our customers. This allows us to update product portfolios by interchanging only the MOSFETs without changing the power management IC, thereby reducing the time required for new product introduction and providing optimal solutions to our customers. We believe that our power IC products improve our competitive position by enabling us to provide higher power density solutions to our end customers than our competitors. 
+
+The incorporation of both power delivery and power management functions tends to make power ICs more application specific because these two functions have to be properly matched to a particular end product. We have local technical marketing and applications engineers who closely collaborate with our end customers to help ensure that power IC specifications are properly defined at the beginning of the design stage. 
+
+New Product Introduction 
+
+We introduced several new products based on our proprietary technology platform and continue to expand our product family by introducing new solutions to computing, battery protection, and smartphone fast chargers. During the fourth quarter of fiscal year of 2016, we introduced Best-In-Class DrMOS-IV Power Modules with an EZPair&#8482; package. The new device enables high power density voltage regulator solutions ideal for Notebook PCs, servers, and graphic cards applications. We also released 8 new products in the 60V MOSFET family during this period. These products are designed for synchronous rectification in flyback converters, used in quick chargers for smart phones and other portable devices. Moreover, we launched a second generation of Constant On-Time (COT) buck converters which provides the perfect solution for next generation 
+
+&#32;5 
+
+computing chipsets that are pushing the limits of DC/DC converter size. In addition, we introduced our first 2.38 mOhm device for battery protection. This new device offers the best-in-class source-to-source on-resistance (Rsson), giving the battery protection circuit designer the lowest voltage drop and temperature rise in the protection circuit module. During the second quarter of fiscal year of 2016, we introduced the industry's first single n-channel 45V MOSFET with an ultra-low on-resistance of 1.15Ohms at 10V. This addition to our medium voltage product portfolio is designed to address a wide range of applications including secondary-side synchronous rectification in AC/DC and DC/DC converters, as well as industrial and motor drive applications. We also released AOC3864, a common-drain 20V dual n-channel MOSFET with an ultra-low on-resistance of 5.7mOhms at 4.5V. This new device offers the best approach in designing battery protection circuit modules, while providing a strong and reliable solution. In addition, we introduced the new generation of high efficiency PairFETs. The AOE6930 is an asymmetric package with integrated high-side and low-side MOSFETs. The product is designed with our latest silicon technology to optimize the conducting resistance and the switching characteristics of both MOSFETs in order to attain the highest efficiency over the whole output range when working as the power stage for a Vcore power supply circuit. The combination of AOS's XSFET&#8482; technology in this new generation PairFET package, gives the device an extra advantage in thermal dissipation. Moreover, we released the AOZ3101, a high efficiency, simple-to-use synchronous buck regulator, with an operating input voltage range from 4.5V to 18V, supplying 2A of continuous current. The device offers a low on-resistant power stage in a thermally enhanced 3mm x 3mm DFN package, allowing cooler power conversion for a variety of consumer electronics application such as LCD TVs, set-top boxes, as well as DVD players and recorders. During the first quarter of fiscal year of 2016, we released AO4294, the latest addition to our family of high efficiency charging solutions. This new device is offered in an easy-to-use SO-8 package, which helps manufacturers keep the mounting cost low, while still getting the best efficiency and power dissipation possible. The AO4294 is an ideal solution for synchronours rectification in high efficiency chargers and adapters for mobile devices. We also released AOZ3053, a 5A EZBuck DC/DC regulator with smart mode adaption functions, available in a thermally enhanced exposed pad SO-8 package. The AOZ3053 is the first of this new smart platform, which allows for more thermally efficient DC/DC solutions for consumer, networking and industrial applications such as LCD TVs, set-top boxes, cable modems, and power supplies. 
+
+Distributors and customers 
+
+We have developed direct relationships with key OEMs, including Dell Inc., Hewlett-Packard Company, LG Electronics, Inc. and Samsung Group, most of which we serve through our distributors and ODMs. We sell to Samsung Group directly which accounted for 12.3% , 11.7% &#32;and 11.6% &#32;of our revenue for the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 , respectively. In addition, based on our historical design win activities, our power semiconductors are also incorporated into products sold to certain OEMs. 
+
+Through our distributors, we provide products to ODMs who traditionally are contract manufacturers for OEMs. As the industry has evolved, ODMs are increasingly responsible for designing portions, or entire systems, of the products they manufacture for the OEMs. In addition, several ODMs are beginning to design, manufacture and brand their own proprietary products, which they sell directly to consumers. Our ODM customers include Compal Electronics, Inc., Foxconn, Quanta Computer Incorporated, Pegatron,Wistron Corporation and AOC International. 
+
+In order to take advantage of the expertise of end-customer fulfillment logistics and shorter payment cycles, we sell most of our products to distributors. In general, under the agreements with our distributors, they have limited rights to return unsold merchandise, subject to time and volume limitations. As of June 30, 2016 &#32;and 2015, our two largest distributors were WPG Holdings Limited, or WPG, and Promate Electronic Co. Ltd., or Promate, respectively. Sales to WPG and Promate accounted for 37.2% &#32;and 23.8% &#32;of our revenue, respectively, for the fiscal year ended June 30, 2016 , 36.1% &#32;and 25.4% &#32;of our revenue, respectively, for the fiscal year ended June 30, 2015 , and 43.1% &#32;and 21.6% &#32;of our revenue, respectively, for fiscal year ended June 30, 2014 , respectively. 
+
+Sales and marketing 
+
+Our marketing division is responsible for identifying high growth markets and applications where we believe our technology can be effectively deployed. We believe that the technical background of our marketing team, including application engineers, helps us better define new products and identify potential end customers and geographic and product market opportunities. For example, as part of our market diversification strategy, we have deployed and plan to recruit more for our new market segments, field application engineers, or FAEs, who provide real-time and on-the-ground responses to our end customer needs, work with our end customers to understand their requirements, resolve technical problems, strive to anticipate future customer needs and facilitate the design-in of our products into the end products of our customers. We believe this strategy increases our share of revenue opportunities within the applications we currently serve, as well as in new end-market applications. 
+
+&#32;6 
+
+Our sales team consisted of sales persons, field application engineers, customer service representatives and customer quality engineers who are responsible for key accounts. We strategically position our team near our end customers through our offices in Taipei, Hong Kong, Shenzhen, Shanghai, Tokyo, Seoul and Sunnyvale, California, complemented by our applications centers in Sunnyvale and Shanghai. In addition, our distributors and sales representatives assist us in our sales and marketing efforts by identifying potential customers, sourcing additional demand and promoting our products, in which case we may pay a sales commission to these distributors. 
+
+Our sales cycle varies depending on the types of products and can range from six to eighteen months. In general, our traditional power discrete products in the PC and TV applications are moving more rapidly through the design and marketing processes, therefore they generally have shorter sales cycle. In contrast, our newer Power IC and IGBT products, mostly in the power supply, home appliance and industrial applications, require a more extended design and marketing timeline and thus have longer sales cycle. Typically, our sales cycle for all products comprises of the following steps: 
+
+&#8226; 
+
+identification of a customer design opportunity; 
+
+&#8226; 
+
+qualification of the design opportunity by our FAEs through comparison of the power requirements against our product portfolio; 
+
+&#8226; 
+
+provision of a product sample to the end customer to be included in the customer's pre-production model with the goal of being included in the final bill of materials; and 
+
+&#8226; 
+
+placement by the customer, or through its distributor, of a full production order as the end customer increases to full volume production. 
+
+Competition &#160; 
+
+The power semiconductor industry is characterized by fragmentation with many competitors. We compete with different power semiconductor suppliers, depending on the type of product lines and geographical area. Our key competitors in power discretes and power ICs are primarily headquartered in the United States, Japan, Europe and Taiwan. Our major competitors in power discretes include Fairchild Semiconductor International, Inc., Infineon Technologies AG, MagnaChip Semiconductor Corporation, ON Semiconductor Corp., STMicroelectronics N.V., Toshiba Corporation, Diodes Incorporated and Vishay Intertechnology, Inc. Our major competitors for our power ICs include Global Mixed-mode Technology Inc., Monolithic Power Systems, Inc., Richtek Technology Corp., Semtech Corporation and Texas Instruments Inc. 
+
+Our ability to compete depends on a number of factors, including: 
+
+&#8226; 
+
+our success in expanding and diversifying our serviceable markets, and our ability to develop technologies and product solutions for these markets; 
+
+&#8226; 
+
+our capability in quickly developing and introducing proprietary technology and best in class products; 
+
+&#8226; 
+
+the performance and cost-effectiveness of our products relative to that of our competitors; 
+
+&#8226; 
+
+our ability to manufacture, package and deliver products in large volume on a timely basis at a competitive price; 
+
+&#8226; 
+
+our success in utilizing new and proprietary technologies to offer products and features previously not available in the marketplace; 
+
+&#8226; 
+
+our ability to recruit and retain analog semiconductor designers and application engineers; and 
+
+&#8226; 
+
+our ability to protect our intellectual property. 
+
+Some of our competitors have longer operating histories, more brand recognition, and significantly greater financial, technical, research and development, sales and marketing, manufacturing and other resources. However, we believe that we can compete effectively through our integrated and innovative technology platform and design capabilities, including our multi-chip approach to power IC products, strategic global business model, expanding portfolio of products, diversified and broad customer base, and excellent on-the-ground support and quick time to market for our products. 
+
+&#160; Seasonality 
+
+As we provide power semiconductors used in consumer electronic products, our business is subject to seasonality. Our sales seasonality is affected by a number of factors, including global and regional economic conditions as well as the PC market 
+
+&#32;7 
+
+conditions, revenue generated from new products, changes in distributor ordering patterns in response to channel inventory adjustments and end customer demand for our products &#32; and fluctuations in consumer purchase patterns prior to major holiday seasons. In recent periods, broad fluctuations in the semiconductor markets and the global and regional economic conditions, in particular the decline of the PC market conditions, have had a more significant impact on our results of operations than seasonality, and have made it difficult to assess the impact of seasonal factors on our business. 
+
+Backlog 
+
+Our sales are made primarily pursuant to standard purchase orders from distributors and direct customers. The amount of backlog to be shipped during any period depends on various factors, and all orders are subject to cancellation or modification, usually with no penalty to customers. The quantities actually purchased by customers, as well as shipment schedules, are frequently revised to reflect changes in both the customers' requirements and in manufacturing availability. Therefore, our backlog at any point in time is not a reliable indicator of our future revenue. 
+
+Research and development 
+
+Because we view technology as a competitive advantage, we invest significant time and capital into research and development to address the technology intensive needs of our end customers. Our research and development expenditures for the fiscal years of 2016 , 2015 &#32;and 2014 &#32;were $26.0 million , $27.1 million &#32;and $24.4 million , respectively. Our research and development expenditures primarily consist of staff compensation, prototypes, engineering materials, simulation and design tools and test and analyzer equipment. Our new product development efforts continue to focus on developing products with higher speed, higher efficiency and reliability, higher power density, greater performance and lower costs. We have research and development teams in Silicon Valley (Sunnyvale, California), Oregon, Taipei, Taiwan, and Shanghai, China. We believe that these diverse research and development teams enable us to develop leading edge technology platforms and new products. Our areas of research and development focus include: 
+
+Packaging technologies : Consumer demand for smaller and more compact electronic devices with higher power density is driving the need for advanced packaging technology. Our group of dedicated packaging engineers focuses on smaller form factor, higher power output with efficient heat dissipation and cost-effectiveness. We have invested significant resources to develop and enhance our proprietary packaging technologies, including the establishment of our in-house packaging and testing facilities. We believe that our efforts to develop innovative packaging technologies will continue to provide new and cost-effective solutions with higher power density to our customers. During the fiscal year ended June 30, 2016, we continued our diversification program by developing new silicon and packaging platforms to expand our SAM and offer higher performance products. 
+
+Process technology and device physics: &#32;We focus on specialized process technology in the manufacturing of our products, including vertical DMOS, Shielded Gate Trench, Trench field stop IGBTs, charge-balance high voltage MOSFETs, Schottky Diode and BCDMOS processes. Our process engineers work closely with our design team to deploy and implement our proprietary manufacturing processes at our Oregon fab as well as the third-party foundries that fabricate our wafers. To improve our process technology, we continue to develop and enhance our expertise in device physics in order to better understand the physical characteristics of materials and the interactions among these materials during the manufacturing process. 
+
+New products and new technology platforms: &#32;We also invest significantly in the development of new technology platforms and introduction of new products. Because power management affects all electronic systems, we believe that developing a wide portfolio of products enables us to target new applications in addition to expanding our share of power management needs served within existing applications. 
+
+&#32;As a technology company, we will continue our significant investment in research and development in our low voltage and high voltage power discretes and power ICs by developing new technology platforms and new products that allow for better product performance, more efficient packages and higher levels of integration. 
+
+Operations 
+
+The manufacture of our products is divided into two major steps: wafer fabrication and packaging and testing. 
+
+Wafer fabrication 
+
+&#160; 
+
+Our Oregon fab allows us to accelerate the development of our technology and products, as well as to provide better services to our customers. We allocate our wafer production between our in-house facility and third-party foundries, although 
+
+&#32;8 
+
+in the past three years, we have gradually reduced our reliance on third-party foundries following the acquisition and integration of the Oregon fab. Currently our main third-party foundry is Shanghai Hua Hong Grace Electronic Company Limited, ("HHGrace"), or formerly HHNEC, located in Shanghai. HHGrace has been manufacturing wafers for us since 2002. HHGrace manufactured 25.0% , 25.0% &#32;and 28.6% &#32;of the wafers used in our products for the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 , respectively. 
+
+On March 29, 2016, we entered into the JV agreement with two investment funds affiliated with the municipalities of Chongqing for the purpose of constructing a power semiconductor packaging, testing and 12-inch wafer fabrication facility in the Liangjiang New Area of Chongqing. We expect the JV Company to commence its initial production in the first half of fiscal 2018. 
+
+Packaging and testing 
+
+Completed wafers from the foundries are sent to our in-house packaging and testing facilities or to our subcontractors, where the wafers are cut into individual die, soldered to lead frames, wired to terminals and then encapsulated in protective packaging. After packaging, all devices are tested in accordance with our specifications and substandard or defective devices are rejected. We have established quality assurance procedures that are intended to control quality throughout the manufacturing process, including qualifying new parts for production at each packaging facility, conducting root cause analysis, testing for lots with process defects and implementing containment and preventive actions. The final tested products are then shipped to our distributors or customers. 
+
+Our in-house packaging and testing facilities are located in Shanghai, China which handle most of our packaging and testing requirements for our products, and within one year from June 30, 2016, we are expected to contribute a portion of the packaging equipments currently being used in Shanghai facility to the JV Company. We continuously increase outsourcing portion of our packaging and testing requirements to other contract manufacturers to minimize the effect of market fluctuation. Our facilities have the combined capacity to package and test over 500 million parts per month and have available floor space for new package introductions. We believe our ability to package and test our products internally represents a strategic advantage as it protects our proprietary packaging technology, increases the rate of new package introductions, reduces operating expenses and ultimately improves our profit margins. 
+
+Quality assurance 
+
+Our quality assurance practices aim to consistently provide our end customers with products that are reliable, durable and free of defects. We strive to do so through continuous improvement in our product design and manufacturing and close collaboration with our manufacturing partners. Our manufacturing operations in China and our manufacturing facility in Oregon are certified to the ISO9001 and ISO/TS16949:2009. These Quality Management System certifications are in recognition of our quality assurance standards. Both ISO9001and ISO/TS16949:2009 are sets of criteria and procedures established by International Organization of Standardization for developing a fundamental quality management system and focusing on continuous improvement, defect prevention and the reduction of variation and waste. Our products are also in compliance with Restrictions on the use of Hazardous Substances, or RoHS 2.0. 
+
+We maintain a supplier management and process engineering team in Shanghai that works with our third-party foundries and packaging and testing subcontractors to monitor the quality of our products, which is designed to ensure that manufacturing of our products, is in strict compliance with our process control, monitoring procedures and product requirements. We also conduct periodic reviews and annual audits to ensure supplier performance. For example, we examine the results of statistical process control systems, implement preventive maintenance, verify the status of quality improvement projects and review delivery time metrics. In addition, we rate and rank each of our suppliers every quarter based on factors such as their quality and performance. Our facility in Oregon integrates manufacturing process controls through our manufacturing execution system coupled with wafer process controls that include monitoring procedures, preventative maintenance, statistical process control, and testing to ensure that finished wafers delivered will meet and exceed quality and reliability requirements. All materials used to manufacture wafers are controlled through a strict qualification process. 
+
+Our manufacturing processes use many raw materials, including silicon wafers, gold, copper, molding compound, petroleum and plastic materials and various chemicals and gases. We obtain our raw materials and supplies from a large number of sources. Although supplies for the raw materials used by us are currently adequate, shortages could occur in various essential materials due to interruption of supply or increased demand in the industry. 
+
+Intellectual property rights 
+
+&#32;9 
+
+Intellectual property is a critical component of our business strategy, and we intend to continue to invest in the growth, maintenance and protection of our intellectual property portfolio. We own significant intellectual property in many aspects of power semiconductor technology, including device physics and structure, wafer processes, circuit designs, packaging, modules and subassemblies. We have also entered into intellectual property licensing agreements with other companies, including Fairchild Semiconductor International, Inc. and Giant Semiconductor Corporation, to use selected third-party technology for the development of our products, although we do not believe our business is dependent to any significant degree on any individual third-party license agreement. 
+
+While we focus our patent efforts in the United States, we file corresponding foreign patent applications in other jurisdictions, such as China and Taiwan, when filing is justified by cost and strategic importance. The patents are increasingly important to remain competitive in our industry, and a strong patent portfolio will facilitate the entry of our products into new markets. As of June 30, 2016 , we had 601 patents issued in the United States, of which 29 were acquired, 2 were licensed and 570 were based on our research and development efforts, and these patents are set to expire between 2016 and 2035. Within these patents, 6 patents will be expired in 2016, which we do not expect to have a material impact on our patent position. We also had a total of 611 foreign patents, including 283 Chinese patents, 307 Taiwanese patents, 13 Korean patents, 4 Hong Kong patents and 4 Japanese patents as of June 30, 2016 . Substantially all of our foreign patents were based on our research and development efforts. These foreign patents expire in the years between 2018 and 2035. In addition, as of June 30, 2016 , we had a total of 359 patent applications, of which 150 patents were pending in the United States, 125 patents were pending in China, 79 patents were pending in Taiwan and 4 patents were pending in other countries. 
+
+As our technologies are deployed in new applications and as we diversify our product portfolio based on new technology platforms, we may be subject to new potential infringement claims. Patent litigation, if and when instituted against us, could result in substantial costs and a diversion of our management's attention and resources. However, we are committed to vigorously defending and protecting our investment in our intellectual property. Therefore, the strength of our intellectual property program, including the breadth and depth of our portfolio, will be critical to our success in the new markets we intend to pursue. 
+
+In addition to patent protection, we also rely on a combination of trademark, copyright (including mask work protection), trade secret laws, contractual provisions and similar laws in other jurisdictions. We also enter into confidentiality and invention assignment agreements with our employees, consultants, suppliers, distributors and customers and seek to control access to, and distribution of, our proprietary information. 
+
+Environmental matters 
+
+The semiconductor production process, including the semiconductor wafer manufacturing and packaging process, generates air emissions, liquid wastes, waste water and other industrial wastes. We have installed various types of pollution control equipment for the treatment of air emissions and liquid waste and equipment for recycling and treatment of water in our packaging and testing facilities in China and wafer manufacturing facility in Oregon, USA. Waste generated at our manufacturing facilities, including but not limited to acid waste, alkaline waste, flammable waste, toxic waste, oxide waste and self-igniting waste, is collected and sorted for proper disposal. Our operations in China are subject to regulation and periodic monitoring by China's State Environmental Protection Bureau, as well as local environmental protection authorities, including those under the Shanghai Municipal Government, which may in some cases establish stricter standards than those imposed by the State Environmental Protection Bureau. Our operation in Oregon is subject to Oregon Department of Environmental Regulations, Federal Environmental Protection Agency laws and regulations, and local jurisdictional regulations. We believe that we have been in material compliance with applicable environmental regulations and standards and have not had a material or adverse effect on our results of operations from complying with these regulations. 
+
+We have implemented an ISO 14001 environmental management system in our manufacturing facilities in China and Oregon. We also require our subcontractors, including foundries and assembly houses, to meet ISO14001 standards. We believe that we have adopted pollution control measures for the effective maintenance of environmental protection standards consistent with the requirements applicable to the semiconductor industry in China and the U.S.. 
+
+Our products sold in Europe are subject to RoHS in Electrical and Electronic Equipment, which requires that the products do not contain more than agreed levels of lead, cadmium, mercury, hexavalent chromium, polybrominated biphenyl and polybrominated diphenyl ether flame retardants. Our manufacturing facilities in China also obtained QC080000 certification, which is an IECQ Certificate of Conformity Hazardous Substance Process Management for European Directive 2002/95/EC requirements and a Certificate of Green Partner for Sony Green Partner Program. We avoid using these restricted materials to the extent possible when we design our products. 
+
+&#32;10 
+
+We are also subject to SEC rules that require diligence, disclosure and reporting on whether certain minerals and metals, known as conflict minerals, used in our products originate from the Democratic Republic of Congo and adjoining countries. As of June 30, 2016 , 2015 &#32;and 2014 , we were in compliance with the related conflict minerals rule. 
+
+Employees 
+
+As of June 30, 2016 , we had approximately 2,800 employees, of which approximately 380 were located in the United States, 2,310 were located in China, and 110 were located in other parts of Asia. Of the total employees, approximately 2,380 were in operations and manufacturing, 150 were in research and development, 150 were in sales and marketing and 120 were in general and administrative. None of our employees are represented by a collective bargaining agreement. We consider our relationships with our employees to be good. 
+
+Executive Officers 
+
+The following table lists the names, ages and positions of our executive officers as of July 31, 2016 . There are no family relationships between any executive officer. 
+
+&#160; 
+
+Name 
+
+Age 
+
+Position 
+
+Mike F. Chang, Ph.D. 
+
+Chairman of the Board and Chief Executive Officer 
+
+Yueh-Se Ho, Ph.D. 
+
+Director and Chief Operating Officer 
+
+Yifan Liang 
+
+Chief Financial Officer and Corporate Secretary 
+
+Daniel Kuang Ming Chang 
+
+Senior Vice President of Marketing 
+
+Mike F. Chang, Ph.D ., is the founder of our company and has served as our Chairman of the Board and Chief Executive Officer since the incorporation of our company. Dr. Chang has extensive experience in both technology development and business operations in the power semiconductor industry. Prior to establishing our company, Dr. Chang served as the Executive Vice President at Siliconix Incorporated, a subsidiary of Vishay Intertechnology Inc., a global manufacturer and supplier of discrete and other power semiconductors, or Siliconix, from 1998 to 2000. Dr. Chang also held various management positions at Siliconix from 1987 to 1998. Earlier in his career, Dr. Chang focused on product research and development in various management positions at General Electric Company from 1974 to 1987. Dr. Chang received his B.S. in electrical engineering from National Cheng Kung University, Taiwan, and M.S. and Ph.D. in electrical engineering from the University of Missouri. 
+
+Yueh-Se Ho, Ph.D ., is a co-founder of our company and has served as our Chief Operating Officer since January 2006 and our director since March 2006. Dr. Ho has held various operational management positions in our company since our inception, including the Vice President of Worldwide Operations from 2003 to 2006 and the Vice President of Back End Operations from 2000 to 2003. Prior to co-founding our company, Dr. Ho served as the Director of Packaging Development and Foundry Transfer at Siliconix from 1998 to 2000. Dr. Ho received his B.S. in chemistry from Tamkang University, Taiwan, and Ph.D. in chemistry from the University of Pittsburgh. 
+
+Yifan Liang &#32;is currently serving as our Chief Financial Officer since August 2014 and Corporate Secretary since November 2013. Mr. Liang served as our Interim Chief Financial Officer from November 2013 to August 2014, our Chief Accounting Officer since October 2006, and our Assistant Corporate Secretary from November 2009 to November 2013. Mr. Liang joined our company in August 2004 as our Corporate Controller. Prior to joining us, Mr. Liang held various positions at PricewaterhouseCoopers LLP, or PwC, from 1995 to 2004, including Audit Manager in PwC's San Jose office. Mr. Liang received his B.S. in management information system from the People's University of China and M.A. in finance and accounting from the University of Alabama. 
+
+D aniel Kuang Ming Chang &#32;has been serving as our Senior Vice President of Marketing since August 3, 2015. Mr. Chang served as our Vice President of Power IC Product Line and Applications Engineering from October 2011 to August 2, 2015, our Vice President of Strategic Marketing and Applications Engineering from May 2010 to October 2011, and our Director of Strategic Marketing and Applications Engineering from February 2009 to April 2010. Prior to joining our company, Mr. Chang served as Vice President of new product line at Richtek Inc, a power management company in Taiwan, from 2005 to 2009. He also served as Vice President of System Engineering at Lovoltech Inc, a startup semiconductor company in Sunnyvale, California from 2001 to 2005. Mr. Chang received his M.S. in physics from National Tsing Hua University of Taiwan, and a B.S. in electrical engineering from Taiwan National University. 
+
+Available Information 
+
+&#32;11 
+
+Our filing documents and information with the Securities and Exchange Commission (the "SEC") are available free of charge electronically through our Internet website, www.aosmd.com. &#32;as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Additionally, these filings may be obtained by visiting the Public Reference Room of the SEC at 100 F Street, NE, Washington, DC 20549 or by calling the SEC at 1-800-SEC-0330, by sending an electronic message to the SEC at publicinfo@sec.gov. In addition, the SEC maintains a website (www.sec.gov) that contains reports, proxy statements, and other information that we file electronically. 
+
+&#32;12 
+

@@ -1,0 +1,236 @@
+ ITEM 1. BUSINESS. 
+
+Skyworks Solutions, Inc., together with its consolidated subsidiaries (&#8220;Skyworks&#8221; or the &#8220;Company&#8221;), is empowering the wireless networking revolution. Our highly innovative analog semiconductors are connecting people, places, and things, spanning a number of new and previously unimagined applications within the automotive, broadband, cellular infrastructure, connected home, industrial, medical, military, smartphone, tablet and wearable markets. 
+
+Our key customers include Arris, Bose, Cisco, Dell, Foxconn, Fujitsu, General Electric, Google, Honeywell, HTC, Huawei, Landis &#38; Gyr, Lenovo, LG Electronics, Microsoft, Nest, Netgear, Northrop Grumman, OPPO, Rockwell Collins, Samsung, Sonos, VIVO, and ZTE. Our competitors include Analog Devices, Broadcom, Maxim Integrated Products, Murata Manufacturing, NXP Semiconductors, QUALCOMM and Qorvo. 
+
+We are a Delaware corporation that was formed in 1962. We changed our corporate name from Alpha Industries, Inc. to Skyworks Solutions, Inc. on June 25, 2002, following a business combination. We operate worldwide with engineering, manufacturing, sales and service facilities throughout Asia, Europe and North America. Our Internet address is www.skyworksinc.com. We make available free of charge on our website our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, Section 16 filings on Forms 3, 4 and 5, and amendments to those reports as soon as practicable after we electronically submit such material to the SEC. The information contained on our website is not incorporated by reference in this Annual Report. You may read and copy materials that we have filed with the SEC at the SEC public reference room located at 100 F Street, N.E., Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. Our SEC filings are also available to the public at www.sec.gov. 
+
+In August 2016, we acquired the remaining 34% interest in a joint venture that was initially created in August 2014 with Panasonic Corporation, through its Automotive &#38; Industrial Systems Company (&#8220;Panasonic&#8221;) for the design, manufacture and sale of Panasonic&#8217;s SAW and TC-SAW filter products. The joint venture was dissolved and is now a wholly-owned subsidiary of the Company. With the overall demand for SAW and TC-SAW filters increasing as the technology and product architectures become more complex and the number of required bands grows, this investment assists us in securing a consistent supply of SAW and TC-SAW filters, in addition to allowing us to integrate filters into the design and production of our own products. 
+
+In January 2012, we acquired Advanced Analogic Technologies Inc. (&#8220;AATI&#8221;) and accelerated our entry into vertical markets with highly complementary analog semiconductor product lines, including battery chargers, DC/DC converters, voltage regulators and LED drivers. Power management semiconductors represent a strategic growth market for us in applications like voltage regulation, energy efficiency and panel backlighting within the consumer electronics, computing and communications markets. 
+
+In June 2011, we acquired SiGe Semiconductor, Inc. (&#8220;SiGe&#8221;) and expanded our RF front-end solutions to facilitate wireless multimedia across a wide range of new applications. The acquisition of SiGe complemented our strong position in wide area front-end solutions by adding SiGe&#8217;s innovative short range, silicon-based products. As a result, today we offer customers a comprehensive wireless networking portfolio, supporting all key operating frequencies with greater architectural flexibility to address a variety of high growth applications. 
+
+INDUSTRY BACKGROUND 
+
+Wireless connectivity is exploding, fueled by a powerful underlying demand to connect everyone and everything all the time. Semiconductor devices continue becoming smaller, more powerful, and easier to integrate across multiple communication protocols, which is enabling the Internet of Things. The billions of connected devices that comprise the Internet of Things are being enabled and powered by a combination of sensors, microcontrollers, as well as connectivity and power management solutions. According to Cisco&#8217;s Annual Visual Networking report, between 2015 and 2020, the Internet of Things will grow faster than any other category of connected devices. In particular, the number of machine-to-machine connections is expected to grow from 4.9 billion in 2015 to 12.2 billion in 2020, with machine-to-machine connections representing nearly half of total connected devices. 
+
+As a result, these trends provide the Company with growth opportunities across new and emerging markets and applications. This is helping to fuel our growth and expand our served markets. In fact, today there are a number of groundbreaking devices leveraging Skyworks&#8217; technology&#8212;from the newest smartphones to the factory floor to hospitals and medical providers to the automated home, connected car, and wearables. Skyworks is enabling these opportunities with highly customized system 
+
+&#32;5 
+
+solutions supporting a broad set of wireless protocols, including cellular LTE, Wi-Fi, Bluetooth, Zigbee and emerging 5G standards. 
+
+Within smartphones and other mobile platforms, we are benefiting from the complexity associated with the increasing number of frequency bands as well as from the multitude of RF design challenges brought about as consumers use their devices to stream video, make purchases, network on social media platforms, participate in online gaming, pay bills and much more. These design challenges require a broad set of core competencies to ensure seamless handoffs between multiple air interface standards and to effectively address signal transmission and conditioning, power management, voltage regulation, filtering and tuning complexities. As a result, our customers&#8217; needs have dramatically moved away from discrete components toward customized integrated solutions that integrate adjacent functionality and analog content. 
+
+At the same time, in emerging markets around the world, the demand for mobile connectivity continues to grow as the industry drives toward connecting the billions of people who remain unconnected. According to the Global Semiconductor Market Association, more than 65 percent of the global population will use smartphones by 2020, with emerging markets forecasted to lead this growth. 
+
+Solving Connectivity Challenges 
+
+The transition to ubiquitous connectivity, however, does not come without challenges to existing architectures. RF solutions in ultra-thin, high performance consumer products must increase data rates, solve signal interference problems, and occupy minimal board space while at the same time increasing battery life. Meeting these design challenges requires broad competencies including signal transmission and conditioning, the ability to ensure seamless hand-offs between multiple standards, power management, voltage regulation, battery charging, filtering and tuning, among others. This complexity plays directly to our strengths. We have a strong heritage in analog systems design and have spent the last decade investing in key technologies and resources. We are at the forefront of advanced multi-chip module integration and offer unmatched technology breadth, providing deep expertise in CMOS, SOI, GaAs and filters and maintaining strategic partnerships with outside foundries. 
+
+SKYWORKS&#8217; STRATEGY 
+
+Our overall strategy is to enable all forms of connectivity through semiconductor innovation. Key elements of our strategy include: 
+
+Industry-Leading Technology 
+
+As the industry migrates to more complex LTE architectures across a multitude of wireless broadband applications, we are uniquely positioned to help mobile device manufacturers handle growing levels of system complexity in the transmit and receive chain. The trend towards increasing front-end and analog design challenges in smartphones and other mobile devices plays directly into our core strengths and positions us to address these challenges. We believe that we offer the broadest portfolio of radio and analog solutions from the transceiver to the antenna as well as all required manufacturing process technologies. Our expertise includes BiFET, CMOS, HBT, pHEMT, SOI and silicon germanium processes. We also hold strong technology leadership positions in passive devices, advanced integration including proprietary shielding and 3-D die stacking, as well as SAW and TC SAW filters. Our product portfolio is reinforced by a library of approximately 2,600 worldwide patents and other intellectual property that we own and control. Together, our industry-leading technology enables us to deliver the highest levels of product performance and integration. 
+
+Customer Relationships 
+
+Given our scale and technology leadership, we are engaged with key original equipment manufacturers (&#8220;OEM&#8221;), smartphone providers and baseband reference design partners. Our customers value our supply chain strength, our innovative technology and our system engineering expertise resulting in deep customer loyalty. We partner with our customers to support their long-term product road maps and are valued as a system solutions provider rather than just a point product vendor. 
+
+Diversification 
+
+We are diversifying our business in three areas: our addressed markets, our customer base and our product offerings to enable stronger and more consistent financial returns. By leveraging core analog and mixed signal technologies, we are expanding our family of solutions to a set of increasingly diverse end markets and customers. We are steadily growing our business beyond just mobile devices (where we support all top-tier manufacturers, including the leading smartphone suppliers and key baseband vendors) into additional high-performance analog markets, including automotive, home and factory automation, infrastructure, medical, smart energy and wireless networking. In these markets we leverage our scale, intellectual property and worldwide distribution network, which spans over 2,000 customers and over 2,500 analog components. 
+
+&#32;6 
+
+Delivering Operational Excellence 
+
+We either vertically integrate our supply chain where we can create a competitive advantage, or enter into alliances and strategic relationships for leading-edge capabilities. This hybrid manufacturing model allows us to better balance our manufacturing capacity with the demands of the marketplace. Internally, our capacity utilization remains high and we have therefore been able to maintain margins and achieve our desired return on invested capital on a broader range of revenue. 
+
+Additionally, we continue to strive to achieve the industry&#8217;s shortest product design and manufacturing cycle times and highest product yields. The combination of agile, flexible capacity and world-class module manufacturing and scale advantage allows us to achieve low product costs while integrating multiple technologies into highly sophisticated multi-chip modules. 
+
+Maintaining a Performance Driven Culture 
+
+We consider our people and corporate culture to be a major competitive advantage and a key driver of our overall strategy. We create key performance indicators that align employee performance with corporate strategy and link responsibilities with performance measurement. Accountability is paramount and we compensate our employees through a pay-for-performance methodology. We strive to be an employer-of-choice among peer companies and have created a work environment in which turnover is well below semiconductor industry averages. 
+
+Generating Superior Operating Results and Shareholder Returns 
+
+We seek to generate financial returns that are comparable to a highly diversified analog semiconductor company while delivering high growth rates representative of a mobile internet company. Given our product volume and overall utilization we strive to achieve a best-in-class return on investment and operating income to reward shareholders with increasing returns. 
+
+OUR PRODUCT PORTFOLIO 
+
+Our product portfolio consists of various solutions, including: 
+
+&#8226; 
+
+Amplifiers: the modules that strengthen the signal so that it has sufficient energy to reach a base station 
+
+&#8226; 
+
+Attenuators: circuits that allow a known source of power to be reduced by a predetermined factor (usually expressed as decibels) 
+
+&#8226; 
+
+Circulators/Isolators: ferrite-based components commonly found on the output of high-power amplifiers used to protect receivers in wireless transmission systems 
+
+&#8226; 
+
+DC/DC Converters: an electronic circuit which converts a source of direct current from one voltage level to another 
+
+&#8226; 
+
+Demodulators: a device or an RF block used in receivers to extract the information that has been modulated onto a carrier or from the carrier itself 
+
+&#8226; 
+
+Detectors: devices used to measure and control RF power in wireless systems 
+
+&#8226; 
+
+Diodes: semiconductor devices that pass current in one direction only 
+
+&#8226; 
+
+Directional Couplers: transmission coupling devices for separately sampling the forward or backward wave in a transmission line 
+
+&#8226; 
+
+Diversity Receive Modules: devices used to improve receiver sensitivity in high data rate LTE applications 
+
+&#8226; 
+
+Filters: devices for recovering and separating mixed and modulated data in RF stages 
+
+&#8226; 
+
+Front-End Modules: power amplifiers that are integrated with switches, duplexers, filters and other components to create a single package front-end solution 
+
+&#8226; 
+
+Hybrid: a type of directional coupler used in radio and telecommunications 
+
+&#8226; 
+
+LED Drivers: devices which regulate the current through a light emitting diode or string of diodes for the purpose of creating light 
+
+&#8226; 
+
+Low Noise Amplifiers: devices used to reduce system noise figure in the receive chain 
+
+&#8226; 
+
+Mixers: devices that enable signals to be converted to a higher or lower frequency signal and thereby allowing the signals to be processed more effectively 
+
+&#8226; 
+
+Modulators: devices that take a baseband input signal and output a radio frequency modulated signal 
+
+&#8226; 
+
+Optocouplers/Optoisolators: semiconductor devices that allow signals to be transferred between circuits or systems while ensuring that the circuits or systems are electrically isolated from each other 
+
+&#8226; 
+
+Phase Locked Loops: closed-loop feedback control system that maintains a generated signal in a fixed phase relationship to a reference signal 
+
+&#8226; 
+
+Phase Shifters: designed for use in power amplifier distortion compensation circuits in base station applications 
+
+&#8226; 
+
+Power Dividers/Combiners: utilized to equally split signals into in-phase signals as often found in balanced signal chains and local oscillator distribution networks 
+
+&#8226; 
+
+Receivers: electronic devices that change a radio signal from a transmitter into useful information 
+
+&#32;7 
+
+&#8226; 
+
+Switches: components that perform the change between the transmit and receive function, as well as the band function for cellular handsets 
+
+&#8226; 
+
+Synthesizers: devices that provide ultra-fine frequency resolution, fast switching speed, and low phase-noise performance 
+
+&#8226; 
+
+Technical Ceramics: polycrystalline oxide materials used for a wide variety of electrical, mechanical, thermal and magnetic applications 
+
+&#8226; 
+
+Voltage Regulators: generate a fixed level which ideally remains constant over varying input voltage or load conditions 
+
+&#8226; 
+
+Voltage Controlled Oscillators/Synthesizers: fully integrated, high performance signal source for high dynamic range transceivers 
+
+We believe we possess broad technology capabilities and one of the most complete wireless communications product portfolios in the industry. 
+
+MARKETING AND DISTRIBUTION 
+
+Our products are sold globally through a direct sales force, electronic component distributors and independent sales representatives. Certain distributors have agreements with us which allow for certain sales returns, stock rotations and price protection on certain inventory if we lower the price of those products (see &#8220; Critical Accounting Estimates &#8221; in Part II, Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations and Note 2 &#32;to Item 8 of this Annual Report on Form 10-K for further detail on revenue reserves). As is customary in the semiconductor industry, our distributors may also market other products that compete with ours. 
+
+Our sales engagement begins at the earliest stages of the design of an existing or potential customer&#8217;s product. We collaborate technically with our customers and reference design partners at the inception of new programs. These relationships allow our team to facilitate customer-driven solutions, which leverage the unique strength of our intellectual property and product portfolio while providing high value and greatly reducing time-to-market. 
+
+We believe the technical and complex nature of our products and markets demand an extraordinary commitment to maintain close ongoing relationships with our customers. As such, we strive to expand the scope of our customer relationship to include design, engineering, manufacturing, procurement, logistics and project management. We also employ a collaborative approach in developing these relationships by combining the support of our design teams, applications engineers, manufacturing personnel, sales and marketing staff and senior management. Lastly, we leverage our customer relationships with cross-selling opportunities across product lines in order to maximize revenue. 
+
+We believe that maintaining frequent and interactive contact with our customers is paramount to our continuous efforts to provide world-class sales and service support. By listening and responding to feedback, we are able to mobilize resources to raise our level of customer satisfaction, improve our ability to anticipate future product needs, and enhance our understanding of key market dynamics. We are confident that diligently following this path positions us to participate in numerous opportunities for growth in the future. 
+
+CUSTOMER CONCENTRATION 
+
+A small number of customers historically has accounted for a significant portion of our net revenue. In the fiscal years ended September 30, 2016 (&#8220;fiscal 2016&#8221;) and October 3, 2014 (&#8220;fiscal 2014&#8221;), two customers&#8212;Foxconn Technology Group (together with its affiliates and other suppliers to a large OEM for use in multiple applications including smartphones, tablets, routers, desktop and notebook computers, &#8220;Foxconn&#8221;) and Samsung Electronics (&#8220;Samsung&#8221;)&#8212;each constituted more than ten percent of our net revenue. In the fiscal year ended October 2, 2015 (&#8220;fiscal 2015&#8221;), Foxconn constituted more than ten percent of our net revenue. For further information regarding customer concentrations see Note 16 &#32;to Item 8 of this Annual Report on Form 10-K. 
+
+INTELLECTUAL PROPERTY AND PROPRIETARY RIGHTS 
+
+We own or have a license to use numerous United States and foreign patents and patent applications related to our products and our manufacturing operations and processes. In addition, we own a number of trademarks and service marks applicable to certain of our products and services. We believe that our intellectual property, including patents, patent applications, trade secrets and trademarks, is of material importance to our business. We rely on patent, copyright, trademark, trade secret and other intellectual property laws, as well as non-disclosure and confidentiality agreements and other methods, to protect our confidential and proprietary technologies, designs, devices, algorithms, processes and other intellectual property. Our efforts may not meaningfully protect our intellectual property, or others may independently develop substantially equivalent or superior proprietary technologies, designs, devices, algorithms, processes or other intellectual property. In addition, the laws of some foreign countries do not protect proprietary rights to the same extent as the laws of the United States, and effective copyright, patent, trademark and trade secret protection may not be available in those jurisdictions. In addition to protecting our intellectual property, we strive to strengthen our intellectual property 
+
+&#32;8 
+
+portfolio to enhance our ability to obtain cross-licenses of intellectual property from others, to obtain access to intellectual property we do not possess and to more favorably resolve potential intellectual property claims against us. Due to rapid technological changes in the industry, we believe establishing and maintaining a technological leadership position depends primarily on our ability to develop new, innovative products through the technical competence of our engineering personnel. 
+
+COMPETITIVE CONDITIONS 
+
+The competitive environment in the semiconductor industry is in a constant state of flux, with new products continually emerging and existing products approaching technological obsolescence. We compete on the basis of time-to-market, new product innovation, quality, performance, price, compliance with industry standards, strategic relationships with customers and baseband vendors, personnel and protection of our intellectual property. We participate in highly competitive markets against numerous competitors that may be able to adapt more quickly than we can to new or emerging technologies and changes in customer requirements, or may be able to devote greater resources to the development, promotion and sale of their products than we can. 
+
+Erosion of average selling prices of established products is typical of the semiconductor industry. Consistent with trends in the industry, we anticipate that average selling prices for our established products will continue to decline at a normalized rate of five to ten percent per year. We mitigate the gross margin impact of declining average selling prices with efforts to increase unit volumes, reduce material costs and lower manufacturing costs of existing products and by introducing new and higher value-added products. 
+
+RESEARCH AND DEVELOPMENT 
+
+Our products and markets demand rapid technological advancements requiring a continuous effort to enhance existing products and develop new products and technologies. Accordingly, we maintain a high level of research and development activity. We invested $312.4 million , $303.2 million &#32;and $252.2 million &#32;in research and development during fiscal 2016, fiscal 2015 and fiscal 2014, respectively. The growth in research and development expenses were the result of increases in our internal product designs and product development activity for our target markets in each of these fiscal years. Our research and development expenses include new product development and innovations in integrated circuit design, investment in advanced semiconductor manufacturing processes, development of new packaging and test capabilities and research on next generation technologies and product opportunities. We maintain close collaborative relationships with many of our customers to help identify market demands and target our development efforts to meet those demands. 
+
+RAW MATERIALS 
+
+Raw materials for our products and manufacturing processes are generally available from several sources. It is our intent not to depend on a sole source of supply unless market or other conditions dictate otherwise. However, there are limited situations where we procure certain components and services for our products from single or limited sources, and we are currently dependent on a limited number of sole source suppliers. We purchase materials and services primarily pursuant to individual purchase orders. However, we have entered into certain supply agreements for the purchase of raw materials or other manufacturing related services that specify minimum prices and purchase quantity based on our anticipated future requirements. Such amounts are reviewed and included in our contractual obligations and commitments as required. Certain of our suppliers consign raw materials to us at our manufacturing facilities to which we take title to as needed in our manufacturing process. We believe we have adequate sources for the supply of raw materials and components for our manufacturing needs with suppliers located around the world. 
+
+BACKLOG AND INVENTORY 
+
+Our sales are made pursuant to standard purchase orders and specified customer contracts for delivery of products, with such purchase orders officially acknowledged by us according to our own terms and conditions. We also maintain Skyworks-owned finished goods inventory at certain customer &#8220;hub&#8221; locations. We do not recognize revenue until these customers consume the Skyworks-owned inventory from these hub locations. Due to industry practice, which allows customers to cancel orders with limited advance notice to us prior to shipment, and with little or no penalty, we believe that backlog as of any particular date may not be a reliable indicator of our future revenue levels. The cancellation or deferral of product orders, the return of previously sold products, or overproduction due to a change in anticipated order volume could result in a reduction in revenue and us holding excess or obsolete inventory, which could result in inventory write-downs and, in turn, could have a material adverse effect on our financial condition. 
+
+ENVIRONMENTAL REGULATIONS 
+
+Federal, state and local requirements relating to the discharge of substances into the environment, the disposal of hazardous wastes, and other activities affecting the environment have had, and will continue to have, an impact on our manufacturing operations. Most of our customers have mandated that our products comply with various local, regional and national &#8220;green&#8221; initiatives initiated by our customers or the locations in which they operate. We believe that our current expenditures for environmental capital investment and remediation necessary to comply with present regulations governing environmental protection, and other expenditures for the 
+
+&#32;9 
+
+resolution of environmental claims, will not have a material adverse effect on our liquidity and capital resources, competitive position or financial condition. Environmental regulations are subject to change in the future, and accordingly we are unable to assess the possible effect of compliance with future requirements. 
+
+SEASONALITY 
+
+Sales of our products are subject to seasonal fluctuation and periods of increased demand in end-user consumer applications, such as smartphones and tablet computing devices. The highest demand for our products generally occurs in our first fiscal quarter ending in December and the lowest demand for our handset products generally occurs in our second fiscal quarter ending in March. 
+
+GEOGRAPHIC INFORMATION 
+
+For information regarding net revenue by geographic region for each of the last three fiscal years, see Note 16 &#32;to Item 8 of this Annual Report on Form 10-K. 
+
+EMPLOYEES 
+
+As of September 30, 2016 , we employed approximately 7,300 employees world-wide. Approximately 860 of our employees in Mexico, 450 employees in Singapore, and 200 employees in Japan are covered by collective bargaining and other union agreements. 
+

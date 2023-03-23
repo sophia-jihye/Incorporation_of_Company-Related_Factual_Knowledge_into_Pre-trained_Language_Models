@@ -1,0 +1,390 @@
+ ITEM 1. BUSINESS &#32; 
+
+Overview 
+
+QuickLogic Corporation was founded in 1988 and reincorporated in Delaware in 1999. We develop and market low power customizable semiconductor and software algorithm solutions that enable customers to differentiate their products by adding new features, extending battery life and improving context awareness and visual experience. Our solutions primarily target smartphones, wearable devices, tablets, and the Internet-of-Things or IoT. We are a fabless semiconductor provider of comprehensive, flexible sensor processing solutions, ultra-low power display bridges, and ultra-low power Field Programmable Gate Arrays, or FPGAs. Our solutions integrate multi-core processing, programmable logic, sensor fusion and context aware algorithms, and embedded software. Our solutions are created from our new silicon platforms including our EOS&#8482;, ArcticLink &#174; &#32;III, PolarPro &#174; &#32;3, PolarPro II, PolarPro, and Eclipse II products (which comprise our new product category), our mature products, which are produced on semiconductor processes larger than 180 nanometers, primarily include our pASIC &#174; &#32;3 and QuickRAM &#174; &#32;as well as royalty revenue, programming hardware and design software. Our sensor algorithm software includes our SenseMe&#8482; software library. 
+
+Our customer-specific solutions include a unique combination of our silicon platforms, proven system blocks, or PSBs, custom logic, sensor software algorithms, software drivers, and in some cases, firmware, and application software. All of our silicon platforms are standard devices and must be programmed to be effective in a system. Our PSBs range from intellectual property, or IP, which enables always-on context aware sensor applications, such as our Flexible Fusion Engine, our Sensor Manager and Communications Manager technologies to IP that improves multimedia content, such as our Visual Enhancement Engine, or VEE technology, and Display Power Optimizer technology, or DPO; to IP which implements commonly used mobile system interfaces, such as Low Voltage Differential Signaling, or LVDS, Mobile Industry Processor Interface, or MIPI, and Secure Digital Input Output, or SDIO. We provide complete solutions by first architecting the solution jointly with our customer's or ecosystem partner&#8217;s engineering group, selecting the appropriate solution platform and PSBs, providing custom logic, integrating the logic, programming the device with the PSBs and/or firmware, providing software drivers or application software required for the customer's application, and participating with the customer on-site during integration, verification and testing. In many cases, we may deliver sensor software algorithms that have been optimized for use in a QuickLogic silicon platform. 
+
+Our solutions are developed for specific power-sensitive applications that have differentiated features in terms of IP, intelligent sensor processing or connectivity requirements. Our customers value (i) our ability to deliver solutions that extend battery life; (ii) the expertise we bring to design our solutions to optimize for power and performance within our customers' constraints; (iii) the flexibility of programmable logic to address specific hardware-based product requirements; (iv) the accuracies of our sensor algorithm software; and (v) the comprehensive software development environments that enable our customers to target their own IP into our silicon devices. We increase their ability to meet the time-to-market and time-in-market pressures associated with their markets. 
+
+The majority of our FPGA silicon platforms and our other product offerings, are based on our patented ViaLink &#174; &#32;metal-to-metal programmable technology. ViaLink provides flexible energy-efficient devices and solutions that deliver the high performance, high reliability, IP security and instant-on features that our customers value. In October 2013, we announced a new Static Random Access Memory, or SRAM, reprogrammable logic technology. This SRAM technology offers ultra-low power consumption and is in-system reconfigurable, and is the basis for all of our sensor processing solutions today. 
+
+In 2012, we introduced our third generation silicon platform family, ArcticLink III VX, which embeds our VEE/DPO technologies as well as different combinations of LVDS and/or MIPI. ArcticLink III VX combines mixed signal physical functions and hard-wired logic on one device. We also introduced our fourth generation solution platform family, ArcticLink III BX. The BX family is identical to the VX family with the exception of the VEE/DPO technologies. The BX family was introduced to provide potential customers with the ability to adopt needed display bridge requirements while evaluating the benefits of our VEE/DPO technologies. 
+
+During 2013, we introduced two new silicon platform families, both of which are based on our new SRAM reprogrammable logic technology. The first was PolarPro 3, an ultra-low power FPGA family from which we create solutions for the mobile market. The second was the ArcticLink 3 S1 silicon platform family, which was QuickLogic&#8217;s first family to implement sensor hub solutions. 
+
+&#32;4 
+
+In 2014, we introduced two silicon platform families. The first is PolarPro 3E, which is also based on our SRAM reprogrammable logic technology. We use this family to create solutions for the mobile market. The second is the ArcticLink 3 S2 silicon platform family, our second generation sensor hub. This silicon platform is a more highly integrated sensor hub solution that reduces power consumption by almost 50% from our first generation sensor hub, ArcticLink 3 S1. 
+
+In 2015, we introduced the third generation silicon platform for sensor processing - the EOS S3 platform. This multi-core System-On-a-Chip delivers even further integration than its predecessors. It integrates an ARM Cortex-M4 Microcontroller, the third generation Flexible Fusion Engine, an optimized voice sub-system that contains a hardware implementation of Sensory Incorporated Low Power Sound Detector or LPSD, and a block of ultra-low power FPGA. 
+
+In 2015, we formally introduced our sensor software algorithms to the market as the SenseMe&#8482; Sensor Software Library. This library is designed to deliver always-on context awareness at very low power optimized for the EOS S3 and ArcticLink 3 S2 silicon platform families, as well as our roadmap of sensor processing system-On-a-Chip platforms. 
+
+We have changed our manufacturing strategies to reduce the cost of our silicon solution platforms to enable their use in high volume, mass customization products. Our PolarPro 3E, PolarPro 3, PolarPro II and PolarPro solution platforms include an innovative logic cell architecture which enables us to deliver twice the programmable logic in the same die size. Our EOS S3 and ArcticLink 3 silicon platforms combine mixed signal physical functions and hard-wired logic alongside programmable logic. Our EOS S3 and ArcticLink III solution platforms are manufactured on an advanced process node where we can benefit from smaller die sizes. We typically implement sophisticated logic blocks and mixed signal functions in hard-wired logic because it is very cost effective and energy efficient. We have developed small form factor packages, which are less expensive to manufacture and include smaller pin counts. Reduced pin counts result in lower costs associated with our customer's printed circuit board space and routing. Our ability to sell programmed die as solutions greatly reduces our costs, allowing us to participate in high volume opportunities. In addition, we have dramatically reduced the time we require to program and test our devices, which has reduced our costs and lowered the capital equipment required to program and test our devices. Furthermore, our SRAM reprogrammable silicon platforms can be programmed in-system by our customers, and therefore we do not incur programming cost, lowering the overall cost of ownership to our customers. We expect to continue to invest in silicon solution platforms and manufacturing technologies which make us cost and power consumption effective for high-volume, battery-powered applications. 
+
+In addition to working directly with our customers, we partner with other companies that are experts in certain technologies to develop additional intellectual property, reference platforms and system software to provide application solutions. We also work with mobile processor manufacturers and companies that supply sensor, storage, networking or graphics components. The depth of these relationships varies depending on the partner and the dynamics of the end market being targeted, but is typically a co-marketing relationship that includes joint account calls, promotional activities and/or engineering collaboration and developments, such as reference designs. For our sensor processing solutions, we collaborate with sensor manufacturers to ensure interface compatibility as well as consistency of user experience when using our SenseMe software algorithm library. 
+
+In addition to competition in the semiconductor market, two other factors affect our future growth: (i) an expected increase in revenue should our sensor processing solution strategy prove successful, and (ii) an expected decline in revenue from mature products. New products contributed 63% &#32;of total revenue for the year ended January 3, 2016 , as compared to 69% in 2014 and 70% in 2013. In order to maintain or grow our revenue from its current level, we depend upon increased revenue from our existing products, and the development and marketing of additional new products and solutions. 
+
+Available Information 
+
+Our corporate headquarters are located at 1277 Orleans Drive, Sunnyvale, California 94089. We can be reached at (408) 990-4000, and our website address is www.quicklogic.com . The information on our website is not incorporated herein by reference and is not a part of this Form 10-K. Our common stock trades on the Nasdaq Global Market under the symbol &#8220;QUIK&#8221;. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to such reports are available, free of charge, on our website home page as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the Securities and Exchange Commission, or SEC. Copies of the materials filed by the Company with the SEC are also available at the Public Reference Room at 100 F Street, N.E., Washington, D.C., 20549. Information regarding the operation of the Public Reference Room is available by calling the SEC at 1-800-SEC-0330. Reports, proxy and information statements and other information regarding issues that we file electronically with the SEC are also available on the SEC's website at www.sec.gov . 
+
+&#32;5 
+
+Fiscal Year 
+
+Our fiscal year ends on the Sunday closest to December 31. References to fiscal years 2015, 2014 and 2013 refer to the fiscal years ending January 3, 2016, December 28, 2014 and December 29, 2013, respectively. 
+
+&#32;6 
+
+Industry Background 
+
+Consumer Electronics, or CE, products are a strong growth market for semiconductor products and sensor software algorithms, and the needs of this market bring a unique set of requirements. Three important trends in this market are (i) 
+
+toward mobile devices, either handheld or worn on the body, (ii) an increasing adoption of sensors, and (iii) devices with wireless connectivity to the cloud. Important industry trends affecting the large market for mobile devices include the need for high bandwidth that enables the same user experience consumers are accustomed to on the personal computer, or PC, such as internet browsing, social networking and streaming video, product miniaturization and the need to increase battery life. Increased local computing power in mobile devices, coupled with more ubiquitous wireless access to the cloud and lower cost sensors has been enabling the development of more intelligent software applications and consumer use cases. Many of these product requirements were, and continue to be, driven by innovations from the Smartphone and Wearables solutions that original equipment manufacturers, or OEMs, are launching in conjunction with Google Android and Real-Time operating systems, as well as Apple iPhone, Apple iPad, and Apple Watch. 
+
+While advances in cost-effective cloud storage and power-efficient wireless technology have enabled consumer device manufacturers to enhance device connectivity and offload some processing to the cloud, there continues to be a trend for feature-rich mobile devices to suffer from shorter battery lives. This challenge places a burden on the designers and manufacturers of these mobile CE products as they try to tailor multiple products with limited engineering resources. Lastly, the fast pace at which consumer taste for these features changes exacerbates the development challenges and risks in launching successful products to the marketplace. 
+
+Another important trend is shrinking product life cycles. This drives a need for faster, lower risk product development. There is intense pressure on the bill of materials, or BOM, cost of these devices, including per unit component costs and non-recurring development costs. As more people experience the advantages of a mobile lifestyle at home, they demand the same advantages in their professional lives. We believe that the trend toward mobile, handheld products that have a PC-like and cloud user experience, small form factor and maximize battery life will be prominent in the computing, industrial, medical and military markets. One such example is the trend of Smartphone and Tablet makers to offer the new, smaller form factor Wearables. 
+
+We believe these industry trends are shifting the demand among different classes of core silicon. The following are the four main classes of non-memory core silicon: 
+
+&#160; 
+
+&#8226; 
+
+Microcontrollers, or MCUs, are typically small, low power devices on a single integrated circuit that contain a processor core, memory and a number of peripherals. They are designed to be programmed with software for embedded applications; 
+
+&#8226; 
+
+Application Specific Standard Products, or ASSPs, other than processors, are fixed function devices designed to address a relatively narrow set of applications. These devices typically integrate a number of common peripherals or functions and the functionality of these devices is fixed prior to wafer fabrication; 
+
+&#8226; 
+
+Programmable Logic Devices, or PLDs, are general purpose devices, which can be used by a variety of electronic systems manufacturers and are customized after purchase for a specific application. FPGAs are a subset of PLDs and are typically used to implement complex system functions; and 
+
+&#8226; 
+
+Application Specific Integrated Circuits, or ASICs, are custom devices designed and fabricated to meet the needs of one specific application for one end-customer. Structured ASICs, a sub-category of ASICs, provide a limited amount of custom content to broaden the applicability of a device for additional applications. 
+
+ASSPs are offered broadly to the market, making it challenging for a system designer to create differentiated products from these devices alone. In many situations the available ASSPs may not directly implement the desired function and the system designer is required to use a combination of ASSPs to achieve the desired result at the expense of increased cost, product size and power consumption. As standards evolve or new standards are developed, ASSPs may not be available to implement desired functions. 
+
+System designers can customize their products using programmable logic ASICs or MCUs. The competitive dynamic between these classes of core silicon are well understood. High development risks, development costs and opportunity costs are incurred when using ASICs to produce custom devices with very low unit production cost. Suppliers of programmable logic devices, which have lower development and market risks and development costs relative to ASICs, have aggressively reduced 
+
+&#32;7 
+
+the unit cost of their products over time, making programmable logic devices the solution of choice for custom products unless the volume is very high. These cost reduction efforts have significantly increased the volume required to justify the total cost of an ASIC. 
+
+Consumer devices incorporate complex, rapidly changing technology, require rapid product proliferation, and have short product life and development cycles. Therefore, most mobile designers design their products from a base platform, or reference design, provided to them by the vendor of the processor they have selected for their design. To differentiate their products from their competition, OEMs and original design manufacturers, or ODMs, may require some level of customization at either the hardware or software level. Designers have only a few viable options to modify the base platform for their needs. Since mobile system designers require very low power consumption to maximize battery life in their applications, the high power consumption of conventional FPGAs is incompatible with their design goals. This effectively limits the average mobile system designer to ASSPs, small PLDs, mobile-oriented FPGAs, and MCUs to create a virtual level playing field among mobile system designers, and makes product proliferation and differentiation extremely hard to achieve. ASICs with their long development cycles, long lead times and high non-recurring development costs are only used in very high volume mainstream consumer products. 
+
+The traditional military and industrial markets are well served by existing core silicon. Much of this market uses complex ASSPs since price, power and size are not particularly critical design considerations. When there is a strong need for a custom solution in high volume applications, designers turn to an ASIC and, in low to medium volume applications, they use FPGAs. QuickLogic FPGAs have a loyal following in certain segments of these markets, particularly when instant-on, energy efficiency, high reliability or intellectual property security is important. These markets are expected to follow a typical mature product trend, as compared with the predicted growth in our business in the consumer market. 
+
+Markets and Product Technology 
+
+We market our solutions primarily to mobile device OEMs and ODMs. We have complete solutions incorporating our EOS S3, ArcticLink III S2, ArcticLink III VX and BX, PolarPro 3, PolarPro II, PolarPro, and Eclipse II solution platforms, packaging, PSBs, custom logic, sensor software algorithms, software drivers and our architecture consulting. We partner with target customers in our focus markets to architect and design solutions and to integrate and test oursolutions in our customers' products. A solution can be based on our programmable technology, which enables customized designs, low power, flexibility, rapid time-to-market, longer time-in-market and lower total cost of ownership. From a mobile system designer's perspective, a solution's function is known and complete, and consequently can be designed into systems with a minimum amount of effort and risk. We are capable of providing complete solutions because of our investment in developing the low power PSBs and software required to implement specific functions, along with sensor software algorithms optimized for our architecture. Because we are involved with our customers at the definition stage of their products, we are able to architect solutions that typically have more than one PSB, absorbing more functionality traditionally implemented with multiple ASSPs. In cases where our solution has multiple PSBs, significant system performance or battery life improvements can be realized by enabling direct data transfers between the PSBs, or by offloading more processing tasks from the host processor to our solution. In some cases, we develop the PSBs and either software or firmware ourselves and, in other cases, we utilize third parties to develop the mixed signal physical layers, logic and/or software. 
+
+We market our solutions to OEMs and ODMs offering differentiated mobile products, and to processor vendors wishing to expand their served available market, and to sensor manufacturers wishing to expand their ecosystems. Our target mobile markets include: Tablets, Wearables, Smartphones and IoT. Our solutions typically fall into one of three categories: Sensor Processing, Display &#38; Visual Enhancement, or Smart Connectivity. 
+
+&#32; Our new products are also being used in applications in our traditional markets, such as data communications, instrumentation and test and military-aerospace, where customers value the low power consumption, instant-on, IP security, reliability and fast time-to-market of our products. 
+
+The fact that we use our programmable technology to customize these solutions provides two advantages over conventional ASSPs that are based on ASIC technology. Foremost is the fact that our solutions can be tailored for a specific customer's requirements. Once we have developed PSBs, it is easy to combine PSBs with a platform's fixed logic and utilize the remaining programmable logic to provide a unique set of features to a mobile system designer, or to add other functions to the solution, such as Universal Asynchronous Receiver Transmitter, or UARTs, keyboard scanning functions, Serial Peripheral Interface, or SPI ports, which minimizes system size and cost, and InfraRed Data Association, or IRDA. We are able to develop these solutions from a common solution platform, and partner with system designers to implement a range of solutions, or products, that address different geographic and market requirements. By using programmable technology instead of ASIC technology, we reduce the development time, development risk and total cost of ownership and are able to bring solutions to 
+
+&#32;8 
+
+market far more quickly than other custom silicon alternatives. Finally, with respect to our sensor hub products, by incorporating our proprietary sensor hub processing algorithms as part of the solution, we can increase the value of our solution to an individual OEM project, as well as increase the likelihood of being used in multiple projects at the same OEM where consistency of solution is desired. 
+
+By using our silicon platforms, our PSBs, our sensor software algorithms, and our in-depth architecture knowledge, we can deliver energy efficient custom solutions that blend the benefits of traditional ASSPs with the flexibility, product proliferation, differentiation and low total cost of ownership advantages of programmable logic. 
+
+Our product technology consists of five major elements: 
+
+First, our programmable logic allows us to hardware customize our platforms. We have two distinct types of programmable logic. We have an SRAM-reprogrammable logic architecture that utilizes a standard CMOS-logic process to meet the specific needs of the sensor and I/O subsystems of mobile devices: very low standby power, low dynamic power, and in-system reprogrammable technology. We also have our ViaLink programmable logic that uses proprietary and patented technology to meet the specific smart connectivity needs of the RF, Memory and Display subsystems of mobile products: non-volatility and instant-on, very low standby power, low dynamic power, small form factor, single chip solutions that power cycle easily and quickly. Hardware customization gives our devices the ability to execute key actions faster than software implementations, and at lower power. 
+
+Second, our ArcticLink solution platform combines mixed signal physical functions, hard-wired logic and programmable logic on one device. Mixed signal capability supports the trend toward serial connectivity in mobile applications, where designers benefit from lower pin counts, simplified PCB layout, simplified PCB interconnect and reduced signal noise. Adding hard-wired intellectual property enables us to deliver more logic at lower cost and lower power while the programmable logic allows us to provide solutions that can be rapidly customized to differentiate products, add features and reduce system development costs. This combination of mixed signal, hard-wired logic and programmable logic enables us to deliver low cost, small form factor solutions that can be customized for particular customer or market requirements while lowering the total cost of ownership. 
+
+Third, we develop and integrate PSBs which are innovative IP cores, intelligent data processing IP cores, or standard interfaces used in mobile products. We offer: 
+
+&#8226; 
+
+Sensor Processing PSBs &#32;such as FFE, Sensor Manager, or Communications Manager; 
+
+&#8226; 
+
+Display and Visual Enhancement PSBs &#32;such as VEE, DPO or LCD controller interfaces, LVDS and MIPI; 
+
+&#8226; 
+
+Network PSBs &#32;such as high speed Universal Asynchronous Receiver/Transmitters, or UARTs, to enable connectivity to Bluetooth devices; 
+
+&#8226; 
+
+Storage PSBs &#32;such as Secure Digital High Capacity, or SDHC; and 
+
+&#8226; 
+
+Other PSBs &#32;such as I2S, PCM, I2C, IRDA, PWM, and other general purpose interfaces. 
+
+&#160; 
+
+Fourth, we develop and optimize sensor software algorithms for use in conjunction with our sensor processing silicon platforms. We offer the SenseMe&#8482; software algorithm library to detect a multitude of consumer use cases from the sensors included in mobile devices, including: 
+
+&#8226; 
+
+Contexts such as Walking, Running, InCar, or OnBike; 
+
+&#8226; 
+
+Gestures such as unique combinations of Device Rotation, Twist, or Tap; 
+
+&#8226; 
+
+Well-being algorithms such as heart rate monitoring, or sleep analysis; and 
+
+&#8226; 
+
+Unique combinations of the above that can be used to intelligently control the frequency of use and/or power to other devices in a mobile device to minimize power consumption and extend battery life. 
+
+Fifth, our unique customer engagement model enables us to develop complete solutions for target customers who wish to bring differentiated, mobile products to market quickly and cost effectively. We partner with customers to define solutions specific to their requirements, and combine all of the above technologies using one of our solution platforms, PSBs, which are 
+
+&#32;9 
+
+proven logic IP cores, custom FPGA logic, sensor software algorithms, software drivers, firmware and application software. We then work with these customers to integrate and test solutions in their systems. The benefit of providing complete solutions is that we effectively become a virtual extension of our customers' engineering organization. 
+
+Marketing, Sales and Customers 
+
+We are a sub-system integrator that monetizes solutions through silicon sales. We specialize in enhancing the user experience in leading edge mobile devices and products. For our customers, we enable hardware and sensor algorithmic differentiation quickly and cost effectively. For our partners, we expand their reach into new segments and new use cases thereby expanding the served available market for their existing devices. 
+
+Our objective is to enable mobile market leaders to achieve mass customization with innovative solutions. Market leading companies need to deliver new products quickly and cost effectively. We believe our programmable technology allows us to deliver customizable solutions with low power consumption and high IP security, while meeting system performance and BOM cost requirements. We believe our solutions allow OEMs and ODMs to rapidly bring new and differentiated products to market quickly and cost effectively. Our solutions enable energy and cost efficient solutions on design platforms from which a range of products can be introduced. Our sensor software algorithms enable OEMs to bring compelling mobile products to market without needing to develop these algorithms internally or source them from a third party. 
+
+We recognize that our markets require a range of solutions, and we intend to work with market leading companies to combine silicon solution platforms, PSBs, packaging technology, sensor software algorithms, software drivers and firmware, to meet the product proliferation, high bandwidth, time-to-market, time-in-market and form factor requirements of mobile device manufacturers. We expect solutions to range from devices with mixed signal and visual enhancement capability to devices which provide off-load engines from the host processor to save power and extend system battery life. We intend to continue to define and implement compelling solutions for our target customers and partners. 
+
+As a part of our objective to empower mobile market leaders to achieve mass customization with innovative solutions, our business model includes a focused customer strategy in which we target market leading customers, who primarily serve the market for differentiated mobile products. Our belief is that a large majority of our revenue will continue to come from less than 100 customers as we transition to this business model. We have identified and plan to continue to identify the customers we want to serve with our solutions. We are currently in different stages of engagement with a number of these customers. We believe our solutions are resonating with our target customers who value the platform design capability, rapid time-to-market, longer time-in-market and low total cost of ownership available through the use of our solutions. We expect to expand our partner activities with top tier customers to define new silicon solution platforms and PSBs. 
+
+We sell our products through a network of sales managers in North America, Europe and Asia. In addition to our corporate headquarters in Sunnyvale, California, we have international sales operations in China, Japan, Taiwan, South Korea and the United Kingdom. Our sales personnel and independent sales representatives are responsible for sales and application support for a given region, focusing on major strategic accounts. 
+
+Our customers typically order our products through our distributors. Currently, we have two distributors in North America and a network of sixteen distributors throughout Europe and Asia to support our international business. 
+
+We have a military, industrial and mobile product customer base that purchases our mature silicon products. We expect to continue to offer silicon devices to these customers. 
+
+One of our tier one customers, Samsung Electronics Co., Ltd. or ("Samsung") represented 43% &#32;of our total revenue for the year ended January 3, 2016 &#32;and 52% &#32;for the year ended December 28, 2014 , respectively. In addition, a significant portion of our revenue comes from sales to customers located outside of the United States. See Note 13 to the Consolidated Financial Statements for information on our revenue by geography, market segment and key customers. 
+
+In the past, there has not been a predictable seasonal pattern to our business. However, we may experience seasonal patterns in the future due to global economic conditions, the overall volatility of the semiconductor industry and the inherent seasonality of the mobile and consumer markets. 
+
+&#32;10 
+
+Backlog 
+
+We do not believe that backlog as of any particular date is indicative of future results. A majority of our quarterly shipments typically are booked during the quarter. Our sales are made primarily pursuant to standard purchase orders issued by OEM customers and distributors. 
+
+Competition 
+
+A number of companies offer products that compete with one or more of our products and solutions. Our competitors include: (i) suppliers of ASSPs such as Toshiba; (ii) suppliers of mobile and/or application processors; (iii) suppliers of ASICs; (iv) suppliers of mobile-oriented FPGAs such as Lattice; and (v) suppliers of low power microcontrollers such as Atmel, ST Microelectronics and NXP. Our existing competitors for conventional FPGAs include suppliers of low power CPLDs and FPGAs such as Lattice, Xilinx, Intel and MicroSemi. 
+
+ASSPs offer proven functionality which reduces development time, risk and cost, but it is difficult to offer a differentiated product using standard devices, and ASSPs that meet the system design objectives are not always available. Conventional programmable logic may be used to create custom functions that provide product differentiation or make up for deficiencies in available ASSPs. PLDs require more designer input since the designer has to develop and integrate the IP and may have to develop the software to drive the IP. PLDs are more expensive and consume more power than ASSPs or ASICs, but they offer fast time-to-market and are typically reprogrammable. Mobile-oriented FPGAs have been adopted by OEMs in the mobile product market, but offer very little in terms of hard logic blocks that may decrease power consumption or selling price to the OEM. ASICs have a large development cost and risk and a long time to market. As a result, ASICs are generally only used for single designs with very high volumes. MCUs offer extensive software flexibility, but often do not offer sensor software algorithms, the lowest power, nor any hardware flexibility. Our solutions enable custom functions and system designs with fast time-to-market and longer time-in-market since they are customized by us using our solution platforms that contain programmable logic. In addition, because they are complete solutions, they reduce the system development cost and risk. Finally, our solutions are very energy efficient as a result of our programmable logic and how we intelligently architect our PSBs. They are very suitable for OEMs or ODMs offering mobile differentiated products. 
+
+Research and Development 
+
+We are focused on developing our solutions. Our solutions combine our silicon platforms with PSBs, software drivers, sensor algorithm software, and other system software. Our future success will depend to a large extent on our ability to rapidly develop, enhance and introduce our solutions that meet emerging industry standards and satisfy changing customer requirements. We have made and expect to continue to make substantial investments in research and development. Our research and development expenses for the year ended January 3, 2016 , December 28, 2014 &#32;and December 29, 2013 &#32;were $14.1 million &#32;( 75% &#32;of revenue), $12.2 million &#32;( 44% &#32;of revenue), and $8.4 million &#32;( 32% &#32;of revenue) respectively. 
+
+As of the end of 2015 , our research and development staff consisted of 50 &#32;employees located in California and India. 
+
+&#8226; 
+
+Our system software group creates the drivers and other system code required to connect our silicon devices to Application Processors, drivers and microcode to support our sensor hubs. 
+
+&#8226; 
+
+Our sensor algorithm group creates the algorithms used in our sensor processors, as well as for licensing to run on other vendors&#8217; microcontrollers and application processors. 
+
+&#8226; 
+
+Our hardware group develops and verifies Proven System Blocks that can be programmed into our programmable logic and develops reference designs to showcase and verify our solutions. 
+
+&#8226; 
+
+Our EDA software group develops the design libraries, interface routines and place and route software that allow our engineers to use third party design environments to develop designs that are incorporated into our programmable devices, and develops the design tools that support algorithm development for our sensor hubs. 
+
+&#8226; 
+
+Our platform engineering group develops low power programmable devices and analog circuits targeted for mobile or battery powered embedded systems that can be used in standalone solution platforms such as PolarPro 3E, or combined with standard functions in solution platforms such as EOS S3. 
+
+&#32;11 
+
+&#8226; 
+
+Our product engineering group oversees product manufacturing and process development with our third party foundries, and is involved in ongoing process improvements to increase yields and optimize device characteristics. 
+
+&#8226; 
+
+The Office of the CTO investigates future trends and requirements in order to define the next generation of solutions and platforms. 
+
+Manufacturing 
+
+We have close relationships with third-party manufacturers for our wafer fabrication, package assembly, and testing requirements to help ensure stability in the supply of our products and to allow us to focus our internal efforts on product and solution design and sales. 
+
+We currently outsource our wafer manufacturing, primarily to eSilicon Corporation, or eSilicon, GLOBALFOUNDRIES, Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and TowerJazz. We outsource our product packaging primarily to Amkor Technology, Inc.. eSilicon produces our ArcticLink III VX and BX products, using a 65nm CMOS process on twelve-inch wafers at GLOBALFOUNDRIES and packaging at STATS-ChipPAC. GLOBALFOUNDRIES manufactures our PolarPro 3E and ArcticLink 3 S2 Sensor Hub products. TSMC manufactures our pASIC 3, QuickRAM and certain QuickPCI products, using a 0.35 micron complementary metal oxide semiconductor, or CMOS, process. TSMC also manufactures our Eclipse and other mature products, PolarPro III, ArcticLink 3 S1 and Sensor Hub products, using a 65nm CMOS process on twelve-inch wafers. TowerJazz manufactures our ArcticLink, ArcticLink II, PolarPro, and PolarPro II products, using a 0.18 micron CMOS process. We purchase products from eSilicon, GLOBALFOUNDRIES, TSMC, and TowerJazz on a purchase order basis. 
+
+Outsourcing of wafer manufacturing enables us to take advantage of the high volume economies of scale offered by these suppliers. We may establish additional foundry relationships as such arrangements become economically useful or technically necessary. 
+
+Employees 
+
+As of January 3, 2016 , we had a total of 91 &#32;employees worldwide. We believe our future success depends in part on our continued ability to attract, hire and retain qualified personnel. None of our employees are represented by a labor union and we believe our employee relations are favorable. 
+
+Intellectual Property 
+
+We believe that it is important to maintain a large patent portfolio to protect our innovations. We currently hold 51 active U.S. patents and have five pending applications for additional U.S. patents. Our patents contain claims covering various aspects of programmable integrated circuits, programmable interconnect structures and programmable metal devices. In Europe and Asia, we have been granted a total of 11 patents and have two pending applications. Our issued patents expire between 2016 and 2034. 
+
+In most cases, revenue will decline from a decrease in demand for our mature products long before the expiration of pending or issued patents relating to the underlying technology in such products. The decision to cease maintaining a patent is made based on the importance of the patent in our current or future product offerings. 
+
+We have seven trademarks registered with the U.S. Patent and Trademark Office. 
+
+&#32;12 
+
+Executive Officers and Directors 
+
+Our executive officers are appointed by, and serve at the discretion of, our Board of Directors. There are no family relationships among our directors and officers. 
+
+The following table sets forth certain information concerning our current executive officers and directors as of March 11, 2016 : 
+
+&#160; 
+
+Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Andrew J. Pease 
+
+&#160; 
+
+&#160; 
+
+President and Chief Executive Officer; Director 
+
+Maxime Bouvat-Merlin 
+
+&#160; 
+
+&#160; 
+
+Vice President, Worldwide Engineering 
+
+Brian Faith 
+
+&#160; 
+
+&#160; 
+
+Vice President, Worldwide Sales and Marketing 
+
+Rajiv Jain 
+
+&#160; 
+
+&#160; 
+
+Vice President, Worldwide Operations 
+
+Suping (Sue) Cheung 
+
+&#160; 
+
+&#160; 
+
+Principal Accounting Officer and Corporate Controller 
+
+Catherine S. Rousteau 
+
+&#160; 
+
+&#160; 
+
+Vice President, Human Resources 
+
+Timothy Saxe 
+
+&#160; 
+
+&#160; 
+
+Senior Vice President and Chief Technology Officer 
+
+E. Thomas Hart 
+
+&#160; 
+
+&#160; 
+
+Chairman of the Board 
+
+Michael R. Farese 
+
+&#160; 
+
+&#160; 
+
+Director 
+
+Arturo Krueger 
+
+&#160; 
+
+&#160; 
+
+Director 
+
+Daniel A. Rabinovitsj 
+
+&#160; 
+
+&#160; 
+
+Director 
+
+Christine Russell 
+
+&#160; 
+
+&#160; 
+
+Director 
+
+Gary H. Tauss 
+
+&#160; 
+
+&#160; 
+
+Director 
+
+Andrew J. Pease has served as a member of our Board of Directors since April 2011. He joined QuickLogic in November 2006 and has served as our President and Chief Executive Officer since January 2011 and as our President since March 2009. Prior to March 2009, Mr. Pease served as our Vice President of Worldwide Sales from November 2006. From July 2003 to June 2006, Mr. Pease was Senior Vice President of Worldwide Sales at Broadcom Corporation, a global leader in semiconductors for wired and wireless communications. From March 2000 to July 2003, Mr. Pease was Vice President of Sales at Syntricity, Inc., a company providing software and services to better manage semiconductor production yields and improve design-to-production processes. From 1984 to 1996, Mr. Pease served in a number of sales positions at Advanced Micro Devices, or AMD, a global semiconductor manufacturer, where his last assignment was Group Director, Worldwide Headquarters Sales and Operations. Mr. Pease previously held Vice President of Sales positions at Integrated Systems Inc., an embedded software manufacturer (1996-1997), and Vantis Corporation, a programmable logic subsidiary of AMD (1997-1999). Mr. Pease holds an M.S. in computer science from the Naval Postgraduate School in Monterey, California and a B.S. degree from the United States Naval Academy. 
+
+Maxime Bouvat-Merlin &#32;joined QuickLogic in October 2013 and has served as our Vice President of Worldwide Engineering since that time. From June 2012 to September 2013, Mr. Bouvat-Merlin was Director, product management for roadmap strategy and the Wi-Fi technology roadmap at Qualcomm-Atheros. From 2008 to 2012, Mr. Bouvat-Merlin held several senior technical leadership roles at Broadcom Corporation including, Director, technical program management office mobile application processor and Director, engineering power management unit. Prior experiences include multiple technical management roles at Texas Instruments in the OMAP and wireless business units. Mr. Bouvat-Merlin holds an M.S.E.E. degree in Micro-Electronics Sciences from ESINSA, Nice, France and a B.S.E.E. in Physics from the AIX-Marseille University. 
+
+&#160; 
+
+Brian Faith &#160; joined QuickLogic in June 1996 and has served as our Vice President of Worldwide Marketing since November 2008. During the period April 2011 to September 2015, Mr. Faith held the dual title of Vice President of Worldwide Sales &#38; Marketing. From 2001 through 2008, Mr. Faith served in various marketing positions including Vice President of Solutions Marketing and Senior Director of Marketing. Prior to 2001, Mr. Faith was an Engineering Program Manager, served in a Field Application Engineering role and held various Customer Application Engineering roles, including Customer Application Engineering Manager. Mr. Faith has served as the Chairman of the Marketing Committee for the CE-ATA Organization. He holds a B.S.C.E. degree in Computer Engineering from Santa Clara University and also served as Adjunct Lecturer at Santa Clara University for Programmable Logic courses. 
+
+Rajiv Jain &#32;joined &#32; QuickLogic in August 1992. He has served as our Vice President of Worldwide Operations since April 2014. Prior to this role, Mr. Jain served as QuickLogic&#8217;s Senior Director of Operations and Development Engineering from 2011 to 2014, Senior Director of System Solutions and Process Technology from 2009 to 2011, Director of Process 
+
+&#32;13 
+
+Technology from 1997 to 2009, and Senior Process Technologist from 1992 to 1997. Prior to joining QuickLogic, Mr. Jain was a Senior Yield Engineer at National Semiconductor from 1991 to 1992, where he focused on BiCMOS product yield improvements, and at Monolithic Memories from 1985 to 1988, where he focused on BiPolar product yield and engineering wafer sort improvements. Mr. Jain holds a Masters degree in Chemical Engineering from the University of California, Berkeley and a B.S. degree in Chemical Engineering from the University of Illinois, Champaign/Urbana. 
+
+Suping (Sue) Cheung &#32;joined QuickLogic in May 2007. She has served as our Principal Accounting Officer and Corporate Controller since May 2015. Prior to this role, Dr. Cheung served as QuickLogic&#8217;s Corporate Controller from 2008 to 2015 and Assistant Controller from 2007 to 2008. Prior to joining QuickLogic, Dr. Cheung was a Senior Manager of SEC Reporting and Technical Accounting at Dell SonicWALL from 2006 to 2007 and was the Senior Accounting Manager at VeriFone System, Inc. from 2005 to 2006. Prior to 2005, Dr. Cheung held various senior accounting and financial management roles in both publicly traded and privately held companies. Dr. Cheung began her career with PricewaterhouseCoopers (PWC) where she served as an auditor and as a tax consultant. Dr. Cheung holds a Ph.D. in Business Administration and a Masters in Accounting from the Florida International University in Miami. She is a Certified Public Accountant. 
+
+Catherine Simin Rousteau &#32;joined QuickLogic in February 2015 as our Vice President, Human Resources. Prior to joining QuickLogic, Ms. Rousteau was Director, Human Resources at Ericsson Inc., a world leader in communications technology, &#32; from October 2013 to January 2015. From June 2008 to October 2013, Ms. Rousteau served as Director, Human Resources at Qualcomm Incorporated, a global semiconductor company. Beginning in 1991 through 2008, Ms. Rousteau held various management and consulting roles with Texas Instruments Inc., Nokia, Inc., PageNet and GTE where she focused on end-to-end strategic HR planning, HR services delivery and business partnerships. Ms. Rousteau studied Engineering at the University of Texas at Austin. She received a M.S. degree in Organizational Psychology from the University of North Texas and a certificate in Mediation and Conflict Resolution from the University of California, Berkel ey. 
+
+Timothy Saxe (Ph.D) joined QuickLogic in May 2001 and has served as our Sr. Vice President and Chief Technology Officer since November 2008. Prior to this role, Dr. Saxe served as our Chief Technology Officer and Sr. Vice President, Engineering from August 2006 to November 2008 and as Vice President, Software Engineering from May 2001 to August 2006. From November 2000 to February 2001, Dr. Saxe was Vice President of FLASH Engineering at Actel Corporation, a semiconductor manufacturing company. Dr. Saxe joined GateField Corporation, a design verification tools and services company formerly known as Zycad, in June 1983 and was a founder of their semiconductor manufacturing division in 1993. Dr. Saxe became GateField's Chief Executive Officer in February 1999 and served in that capacity until GateField was acquired by Actel in November 2000. Mr. Saxe holds a B.S.E.E. degree from North Carolina State University, and an M.S.E.E. degree and a Ph.D. in electrical engineering from Stanford University. 
+
+Information regarding the backgrounds of our directors is set forth under the caption &#8220;Proposal One, Election of Directors&#8221; in our Proxy Statement, which information is incorporated herein by reference. 
+
+&#32;14 
+

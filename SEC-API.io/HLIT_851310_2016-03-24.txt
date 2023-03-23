@@ -1,0 +1,274 @@
+ Item 1. 
+
+BUSINESS 
+
+We design, manufacture and sell versatile and high performance video infrastructure products and system solutions that enable our customers to efficiently create, prepare and deliver a full range of video and broadband services to consumer devices, including televisions, personal computers, laptops, tablets and smart phones. We operate in two segments, Video and Cable Edge. Our Video business sells video processing and production and playout solutions and services worldwide to cable operators and satellite and telecommunications (telco) Pay-TV service providers, which we refer to collectively as &#8220;service providers,&#8221; and to broadcast and media companies, including streaming new media companies. Our Cable Edge business sells cable edge solutions and related services, primarily to cable operators globally. 
+
+Across our two business segments, we derived approximately 56% &#32;of our revenue from the Americas in 2015. The Europe, Middle East and Africa (EMEA) and Asia Pacific (APAC) regions accounted for the remaining 25% &#32;and 19% &#32;of our 2015 revenue, respectively. 
+
+Harmonic was initially incorporated in California in June 1988, and was reincorporated in Delaware in May 1995. Our principal executive offices are located at 4300 North First Street, San Jose, California 95134. Our telephone number is (408) 542-2500. Our Internet website is http://www.harmonicinc.com. Other than the information expressly set forth in this Annual Report on Form 10-K, the information contained or referred to on our web site is not part of this report. 
+
+Industry Overview 
+
+Demand for Video Services Anytime, Anywhere 
+
+The delivery of television programming and Internet-based services to consumers continues to rapidly converge. Consumers increasingly seek a more personalized and dynamic video experience that can be delivered at any time to any location to a variety of devices, ranging from high-definition (HD) and ultra-high-definition (Ultra HD) televisions and Internet-enabled &#8220;smart&#8221; televisions, to traditional desktop and laptop computers, to mobile platforms such as smart phones and tablet computers. In this multiscreen video environment, video programming and content needs to be transformed into multiple formats, bit rates and resolutions for display on a broad range of devices. 
+
+Consumers have grown accustomed to watching video programming and content at their convenience rather than on fixed timeframes scheduled by service providers. &#8220;Time-shifting&#8221; technologies such as digital video recorders (DVRs) and video-on-demand (VOD) services are enabling this flexibility, and the introduction of network DVRs by some service providers has eliminated the need for local storage, allowing a subscriber to store programming on the service provider&#8217;s servers for future playback at any time, on any device. 
+
+Consumers are also accustomed to video download and streaming services from new media companies such as Netflix, Hulu, Google (YouTube), Amazon (Amazon Instant Video) and Apple (iTunes). These and other similar services aggregate third-party and original content and stream video &#8220;over-the-top&#8221; (OTT) to any Internet-connected device utilizing Internet service providers&#8217; networks at no incremental infrastructure cost to the consumer. In response, a number of service providers and broadcast and media companies are now providing more of their own OTT streaming video services. 
+
+Demand for High Quality Video 
+
+Consumer demand for high quality video anytime, anywhere and on any device requires ever-increasing bandwidth capacity in service providers&#8217; networks, as well as technology that maximizes network bandwidth efficiency. With the advent of Ultra HD televisions and OTT services increasingly being rendered in &#8220;4K&#8221; high resolution and consuming approximately four times the bandwidth of traditional MPEG-4/AVC (H.264) HD channels, we believe next generation compression technologies, such as High Efficiency Video Compression (HEVC), will continue to steadily gain industry traction. HEVC offers approximately 50% improved bandwidth efficiency and improved picture quality when compared to the MPEG-4 compression standard more commonly used to transport video signals today. 
+
+Service Provider Trends 
+
+Service providers are competing intensely to offer higher quality video signals in HD, including evolving initiatives to deliver video in 4K Ultra HD resolution. Also, in response to the growing success of new media OTT streaming companies, in addition to the time-shifting technologies described above, service providers are broadly expanding their video streaming offerings to customers, for viewing on any device. Increasingly, these services are also featuring content in the bandwidth 
+
+intensive, high resolution 4K standard in order to provide consumers with higher value, differentiated video services. Service providers are developing and expanding their content delivery and Internet Protocol (IP) networks, and increasing the capacity and efficiency of their networks with investments in various delivery infrastructure technologies to, among other things, maximize video quality, minimize bandwidth utilization and enable new network capacity. We believe that the delivery of video over IP will continue to change traditional video viewing habits and distribution methods and may alter the traditional advertising and subscription business models of major service providers. 
+
+Service providers continue to consolidate to achieve greater economies of scale and subscriber concentration, and to compete more effectively, especially against the growing disruptive threat of OTT offerings. In addition, service providers continue to enhance and differentiate their offerings by creating and delivering their own branded content, either through organic in-house development of new content or through acquisitions of existing content brands. For example, Comcast, a cable operator, owns NBC Universal, a broadcast and media company, and Sky Broadcasting, a European satellite service provider, has developed its own channels and content. 
+
+Content Provider Trends 
+
+Content owners and media companies in the U.S. and internationally continue to launch OTT streaming offerings to reach consumers directly, with OTT streaming of live programming becoming increasingly relevant. These offerings may be in partnership or competition with service providers. 
+
+As service providers deliver more video services to more devices and platforms, they are increasingly requiring content providers to supply content that is properly formatted for each device. As the number and type of devices continue to grow, the lack of consistent video standards means content providers must reformat and package their content in dozens of different formats to enable their content to be viewable across different devices. As a result, some broadcast and media companies are beginning to outsource playout functionality to service providers. 
+
+Market Trends 
+
+Cable Market 
+
+To address increasing competition, reduce subscriber losses, increase average revenue per user (ARPU) and differentiate themselves, cable operators continue to focus on a number of initiatives to improve their product offerings: 
+
+&#8226; 
+
+Bundled digital video, voice and high speed data services; 
+
+&#8226; 
+
+Expansion of VOD libraries and on-demand service offerings; 
+
+&#8226; 
+
+Refresh of the user experience with upgraded home set-top box solutions, network DVRs and content navigation tools; 
+
+&#8226; 
+
+Video delivery over IP to broadband enabled consumer devices; 
+
+&#8226; 
+
+Capacity enhancement of high-speed data services; 
+
+&#8226; 
+
+Expansion of network capacity to support the growing number of available services, including HDTV in foreign markets; and 
+
+&#8226; 
+
+Collaboration with content owners on offering access to on-line content. 
+
+To support this rapid expansion of service offerings, cable operators are investing in video processing solutions that can receive, process, and distribute content from a variety of sources to a broad array of consumer devices, video storage equipment, and servers to ingest, store and intelligently distribute content, complemented by the latest cable edge solutions to significantly scale broadband network capacity and speed. 
+
+Satellite and Telco Markets 
+
+Over 100 satellite operators around the world have established digital television services that serve tens of millions of subscribers. These services are capable of providing tens of thousands of channels, including an increasing number of HD channels and the introduction of Ultra HD channels. These linear services will likely continue to expand as operators offer premium packages targeted towards specific consumer groups, with the goal of gaining loyalty and expanding ARPU. In parallel, satellite operators have begun offering the same linear services and VOD options to their customer base via broadband-connected consumer devices such as smart phones, tablets and their own set-top boxes. These services are deployed in conjunction with content delivery networks (CDNs) and are accessible through partnerships, acquisitions or internal 
+
+investments. To support these new services, satellite operators are upgrading their video infrastructure in order to attain greater bandwidth efficiency and operational optimization in an increasingly complex environment. 
+
+Internationally, and specifically in emerging markets, satellite operators continue to enjoy substantial growth in their customer base, driven mainly by rapid economic development, which has resulted in a significantly growing middle class with disposable income. As this growth continues, it is expected that these satellite operators will expand their product offerings to leverage the growing customer base and increase overall revenue. 
+
+Over the past several years, telcos around the world have added video services as a competitive response to cable and satellite operators and as a potential source of revenue growth. As their businesses have grown and matured, they have also expanded their offerings in an effort to successfully compete in the video arena, including high quality HD content, larger VOD libraries, time-shifting television services, bundled voice, data and video packages, multiscreen video offerings to a broad range of devices, and branded mobile specific services. The last of these offerings, mobile wireless services, is a key competitive advantage for telcos today, as it provides a clear differentiator in anytime, anywhere service offerings for consumers looking to view content on the move. In developed markets, telcos are also making significant infrastructure investments, including VDSL2 Vectoring with plans to integrate this technology with the new G.Fast DSL standard, along with ongoing deployments of fiber-to-the-premises (FTTP) to enable very high-speed broadband connections for residences and businesses. 
+
+Broadcast and Media Markets 
+
+Network broadcasters, programmers and content owners transmit live programming of news and sports to their studios for subsequent broadcast, and deliver the same programming and content to service providers for distribution to their subscribers. These broadcasters generally produce their own news and sports highlight content, along with hundreds of channels of network programming that is played-to-air under strict reliability requirements. 
+
+In the terrestrial broadcasting market, operators in many countries in EMEA, APAC and South America are now required by regulation to convert from analog to digital transmission in order to free up broadcast spectrum. These broadcasters are faced with requirements of converting analog signals to digital signals prior to transmission over the air, as well as to distribute these new signals across a new terrestrial network. The conversion to digital transmission provides the opportunity to deliver new channels; HD, Ultra HD and 4K services; premium content and interactive services. 
+
+Media companies, in order to effectively address consumer demands, are expanding their offerings to support a wide range of live and linear content, and to make content available in higher quality video formats and on-demand. These trends are increasing demand for media servers and video optimized storage equipped to support higher resolution formats, and accelerating demand for functionally collapsed playout systems with integrated media orchestration software. In addition, distribution networks responsible for moving video content to service providers are being upgraded to handle larger volumes of digital content in more efficient formats and with greater flexibility. 
+
+New Media and OTT Market 
+
+OTT video streaming already accounts for well over half of downstream Internet traffic in North America, and new media OTT companies are aggressively pushing into international markets. These companies will continue to require high quality video processing solutions in order to process and distribute large amounts of content from a wide variety of sources to a broad array of consumer devices, and to optimize adaptive bitrate video streaming quality and bandwidth utilization. Also, some OTT companies are increasingly developing and introducing original content, and other new media companies are also in the process of developing program channels similar to channels currently available from service providers. We believe these developments may result in increased investments by OTT companies in video production and playout solutions. 
+
+Emerging Markets 
+
+With a rapidly growing middle class across emerging markets, we believe the Pay-TV business is poised for rapid growth over the coming decade in the Asia Pacific region, South Asia, the Middle East, Africa and Central and South America. We currently derive a meaningful portion of our revenue from countries in emerging markets. Many consumers who are entering the middle class are now able to afford a monthly video service to gain access to their favorite programs and movies. Considering the early stages of economic development in many of these regions, together with very large populations, we believe some of the leading video service providers serving emerging markets will experience high subscriber growth rates and may become worldwide industry leaders. In addition, since the video services currently available to consumers in these markets are generally more basic when compared to services available in more developed markets, we believe subscribers will demand increasingly sophisticated video services over time as consumer consumption trends in these markets track those in more developed markets. As a result, we believe that the infrastructure and technology investments of these service providers and new market entrants are likely to grow significantly for the foreseeable future. 
+
+Further, media companies addressing emerging markets are aggressively investing in the creation of new content, particularly content that is localized and responsive to consumer demands, with the goal of creating strong brands and a growing, loyal customer base. We believe that this growth in content creation will require these media companies to significantly increase their investments in video storage, processing and related technologies. 
+
+Our Video Business 
+
+Overview 
+
+We offer a range of products and solutions, as well as next-generation software-based media processing platforms that address the demand and market trends shaping our industry. 
+
+In light of more complicated workflows inherent in managing the delivery of greater quantities of content across multiple formats to a growing population of set-top-boxes and consumer electronic devices, we believe the industry is moving toward unified video processing systems. These systems incorporate historically discrete video processing functions in software, enabling significant cost efficiencies across the entire video workplace. Additionally, we believe there is gaining industry momentum towards network function virtualization, whereby core video chain functions are being re-engineered and collapsed to run on the latest Intel processors in order to leverage high-performance and scalable appliance-based hardware, or as software-only virtual instances designed to run on industry standard servers in data center environments. 
+
+From production studios to broadcast newsrooms, consumer demand for higher resolution video programming and more viewing options is escalating network touch points and server capacity needed to administer channel production and playout processes, thereby elevating costs and space restrictions. As more content is filmed in 4K and played-to-air on newly created channels supporting higher resolution HD and Ultra HD formats, these constraints are likely to be exacerbated and we believe these issues will create increased demand for functionally-collapsed playout systems with integrated media orchestration software. This type of software provides an automated control system that streamlines playout processes, improves video quality, and reduces server overhead by combining historically discrete video chain functions into a unified playout system where content can be ingested, formatted, stored and played-to-air. 
+
+We believe functionally collapsed video playout infrastructures with media orchestration systems, along with video optimized storage solutions, will enable content providers to produce more channels in higher resolution formats faster and more cost-effectively, and provide content in the widest possible range of formats and at the highest possible video quality. 
+
+As a result, service providers and broadcast and media companies are likely to make significant investments in these newly architected systems in the foreseeable future. 
+
+Video Products 
+
+Video Processing Solutions 
+
+Our video processing solutions, which include network management software and application software and hardware products, provide our customers with the ability to acquire a variety of signals from different sources and in different protocols in order to deliver a variety of real-time and stored content to their subscribers for viewing on a broad range of devices. 
+
+Broadcast and distribution encoders. Our Electra and Ion high performance encoders compress video, audio and data channels to low bit rates, while maintaining high video quality. Our encoders are available in multiple formats, including standard, HD and Ultra HD formats, using various codecs including the MPEG-2, MPEG-4, HEVC and AVS+ video compression standards, for both televisions and new multiscreen formats targeted at smart phones, tablets and broadband-connected televisions. Our Electra XVM software product is a completely virtualized media processor designed to run in virtual machine environments on blade servers, and is our first product based on our VOS platform, which is the next-generation software platform we are developing to unify the entire media processing chain, from ingest to delivery. Electra XVM supports a broad range of compression standards over constant bit rate (CBR), variable bit rate (VBR) and adaptive bit rate (ABR) encoding schemes, and includes integrated video graphics and branding as well as playout capabilities such as channel origination and linear ad insertion. Our encoding products are primarily used in real-time, linear video applications and to a lesser extent for encoding video content and storage for later delivery as VOD and time-shifted services. 
+
+Contribution encoders. Our Ellipse encoders provide broadcasters with video compression solutions for real-time news gathering, live sports coverage and other remote events, and enable our customers to deliver these feeds to their studios for further processing. Our latest models encode full-resolution 1080p60 video signals in AVC 4:2:2 10-bit, enabling the transmission of very high quality video, and include an integrated modulator which eliminates the need for a separate satellite uplink device. Broadcasters and other operators also use our contribution encoders for delivery of their programming to their customers, which are typically cable, telco and satellite operators. 
+
+Multiscreen transcoders and stream processing. Our ProStream real-time stream processor and transcoder products enable our customers to transcode standard definition (SD) and HD MPEG-2 and MPEG-4 video content for both broadcast and OTT mobile and web applications simultaneously. Our ProStream products also feature high-density, multiple SD or HD inputs and multiscreen output profiles; multiplexing; advanced remultiplexing, scrambling and descrambling; linear ad splicing into video streams; and integrated statmux pools. 
+
+Content preparation and delivery for multiscreen applications. Our ProMedia products enable high-quality broadcast, VOD and OTT services on any device, including live streaming, VOD, catch-up TV, start-over TV, and network DVR services through hypertext transfer protocol (HTTP) streaming. Our ProMedia software products enable file-based and real-time transcoding, stream packaging, and multiscreen workflow management. Our ProMedia Origin HTTP streaming video server product ingests transcoded, segmented and encrypted output from our ProMedia software products and enables high-volume live adaptive bitrate streaming and the delivery of time-shifted services. 
+
+Decoders and descramblers. Our ProView integrated receivers-decoder (IRD) products allow service providers to acquire content delivered via satellite, IP or terrestrial networks for distribution to their subscribers. These products are also used to decode signals backhauled from live news and sporting events in contribution applications and, more recently, are used by content owners looking to distribute their content in a controlled manner to a large base of video service providers. 
+
+Management and control software. Our NMX Digital Service Manager provides service providers with the ability to control and visually monitor their digital video infrastructure at an aggregate level, rather than as just discrete pieces of hardware, and is designed to be integrated into larger network management systems through the use of a simple network management protocol (SNMP). In addition, our Iris advanced video analytics software suite works in tandem with NMX to collect data from our Electra and Ion encoder products in order to provide video quality, global channel availability and source profiling measurements for hundreds of compressed channels. Our DMS video distribution management system provides broadcasters and content providers with software control tools over large numbers of our ProView IRD products, enabling flexible device or group addressability, entitlements and authorization management and over-the-air (OTA) in-band control of CDN elements. 
+
+Video Production Platforms and Playout Solutions 
+
+Our video production platforms consist of video-optimized storage and content management applications, which provide broadcast and media companies with file-based infrastructure to support video content production activities, such as editing, post-production and finishing. Our video playout solutions, including media orchestration software, are based on scalable video servers used by broadcast and media companies to create and playout television channels. 
+
+Video servers. Our Spectrum family of video server and storage products are used by broadcast and media companies to create play-to-air television channels. Our customers typically use these video server products to record incoming content from either live feeds or from tapes, encoding that content in real-time into standard media files that are then stored in the server&#8217;s file system until the content is needed for playback as part of a scheduled playlist. Clips stored in the server are decoded in real-time and played-to-air according to a playout schedule in a frame-accurate, back-to-back manner to create a seamless television channel. Our servers support both SD and HD programming, with our latest software-upgradeable Spectrum X product able to support UltraHD programming, as well as many different media formats. Our new Polaris media orchestration software solutions work with our Spectrum products and provide our customers with playout management and control tools for channel-in-a-box and integrated channel playout applications. 
+
+Video-optimized storage. Our MediaGrid active storage system is a scale-out, network-attached storage system with a built-in media file system that has been optimized for typical read and write file operations found in media production workflows. Architected as a clustered storage system with a distributed file system, MediaGrid provides highly scalable storage capacity and access bandwidth to support demanding media production applications, such as video editing, content transformation and media library management. In addition, MediaGrid systems are increasingly being employed for VOD, time-shifted television services and OTT adaptive bitrate streaming. 
+
+Media Applications. Complementing our server and storage platforms, our Media Application Server (MAS), combined with a suite of integrated applications, provides a basic level of integrated media management and workflow control over content stored across our systems. For more complex media management, our underlying application programming interface, called Media Services Framework, allow both customers and other application developers to build advanced media management applications that can automate many media processing and movement tasks, collect and organize content metadata, and provide search and review functionality. 
+
+Our Cable Edge Business 
+
+Overview 
+
+We believe the market and industry trends highlighted above are similarly creating opportunities for our Cable Edge business. 
+
+As consumption of VOD services accelerates, service provider demand for video edge QAMs increases. In addition, with heightened competition from non-cable service providers such as AT&#38;T, Verizon, Google Fiber and local municipalities to deliver gigabit data rates, cable operators are aggressively driving enabling broadband access technologies, including the Converged Cable Access Platform (CCAP) architecture. We also believe the cable industry will move rapidly to DOCSIS 3.1, which enables increased bandwidth data transfer over existing broadband infrastructure as we begin migrating to distributed solutions. 
+
+In the last few years, the cable industry has begun to develop and promulgate the CCAP architecture for next-generation cable edge solutions, which combines edge QAM and CMTS functions in a single system in order to combine resources for video and data delivery. We believe centralized CCAP-based systems will significantly reduce cable headend costs and increase operational efficiency, and that the deployment of these systems will be an important step in cable operators&#8217; transition to all-IP networks. 
+
+In addition to centralized CCAP systems, we believe there is growing interest in complementary distributed remote PHY solutions, particularly in competitive gigabit service markets where cable operators are competing with FTTH services and are extending fiber access networks deeper into their distribution networks. This distributed access architecture alleviates power and space requirements of centralized systems at headend sites, and we believe will enable service providers to efficiently scale to support data and video growth. 
+
+Cable Edge Products 
+
+Edge QAM products . Our Narrowcast Services Gateway (NSG) products are fully integrated edge gateway products that integrate routing, multiplexing, scrambling and modulation into a single package for the delivery of narrowcast services to subscribers over cable networks. An NSG is usually supplied with single Gigabit Ethernet inputs or multiple Gigabit Ethernet inputs, allowing the cable operator to use bandwidth efficiently by delivering IP signals from the headend to the edge of the network for subsequent modulation onto a HFC network. Originally developed for VOD applications, the NSG has evolved to support multiple applications, including switched digital video and modular CMTS applications, as well as large-scale VOD deployments. 
+
+Centralized CCAP Solution. &#32;Our NSG Pro product is based on the current CCAP architecture and provides high-density, universal edge QAM capabilities with easy upgradeability to enable future CMTS capabilities. The CMTS feature, which is currently under development and testing by leading MSOs, would make our NSG Pro system fully compliant with current CCAP architecture requirements. 
+
+Distributed CCAP Solution . Our NSG Exo product is a cost-effective distributed CCAP device which enables the deployment of a Distributed Access Architecture (DAA) utilizing coax networks. The NSG Exo allows service providers to move their radio frequency (RF) delivery requirements out of the headend or hub and deeper into the distribution network, simplifying network design and operation to resolve power and space constraints, provide service flexibility, and lower capital and operational expenses. 
+
+We believe CCAP-based systems may, over time, replace and make obsolete current cable edge QAM products, as well as current CMTS products, since fully compliant CCAP-based solutions will combine the functionality of these products into one system. Since we historically have not addressed the CMTS market, we believe the NSG Pro and any other CCAP-based products we develop will have an opportunity to be sold into a significantly larger and growing market created by the CCAP standard. 
+
+Technical Support and Professional Services 
+
+We provide maintenance and support services to most of our customers under service level agreements that are generally renewed on an annual basis. We also provide consulting, implementation and integration services to our customers worldwide. We draw upon our expertise in broadcast television, communications networking and compression technology to design, integrate and install complete solutions for our customers, including integration with third-party products and services. We offer a broad range of services, including program management, technical design and planning, building and site preparation, integration and equipment installation, end-to-end system testing and comprehensive training. 
+
+Customers 
+
+We sell our products to a variety of cable, satellite and telco, and broadcast and media companies. Set forth below is a representative list of our significant end user and integrator/reseller customers, based, in part, on revenue during 2015 . 
+
+United States 
+
+International 
+
+CenturyLink 
+
+Groupe Canal + SA 
+
+Charter Communications 
+
+Arqiva 
+
+Comcast Cable 
+
+Capella 
+
+Cox Communications 
+
+Dimension Data Netherlands 
+
+DigitalGlue 
+
+Huawei Technologies 
+
+DirecTV 
+
+Kabel Deutschland Vertrieb und Service 
+
+EchoStar Holding 
+
+OneBand Systems 
+
+Heartland Video 
+
+OOO Starline 
+
+Time Warner Cable 
+
+Sky Perfect JSAT 
+
+Turner Broadcasting 
+
+Virgin Media 
+
+Sales to our ten largest customers in 2015 , 2014 &#32;and 2013 &#32;accounted for approximately 32% , 35% &#32;and 31% &#32;of our net revenue, respectively. Although we continue to seek to broaden our customer base by penetrating new markets and further expanding internationally, we expect to see continuing industry consolidation and customer concentration. 
+
+During 2015 , 2014 &#32;and 2013 , revenue from Comcast accounted for 12% , 16% &#32;and 12% &#32;of our net revenue, respectively. The loss of Comcast or any other significant customer, any material reduction in orders by Comcast or any significant customer, or our failure to qualify our new products with a significant customer could materially and adversely affect our operating results, financial condition and cash flows. In addition, we are involved in most quarters in one or more relatively large individual transactions. A decrease in the number of relatively larger individual transactions in which we are involved in any quarter could adversely affect our operating results for that quarter. 
+
+Sales and Marketing 
+
+In the U.S. and internationally, we sell our products through our own direct sales force, as well as through independent resellers and systems integrators. Our direct sales team is organized geographically and by major customers and markets to support customer requirements. Our principal sales offices outside of the U.S. are located in Europe and Asia, and we have a support center in Switzerland to support our international customers and operations. Our international resellers are generally responsible for importing our products and providing certain installation, technical support and other services to customers in their territory after receiving training from us. 
+
+Our direct sales force and resellers are supported by a highly trained technical staff, which includes application engineers who work closely with our customers to develop technical proposals and design systems to optimize system performance and economic benefits for our customers. Our technical support teams provide a customized set of services, as required, for ongoing maintenance, support-on-demand and training for our customers and resellers, both in our facilities and on-site. 
+
+Our product management organization develops strategies for product lines and markets and, in conjunction with our sales force, identifies the evolving technical and application needs of customers so that our product development resources can be most effectively and efficiently deployed to meet anticipated product requirements. Our product management organization is also responsible for setting price levels, demand forecasting and general support of the sales force, particularly at major accounts. 
+
+Our corporate marketing organization is responsible for building awareness of the Harmonic brand in our markets and driving engagement with our strategies, solutions and products. The group develops all of our corporate messaging and manages all customer and industry communication mechanisms, including advertising, our Web presence, speakers bureau, events and trade shows. The marketing organization also develops our corporate video assets, including 4K/Ultra HD content for displays and demos, and manages product launches and demand generation in conjunction with our sales force. We have many programs in place to heighten industry awareness of our products, including participation in technical conferences, publication of articles in industry journals and exhibitions at trade shows. 
+
+Manufacturing and Suppliers 
+
+We rely on third party contract manufacturers to assemble our products and the subassemblies and modules for our products. In 2003, we entered into an agreement with Plexus Services Corp. to act as our primary contract manufacturer. 
+
+Plexus currently provides us with a substantial majority, by dollar amount, of the products we purchase from our contract manufacturers. This agreement has automatic annual renewals, unless prior notice for nonrenewal is given, and has been automatically renewed until October 2016. We do not generally maintain long-term agreements with any of our contract manufacturers. 
+
+Many components, subassemblies and modules necessary for the manufacture or integration of our products are obtained from a sole supplier or a limited group of suppliers. While we expend considerable efforts to qualify additional component sources, consolidation of suppliers in the industry and the small number of viable alternatives have limited the results of these efforts. We do not generally maintain long-term agreements with any of our suppliers. 
+
+Intellectual Property 
+
+As of December 31, 2015 , we held 59 issued U.S. patents and 35 issued foreign patents and had 30 patent applications pending. Although we attempt to protect our intellectual property rights through patents, trademarks, copyrights, licensing arrangements, maintaining certain technology as trade secrets and other measures, we cannot assure you that any patent, trademark, copyright or other intellectual property rights owned by us will not be invalidated, circumvented or challenged, that such intellectual property rights will provide competitive advantages to us, or that any of our pending or future patent applications will be issued with the claims, or the scope of the claims, sought by us, if at all. We cannot assure you that others will not develop technologies that are similar or superior to our technology, duplicate our technology or design around the patents that we own. In addition, effective patent, copyright and trade secret protection may be unavailable or limited in which we do business or may do business in the future. 
+
+We generally enter into confidentiality or license agreements with our employees, consultants, vendors and customers as needed, and generally limit access to, and distribution of, our proprietary information. However, no assurances can be given that these actions will prevent misappropriation of our technology. In addition, if necessary, we are prepared to take legal action, in the future, to enforce our patents and other intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or invalidity. Any such litigation could result in substantial costs and diversion of resources, including management time, and could negatively affect our business, operating results, financial position and cash flows. 
+
+In order to successfully develop and market our products, we may be required to enter into technology development or licensing agreements with third parties. Although many companies are often willing to enter into such technology development or licensing agreements, we cannot assure you that such agreements can be negotiated on reasonable terms or at all. The failure to enter into technology development or licensing agreements, when necessary, could limit our ability to develop and market new products and could harm our business. 
+
+Backlog 
+
+We schedule production of our products and solutions based upon our backlog, open contracts, informal commitments from customers and sales projections. Our backlog consists of firm purchase orders by customers for delivery within the next 12 months, as well as deferred revenue that is expected to be recognized within the succeeding 12 months. Our backlog, including deferred revenue at December 31, 2015 &#32;was approximately $120.1 million . Delivery schedules on such orders may be deferred or canceled for a number of reasons, including reductions in capital spending by our customers or changes in specific customer requirements. In addition, due to annual capital spending budget cycles at many of our customers, the amount of our backlog at any given time is not necessarily indicative of actual revenues for any succeeding period. 
+
+Competition 
+
+The markets for video infrastructure systems are extremely competitive and have been characterized by rapid technological change and declining average selling prices. The principal competitive factors in these markets include product performance, reliability, price, breadth of product offering, sales and distribution capabilities, technical support and service, and relationships with end customers. We believe that we compete favorably in each of these categories. 
+
+Our competitors in our Video business segment include vertically integrated system suppliers, such as Arris Group, Cisco Systems and Ericsson, and, in certain product lines, other companies including ATEME and Sumavision Technologies. With respect to production and playout products, competitors include Evertz Microsystems, EVS, Grass Valley (a Belden brand) and Imagine Communications. Our competitors in our Cable Edge business include Arris, Casa Systems and Cisco Systems. 
+
+Consolidation in the industry has led to the acquisition of a number of our historic competitors over the last several years. For example, Motorola Home, BigBand Networks and C-Cor were acquired by Arris; NDS and Scientific Atlanta were 
+
+acquired by Cisco Systems; Envivio and Tandberg Television were acquired by Ericsson; Elemental Technologies was acquired by Amazon; and Miranda Technologies and Grass Valley were acquired by Belden Inc. Consequently, some of our principal competitors are substantially larger and have greater financial, technical, marketing and other resources than we have. 
+
+Research and Development 
+
+We have historically devoted a significant amount of our resources to research and development. Research and development expenses in 2015 , 2014 &#32;and 2013 &#32;were approximately $87.5 million , $93.1 million &#32;and $99.9 million , respectively. Research and development expenses as a percent of revenue in 2015 , 2014 &#32;and 2013 &#32;were approximately 23.2% , 21.5% &#32;and 21.6% , respectively. Our internal research and development activities are conducted primarily in the United States (California, Oregon, New York and New Jersey), Israel and Hong Kong. In addition, a portion of our research and development is conducted through third party partners with engineering resources in Ukraine and in India. 
+
+Our research and development program is primarily focused on developing new products and systems, and adding new features and other improvements to existing products and systems. Our development strategy is to identify features, products and systems, in both software and hardware solutions, that are, or are expected to be, needed by our customers. Our current research and development efforts are focused heavily on next-generation video processing solutions, including enhanced video compression, enhanced video quality, and multiscreen solutions. We also devote significant resources to production and playout and distribution solutions. Other research and development efforts are devoted to cable edge solutions for both video and data, particularly the development of products that will be fully compliant with the requirements of the CCAP architecture. 
+
+Our success in designing, developing, manufacturing and selling new or enhanced products will depend on a variety of factors, including the identification of market demand for new products, product selection, timely product design and development, product performance, effective manufacturing and assembly processes and sales and marketing. Because of the complexity inherent in such research and development efforts, we cannot assure you that we will successfully develop new products, or that new products developed by us will achieve market acceptance. Our failure to successfully develop and introduce new products would materially and adversely affect our business, operating results, financial condition and cash flows. 
+
+Employees 
+
+As of December 31, 2015 , we employed a total of 989 people, including 364 in research and development, 184 in sales, 217 in service and support, 54 in operations, 68 in marketing (corporate and product), and 102 in a general and administrative capacity. Of those employees, 507 were located in the U.S. and 482 employees were located in foreign countries in South America, the Middle East, Europe, Asia and Canada. We also employ a number of temporary employees and consultants on a contract basis. None of our employees are represented by a labor union with respect to his or her employment with us. We have not experienced any work stoppages, and we consider our relations with our employees to be good. 
+

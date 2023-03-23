@@ -1,0 +1,294 @@
+ Item 1. Business 
+
+&#160;
+
+Mobiquity Technologies, Inc., incorporated under the laws of the State of New York, owns and operates a national location-based mobile advertising network and have developed a consumer-focused proximity network which we believe is unlike any other in the United States. Our integrated suite of proprietary location based mobile advertising technologies allows clients to execute more personalized and contextually relevant experiences, driving brand awareness and incremental revenue in real-time.
+
+&#160;
+
+Leveraging our agreements with Simon Property Group, Inc. (which we refer to herein as Simon or Simon Property), and Macerich Partnership, L.P. (which we refer to as &#8220;Macerich&#8221;), the number one and number three mall operators, respectively, in the U.S. in terms of number of Class A properties, we have installed our location-based mobile advertising solutions in the common areas of approximately 295 retail destinations across the U.S. to create &#8220;smart malls&#8221; using Bluetooth-enabled iBeacon compatible technology. As part of our plan to expand our mall footprint into the common areas of other malls, we recently have also added 57 malls including 30 malls operating by Rouse Properties TRS, Inc. (&#8220;Rouse&#8221;) and 27 malls operated by Preit Services, LLC, which we will refer to as &#8220;PREIT.&#8221; In December 2015, we entered into an agreement with GGPLP REIT Services, LLC (which we refer to as &#8220;GGP&#8221;), the second largest mall operator, to install our Mobi-Beacons in approximately 120 malls scheduled for 2Q 2016. We plan to further expand our mall footprint into the common areas of other malls and outside of malls with additional synergistic venues that will allow for cross marketing opportunities, including venues such as stadiums, arenas, additional college campuses, airports and retail chains. For example, we have entered into an agreement with the New York State University at Stony Brook to deploy a mobile advertising network in their new arena. This type of installation will enable fan engagement, cross-marketing opportunities, sponsorship activation and create interactive event experiences. This is our first installation in the university market.
+
+&#160;
+
+We operate through our wholly-owned subsidiaries, Ace Marketing &#38; Promotions, Inc. (which we refer to as &#8220;Ace Marketing&#8221;) and Mobiquity Networks, Inc. Ace Marketing is our legacy marketing and promotions business which provides integrated marketing services to our commercial customers. While Ace Marketing currently represents substantially all of our revenue, we anticipate that activity from Ace Marketing will represent a diminishing portion of corporate revenue as our attention is now principally focused on developing and executing on opportunities in our Mobiquity Networks business.
+
+&#160;
+
+We believe that our Mobiquity Networks business represents our greatest growth opportunity going forward. We believe this business unit is well positioned as a result of our early mover status, exclusive agreements and novel technology integration to address a rapidly growing segment of the digital advertising market &#8211; location based mobile marketing. We expect that Mobiquity Networks will generate the majority of our revenue by the end of 2016 through our MOBI-Beacons Solutions, although no assurances can be given in this regard.
+
+&#160;
+
+Mobiquity Hardware Solutions 
+
+&#160;
+
+Our current Mobiquity hardware solution is deployed in retail locations (and in the future may be deployed at other venues such as stadiums, arenas, college campuses and airports) to create the Mobiquity network. Our hardware solutions is identified by us as, Mobi-Beacons.
+
+&#160;
+
+Mobi-Beacons, which utilize Bluetooth LE 4.0 technology, can dramatically enhance the in-app experience through the use of hyper accurate location event data. Our Mobi-Beacons have been developed to meet or exceed all iBeacon and Eddystone standards. Our Mobi-Beacons have been deployed throughout our mall network system. Previously, the Company utilized Mobi-Units which utilized both Bluetooth and WiFi to communicate with all mobile devices. These devices are no longer in use.
+
+&#160;
+
+By embedding our SDK (Software Development Kit) into an app, we give an advertiser access to the beacons in the network as well as the ability to run targeted campaigns triggered at precise locations and times. Once they receive the data analytics from our dashboard, they&#8217;re armed with additional insights about their Shoppers and use the information for even more highly targeted campaigns on our own Mobile Ad Network but also when they run other campaigns through different channels like Online and email.
+
+&#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+Our Single Integrated Platform 
+
+&#160;
+
+Our Mobiquity Platform allows for the use of multiple sensory devices such as Bluetooth, Wi-Fi, Near Field Communication and Quick Response Codes in order to engage with nearly 100% of mobile device types. The platform also allows for plug-in solutions to be added to increase our service offerings and add complementary revenue streams. For example, in addition to our advertising network, numerous plug-ins can be added for services such as loyalty programs, indoor mapping and mobile payments. We have developed an online software platform that integrates the hardware and facilitates campaign management and reporting across the installed network. Our clients can use our network to deploy mobile ad campaigns simultaneously across multiple delivery methods, paying a fee per campaign delivered. Alternatively, clients can subscribe to our Location Signal Service to access real-time contextual beacon signals to drive localized in-app user activity. Management believes that no other competitive solution offers a platform that integrates the depth and range of mobile advertising tools combined with a nationally deployed hardware network.
+
+&#160;
+
+A diagram of our basic network architecture is as follows:
+
+The following graphic depicts a typical mall-shopper engagement from our customers&#8217; viewpoint:
+
+&#160;
+
+&#160;
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160;
+
+Our Mobiquity Networks business monetizes its network by providing clients with access to our exclusive common-area beacon signals. By incorporating our software development kit (or SDK), the client app (or campaign-specific third party app) can access the beacon signals provided by our network, and leverage those signals plus the associated contextual information provided by our platform to trigger location-based campaign messaging. We plan to generate revenue several ways including by collecting a fee based on the delivery of our customer advertising campaigns, and licensing our location signals.
+
+&#160;
+
+In order to expand our customer reach and potential app engagement, we have entered into agreements with numerous third party app publishers, including Moviefone, Snip-Snap The Coupons App and GeoOpons among others. In November 2014, we entered into a partnership agreement with Mobile Roadie, one of the largest mobile app and marketing platforms with clients in over 70 countries. By integrating the Mobiquity Networks SDK with the Mobile Roadie platform, Mobile Roadie clients will have the ability to add beacon campaigns to their existing mobile marketing applications, and will be able to leverage our public beacon network. Mobile Roadie has powered thousands of apps in the Apple App Store and Google Android Market. Mobile Roadie clients will be able to use their platform and our Mobi-Beacons to power the clients&#8217; own private networks in their respective locations. Our relationship with Mobile Roadie and its client base potentially brings significant additional reach to our advertisers. Additionally, the context provided by our network gives shoppers more value as their app experiences are made more expansive and relevant as they shop. Each Mobile Roadie app can potentially be an advertiser or publisher on our network. We are in discussions with numerous other third party app developers including social media apps, retailer apps, entertainment apps, gaming apps and shopping apps. We will continue to attempt to enter into agreements with other app publishers, as the more apps containing our SDK integration, the greater chance of triggering a beacon engagement for which we get compensated by the advertiser.
+
+&#160;
+
+Our Agreement with Mall Property Owners/Managers and IBM 
+
+&#160; 
+
+Simon Properties 
+
+&#160;
+
+We entered into an initial agreement with Simon Property in April 2011. This agreement was amended in September 2013 and July 2014 to, among other things, significantly expand the number of Simon mall properties covered by the agreement across the United States to up top 240 malls. Pursuant to our agreement with Simon, we currently have the right, on an exclusive basis, to install Bluetooth proximity marketing equipment to send information across the air space of the common areas of our Simon mall network, which includes approximately 195 current Simon malls and 45 former Simon malls sold in the first quarter of 2016 to another mall manager (collectively hereinafter referred to as the &#8220;Simon Malls&#8221;). Under a master agreement and related agreements between us and Simon, Simon is entitled to receive fees from us equal to a minimum fee plus the greater of a pre-set, per mall fee or a percentage of revenues derived from within the Simon mall network as well as certain commission fees based on revenues generated through Simon&#8217;s sales efforts. We believe that the revenue share in which Simon participates will exceed the minimum annual mall fees when revenues exceed approximately $14 million dollars. The agreement provides for Simon to adjust the number of malls subject to the agreement from time to time based upon changes in its beneficial ownership interest in the malls. Our agreement with Simon requires us to maintain letters of credit for each calendar year under the agreement represented by the minimum amount of fees due for such calendar year as well as certain levels of insurance. For 2015, the minimum fees of $2.7 million has been secured through two bank letters of credit, one of which was issued in the amount of $1,350,000 utilizing the funds of a non-affiliated stockholder and the second letter of credit was obtained in the same amount through the funds of Thomas Arnost, our Executive Chairman. In the event Simon draws down upon either letter of credit, we have until the next quarterly minimum payment due date (approximately 90 days) to obtain replacement letters of credit. Each person who secured our letters of credit has the opportunity to notify us that they wish to turn the cash funds securing the letters of credit over to us and to convert such funds into shares of our common stock. Also, each person who issued the letter of credit is receiving quarterly, while the letters of credit are outstanding, options to purchase 125,000 shares of common stock, exercisable at the prevailing market price per share on the date of grant and interest at the rate of 8% per annum on the monies that they have had to set aside in their bank accounts and are unable to have access to such monies. Our agreement with Simon expires on December 31, 2017. Our agreement with Simon is subject to earlier termination by either us or Simon only following a notice and cure period in the event of a material breach of the agreement.
+
+&#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160; 
+
+GGP 
+
+&#160;
+
+In January 2016, we entered into a license agreement with GGP, with an effective date of November 20, 2015. Pursuant to our agreement with GGP, we shall install Mobi-Beacons to send information across the air space of the common areas of our GGP mall network, which will include approximately 120 malls across the United States. Our right to install our Mobi-Beacons to market and sell third party paid advertising in the interior common areas of these malls is exclusive, with defined limitations under the agreement. Under a license agreement between us and GGP currently covering about 120 malls, GGP is entitled to receive fees from us equal to a minimum fee plus the greater of a pre-set per mall fee or a percentage of revenues derived from within the GGP mall network as well as certain commission fees based on revenues generated through GGP&#8217;s sales efforts. We believe that the revenue share in which GGP participates will exceed the minimum annual mall fees if we generate revenues within the GGP network of approximately $10,000,000 million or more in a calendar year. The agreement also provides for GGP to adjust the number of malls subject to the agreement from time-to-time based upon changes in its beneficial ownership in the malls. Our agreement with GGP has a term of two years from April 1, 2016, but is subject to earlier termination with cause following a notice and cure period in the event of material breach of the agreement or operational failure.
+
+&#160; &#160;
+
+Macerich 
+
+&#160;
+
+In April 2015, we entered into a license agreement with Macerich, which became effective June 2015. Pursuant to our agreement with Macerich, we have the right to install Mobi-Beacons to send information across the air space of the common areas of our Macerich mall network, which will include approximately 55 malls across the United States. Our right to install our Mobi-Beacons to market and sell third party paid advertising in the interior common areas of these malls is exclusive. Under a license agreement between us and Macerich currently covering 55 malls, Macerich is entitled to receive fees from us equal to a minimum fee plus the greater of a pre-set per mall fee or a percentage of revenues derived from within the Macerich mall network as well as certain commission fees based on revenues generated through Macerich&#8217;s sales efforts. We believe that the revenue share in which Macerich participates will exceed the minimum annual mall fees if we generate revenues within the Macerich network of approximately $3 million or more in a calendar year. The agreement also provides for Macerich to adjust the number of malls subject to the agreement from time-to-time based upon changes in its beneficial ownership in the malls. Our agreement with Macerich has a term of three years but is subject to earlier termination (i) with cause following a notice and cure period in the event of material breach of the agreement or (ii) without cause by Macerich after one year on 90 days&#8217; prior written notice to us. In the event of termination of the agreement without cause, Macerich will reimburse us for certain out-of-pocket expenses.
+
+&#160; 
+
+IBM 
+
+&#160; 
+
+In April 2015, we entered into a Joint Initiative Agreement with IBM and enrolled as an IBM Business Partner through IBM's PartnerWorld program. We are teaming with IBM to deliver jointly developed solutions for mall-based tenants, including retail clients. These solutions leverage the Mobiquity Networks beacon platform deployed exclusively in the common areas of our mall footprint across the United States, as well as our SDK which can be embedded within mall clients' mobile apps, to deliver relevant content in real time to shoppers' smart phones as they visit these malls. IBM has agreed to work with these clients to provide the analytics solutions needed to deliver personalized, one-on-one content to shoppers through our platform, and to help clients obtain insights from shopper transactions to drive improved customer experience and business performance. IBM services will also provide the integration capabilities needed to combine the Mobiquity Network platform in the mall common areas with the in-store server and network infrastructure, to optimize delivery of context-relevant content for the shopper. Together, our Joint Initiative Agreement with IBM can help their mall clients provide enhanced omni-channel marketing solutions and optimize business results. The agreement has an initial terms of two years and may be extended by agreement of the parties.
+
+&#160;
+
+PREIT 
+
+&#160;
+
+Pursuant to a master agreement effective August, 2015, we entered into an agreement with PREIT pursuant to which we have the right to install our Mobi-Beacons to send information across the air space of the common areas of our PREIT mall network, which will include approximately 27 malls in select states in the United States. Our right to install our Mobi-Beacons to market and sell third party paid advertising in the interior common areas of these malls is exclusive. Under our agreement between us and PREIT, PREIT is entitled to an agreed upon revenue share over the four year term of the agreement. In the event the net revenue share as defined in the agreement is not attained for any measurement period, also as defined in the agreement, either party may terminate the agreement upon 90 days prior written notice. PREIT may also terminate the agreement if it determines that Mobiquity&#8217;s installed equipment is not adequate and/or provides a negative user experience for the visitors to the PREIT malls. The agreement also provides for PREIT to adjust the number of malls subject to the agreement from time-to-time based upon changes in its beneficial ownership in the malls.
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+Rouse 
+
+&#160;
+
+Pursuant to a master agreement entered into in 2015, we entered into an agreement with Rouse pursuant to which we have the right to install our Mobi-Beacons to send information across the air space of the common areas of our Rouse mall network, which will include approximately 30 malls in select states in the United States. Our right to install our Mobi-Beacons to market and sell third party paid advertising in the interior common areas of these malls is exclusive. Under our agreement between us and Rouse, Rouse is entitled to an agreed upon revenue share over the four-year term of the agreement. In the event the net revenue share as defined in the agreement is not attained for any measurement period, also as defined in the agreement, either party may terminate the agreement upon 90 days prior written notice. Either party may also terminate the agreement due to a material breach which is not cured within 30 days of written notice. Also, Rouse upon at least 60 days written notice to us prior to the end of the second contract year, may terminate the agreement with respect to any participating property for any reason at the end of the second contract year. The agreement also provides for Rouse to adjust the number of malls subject to the agreement from time-to-time based upon changes in its beneficial ownership in the malls.
+
+&#160;
+
+The Mall Network 
+
+&#160;
+
+Through our agreement with Simon, we have installed our Mobi-Beacons in about 195 of Simon's malls and 45 former Simon malls across the United States. We have installed our Mobi-Beacons in about 55 of Macerich&#8217;s top malls 27 PREIT malls and 30 Rouse malls in select areas of the United States. We intend to install our Mobi-Beacons in about 120 GGP malls throughout the United States. Our agreements with Simon, Macerich and PREIT provide exclusive Bluetooth advertising rights in the common areas of each such malls. Our hardware solutions mesh together to create our network, which according to Simon, provides advertisers the opportunity to reach approximately 2.2 billion annual mall visits with mobile content and offers when they are most receptive to spending, while located in the Simon malls. The 2014 annual report for the International Council of Shopping Centers (ICSC) indicates that shoppers spend on average over $97 per shopping mall visit in 2013, which represents over $250 billion of annual spending. We believe our network provides advertisers the ability to influence a percentage of these shoppers who carry smartphones.
+
+&#160; 
+
+Mobiquity Advantages 
+
+&#160; 
+
+We believe our agreements with Simon, GGP, Macerich, Rouse and PREIT potentially provide us with an advantage over our competitors as it gives us a national network. Our technology allows us the opportunity to reach nearly 100% of mobile device types by utilizing our Mobi-Beacons integrated into a single platform. Our platform monitors and reports hardware activity in real time, manages campaigns, delivers highly targeted content and provides third party access to our Mobiquity network through our licensing of software development kits and the integration of an application program interface. Specifically as it relates to our lead service offering &#8211; Location Signals and Campaign Management via Beacons &#8211; campaigns require an app that has integrated our software development kit (SDK) in order to engage with our network. The more apps that have integrated the Mobiquity SDK, the more opportunities to engage with mall shoppers in our network. We are carefully selecting app partners that have relevance to the mall shopping experience and to the mall shopper demographic. For example, the apps of retailers and brands are obvious partners. Additionally, we intend to partner with shopping apps such as coupon distribution platforms, and apps. We are in various stages of SDK integration with dozens of additional mobile app properties that represent tens of millions of active app users and in negotiations with various venues in regard to network expansion. Management believes that our ability to deliver a significant national audience via a single network is a significant advantage when creating app relationships.
+
+&#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160; 
+
+Favorable Industry Trends 
+
+&#160;
+
+We believe the demand for location based mobile marketing services represents a large and growing market opportunity. Consumers are increasingly using smartphones and, according to a December 2014 report by IAB Mobile Marketing Center of Excellence, 88% of consumer mobile internet time is spent in apps where we expect to derive the majority of our revenue. According to the blog Asymco, a ComScore survey on U.S. smartphones shows that the smartphone penetration rate in the U.S. at the end of 2013 was approximately 62.5%, representing 149 million users and is expected to grow to 90% penetration or approximately 230 million users by December 2016.
+
+&#160;
+
+Importantly, according to eMarketer, mobile ad spending grew 83% from 2013 to 2014 and the trend is expected to continue as the share of advertising spend on mobile is still disproportionately small relative to the amount of time spent by consumers on their mobile devices. A 2014 report by leading venture capital firm Kleiner Perkins reported that 20% of media time is spent on mobile however mobile represented only 4% of total advertising spending share.
+
+&#160;
+
+Despite the growth in e-commerce, 90% of all purchases are still made in traditional brick and mortar stores according to A.T. Kearney, and 75% of Americans visit a mall at least once a month according to JCDecaux. Smartphone devices were estimated to influence $593 billion or 19% of in-store sales in 2013 and are expected to influence $4.5 trillion or 81% of in-store sales by 2018 according to a survey commissioned by Deloitte Consulting LLP. According to a 2014 Holiday Shopping Recap by Adobe Digital Index, 54% of marketers currently use or plan to use beacons in the next 12 to deliver location based content. Finally, BI Intelligence estimates that beacon triggered messages will influence $4.1 billion in store sales by the end of 2015, growing to $44.4 billion by the end of 2016.
+
+&#160;
+
+We believe these trends will help drive demand for our Mobiquity Networks business as consumers increasingly engage with advertising content on their mobile devices and marketers seek to increase both the share of advertising dollars spent on mobile as well as the use of location technologies to personalize content delivered to consumers.
+
+&#160;
+
+Our Strategy 
+
+&#160;
+
+Our goal is to enhance the shopper experience with retail customers by providing valuable and relevant content in real-time based on location. We achieve this goal by providing our customers (such as retailers, brands, and the entertainment industry) with a highly targeted form of mobile marketing engagement. Our platform enables interaction and advertising based on time, location and personalization to create the most effective campaigns/ experiences possible, in a way that is not possible without our network. We connect customers to brands in the retail space by increasing individual retail location app usage and driving foot traffic to such individual retail locations. We have deployed our Mobi-Beacons to expand the capability of the Mobiquity network in approximately 240 Simon and former Simon malls, 55 Macerich malls, 30 Rouse malls and 27 PREIT malls across the United States and intend to install the Mobi-Beacons in about 120 GGP malls by April 2016. As working capital permits, we intend to expand our sales and marketing human resource capability to focus on generating revenue over our network. Our sales and marketing team will be seeking to generate revenue over our network through five primary verticals:
+
+&#160;
+
+&#160; &#183; Retailers, brands and apps relevant to the shopping experience. &#160;
+
+&#160; &#183; Shopping/coupon related apps with relevant offers. &#160;
+
+&#160; &#183; Entertainment apps relevant to the shopper demographic. &#160;
+
+&#160; &#183; Advertising networks and exchanges serving location relevant ads. &#160;
+
+&#160; &#183; Data analytic and social media apps requesting real-time location based signal. &#160;
+
+We plan to expand on our current footprint into the common areas of other mall operations as well as outside of the malls with additional synergistic venues that will allow for cross marketing opportunities. Such venues include but are not limited to: stadiums, arenas, college campuses, airports and retail chains. The purpose of this type of expansion will be to create a unified network that will allow relevant beacon companies the opportunity to become part of the Mobiquity network. They may find it advantageous to become part of our network, so they will have the ability to drive traffic into their stores. In the future, we may also build a private advertising exchange system that would allow for programmatic buying where advertisers will be given permission to engage with shoppers through the Mobiquity network. Additionally, we plan to add other mobile services and plug-ins such as; loyalty programs, attribution, indoor mapping, security and mobile payments.
+
+&#160;
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160;
+
+Sales and Marketing 
+
+&#160;
+
+As working capital permits, we intend to hire additional qualified sales and marketing personnel to generate revenue on our proximity mall network and to hire additional engineers, developers, computer and technology support personnel.
+
+&#160;
+
+The key elements of our distribution and marketing strategy are as follows:
+
+&#160;
+
+&#160; &#183; Direct Sales. Our internal salesforce will call on retailers, brands and relevant advertisers to advertise on the network. &#160;
+
+&#160; &#183; Resellers. We intend to engage with third parties, such as technology consultants, integrators, advertising agencies and Demand-Side Providers (DSP) companies to sell advertising on the network. &#160;
+
+&#160; &#183; Publishers. We intend to engage with app developers, ad networks, ad exchanges and other companies that have existing relationships with access to a large number of apps to increase our reach and provide an alternative to advertisers with limited app downloads or no app. &#160;
+
+&#160; &#183; Data Signals. We intend to engage with social media companies, ad networks and ad exchanges to provide real-time location-based data to increase the relevance and value of their in-app ad serving. &#160;
+
+&#160; &#183; Data Platforms. We intend to engage with data management companies to provide historical location-based data which will enable personalized online, offline and mobile campaigns to targeted audiences. &#160;
+
+Our Proprietary Technology 
+
+&#160;
+
+In March 2013, we formed Mobiquity Networks and Mobiquity Wireless in Spain. Mobiquity Wireless then acquired the assets of our then licensor, FuturLink. These assets include, without limitation, the FuturLink technology which consists of patent applications, source codes and trademark(s). The patent applications acquired related to the hardware and associated process for identifying and acquiring connections to mobile devices and the process for delivering select content to users on an opt-in basis. Additionally, significant &#8220;know how&#8221; was acquired with respect to managing remote hardware across a large physical network. As the technology owner, we will leverage the hardware and software included in our purchase to expand our mall-based footprint in the United States. We believe our acquisition of FuturLink&#8217;s technology and corresponding patent applications provided us with the flexibility and autonomy to improve, upgrade and integrate new ideas and cutting edge technologies into our existing platform. This will allow us to evolve as new technologies emerge. To date, we have published for four patents and have one approved.
+
+&#160;
+
+We believe that our intellectual property is a valuable asset to us as we move forward with our technology platform. Since we acquired this technology, we have further developed our ability to manage large networks of hardware to include beacon technology. Additionally, we have expanded campaign management tools to optimize them to meet the demands of our customers. We believe our intellectual property gives us a lead in the industry with respect to the sophisticated management of large-scale network deployments and campaign management. We believe that most beacon providers focus on single-store applications and are not capable of managing beacons across multiple locations, much less manage a public network that will be accessed by multiple advertisers versus a single retailer. Our network-focused platform approach is a key selling tool when presenting our capabilities to property owners, such as mall developers, who understand the challenge associated with managing a large number of hardware solutions across hundreds of properties.
+
+&#160;
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160;
+
+Integrated Marketing Company 
+
+&#160;
+
+Our subsidiary, Ace Marketing &#38; Promotions, Inc. (or Ace Marketing), has historically represented substantially all of our operating revenues. Ace Marketing is an integrated marketing company focused on working with clients to grow their business. Ace Marketing&#8217;s core business is to provide a wide range of quality promotional products to a wide range of corporate, non-profit and educational clients. In addition, Ace Marketing offers brand analysis and development, website analysis and development, database analysis and building, and integrated marketing campaigns using: direct mail, email marketing, mobile marketing, promotional products and other mediums that help our clients connect with their customers and acquire new business.
+
+&#160;
+
+Although the majority of Ace Marketing&#8217;s revenue is derived from the sale of promotional products, it is through the use of our four-step process supported by marketing technology platforms that allows us to attract and retain clients. The sale of promotional products alone can be considered a commodity business, so by offering our value-added services, we believe we have created a competitive advantage. We believe a client will be less likely to leave if we created their logo, built their website and/or appended their customer database.
+
+&#160;
+
+Ace Marketing derives revenues from each of the following resources:
+
+&#160;
+
+&#160; &#183; Brand analysis and development. &#160; &#160; &#160; &#160; &#183; Website analysis and development. &#160; &#160; &#160; &#160; &#183; Database analysis and building. &#160; &#160; &#160; &#160; &#183; Integrated marketing solutions. &#160;
+
+Substantially all of our resources and marketing efforts are dedicated toward deriving revenues from the operations of Mobiquity Networks.
+
+&#160;
+
+Competition 
+
+&#160;
+
+We compete in the advertising technology and location-based mobile marketing business and in all other facets of our business against small, medium and large companies throughout the United States. Some examples include companies such as Gimbal, Shopkick, Swirl and Estimote. Although we can give no assurance that our business will be able to compete against other companies with greater resources, we believe we have a competitive advantage with our mall network, software and proprietary technology platform. As previously mentioned, we have the exclusive rights to provide Bluetooth advertising in the common area for Simon and other malls. This gives us the ability to compete with these other companies to provide in-store advertising, but they cannot compete with us in the common area of the malls as the mall operators prohibit the individual retail stores from sending proximity marketing signals and information beyond the perimeter of their retail store. . Our technology platform also allows us to integrate other companies&#8217; beacons onto our network. This means that if a retailer has already purchased beacons from a competitor, we still have the ability to work with them by integrating their beacons into our network and delivering mobile marketing campaigns.
+
+&#160;
+
+With respect to our integrated marketing subsidiary, while our competition in this business vertical is extensive, we believe that this industry is extremely fragmented and that there are no companies that dominate the market in which we operate. We compete within the industry on the basis of service, competitive prices, personal relationships and competitive commissions to our sales representatives to sell promotional products for us rather than our competitors. Competitors&#8217; advantages over us may include better financing, greater experience, lower margins and better personal relationships than us.
+
+&#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160; 
+
+Employees 
+
+&#160;
+
+We have approximately 30 full time employees, including executive management, technical personnel, salespeople, and support staff employees. We also utilize several additional firms/persons who provide services to us on a non-exclusive basis as independent consultants.
+
+&#160;
+

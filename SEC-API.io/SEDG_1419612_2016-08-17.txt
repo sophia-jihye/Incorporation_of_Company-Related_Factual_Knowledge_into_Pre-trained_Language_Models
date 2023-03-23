@@ -1,0 +1,510 @@
+ ITEM 1. BUSINESS
+
+&#160;
+
+Introduction
+
+&#160;
+
+We have invented an intelligent inverter solution that has changed the way power is harvested and managed in a solar PV system. Our direct current (&#8220;DC&#8221;) optimized inverter system maximizes power generation at the individual PV module level while lowering the cost of energy produced by the solar PV system and providing comprehensive and advanced safety features. Our system consists of our power optimizers, inverters and cloud-based monitoring platform and addresses a broad range of solar market segments, from residential solar installations to commercial and small utility-scale solar installations. Since we began commercial shipments in 2010, we have shipped approximately 3.4 gigawatts (&#8220;GW&#8221;) of our DC optimized inverter systems and our products have been installed in solar PV systems in 96 countries.
+
+&#160;
+
+Historically, the solar PV industry used traditional string and central inverter architectures to harvest PV solar power. However, traditional inverter architectures result in energy losses as well as systemic challenges in design flexibility, safety and monitoring. More recently, microinverter technology was introduced in an attempt to resolve these challenges, but this technology has certain inherent limitations. We believe that our DC optimized inverter system, consisting of an inverter and distributed power optimizers, best addresses all of these challenges.
+
+&#160;
+
+Our system allows for superior power harvesting and module management relative to traditional inverter systems by deploying power optimizers at each PV module while maintaining a competitive system cost by keeping the AC inversion and grid interaction centralized using a simplified DC-AC inverter. The entire system is monitored through our cloud-based monitoring platform that enables reduced system operation and maintenance (&#8220;O&#38;M&#8221;) costs. Our system enables each PV module to operate at its own maximum power point (&#8220;MPP&#8221;), rather than a system-wide average, enabling dynamic response to real-world conditions, such as atmospheric conditions, PV module aging, soiling and shading and offering improved energy yield relative to traditional inverter systems. In addition to higher efficiency, our system&#8217;s installed cost per watt is competitive with traditional inverter systems of leading manufacturers and generally lower than comparable microinverter systems of leading manufacturers. Furthermore, our architecture allows for complex rooftop system designs and enhanced safety and reliability. Our technology and system architecture are protected by 72 awarded patents and 114 patent applications filed worldwide as of June 30, 2016.
+
+&#160;
+
+We primarily sell our products directly to large solar installers and engineering, procurement and construction firms (&#8220;EPCs&#8221;) and indirectly to thousands of smaller solar installers through large distributors and electrical equipment wholesalers. Our customers include leading providers of solar PV systems to residential and commercial end users, key solar distributors and electrical equipment wholesalers as well as several PV module manufacturers that offer PV modules with our power optimizer physically embedded into their modules.
+
+&#160;
+
+We were founded in 2006 and began commercial shipments in 2010. As of June 30, 2016, we have shipped approximately 12.5 million power optimizers and 513,000 inverters. More than 265,000 installations, many of which may include multiple inverters, are currently connected to, and monitored through, our cloud-based monitoring platform.
+
+&#160;
+
+Limitations of Existing Technologies
+
+&#160;
+
+A solar PV system consists of PV modules, which produce direct current (&#8220;DC&#8221;) power when exposed to sunlight; an inverter, which transforms the DC power into alternating current (&#8220;AC&#8221;) power that is required by the electricity grid; and associated cabling, fuse boxes and mounting hardware. Traditionally, solar PV systems connected strings of solar PV modules to one or more inverters for this energy conversion.
+
+&#160;
+
+Traditional inverter architecture still constitutes the vast majority of the PV inverter market, especially for larger commercial and utility installations. However, traditional inverter architecture suffers from significant inefficiencies leading to suboptimal power generation. These challenges include:
+
+&#160;
+
+&#8226;
+
+Module mismatch. Traditional inverter systems are unable to consistently produce maximum energy from PV modules. Each PV module in a system has a unique power production profile driven by differences in manufacturing and installation parameters. The architecture of traditional inverter systems does not allow each PV module to operate at its unique MPP. When PV modules are wired in series in a traditional inverter architecture, the entire string&#8217;s output is reduced, sometimes correlated directly to the output of the lowest-performing PV module on the string. Output reduction can result from subtle variations in PV module composition, atmospheric conditions, soiling, individual PV module locations and orientations, or varying levels of PV module degradation over time.
+
+&#160;
+
+&#160;
+
+&#8226;
+
+Partial shading. Many real-world factors can cause a subset of the PV modules in a system to be partially shaded, which can significantly affect the power output of the entire string. For instance, electric wires, a chimney or even adjacent solar panels may cast a shadow during particular hours of the day, or debris may accumulate. This partial shading reduces the yield of a traditional solar PV system by decreasing, or in extreme cases eliminating, power output from the shaded modules. Overall losses to system production from such partial shading can range from small to substantial.
+
+&#160;
+
+&#8226;
+
+Dynamic maximum power point tracking loss. The MPP of a PV module shifts constantly throughout the day as a result of atmospheric conditions. A traditional inverter system&#8217;s inability to coordinate output on a module-by-module basis makes it difficult for the system to respond dynamically to the shifting MPP. This inability to respond to the shifting MPP can reduce the potential power output of a traditional solar PV system by 3-10%.
+
+&#160;
+
+In addition to power losses, the traditional inverter architecture also has system design, installation and operational challenges, including:
+
+&#160;
+
+&#8226;
+
+Rooftop system design complexities. A traditional inverter system requires each string to be of the same length, use the same type of PV modules and be positioned at the same angle toward the sun. Consequently, rooftop asymmetries and obstructions result in either wasted roof space or inefficient duplication of system components.
+
+&#160;
+
+&#8226;
+
+Safety hazards. Traditional inverter systems cannot shut down the DC output voltage at the PV module level. The DC cables from these modules carry high voltages as long as the sun is shining, even when the traditional inverter or the grid connection has been shut down. This poses serious risks to installers, fire fighters and anyone else who performs work on or around the installation. Such safety hazards have recently prompted heightened safety installation and operation procedures and regulations in a growing number of geographies, compliance with which increases the cost of traditional PV systems.
+
+&#160;
+
+&#8226;
+
+No module level monitoring. A traditional inverter system cannot track power output, temperature or any other attribute of a single PV module. Consequently, a system operator cannot perform remote diagnostics, track performance of PV system components or receive alerts about individual PV module status, and may be unaware of specific module-level problems or breakdowns.
+
+&#160;
+
+The first generation of module level power electronics (&#8220;MLPE&#8221;) was the microinverter. This technology scaled down the traditional inverter to a size and power appropriate to a single PV module. By creating control and monitoring at the module level, microinverters solved certain challenges of the traditional inverter system architecture. However, microinverter architecture has its own limitations, such as:
+
+&#160;
+
+&#8226;
+
+Higher initial cost per watt and limited economies of scale. Microinverters perform all the functionality of the traditional inverter, but at each PV module, and consequently a microinverter system has a higher initial upfront cost of components relative to traditional inverter architecture. In addition, as every PV module must have its own microinverter, the cost per watt of a microinverter system does not decrease with scale. As such, microinverters are generally more expensive than traditional inverter systems on a cost per watt basis for residential installations and not economically viable relative to traditional inverter systems for large commercial and utility installations.
+
+&#160;
+
+&#8226;
+
+Grid Code Compliance. With the growing penetration of solar energy, many utilities in individual U.S. states and Europe have adopted new sets of grid codes to preserve the stability of the electric grid. These grid codes require solar PV inverters to respond dynamically to variances in grid-wide voltage, which typically requires inverter hardware and software to be reengineered. The microinverter faces significant implementation challenges in complying with many of these new grid codes primarily due to its small size. In most cases, adaptation to these new grid codes would require added costs and complexities, limiting the ability of microinverters to address some markets.
+
+&#160;
+
+&#160;
+
+The SolarEdge Solution
+
+&#160;
+
+Our DC optimized inverter system maximizes power generation at the individual PV module level while lowering the cost of energy produced by the solar PV system and providing comprehensive and advanced safety features. Our solution consists of our power optimizers, inverters and cloud-based monitoring platform and addresses a broad range of solar market segments, from residential solar installations to commercial and small utility-scale solar installations.
+
+&#160;
+
+The key advantages of our solution include:
+
+&#160;
+
+&#8226;
+
+Maximized PV module power output. Our power optimizers provide module-level MPP tracking and real-time adjustments of current and voltage to the optimal working point of each individual PV module. This enables each PV module to continuously produce its maximum power potential independent of other modules in the same string, thus minimizing module mismatch and partial shading losses. By performing these adjustments at a very high rate, our power optimizers also solve the dynamic MPP losses associated with traditional inverters. Independent testing from Photon Laboratories as well as tests performed by PV Evolution Labs according to the National Renewable Energy Laboratory shade test have confirmed that our technology provides power harvesting that is superior to traditional inverter systems.
+
+&#160;
+
+&#8226;
+
+Optimized architecture with economies of scale. Our system shifts certain functions of the traditional inverter to our power optimizers while keeping the DC to AC function and grid interaction in our inverter. As a result, our inverter is smaller, more efficient, more reliable and less expensive than inverters used in traditional inverter systems. The cost savings that we have achieved on the inverter enable our system to be priced at a cost per watt that is comparable with traditional inverter systems of leading manufacturers. As a PV system grows in size, our inverter benefits from economies of scale, making our technology viable for large commercial and utility-scale applications.
+
+&#160;
+
+&#8226;
+
+Enhanced system design flexibility. Unlike a traditional inverter system that requires each string to be the same length, use the same type of PV modules and be positioned at the same angle toward the sun, our system allows significant design flexibility by enabling the installer to place PV modules in uneven string lengths and on multiple roof facets. This design flexibility:
+
+&#160;
+
+&#8226;
+
+increases the amount of the available roof that can be utilized for power production. Unlike traditional inverter systems, our system does not require each string to be the same length, use the same type of PV modules or be positioned at the same angle toward the sun. As a result, our system is significantly less prone to wasted roof space resulting from rooftop asymmetries and obstructions.
+
+&#160;
+
+&#8226;
+
+reduces the number of field change orders. For example, some installers use remote tools to estimate the size and configuration of an installation in connection with the customer acquisition process. This is especially common for high-volume residential arrays, where an exhaustive survey of rooftop obstructions would be uneconomical. In some cases, installers discover that their preliminary design, based on remote tools, cannot be implemented due to unexpected shading or other obstructions. With traditional inverter system designs, an obstructed module may require a significant system redesign and a modification of the customer contract to take into account the changed system design. Our DC optimized inverter solution enables an installer to compensate or adjust for most obstructions without materially changing the original design or requiring a modification to the customer contract.
+
+&#160;
+
+&#8226;
+
+Reduced balance of system costs. Our DC optimized inverter system allows significantly longer strings to be connected to the same inverter (as compared to a traditional inverter system). This minimizes the cost of cabling, fuse boxes and other ancillary electric components. These factors together result in easier installation with shorter design times and a lower initial cost per watt, while enabling larger installations per rooftop.
+
+&#160;
+
+&#8226;
+
+Continuous monitoring and control to reduce operation and maintenance costs. Our cloud-based monitoring platform provides full data visibility at the module level, string level, inverter level and system level. The data can be accessed remotely by any web-enabled device, allowing comprehensive analysis, immediate fault detection and alerts. These monitoring features reduce O&#38;M costs for the system owner by identifying and locating faults, enabling remote testing and reducing field visits.
+
+&#160;
+
+&#160;
+
+&#8226;
+
+Enhanced safety. We have incorporated module-level safety mechanisms in our system to protect installers, electricians and firefighters. Each power optimizer is configured to reduce output to 1 volt unless the power optimizer receives a fail-safe signal from a functioning inverter. As a result, if the inverter is shut down (e.g., for system maintenance, due to malfunction, in the event of a fire or otherwise), the DC voltage throughout the system is reduced to a safe level. In recent years, new safety standards have been introduced in the U.S. and in Europe that require or encourage the installation of safety measures such as these. Our DC optimized inverters comply with the applicable safety requirements of the areas in which they are sold, providing incremental cost savings to installers by eliminating the need for additional hardware such as DC breakers, switches or fire-proof ducts required by traditional inverter systems.
+
+&#160;
+
+&#8226;
+
+High reliability. Solar PV systems are typically expected to operate for at least 25 years under harsh outdoor conditions. High reliability is critical and is facilitated by systems and components that have low heat generation, solid and stable materials, and an absence of moving parts. We have designed our system to meet these stringent requirements. Our power optimizers dissipate much less heat than microinverters because no DC-AC inversion occurs at the module level. As a result, less heat is dissipated beneath the PV module, which improves lifetime expectancy and reliability of our power optimizers. Our power optimizers&#8217; high switching frequency allows the use of ceramic capacitors with a low, fixed rate of aging and a proven life expectancy in excess of 25 years. Further, we use automotive-grade application specific integrated circuits (&#8220;ASICs&#8221;) that embed many of the required electronics into the ASIC. This reduces the number of components and consequently the potential points of failure.
+
+&#160;
+
+Our Products
+
+&#160;
+
+Our solution consists of a DC power optimizer, an inverter and a cloud-based monitoring platform that operate as a single integrated system:
+
+&#160;
+
+SolarEdge Power Optimizer. Our DC power optimizer is a highly reliable and efficient DC-to-DC converter which is connected by installers to each PV module or embedded by PV module manufacturers into their modules as part of the manufacturing process. Our power optimizer increases energy output from the PV module to which it is connected by continuously tracking the MPP of each module and controlling its working point. The power optimizer&#8217;s ability to track the MPP of each PV module and its ability to increase or decrease its output voltage, enables the inverter&#8217;s input voltage to remain fixed under a large variety of string configurations. This feature enhances flexibility in PV system designs, enabling use of different string lengths in a single PV system connected to the same inverter, use of PV panels situated on multiple orientations connected to the same inverter and using varied PV module types in the same string. In addition, our power optimizers monitor the performance of each PV module and communicates this data to our inverter using our proprietary power line communication. In turn, the inverter transmits this information to our monitoring server. Each power optimizer is equipped with our proprietary safety mechanism which automatically reduces the output voltage of each power optimizer to 1V unless the power optimizer receives a fail-safe signal from a functioning inverter. As a result, if the inverter is shut down (e.g., for system maintenance, due to malfunction, in the event of a fire or otherwise), the DC voltage throughout the system is reduced to a safe level.
+
+&#160;
+
+Our power optimizers are designed to withstand high temperatures and harsh environmental conditions, and contain multiple bypass features that localize failures and enable continued system operation in the vast majority of cases of power optimizer failure. Our power optimizers are compatible with the vast majority of modules on the market today and carry a 25-year product warranty. Our power optimizers are designed to be used with our inverters as well as third party inverters to provide power optimization. Monitoring and safety features can also be achieved with third party inverters by adding supplemental communications hardware. During fiscal 2014, 2015 and 2016 revenues derived from the sale of power optimizers represented 48.8%, 48.8% and 50.0% of total revenues, respectively.
+
+&#160;
+
+SolarEdge Inverter. Our DC-to-AC inverters contain sophisticated digital control technology with efficient power conversion architecture resulting in superior solar power harvesting and high reliability and are designed to work exclusively with our DC power optimizers. A proprietary power line communication receiver is integrated into each inverter, receiving data from our power optimizers, storing this data and transmitting it to our monitoring server when an internet connection exists. Since each string which is equipped with our power optimizers provides fixed input voltage to our inverter, the inverter is able to operate at its highest efficiency at all times and therefore is more cost-efficient, energy efficient and reliable. Like our power optimizers, our inverters are designed to withstand harsh environmental conditions. Since the power rating of an inverter determines how many PV modules it can serve, larger installations require inverters with higher power ratings. We currently offer our second generation of inverters which come in two models: a one-phase inverter designed to address the residential market (2.2 kilowatts (&#8220;kW&#8221;) to 11.4 kW) and a three-phase inverter designed to address the residential market in certain European countries and the commercial market (4 kW to 33.3 kW). In June 2016, we introduced an extended commercial solution that consists of various inverters, sized 25kW, 27.6kW, and 33.3kW for the Europe, Middle East, Africa and Asia Pacific markets and 14.4kW and 33.3kW for the North American market. These inverters which are identical in size and enclosure as other SolarEdge inverters are designed for commercial installations, reduce the number of required inverters and increase the system return on investment. The vast majority of our inverters are sold with a 12-year warranty that is extendable to 20 or 25 years for an additional cost. During fiscal 2014, 2015 and 2016, revenues derived from the sale of inverters represented 46.6%, 48.3 % and 45.7% of total revenues, respectively.
+
+&#160;
+
+We have completed the development of and are currently ramping up shipments of our HD-Wave technology inverter. The HD-Wave inverter technology provides significant improvements in efficiency, while decreasing the magnetics and cooling components in order to reduce inverter size and cost.
+
+StorEdge Solutions. Our StorEdge solution is a DC coupled solution that is used to increase energy independence and maximize self-consumption for homeowners by utilizing a battery which is sold separately by third party manufacturers, to store and supply power as needed. The solution is based on a single inverter for both solar PV and storage. Our StorEdge solution is designed to provide smart energy functions such as maximizing self-consumption, Time-of-Use programming for desired hours of the day, and home energy backup solutions. To optimize self-consumption, the battery is charged and discharged to meet consumption needs and reduce the amount of power purchased from the grid. With a backup solution, unused solar PV power is stored in a battery and used during a power outage or when solar PV production is insufficient. When there is a power outage, a combination of solar PV power and battery is used to power important sources such as the refrigerator, communication devices, lighting, and AC outlets. Our proprietary monitoring platform provides visibility into battery status, solar PV production, and self-consumption, while offering easy maintenance with remote access to inverter and battery software. Existing SolarEdge systems can be upgraded to our StorEdge solution.
+
+&#160;
+
+SolarEdge Monitoring Software. Our cloud-based monitoring platform collects power, voltage, current and system data sent from our inverters and power optimizers and allows users to view the data at the module level, string level, inverter level and system level from any browser or from most smart phones and tablets. The monitoring software continuously analyzes data and flags potential problems. The monitoring software includes features which are used on a routine basis by integrators, installers, maintenance staff, and system owners to improve a solar PV system&#8217;s performance by maximizing solar power harvesting and reducing O&#38;M costs by increasing system up-time and detecting PV module performance issues more effectively. Connection to the monitoring server is completed during installation by the installer. The installer then receives full access to system data through the monitoring software and can select the amount of data to be shared with the system owner.
+
+&#160;
+
+Product Roadmap
+
+&#160;
+
+Our products reflect the innovation focus and capabilities of our technology departments. Our product roadmap is divided into five categories: power optimizers, inverters, monitoring services, energy storage and smart energy management
+
+&#160;
+
+Power Optimizers. We currently sell our third generation power optimizer which was designed for fully automated assembly and which is based on our third generation ASIC. A key element of our reliability strategy, and a significant differentiator relative to our competitors, is our use of proprietary ASICs to control, among other things, our power optimizer&#8217;s power conversion, safety features, and PV module monitoring. Instead of using large numbers of discrete components, our power optimizer uses a single proprietary ASIC, thus reducing the total number of components in an electrical circuit and thereby improving reliability. We are in the final stages of testing our fourth generation ASIC and we expect to begin commercial shipments of our fourth generation power optimizers in the first half of calendar 2017. In addition, we are also continuing to develop the necessary subsystems for the fifth generation ASIC which will be used in our fifth generation power optimizer. Each new ASIC generation has reduced the number of components required and meaningfully improved the efficiency of the power optimizer. The efficiency improvement reduces the energy losses which in turn reduces the amount of heat dissipation. This enables design of a more cost effective and usually smaller enclosure and also keeps the electronics cooler, thereby improving the power optimizer&#8217;s reliability.
+
+&#160;
+
+Inverters. Our inverter roadmap is intended to serve three purposes: (i) expand addressable market by developing new and larger inverters designed specifically for larger commercial installations and utility-scale projects; (ii) improve the electronics to increase the total power throughput without changing the existing enclosure, thereby reducing the actual cost per watt and increasing economies of scale and (iii) improve ease of installation by integrating additional functionality required in certain installations in order to reduce costs of additional hardware and labor costs. As part of our inverter roadmap, we plan to apply our HD-Wave technology to three-phase inverters and we are in the development process for doing so.
+
+&#160;
+
+&#160;
+
+Monitoring Services. Our cloud-based monitoring platform is continuously growing by the amount of data aggregated. We are continuously developing tools to accommodate our growth and further enhance our service offering. Specifically, we plan to increase data compression in order to enable support for a rapidly increasing number of field systems while using low-cost equipment. In addition, we plan to improve our reporting systems and enable users to obtain self-generated customized reports. We also expect to expand algorithms that detect and pinpoint problems that can affect power production in field systems. We further plan to add more capabilities through our public application program interface to allow users to build and integrate our system into their own systems and to allow users to build and share useful applications based on monitoring data gathered by our software.
+
+&#160;
+
+Energy Storage and Shifting. SolarEdge is working to continue to expand its third-party battery compatibility for the residential market. For the commercial market, we plan to expand our StorEdge product offering to the commercial and industrial sector.
+
+&#160;
+
+Smart Energy Management. There are currently two separate energy technology industries that exist today, solar energy production and building automation technology. We believe that inverters will be taking on an expanded role in energy management and automation, and in conjunction with this assumption we are developing building automation products that can combine both of these industries. This line of products, when used with the SolarEdge solution, will be designed to allow system owners to increase self-consumption by shifting energy usage to match peak solar PV production as well as offer a convenient, wireless control option over various building and home devices. An example of this solution, would be using excess solar PV energy to heat water or the ability to remotely turn on or off certain power sources such as lighting or electrical appliances. The introduction of these products is dependent upon certification and region specific needs and as such, cannot yet be specified.
+
+&#160;
+
+Sales and Marketing Strategy
+
+&#160;
+
+Since commencing sales activities in early 2010, our strategy has been to focus on markets where electricity prices, irradiance and government policies make solar PV installations economically viable. Today, our products have been installed in 96 countries, including the U.S., Canada, Belgium, France, Germany, Italy, the Netherlands, the United Kingdom, Israel, Australia Japan, Singapore and China.
+
+&#160;
+
+We target our sales and marketing efforts to the largest distributors, electrical equipment wholesalers, EPC contractors and installers in each of the countries where we operate. In the U.S., Germany, Italy, the United Kingdom and Australia, our products are carried and actively sold by most of the top solar PV distributors as well as the largest electrical distribution companies that are active in solar PV. We anticipate that an increasing percentage of solar PV equipment sales will also occur through electrical equipment wholesalers who sell to a broad range of electrical contractors, and we are focused on cultivating these global relationships. As of June 30, 2016, according to the data available on our monitoring portal, approximately 13,009 installers around the world have installed SolarEdge solar PV systems, including an average of approximately 330 new installers per month since the beginning of fiscal 2016. We also sell our power optimizers to several PV module manufacturers that offer PV modules with our power optimizer physically embedded into their modules.
+
+&#160;
+
+Additionally, we have a number of programs focused on educating installers and other industry professionals about our technology, and we use a combination of road shows, webinars and partner trainings to show them how best to design, sell and implement our technology in their projects.
+
+&#160;
+
+Our Customers
+
+&#160;
+
+We derive a significant portion of our revenues from key solar distributors, electrical equipment wholesalers and large installers in the U.S. and worldwide. In fiscal 2016, three of our customers (two distributors and one large installer) represented32.5% of our revenues. We fill orders primarily as they are received and as such, do not have significant backlog.
+
+&#160;
+
+&#160;
+
+Training and Customer Support
+
+&#160;
+
+We offer our installer base a comprehensive package of customer support and training services which include pre-sales support, ongoing trainings, and technical support before, during, and after installation. We also provide customized support programs to PV module manufacturers, large installers and distributors to help prioritize and track support issues, thereby enabling short cycle times for issue resolution. In 2016, we conducted approximately 281 training events in 20 countries, with an aggregate of approximately 7,003 attendees.
+
+&#160;
+
+We offer a wide variety of training, including hands-on and on-demand video sessions and online product and training materials. We support our commercial system customers with design consulting throughout their sales process and installation. Our technical support organization includes local expert teams, call centers in the USA, Germany, Australia, Netherlands and Israel, and an online service portal. Our toll-free call centers are open Monday through Friday from 9:00 a.m. to 8:00 p.m. in every region in which we sell our products. In addition, customers can open and track support cases 24/7 utilizing our online portal. All support cases are monitored via a customer relationship management system in order to ensure service, track closure of all customer issues and further improve our customer service. Our call centers have access to our cloud-based monitoring platform database, which enables real-time remote diagnostics.
+
+&#160;
+
+Customer service and satisfaction has been a key component of our business and we expect it to continue to be integral to our success in the future. We maintain high levels of customer engagement through our call centers in California, Germany and Israel. In addition to our call centers, we have field service engineers located in the geographies where we are active, and support our customers with commissioning of large projects, introduction of new technologies and features and on-the-job training of new installers. As of June 30, 2016, our customer support and training organization consisted of 91 employees worldwide.
+
+&#160;
+
+Our Technology
+
+&#160;
+
+We have drawn on our expertise in the fields of power electronics, magnetic design, mechanical and heat dissipation capabilities, control loops and algorithms and power line communications to design and develop what we believe to be the most advanced commercial solutions for harvesting power from solar PV systems. Our advanced technologies are explained in more detail below.
+
+&#160;
+
+Power optimizers
+
+&#160;
+
+Our power optimizers are DC/DC step up/step down (buck-boost) converters designed and developed to operate in harsh outdoor environments at very high conversion efficiency. Our power optimizers include proprietary power electronics customized to efficiently convert power from the PV module to the inverter. The conversion topology and components are all designed for the power optimizer specifications and verified for consistent performance and reliability in numerous lab tests and simulations.
+
+&#160;
+
+A key factor in the performance of our power optimizer is determined by the digital control algorithms and closed-loop mechanism. The power optimizer&#8217;s control is built into our advanced ASIC which is responsible for all critical digital control functions of the power optimizer, including detailed power analysis, digital control of the power conversion subsystem and power line communications and networking. Since each power optimizer handles the power and voltage of a single module, we are able to reach a high degree of semiconductor integration by leveraging low cost silicon in standard semiconductor packages. As a result, much of the functionality of our power optimizer can be integrated into a standard ASIC instead of discrete electronic components, resulting in lower costs and higher reliability.
+
+&#160;
+
+The ASIC performs the critical power analysis and power conversion control functions of the power optimizer. The power analysis function processes the status and working parameters at the power optimizer&#8217;s input and output and together with advanced digital control and state machine logic, controls the power conversion function. In addition, our digital control system uses technology that allows the solar PV installation to anticipate and adapt to changing operating conditions and protect against system anomalies.
+
+&#160;
+
+Each power optimizer in the array is connected to the inverter by a power line communications networking link. Our power line communications link uses a proprietary networking technology that we developed utilizing the existing DC wiring between the power optimizers and the inverter to transmit and receive data between these devices.
+
+&#160;
+
+&#160;
+
+Inverters
+
+&#160;
+
+Our inverter is designed for single-stage DC/AC conversion. Using our inverter in combination with the power optimizers will allow the control loop to maintain a fixed DC voltage level at its input thereby allowing for longer, uneven and multi-faceted strings while also enabling custom, cost efficient and reliable inverter design and component selection. All of the power components, as well as the main magnetic components for our inverters, can then be optimized for DC/AC inversion at high efficiency.
+
+&#160;
+
+The digital control algorithms of our inverters are implemented using programmable digital signal processors which allow for flexibility and adaptation of control loops for various grids and for the requirements and standards of various grid operators across geographies. We have already implemented the control mechanisms necessary to support advanced grid codes and standards that are required to support high penetration of solar energy into the grid.
+
+&#160;
+
+Manufacturing
+
+&#160;
+
+We have designed our manufacturing processes to produce high quality products at competitive costs. The strategy is threefold: outsource, automate and localize. We have entered into outsourcing contracts with two of the world&#8217;s leading global electronics manufacturing service providers, Jabil Circuit, Inc. and Flextronics Industrial Ltd. By using these contract manufacturers rather than building our own manufacturing infrastructure, we are able to access advanced manufacturing equipment, processes, skills and capacity on a &#8220;capital light&#8221; budget. Our contract manufacturers are responsible for funding the capital expenses incurred in connection with the manufacture of our products, except with regard to end of line testing equipment and other specific manufacturing equipment utilized in assembling our products or sub-components. We expect to continue this funding arrangement in the future, with respect to any expansions to such existing lines. Further, contracting with global providers such as Jabil and Flextronics gives us added flexibility to manufacture certain products in China, closer to target markets in Asia and the North American west coast and other products in Hungary, closer to target markets in Europe and the North American east coast, potentially increasing responsiveness to customers while reducing costs and delivery times.
+
+&#160;
+
+We have completed the development of our first proprietary automated assembly line for use at the Hungary Flextronics manufacturing plant and it is in operation and manufacturing approximately 4,000 power optimizers per day. This automated assembly line can also be replicated and deployed to additional production facilities. We are investing resources in additional automated assembly lines as well as in automated machinery for subassembly of certain components used in our products, and we will own and be responsible for funding all of the capital expenses related thereto. The current and expected capital expenses associated with these automated assembly lines and other machinery are not significant and will be funded out of our cash flows. In addition, we are in the process of designing an automatic assembly line for the production of embedded optimizers.
+
+&#160;
+
+We source our raw materials through various component manufacturers and invest resources in continued cost reduction efforts as well as verifying second and third sources so as to limit dependence on sole suppliers.
+
+&#160;
+
+Reliability and Quality Control
+
+&#160;
+
+Our power optimizers are either connected to each PV module by installers, or embedded in each PV module by PV module manufacturers. Our power optimizers are designed to be as reliable as the PV module itself and capable of withstanding the same operating and environmental conditions.
+
+&#160;
+
+Our reliability methodology includes a multi-level plan with design analysis, sub-system testing of critical components by Accelerated Life Testing, and integrative testing of design prototypes by Highly Accelerated Life Testing and large sample groups. As part of our reliability efforts, we subject components to industry standard conditions and tests including in accelerated life chambers that simulate burn-in, thermal cycling, damp-heat and other stresses. We also test complete products in stress tests and in the field. Our rigorous testing processes have helped us to develop highly reliable products.
+
+&#160;
+
+In order to verify the quality of each of our products when it leaves the manufacturing plant, each component, sub-assembly, and final product are tested multiple times during production. These tests include Automatic Optical Inspection, In-Circuit Testing, Board- and Component-Level Functional Testing, Safety Testing and Integrative Stress Testing. We employ a serial number-driven manufacturing process auditing and traceability system that allows us to control production line activities, verify correct manufacturing processes and to achieve item-specific traceability.
+
+&#160;
+
+As a part of our quality and reliability approach, failed products from the field are returned and subjected to root cause analysis, the results of which are used to improve our product and manufacturing processes and further reduce our field failure rate.
+
+&#160;
+
+&#160;
+
+Certifications
+
+&#160;
+
+Our products and systems comply with the applicable regulatory requirements of the jurisdictions in which they are sold as well as all other major markets around the world, collectively covering approximately 80% of the global solar PV market as measured by MW capacity shipped. These include safety regulations, electromagnetic compatibility standards and grid compliance.
+
+&#160;
+
+Research and Development
+
+&#160;
+
+We devote substantial resources to research and development with the objective of developing new products and systems, adding new features to existing products and systems and reducing unit costs of our products and systems. Our development strategy is to identify features, products and systems for both software and hardware that reduce the cost and improve the effectiveness of our solutions for our customers. We measure the effectiveness of our research and development by metrics including product unit cost, efficiency, reliability, power output and ease of use.
+
+&#160;
+
+We have a strong research and development team with wide-ranging experience in power electronics, semiconductors, power line communications and networking, and software engineering. In addition, many members of our team have expertise in solar technologies. As of June 30, 2016, our research and development organization had a headcount of 244 people. Our research and development expense, net totaled, $18.3 million $22.0 million and $33.2 million for fiscal 2014, 2015 and 2016, respectively.
+
+&#160;
+
+Intellectual Property
+
+&#160;
+
+The success of our business depends, in part, on our ability to maintain and protect our proprietary technologies, information, processes and know-how. We rely primarily on patent, trademark, copyright and trade secrets laws in the U.S. and similar laws in other countries, confidentiality agreements and procedures and other contractual arrangements to protect our technology. As of June 30, 2016, we had 53 issued U.S. patents, 19 issued non-U.S. patents, 57 patent applications pending for examination in the U.S. and 57 patent applications pending for examination in other countries, all of which are related to U.S. applications. A majority of our patents relate to DC power optimization and DC to AC conversion for alternative energy power systems, power system monitoring and control and management systems. Our issued patents are scheduled to expire between 2027 and 2036. We continually assess opportunities to seek patent protection for those aspects of our technology, designs and methodologies and processes that we believe provide significant competitive advantages.
+
+&#160;
+
+We rely on trade secret protection and confidentiality agreements to safeguard our interests with respect to proprietary know-how that is not patentable and processes for which patents are difficult to enforce. We believe that many elements of our manufacturing processes involve proprietary know-how, technology or data that are not covered by patents or patent applications, including technical processes, test equipment designs, algorithms and procedures.
+
+&#160;
+
+All of our research and development personnel are required to enter into confidentiality and proprietary information agreements with us. These agreements address intellectual property protection issues and require our employees to assign to us all of the inventions, designs and technologies they develop during the course of employment with us.
+
+&#160;
+
+Our customers and business partners are required to enter into confidentiality agreements before we disclose any sensitive aspects of our technology or business plans.
+
+&#160;
+
+Competition
+
+&#160;
+
+The markets for our products are competitive, and we compete with manufacturers of traditional inverters and manufacturers of other MLPE. The principal areas in which we compete with other companies include:
+
+&#160;
+
+&#8226;
+
+product and system performance and features;
+
+&#160;
+
+&#8226;
+
+total cost of ownership;
+
+&#160;
+
+&#160;
+
+&#8226;
+
+PV module compatibility and interoperability;
+
+&#160;
+
+&#8226;
+
+reliability and duration of product warranty;
+
+&#160;
+
+&#8226;
+
+customer service and support;
+
+&#160;
+
+&#8226;
+
+breadth of product line;
+
+&#160;
+
+&#8226;
+
+local sales and distribution capabilities;
+
+&#160;
+
+&#8226;
+
+compliance with applicable certifications and grid codes;
+
+&#160;
+
+&#8226;
+
+size and financial stability of operations; and
+
+&#160;
+
+&#8226;
+
+size of installed base.
+
+&#160;
+
+Our DC optimized inverter system competes principally with products from traditional inverter manufacturers, such as SMA Solar Technology AG, ABB Ltd. and Huawei Technologies Co. Ltd. as well as from new Chinese inverter manufacturers. In the North American residential market, we compete with traditional inverter manufacturers, as well, as microinverter manufacturers such as Enphase Energy, Inc. In addition, several new entrants to the MLPE market, including low-cost Asian manufacturers, have recently announced plans to ship or have already shipped similar products. We believe that our DC optimized inverter system offers significant technology and cost advantages that reflect a competitive differentiation over traditional inverter systems and microinverter technologies.
+
+&#160;
+
+Government Incentives
+
+&#160;
+
+U.S. federal, state, and local government bodies, as well as non-U.S. government bodies, provide incentives to owners, end users, distributors and manufacturers of solar PV systems to promote solar electricity in the form of rebates, tax credits and other financial incentives such as system performance payments, payments for renewable energy credits associated with renewable energy generation and exclusion of solar PV systems from property tax assessments. The market for on-grid applications, where solar power is used to supplement a customer&#8217;s electricity purchased from the utility network or sold to a utility under tariff, often depends in large part on the availability and size of these government subsidies and economic incentives, which vary by geographic market and from time to time. In general, the amount and availability of these incentives and subsidies to encourage the development of solar PV energy have been declining and are expected to continue to decline.
+
+&#160;
+
+Seasonality
+
+&#160;
+
+The solar energy market is subject to seasonal and quarterly fluctuations affected by weather. For example, during the winter months in Europe and the northeastern U.S. where the climate is particularly cold and snowy, it is typical to see a decline in PV installations and this decline can impact the timing of orders for our products.
+
+&#160;
+
+Employees
+
+&#160;
+
+As of June 30, 2016, we had 608 full-time employees. Of these full-time employees, 244 were engaged in research and development, 143 in sales and marketing, 175 in operations and support and 46 in general and administrative capacities. Of our employees, 376 were based in Israel, 94 were based in the U.S., 47 were based in China, 33 were based in Germany and an additional 58 were based elsewhere.
+
+&#160;
+
+None of our employees are represented by a labor union. We have not experienced any employment related work stoppages, and we consider relations with our employees to be good.
+
+&#160;
+
+Corporate Information
+
+&#160;
+
+We were incorporated in Delaware in 2006. Our principal executive offices are located at 1 HaMada Street, Herziliya Pituach 4673335, Israel and our telephone number at this address is 972 (9) 957-6620. Our website is www.solaredge.com .
+
+&#160;
+
+&#160;
+
+We file annual, quarterly and current reports, proxy statements and other documents with the Securities and Exchange Commission (the &#8220;SEC&#8221;), pursuant to the Securities Exchange Act of 1934 (the &#8220;Exchange Act&#8221;). You may read and copy any materials that we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street N.E., Washington, D.C. 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-732-0330. Our reports, proxy statements and other documents filed electronically with the SEC are available at the website maintained by the SEC at www.sec.gov .
+
+&#160;
+
+We also make available, free of charge on the Investor Relations portion of our website at www.solaredge.com , our annual, quarterly, and current reports, and, if applicable, amendments to those reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such reports with, or furnish them to, the SEC. We also make available on the Investor Relations portion of our website at www.solaredge.com our earnings presentation and other important information, which we encourage you to review.
+
+&#160;
+

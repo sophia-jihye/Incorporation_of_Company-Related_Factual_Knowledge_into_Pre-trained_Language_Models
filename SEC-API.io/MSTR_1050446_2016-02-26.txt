@@ -1,0 +1,658 @@
+ Item 1. Business Overview 
+
+MicroStrategy &#174; is a leading worldwide provider of enterprise software platforms. The Company&#146;s mission is to provide enterprise analytics, mobility, and security platforms that are flexible, powerful, scalable, and user-friendly. 
+
+MicroStrategy 10&#153; consolidates analytics, mobility, and security in a single integrated platform, available both as on-premises software and as a hosted service offering in MicroStrategy Secure Cloud. MicroStrategy&#146;s enterprise platform combines traditional business intelligence functionality with data discovery, mobile analytics, and powerful enterprise security. MicroStrategy 10 builds on proven enterprise capabilities to make sophisticated, high-performance analytics more accessible, easier to use, and faster. MicroStrategy 10 consists of MicroStrategy Analytics&#153;, MicroStrategy Mobile&#153;, and Usher&#153;. 
+
+MicroStrategy Analytics empowers large organizations to analyze vast amounts of data and securely distribute actionable business insight throughout an enterprise, while also being able to cater to smaller workgroups and departmental use via MicroStrategy Desktop&#153;. MicroStrategy Analytics delivers reports and dashboards, and enables users to conduct ad hoc analysis and share insights anywhere, anytime, via mobile devices or the Web (via MicroStrategy Web&#153;). It also combines the agility and productivity of self-service visual data discovery with the security, scalability, and governance features of enterprise-grade business intelligence. MicroStrategy Analytics is available both as on-premises software and as a hosted service offering in MicroStrategy Secure Cloud. MicroStrategy Desktop is a standalone, on-premise visual data discovery tool designed to enable business users to analyze and understand their data. With MicroStrategy Desktop, smaller departments or individual business users can create stunning data visualizations and dashboards that provide new insight and new understanding in just minutes. 
+
+MicroStrategy Mobile enables organizations to rapidly build custom business applications that deliver analytics combined with transactions, multimedia, mapping, and custom workflows to mobile devices. The powerful code-free platform approach is designed to reduce the costs of development and enable organizations to quickly deploy powerful mobile business apps. MicroStrategy Mobile is an easy, fast, and cost-effective vehicle for mobilizing an organization&#146;s information systems, including its data warehouses, business intelligence, ERP, CRM, and Web applications that are currently accessible only on the desktop. With MicroStrategy Mobile, businesses can transform their entire workforce into a connected and more productive mobile workforce using information-driven mobile apps that are significantly more robust and secure than their Web-only counterparts. With mobile access to critical corporate data and systems that drive the business, employees can have a virtual office in their hands at all times. MicroStrategy Mobile is available both as on-premises software and as a hosted service offering in MicroStrategy Secure Cloud. 
+
+Usher, MicroStrategy&#146;s security solution, is a powerful mobile security platform designed to dematerialize traditional forms of identity verification (such as passwords, tokens, and physical badges) and replace them with a single mobile identity badge that is cryptographically linked to its owner&#146;s smartphone and dynamically linked to an enterprise&#146;s existing identity repositories. Usher works on standard smartphones running on iOS or the Android&#153; platform, and also boasts an Apple Watch &#174; integration. By delivering strong, multi-factor authentication that can be extended to nearly every corporate system, Usher&#146;s enterprise mobile security solution addresses some of the biggest challenges facing corporations today - including authentication, identity and access management, and resource authorization - while applying industry leading business intelligence and analytics to an enterprise&#146;s security infrastructure. Through the use of Bluetooth &#174; , QR codes, biometrics, push notifications, time-limited PIN codes, and other authentication methods, Usher users can log into applications, VPNs, and workstations, unlock doors and other physical gateways, and validate each other&#146;s identities. Usher can also be used as a powerful workforce management resource because it is designed to enable managers to gain a new real-time window into the activity of their distributed workforces, while providing powerful interactive features to manage or direct them. With the addition of Usher Professional&#153;, administrators can track user activity on a real-time map and communicate with users from the Usher application. Usher is available both as on-premises software and as a hosted service offering in MicroStrategy Secure Cloud. 
+
+MicroStrategy Secure Cloud is a platform for organizations that want to harness the power of data through MicroStrategy&#146;s enterprise solutions via the cloud. Compared to traditional on-premises approaches, MicroStrategy Secure Cloud is architected to deliver best-of-breed MicroStrategy software via the cloud, with pre-configured, ready to go servers, coupled with the required supporting infrastructure with metadata databases, relational databases, and big data storage. With MicroStrategy Secure Cloud, customers can launch enterprise analytics environments within minutes and use the full MicroStrategy 10 offering on a subscription basis. 
+
+&#160;
+
+MicroStrategy Analytics, MicroStrategy Mobile, and MicroStrategy Secure Cloud, together with related product and support services, continue to generate the vast majority of our revenue. During 2015, 2014, and 2013, we did not generate significant revenues from Usher. 
+
+We were incorporated as a Delaware corporation on November 17, 1989. Today, with operations in 27 countries worldwide, the company is one of the largest independent publicly-traded analytics vendors as measured by annual revenue. 
+
+MicroStrategy 10 Secure Enterprise&#153; 
+
+MicroStrategy 10 Secure Enterprise enables users to query and analyze detailed, transaction-level databases, large Hadoop &#174; distributions, data warehouse appliances, departmental databases, cloud data sources, and user-owned data in spreadsheets. It transforms data into business insights through highly visual, interactive reports and dashboards that can be securely distributed to hundreds of thousands of users throughout an enterprise.
+
+Five key business needs have driven demand for powerful analytics solutions: 
+
+&#160;
+
+&#160; &#149; &#160; Increased consumption of analytics. In the past, dissemination of information was limited to a few power-users or analysts. Now, a wide range of information users &#150; from customer service representatives to the CEO within a company, and from customers to suppliers outside the organization &#150; can benefit from the insight that analytics provides. The wide acceptance of the Internet as an information source also has fueled demand for enterprise data to be accessible over the Web to tens of thousands of users across an enterprise. In addition, demand for analytics on mobile devices is being driven by the growth of the mobile Internet and by the accelerating proliferation of mobile devices. 
+
+&#160;
+
+&#160; &#149; &#160; Increased data scalability. Increasing information generation, and in particular, the ability to capture and store electronically every business transaction and interaction, have made terabyte-size data warehouses commonplace. Due to very large data volumes at some organizations, such as data volumes generated by social media, data warehouses can now reach sizes in excess of tens of petabytes (1,000 terabytes). While transaction- and interaction-level information is now routinely captured, organizations often struggle to make productive use of such massive data stores. Organizations need to view data within its operational context &#150; making even the most detailed information meaningful to business users. As a result, users want the ability to easily discover trends hidden in these very large databases and to verify these trends by reviewing the underlying detail. 
+
+&#160;
+
+&#160; &#149; &#160; Improved analytics system performance. The increase in user population sizes and data volumes puts a strain on analytics infrastructures. Business users expect to retrieve the information they are requesting within seconds of making the request. Mobile devices have set this expectation even higher by increasing demand for near instantaneous responses to requests. Analytics administrators need to systematically monitor and tune the analytics environment to provide the expected service levels. 
+
+&#160;
+
+&#160; &#149; &#160; Improved data comprehension and visualization. As data volumes have increased, the growing work demands placed on business users have meant progressively less time available to users to monitor and improve their businesses and make informed decisions. As a result, business users need to view the data in a summarized, easy-to-grasp format and navigate to areas of concern for additional insight. Presenting the data in a highly visual, accessible, and interactive format to collate, view, and explore information with agility and ease of use improves the overall comprehension of the business and speeds up the decision-making process. 
+
+&#160;
+
+&#160; &#149; &#160; Increased demand for personalized, one-to-one customer and/or supplier experience. Many companies have implemented strategies that establish personalized relationships with each customer and/or supplier based on individual needs and preferences. They earn loyalty by providing superior service, security, and convenience. In order to successfully acquire, retain, and upgrade customers, these organizations need to understand their customers&#146; profiles, transaction histories, past responses to marketing campaigns, and interactions with customer service. This information is often stored in widely dispersed and complex data sources, and obtaining a holistic view of the customer can be challenging. 
+
+&#160;
+
+The volume of data available to enterprises is growing at a very high rate, being driven by greater transaction detail, more sensors, more external data, and more data from mobile and social media platforms. MicroStrategy 10 Secure Enterprise helps organizations worldwide take advantage of this explosive growth in enterprise data by equipping managers and employees with timely, actionable information to make data-driven business decisions. 
+
+Solutions built on MicroStrategy 10 Secure Enterprise can give analysts, managers, and executives the critical insight they need to reduce costs, better allocate resources, improve efficiencies, and optimize operations. MicroStrategy 10 Secure Enterprise can also be used to build stronger relationships with business partners and suppliers by providing insights for managing inventory levels, analyzing supply chains, and tracking vendor performance. MicroStrategy 10 Secure Enterprise also includes predictive capabilities that enable organizations to leverage their historical data to project future business outcomes. 
+
+MicroStrategy 10 Secure Enterprise provides IT professionals with a powerful, highly automated mechanism for delivering insightful reports, visualizations, and dashboards to employees throughout an organization. In addition, MicroStrategy 10 Secure Enterprise includes a self-service feature, MicroStrategy Visual Insight, which enables business users to upload, prepare, and explore enterprise data on their own, without any coding or IT expertise. With this feature, business users can spot trends and outliers in a completely visual and interactive way, thereby eliminating much of the need for IT to create reports and dashboards for them. 
+
+MicroStrategy 10 Secure Enterprise is available in two distinct end-user platforms: MicroStrategy Analytics and MicroStrategy Desktop. MicroStrategy Analytics is designed for enterprise-scale business intelligence, supporting high performance analytics on gigabytes, terabytes, or petabytes of data. Organizations can deploy MicroStrategy Analytics on-premises or access the same functionality within the MicroStrategy Secure Cloud offering. MicroStrategy Desktop puts the power of MicroStrategy 10 Secure Enterprise into the hands of individual users for self-service visual analytics and data discovery. The two products share a common user experience &#151; making it easy to start small with self-service analytics and grow into the production-grade features of MicroStrategy Analytics. 
+
+MicroStrategy Analytics 
+
+MicroStrategy Analytics is our flagship analytics software. It is a comprehensive, enterprise-grade solution featuring sophisticated analytics, scalable performance, multi-level security, and rigorous data governance. It also combines the agility and productivity of self-service data visualization (also known as visual data discovery), which bridges the gap between fast, elegant, interactive visual analytics and powerful, large-scale enterprise business intelligence. 
+
+Key benefits of MicroStrategy Analytics include: 
+
+&#160;
+
+&#160; &#149; &#160; Flexibility to report, analyze, and monitor. MicroStrategy Analytics unifies reporting, analysis, and real-time business monitoring into one seamless experience for the business user, one efficient and scalable architecture for the IT professional, and one economical and extensible utility for the CIO. 
+
+&#160;
+
+&#160; &#149; &#160; Single platform for enterprise data discovery and analytics. MicroStrategy Analytics supports both business user and traditional IT user needs by offering all styles of BI bundled into a single comprehensive analytics platform. Business users have access to the data discovery toolset via MicroStrategy Web, MicroStrategy Desktop and MicroStrategy Mobile, and these user interfaces also allow them to consume all other styles of analytics that their IT organizations have deployed, including pixel perfect dashboards, enterprise reports and statements, scorecards, and more. Organizations do not need to resort to other point data discovery tools to gain access to agile data discovery capabilities, as they are available as an integrated part of MicroStrategy Analytics. 
+
+&#160;
+
+&#160; &#149; &#160; Industrial-strength analytics. MicroStrategy Analytics enables industrial-strength analytics with enterprise-caliber technology and high user- and data-scalability. It enables centralized administration, operations, and maintenance in a unified interface and from within a unified hardware environment. Users can connect through their mobile devices, a zero-footprint Web offering, a Desktop-based client for offline analysis and also by directly injecting analytics into Microsoft &#174; Office products &#151; expanding the reach of business intelligence across the enterprise. 
+
+&#160;
+
+&#160; &#149; &#160; Data discovery at scale. MicroStrategy Analytics offers data discovery capabilities and is available to the end user across all standard user interfaces. With its HTML5 interface, users are able to connect to most data sources, ranging from personal spreadsheets to enterprise warehouses and cloud hosted sources, and can blend and prepare the data on their own without any IT support. This fully self-service work flow also allows the extension of the software to integrate with other third party capabilities. For instance, although MicroStrategy Analytics includes a variety of out-of-the-box visualizations, it also provides the ability to include other third-party visualizations like D3 and high charts, as well as the ability to include native and third-party advanced analytics into native workflows. The dashboards that include all of these components can also be personalized and shared with thousands of users across the organization using MicroStrategy&#146;s powerful Distribution Services. 
+
+&#160;
+
+&#160; &#149; &#160; Data to insight in minutes without IT involvement. MicroStrategy Analytics gives business users a simple, powerful, and fast way to analyze data with minimal set-up requirements. It is designed to allow business users to answer business questions on their own, avoiding the lengthy process of report specification and design. By using a variety of graphical visualizations to represent the entire analysis, users can easily and rapidly spot trends and outliers in large data sets, creating a user experience that seems to unfold in real time. In addition to this, MicroStrategy Analytics also supports traditional centralized BI through its metadata based architecture, from which MicroStrategy Analytics gains its ability to design highly reusable objects that deliver both high performance and scale. The combination of enterprise scalability along with data discovery features brings the power of enterprise analytics to the personal level, making it easy to extend the power of the entire MicroStrategy Analytics platform to everyone in the organization. 
+
+&#160;
+
+&#160; &#149; &#160; Actionable insight. MicroStrategy Analytics helps organizations accelerate the speed and productivity of their businesses by building mobile apps and Web dashboards that connect to back-end transactional systems and databases to include data entry and action-taking features, including: submitting orders, one-click approvals and denials, notes for tracking and directing business activity, and write-back to data sources. 
+
+&#160;
+
+&#160; &#149; &#160; Governed data discovery. MicroStrategy Analytics enables organizations to achieve data consistency and governance across every report, dashboard, visualization, and user within the system through a trusted and centralized metadata store. By leveraging our reusable metadata to define, manage, and maintain common definitions for metrics, attributes, data sets, and other objects through governed data discovery, organizations can lower the overall cost of developing new analytical outputs (such as reports or dashboards), while helping to ensure that the information delivered in those outputs is accurate, governed, and timely. MicroStrategy Analytics not only provides governance via centralized IT deployments where the dashboards and applications are based around a centralized metadata store, but also offers the ability to promote Desktop-based dashboards created by business users to the MicroStrategy Server&#153;, and to map external data assets to certified data systems. 
+
+&#160;
+
+&#160; &#149; &#160; Heterogeneous access, joining and preparation of data from across the enterprise. MicroStrategy Analytics enables organizations to create integrated views of data across heterogeneous data stores. By mapping conforming dimensions from multiple sources within the MicroStrategy object model, the platform automatically joins data from multiple sources in the same table, chart, or visualization. Additionally, MicroStrategy Analytics also offers self-service data connect options to business users, who do not need to rely on data modeling or architecting to access any data source. Data can come from any source including most relational and columnar data warehouses, data marts, Apache&#153; Hadoop &#174; , SAP &#174; Business Information Warehouse (SAP BW), Microsoft &#174; SQL Server &#174; Analysis Services, IBM &#174; Cognos &#174; TM1 &#174; , Oracle &#174; Essbase, Salesforce &#174; , social media sources such as Twitter and Facebook, and many other operational system databases. In addition to allowing users to connect to these data sources, MicroStrategy Analytics offers data preparation and wrangling capabilities that allow business users to transform their data for improved analysis. 
+
+&#160;
+
+&#160; &#149; &#160; Integration of advanced analytics into mainstream reporting and analyses. MicroStrategy Analytics&#146; analytic engine includes predictive capabilities in MicroStrategy reports and analyses. The analytic engine can train and calculate many of the primary data mining functions, including time-series, association rules, clustering, regression, and decision-tree algorithms. Hand-in-hand with this calculation capability, MicroStrategy Analytics also includes the ability to import data mining models directly from data mining products from vendors like IBM &#174; SPSS &#174; , Teradata &#174; , and SAS &#174; using the predictive modeling mark-up language (PMML) standard, and by embedding R statistical packages in the platform. With this capability, data mining models, such as neural network algorithms, rule set algorithms, and support vector machines, as well as ensembles of models, can be imported through a single click and automatically converted into a standard MicroStrategy metric. After that, the MicroStrategy Data Mining Services TM extension enables these metrics to be used freely and calculated quickly in reports, analyses, and alerts. A key capability of MicroStrategy Analytics is that business users can now readily tap into over 350 advanced analytics and statistical functions for data discovery purposes, and these functions are included within an easily accessible library. 
+
+&#160;
+
+&#160; &#149; &#160; Support for large data volumes and all major relational database/hardware combinations. MicroStrategy Analytics supports systems with very large data volumes and is specifically optimized to support all major relational database platforms, Hadoop distributions, and data appliances commonly used for business intelligence systems, as well as multi-dimensional databases, such as SAP BW. Important features of our solution in this area include: 
+
+&#160;
+
+&#160; &#149; &#160; Native connectors to HDFS, in addition to the hive options to connect to Cloudera &#174; , Hortonworks &#174; , and MapR &#174; , among other big data sources; 
+
+&#160;
+
+&#160; &#149; &#160; Available with MicroStrategy 10 Secure Enterprise, and included as an integrated part of the MicroStrategy Server product are highly scalable, in-memory cubes that can now be partitioned and support parallel processing. This new advancement in in-memory architecture allows organizations to store a greater volume of data in memory and offers faster processing; 
+
+&#160;
+
+&#160; &#149; &#160; Dynamically generated SQL, multidimensional expressions (MDX), and Hadoop queries that optimize the performance of each major database; 
+
+&#160;
+
+&#160; &#149; &#160; Very Large Database (VLDB) parameters that allow individual reports to be tuned for performance; 
+
+&#160;
+
+&#160; &#149; &#160; Support for hand-written SQL, Hadoop, and XQuery queries; 
+
+&#160;
+
+&#160; &#149; &#160; Ability to support very large user populations; and 
+
+&#160;
+
+&#160; &#149; &#160; Highly reliable up-time, even in high volume applications. 
+
+&#160;
+
+&#160; &#149; &#160; Powerful distribution engine for information delivery. Our technology offers a high performance, personalized distribution engine for delivering periodic and alert-based information to users via e-mail, Web, and mobile devices. The distribution engine is able to deliver dashboard applications in a highly automated and personalized manner to all major device types used in both domestic and international markets, enabling the delivery of information to users when and where it is needed. 
+
+&#160;
+
+&#160; &#149; &#160; Customizable applications and Embedded BI. MicroStrategy Analytics applications can be customized extensively using proprietary SDK capabilities. This allows organizations to brand web and mobile-based applications, and also embed these applications directly into other corporate applications. White labeling for portal integration, single sign-on, and direct integration into other software increase the deployment options of MicroStrategy Analytics and allow IT groups to roll out analytics to the entire organization in a customizable manner, while still being able to leverage investments made in other technologies. 
+
+MicroStrategy&#146;s Metadata Architecture 
+
+The core differentiator of MicroStrategy&#146;s products stems from their metadata-based centralized architecture, which has been built and refined over many years and provides access to all enterprise data using familiar business terms, rules, and logic. The portable, flexible, reusable, object-oriented and dynamic nature of the metadata provides an efficient BI application and mobile app development platform while maximizing maintainability and enforcing enterprise-wide consistency. The dynamic behavior of metadata in MicroStrategy products helps ensure consistency across business definitions, and minimizes the number of objects created, stored, and managed. Other BI technologies are limited in their reuse capabilities, forcing developers to create the same components over and over again for use in each individual report. 
+
+MicroStrategy Server 
+
+MicroStrategy Server is the architectural foundation of MicroStrategy 10 Secure Enterprise. It provides the core analytical processing and job management for all reporting, analysis, and monitoring applications. It provides a powerful, comprehensive set of features necessary for a scalable, fault-tolerant, enterprise-wide business intelligence system. 
+
+&#160;
+
+As the central contact point to metadata, MicroStrategy Server dynamically assembles the metadata objects to create optimized, multi-pass SQL queries for every major relational database, HiveQL queries for Hadoop distributions, and MDX queries for multidimensional data sources. MicroStrategy Server retrieves the data, performs any additional analytical calculations not available in the databases, formats the report, and delivers the reports to business users via the MicroStrategy Web, Mobile, Office, or Desktop interfaces. 
+
+MicroStrategy Server is a highly scalable, parallel-processing, self-tuning analytic server. It manages high performance interactions involving terabytes of data accessed by tens of thousands of users using in-memory intelligent cubes, caching, load balancing, resource prioritization, and connection pooling. It accesses and joins data from multiple data sources, such as data warehouses, operational databases, multidimensional (cube) databases, and even Web services and flat files. MicroStrategy Server also manages users, system security, data security, and user functionality access. A clustering option is available with MicroStrategy Server that increases scalability, and provides fault tolerance with automatic failover. 
+
+MicroStrategy Web 
+
+MicroStrategy Web is great for business users or consumers looking to interact with data, or to even simply view a static overview report. At the same time, MicroStrategy Web is where savvy analysts put all of the pieces together to design highly formatted and customized dashboards. 
+
+MicroStrategy Web is the primary reporting interface for analysts, offering interactive reporting, dashboarding, and analysis through a Web browser. It provides enterprise analytical functionality with access to extensive report and document creation, manipulation, and formatting capabilities in an easy-to-use Web interface. 
+
+MicroStrategy Web architecture provides a single, consistent interface to all users whether the BI application is departmental and internal, or an extranet application deployed to hundreds of thousands of users. MicroStrategy Web allows business users of any skill level to move fluidly between all styles of BI to satisfy their reporting, analysis, and monitoring needs. 
+
+MicroStrategy Desktop 
+
+MicroStrategy Desktop is a single user tool for fast, powerful, and easy-to-use self-service data discovery. It enables business users to gain valuable insight into their organizations&#146; data by creating stunning, useful visualizations in just minutes, without assistance from the IT department. MicroStrategy Desktop can be readily downloaded and installed on a PC or Mac, making the power of MicroStrategy 10 Secure Enterprise easily available to everyone. MicroStrategy Desktop can be used while offline and while not connected to MicroStrategy Server, and can connect to the MicroStrategy Server when needed. This user interface can help introduce MicroStrategy 10 Secure Enterprise to smaller departments that are looking for quick and easy deployment options. It offers easy migration options to the Enterprise edition of MicroStrategy Analytics, and all analytical content developed with MicroStrategy Desktop may be promoted to the MicroStrategy Server and can be consumed by the other user interfaces offered with MicroStrategy, such as MicroStrategy Web and MicroStrategy Mobile. 
+
+MicroStrategy Analytics Strategy 
+
+Our technology strategy is focused on delivering comprehensive platform-based solutions to enable any organization to create immediate value from analytics and then quickly grow its analytics effort to encompass more advanced capabilities as well as larger user and data scale. This strategy includes: expanding support for large information stores, improving performance and administration, enhancing our analysis capabilities, and enhancing report delivery via the Web and mobile devices. We continue to enhance our products for use with a broad range of operating systems and databases to enable our customers to leverage their existing technology investments to achieve faster query times with fewer required resources. We continue to enhance usability and visual data exploration to increase ease of use and functionality, and thus further decrease the need for IT intervention. We are working to further differentiate our products by increasing: 
+
+&#160;
+
+&#160; &#149; &#160; Visual analysis and user self-service. Ease of use and visual exploration and analysis capabilities on small to extremely large data sets, in conjunction with the enterprise capabilities also offered by our platforms; 
+
+&#160;
+
+&#160; &#149; &#160; Data capacity. The volume of information that can be efficiently analyzed and utilized; 
+
+&#160;
+
+&#160; &#149; &#160; User concurrency. The number of users that can be supported simultaneously; 
+
+&#160;
+
+&#160; &#149; &#160; Analytic sophistication. The range of analytical methods available to the application designer; 
+
+&#160;
+
+&#160; &#149; &#160; Performance. The throughput and response time of the system, measured in seconds; 
+
+&#160;
+
+&#160; &#149; &#160; Database flexibility. The range of data sources, data warehouses, and online transaction processing databases that the software is capable of efficiently querying without modification; 
+
+&#160;
+
+&#160; &#149; &#160; Robustness. The reliability and availability of the software in mission-critical environments; 
+
+&#160;
+
+&#160; &#149; &#160; Deployability. The ease with which applications can be securely deployed, modified, upgraded, and tuned; 
+
+&#160;
+
+&#160; &#149; &#160; Personalization. The quality and sophistication of a one-to-one user experience; 
+
+&#160;
+
+&#160; &#149; &#160; Content flexibility. The range of content, both structured and unstructured, that can be efficiently utilized; 
+
+&#160;
+
+&#160; &#149; &#160; Media channel and interface flexibility. The range of media channels (including mobile devices), interface options, and display features supported; and 
+
+&#160;
+
+&#160; &#149; &#160; Transaction capabilities. The ability to efficiently initiate actions and transactions from mobile devices and Web-based dashboards. 
+
+MicroStrategy Mobile 
+
+MicroStrategy&#146;s consistently highly-rated mobile offering extends beyond basic mobile analytics to deliver an innovative mobile app platform that makes building a variety of mobile business apps easier and faster. 
+
+MicroStrategy Mobile enables organizations to rapidly build information-rich applications that deliver analytics combined with transactions, multimedia, mapping, and custom workflows to mobile devices. The code-free platform approach is designed to reduce the costs of development and enable organizations to quickly deploy powerful mobile business apps. MicroStrategy Mobile is an easy, fast, and cost-effective vehicle for mobilizing an organization&#146;s information systems, including its data warehouses, business intelligence, ERP, CRM, and Web applications that are currently accessible only on the desktop. With MicroStrategy Mobile, businesses can transform their entire workforce into a connected and more productive mobile workforce using information-driven mobile apps that are significantly more robust and secure than their Web-only counterparts. With mobile access to critical corporate data and systems that drive the business, employees can have a virtual office in their hands at all times.
+
+During 2015, independent analyst firm Dresner Advisory Services rated MicroStrategy Mobile the number two overall offering out of twenty-four vendors for Mobile Computing / Mobile Business Intelligence. This is the fifth year in a row that MicroStrategy has placed first or second in the list of vendors included in Dresner&#146;s Wisdom of Crowds &#174; Mobile Computing / Mobile BI Market Study. 
+
+MicroStrategy Mobile is available both as on-premises software and as a hosted service offering in MicroStrategy Secure Cloud. 
+
+Key benefits of MicroStrategy Mobile include: 
+
+&#160;
+
+&#160; &#149; &#160; Increased employee productivity by gaining new efficiencies and cutting decision times. MicroStrategy Mobile computing can dramatically improve personal productivity, replacing how people write, carry, touch, and decide today. MicroStrategy Mobile puts materials, information, and system access on devices that are always on, always connected, and always in reach. 
+
+&#160;
+
+&#160; &#149; &#160; Extending information throughout an organization. MicroStrategy Mobile can help run a business more effectively by extending the reach of critical enterprise systems to all constituents in all locations. It can provide real-time access to the latest information and data-driven visualizations that fuel spontaneous conversations and more effective decision making. 
+
+&#160;
+
+&#160; &#149; &#160; Conducting business in newer and faster ways. MicroStrategy Mobile context-aware apps that leverage native mobile device functionality (e.g., GPS, camera, etc.) allow users to complete tasks significantly faster or in more efficient ways than Web or desktop-bound apps. 
+
+&#160;
+
+&#160; &#149; &#160; Fast app development. MicroStrategy Mobile is one of the fastest ways to create new mobile apps and mobile front-ends to existing analytics applications. Its click-to-configure features allow the development of mobile apps in a code free environment without requiring an organization&#146;s IT resources. It also allows for the deployment of native apps across multiple operating systems with a single design and lets a user make an app multi-lingual with a few configuration clicks. 
+
+&#160;
+
+&#160; &#149; &#160; High Performance Mobilization. MicroStrategy Mobile provides compelling and high-performance MicroStrategy Mobile powered apps that can maximize impact, durability, and adoption. 
+
+MicroStrategy Mobile Releases in 2015 
+
+MicroStrategy Mobile currently includes the following significant functional enhancements made during 2015: 
+
+&#160;
+
+&#160; &#149; &#160; Enhanced user interface and experience. We understand that user interface and experience greatly impact user adoption, so we continually introduce new and enhanced features and capabilities in this area. Introductions and enhancements during 2015 include a completely re-designed drilling interface, recent search display, new link-drilling in graphs, multimedia widget sorting, enhanced grid controls, support for Attribute Object selectors, ability to create and manage subscriptions to reports/documents, and more. 
+
+&#160;
+
+&#160; &#149; &#160; Improved offline prompting capabilities. Full prompting functionality is now supported in offline mode. Users can re-prompt a report or document in offline mode with the list of all the valid caches that exist for that report or document, not just the last instance of the report. 
+
+&#160;
+
+&#160; &#149; &#160; Option to disable offline transactions. This new feature allows the app designer to set &#151; at the transaction action selector level &#151; whether the transaction should be available in offline mode or not. If disabled, end users will not be able to queue transactions on their devices. 
+
+&#160;
+
+&#160; &#149; &#160; Increased parity with Web-based data discovery dashboards (Visual Insight). All formatting on data discovery dashboards designed on MicroStrategy Web ports over to mobile devices and offers a consistent user experience. Mobile dashboards inherit all the design components including color themes, font size, font alignment, and font color. 
+
+&#160;
+
+&#160; &#149; &#160; Custom visualization support. MicroStrategy Mobile offers support for open source visualizations like D3, where users can intuitively interact with D3 visualizations using native gestures such as tap-and-hold, swipe and pinch-to-zoom. Users can add any opened-sourced visualization from D3 or other providers and have complete interactivity support on MicroStrategy Mobile. 
+
+&#160;
+
+&#160; &#149; &#160; Enhanced mapping. Dynamic geospatial analysis drawn on top of ESRI maps in MicroStrategy Web is instantly converted and optimized for Apple maps in MicroStrategy Mobile. Users can visualize areas or regions on a map, and color each area based on a category or metric value with thresholds. 
+
+&#160;
+
+&#160; &#149; &#160; Enhanced calendaring. The calendar widget now offers hour-level granularity and allows app designers to set a desired default view (hour, day, month, etc.). 
+
+&#160;
+
+&#160; &#149; &#160; Enhanced Mobile SDK. MicroStrategy Mobile SDK developers can now write their own code with customized logic for link drilling. This enables app designers to have more flexibility within the app workflow. Some useful scenarios that can be addressed with this new capability include: deleting the client cache for a document before executing it; limiting the location range to run a document for security reasons; and exposing the native share controls that are not provided out-of-box, like Share to Facebook, Twitter, etc. 
+
+&#160;
+
+&#160; &#149; &#160; Enterprise Mobility Management (EMM) integration updates. The MicroStrategy Mobile SDK and integration points of MicroStrategy Mobile with AirWatch &#174; and MobileIron &#174; are now compatible with and certified for iOS9. 
+
+&#160;
+
+MicroStrategy Mobile Technology Strategy 
+
+We continue to invest in enhancing MicroStrategy Mobile to empower our customers with the ability to build apps that drive their businesses forward and deliver revolutionary applications to their employees, partners, prospects, and customers. We continue to invest in enhancing MicroStrategy Mobile&#146;s overall performance and security as well as its three core capability areas: analytics, transactions, and multimedia. We remain focused on delivering the most compelling native end user experience on devices that are adopted by enterprises. New features specific to supported operating systems will take advantage of the native API&#146;s and incorporate new OS capabilities into apps built by MicroStrategy customers. 
+
+We also continue to invest in bringing to life mobile apps in an easy, fast, and flexible way. We will continue to enhance our MicroStrategy Mobile technology to deliver an experience that is philosophically &#147;user first&#148; by combining a powerful user experience on top of a dynamic and accessible development infrastructure. 
+
+Usher 
+
+Usher, MicroStrategy&#146;s security solution, is a powerful mobile security platform designed to dematerialize traditional forms of identity verification (such as passwords, tokens, and physical badges) and replace them with a single mobile identity badge that is cryptographically linked to its owner&#146;s smartphone and dynamically linked to an enterprise&#146;s existing identity repositories. Usher works on standard smartphones running on iOS or the Android platform, and also boasts an Apple Watch integration. By delivering strong, multi-factor authentication that can be extended to nearly every corporate system, Usher&#146;s enterprise mobile security solution addresses some of the biggest challenges facing corporations today - including authentication, identity and access management, and resource authorization - while applying industry leading business intelligence and analytics to an enterprise&#146;s security infrastructure. Through the use of Bluetooth, QR codes, biometrics, push notifications, time-limited PIN codes, and other authentication methods, Usher users can log into applications, VPNs, and workstations, unlock doors and other physical gateways, and validate each other&#146;s identities. Usher can also be used as a powerful workforce management resource because it is designed to enable managers to gain a new real-time window into the activity of their distributed workforces, while providing powerful interactive features to manage or direct them. With the addition of Usher Professional, administrators can track user activity on a real-time map and communicate with users from the Usher application. Usher is available both as on-premises software and as a hosted service offering in MicroStrategy Secure Cloud. 
+
+Usher can appeal to businesses, universities, associations, governments, and other organizations because it adds a layer of security to their systems, physical spaces, and transactions that would otherwise be technically difficult or cost-prohibitive. Usher is designed to secure an enterprise by offering an alternative to existing forms of identification and authentication. Usher is designed to provide a more secure alternative to passwords which can be stolen or cracked. Usher is also designed to help reduce identity-related fraud by replacing physical ID cards that can be counterfeited and stolen. 
+
+Key benefits of Usher include: 
+
+&#160;
+
+&#160; &#149; &#160; Identity protection. Usher mobile identities are designed to be more secure than traditional physical forms of identity, which can be stolen and counterfeited. 
+
+&#160;
+
+&#160; &#149; &#160; Authentication. Usher is designed to provide a more secure alternative to passwords &#151; which can be the weak link exploited by cybercrime attacks &#151; with secure mobile identities. 
+
+&#160;
+
+&#160; &#149; &#160; Physical access control. Usher users can unlock doors by tapping on a &#147;digital key&#148; or by scanning a QR code. If a device is Bluetooth-enabled, a user can unlock a door simply by approaching it. 
+
+&#160;
+
+&#160; &#149; &#160; Workforce management. Usher can collect data about the locations of users&#146; Usher activity, enabling managers to remotely monitor and direct distributed workforces. 
+
+&#160;
+
+&#160; &#149; &#160; Activity analysis. Usher uses MicroStrategy 10 Secure Enterprise to monitor and analyze Usher user activity. 
+
+&#160;
+
+&#160; &#149; &#160; Convenience and cost-effectiveness. Usher allows users to carry their business credentials in digital form on their smartphones. Enterprises can reduce costs associated with the distribution and management of physical badges, cards, and keys, as well as the costs associated with identity-related fraud and cybercrime. 
+
+&#160;
+
+Usher Technology Strategy 
+
+Our technology strategy for Usher is focused on taking advantage of developments in mobile and cloud technology to provide more flexible and powerful user identity-based security and analytics solutions. This involves continued development in the following areas: 
+
+&#160;
+
+&#160; &#149; &#160; Logical access. We continue to explore new techniques with which Usher can provide identity to applications and systems and provide alternatives to passwords, keys, and fobs. Our focus is on seamless, zero-click access based on proximity. Additionally, we continue to monitor the market and test new biometric measurement systems that can be integrated into Usher, such as Apple&#146;s Touch ID, voice authentication, and facial recognition. 
+
+&#160;
+
+&#160; &#149; &#160; Physical access. We continue to expand on the integration of Usher with physical access control systems and hardware, so that users with adequate credentials and digital keys can unlock secure doorways. 
+
+&#160;
+
+&#160; &#149; &#160; Action-oriented intelligence. We are focusing on enhancing Usher&#146;s ability to determine Usher member location and activities so that trends and anomalies can be used to provide better security or better workforce management. 
+
+MicroStrategy Secure Cloud 
+
+MicroStrategy Secure Cloud offers an integrated and optimized cloud business analytics platform that combines infrastructure, technology, people, and processes to offer analytics as a service to our customers. MicroStrategy Secure Cloud builds on MicroStrategy 10 Secure Enterprise, and adds class-leading ETL and database technology to provide an agile, high performance, elastic, and cost-effective analytics platform. 
+
+MicroStrategy Secure Cloud provides our customers MicroStrategy 10 Secure Enterprise offerings through a Platform-as-a-Service (PaaS) solution hosted in the cloud. In addition to MicroStrategy Analytics and MicroStrategy Mobile, MicroStrategy Secure Cloud also offers data integration ETL and data hosting services. The MicroStrategy Secure Cloud PaaS provides customers with infrastructure (data center space, rack space, power, cooling, and servers), technology platforms (analytics, mobile data integration, and data hosting), operations, support, and expert analytics practitioners for a subscription fee with no upfront capital investment. MicroStrategy Secure Cloud can offer improved time to market, higher performance, and lower overall total cost of ownership compared to traditional on-premises deployments. 
+
+MicroStrategy analytics are offered on the AWS Marketplace &#174; as a self-service customer managed solution where customers can launch their own MicroStrategy environments within minutes and start using our full MicroStrategy Analytics offering at a subscription or yearly fee. 
+
+Key benefits of MicroStrategy Secure Cloud include: 
+
+&#160;
+
+&#160; &#149; &#160; Agile rapid application development and secure deployment . MicroStrategy Secure Cloud provides the infrastructure, technology, processes, and experts that a customer needs to develop and securely deploy applications quickly. The entire service has been pre-packaged and optimized, and is supported by expert analytics practitioners. This solution allows our customers to get to market much more quickly than traditional approaches and react to business changes as they happen. 
+
+&#160;
+
+&#160; &#149; &#160; High performance analytics applications. MicroStrategy Secure Cloud combines the high performance characteristics of MicroStrategy Analytics and MicroStrategy Mobile with high performance servers and network infrastructure. This integration allows our customers to deploy analytics and mobile applications on demand, allowing them to serve their customers more quickly and efficiently. 
+
+&#160;
+
+&#160; &#149; &#160; Elastic capacity with no capital investment. MicroStrategy Secure Cloud allows customers to get started with no upfront capital investment in infrastructure. Customers can start small and increase their capacity on demand. 
+
+&#160;
+
+&#160; &#149; &#160; Low overall total cost of ownership. IT application costs are driven by capital investments and the personnel cost associated with hiring a staff of experts to build, maintain, and tune a large-scale environment. MicroStrategy Secure Cloud delivers this high performance, tuned, and monitored environment as a service, lowering overall total cost of ownership. 
+
+&#160;
+
+&#160; &#149; &#160; Global Availability. Leveraging AWS, MicroStrategy Analytics is now available in all AWS data centers spanning 11 regions on 5 continents. 
+
+MicroStrategy Secure Cloud Technology Strategy 
+
+MicroStrategy Secure Cloud offers organizations an alternate purchase and deployment model for business analytics, compared to traditional on-premises deployments. Instead of making large upfront capital investments and building large support teams, MicroStrategy Secure Cloud allows organizations to purchase analytics as a service with no upfront capital investments. Instead, it offers a payment structure that scales with the business requirements. 
+
+Our MicroStrategy Secure Cloud technology strategy is focused on continuing to enhance the reliability, self-service, performance, and scalability of our offering. We also seek to differentiate our offering by investing in enhancing the security process and infrastructure around our service, monitoring existing security and compliance certifications, and obtaining new certifications. 
+
+Product Support and Other Services 
+
+MicroStrategy Services is comprised of the following services lines: 
+
+MicroStrategy Technology Services 
+
+The Technology Services department provides technical product support to customers and partners specific to MicroStrategy software products. Additionally, Technology Services is responsible for negotiating and maintaining all support contracts with MicroStrategy customers and partners alike, including support services for MicroStrategy Secure Cloud customers. The department is comprised of the following groups: 
+
+Customer Support Group (CSG). CSG is a team of Technical Support Engineers responsible for providing first level technical support to all customers, partners, and prospects. 
+
+Advanced Product Support (APS). APS is a team of product specialists responsible for providing second level technical support to our worldwide call centers, customers, partners, and prospects. 
+
+Premium Support. Premium support is a team of Premium Support Engineers that provides dedicated technical support to our elite customers and partners. 
+
+Customer Success Management (CSM). The customer success group manages our support renewal business and our process for renewing software maintenance contracts with customers worldwide. It also helps answer questions from customers while working with those customers on renewing their maintenance contracts. The team also works with customers quarterly to ascertain the customer&#146;s current level of satisfaction. 
+
+MicroStrategy Professional Services 
+
+MicroStrategy Professional Services provides our customers with access to the most experienced group of certified MicroStrategy development resources in the industry. Through MicroStrategy Professional Services, we provide our customers with consulting and advisory services to help drive critical analytics and mobile solutions across key industries, such as financial services, healthcare, retail, and banking. We work directly with our customers and guide them in defining, developing, and delivering core business analytics solutions for their enterprises. These solutions provide our customers with greater access to critical business information, KPI&#146;s, and metrics, which enables them to make better business decisions faster. 
+
+&#160;
+
+MicroStrategy Professional Services is a worldwide organization with operations in North America, South America, Europe, and Asia Pacific. 
+
+MicroStrategy&#146;s Global Delivery Center (GDC) is key to our Global Delivery Model. Located in Warsaw, Poland, the GDC is a hub of several hundred consultants who support analytics projects directly at customer sites around the world or remotely. With functional and business management practices, the appropriate experts can transition on and off projects as needed. The GDC can quickly scale up or down to meet unique technical and industry requirements. Integrating the GDC with on-site project resources is a flexible and cost-efficient way to receive highly specialized services. 
+
+MicroStrategy Education Services 
+
+MicroStrategy Education Services offers education solutions and skill set development for customers and partners. With a course catalog of nearly 100 courses (instructor-led and on-demand courses), MicroStrategy training consultants develop an ongoing education program to meet our customers&#146; specific business needs. Our training consultants deliver quality, cost-effective instruction and skill development for analysts, developers, administrators, and end users. MicroStrategy offers programs to educate individuals through online instructor-led courses, private on-site engagements, and self-paced on-demand courses. 
+
+Marketing and Sales and Services Strategy 
+
+Our business objective is to become the leading enterprise software platform provider for analytics, mobile, and security to the largest enterprises, governments, and the largest databases and data providers in the world. The key elements of our strategy to achieve these objectives are as follows: 
+
+Marketing Strategy 
+
+Our marketing programs target the following principal constituencies: 
+
+&#160;
+
+&#160; &#149; &#160; Our historical base of corporate technology buyers and departmental technology buyers across FORTUNE&#153; Global 2000 enterprises. We also target senior executives and other leaders in these companies for MicroStrategy Mobile and Usher; 
+
+&#160;
+
+&#160; &#149; &#160; Corporate and departmental technology buyers in mid-sized enterprises; 
+
+&#160;
+
+&#160; &#149; &#160; Government technology buyers and the vendors to the government community; 
+
+&#160;
+
+&#160; &#149; &#160; Independent software vendors that want to embed our technology tools in their solutions; and 
+
+&#160;
+
+&#160; &#149; &#160; System integrators that have technology relationships with the largest enterprises, governments, and information-intensive businesses. 
+
+We continually seek to increase our brand awareness by focusing our messaging on the possibilities for value creation and the benefits of using our platforms, and competitive differentiators. The channels we use to communicate with these constituencies include: 
+
+&#160;
+
+&#160; &#149; &#160; Advertising; 
+
+&#160;
+
+&#160; &#149; &#160; Direct e-mail; 
+
+&#160;
+
+&#160; &#149; &#160; Free and evaluation software; 
+
+&#160;
+
+&#160; &#149; &#160; Industry awards; 
+
+&#160;
+
+&#160; &#149; &#160; Industry events; 
+
+&#160;
+
+&#160; &#149; &#160; Media coverage; 
+
+&#160;
+
+&#160; &#149; &#160; Mobile application downloads; 
+
+&#160;
+
+&#160; &#149; &#160; Our Website; 
+
+&#160;
+
+&#160; &#149; &#160; Social media; 
+
+&#160;
+
+&#160; &#149; &#160; Channel partners; 
+
+&#160;
+
+&#160; &#149; &#160; User conferences; and 
+
+&#160;
+
+&#160; &#149; &#160; Word of mouth and peer references. 
+
+&#160;
+
+Sales and Services Strategy 
+
+We primarily sell through our dedicated sales force, as well as through channel partners in order to increase market coverage in both domestic and international markets. We provide financial incentives for our channel partners to market and distribute our products and services. We also offer a comprehensive set of educational programs that enhance our potential customers&#146; and channel partners&#146; understanding of our software. Furthermore, we offer a wide range of services that provide support in the discovery, planning, development, and deployment stages of a MicroStrategy product or service. 
+
+Dedicated Sales Force. We market our software and services chiefly through our direct sales force. We have sales offices in locations throughout the world. We use distributors in several countries where we do not have sales offices. 
+
+Channel Partners. We have established strategic alliances with third party vendors to help ensure the success of our customers&#146; business intelligence initiatives. Our vendors include companies that are system integrators and consulting firms, resellers, value-added resellers, original equipment manufacturers (OEMs), and technology partners. These firms utilize MicroStrategy platforms for a variety of commercial purposes and our agreements with them generally provide non-exclusive rights to market our products and services and allow access to our marketing materials, product training, and direct sales force for field-level assistance. 
+
+We make significant commitments to our channel partners, including investments in joint development including technical training and certifications, pre-sales and sales enablement, and marketing programs. Through our joint efforts, we believe customers are able to minimize their risk and maximize the return on their business intelligence projects. We believe that our channel partners allow us to leverage sales and service resources, as well as marketing and industry-specific expertise, to expand our user base and increase our market coverage. 
+
+Customers 
+
+MicroStrategy customers include leading companies from a range of industries, as well as the public sector. Below is a representative list of organizations that currently use our products and services. 
+
+Retail: adidas; Coach; Deichmann SE; Giant Tiger Stores Limited; GUESS?, Inc.; La Perla; Lowe&#146;s Companies, Inc.; New York &#38; Company, Inc.; Pacific Sunwear of California, Inc.; Spar Austria; Staples, Inc.; The Container Store, Inc. 
+
+Financial Services and Insurance: Banco Bilbao Vizcaya Argentaria, S.A. (BBVA); Bankia; Caisse d&#146;Epargne Cote d&#146;Azur; Deutsche Bank; Government Employees Insurance Company (GEICO); L&#228;nsf&#246;rs&#228;kringar AB; RE/MAX, LLC; Soci&#233;t&#233; G&#233;n&#233;rale S.A.; Wintrust Financial Corporation; Zurich Insurance Group 
+
+Pharmaceutical and Healthcare: CareSource Management Group Co.; Cincinnati Children&#146;s Medical Center; HealthTrust; Johnson &#38; Johnson; NHS Scotland&#146;s Golden Jubilee National Hospital; Novation 
+
+Manufacturing: Cardinal Glass Industries; Husqvarna Group; Kinross Gold Corporation; Michelin; Republic National Distributing Company, LLC; Rite-Hite Holding Corporation; Sennheiser electronic; The Sherwin-Williams Company; Watsco; Weiler Corporation; Wilton Industries, Inc. 
+
+Technology, Media, and Telecommunications: Adobe; AutoTrader.com; eBay Inc.; eHarmony; Eyefreight; Facebook; Houghton Mifflin Harcourt; Iridium Communications Inc.; Keysight Technologies; LinkedIn Corporation; Netflix, Inc.; Nielsen Holdings N.V.; Sonic Automotive; Thomson Reuters; Yahoo! Inc. 
+
+Consumer Goods: Alsea; Chiquita Brands International, Inc.; Danone; Dr Pepper Snapple Group, Inc.; Electronic Partner Benelux; McCain Foods 
+
+Government and Public Services: Brussels Airport; Centers for Medicare &#38; Medicaid Services; City of Austin (TX); International Post Corporation; Texas Department of Transportation; Transportation Security Administration (US); U.S. Postal Service 
+
+&#160;
+
+Restaurants: Chipotle Mexican Grill, Inc.; Domino&#146;s Pizza, Inc.; Logan&#146;s Roadhouse, Inc.; Starbucks Coffee Company 
+
+Hospitality and Leisure: 24 Hour Fitness; Accor S.A.; GolfNow; Hilton Worldwide; Orbitz Worldwide; Royal Caribbean International; Starwood Hotels &#38; Resorts Worldwide, Inc.; Tsogo Sun 
+
+Notable Customers from 2015 
+
+Blackbox BI Consultancy Sdn Bhd 
+
+With deep domain knowledge in the retail sector, Blackbox BI Consultancy was established in Malaysia to help retailers across the South East Asia region harness business analytics solutions to increase business performance and gain competitive advantage. Blackbox BI Consultancy relies on MicroStrategy Analytics to offer cloud-based retail analytics solutions to its wide spectrum of clients that span across the fashion, home furnishing, consumer durable, groceries, convenience stores, food and beverage, and healthcare industries. In addition, Blackbox BI Consultancy selected Usher to secure its enterprise cyber assets and facilities with its customers. Blackbox BI Consultancy will introduce Usher to a segment of its customer base to create a new customer experience. It will replace traditional forms of enterprise identity with mobile identity badges securely delivered on smartphones, and will ultimately deploy Usher as its enterprise identity management solution integrated into its MicroStrategy Mobile application to a wider audience of SenHeng customers to create an exceptional customer experience. 
+
+Concentra Health Services 
+
+Concentra Health Services is a national health care company delivering a wide range of medical services to employers and patients, including urgent care, occupational medicine, physical therapy, primary care, and wellness programs. Based in Addison, Texas and operating in more than 500 medical centers in 40 states, Concentra Health Services has selected MicroStrategy Analytics to enhance its operations. With MicroStrategy, physicians and clinicians will have the ability to easily analyze and drill into operational data, perform self-service analytics, and quickly create ad-hoc reports on diagnostic testing, preventive screenings, physical exams, vaccinations, and medication dispensing patterns data in a secure environment. The insight obtained will help Concentra improve its patient services. Concentra chose MicroStrategy for its platform&#146;s ease of use and interactivity, self-service analytics, drill anywhere capabilities, high performance, and scalability. 
+
+Eagle Investment Systems 
+
+Eagle Investment Systems, a subsidiary of BNY Mellon with headquarters in Wellesley, MA, and MicroStrategy extended their strategic OEM partnership in March 2015. Eagle selected MicroStrategy for its comprehensive analytics platform, mobile leadership, scalability, ease of use, and low total cost of ownership. Eagle clients are able to leverage MicroStrategy for self-service reporting and business intelligence across their suite of data management, investment accounting, and performance measurement applications. 
+
+Flex 
+
+Our customer Flex purchased additional licenses of MicroStrategy Analytics and MicroStrategy Mobile to support its global purchasing organization and factory operations with enterprise analytics reporting. 
+
+Nedbank (Pty) Ltd 
+
+Nedbank Group (JSE: NED), based in Johannesburg, South Africa, is one of the largest banking groups in South Africa by assets and deposits, with Nedbank Limited being one of its principal banking subsidiaries. Nedbank Ltd selected MicroStrategy Analytics as its preferred enterprise-wide analytics platform to deliver business intelligence, self-service data discovery, and mobile apps to its staff and clients so that they can better monitor and react to data management, investment accounting, and performance activity on their mobile devices. Nedbank selected MicroStrategy for its comprehensive analytics platform, mobile leadership, scalability, ease of use, and low total cost of ownership. 
+
+&#160;
+
+North Texas Tollway Authority 
+
+The North Texas Tollway Authority (NTTA), a political subdivision of the state of Texas, is authorized to acquire, construct, maintain, repair and operate turnpike projects in the north Texas region. A new MicroStrategy customer, NTTA selected MicroStrategy Analytics and MicroStrategy Mobile to provide employees with interactive dashboards, reports, ad hoc analyses, and map views of data points on Texas roadways. By moving toward a proactive, self-service reporting/analytics model, NTTA&#146;s user community will be able to perform analytics on customer behavior, report on compliance, and recover lost revenue. NTTA will also be able to report on real-time operational data coming from sensors on roadways (that detect weather and traffic conditions), electronic tolling data (toll tag transactions and license plate images for cashless OCR tolling), invoicing data, and customer demographics (driving habits). Through a competitive bid and evaluation of visual data discovery and business intelligence vendors in the market, NTTA selected MicroStrategy because its feature set best fits NTTA&#146;s business requirements. Also cited were MicroStrategy&#146;s ease of use, high performance, scalability, lower total cost of ownership, and its mobile capabilities in support of iOS and Android devices. 
+
+Rack Room Shoes 
+
+Rack Room Shoes, headquartered in Charlotte, NC, is a family footwear retailer offering a wide selection of nationally recognized and private brands of great shoes for men, women, and children in comfort, dress, casual, and athletic categories. A new MicroStrategy customer, Rack Room Shoes selected MicroStrategy Analytics to replace past legacy systems for merchandising, store operations, and executive-based reporting. With MicroStrategy, Rack Room Shoes and sister company, Off Broadway Shoe Warehouse, will provide employees at their headquarters and U.S. store locations with business-centric applications to explore data across their supply chain, finance, merchandising, and marketing departments. The upgrade is an efficient solution for shared insights regarding operational performance for key executives of Rack Room Shoes and Off Broadway Shoe Warehouse. Rack Room Shoes selected MicroStrategy for its ease of use, fast time to market, lower total cost of ownership, and proven retail leadership. 
+
+Randstad Groep Nederland 
+
+Based in Diemen, Netherlands, Randstad Groep Nederland is a subsidiary of Randstad Holding, founded in 1960 and active in 39 countries with approximately 28,000 employees. Randstad specializes in solutions in the field of flexible work and HR services. A new customer, Randstad Groep Nederland selected MicroStrategy Analytics and MicroStrategy Mobile to enhance its operations. With MicroStrategy, agents in the field and their management will have the ability to easily analyze and drill into operational data, perform self-service analytics and quickly create ad-hoc reports. Randstad Groep Nederland chose MicroStrategy as its corporate business intelligence solution, citing the platform&#146;s ease of use and interactivity, self-service analytics, drill anywhere capabilities, high performance and scalability. Randstad has the option to expand its MicroStrategy implementation to support its global operations. 
+
+TrueCar, Inc. 
+
+Based in Santa Monica, CA, TrueCar, Inc. is an automotive pricing and information website for new and used car buyers and dealers. A MicroStrategy customer since 2007, TrueCar will expand its MicroStrategy footprint by leveraging MicroStrategy Analytics and MicroStrategy Mobile to prototype and develop a new enterprise analytics application. The MicroStrategy-based solution will enable automobile OEMs and dealerships to easily access market data on the web and mobile devices in order to make better inventory and pricing decisions that drive more sales. MicroStrategy was chosen for its solution&#146;s user-friendly capabilities, superior performance and scalability, system availability, and its ability to support trusted governed data discovery within a comprehensive enterprise analytics platform. 
+
+&#160;
+
+Wirecard 
+
+Wirecard AG is one of the world&#146;s leading independent providers of outsourcing and white label solutions for electronic payment transactions. The Wirecard Group supports companies in accepting electronic payments from all sales channels. A global multi-channel platform bundles international payment acceptances and methods, supplemented by fraud prevention solutions. When companies choose to issue their own payment instruments in the form of cards or mobile payment solutions, Wirecard provides them with an end-to-end infrastructure, including the requisite licenses for card and account products. Wirecard AG is listed on the Frankfurt Securities Exchange (TecDAX, ISIN DE0007472060, WDI). A new MicroStrategy customer, Wirecard will entrust the MicroStrategy platform to set up management reports, dashboards, and sophisticated analyses of payment transactions for its employees, visible via web and mobile solutions. Wirecard customers will benefit from MicroStrategy through integration within the corporate portals, providing secure visual insights into their own data with improved performance. Wirecard chose MicroStrategy for its ease-of-use and its capabilities to identify efficiencies, improve customer service, and help grow the business. 
+
+XING 
+
+XING, with headquarters in Hamburg, Germany, is the leading social network for business professionals in German-speaking countries with more than 8 million members in the DACH region. Its paid memberships (subscriptions) make up its core business to date, and allow XING to tap into new markets while retaining high levels of profitability. MicroStrategy Analytics is used as XING&#146;s enterprise analytics standard across the organization, providing decision makers with critical executive reports, business dashboards, and easy-to-understand statistical and data mining insight. With the recent purchase of additional MicroStrategy licenses, XING will be able to support its fast growing business units in the field of E-Recruiting and Events and seize upcoming business opportunities. MicroStrategy was chosen for its platform&#146;s ease-of-use, superior data visualization capabilities, and ability to help grow the business. 
+
+Competition 
+
+MicroStrategy 10 Secure Enterprise and MicroStrategy Secure Cloud Competitors 
+
+The analytics market is highly competitive and subject to rapidly changing technology paradigms. Within the analytics space, we compete with many different vendors, including (1) large software vendors (megavendors), such as IBM (Cognos), SAP (BO), Microsoft (Power BI), and Oracle (OBIEE), that provide one or more products that directly compete with our products; (2) open source analytics vendors such as Open Text (Actuate) and Hitachi (Pentaho &#174; ); (3) various other analytics software providers, such as Qlik, Tableau Software, TIBCO, Information Builders, and the SAS Institute; (4) pure-play mobile analytics vendors, such as MeLLmo (Roambi &#174; ), that do not offer an analytics platform, but offer a mobile user interface that can be used as an extension to existing analytics platforms; and (5) other vendors offering cloud-based offerings, such as GoodData and Birst. Our future success depends on the effectiveness with which we can differentiate and compete with these vendors and other potential competitors across different sizes of analytics implementation projects. Failure to maintain adequate technology differentiation from these competitors could materially adversely affect our recurring software maintenance revenue and new license and subscription revenues from both existing and prospective customers. 
+
+MicroStrategy Mobile Competitors 
+
+The market for mobile analytics is rapidly evolving. New mobile devices are being introduced in the market at a rapid pace, and enhancements to mobile operating systems are being made at an even faster rate. The rapidly changing technology landscape creates opportunities for both existing competitors and new vendors to introduce innovative new products. Within the mobile analytics space, we predominantly compete with the same set of analytics vendors that we compete with in the analytics market. Our competitiveness in this market will depend on how quickly we can adapt to the changing technology landscape and how effectively we sell, market, and differentiate our offering. 
+
+Usher Competitors 
+
+Usher competes with technologies categorized as user authentication products, which are dominated by a few companies such as the RSA division of EMC, CA, SafeNet, Vasco, and Gemalto. These competitors focus primarily on traditional forms of identity verification such as smart cards, tokens, and password managers. These companies have significant name recognition and offer solutions with security architectures that are familiar to IT buyers. Usher also competes with companies with newer solutions, often involving mobile technology, including Telesign, Authentify, SecurEnvoy, Daon, Entrust, and Duo Security. 
+
+&#160;
+
+Restructuring and Executive Management Reorganization 
+
+In the third quarter of 2014, we committed to a restructuring plan (the &#147;2014 Restructuring Plan&#148;) to streamline our workforce and spending to better align our cost structure with our business strategy, including reducing our workforce by 777 employees. As of December 31, 2014, we had implemented substantially all of the 2014 Restructuring Plan. We do not expect future costs associated with implementing the remainder of the 2014 Restructuring Plan, consisting primarily of the liquidation of certain foreign subsidiaries, to be material. The 2014 Restructuring Plan resulted in pre-tax restructuring charges of $0.3 million and $14.7 million for the years ended 2015 and 2014, respectively. See Note 8, Restructuring, to the Consolidated Financial Statements in &#147;Part IV. Item 15. Exhibits, Financial Statement Schedules&#148; of this Annual Report on Form 10-K for further detail on the 2014 Restructuring Plan. In addition to the 2014 Restructuring Plan, we have implemented other internal cost-savings initiatives. 
+
+In January 2016, the Board of Directors implemented a reorganization of our executive management team to further streamline our business. The reorganization enabled us to eliminate a layer of management by eliminating a separate Office of the President and was designed to better position our business for profitable growth. This streamlining resulted in the departures of our former President, Paul N. Zolfaghari, and our former President and Chief Legal Officer, Jonathan F. Klein. See Note 19, Subsequent Events, to the Consolidated Financial Statements in &#147;Part IV. Item 15. Exhibits, Financial Statement Schedules&#148; of this Annual Report on Form 10-K for further detail on the Executive Management Reorganization. 
+
+Employees 
+
+As of December 31, 2015, we had a total of 1,947 employees, of whom 938 were based in the United States and 1,009 were based internationally. Of our 1,947 employees, 513 were engaged in sales and marketing, 461 in research and development, 663 in subscription, product support, consulting, and education services, and 310 in finance, administration, and corporate operations. None of our employees in the United States is represented by a labor union; however, in certain foreign subsidiaries some employees are members of trade or local unions. In France, our employees are represented by a works council as required by local law. We have not experienced any work stoppages and consider our relations with our employees to be good. 
+
+The following table summarizes employee headcount, as of the dates indicated and reflects changes resulting from the 2014 Restructuring Plan as well as new hires and terminations outside the 2014 Restructuring Plan: 
+
+&#160;
+
+&#160; &#160; December 31, &#160; &#160; December 31, &#160; &#160; December 31, &#160; &#160; &#160; 2013 &#160; &#160; 2014 &#160; &#160; 2015 &#160; Subscription services
+
+&#160; &#160; 39 &#160; &#160; &#160; 57 &#160; &#160; &#160; 37 &#160; Product support
+
+&#160; &#160; 164 &#160; &#160; &#160; 138 &#160; &#160; &#160; 131 &#160; Consulting
+
+&#160; &#160; 669 &#160; &#160; &#160; 600 &#160; &#160; &#160; 467 &#160; Education
+
+&#160; &#160; 36 &#160; &#160; &#160; 24 &#160; &#160; &#160; 28 &#160; Sales and marketing
+
+&#160; &#160; 825 &#160; &#160; &#160; 662 &#160; &#160; &#160; 513 &#160; Research and development
+
+&#160; &#160; 953 &#160; &#160; &#160; 645 &#160; &#160; &#160; 461 &#160; General and administrative
+
+&#160; &#160; 472 &#160; &#160; &#160; 344 &#160; &#160; &#160; 310 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total headcount
+
+&#160; &#160; 3,158 &#160; &#160; &#160; 2,470 &#160; &#160; &#160; 1,947 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Research and Product Development 
+
+We maintain a dedicated performance engineering team and conduct research and development focused on providing our customers with the highest levels of performance for analytics applications of all sizes and security solutions. The description of research and development expenses in &#147;Item 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; includes a breakdown of such expenses. We believe that our future performance will depend in large part on our ability to maintain and enhance our current product line, develop new products that achieve market acceptance, maintain technological competitiveness, and meet an expanding range of customer requirements. As of December 31, 2015, our research and product development staff consisted of 461 employees. 
+
+&#160;
+
+Available Information 
+
+MicroStrategy&#146;s Website is located at www.microstrategy.com. MicroStrategy makes available free of charge, on or through the Investor Relations section of our Website (http://ir.microstrategy.com), our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports, as soon as reasonably practicable after electronically filing such reports with the Securities and Exchange Commission (&#147;SEC&#148;). Information found on our Website is not part of this report or any other report filed with the SEC. The public may read and copy any materials filed by the Company with the SEC at the SEC&#146;s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov . 
+
+&#160;
+

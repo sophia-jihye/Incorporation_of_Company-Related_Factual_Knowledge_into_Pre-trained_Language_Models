@@ -1,0 +1,538 @@
+ I TEM 1. 
+
+BUSINESS &#160;
+
+Overview 
+
+Veeva is a leading provider of industry cloud software and data solutions for the global life sciences industry. We were founded in 2007 on the premise that industry-specific cloud solutions could best address the operating challenges and regulatory requirements of the life sciences industry. Our products are designed to meet the unique needs of life sciences companies, regardless of size. Targeted to address our customers&#8217; most strategic business functions&#8212;from research and development to commercialization&#8212;our solutions are designed to help the industry bring products to market faster and more efficiently, market and sell more effectively and maintain compliance with government regulations.
+
+Our purpose-built solutions address a broad range of requirements within life sciences companies, including multichannel customer relationship management, regulated content and information management, master data management and customer data. Our solutions for the commercial function of life sciences companies&#8212;which we refer to as Veeva Commercial Cloud &#8212;bring together the customer data, content management and multichannel customer relationship management capabilities needed to achieve better customer engagement. Our solutions for key R&#38;D functions&#8212;including clinical, quality and regulatory&#8212;help companies attain greater transparency, compliance and faster time to market.
+
+All of our software solutions are delivered in the cloud or via intuitive mobile applications and are offered to our customers on a subscription basis. We currently provide three major releases of our software solutions per year that are included in our subscription and not subject to an additional fee. We implement new releases in our cloud computing environment such that when a new release is put into production, the prior version is fully replaced. Our cloud-based, multitenant architecture substantially reduces the need for our customers to buy, maintain and support IT infrastructure, and significantly reduces the cost and complexity relative to the implementation, maintenance and upgrade processes required for on-premise software or the customization required with generic cloud solutions that are not industry specific. 
+
+Because of our industry focus, we gain a unique, in-depth perspective into the needs and best practices of life sciences companies, which allows us to develop targeted new solutions and incorporate highly relevant enhancements into our existing solutions. Our industry cloud approach and multitenant architecture also allow us to adapt more quickly to the market and regulatory changes that are most significant to our customers. Our pace of innovation and customer success focus have allowed us to significantly expand our relationships with customers large and small. We believe we are fast becoming a highly strategic provider to the industry, marked by a growing customer base that utilizes an increasing number of our solutions.
+
+Our Industry Cloud Solutions
+
+Our solutions span four key areas: (i) the Veeva CRM family of applications for multichannel customer relationship management to enable coordinated and personalized customer engagement through multiple touch points, (ii) Veeva Vault for regulated content management and information management solutions to enable the management of complex, content-centric processes, (iii) the Veeva Network master data management solutions for the effective management of customer master and product master data, and (iv) Veeva&#8217;s data and data services offerings, including Veeva OpenData for customer reference data and Veeva KOL Data for key opinion leader data. Each product line is described in further detail below. 
+
+Multichannel Customer Relationship Management 
+
+Our multichannel customer relationship management applications allow pharmaceutical and biotechnology companies to market and sell more efficiently, effectively and compliantly to physicians, other healthcare professionals and healthcare organizations across multiple touch points including in-person, email and online. 
+
+To support the life sciences industry&#8217;s unique commercial business processes and regulatory compliance requirements, our multichannel customer relationship management applications provide highly specialized functionality such as prescription drug sample management with electronic signature capture, the management of complex affiliations between physicians and the organizations where they work, compliant email, and the capture of medical inquiries from physicians. In order to deliver the best possible functionality and user experience, we have designed and built a specific application for each mobile device platform we support, including Apple iPads, Windows 8 and 10 mobile devices, Windows-based laptops and tablet PCs. 
+
+Our multichannel customer relationship management applications include: 
+
+&#160;
+
+&#183; 
+
+Veeva CRM and Veeva Medical CRM enables physician-facing employees, such as pharmaceutical sales representatives, key account managers and scientific liaisons to manage, track and optimize interactions with healthcare professionals utilizing a single, integrated solution. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Veeva CLM provides closed-loop marketing capabilities for use in in-person interactions with physicians. Veeva CLM allows customers to replace paper-based materials with interactive electronic marketing presentations while controlling the storage, distribution, presentation and tracking of promotional materials. In addition, thr ough native integration with Veeva Vault, Veeva CLM helps customers ensure that only the latest approved presentations are delivered to physicians, helping to maintain regulatory compliance. &#160;
+
+&#160;
+
+&#183; 
+
+Veeva CRM Mobile , our proprietary mobile application that runs on the Apple iPad and the Windows 8 and 10 platforms, combines the key functionality of Veeva CRM and Veeva CLM to provide users with functionality that helps maximize productivity in the field. Veeva CRM Mobile was designed to provide the functionality needed for pharmaceutical field sales representatives and other users to accomplish mission critical tasks in locations, such as hospitals and physicians&#8217; offices, whether or not an internet connection is available. Veeva CRM Mobile synchronizes to Veeva CRM when connected to the internet. When synchronizing, Veeva CRM Mobile uploads to Veeva CRM data captured while operating off-line, such as data regarding drug samples provided to physicians, and downloads data updates from Veeva CRM, such as new physician contact information. 
+
+&#160;
+
+&#183; 
+
+Veeva CRM Approved Email provides for the management, delivery and tracking of regulatory compliant email communication between sales representatives and physicians. Veeva CRM Approved Email includes capabilities to ensure compliant communications, such as managing physician email opt-in and opt-out. In addition, through native integration with Veeva Vault, Veeva CRM Approved Email helps customers ensure that only the latest approved email templates and documents can be delivered to physicians, helping to ensure regulatory compliance. 
+
+&#160;
+
+&#183; 
+
+Veeva CRM Engage provides closed-loop marketing capabilities for self-directed physician interactions via the web. Through native integration with Veeva Vault, Veeva CRM Engage ensures only the latest, approved materials are delivered to physicians, helping to improve regulatory compliance. 
+
+&#160;
+
+&#183; 
+
+Veeva CRM CoBrowse provides closed-loop marketing capabilities for web-based presentations to physicians led by the sales and marketing staff of life sciences companies. Through native integration with Veeva Vault, Veeva CRM CoBrowse helps customers ensure that only current content is delivered to physicians, helping to improve regulatory compliance. 
+
+&#160;
+
+&#183; 
+
+Veeva CRM Events Management enables the planning, management and execution of group meetings with healthcare professionals, and helps life sciences companies track and manage spending in order to meet transparency reporting requirements. 
+
+&#160;
+
+&#183; 
+
+Veeva Align enables life sciences companies to manage the allocation and alignment of sales and marketing resources to customers across all communication channels and define multichannel plans of action. Through native integration with Veeva CRM, Veeva Align allows the storage of historical and future alignments for incentive compensation calculations and automatically updates the active alignment of the field in Veeva CRM. 
+
+Regulated Content and Information Management 
+
+Veeva Vault , our cloud-based content and information management solution, is used by our customers across commercial functions, including medical, sales and marketing, and key R&#38;D functions, including clinical, regulatory and quality. Veeva Vault consists of nine business applications and our proprietary Veeva Vault Platform. Veeva Vault applications each include a unique data model, deep functionality, and pre-defined workflows required to support very specific industry processes. Veeva Vault can be deployed as an integrated solution across multiple applications, enabling our customers to manage all their important documents and related data in a single, global system. 
+
+The Veeva Vault Platform was built with the rigorous content and information management requirements of the life sciences industry in mind, including comprehensive audit trail capabilities that record actions and updates enabling customers to manage their highly regulated content and data in a compliant manner. In addition, the Veeva Vault Platform offers key functionality across all the Veeva Vault applications, such as searching, content viewing and annotation, comprehensive workflow and approvals, electronic signatures, reporting and open application programming interfaces to allow for integration with other systems. The Veeva Vault Platform also includes a configuration toolset that allows customers to create their own Veeva Vault applications. 
+
+The Veeva Vault applications primarily used by R&#38;D departments of life sciences companies include: 
+
+&#160;
+
+&#183; 
+
+Veeva Vault eTMF is an electronic trial master file application that manages the repository of important documents for active and archived clinical trials for improved inspection readiness, visibility and control. Vault eTMF enables collaboration between the life sciences company sponsoring the trial and outsourced partners, such as contract research organizations. All clinical trial documents are organized in Vault eTMF according to industry accepted guidelines in order to speed the transition from clinical trials to submission for regulatory approval. 
+
+&#160;
+
+&#160;
+
+&#183; 
+
+Veeva Vault Study Startup enables life sciences companies to more efficie ntly manage the process of activating investigator sites for clinical trials, accelerating time to first patient enrollment and automating complicated processes while helping to maintain compliance with regulatory requirements and connectivity with Vault e TMF. Veeva Vault Study Startup allows sites, sponsors and contract research organizations to access the same critical operational information, simplifying collaboration and increasing efficiency. &#160;
+
+&#160;
+
+&#183; 
+
+Veeva Vault Investigator Portal manages the collection of documentation and collaboration among trial sponsors, trial sites and the researchers conducting the trials, known as investigators. Rather than faxing documentation or buying a separate secure file exchange, our customers can deploy the Vault Investigator Portal with Vault eTMF to streamline document collection and organization while complying with strict industry regulations relating to electronic record keeping systems. 
+
+&#160;
+
+&#183; 
+
+Veeva Vault QualityDocs enables the creation, review, approval, distribution and management of controlled documents, such as standard operating procedures, or SOPs, manufacturing recipes and specifications. All life sciences companies that are developing or selling regulated products must have a quality management system in place. Vault QualityDocs provides the document control and management system needed to manage these processes and enable greater compliance, quality and operational efficiency. 
+
+&#160;
+
+&#183; 
+
+Veeva Vault Submissions helps life sciences companies gather and organize all the documents and other content that should be included in a regulatory submission to a healthcare authority, such as the FDA. Vault Submissions organizes all content according to industry accepted guidelines, which helps to speed the time to regulatory submission by providing a single place for all researchers, contract research organizations and other collaboration partners to prepare and manage the entire content life cycle. 
+
+&#160;
+
+&#183; 
+
+Veeva Vault Registrations enables life sciences companies to manage, track and report product and registration information worldwide, including registration status, variations, health authority questions and commitments and certification requests. With a single, global solution companies can streamline registration management and increase the speed of responses to health authorities. 
+
+&#160;
+
+&#183; 
+
+Veeva Vault SubmissionsArchive is an authoritative source for submissions and correspondence that stores published submissions in a secure, globally accessible repository. Easy access and full visibility to submissions and correspondence, worldwide helps to enable faster, more accurate responses to health authorities. 
+
+Veeva Vault Submissions, Veeva Vault Registrations, and Veeva Vault SubmissionsArchive may be purchased separately or as a unified suite of applications called Veeva Vault RIM that improves regulatory business operations and compliance by providing a single authoritative source for submission documents, published dossiers, health authority interactions and product registrations.
+
+The Veeva Vault applications primarily used by the commercial and medical departments of life sciences companies include: 
+
+&#160;
+
+&#183; 
+
+Veeva Vault PromoMats enables life sciences companies to manage the end-to-end process for creation, approval, distribution, expiration and withdrawal of commercial content across the full digital supply chain. Powerful capabilities such as review and approval, claims tracking, multichannel content distribution and withdrawal and an integrated digital asset library help to enable compliance, speed to market and greater content reuse. 
+
+&#160;
+
+&#183; 
+
+Veeva Vault MedComms provides life sciences companies with a single, validated source of medical content across multiple channels and geographies. Medical content is used by life sciences companies for verbal and written communications with healthcare professionals and patients, including approved answers to questions received through a call center or company website. Vault MedComms helps speed the creation, approval and delivery of medical content for more accurate scientific communications, better visibility and traceability of medical content and faster response time to medical inquiries. 
+
+Master Data Management 
+
+Veeva Network Customer Master , our cloud-based customer master data management solution, is designed to help life sciences companies create and maintain complete and accurate master records for individual healthcare professionals and healthcare organizations. Veeva Network Customer Master is an industry-specific, cloud-based customer master software solution that deduplicates, standardizes and cleanses healthcare professional and organization data from multiple systems and data sources to arrive at a single, consolidated customer master record. Veeva Network Customer Master comes pre-configured with a data model that is specific to life sciences and supports global harmonization as well as country, market and regional data specifications within a single system. Veeva Network Customer Master also includes an intuitive user interface, powerful free text search and filtering capabilities and the ability to track and measure data quality and operating efficiency through key performance indicators. 
+
+&#160;
+
+Veeva Network Customer Master can be used seamlessly with Veeva O penData to simplify the process of data delivery to customers and provide bi-directional integration of requests for data enrichment. Additionally, Veeva Network Customer Master can be operated in what we refer to as private mode when proprietary data from third party data providers is uploaded to the Veeva Network Customer Master solution. In private mode, the bi-directional integration between Veeva Network Customer Master and Veeva OpenData is disabled. Veeva Network Customer Master is also fully integra ted with Veeva CRM in order to make the most up-to-date healthcare professional and healthcare organization data available to sales and marketing users. 
+
+Veeva Network Product Master , planned for general release in 2016, is our cloud-based product master data management offering to help life sciences companies create complete and accurate product master records. It deduplicates, standardizes and cleanses life sciences product data from multiple systems and data sources to arrive at a single, consolidated product master record for enterprise use. With Veeva Network Product Master, brand management teams can easily create product definitions, groupings and hierarchies, helping them to ensure an accurate representation of the parent brand, local trade names, and approved indications in every market. 
+
+Data and Data Services
+
+Veeva OpenData Customer Data provides healthcare professional and healthcare organization data that includes demographic and license information, affiliations, and other key data such as digital profiles crucial to customer engagement and compliance. Veeva OpenData replaces the need for a number of disparate external data feeds, and is continuously updated from government and other authoritative industry sources. We maintain data quality and completeness through rigorous, automated, and steward-led validation. As of March 2016, Veeva OpenData customer data is available in 35 countries, and we plan to make it available in additional countries in the future. 
+
+Veeva OpenData Compliance Data identifies and assigns healthcare professional specialty information and license status, including expiration dates, which are essential to the compliance processes with respect to certain life sciences activities, such as confirming drug sample eligibility and assigning sales territories. 
+
+Veeva OpenData Data Services further reduce the cost and complexity of managing healthcare professional and healthcare organization data by providing fast, responsive maintenance services. Instead of maintaining dedicated in-house data stewards to verify internal updates to data, Veeva Data Services manages these processes on behalf of our customers, including data quality consulting and enhancements and ongoing maintenance services. 
+
+Veeva OpenData Email Services provides email data and email rental services to help improve outreach to healthcare professionals through digital channels. Veeva OpenData Email Services delivers a single source of healthcare professional email addresses that are continuously updated with data from trusted industry sources and verified by data stewards. 
+
+Veeva KOL Data and Services provide deep profile information for important healthcare professionals and other stakeholders, gleaned from their conference presentations, published research, clinical trials, grants, articles and social activity. It also maps their affiliations as well as social and relationship networks. 
+
+Professional Services and Support 
+
+In addition to cloud-based solutions that meet the specific needs of our life sciences customers, we also offer professional services to help customers maximize the value they get from those solutions. The people on these teams have a combination of life sciences industry expertise, project management skills and deep technical acumen that we believe our customers highly value. Our professional services are offered directly to customers or through our systems integrator partners. Our professional services teams also often work together with our systems integrator partners to deliver projects. We offer professional services in the following areas: 
+
+&#160;
+
+&#183; 
+
+implementation and deployment planning and project management; 
+
+&#160;
+
+&#183; 
+
+requirements analysis, solution design and configuration; 
+
+&#160;
+
+&#183; 
+
+systems environment management and deployment services; 
+
+&#160;
+
+&#183; 
+
+services focused on advancing or transforming business and operating processes related to Veeva solutions; 
+
+&#160;
+
+&#183; 
+
+technical consulting services related to data migration and systems integrations; 
+
+&#160;
+
+&#183; 
+
+training on our solutions; and 
+
+&#160;
+
+&#183; 
+
+ongoing managed services, such as outsourced systems administration. 
+
+&#160;
+
+Our professional services teams are organized based on separate R&#38;D and commercial competencies so that members of our professional services team can als o provide knowledge and best practices advice for the R&#38;D and commercial departments of our customers. 
+
+Our global systems integrator partners, including Accenture, Cognizant Technology Solutions, Deloitte Consulting and other life sciences specialty firms, also deliver implementation and selected support services to those of our customers who wish to utilize them.
+
+Our Customers 
+
+As of January 31, 2016, we served 400 life sciences customers. For an explanation of how we define current customers, see &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8212;Components of Results of Operations.&#8221; We deliver solutions to companies throughout the life sciences industry, including pharmaceuticals, biotechnology, medical products, contract sales organizations, or CSOs, and contract research organizations. Our customers range from the largest global pharmaceutical companies such as Bayer AG, Boehringer Ingelheim GmbH, Eli Lilly and Company, Gilead Sciences, Inc., Merck &#38; Co., Inc., and Novartis International AG, to smaller pharmaceutical and biotechnology companies including Alkermes plc, Grupo Ferrer Internacional S.A., Ironwood Pharmaceuticals, Inc. and LEO Pharma A/S. For our fiscal years ended January 31, 2014, 2015, and 2016, we did not have any single customer that represented more than 10% of our total revenues. For a summary of our financial information by geographic location, see note 15 of the notes to our consolidated financial statements. 
+
+Our Culture and Employees 
+
+We have built our company culture on making customers successful and responding to our customers&#8217; needs with speed. It is our aim to be among the few most trusted information technology partners the industry works closely with on its most important data and information technology needs. The deep partnerships we forge with our customers help us shape our offerings to best meet industry needs and allow us extend those relationships by providing additional solutions across a broader range of business areas. With a track record of ongoing, industry leading innovation and a steadfast commitment to our customers&#8217; success we believe we are well positioned to continue to help the industry address a broader range of challenges and opportunities. We also believe our customer success focus provides a strategic advantage in our business development and sales efforts, as customers are strong advocates and refer others to our solutions. 
+
+We have carefully built our culture by recruiting, selecting and developing employees who are highly focused on delivering success for customers. This is a crucial element of our hiring and evaluation processes throughout all departments. We believe this approach produces high levels of customer success and employee success. 
+
+We also believe we provide employees a unique opportunity to develop and sell world-class, cloud-based applications and platforms within a specific industry. Historically, software developers had to choose between developing platforms for a broad, but generic set of customers, and building industry-specific solutions with limited further applicability. Our industry cloud approach empowers developers to build important applications and platforms that can become the standard in our industry while enabling sales personnel to sell a growing portfolio of solutions to a focused, deep set of life sciences companies. We believe that this unique opportunity will allow us to continue to attract top talent for our product development and sales efforts. 
+
+As of January 31, 2016, we employed 1,474 people. We also engage temporary employees and consultants. None of our employees is represented by a labor union. We have not experienced any work stoppages, and we consider our relations with our employees to be very good. 
+
+Technology Infrastructure and Operations 
+
+Our solutions utilize a pod-based architecture in multiple data centers that allow for scalability, operational simplicity and security. Our solutions are hosted in data centers located in the United States, the European Union and Japan. We utilize third-parties to provide our data center infrastructure and manage the infrastructure on which our solutions operate. We utilize industry standard hardware in redundant configurations to minimize service interruptions. We also utilize multiple domain name service providers to lessen the potential for network-related disruptions. 
+
+Our technology is based on multitenant architectures that apply common, consistent management practices for all customers using our solutions. We enable multiple customers to share the same version of our solutions while securely partitioning their respective data. Portions of our multichannel customer relationship management applications are built on the Salesforce1 Platform. Our Veeva Vault and Veeva Network solutions are built upon our own proprietary platforms. We built the proprietary portions of our 
+
+&#160;
+
+technology stack using recognized open source components. In addition, we use Amazon Web Services, which provides a scalable, distributed computing and storage infrastructure platform, for certain computing and data intensive functions of our solutions, such as analytic reporting, large data set manipulation and redundant storage. 
+
+We continually monitor our infrastructure for any sign of failure or pending failure, and we take preemptive action to attempt to minimize or prevent downtime. Our data centers employ advanced measures to ensure physical integrity and security, including redundant power and cooling systems, fire and flood prevention mechanisms, continual security coverage, biometric readers at entry points and anonymous exteriors. We also implement various disaster recovery measures, including full replication of hardware and data in our geographically distinct data centers, such that data loss would be minimized in the event of a single data center disaster. 
+
+All users are authenticated, authorized and validated before they can access our solutions. Users must have a valid user ID and associated password to log on to our solutions. Our configurable security model allows different groups of users to have different levels of access to our solutions. Our solutions&#8217; vulnerability is tested using internal tools prior to release, and we employ a third party to perform penetration and vulnerability tests on our solutions on at least an annual basis. 
+
+We also obtain independent third-party audit opinions related to security and availability annually, such as a Service Organization Controls, or SOC 2, Type II report. 
+
+Sales and Marketing 
+
+We sell our solutions through our direct sales organization. 
+
+At a high level, life sciences companies are typically organized by the major functions of research and development for the creation and development of new solutions, and commercial, for the sales and marketing of those solutions once they are approved for use. In large life sciences companies, research and development and commercial business lines may also have separate technology and business decision makers. Accordingly, we market and sell our solutions to align with the distinct characteristics of the research and development buyer and the commercial buyer. In our largest regions, we have distinct research and development and commercial sales teams. Each of these teams is further divided to sell to the largest global pharmaceutical companies and to smaller life sciences companies. 
+
+We believe the combination of our industry-focus and commitment to customer success provides strategic advantage and allows us to more efficiently market and sell our solutions as compared to horizontal cloud-based companies. Our awareness, demand generation and sales cultivation programs are highly targeted to only life sciences industry buyers. We believe that we further benefit from word-of-mouth marketing as customers endorse our solutions to their industry peers. This allows us to focus our sales and marketing efforts without the need for a larger number of sales executives. 
+
+Our Relationship with salesforce.com 
+
+Veeva CRM and certain of our related multichannel customer relationship management applications are developed on or utilize the Salesforce1 Platform of salesforce.com, inc. We are salesforce.com&#8217;s preferred and recommended Salesforce1 Platform application provider of sales automation solutions for drug makers in the pharmaceutical and biotechnology industry, or the pharma/biotech industry. Our agreement provides that, subject to certain exceptions and specified remedies for breach, salesforce.com will not position, develop, promote, invest in or acquire applications directly competitive to the Veeva CRM application for sales automation that directly target the pharma/biotech industry. Our agreement with salesforce.com does not restrict a salesforce.com customer&#8217;s ability (or the ability of salesforce.com on behalf of a specific salesforce.com customer) to customize or configure the Salesforce1 Platform. However, our agreement restricts salesforce.com from competing with us with respect to sales opportunities for sales automation solutions for the pharma/biotech industry unless such competition has been pre-approved by salesforce.com&#8217;s senior management based on certain criteria specified in the agreement. Our agreement also imposes certain limits on salesforce.com entering into arrangements similar to ours with other parties with respect to sales automation applications for the pharma/biotech industry. Our agreement allows us to provide our customers with rights to the Salesforce1 Platform Unlimited Edition for use as combined with the proprietary aspects of certain of our multichannel customer relationship management applications , and subject to salesforce.com&#8217;s standard prior review and approval processes, to build additional applications on the Salesforce1 Platform. 
+
+Under our agreement, salesforce.com provides the hosting infrastructure and data center for portions of our multichannel customer relationship management applications , as well as the system administration, configuration, reporting and other platform level functionality. In exchange, we pay salesforce.com a fee. Our current agreement with salesforce.com expires on September 1, 2025 and is renewable for five-year periods upon mutual agreement. We are obligated to meet minimum order commitments of $500 million over the term of the agreement, including &#8220;true-up&#8221; payments if the orders we place with salesforce.com have not equaled or exceeded 
+
+&#160;
+
+the following aggregate amounts within the timeframes indicated: (i) $250 million from March 1, 2014 to Sep tember 1, 2020 and (ii) the full amount of $500 million by September 1, 2025. If either party elects not to renew the agreement or if the agreement is terminated by us as a result of salesforce.com&#8217;s breach, the agreement provides for a five-year wind-down period in which we would be able to continue providing the Salesforce1 Platform as combined with the proprietary aspects of our solutions to our existing customers but would be limited with respect to the number of additional subscriptions we could sell t o our existing customers. We believe that we have a mutually beneficial strategic relationship with salesforce.com. 
+
+Quality and Compliance 
+
+Our customers use our solutions for business activities that are subject to a complex regime of country and region specific healthcare laws and regulations across the globe. In order to best serve our customers, we must ensure that the data processed by our systems are accurate and secure and that they retain the level of confidentiality and privacy commensurate with the type of information managed. To comply with IT healthcare regulations, industry-specific capabilities must be designed for and embedded in all of our solutions. These capabilities include: robust audit trail tracking, compliant electronic signature capture, data encryption and secure access controls. In addition to design requirements, our solutions must be thoroughly tested to comply with the regulations that apply to electronic record keeping systems for the life sciences industry, which include: 
+
+&#160;
+
+Regulation
+
+&#160;
+
+Regulation Description
+
+&#160;
+
+&#160;
+
+21 CFR 820.75
+
+&#160;
+
+U.S. FDA device regulation on system validation
+
+&#160;
+
+&#160;
+
+21 CFR 211.68
+
+&#160;
+
+U.S. FDA pharma GMP regulation on system validation
+
+&#160;
+
+&#160;
+
+21 CFR 11
+
+&#160;
+
+U.S. FDA requirement for maintenance of electronic records
+
+&#160;
+
+&#160;
+
+EU Annex 11
+
+&#160;
+
+EU GMP requirement for maintenance of electronic records
+
+&#160;
+
+&#160;
+
+21 CFR 203
+
+&#160;
+
+Drug sample tracking as required by the Prescription Drug Marketing Act
+
+&#160;
+
+&#160;
+
+&#160;
+
+PFSB Notification, No. 0401022 (Japan)
+
+&#160;
+
+Use of Electromagnetic Records and Electronic Signatures for Approval of, or License for, Drugs
+
+Each version of our solutions undergoes validation testing against these and other relevant standards. Veeva performs IQ and OQ, develops a validation plan and executes the protocols. The results of each independent validation are then reviewed and confirmed in a summary report by our quality and compliance team. As such, we maintain a dedicated team of quality and compliance experts that manages our processes for meeting the requirements of the FDA and other global life sciences regulatory agencies. The functions of this quality and compliance team include three separate domains, each managed by a responsible area head: 
+
+&#160;
+
+&#183; 
+
+quality systems oversees resource management, document management, computer validation and quality oversight; 
+
+&#160;
+
+&#183; 
+
+compliance oversees audit management, supplier management and regulatory intelligence; and 
+
+&#160;
+
+&#183; 
+
+the security office oversees information security and data privacy, security awareness training and security incident management. 
+
+Veeva has designed and implemented a Quality Management System (QMS) that is aligned with our customers&#8217; regulatory standards for IT compliance. Our QMS is maintained in our own Veeva Vault QualityDocs application. A compliant QMS in the healthcare regulated environment entails: 
+
+&#160;
+
+&#183; 
+
+a comprehensive set of quality policies and procedures; 
+
+&#160;
+
+&#183; 
+
+an independent quality assurance function that oversees development and maintenance of our software; 
+
+&#160;
+
+&#183; 
+
+audit support of our customers&#8217; regulatory obligation to perform due diligence on their suppliers; 
+
+&#160;
+
+&#183; 
+
+computer systems validation aligned with healthcare industry best practices as outlined in published regulatory standards; 
+
+&#160;
+
+&#183; 
+
+a resource management program to ensure employees have the requisite demonstrable level of experience and training; 
+
+&#160;
+
+&#183; 
+
+a risk management program to identify product realization and other business risks; and 
+
+&#160;
+
+&#183; 
+
+an information security program to ensure IT controls conform to established standards. 
+
+&#160;
+
+With respect to data protection, Veeva is a registered Data Controller and Data Processor under EU Data Protection Directive 95/46/EC. We routinely execute the EU Standard Contractual Clauses, often also referred to a s Model Clauses, to ensure that our European customers have adequate assurance of our technical and organization controls regarding data privacy. 
+
+Our quality and compliance team also manages the process of customer audits, which is often a required due diligence step in customer purchase decisions. We believe our approach to quality and compliance is a reflection of our focus on customer success and is a competitive differentiator.
+
+Research and Development 
+
+Our ability to compete depends in large part on our continuous commitment to research and development and our ability to rapidly introduce new applications, technologies, features and functionality. Our research and development organization is responsible for the design, development and testing of our solutions and applications. Based on customer feedback and needs, we focus our efforts on developing new solutions functionality, applications and core technologies and further enhancing the usability, functionality, reliability, performance and flexibility of existing solutions and applications. 
+
+Research and development expenses were $26.3 million, $41.2 million and $66.0 million for our fiscal years ended January 31, 2014, 2015 and 2016, respectively. 
+
+Competition 
+
+The overall market for life sciences software is global, rapidly evolving, highly competitive and subject to changing regulations, advancing technology and shifting customer needs. The solutions and applications offered by our competitors vary in size, breadth and scope. 
+
+Our multichannel customer relationship applications compete with offerings from large global enterprise software vendors, such as Oracle Corporation, and also compete with life sciences-specific vendors, such as IMS Health Holding, Inc. We also compete with a number of vendors of cloud-based and on-premise customer relationship management applications that address only a portion of one of our customer relationship management solutions. Veeva Vault, our regulated content and information management solutions, competes with offerings from large global content management platform vendors such as EMC Corporation, Microsoft Corporation and OpenText Corporation. We also compete with professional services companies that provide solutions on these platforms, such as Computer Sciences Corporation, and with other life sciences specific providers. In the future, providers of horizontal cloud-based storage products may seek to compete with our regulated content and information management solutions. Our Veeva Network master data management solutions compete with master data software offerings from vendors such as Informatica Corporation, IMS and other smaller providers. Our data and data services offerings compete with IMS and many other data providers. 
+
+We may also face competition from custom-built software developed by third-party vendors or developed in-house by our potential customers, or from applications built by our customers or by third parties on behalf of our customers using commercially available software platforms that are provided by third parties. We may also face competition from companies that provide cloud-based solutions in different target or horizontal markets that may develop applications or work with companies that operate in our target markets. With the introduction of new technologies and market entrants, we expect competition to intensify in the future.
+
+In some cases, our competitors are well-established providers of competitive solutions and have long-standing relationships with many of our current and potential customers, including large pharmaceutical and emerging biopharmaceutical companies. Oracle, EMC and IMS, for example, each have greater name recognition, a much longer operating history, larger marketing budgets and significantly greater resources than we do. 
+
+Many of our competitors may be able to devote greater resources to the development, promotion and sale of their products and services than we are able. Such competitors may be able to initiate or withstand substantial price competition, and may offer solutions competitive to certain of our solutions on a standalone basis at a lower price or bundled as part of a larger product sale, including the bundling of software solutions and data. In addition, many of our competitors have established marketing relationships, access to larger customer bases and distribution agreements with consultants, system integrators and resellers that we do not have. Our competitors may also establish cooperative relationships among themselves or with third parties that may further enhance their product offerings or resources.
+
+In addition, in order to take advantage of customer demand for cloud-based solutions, such competitors may expand their cloud-based solutions through acquisitions and organic development or may seek to partner with other leading cloud providers. For instance, in April 2015, IMS acquired the information solutions and CRM businesses of Cegedim SA. The combined entity is likely to intensely 
+
+&#160;
+
+compete with us in a number of product areas, including software solutions, data a nd data services, and such competition may negatively impact our business. 
+
+We believe the principal competitive factors in our market include the following: 
+
+&#160;
+
+&#183; 
+
+level of customer satisfaction; 
+
+&#160;
+
+&#183; 
+
+regulatory compliance verification and functionality; 
+
+&#160;
+
+&#183; 
+
+domain expertise with respect to life sciences; 
+
+&#160;
+
+&#183; 
+
+ease of deployment and use of solutions and applications; 
+
+&#160;
+
+&#183; 
+
+breadth and depth of solution and application functionality; 
+
+&#160;
+
+&#183; 
+
+brand awareness and reputation; 
+
+&#160;
+
+&#183; 
+
+modern and adaptive technology platform; 
+
+&#160;
+
+&#183; 
+
+capability for customization, configurability, integration, security, scalability and reliability of applications; 
+
+&#160;
+
+&#183; 
+
+total cost of ownership; 
+
+&#160;
+
+&#183; 
+
+ability to innovate and respond to customer needs rapidly; 
+
+&#160;
+
+&#183; 
+
+size of customer base and level of user adoption; and 
+
+&#160;
+
+&#183; 
+
+ability to integrate with legacy enterprise infrastructures and third-party applications. 
+
+We believe that we compete favorably on the basis of these factors and that the domain expertise required for developing and deploying successful solutions in the life sciences industry may hinder new entrants that are unable to invest the necessary capital to develop solutions that can address the functionality, requirements and regulatory compliance capabilities needed for the life sciences industry. Our ability to remain competitive will largely depend on our ongoing performance in the areas of solution and application development and customer support. 
+
+Intellectual Property 
+
+We rely on a combination of patents, trade secrets, copyrights and trademarks, as well as contractual protections, to establish and protect our intellectual property rights. We have recently instituted a process for seeking patent protection for our technology innovations and to date we have secured 3 patents and have 21 pending U.S. and international patent applications. We plan to continue expanding our patent portfolio. We require our employees, consultants and other third parties to enter into confidentiality and proprietary rights agreements and control access to software, documentation and other proprietary information. Although we rely on our intellectual property rights, as well as contractual protections to establish and protect our proprietary rights, we believe that factors such as the technological and creative skills of our personnel, creation of new features and functionality and frequent enhancements to our applications are essential to establishing and maintaining our technology leadership position as provider of software solutions and applications to the life sciences industry. 
+
+Despite our efforts to protect our proprietary technology and our intellectual property rights, unauthorized parties may attempt to copy or obtain and use our technology to develop applications with the same functionality as our application. Policing unauthorized use of our technology and intellectual property rights is difficult, and protection of our rights through civil enforcement mechanisms may be expensive and time consuming. 
+
+Companies in our industry often own a number of patents, copyrights, trademarks and trade secrets and frequently enter into litigation based on allegations of infringement, misappropriation or other violations of intellectual property or other rights. We have in the past settled a lawsuit from a competitor asserting patent infringement and a lawsuit from a competitor asserting trademark infringement, and we may face new allegations in the future that we have infringed the patents, trademarks, copyrights, trade secrets and other intellectual property rights of other competitors or non-practicing entities. We expect that we and others in our industry will continue to be subject to third-party infringement claims by competitors as the functionality of applications in different industry segments overlaps, and by non-practicing entities. Any of these third parties might make a claim of infringement against us at any time. 
+
+&#160;
+
+Business Combinations 
+
+Most of our solutions were developed by our in-house research and development teams, but there are instances in which we acquire relevant outside expertise or product capabilities to help our customers succeed.
+
+On September 29, 2015, we completed our acquisition of Mineral Newco Ltd., the ultimate parent company of Zinc Ahead Ltd. and other affiliates (collectively, &#8220;Zinc Ahead&#8221;) in an all-cash transaction. The total closing consideration for the purchase was approximately $119.9 million in cash. In addition, the agreement calls for $10.0 million payable at a rate of one-third per year to employee shareholders and option holders of Zinc Ahead who remain employed with us. These payments have been accounted for as deferred compensation and will be recognized over the service period. Zinc Ahead was a provider of commercial content management solutions. We expect this acquisition to support the continued growth of our commercial content management solutions. Over time, we will seek to convert the users of the Zinc Ahead solutions to our Veeva Vault PromoMats application. 
+
+Corporate Information 
+
+We were incorporated in the state of Delaware in January 2007 and changed our name to Veeva Systems Inc. from Verticals onDemand, Inc. in April 2009. Our principal executive offices are located at 4280 Hacienda Drive, Pleasanton, California 94588. Our telephone number is (925) 452-6500. Our website address is http://www.veeva.com. Information contained on our website is not incorporated by reference into this annual report on Form 10-K, and you should not consider information contained on our website to be part of this annual report on Form 10-K or in deciding whether to purchase shares of our Class A common stock. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on the Investors portion of our website at http://ir.veeva.com as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+

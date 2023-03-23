@@ -1,0 +1,378 @@
+ ITEM 1: BUSINESS &#160;
+
+Our Company 
+
+&#160;
+
+Ideal Power Inc. was formed in Texas on May 17, 2007 and converted to a Delaware corporation on July 15, 2013. Unless otherwise stated or the context otherwise requires, the terms &#8220;Ideal Power,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; and the &#8220;Company&#8221; refer to Ideal Power Inc.
+
+&#160;
+
+We design, market and sell electrical power conversion products using our proprietary technology called Power Packet Switching Architecture (&#8220;PPSA&#8221;). PPSA is a power conversion technology that improves upon existing power conversion technologies in key product metrics, such as size, weight, cost, and efficiency. PPSA utilizes standardized hardware with application specific embedded software. Our advanced technology is important to our business and we make significant investments in research and development and protection of our intellectual property. At December 31, 2015, we have been granted 36 United States, three European, one Chinese and two other foreign patents.
+
+&#160;
+
+We sell our products primarily to systems integrators for integration into their larger turn-key system which enable end users to manage their electricity consumption by reducing demand charges or fossil fuel consumption, integrating renewable energy sources and/or form their own microgrid. Our products are made by contract manufacturers to our specifications, enabling us to scale production to meet demand on a cost-effective basis without requiring significant expenditures on manufacturing facilities and equipment. As our products gain broader acceptance in the power conversion market, we intend to license our proprietary PPSA-based product designs to OEMs within our target markets, as well as license our technologies for other markets which we do not plan to enter directly.
+
+&#160;
+
+Industry Background 
+
+&#160;
+
+Utility power grids are built using AC generation, transmission, and distribution resources. This method of power transmission and distribution has been proven over time to be reliable and safe. The outlets in a typical home or business are AC but many electrical devices, such as computers, televisions, and other appliances operate on DC power. Batteries and PV solar panels produce DC power as well. In order to connect DC devices to an AC power grid, a power conversion device is necessary.
+
+&#160;
+
+We believe that significant changes in the supply of and demand for electrical power are driving demand for new energy infrastructure products and supporting technologies. In a traditional utility model, electrical power is generated from central stations and transmitted over long distance high-voltage transmission lines to substations where the voltage is reduced for distribution to consumers. Utility power grids are built to manage the flow of power in one direction, from generation to use, where sophisticated tools have been developed to match the amount of power being generated with the amount being consumed. Utilities ramp power plants up or down to closely match generation with load.
+
+&#160;
+
+The rapid growth in worldwide renewable energy generation, such as wind and solar power, has added a new level of complexity to the task of matching power generation with consumption. These intermittent resources cannot be dispatched at will or relied upon to meet the peak power demands of the grid. Renewable energy sources tend to ramp up and down quickly. For example, a single cloud over a photovoltaic, or PV, farm can cause electrical output to change dramatically in a matter of seconds. These new challenges make it increasingly difficult for utilities to accurately forecast and meet peak power demands.
+
+&#160;
+
+Increased peak demand for power also has exposed weaknesses in the existing power grid. In high-cost, high-demand states, such as California, public utilities have instituted peak demand charges as a way to ration power during periods of peak demand and to incentivize customers to shift their power consumption to off-peak times. At the same time, both the Federal and certain state governments have created incentive programs to encourage the development and implementation of alternative energy sources, such as solar and wind power, which has the perverse consequence of making peak demand more difficult to forecast and satisfy. Strains on the electric grid have resulted in significant brown-outs and black-outs that have heightened awareness of the vulnerabilities of the existing system. As a result, power consumers are turning to new technologies to manage their energy consumption, lower costs and assure a reliable source of supply. We believe that distributed generation with advanced power conversion systems, such as our PPSA products, has become an increasingly important element of this new infrastructure.
+
+&#160;
+
+In response to these changes in the market for electrical power, a number of technologies have been developed to enable users to more effectively manage their consumption and, one of these technologies, energy storage systems, has emerged as the best way to mitigate the instabilities and market inefficiencies caused by these emerging power grid realities. For example, a commercial business can shift energy usage from peak to non-peak times by installing a battery energy storage system, or BESS. The commercial business can use electricity generated during off-peak hours to charge the BESS and then use the stored power to satisfy all or part of its demand during peak hours. Similarly, a commercial business can install a solar power system to generate power for use either immediately upon generation or for storage in a BESS for later use.
+
+&#160;
+
+Battery energy storage systems and many alternative energy sources provide power on a direct current, or DC, basis. However, the electric power grid and most electrical equipment operates on an alternating current, or AC, basis. Consequently, power conversion systems are required to convert power from DC to AC or from AC or DC as necessary to make the various components of the system function together. In addition to converting power, power conversion systems enable customers to regulate current, voltage and frequency while optimizing system resources such as batteries, PV and the utility power grid to reduce energy costs. Systems incorporating advanced power converters may also manage distributed grid energy storage and be used to create stand-alone microgrids to bring power to a business or residence if the main electrical grid, if one is present, is unavailable.
+
+&#160;
+
+&#160;
+
+&#160;
+
+BESS and alternative energy sources, such as solar or wind power, can only be connected to the existing power grid if they are electrically isolated to prevent power from flowing back into the grid and potentially damaging components of the power system or creating potential safety hazards. Traditionally, power conversion systems have been paired with heavy, wire-wound transformers to provide this isolation and thereby protect the grid. Additionally, power conversion systems based on traditional power conversion technologies use many other passive components which make them big, heavy, expensive and inefficient due to the large quantity of copper and magnetic material and hard-switching topologies. Transformer-less power conversion systems in battery applications on the other hand still require bulky transformers if connected from the grid and thus have many of the same drawbacks as transformer-based systems. Consequently, power conversion systems with transformers are relatively large, expensive to manufacture, ship and install and require larger spaces for installation and heat dissipation.
+
+&#160;
+
+Our Technology 
+
+&#160;
+
+We believe PPSA is the only power conversion technology on the market that provides electrical isolation without the need for the transformer that conventional power conversion systems require to connect electrical devices such as energy storage systems to the grid. Electrical isolation is at the core of PPSA.
+
+&#160;
+
+PPSA uses indirect power flow in which power flows through input switches and is temporarily stored in our proprietary AC link inductor. Our proprietary fast switching algorithms enable the transfer of quantum packets of power between ports in our system. As the AC link becomes charged, it disconnects from its input switches, resonates without being connected to either the input or output switches, and then reconnects to its output switches when it reaches the correct voltage and frequency for the application, providing true electrical isolation without the need for a transformer.
+
+&#160;
+
+Figure 1: Schematic of PPSA Process
+
+&#160;
+
+&#160;
+
+Transformer-based power conversion systems use continuous power flow that relies on relatively heavy and expensive magnetic components and bulk capacitors. Many of these traditional systems have custom hardware for specific applications and are not readily adaptable or customizable. Because they are relatively inefficient, these systems generate excess heat that causes electrical and thermal stresses resulting in drive component failures and losses. By contrast, our conversion technology eliminates the majority of the passive components of traditional power conversion systems, including transformers, inductors and bulk capacitors.
+
+&#160;
+
+We believe PPSA offers several key advantages over traditional technologies, such as:
+
+&#160;
+
+&#160; &#8226; Size and Weight: PPSA architecture reduces size and weight by eliminating passive components such as transformers, inductors and bulk capacitors. Our 30kW power conversion system weighs 97 pounds. By contrast, similar transformer-based 30kW power conversion systems typically weigh over 600 pounds. 
+
+&#160; &#160; &#160; &#160; &#8226; Efficiency: Efficiency is the measure of power out of the power conversion system as a percentage of the power into the system. Thus, high efficiency systems use less power in the conversion process and supply more power for use. Our 30kW power conversion system efficient rating was 96.5% based on the California Energy Commission (&#8220;CEC&#8221;) weighted efficiency test. Our efficiency advantage is more pronounced when operating the system at relatively low rated power, which is more common in battery systems. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Figure 2: PPSA Size, Weight and Efficiency Comparison
+
+&#160;
+
+&#160;
+
+&#160; &#8226; Cost: Reduced weight results in lower material and manufacturing, transportation and installation costs. &#160;
+
+&#160; &#8226; Safety: Since PPSA provides isolation, it allows the systems in which it is used to be grounded. Non-grounded systems require additional safeguards to pass U.S. safety regulations, which increase system cost and reduce efficiency. &#160;
+
+&#160; &#8226; Scalability/Flexibility: PPSA is made from standard industry components, is battery agnostic and software driven, thus providing more scalability that enables rapid development cycles for new products and new applications. This same functionality provides ultimate flexibility for customers globally as it is capable of power conversion in both 50Hz and 60Hz AC current environments. &#160;
+
+&#160; &#8226; Reliability: PPSA enables a simplified product that eliminates many components, thereby eliminating potential sources of failure, and several common failure modes. These design features are likely to increase overall system reliability. &#160;
+
+Products 
+
+&#160;
+
+We have developed products commercializing PPSA and make these products available for sale both directly to customers and through distributors. We currently sell five power conversion products utilizing our patented PPSA technology. These products are described as follows:
+
+&#160;
+
+&#160; &#8226; 30kW Battery Converter, which is certified for UL1741 conformance and is intended to be used for the commercial and industrial grid-tied distributed energy storage market. This battery converter is bi-directional, which means power can flow to or from batteries. This product is more efficient and approximately 1/4 th to 1/8 th the size and weight of similar transformer-based products. &#160;
+
+&#160; &#8226; 30kW Grid-Resilient AC-DC Power Conversion System (&#8220;PCS&#8221;), which is certified for UL1741 conformance. This product is capable of power conversion in both 50Hz and 60Hz AC current environments and has the ability to form and manage a microgrid. This product is intended for customers who need a 30kW battery converter for use overseas or who need the additional capability to form a microgrid. This product is not a replacement for our 30kW battery converter but complements the existing product with additional features. &#160;
+
+&#160; &#8226; 30kW Grid-Resilient AC-DC-DC Multi-Port PCS with two DC ports enabling two DC inputs, such as PV and batteries, with one power converter. This product is certified for UL1741 conformance. This product is capable of power conversion in both 50Hz and 60Hz AC current environments, and also has the ability to form and manage a microgrid. The key feature of this multi-port PCS is that it effectively pairs energy storage with a distributed generation resource to support critical loads or allow a building to disconnect from the utility power grid. This product received the &#8220;Electrical Energy Storage Award&#8221; for product innovation in 2014 at InterSolar Germany, the world&#8217;s largest solar exhibition, and was recognized as one of the 2015 top inverter products by Solar Power World Magazine. &#160;
+
+&#160; &#8226; 125kW Grid-Resilient AC-DC PCS, which is certified for UL1741 conformance. This 125kW system has over four times the power of the 30kW product and is also able to convert in both 50Hz and 60Hz AC current environments and form and manage a microgrid. This product is a larger version of our 30kW grid-resilient AC-DC PCS for use in higher power applications. &#160;
+
+&#160; &#8226; 125kW Grid-Resilient AC-DC-DC Multi-Port PCS for higher power applications with multi-port capabilities. This product has over four times the power of the 30kW multi-port PCS and is also able to convert in both 50Hz and 60Hz AC current environments as well as form and manage a microgrid. The product is primarily for off-grid and microgrid management applications currently, as we have not yet sought certification for UL1741 conformance, required for connection to the utilize grid in the United States, for this product. This product is currently in prototype production only. We intend to certify this product for UL1741 conformance in late 2016 or early 2017 for grid tied operation. &#160;
+
+&#160;
+
+&#160;
+
+Future Innovations 
+
+&#160;
+
+Variable Frequency Drives 
+
+&#160;
+
+We are developing a PCS for variable frequency drives (&#8220;VFD&#8221;) based on our core PPSA technology. We believe that this product, once commercialized, can be offered as a high-efficiency alternative to traditional VFDs which suffer from similar size, weight, and heat loss inefficiencies as those of traditional power conversion systems. A PPSA-based VFD may offer medium to large low-voltage motors a high quality drive that improves efficiency, costs less to manufacture and install, and reduces electrical noise and harmonics over traditional VFDs. Such a product could also open up new markets for VFDs where they may not be commercially viable today due to their size, efficiency, or power quality.
+
+&#160;
+
+Bi-Directional Switches 
+
+&#160;
+
+Our existing products incorporate multiple insulated gate bipolar transistors (&#8220;IGBTs&#8221;), which are power switches used in the process to convert power from one current form to another. IGBTs switch power in only one direction (DC to AC or AC to DC) and require the use of a blocking diode to prevent power from flowing back through the system. To enable our existing products to perform bi-directional power conversion, for each IGBT and diode used in our products, we must include a second IGBT and diode. These additional components have slight voltage drops that affect the electrical efficiency of our products and generate excess heat that must be dissipated. We have patented and are developing a new, highly efficient silicon switch called a bi-directional bipolar transistor (&#8220;B-TRAN&#8221;) that we believe will allow us to substitute one B-TRAN for two pairs of IGBTs and diodes used in our current products. Based on our software simulations, we believe that the B-TRANs can improve electrical efficiency in our power converters from approximately 96.5% to at or greater than 99.0%. The higher efficiency would substantially reduce the heat generated by the operation of our products. As a result, products incorporating B-TRANs will require less space for heat dissipation which would allow us to increase power density, or power per pound, and reduce material costs. We believe that these development efforts, if successful, will enhance the competitive position of our products. In addition, we believe the B-TRAN may potentially provide significant benefits for uses outside of our power converters as a potential replacement for IGBTs.
+
+&#160;
+
+We received an award of $2.5 million from ARPA-E for the development of our bi-directional switch technology. Funds under the award have been spent and continuing development work is self-funded. The funding from ARPA-E was sufficient to develop and demonstrate advanced power switches in third party simulations and start the initial process development for fabrication of the devices. We expect to develop, manufacture and test initial prototypes of these switches in 2016.
+
+&#160;
+
+Business Strategy 
+
+&#160;
+
+Our business strategy is to promote and expand the uses of PPSA initially through product development and product sales. To bring our products to market, we will seek out best-in-class partners who will distribute, white-label our products or integrate our innovative products into higher value systems resulting in multiple strategic sales channels for our PPSA based products and product designs. Although our primary market is the United States, we will increasingly target markets outside the United States. As our products gain broader acceptance in the power conversion market, we intend to license our proprietary PPSA-based product designs to OEMs within our target markets, as well as license our technologies for other markets which we do not plan to enter directly. The basis for this approach is the belief that OEMs may achieve higher product margins and gain more market share by providing PPSA-based products, which are differentiated from the traditional product offerings in the industry, to their customers. We believe such strategic relationships with key OEM licensees would enable us to reap the benefits of PPSA and gain market share more quickly than by strictly manufacturing and distributing our products.
+
+&#160;
+
+Target Markets 
+
+&#160;
+
+Currently, our three primary markets are standalone storage, which represented a majority of our sales in 2015, PV + storage, and microgrids. Based on market studies and forecasts by Navigant Research and Zpryme Research &#38; Consulting, these three markets combined are forecasted to grow to over $100 Billion by 2020. Assuming that power conversion systems represent approximately 17.5% of the system cost, a Company estimate, power conversion systems such as those made by Ideal Power are forecasted to account for nearly $18 billion of this market.
+
+&#160;
+
+&#160;
+
+&#160;
+
+Figure 3: Target Market Forecasts
+
+&#160;
+
+Discussion of our Target Power Conversion Markets 
+
+&#160;
+
+Stand-Alone Storage Market 
+
+&#160;
+
+The stand-alone storage market is served by BESS. BESS are racks of batteries coupled with a power conversion system, such as those manufactured by us, to enable electric power to be captured, stored, and used in conjunction with electric power grids. These systems can be large, megawatt-scale systems operated by utilities to better manage their system resources, or smaller kilowatt-scale systems used by businesses and designed to enable these businesses to manage their power use and mitigate utility imposed &#8220;peak demand charges&#8221;, which are charges utilities levy on their business customers for delivery of power at peak usage times of the day, such as mid-afternoons in the summer. The growth of peak demand charges has been substantial over the past decade and now can make up 50% or more of a commercial utility bill in certain markets. This is a trend that is likely to continue as more intermittent resources are added to the utility power grid causing grid instability. Utilities and aggregators of distributed generation resources are also expected to adopt BESS due to the proliferation of renewables and to take advantage of additional value streams such as energy arbitrage, frequency regulation and ancillary services, infrastructure upgrade deferral and locational capacity.
+
+&#160;
+
+There are strong economic incentives available to commercial and industrial consumers in major US markets such as California and New York in the form of reduced demand charges for installing a BESS and reducing peak consumption. There is also strong regulatory support for such systems. For example, California has issued a mandate for over 1,000 megawatts of new energy storage to be installed by 2020. Our 30kW and 125kW power conversion systems enable these BESS to connect to the utility power grid and, when paired with batteries, offer these customers a substantial cost saving opportunity on their monthly electric bill. This market is still in its early years, but we have established a strong brand and position in this market with our customers having many systems installed and operating today. Based on market studies and forecasts by Navigant Research and Zpryme Research &#38; Consulting, this market is forecasted to grow 40% annually over the next five years and we believe it offers the highest value proposition today for our products.
+
+&#160;
+
+We believe this market is beginning to grow beyond pilot installations to higher volume installations driven by the underlying economics of BESS to commercial and industrial customers. A good indicator of this is the availability of third party financing for BESS. Several of our customers have recently signed or announced financing deals for their BESS products, including Gexpro whose PowerIQ product is being commercially financed by a subsidiary of NextEra Energy Resources (NYSE: NEE).
+
+&#160;
+
+We expect the cost of commercial and industrial BESS to continue to decline due primarily to lower battery costs and, as a result, expect significant expansion in the addressable market for these systems. We also believe the combination of lower BESS costs, third-party financing, increases in utility demand charges, and the continued entrance of large, established companies to the BESS space will all contribute to accelerating market growth for stand-alone storage.
+
+&#160;
+
+PV + Storage Market 
+
+&#160;
+
+PV has one of the lowest levelized costs of energy for new electrical generation capacity and this is expected to remain true in the near term. We expect distributed PV to continue to be a high growth business as system costs have fallen dramatically over the past several years. As such, the economics of generating PV for local consumption is expected to remain strong for several more years, especially given the investment tax credit (&#8220;ITC&#8221;) extension passed by Congress in 2015 for solar energy production. One shortcoming of these distributed, behind-the-meter PV systems is that they require connection to the utility power grid in order to operate. For example, a business with PV on its roof will not, in most cases, benefit from the ability to generate power should the utility power grid go down. Another shortcoming of distributed PV systems is the instability they cause on the local power lines. Utility power grids were not designed to manage power inflow from the end of the lines. As such, distributed generation sources can lead to wide swings in line voltages when clouds pass and power output falls off, requiring the utility to ramp up its central power stations to make up for the shortfall in solar.
+
+&#160;
+
+&#160;
+
+&#160;
+
+Our grid-resilient PCS help resolve these shortcomings. For example, when a distributed PV system is connected to a BESS that includes one of our multi-port PCS, the business will benefit from the ability to form and manage a local microgrid powered by the PV system and BESS even when the utility power grid is down. This capability is attractive to electricity consumers who need to power critical loads even in a blackout. Our grid-resilient PCS are also equipped to meet evolving utility requirements for low voltage ride through and other key operating parameters, enabling the PV and BESS it connects to the grid to help stabilize the utility power grid when voltage or frequency fluctuates due to imbalances in load and supply.
+
+&#160;
+
+Commercial and industrial BESS are able to generate value far beyond peak demand reduction. We believe our products will become increasingly attractive to co-locate BESS with distributed PV. IHS, a global research firm with a strong renewable industry focus, forecasts that global installations of grid-tied commercial BESS coupled with PV will grow 111% annually from near obscurity in 2014 to over 600 MW PV + storage systems by 2018.
+
+&#160;
+
+According to their research, IHS believes that systems will be deployed in two principle configurations. The present configuration is to have separate BESS and PV systems tied together through the AC wiring, which is supported by all of our current products. A second, emerging configuration will be to place the BESS and the PV system behind a single PCS with two DC inputs. This configuration is forecast to improve efficiency, reduce costs, and allow PV harvesting when operating without a utility power grid present in microgrid mode. Our grid-resilient 30kW and 125kW multi-port PCS were designed specifically to enable this lower cost and more efficient second configuration.
+
+&#160;
+
+Also according to IHS, the global PV industry is projected to grow from 45GW of annual installations in 2014 to 71GW in 2018. Providing a new generation of solutions with integrated energy storage will enable the PV industry to address new markets with high growth potential. These new PV + storage markets include providing backup power during blackouts, improving grid stability in high penetration PV areas and reducing fossil fuel consumption in remote and off-grid microgrids. In the event of a grid failure, grid-tied PV installations are not capable of operating independently. For example, during Superstorm Sandy many PV system owners were displeased to learn that their grid-tied PV installations would not power their home or business. Systems incorporating our multi-port PCS along with PV and a BESS will be capable of providing backup power during grid blackouts. We expect our multi-port PCS products to be attractive to existing customers as a low-cost system upgrade to improve integration of PV. We further expect our products to provide competitive solutions for these market requirements.
+
+&#160;
+
+Microgrid Market 
+
+&#160;
+
+Over the next decade the greatest demand for new power generation capacity is likely to occur in regions such as Southeast Asia, Africa, the Middle East, and Central and South America. Remote communities and infrastructure in these regions are more likely to depend on expensive and polluting fossil fuel generation for their primary fuel supply and may not have a utility power grid in place to access high quality, reliable power.
+
+&#160;
+
+In contrast to grid-tied BESS and PV applications that are likely to be North American installations, we believe off-grid BESS and PV opportunities will develop rapidly across these regions with the greatest demand for new power generation. IHS recently forecasted the off-grid and microgrid BESS installations with PV market to reach 400MW by 2018 with the majority of this growth coming from regions with less developed electricity infrastructure. We believe that our grid-resilient 30kW and 125kW multi-port PCSs offer superior solutions for these applications.
+
+&#160;
+
+We believe that our award-winning multi-port power conversion architecture is a highly attractive solution for integrating BESS and renewables for both grid-tied and off-grid markets. Customer and industry forecasts indicate that these markets will grow dramatically in the coming years, and we expect to benefit from this growth. The benefits of our multi-port PCS in microgrid application is not limited to PV or renewable energy systems. Our products have been integrated into systems to manage a diesel generator and, in combination with batteries, to form and operate a microgrid using far less fuel, emitting far fewer pollutants, and providing better power quality than a diesel generator alone.
+
+&#160;
+
+Other Markets 
+
+&#160;
+
+Although our technology may be suitable for other vertical markets within the global power conversion market landscape, we do not currently offer products for sale directly to other power conversion markets such as the VFD, uninterruptible power supply, rail, wind, or EV traction drive markets. Our products are suitable for use as PV inverters, and our first products were sold into this market, but this market is saturated with incumbents offering inverters that convert power in a single direction and are thus suitable solely for PV applications. As such, while we do have a number of PV inverters in field service today, the stand-alone PV inverter market is not a primary target market for us. As discussed above, we are instead focused on PV integrated BESS applications for our multi-port PCS products where the fullest potential of our technology can be realized.
+
+&#160;
+
+In addition to the markets discussed above, we also have opportunities for market expansion into fast electric vehicle chargers in certain applications where our products&#8217; compact size and multi-port capabilities can unlock value for the system integrator particularly in locations where battery storage is coupled with the charging system to eliminate demand charges or expand the charging systems response capabilities. We have provided PCS to multiple EV charging system integrators who have deployed initial projects using our products coupled with batteries at EV charging stations to prove out these concepts. As these initial installations begin to operate, the value propositions of these new opportunities will become clearer.
+
+&#160;
+
+We plan to continue to monitor all power conversion markets for opportunities to create solutions for customers and unlock the broader value of our patented technology.
+
+&#160;
+
+&#160;
+
+&#160;
+
+Intellectual Property 
+
+&#160;
+
+We rely on a combination of patents, laws that protect intellectual property, confidentiality procedures, and contractual restrictions with our employees and others, to establish and protect our intellectual property rights. In addition, the software that is shipped with our products is encrypted. At December 31, 2015, we had 36 issued U.S. patents and six issued foreign patents. We also had over 100 additional pending U.S., foreign and international patent applications. We expect to continue to build our patent estate for both our core power conversion technology, our bi-directional switch technology and other technological developments that broaden the scope of our technology platform.
+
+&#160;
+
+Customers 
+
+&#160;
+
+Although we are expanding our customer base and channels to market, we have historically been reliant on a small number of customers. For the year ended December 31, 2015, Sharp, Gexpro, GreenCharge Networks, and Coda Energy, accounted for 66% of net revenues. For the year ended December 31, 2014, Sharp, GreenCharge Networks and Coda Energy, accounted for 44% of product revenue. In addition, the Department of Energy, from which we received $579,079 in grant revenues, accounted for 32% of net revenue for the year ended December 31, 2014.
+
+&#160;
+
+Sales and Marketing 
+
+&#160;
+
+We sell our products primarily to systems integrators for installation as part of a larger turn-key system providing the end user with a complete solution for managing their energy consumption. Our products are also sold through distribution channel partners. Before a system integrator agrees to specify our products in their systems, the integrator engages in a lengthy and time-consuming process of testing and evaluating our equipment for use, which typically may take from a few months to as long as a year.
+
+&#160;
+
+For certain geographic markets and applications, we may seek to enter into licensing agreements that would enable licensees to build our products for sale in local markets or we may license product designs to global brands for specific applications.
+
+&#160;
+
+Manufacturing and Supply 
+
+&#160;
+
+We use a contract manufacturer to manufacture our products to our specifications. We have an agreement with our contract manufacturer pursuant to which we provide them with a rolling forecast of our expected demand. Finished products are produced based on upon our forecast, and we have the ability to delay shipments for up to 18 months from the date of the purchase order. The initial three-year term of the agreement expires in October of 2017 and renews annually thereafter unless terminated. We believe there are many contract manufacturers that are qualified to manufacture our products to our specifications and we expect to add a second contract manufacturer in 2016.
+
+&#160;
+
+Typically, our contract manufacturer is responsible for the sourcing of components and materials. We qualify sources for our components and materials. Our strategy is to have multiple suppliers for all of our components and materials. Currently, we have multiple sources for most of our components. A very limited number of components are singled sourced and the process of identifying and qualifying alternative sources for these components is underway.
+
+&#160;
+
+Backlog 
+
+&#160;
+
+Our backlog was approximately $5.2 million at December 31, 2015, a 160% increase from our backlog of $2 million at December 31, 2014. The Company defines backlog as consisting of accepted orders from customers for which a product delivery schedule has been specified. The purchased orders comprising backlog are not cancellable in most cases and such orders do not provide price protection. Nevertheless, deliveries against received purchase orders may be rescheduled within negotiated parameters and our backlog may therefore not be indicative of the level of future sales.
+
+&#160;
+
+Competition 
+
+&#160;
+
+We will compete against well-established incumbent power conversion technology providers as these competitors enter the commercial and industrial markets. For our target markets, we believe that PPSA provides significant competitive advantages compared to the traditional power conversion solutions sold by well-established power conversion technology providers.
+
+&#160;
+
+Transformer Based: Transformer-based power conversion systems are the conservative choice, as they are proven and have been commercially available longer than any other type of power conversion system. They provide isolation, but are big, heavy, and relatively inefficient. There have been improvements in the efficiency of transformer-based power conversion systems over the years, but we believe further improvements are limited due to the physical characteristics of transformers themselves. Major suppliers in this market include ABB, Eaton, and Schneider Electric.
+
+&#160;
+
+Transformerless PV Inverters: Transformerless photovoltaic (PV) solar inverters are a special class of power conversion system applicable only to PV arrays. They have become a popular choice in the market for distributed PV applications, as they are lighter and more efficient than transformer based inverters. These transformerless inverters are one-way (DC to AC) inverters, and provide no electrical isolation. PV systems are not required to be electrically isolated in most electrical code jurisdictions. These PV inverters have no applicability to markets that require electrical isolation, which includes every application in the electrical power conversion industry in which we compete. Key providers of transformerless PV inverters include companies such as SMA and SolarEdge.
+
+&#160;
+
+&#160;
+
+&#160;
+
+Research and Development Costs 
+
+&#160;
+
+Grant research and development are costs incurred solely related to grant revenues, and are classified as a line item under cost of revenues. Other research and development costs are presented as a line item under operating expenses and are expensed as incurred. Total research and development costs incurred during the year ended December 31, 2015 amounted to $5,521,390, none of which was included in cost of revenues. Total research and development costs incurred during the year ended December 31, 2014 amounted to $2,983,648, inclusive of $643,421 related to grant research which was included in cost of revenues.
+
+&#160;
+
+Employees 
+
+&#160;
+
+As of February 29, 2016, we have 28 full-time employees. None of these employees are covered by a collective bargaining agreement, and we believe our relationship with our employees is good.
+
+&#160;
+
+Industry Certifications 
+
+&#160;
+
+Industry certifications are generally required for our products. The main certification requirement is conformance to UL1741, which specifies standards for grid and product safety for grid-connected generation equipment, including the power conversion systems made by us. A National Recognized Testing Laboratory (&#8220;NRTL&#8221;) must certify our products for conformance to UL1741 before our customers may install and use our products in grid-tied applications in the United States.
+
+&#160;
+
+We have chosen Intertek, an NRTL, for our certification requirements and have completed testing and received authorization to use their ETL mark on our products. While we have been able to complete these certifications timely, we may not be as successful in completing certification in a timely manner on future products, which could limit our ability to bring such products to market in a timely manner.
+
+&#160;
+
+Europe, Japan and other major countries have different certification test procedures, but generally test for similar safety and performance capabilities. Local certifications are likely to be required to sell our products outside of the United States for many applications. To date, we have not received any international certifications on our products but have deployed products in a few instances in foreign countries as demonstrations, test projects in laboratories or microgrid applications which may be exempt from the certification requirements. We expect to start the certification process in one or more international markets in 2016.
+
+&#160;
+
+Government Regulation 
+
+&#160;
+
+Government approval is not required for us to sell our products. However, government support for renewable energy, grid storage, electric vehicle charging infrastructure and improved grid resiliency may impact the size and growth rate of our target markets. Utility regulations and support may also impact these end markets. In the near term, government and utility support for these markets is generally required for these markets to grow and therefore changes in policy by governments or utilities may limit the near term market opportunities for our products. 
+
+&#160;
+
+Available Information 
+
+&#160;
+
+Our Internet address is www.idealpower.com and our investor relations website is located at ir.idealpower.com. We make available free of charge on our investor relations website under the heading &#8220;SEC Filings&#8221; our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports as soon as reasonably practicable after such materials are electronically filed with (or furnished to) the SEC. We also make available on our website, our corporate governance documents, including our code of conduct and ethics. Information contained on our website is not incorporated by reference into this Annual Report on Form 10-K. In addition, the public may read and copy materials we file with the SEC at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site, www.sec.gov, that includes filings of and information about issuers that file electronically with the SEC.
+
+&#160;
+

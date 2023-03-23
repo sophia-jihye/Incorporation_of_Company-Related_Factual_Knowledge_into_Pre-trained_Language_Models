@@ -1,0 +1,480 @@
+ ITEM 1. BUSINESS &#160; 
+
+Overview 
+
+&#160;
+
+Akoustis is an early stage, &#8220;fabless&#8221; company developing, designing and manufacturing innovative radio frequency (RF) filter products for the mobile wireless device industry. We use a fundamentally new piezoelectric resonator technology that we call Bulk ONE &#8482; in the manufacturing of bulk acoustic wave (BAW) resonators, the building blocks of high selectivity &#8220;RF&#8221; filters required to route signals in a smartphone or other mobile or wearable device. Filters are a critical component of the RF front-end (RFFE), and their use has multiplied with the launch and licensing of 4G/LTE frequency bands. They are used to define the range of frequencies of radio signals that are transmitted (the &#8220;passband&#8221;) and simultaneously reject unwanted signals. The increasing demand for wireless data and user applications is driving an increase in the number of wireless channels or frequency bands in a single device. Each new band introduced creates an increase in a demand for filters. A high-end smartphone, for example, must filter the transmit and receive paths for 2G, 3G and 4G wireless access methods in up to 15 bands, as well as Wi-Fi, Bluetooth and in some cases GPS. Signals in the receive paths must be isolated from one another. The filters also must reject other extraneous signals from numerous sources. The current approach to RF filter manufacturing utilizes thin-film polycrystalline materials (thin-film bulk acoustic resonators, or &#8220;FBARs&#8221;) with relatively high resistance that dissipate a significant amount of the energy in the signal (referred to as &#8220;lossy&#8221;), resulting in front-end heat generation and reduced battery life. In order to compensate for such losses, the power amplifier specifications are increased, by as much as a factor of two, which reduces further the battery life and puts more demands on the thermal management of the mobile device. 
+
+&#160;
+
+As the filter count per mobile device increases, these inefficiencies will become more limiting. We plan to use single crystal piezoelectric materials to develop a new class of RF filters with a fundamental advantage to reduce losses over existing thin film technologies. Our technology has not yet obtained marketing approval or been verified in commercial manufacturing and our RF filters have yet to generate any sales. We have incurred accumulated losses from our inception through March 31, 2016 of $4,157,176. We have fabricated research and development (&#8220;R&#38;D&#8221;) resonators demonstrating the feasibility of our Bulk ONE technology, and are in the process of transitioning the technology into a production-capable wafer fabrication facility.
+
+&#160;
+
+Our business model involves &#8220;fabless&#8221; manufacturing, meaning that we leverage capital investments and capacity of our strategic partners to manufacture our wafers. Once our technology is qualified for manufacturing, we expect to design and sell single crystal BAW RF filter products using our Bulk ONE technology.
+
+&#160;
+
+We believe our technology is disruptive to the RF front-end (RFFE) market through the following expected advantages:
+
+&#160;
+
+&#183; Wider Bandwidth Coverage, &#160;
+
+&#183; Lower Insertion Loss, &#160;
+
+&#183; Improved power compression and linearity, &#160;
+
+&#183; Reduced power amplifier cost, for the ultimate purpose of manufacturing our BAW RF filters. &#160;
+
+&#183; Reduced heat generation and reduced battery loading, and &#160;
+
+&#183; Reduced guard band between adjacent frequency bands. &#160;
+
+Once our Bulk ONE technology is qualified for production, our product focus is on innovative single-band filter products for the growing RFFE market, which can be used to make duplexer or multiplexer filter products necessary for the Mobile Internet. These products present the greatest near-term potential for commercialization of our technology. According to a McKinsey Global Institute report, the Mobile Internet and the so-called &#8220;Internet of Things&#8221; (IoT) is one of the twelve potentially economically disruptive technologies with an estimated economic value impact that could be over $25 trillion.
+
+&#160; 
+
+During the past year, Akoustis has evaluated single crystal group-III element nitride piezoelectric materials from at least six suppliers. In early 2015, we signed a joint development agreement and supply agreement with a foundry partner, and since that time, we have transferred our R&#38;D resonator process flow to our foundry partner and evaluated single crystal piezoelectric materials ranging from GaN to AlN. Since transferring our process flow, we completed nine R&#38;D mask design iterations and sixteen multi-wafer lots to advance the performance of our resonator process. Regarding technical performance, Akoustis achieved an experimental, two-port series-configured resonator with K-squared of 12.5% for undoped single crystal AlN, approximately two-times higher than incumbent polycrystalline, undoped AlN. We are currently focused on improving the accuracy of our library models as well as increasing the quality factor (Q) of our resonator. While we have demonstrated a Q of up to 1600 for our fabricated resonators, we need to achieve a Q of greater than 2000 as our next milestone. We expect significant progress toward this goal over the coming months. As we transition to production we expect to optimize our process for the best combination of K-squared and Q. 
+
+&#160;
+
+&#160; 5 &#160; 
+
+&#160;
+
+&#160;
+
+Glossary 
+
+&#160;
+
+The following is a glossary of technical terms used herein:
+
+&#160;
+
+&#183; Acoustic wave &#8212;a mechanical wave that vibrates in the same direction as its direction of travel. &#160;
+
+&#183; Acoustic wave filter &#8212;an electromechanical device that provides radio frequency control and selection, in which an electrical signal is converted into a mechanical wave in a device constructed of a piezoelectric material and then back to an electrical signal. &#160;
+
+&#183; Band, channel or frequency band &#8212;a designated range of radio wave frequencies used to communicate with a mobile device. &#160;
+
+&#183; Bulk acoustic wave (BAW) &#8212;an acoustic wave traveling through a material exhibiting elasticity, typically vertical or perpendicular to the surface of a piezoelectric material. &#160;
+
+&#183; Digital baseband &#8212;the digital transceiver, which includes the main processor for the communication device. &#160;
+
+&#183; Duplexer &#8212;a bi-directional device that connects the antenna to the transmitter and receiver of a wireless device and simultaneously filters both the transmit signal and receive signal. &#160;
+
+&#183; Filter &#8212;a series of interconnected resonators designed to pass (or select) a desired radio frequency signal and block unwanted signals. &#160;
+
+&#183; Group III element nitrides &#8212;a dielectric material comprised of group IIIA element, such as boron (B), aluminum (Al) or gallium (Ga), combined with group VA nitrogen to form a compound semiconductor nitride such as BN, AlN, or GaN. For resonators, the dielectric is typically chosen based upon the piezoelectric constant of the material in order to generate the highest electromechanical coupling. &#160;
+
+&#183; Monolithic topology &#8212;a description of an electrical circuit whereby all the elements of the circuit are fabricated at the same time using the same process flow. &#160;
+
+&#183; Power Amplifier Duplexer (PAD) &#8212;an RF module containing a power amplifier and duplex filter components for the RF front-end of a smartphone. &#160;
+
+&#183; Piezoelectric materials &#8212;certain solid materials (such as crystals and certain ceramics) that produce a voltage in response to applied mechanical stress, or that deform when a voltage is applied to them. &#160;
+
+&#183; Quality factor, or Q &#8212;energy stored divided by the energy dissipated per cycle. Higher Q represents a higher caliber of resonance, and implies mechanical and electrical factors responsible for energy dissipation are minimal. For a given amount of energy stored in a resonator, Q represents the number of cycles resonance will continue without additional input of energy into the system. 
+
+&#160;
+
+&#183; Resonator &#8212;a device whose impedance sharply changes over a narrow frequency range and is characterized by one or more &#8217;resonance frequency&#8217; due to a standing wave across the resonator&#8217;s electrodes. The vibrations in a resonator can be either characterized by mechanical &#8220;acoustic&#8221; waves which travel without a characteristic sound velocity. Resonators are the building blocks for RF filters used in mobile wireless devices. &#160;
+
+&#183; RF &#8212;radio frequency &#160;
+
+&#183; RF front-end (RFFE)-the circuitries in a mobile device responsible for processing the analog radio signals and is located between the device&#8217;s antenna and the digital baseband. &#160;
+
+&#183; Surface acoustic wave (SAW) &#8212;an acoustic sound wave traveling horizontally along the surface of a piezoelectric material. &#160; 
+
+&#160; 6 &#160; 
+
+&#160;
+
+&#160; 
+
+Our Technology 
+
+&#160;
+
+Current RF filters utilize a technology that is limited by the material properties of the base filter component. Existing bulk acoustic wave filters use an &#8220;acoustic wave ladder&#8221; that is based on a monolithic topology approach using lossy polycrystalline materials. By contrast, our Bulk ONE technology uses a single crystal material, which provides 30% higher piezoelectric properties, compared to conventional polycrystalline materials used in the industry today. We have fabricated R&#38;D resonators that demonstrate the feasibility of our approach and believe our technology will yield a new generation of filter products.
+
+&#160;
+
+Bulk ONE Technology consists of novel single-crystal piezoelectric materials, which are fabricated into bulk-mode, acoustic wave resonators and RF filters. Our patented piezoelectric materials contain high-purity Group III element nitride materials and possess a unique signature, which can be detected by conventional material metrology tools. We utilize analytical modeling techniques to aid in the design of our materials and our material specifications are typically outsourced to a third party for manufacturing. Once our materials are ready for processing, we supply our wafer manufacturing partner raw materials, a mask design file, and unique process sequence in order to fabricate our resonators and filters. Our wafer process flow is compatible with wafer level packaging (WLP) that allows for low profile, cost effective filters to be produced.
+
+&#160; 
+
+Challenges Faced by the Mobile Device Industry 
+
+&#160;
+
+Rising consumer demand for always-on wireless broadband connectivity is creating an unprecedented need for high performance RF Front End for mobile devices. Mobile devices such as smartphones and tablets are quickly driving the Internet of Things (IoT). The rapid growth in mobile data traffic is testing the limits of existing wireless bandwidth. Carriers and regulators have responded by opening new swaths of RF spectrum, driving up the number of frequency bands in mobile devices. This substantial increase in frequency bands has created a demand for more filters, as well as a demand for filters with higher selectivity. The global transition to LTE and adoption of LTE-Advanced with more sophisticated carrier aggregation and multiple-input, multiple-output (MIMO) techniques will continue to push the requirements for increased supply of high performance filters.
+
+&#160;
+
+Furthermore, the new spectrum introduced by 4G/LTE is driving licensing at higher frequencies than previous 3G smartphone models. For example, new TDD LTE frequencies allocated for 4G wireless cover frequencies nearly twice has high as covered in previous generation phones. As a result, the demand for high frequency or &#8220;high band&#8221; filters has exploded according to a Mobile Experts May 2015 report. For traditional &#8220;low band&#8221; frequencies, SAW filters have been the primary choice, while high band solutions have utilized BAW filters due to their performance and yield. While there are multiple sources of supply for SAW technology, the source of supply for BAW filters is more limited and essentially dominated by two manufacturers worldwide.
+
+&#160;
+
+The first problem is that signal loss of current generation acoustic wave filters is excessively high, and up to half of the transmit power is wasted as heat, which ultimately constrains battery life. The second challenge is that the allocated spectrum for mobile communication bands requires high bandwidth RF Filters, which, in turn, requires wide bandwidth core resonator technology. In addition, filters with inferior selectivity either reduce the available operating bands the mobile device can support or increase the noise in the operating bands. Each of these problems negatively impacts the end-user&#8217;s experience when using the mobile device.
+
+&#160; 
+
+Our Solutions 
+
+&#160;
+
+Our immediate focus is on the commercialization of wide bandwidth RF filters operating in the high frequency portion of the RFFE (called high band). Using our Bulk ONE technology we believe these filters enable new PAD module or RFFE competition for high band modules as well as performance-driven low band applications. Initially, we expect to target select strategic RFFE market leaders as well as Tier 2 mobile phone original equipment manufacturers (&#8220;OEMs&#8221;) and/or RFFE module suppliers. Longer term, our focus will be to expand our market share by engaging with multiple mobile phone OEMs and RFFE module manufacturers. We are working with our foundry partner, Global Communications Semiconductor LLC, to commercialize our first filters using our Bulk ONE technology. This will be the first in a series of R&#38;D activities that will set the foundation for filter products that we believe can disrupt the high band filter market. We will develop a series of filter designs used in the manufacturing of duplexers or more complex multiplexers targeting the 4G/LTE frequency bands. We believe our filter designs will create an alternative and replace filters currently manufactured using materials with fundamentally inferior performance.
+
+&#160;
+
+Our Business Model 
+
+&#160;
+
+We will provide filters to the market through the manufacturing of our product using a &#8220;fabless&#8221; outsourced manufacturing model. By leveraging the existing manufacturing capacity of our partner, we will operate a capital-efficient business. Our target customers will be mobile phone OEMs and/or those companies that make part of or the entire RFFE module. We expect sales of our filters to these companies will be the source of our revenue. We will principally provide design and development resources and manage our outsourced partners to support our product realization process. There are two companies specializing in manufacturing of BAW filters that dominate this market. See &#8220;Competition&#8221; below. We believe our Bulk ONE technology provides a competitive filter alternative and that there will be factors creating significant barriers to entry for potential additional competitors:
+
+&#160;
+
+&#183; Our growing portfolio of intellectual property (see &#8220;Intellectual Property&#8221; below); &#160;
+
+&#160; 7 &#160; 
+
+&#160;
+
+&#160;
+
+&#183; Our highly experienced leadership and technical team; and &#160;
+
+&#183; Being first to market with a competitive high performance BAW filter alternative. &#160; 
+
+The Mobile Internet 
+
+&#160;
+
+Rising consumer demand for always-on wireless broadband connectivity is creating an unprecedented need for high performance RFFE for mobile devices. Mobile devices such as smartphones and tablets are quickly becoming the primary means of accessing the Internet. The exponential growth in mobile data traffic is testing the limits of existing wireless bandwidth. Carriers and regulators have responded by opening new RF spectrum, driving up the number of frequency bands in mobile devices. As a prime example, a Presidential directive was issued in 2010 to the FCC and other agencies to make available an additional 500 MHz of RF spectrum to meet the growing demand in the United States. Similar initiatives are occurring worldwide. Adding RF spectrum is not a complete solution. The added spectrum does not come in large contiguous blocks, but rather in small channels or bands of varying size and frequency. Thus, more data means more bands, and the result is a rapid and substantial increase in the number of filters in mobile devices.
+
+&#160; 
+
+The Challenge 
+
+&#160;
+
+Moore&#8217;s Law predicts that transistor density on integrated circuits will double approximately every two years, and the digital baseband of mobile devices has improved exponentially as predicted by Moore&#8217;s Law. However, improvements to the analog RFFE have been limited by existing filter technology, with only incremental updates to existing technology. Consequently, the RFFE is taking up an ever-growing share of the total cost of mobile devices. Most mobile devices sold today operate on &#8220;fourth generation&#8221; wireless technology, or 4G. There are nearly fifty 4G bands recognized worldwide today, and the list is growing. The RFFE must meet these growing data demands while reducing cost and improving battery life. Our solution involves a new approach to RFFE component manufacturing, enabled by Bulk ONE technology. Our technology will produce filters that will reduce the overall system cost and improve performance of the RFFE.
+
+&#160;
+
+Figure 1&#8212;Our Solution
+
+&#160;
+
+&#160;
+
+Single-Band Designs for Duplexers and Multiplexers 
+
+&#160;
+
+SAW filters have been preferred in modern RFFE because of their high performance, small size and low cost. However, traditional SAW ladder designs do not perform well in high frequency bands or bands with closely spaced receive and transmit channels, typical of many new bands. Therefore, BAW filters are needed for these bands. We have demonstrated in a development environment our ability to fabricate BAW resonators, the building block of BAW filters, that are more efficient than existing available BAW resonators, and we believe the improved efficiency will reduce the total cost of RFFE as well as reduce the battery demand for mobile devices. Additionally, we believe that our Bulk ONE filters will allow for a single manufacturing method that will support all of the BAW filter band range and a significant portion of the SAW band range. Figure 2 below illustrates what we believe will be the frequency range of our Bulk ONE technology.
+
+&#160;
+
+&#160; 8 &#160; 
+
+&#160;
+
+&#160;
+
+Figure 2&#8212; The potential range of our technology
+
+&#160;
+
+&#160; 
+
+Pure-Play Filter Provider Enables New Module Competition 
+
+&#160;
+
+Given the high sound velocity in our piezoelectric materials, our technology allows for a wide range of frequency coverage, and we plan to supply filters that will support 4G/LTE and beyond. We have successfully demonstrated resonators that will support the design and fabrication of 4G/LTE filters, and our current focus is on completing the development required to transition this single-crystal BAW technology to high volume manufacturing. We will be a pure-play filter supplier that will address the increasing RF complexity placed on RF front-end manufacturers supporting 4G/LTE.
+
+&#160;
+
+Figure 3&#8212; Increase in average number of RF filters per each mobile device from 2005 &#8211; 2015 (Source: Ericsson)
+
+&#160;
+
+&#160;
+
+Commercialization 
+
+&#160;
+
+Our immediate focus is to address problems in the RFFE with innovative single-band designs using our Bulk ONE technology. We are currently developing our first commercial single-band filter in collaboration with our foundry partner Global Communication Semiconductors, LLC (&#8220;GCS&#8221;), under the terms of a signed development agreement. We are focused on developing fixed-band filters because we believe these designs present the greatest near-term potential for commercialization of our technology, and that once demonstrated, there is a shorter learning curve for having the foundry ready for production.
+
+&#160;
+
+&#160; 9 &#160; 
+
+&#160;
+
+&#160;
+
+The development agreement with our foundry partner contains the following milestones:
+
+&#160;
+
+&#183; Milestone 1 (Manufacturing Partner Gap Analysis)&#8212;Validate required materials, people, process and equipment are present for volume manufacturing. &#160;
+
+&#183; Milestone 2 (Process Transfer to Foundry Partner)&#8212;Design of filters, technology transfer and fabrication on GCS&#8217;s high-volume manufacturing equipment, fully tested wafers, and delivery of prototypes. &#160;
+
+&#183; Milestone 3 (Complete Filter Process Capability)&#8212;Update design with process feedback, fabricate multiple wafers using the approved manufacturing process flow, fully tested wafers, calculated yield and delivery of initial product. &#160;
+
+&#183; Milestone 4 (Production-Ready Filter Design)&#8212;Filter design complete and manufacturing process locked &#160;
+
+&#183; Milestone 5 (Product packaging and ramp)&#8212;Product fully packaged and ready for production, focus shift to revenue generation from filter sales. &#160;
+
+Milestones 1 and 2 are complete. We continue to work on Milestone 3, with expected completion in the second half of 2016. We expect to generate revenue from the sale of our filters in 2017, after completion of Milestone 4, and Milestone 5, which are targeted for completion by the first half of 2017.
+
+&#160; 
+
+Our Foundry Agreement was made effective as of February 27, 2015 and carries a term of five years. At the end of the original term, the Foundry Agreement will be extended automatically for one additional year unless within 180 days prior to the end of the initial term, either party gives written notice of its intention to terminate the agreement. The Foundry Agreement outlines proposed activities for development support that could be requested by us and provided by our foundry partner. The Foundry Agreement also covers the agreement to manufacture, test and deliver wafers manufactured using our resonator process flow pursuant to purchase orders issued by us.
+
+&#160;
+
+The Joint Development Agreement was made effective as of February 27, 2015 and carries a term of five years at which time it terminates immediately without further notice or action when all Statements of Work governed by the agreement terminate or expire. During the term of the agreement we will collaborate with each other to develop one or more products. Each of the parties will bear all direct and related costs associated with their development activities. The agreement calls for the designation of a project manager from each of the parties and the formation of an advisory committee made up of members from each party to manage escalation of issues unresolved by the project managers. The Joint Development Agreement indicates that we jointly own in equal, undivided shares title and interest in any joint development works and all Intellectual property rights embodied in those works other than the Intellectual property rights embodied in either party&#8217;s background technology. Background technology means all information that is owned, controlled, licenses developed or acquired solely outside the performance of the Joint Development Agreement.
+
+&#160;
+
+The Foundry Agreement and Joint Development Agreement are filed as exhibits to this Report. All references to the Foundry Agreement and Joint Development Agreement herein are qualified in their entirety by reference to the text thereof filed as an exhibit hereto, which is incorporated herein by reference.
+
+&#160;
+
+Research and Development 
+
+&#160;
+
+Since inception, the Company&#8217;s focus has been on developing an innovative mobile-wireless filter technology with a compelling value proposition to our potential customers and a significant and noticeable impact to the end user.
+
+&#160;
+
+Whereas today&#8217;s polycrystalline material (used to manufacture RF resonators and filters) is sputtered on a metal-coated carrier, our Bulk ONE technology employs high quality, single crystal resonator films, which are used as the enabler to create high performance BAW RF filters. This single crystal material is a key differentiator when compared to the incumbent amorphous thin-film technologies, because it increases the acoustic velocity and the electromechanical coupling coefficient in the resonator, which results in higher filter efficiencies and lower power consumption &#8211; which leads to simplified RFFEs, longer battery life and reduced tissue heating. Our spend for research and development totaled $1.2 million for fiscal year 2016 and $0.24 million for the period of May 12, 2014 (inception) to March 31, 2015, and was focused on single crystal material development and resonator demonstration. Current R&#38;D investments include single crystal materials advancement, technology transfer to our manufacturing partner and resonator development and filter design.
+
+&#160;
+
+As a result of our efforts, we developed and recently published a record breaking electromechanical coupling coefficient of 12.5% for our single crystal undoped AIN piezoelectric resonators as sown in Figure 4. The spacing between resonance and anti-resonance frequencies was 182MHz for our 3.4GHz resonator device. Our focus is now on improving the quality factor of our device through resonator design and process optimization experiments.
+
+&#160;
+
+&#160; 10 &#160; 
+
+&#160;
+
+&#160;
+
+Figure 4- Akoustis&#8217; single crystal undoped AIN piezoelectric resonator device performance. The plot represents a de-embedded, two-port series-configured BAW resonator modeled near resonance frequency.
+
+&#160; 
+
+&#160; 
+
+Intellectual Property 
+
+&#160;
+
+We rely on a combination of intellectual property rights, including patents, know-how and trade secrets, along with copyrights, trademarks and contractual obligations and restrictions to protect our core technology and business.
+
+&#160;
+
+We currently have seven pending patent applications in the United States as well as one filing for which we have received official notification that claims have been allowed and one additional that was officially published on June 7, 2016. In addition, outside the US we have three pending patent applications and three utility patents awarded. The three awarded applications entered the divisional process and are anticipated to result in up to three additional utility patents outside of the United States. The patents tie directly to our single-crystal bulk acoustic wave (BAW) technology, including materials and device designs, methods of manufacture, integrated circuit designs, wafer packaging, and point of use (to include mobile applications). The Company will continue to innovate and expand our patent portfolio, and when appropriate, we will look to purchase license(s) that grant access to additional intellectual property that enables, enhances or further expands our technical capabilities and/or product offerings.
+
+&#160;
+
+We believe that it is likely that Akoustis will have competitive advantages from rights granted under our patent applications. Some applications, however, may not result in the issuance of any patents. In addition, any future patent may be opposed, contested, circumvented or designed around by a third party or found to be unenforceable or invalidated. Others may develop technologies that are similar or superior to our proprietary technologies, duplicate our proprietary technologies or design around patents owned or licensed by us.
+
+&#160;
+
+We generally control access to, and use of, our confidential information through the use of internal and external controls, including contractual protections with employees, contractors and customers. We rely in part on the United States and international copyright laws to protect our intellectual property. All employees and consultants are required to execute confidentiality agreements in connection with their employment and consulting relationships with us. We also require them to agree to disclose and assign to us all inventions conceived or made in connection with the employment or consulting relationship.
+
+&#160;
+
+Despite our efforts to protect our intellectual property, unauthorized parties may still copy or otherwise obtain and use our software, technology or other information that we regard as confidential and proprietary. In addition, we intend to expand our international presence, and effective patent, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries.
+
+&#160;
+
+The semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights and positions, which has resulted in protracted and expensive litigation for many companies. Although we have not received any third party claims, we expect that in the future we may receive communications from various industry participants alleging our infringement of their patents or other intellectual property rights. Any lawsuits could subject us to significant liability for damages, invalidate our proprietary rights and harm our business and our ability to compete. Any litigation, regardless of success or merit, could cause us to incur substantial expenses, reduce our sales and divert the efforts of our technical and management personnel. In the event we receive an adverse result in any litigation, we could be required to pay substantial damages, seek licenses from third parties, which may not be available on reasonable terms or at all, cease the sale of products, expend significant resources to develop alternative technology or discontinue the use of processes requiring the relevant technology.
+
+&#160;
+
+&#160; 11 &#160; 
+
+&#160;
+
+&#160;
+
+Akoustis&#8482; and Bulk ONE&#8482; are trademarks of Akoustis, Inc.
+
+&#160; 
+
+Competition 
+
+&#160;
+
+The competitive landscape for the Company is small and is controlled by handful of RF component suppliers. These companies include, among others, Broadcom (previously known as Avago Technologies Ltd.), Murata Manufacturing Co., Ltd., Qorvo, Inc., Skyworks Solutions Inc., Taiyo Yuden, and TDK Epcos. Two of these companies dominate the high band filter market, controlling a significant portion of the customer base and are increasing capacity to meet the growth demands of the 4G/LTE market.
+
+&#160;
+
+We will compete directly with them to secure design slots inside RFFE modules &#8211; targeting companies that procure filters or have captive sources. We believe that our filter designs will be superior in performance and will approach perspective customers as pure-play filter supplier &#8211; offering advantages in performance, over the full frequency range, with competitive costs. Our challenge will be to convince the companies that we have a strong intellectual property position, which we will be able to ramp in volume, that we will meet their price targets, and that we can satisfy reliability requirements.
+
+&#160; &#160; 
+
+Employees 
+
+&#160;
+
+We have put a premium on hiring the best talent at the right time to enable our core technology and business growth. This includes establishing a competitive compensation and benefits package &#8211; enhancing our ability to recruit experienced personnel and key technologists. We currently have 15 full-time employees plus 12 independent contractors working with the Company, and we will continue to hire specific and targeted positions to further enable our technology and manufacturing capabilities.
+
+&#160; 
+
+Government Regulations 
+
+&#160;
+
+Our business and products in development are subject to regulation by various federal and state governmental agencies, including the radio frequency emission regulatory activities of the FCC, the consumer protection laws of the Federal Trade Commission, the import/export regulatory activities of the Department of Commerce, the product safety regulatory activities of the Consumer Products Safety Commission, the environmental regulatory activities of the Environmental Protection Agency.
+
+&#160;
+
+The rules and regulations of the FCC limit the RF used by and level of power emitting from electronic equipment. Our RF filters, as a key element enabling consumer electronic smartphone equipment, are required to comply with these FCC rules, and may require certification, verification or registration of our RF filters with the FCC. Certification and verification of new equipment requires testing to ensure the equipment&#8217;s compliance with the FCC&#8217;s rules. The equipment must be labeled according to the FCC&#8217;s rules to show compliance with these rules. Testing, processing of the FCC&#8217;s equipment certificate or FCC registration and labeling may increase development and production costs and could delay the implementation of our Bulk ONE acoustic wave resonator technology for our RF filters and the launch and commercial productions of our filters into the U.S. market. Electronic equipment permitted or authorized to be used by us through FCC certification or verification procedures must not cause harmful interference to licensed FCC users, and may be subject to RF interference from licensed FCC users. Selling, leasing or importing non-compliant equipment is considered a violation of FCC rules and federal law, and violators may be subject to an enforcement action by the FCC. Any failure to comply with the applicable rules and regulations of the FCC could have an adverse effect on our business, operating results and financial condition by increasing our compliance costs and/or limiting our sales in the United States.
+
+&#160;
+
+The semiconductor and electronics industries also have been subject to increasing environmental regulations. A number of domestic and foreign jurisdictions seek to restrict the use of various substances, a number of which have been used in our products in development or processes. While we have implemented a compliance program to ensure our product offering meets these regulations, there may be instances where alternative substances will not be available or commercially feasible, or may only be available from a single source, or may be significantly more expensive than their restricted counterparts. Additionally, if we were found to be non-compliant with any such rule or regulation, we could be subject to fines, penalties and/or restrictions imposed by government agencies that could adversely affect our operating results. Our cost to maintain compliance with existing environmental regulations is expected to be nominal based on our structure in which we outsource a majority of our operations to suppliers that are responsible for meeting environmental regulations. We will continue to monitor our quality program and expand as required to maintain compliance and ability to audit our supply chain.
+
+&#160;
+
+Noncompliance with applicable regulations or requirements could subject us to investigations, sanctions, mandatory product recalls, enforcement actions, disgorgement of profits, fines, damages, civil and criminal penalties, or injunctions. An adverse outcome in any such litigation could require us to pay contractual damages, compensatory damages, punitive damages, attorneys&#8217; fees and costs. These enforcement actions could harm our business, financial condition and results of operations. If any governmental sanctions are imposed, or if we do not prevail in any possible civil or criminal litigation, our business, financial condition and results of operations could be materially adversely affected. In addition, responding to any action will likely result in a significant diversion of management&#8217;s attention and resources and an increase in professional fees.
+
+&#160;
+
+&#160; 12 &#160; 
+
+&#160;
+
+&#160;
+
+Organizational History 
+
+&#160; 
+
+We were incorporated as Danlax, Corp., in Nevada on April 10, 2013. Prior to the Merger and Split-Off (each as defined below), our business was the development and sales of mobile games.
+
+&#160;
+
+On April 15, 2015, (i) we changed our name to Akoustis Technologies, Inc., and (ii) we increased our authorized capital stock from 75,000,000 shares of Common Stock, par value $0.001 per share, to 300,000,000 shares of Common Stock, par value $0.001 per share (the &#8220;Common Stock&#8221;), and 10,000,000 shares of &#8220;blank check&#8221; preferred stock, par value $0.001 per share.
+
+&#160;
+
+On April 23, 2015, we completed a 1.094891-for-1 forward split of our Common Stock in the form of a dividend, with the result that the 11,740,000 shares of Common Stock outstanding immediately prior to the stock split became 12,854,024 shares of Common Stock outstanding immediately thereafter. All share and per share numbers in this Report relating to our Common Stock have been adjusted to give effect to this stock split, unless otherwise stated.
+
+&#160;
+
+On May 22, 2015, our wholly owned subsidiary, Akoustis Acquisition Corp., a corporation formed in the State of Delaware on May 15, 2015 (&#8220;Acquisition Sub&#8221;), merged (the &#8220;Merger&#8221;) with and into Akoustis, Inc., a corporation incorporated in the State of Delaware on May 12, 2014. Akoustis, Inc., was the surviving corporation in the Merger and became our wholly owned subsidiary. All of the outstanding stock of Akoustis, Inc., was exchanged for shares of our Common Stock.
+
+&#160;
+
+In connection with the Merger and pursuant to a Split-Off Agreement, we transferred our pre-Merger assets and liabilities to our pre-Merger majority stockholder, in exchange for the surrender by him and cancellation of 9,854,019 shares of our Common Stock.
+
+&#160;
+
+As a result of the Merger and Split-Off, we discontinued our pre-Merger business and acquired the business of Akoustis, Inc., and have continued the existing business operations of Akoustis, Inc., as a publicly-traded company under the name Akoustis Technologies, Inc.
+
+&#160;
+
+In accordance with &#8220;reverse merger&#8221; accounting treatment, our historical financial statements as of period ends, and for periods ended, prior to the Merger will be replaced with the historical financial statements of Akoustis, Inc., prior to the Merger in all future filings with the SEC.
+
+&#160;
+
+On May 22, 2015, we also changed our fiscal year from a fiscal year ending on July 31 of each year to one ending on March 31 of each year, which is the fiscal year end of Akoustis, Inc.
+
+&#160;
+
+Prior to the Merger, we were a &#8220;shell company&#8221; (as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;)). As a result of the Merger, we have ceased to be a shell company. The information contained in our Current Report dated May 22, 2015, together with the information contained in our Annual Report on Form 10-K for the fiscal year ended July 31, 2014, and our subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, as filed with the SEC, constituted the current &#8220;Form 10 information&#8221; necessary to satisfy the conditions contained in Rule 144(i)(2) under the Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;).
+
+&#160; 
+
+Akoustis, Inc. 
+
+&#160; 
+
+Akoustis Inc. was founded in 2014 by experienced industry leaders and scientists from University of California at Santa Barbara (UCSB) and Cornell University. Our initial funding was through a $0.5 million series seed funding in 2014, and we received $655,000 in additional investments in convertible notes and stock by the founders and original angel investors in March 2015. We received a National Science Foundation (&#8220;NSF&#8221;) Small Business Innovation Research (&#8220;SBIR&#8221;) grant that started in January 2015 followed by a second grant award in April 2015. In addition, we received matching funds from North Carolina Science, Technology &#38; Innovation Department of Commerce. More recently we received a third NSF SBIR award in February 2016. The funds from these sources supported the operations of Akoustis Inc. and the completion of multiple key milestones including the application for more than ten patents, hiring of key personnel, the engagement with a foundry prototype facility, initiation of SBIR activities and the engagement of strategic partners for whom would consume our RF filters for wireless communications.
+
+&#160; 
+
+The 2015 Offering 
+
+&#160;
+
+Concurrently with the closing of the Merger, we held a closing of a private placement offering (the &#8220;2015 Offering&#8221;) in which we sold 3,531,104 shares of our Common Stock (including shares issued on conversion of convertible notes of Akoustis, Inc., as described below), at a purchase price of $1.50 per share (the &#8220;2015 Offering Price&#8221;). On June 10, 2015, we completed a second and final closing of the 2015 Offering in which we sold an additional 261,000 shares of Common Stock. In total, we sold an aggregate of 3,792,104 shares of Common Stock in the 2015 Offering for gross proceeds of $5,688,156 (before deducting expenses of the offering).
+
+&#160;
+
+&#160; 13 &#160; 
+
+&#160;
+
+&#160;
+
+Investors in the shares were given anti-dilution protection with respect to the shares of Common Stock sold in the 2015 Offering such that if within 12 months after the final closing of the 2015 Offering, we issue additional shares of Common Stock or Common Stock equivalents (subject to customary exceptions, including but not limited to issuances of awards under our 2015 Plan (as defined below) and certain issuances of securities in connection with credit arrangements, equipment financings, lease arrangements or similar transactions) for a consideration per share less than the 2015 Offering Price (the &#8220;Lower Price&#8221;), each such investor will be entitled to receive from us additional shares of Common Stock in an amount such that, when added to the number of shares of Common Stock initially purchased by such investor, will equal the number of shares of Common Stock that such investor&#8217;s Offering subscription amount would have purchased at the Lower Price.
+
+&#160;
+
+The closing of the 2015 Offering and the closing of the Merger were conditioned upon each other.
+
+&#160;
+
+In connection with the 2015 Offering, we paid Northland Securities, Inc., and Katalyst Securities LLC, each a U.S. registered broker-dealer (the &#8220;Placement Agents&#8221;) a cash commission of 10% of the gross proceeds (or 2% in the case of certain existing Akoustis, Inc., investors) raised from investors in the 2015 Offering. In addition, the Placement Agents received warrants to purchase a number of shares of Common Stock equal to 10% (or 2% in the case of certain existing Akoustis, Inc., investors) of the number of shares of Common Stock sold in the 2015 Offering, with a term of five (5) years and an exercise price of $1.50 per share (the &#8220;2015 Placement Agent Warrants&#8221;). Any sub-agent of the Placement Agents that introduced investors to the 2015 Offering was entitled to share in the cash fees and warrants attributable to those investors as described above.
+
+&#160;
+
+As a result of the foregoing, the Placement Agents and their sub-agents were paid aggregate commissions of $486,976 and were issued 2015 Placement Agent Warrants to purchase an aggregate of 324,650 shares of our Common Stock. We were also required to reimburse the Placement Agents approximately $77,150 of legal expenses incurred in connection with the 2015 Offering.
+
+&#160;
+
+The form of 2015 Placement Agent Warrants is filed as an exhibit to this Report. All descriptions of the 2015 Placement Agent Warrants herein are qualified in their entirety by reference to the text thereof filed as exhibits hereto, which are incorporated herein by reference.
+
+&#160; 
+
+The 2016 Offering 
+
+&#160; 
+
+On March 10, 2016, we held a closing of a private placement offering (the &#8220;March 2016 Offering&#8221;) in which we sold 494,125 shares of our Common Stock at a fixed purchase price of $1.60 per share (the &#8220;2016 Offering Price&#8221;), for aggregate gross proceeds of $790,600 (before deducting expenses of the March 2016 Offering).
+
+&#160;
+
+On April 14, 2016, we held a closing of a private placement offering (the &#8220;April 2016 Offering,&#8221; and together with the March 2016 Offering, the &#8220;2016 Offering&#8221;) in which we sold 1,741,185 shares of our Common Stock at a fixed purchase price of $1.60 per share (the &#8220;2016 Offering Price&#8221;), for aggregate gross proceeds of $2,785,896 (before deducting expenses of the April 2016 Offering).
+
+&#160;
+
+Investors in the shares were given anti-dilution protection with respect to the shares of Common Stock sold in the 2016 Offering such that if, during the period from the closing of the April 2016 Offering until 90 days after the date on which the registration statement that we are required to file under a Registration Rights Agreement with the investors is declared effective by the SEC (see &#8220;Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities &#8212;Registration Rights&#8221; below) , the Company shall issue additional shares of Common Stock or Common Stock equivalents (subject to customary exceptions, including but not limited to issuances of awards under the Company&#8217;s 2015 Equity Incentive Plan and certain issuances of securities in connection with credit arrangements, equipment financings, lease arrangements or similar transactions) for a consideration per share less than the 2016 Offering Price (as adjusted for any subsequent stock dividend, stock split, distribution, recapitalization, reclassification, reorganization or similar event) (the &#8220;Lower Price&#8221;), each such investor will be entitled to receive from the Company additional shares of Common Stock in an amount such that, when added to the number of shares of Common Stock initially purchased by such investor, will equal the number of shares of Common Stock that such investor&#8217;s Offering subscription amount would have purchased at the Lower Price.
+
+&#160;
+
+In connection with the 2016 Offering, we agreed to pay the Placement Agents a cash commission of 8% of the gross proceeds raised from investors first contacted by the Placement Agents in the 2016 Offering. In addition, the Placement Agents received warrants to purchase a number of shares of Common Stock equal to 10% of the number of shares of Common Stock sold in the 2016 Offering, with a term of five (5) years and an exercise price of $1.60 per share (the &#8220;2016 Placement Agent Warrants&#8221;). Any sub-agent of the Placement Agents that introduced investors to the 2016 Offering was entitled to share in the cash fees and warrants attributable to those investors as described above.
+
+&#160;
+
+As a result of the foregoing, the Placement Agents and their sub-agents were paid an aggregate commission of $196,752 and were issued 2016 Placement Agent Warrants to purchase an aggregate of 153,713 shares of Common Stock. We were also required to reimburse the Placement Agents approximately $17,500 of legal expenses incurred in connection with the 2016 Offering, of which $7,500 was paid by the issuance of 4,690 shares of Common Stock (valued at the 2016 Offering Price).
+
+&#160;
+
+&#160; 14 &#160; 
+
+&#160;
+
+&#160;
+
+The form of 2016 Placement Agent Warrants is filed as an exhibit to this Report. All descriptions of the 2016 Placement Agent Warrants herein are qualified in their entirety by reference to the text thereof filed as exhibits hereto, which are incorporated herein by reference.
+
+&#160;
+

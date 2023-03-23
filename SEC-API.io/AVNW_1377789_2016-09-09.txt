@@ -1,0 +1,320 @@
+ Item 1. Business 
+
+Aviat Networks, Inc., together with its subsidiaries, is a global supplier of microwave networking solutions, backed by an extensive suite of professional services and support. Aviat Networks, Inc. may be referred to as &#8220;the Company,&#8221; &#8220;AVNW,&#8221; &#8220;Aviat Networks,&#8221; &#8220;we,&#8221; &#8220;us&#8221; and &#8220;our&#8221; in this Annual Report on Form 10-K. 
+
+We were incorporated in Delaware in 2006 to combine the businesses of Harris Corporation&#8217;s Microwave Communications Division (&#8220;MCD&#8221;) and Stratex Networks, Inc. (&#8220;Stratex&#8221;). On January 28, 2010, we changed our corporate name from Harris Stratex Networks, Inc. to Aviat Networks, Inc. 
+
+Our principal executive offices are located at 5200 Great America Parkway, Santa Clara, California 95054, and our telephone number is (408) 567-7000. Our common stock is listed on the NASDAQ Global Select Market under the symbol AVNW. As of July 1, 2016 , we employed approximately 720 &#32;people, compared with approximately 780 &#32;people as of July 3, 2015 . 
+
+Overview and Description of the Business 
+
+We design, manufacture and sell a range of wireless networking products, solutions and services to mobile and fixed public network operators, private network operators, Federal, State and Local government agencies, transportation, energy and utility companies, public safety agencies and broadcast network operators around the world. We sell products and services directly to our customers and also use agents and resellers. 
+
+Our products utilize microwave and millimeter wave technologies to create point to point wireless links for short, medium and long distance interconnections. Our products incorporate Ethernet switching and IP routing capabilities to form complete networking solutions. We also provide network management software tools to enable our customers to deploy, monitor and manage our systems; third party equipment such as antennas, routers, optical transmission equipment and other equipment necessary to build and deploy a complete telecommunications transmission network. We provide a full suite of professional services for planning, deployment, operations and maintenance of our customers&#8217; networks. 
+
+Our wireless systems deliver urban, suburban, regional and country-wide communications links as the primary alternative to fiber optic connections. In dense urban and suburban areas, short range wireless solutions are faster to deploy and lower cost per mile than new fiber deployments. In developing nations, fiber infrastructure is scarce and wireless systems are used for both long and short distance connections. Wireless systems also have advantages over optical fiber in areas with rugged terrain, and to provide connections over bodies of water such as between islands or even oil and gas production platforms. 
+
+Revenue from our North America and international regions represented approximately 47% &#32;and 53% , respectively, of our revenue in fiscal 2016 , 46% &#32;and 54% , respectively, of our revenue in fiscal 2015 , and 41% &#32;and 59% , respectively, of our revenue in fiscal 2014 . Information about our revenue attributable to our geographic regions is set forth in &#8220;Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; and in &#8220;Note 9. Segment and Geographic Information&#8221; of the accompanying consolidated financial statements in this Annual Report on Form 10-K. 
+
+Market Overview 
+
+We believe that future demand for microwave and millimeter wave transmission systems will be influenced by a number of factors across several market segments. 
+
+Mobile Networks 
+
+As mobile networks expand, add subscribers and increase the number of wirelessly connected devices, sensors and machines, they require investment in backhaul infrastructure. Whether mobile network operators choose to self-build this backhaul infrastructure or lease backhaul services from other network providers, the evolution of the network drives demand for transmission technologies such as microwave and millimeter wave wireless backhaul. Within this overall scope there are multiple individual drivers for investment in backhaul infrastructure. 
+
+&#8226; 
+
+New RAN Technologies . Mobile Radio Access Network (&#8220;RAN&#8221;) technologies are continually evolving. With evolution from 2G to 3G (HSPA), 4G (HSPA+ and LTE), and next 5G standards, technology is rapidly advancing and providing subscribers with higher speed access to the Internet, social media, and 
+
+video streaming services. The rapid increases in data to be transported through the RAN and across the backhaul infrastructure drives requirements for higher data transport links necessitating upgrades to or replacement of the existing backhaul infrastructure. 
+
+&#8226; 
+
+Subscriber Growth . Traffic on the backhaul infrastructure increases as the number of unique subscribers grows. 
+
+&#8226; 
+
+Connected Devices . The number of devices such as smart phones and tablets connected to the mobile network is far greater than the number of unique subscribers and is continuing to grow as consumers adopt multiple mobile device types. There is also rapid growth in the number and type of wireless enabled sensors and machines being connected to the mobile network creating new revenue streams for network operators in healthcare, agriculture, transportation and education. As a result, the data traffic crossing the backhaul infrastructure continues to grow rapidly. 
+
+&#8226; 
+
+IoT. The Internet of Things (&#8220;IoT&#8221;) brings the potential of massive deployment of wireless end points for sensing and reporting data and remotely controlling machines and devices. The increase of data volume drives investment in network infrastructure. 
+
+&#8226; 
+
+RAN Capacity . RAN frequency spectrum is a limited resource and shared between all of the devices and users within the coverage area of each base station. Meeting the combined demand of increasing subscribers and devices will require the deployment of much higher densities of base stations with smaller and smaller range (small cells) each requiring backhaul. 
+
+&#8226; 
+
+Geographic Coverage. Expanding the geographic area covered by a mobile network requires the deployment of additional Cellular Base Station sites. Each additional base station site also needs to be connected to the core of the mobile network through expansion of the backhaul system. 
+
+&#8226; 
+
+License Mandates . Mobile Operators are licensed telecommunications service providers. Licenses will typically mandate a minimum geographic footprint within a specific period of time and/or a minimum proportion of a national or regional population served. This can pace backhaul infrastructure investment and cause periodic spikes in demand. 
+
+&#8226; 
+
+Evolution to IP . Network Infrastructure capacity, efficiency and flexibility is greatly enhanced by transitioning from legacy SDH (synchronous digital hierarchy) / SONET (synchronous optical network) / TDM (time division multiplexing) to IP (internet protocol) infrastructure. Our products offer integrated IP transport and routing functionality increasing the value they bring in the backhaul network. 
+
+&#8226; 
+
+&#32;Expansion of Offered Services. Mobile network operators especially in emerging markets now own and operate the most modern communications networks within their respective regions. These network assets can be further leveraged to provide high speed broadband services to fixed locations such as small, medium and large business enterprises, airports, hotels, hospitals, and educational institutions. Microwave and millimeter wave backhaul is ideally suited to providing high speed broadband connections to these end points due to the lack of fiber infrastructure. 
+
+Other Vertical Markets 
+
+In addition to mobile backhaul, we see demand for microwave technology in other vertical markets, including utility, public safety, financial institutions and broadcast. 
+
+&#8226; 
+
+Many utility companies around the world are actively investing in Smart Grid solutions and energy demand management, which drive the need for network modernization and increased capacity of networks. 
+
+&#8226; 
+
+The investments in network modernization in the public safety market can significantly enhance the capabilities of security agencies. Improving border patrol effectiveness, enabling inter-operable emergency communications services for local or state police, providing access to timely information from centralized databases, or utilizing video and imaging devices at the scene of an incident requires a high bandwidth and reliable network. The mission critical nature of Public Safety and National security networks can require that these networks are built, operated and maintained independently of other public network infrastructure and microwave is very well suited to this environment because it is a cost-effective alternative to fiber. 
+
+&#8226; 
+
+Microwave technology can be used to engineer long distance and more direct connections than Optical Cable. Microwave signals also travel through the air much faster than light through glass and the combined effect of shorter distance and higher speed reduces latency, which is valued for trading applications in the 
+
+financial industry. Our products have already been used to create low latency connections between major centers in the United States (&#8220;U.S.&#8221;), Europe and Asia and we see long-term interest in the creation of further low latency routes in various geographies around the world. 
+
+&#8226; 
+
+The enhancement of Border Security and Surveillance networks to counter terrorism and insurgency is aided by the use of wireless technologies including microwave backhaul. 
+
+These factors are combining to create a range of opportunities for continued investment in backhaul and transport networks favoring microwave and millimeter wave technologies. As we focus on our execution of the future generations of our technology, our goal is to make wireless a viable choice for an ever broadening range of network types. 
+
+Strategy 
+
+Over the past year, we continued to invest in our microwave and IP Routing solutions, especially in expanding the software enabled features and functions of our CTR 8000 platform. &#32; The CTR is a transformational microwave product line since it efficiently integrates microwave transport and IP routing in a single solution. The software defined functionality of the CTR platform allows us to expand its capability over time and create further revenue generating software releases in the future. This is the first product in the industry to integrate Layer 3 MPLS and Microwave transmission functions in a single solution. We have continued to invest in our Eclipse IRU 600 platform which is targeted for our North America customer base with expansion of our industry leading power output capability across multiple frequency bands. We continue to invest in covering frequency bands to specifically address the needs of Federal Agencies facing the relocation of services from bands subject to Federal Communications Commission auction. 
+
+Our longer term technology development roadmap positions us for future network evolution and is crafted to maximize design re-use of critical hardware and software elements. 
+
+We continued to develop our professional services portfolio as a key to our long-term strategy and differentiation. During the year, we continued to expand the number of customer networks managed from our North America Network Operations Center. We began offering cloud based network management to select customers and we continue to offer training and accreditation programs for microwave and IP network design, deployment and maintenance. 
+
+Our strategy includes partnering with companies with technical expertise in areas outside of our core competencies to meet our customers&#8217; demand for an end-to-end solution. Our partner product strategy enables us to go beyond wireless transmission to address the vendor consolidation trend whereby customers are &#8220;buying more from fewer vendors&#8221; and in doing so providing expanding market share opportunity. A comprehensive solutions portfolio comprised of our wireless product and intelligent partner products can allow us to compete with vendors that offer turnkey solution portfolios and serve to focus our research and development (&#8220;R&#38;D&#8221;) efforts on core competency wireless innovations. Having a broader portfolio will enable us to further differentiate our offerings from other independent microwave equipment suppliers. 
+
+We expect to continue to serve and expand upon our existing customer base and develop business with new customers. We have sold more than 1,000,000 microwave radios in over 140 countries and are present in more than 350 mobile networks worldwide. We intend to leverage our customer base, our longstanding presence in many countries, our distribution channels, our comprehensive product line, our superior customer service and our turnkey solution capability to continue to sell existing and new products and services to current and future customers. 
+
+Products and Solutions 
+
+We offer a comprehensive product and solutions portfolio that meets the needs of service providers and network operators in every region of the world and addresses a broad range of applications, frequencies, capacities and network topologies. Our product categories include point-to-point microwave and millimeter wave radios that are licensed (subject to local frequency regulatory requirements), lightly-licensed and license-exempt (operating in license-exempt frequencies), and element and network management software. In addition, we provide a full suite of professional services enabling us to deliver end-to-end turnkey networks, including complete design, deployment, maintenance, and managed services, while being an attentive and adaptable partner for our customers &#8212; a key competitive differentiator for us. 
+
+&#8226; 
+
+Broad product and solution portfolio. We offer a comprehensive suite of wireless transmission networking systems for microwave and millimeter wave networking applications. Our solution consists of tailored offerings of our own wireless products and our own integrated ancillary equipment or that of other manufacturers and providers of element and network management systems and professional services. These 
+
+solutions address a wide range of transmission frequencies, ranging from 2.4 GHz to 90 GHz, and a wide range of transmission capacities, ranging up to over 4 Gbps. The major product families included in these solutions are CTR 8000, Eclipse, IRU 600 and ProVision, our network management software including the AviatCloud solution. 
+
+&#8226; 
+
+Low total cost of ownership. Our wireless-based solutions offer a relatively low total cost of ownership, including savings on the combined costs of initial acquisition, installation and ongoing operation and maintenance. Our latest generation system designs reduce rack space requirements, require less power, are software-configurable to reduce spare parts requirements, and are simple to install, operate, upgrade and maintain. Our advanced wireless features can also enable operators to save on related costs, including spectrum fees and tower rental fees. 
+
+&#8226; 
+
+Futureproof network. Our solutions are designed to protect the network operator&#8217;s investment by incorporating software-configurable capacity upgrades and plug-in modules that provide a smooth migration path to Carrier Ethernet and IP/MPLS (multiprotocol label switching)-based networking, without the need for costly equipment substitutions and additions. Our products include key technologies we believe will be needed by operators for their network evolution to support new broadband services. 
+
+&#8226; 
+
+Flexible, easily configurable products. We use flexible architectures with a high level of software configurable features. This design approach produces high-performance products with reusable components while at the same time allowing for a manufacturing strategy with a high degree of flexibility, improved cost and reduced time-to-market. The software features of our products offer our customers a greater degree of flexibility in installing, operating and maintaining their networks. 
+
+&#8226; 
+
+Comprehensive network management. We offer a range of flexible network management solutions, from element management to enterprise-wide network management and service assurance that we can optimize to work with our wireless systems. 
+
+&#8226; 
+
+Complete professional services. In addition to our product offerings, we provide network planning and design, site surveys and builds, systems integration, installation, maintenance, network monitoring, training, customer service and many other professional services. Our services cover the entire evaluation, purchase, deployment and operational cycle and enable us to be one of the few complete turnkey solution providers in the industry. 
+
+&#8226; 
+
+AviatCloud. We have introduced AviatCloud which is an application based platform to automate and virtualize networks and their operations. Initial applications include cloud based network management and microwave network design. Further simplification of network planning, purchasing and lifecycle management will become available as we expand the scope of this application. 
+
+Business Operations 
+
+Sales and Service 
+
+Our primary route to market is through our own direct sales, service and support organization. This provides us with the best opportunity to leverage our role as a technology specialist and differentiate ourselves from competitors. Our focus on key customers and geographies allows us to consistently achieve high customer satisfaction ratings leading to a high level of customer retention and repeat business. Our highest concentrations of Sales and Service resources are in the United States, Western and Southern Africa, the Philippines, and the European Union. We maintain a presence in a number of other countries, some of which are based on customer locations and include, but not limited to, Nigeria, Kenya, Ghana, Ivory Coast, Algeria, South Africa, the United Arab Emirates, Saudi Arabia, Australia, Malaysia, New Zealand, Singapore, Slovenia and the Philippines. 
+
+In addition to our direct channel to market, we also have informal, and in some cases formal, relationships with original equipment manufacturers (&#8220;OEMs&#8221;) and system integrators especially towards large and complex projects in National Security and Government related applications, which include, but not limited to, Nigeria, Kenya, Ghana, Ivory Coast, Algeria, South Africa, the United Arab Emirates, Saudi Arabia, Australia, Malaysia, New Zealand, Singapore, Slovenia and the Philippines. Our role in these relationships ranges from equipment supply only to being a sub-contractor for a portion of the project scope where we will supply equipment and a variety of design, deployment and maintenance services. 
+
+We also use indirect sales channels, including dealers, resellers and sales representatives, in the marketing and sale of some lines of products and equipment on a global basis. These independent representatives may buy for resale or, in 
+
+some cases, solicit orders from commercial or governmental customers for direct sales by us. Prices to the ultimate customer in many instances may be recommended or established by the independent representative and may be above or below our list prices. These independent representatives generally receive a discount from our list prices and are free to set the final sales prices paid by the customer. 
+
+We have repair and service centers in India, Nigeria, Ghana, Mexico, the Philippines, the United Kingdom and the United States. We have customer service and support personnel who provide customers with training, installation, technical support, maintenance and other services on systems under contract. We install and maintain customer equipment directly in some cases and contract with third-party service providers in other cases, depending on the equipment being installed and customer requirements. 
+
+The specific terms and conditions of our product warranties vary depending upon the product sold and country in which we do business. On direct sales, warranty periods generally start on the delivery date and continue for one to three years. 
+
+Manufacturing 
+
+Our global manufacturing strategy follows an outsourced manufacturing model using contract manufacturing partners in both the United States and Asia. Our strategy is based on balancing cost and supplier performance as well as taking into account qualification for localization requirements of certain market segments such as the Buy America statute. 
+
+In accordance with our global logistics requirements and customer geographic distribution, we are engaged with contract manufacturing partners in Asia and the United States. All manufacturing operations have been certified to International Standards Organization 9001, a recognized international quality standard. We have also been certified to the TL 9000 standard, a telecommunication industry-specific quality system standard. 
+
+Backlog 
+
+Our backlog by geographic region is as follows: 
+
+(In thousands) 
+
+July 1, 2016 
+
+&#160; 
+
+July 3, 2015 
+
+North America 
+
+$ 
+
+97,360 
+
+&#160; 
+
+$ 
+
+88,242 
+
+International 
+
+56,271 
+
+&#160; 
+
+63,489 
+
+Total backlog 
+
+$ 
+
+153,631 
+
+&#160; 
+
+$ 
+
+151,731 
+
+Our backlog consists primarily of contracts or purchase orders for both product and service deliveries and extended service warranties. We regularly review our backlog to ensure that our customers continue to honor their purchase commitments and have the financial means to purchase and deploy our products and services in accordance with the terms of their purchase contracts. 
+
+We expect to substantially fill the backlog as of July 1, 2016 &#32;during fiscal 2017, but we cannot be assured that this will occur. Product orders in our current backlog are subject to changes in delivery schedules or to cancellation at the option of the purchaser without significant penalty. Accordingly, although useful for scheduling production, backlog as of any particular date may not be a reliable measure of sales for any future period because of the timing of orders, delivery intervals, customer and product mix and the possibility of changes in delivery schedules and additions or cancellations of orders. The backlog figures exclude advance payments and unearned income amounts. 
+
+Customers 
+
+Although we have a large customer base, during any given fiscal year or quarter, a small number of customers may account for a significant portion of our revenue. 
+
+During fiscal 2016 , the Mobile Telephone Networks Group (&#8220;MTN Group&#8221;) in Africa accounted for 18% &#32;of our total revenue compared with 14% &#32;in fiscal 2015 &#32;and 17% &#32;in fiscal 2014 . We have entered into separate and distinct contracts with MTN Group as well as separate arrangements with MTN Group subsidiaries. The loss of all or a substantial portion of MTN Group&#8217;s business could adversely affect our results of operations, cash flows and financial position. 
+
+Competition 
+
+The microwave and millimeter wave wireless networking business is a specialized segment of the wireless telecommunications industry that is sensitive to technological advancements and is extremely competitive. Our principal competitors include business units of large mobile and IP network infrastructure manufacturers such as Ericsson, Huawei, NEC and Nokia, as well as a number of other smaller public and other microwave specialists companies such as Ceragon, DragonWave and privately-held SIAE Microelectronica. 
+
+Some of our larger competitors may have greater name recognition, broader product lines (some including non-wireless telecommunications equipment and managed services), a larger installed base of products and longer-standing customer relationships. They may from time to time leverage their extensive overall portfolios into completely outsourced and managed network offerings restricting opportunities for specialist suppliers. In addition, some competitors may offer seller financing, which can be a competitive advantage under certain economic climates. 
+
+Some of our larger competitors may also act as systems integrators through which we sometimes distribute and sell products and services to end users. 
+
+The smaller independent private and public specialist competitors typically leverage new technologies and low products costs, but are generally less capable of offering a complete solution including professional services, especially in the North America and Africa regions which form the majority of our addressed market. 
+
+We concentrate on market opportunities that we believe are compatible with our resources, overall technological capabilities and objectives. Principal competitive factors are cost-effectiveness, product quality and reliability, technological capabilities, service, ability to meet delivery schedules and the effectiveness of dealers in international areas. We believe that the combination of our network and systems engineering support and service, global reach, technological innovation, agility and close collaborative relationships with our customers are the key competitive strengths for us. However, customers may still make decisions based primarily on factors such as price, financing terms and/or past or existing relationships, where it may be difficult for us to compete effectively or profitably. 
+
+Research and Development 
+
+We believe that our ability to enhance our current products, develop and introduce new products on a timely basis, maintain technological competitiveness and meet customer requirements is essential to our success. Accordingly, we allocate, and intend to continue to allocate, a significant portion of our resources to research and development efforts in two major product areas: backhaul solutions and network management systems. In addition, we are investing in key innovation that will help separate these products from the competition. The majority of such research and development resources will be used for point-to-point digital microwave radio systems for access, backhaul, trunking and license-exempt applications. 
+
+Our research and development expenditures totaled $20.8 million , or 7.7% &#32;of revenue, in fiscal 2016 , $25.4 million , or 7.6% &#32;of revenue, in fiscal 2015 , and $35.5 million , or 10.3% &#32;of revenue, in fiscal 2014 . 
+
+Research and development are primarily directed to the development of new products and to building technological capability. We are an industry innovator and intend to continue to focus significant resources on product development in an effort to maintain our competitiveness and support our entry into new markets. 
+
+Our product development teams numbered 134 &#32;employees as of July 1, 2016 , and were located in Santa Clara, California; Wellington, New Zealand; Ljubljana, Slovenia; and Montreal, Canada. 
+
+Raw Materials and Supplies 
+
+Because of the range of our products and services, as well as the wide geographic dispersion of our facilities, we use numerous sources for the wide array of raw materials needed for our operations and for our products, such as electronic components, printed circuit boards, metals and plastics. We are dependent upon suppliers and subcontractors for a large number of components and subsystems and upon the ability of our suppliers and subcontractors to adhere to customer or regulatory materials restrictions and meet performance and quality specifications and delivery schedules. 
+
+Our strategy for procuring raw material and supplies includes dual sourcing on strategic assemblies and components. In general, we believe this reduces our risk with regard to the potential financial difficulties in our supply base. In some instances, we are dependent upon one or a few sources, either because of the specialized nature of a particular item or because of local content preference requirements pursuant to which we operate on a given project. 
+
+Examples of sole or limited source categories include metal fabrications and castings, for which we own the tooling and therefore limit our supplier relationships, ASIC&#8217;s and MMICs (types of integrated circuit used in manufacturing microwave radios), which we procure at volume discount from a single source. Our supply chain plan includes mitigation plans for alternative manufacturing sources and identified alternate suppliers. 
+
+Although we have been affected by performance issues of some of our suppliers and subcontractors, we have not been materially adversely affected by the inability to obtain raw materials or products. In general, any performance issues causing short-term material shortages are within the normal frequency and impact range experienced by high-tech manufacturing companies. They are due primarily to the highly technical nature of many of our purchased components. 
+
+Looking ahead, we anticipate standard lead times for our raw materials and supplies. 
+
+Patents and Other Intellectual Property 
+
+We consider our patents and other intellectual property rights, in the aggregate, to constitute an important asset. We own a portfolio of patents, trade secrets, know-how, confidential information, trademarks, copyrights and other intellectual property. We also license intellectual property to and from third parties. As of July 1, 2016 , we held 167 &#32;U.S. patents and 65 &#32;international patents and had 31 &#32;U.S. patent applications pending and 50 &#32;international patent applications pending. We do not consider our business to be materially dependent upon any single patent, license or other intellectual property right, or any group of related patents, licenses or other intellectual property rights. From time to time, we might engage in litigation to enforce our patents and other intellectual property or defend against claims of alleged infringement. Any of our patents, trade secrets, trademarks, copyrights and other proprietary rights could be challenged, invalidated or circumvented, or may not provide competitive advantages. Numerous trademarks used on or in connection with our products are also considered to be valuable assets. 
+
+In addition, to protect confidential information, including our trade secrets, we require our employees and contractors to sign confidentiality and invention assignment agreements. We also enter into non-disclosure agreements with our suppliers and appropriate customers to limit access to and disclosure of our proprietary information. 
+
+Although our ability to compete may be affected by our ability to protect our intellectual property, we believe that, because of the rapid pace of technological change in the wireless telecommunications industry, our innovative skills, technical expertise and ability to introduce new products on a timely basis will be more important in maintaining our competitive position than protection of our intellectual property. Trade secret, trademark, copyright and patent protections are important but must be supported by other factors such as the expanding knowledge, ability and experience of our personnel, new product introductions and product enhancements. Although we continue to implement protective measures and intend to vigorously defend our intellectual property rights, there can be no assurance that these measures will be successful. 
+
+Environmental and Other Regulations 
+
+Our facilities and operations, in common with those of our industry in general, are subject to numerous domestic and international laws and regulations designed to protect the environment, particularly with regard to wastes and emissions. We believe that we have complied with these requirements and that such compliance has not had a material adverse effect on our results of operations, financial condition or cash flows. Based upon currently available information, we do not expect expenditures to protect the environment and to comply with current environmental laws and regulations over the next several years to have a material impact on our competitive or financial position, but can give no assurance that such expenditures will not exceed current expectations. From time to time, we receive notices from the U.S. Environmental Protection Agency or equivalent state or international environmental agencies that we are a potentially responsible party under the Comprehensive Environmental Response, Compensation and Liability Act, which is commonly known as the Superfund Act, and equivalent laws. Such notices may assert potential liability for cleanup costs at various sites, which include sites owned by us, sites we previously owned and treatment or disposal sites not owned by us, allegedly containing hazardous substances attributable to us from past operations. We are not presently aware of any such liability that could be material to our business, financial condition or operating results, but due to the nature of our business and environmental risks, we cannot provide assurance that any such material liability will not arise in the future. 
+
+Electronic products are subject to environmental regulation in a number of jurisdictions. Equipment produced by us is subject to domestic and international requirements requiring end-of-life management and/or restricting materials in products delivered to customers. We believe that we have complied with such rules and regulations, where applicable, with respect to our existing products sold into such jurisdictions. 
+
+Radio communications are also subject to governmental regulation. Equipment produced by us is subject to domestic and international requirements to avoid interference among users of radio frequencies and to permit interconnection of telecommunications equipment. We believe that we have complied with such rules and regulations with respect to our existing products, and we intend to comply with such rules and regulations with respect to our future products. Reallocation of the frequency spectrum also could impact our business, financial condition and results of operations. 
+
+We are in the process of developing comprehensive policies and procedures concerning conflict minerals compliance. 
+
+Employees 
+
+As of July 1, 2016 &#32;we employed approximately 720 &#32;people, compared with approximately 780 &#32;as of the end of fiscal 2015 &#32;and approximately 960 &#32;as of the end of fiscal 2014 . Approximately 270 &#32;of our employees are located in the U.S. We also utilized approximately 70 &#32;independent contractors as of July 1, 2016 . None of our employees in the U.S. are represented by a labor union. In certain international subsidiaries, our employees are represented by workers&#8217; councils or statutory labor unions. In general, we believe that our employee relations are good. 
+
+Executive Officers of the Registrant 
+
+The name, age, position held with us, and principal occupation and employment during at least the past 5 years for each of our executive officers as of September 8, 2016 , are as follows: 
+
+&#160; 
+
+Name and Age 
+
+&#160; 
+
+Position Currently Held and Past Business Experience 
+
+Michael A. Pangia, 55 
+
+&#160; 
+
+Mr. Pangia has been our President and Chief Executive Officer and a member of the Board since July 18, 2011. From March 2009 to July 2011, he served as our Chief Sales Officer responsible for company-wide operations of the global sales and services organization. Prior to joining Aviat Networks, from 2008 to 2009, Mr. Pangia served as Senior Vice President, global sales operations and strategy at Nortel, where he was responsible for all operational aspects of the global sales function. From 2006 to 2008, he was President of Nortel&#8217;s Asia region where his key responsibilities included sales and overall business management for all countries where Nortel did business in the region. 
+
+Ralph Marimon, 59 
+
+&#160; 
+
+Mr. Marimon joined Aviat Networks in May 2015 as our Senior Vice President, Finance and Chief Financial Officer and is responsible for the finance and IT organizations. Before joining Aviat, Mr. Marimon served as Vice President, Finance and Chief Financial Officer of QuickLogic, a provider of ultra-low power, customizable semiconductor solutions for smartphone, tablet, wearable, and mobile enterprise OEMs, since 2008. Prior to QuickLogic, Mr. Marimon served as Chief Financial Officer within a variety of organizations including Anchor Bay Technologies, Inc., Tymphany Corporation, and Scientific Technologies Incorporated. From 1999 to 2003, he served at Com21 Corporation, a global supplier of system solutions for the broadband access market, where he was promoted from Corporate Controller to Vice President of Finance and Chief Financial Officer. Prior to Com21, Mr. Marimon was at KLA-Tencor Corporation for 11 years in a variety of senior executive financial management positions. 
+
+Meena Elliott, 53 
+
+&#160; 
+
+Ms. Elliott was appointed Senior Vice President, Chief Legal and Administrative Officer, Corporate Secretary in February 2015 and is responsible for the global legal and human resources organizations. From September 2011 to February 2015, she served as Senior Vice President, General Counsel, Secretary and had responsibilities for the global legal organization and took on responsibilities for global human resources organizations in 2014. From July 2009 to August 2011, she served as Vice President, General Counsel and Secretary. She joined our company as Associate General Counsel and Assistant Secretary in January 2007 when Harris Corporation&#8217;s MCD and Stratex Networks merged. Ms. Elliott joined MCD as Division Counsel in March 2006. Prior to joining MCD, she was Chief Counsel at the Department of Commerce from 2002 to 2006. 
+
+Heinz H. Stumpe, 61 
+
+&#160; 
+
+Mr. Stumpe was appointed Chief Sales Officer on June 25, 2012. Before his appointment as Chief Sales Officer, Mr. Stumpe was our Senior Vice President and Chief Operation Officer since June 30, 2008. Previously, he was Vice President, Global Operations for Aviat Networks and Stratex Networks. He joined Stratex Networks as Director of Marketing in 1996. He was promoted to Vice President, Global Accounts in 1999, Vice President, Strategic Accounts in 2002 and Vice President, Global Operations in April 2006. 
+
+Shaun McFall, 56 
+
+&#160; 
+
+Mr. McFall was appointed Chief Strategy Officer in 2015. He was our Chief Marketing Officer since July 2008. Previously, from 2000 to 2008, he served as Vice President, Marketing for Aviat Networks and Stratex Networks. He has been with us since 1989. 
+
+There is no family relationship between any of our executive officers or directors, and there are no arrangements or understandings between any of our executive officers or directors and any other person pursuant to which any of them was appointed or elected as an officer or director, other than arrangements or understandings with our directors. 
+
+Web site Access to Aviat Networks&#8217; Reports; Available Information 
+
+We maintain an Internet Web site at http://www.aviatnetworks.com. &#32;Our annual reports on Form 10-K, proxy statements, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to such reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the &#8220;Exchange Act&#8221;) are available free of charge on our Web site as soon as reasonably practicable after these reports are electronically filed with, or furnished to, the Securities and Exchange Commission (&#8220;SEC&#8221;). Our website and the information posted thereon are not 
+
+incorporated into this Annual Report on Form 10-K or any current or other periodic report that we file or furnish to the SEC. 
+
+We will also provide the reports in electronic or paper form, free of charge upon request. All reports we file with or furnish to the SEC are also available free of charge via EDGAR through the SEC&#8217;s website at http://www.sec.gov . The public may read and copy any materials filed by us with the SEC at the SEC&#8217;s Public Reference Room, 100 F. Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. 
+
+Additional information relating to our business and operations is set forth in &#8220;Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in this Annual Report on Form 10-K. 
+

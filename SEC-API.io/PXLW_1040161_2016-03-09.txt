@@ -1,0 +1,234 @@
+ Item 1. 
+
+Business. 
+
+Overview 
+
+Pixelworks designs, develops and markets video and pixel processing semiconductors, intellectual property cores, software and custom ASIC solutions for high-end digital video applications. Our products allow manufacturers and developers of digital display and projection devices to manufacture screens of all sizes that display the highest video quality with minimum power consumption. Our core video display processing technology intelligently processes video signals from a variety of sources and optimizes the image for the viewer. The continued advancement of display technology and rapid growth of video consumption on digital delivery systems and mobile applications has increased the demand for video display processing technology in recent years. Our products can be used in a range of devices from large flat panel displays to small low power mobile applications. Our products are designed to reduce overall system power requirements and reduce costs for our customers by minimizing bandwidth, reducing panel costs and optimizing the video display pipeline efficiency. Our primary target markets include digital projection systems, tablets, smartphones, and Ultrabook TM &#32;devices. 
+
+We have an intellectual property portfolio of 135 &#32;patents related to the visual display of digital image data. We focus our research and development efforts on developing video enhancement solutions for our target markets that increase performance, video quality and device functionality while reducing power consumed. We seek to expand our technology portfolio through internal development and co-development with business partners, and we continually evaluate acquisition opportunities and other ways to leverage our technology into other high-value markets. 
+
+High-Resolution Displays 
+
+Display technology has entered the third wave of its evolution. We are seeing the transition from the &#8220;digital, flat and thin&#8221; era to one focused on increasing and improving resolution. Recent advancements in display manufacturing technology have allowed display manufacturers to pack an increasing number of pixels into tighter spaces. This transition was led by the mobile segment, and in particular by Apple&#8217;s &#8220;Retina&#8221; display, which set the standard for smaller screens. The resolution on display devices in all segments is increasing. This trend of providing more pixels is likely to continue as display manufacturers and device manufacturers seek differentiation, and as content is created at increasingly higher resolutions. 
+
+Higher resolution dramatically improves the picture quality of still images, graphics and photos. As pixel densities increase, the ability of the eye to discern individual pixels diminishes. Once the pixels become unperceivable, the image gains a more realistic quality as object outlines and lines appear continuous. More interestingly, scientific studies have shown that the human eye is able to discern a higher pixel density for motion images than static images. However, without the correct video processing, the display&#8217;s increased pixel density may not be fully realized for motion images. 
+
+Judder is a common problem in video systems. Generally, it occurs when there is a sudden jump or discontinuity in motion from one frame of a motion video sequence to the next. This can be caused by content being created at a frame rate per second that is too low, or the original content frames are being repeated or dropped in order to match either a transmission standard or the playback frame rate of the display. 
+
+In addition to judder, high-resolution displays suffer from softness and smearing in motion sequences called motion blur. There are numerous causes of motion blur. The materials used in constructing pixels on the display take a finite amount of time to transition from one state to another. If this time is too long, the image does not update swiftly and motion sequences seem to smear or blur. Additionally, when a motion sequence is played on a digital display device, the new updated frame is drawn over the top of the still visible previous frame. This &#8220;hold&#8221; effect is perceived by the brain as blur. 
+
+Moving images such as movies, television shows and sports also benefit from higher resolution, by providing more realism and depth perception for the viewer. Additionally, higher resolution also accentuates artifacts such as judder and motion blur in moving images. Contrast, color and sharpness artifacts also become more noticeable. As a result, advanced Video Display Processing becomes increasingly necessary at high pixel densities, regardless of screen size. 
+
+The perceived pixel density of a display increases with viewing distance as objects closer to the eye appear larger than objects further away. Since smartphones are typically viewed at a much closer distance than large screen televisions, they must have a higher pixel density in order to achieve the same effect. Conversely, a 5-inch smartphone screen viewed from ten inches away appears to be the same size as a 60-inch large screen television viewed from ten feet away. 
+
+Artifacts such as judder and motion blur are more noticeable on high-resolution displays, including smaller screens. Pixelworks' advanced Video Display Processing provides original equipment manufacturers ("OEMs") and display manufacturers with solutions to remove these artifacts and to help realize the potential of their investment in high-resolution displays. 
+
+Hollywood movies, television shows and other premium content are usually authored at 24 frames per second or 24Hz. At this frame rate, the brain can easily notice the transition from one frame to the next. As the brain and eyes track objects in motion, they have to jump in discrete steps due to the low frame rate. This stop-start motion is perceived by the brain as motion blur, reducing the visible clarity and fidelity of objects in motion. 
+
+Today&#8217;s displays are typically operating at a 50Hz or 60Hz display rate, or a multiple of these such as 100Hz or 120Hz. Converting content created at a different rate, such as 24Hz, to the transmission or display rate can make judder seem worse, as each original frame from the content is repeated an uneven number of times to match the display frame rate. Additionally, for streaming content arriving over the Internet, there may be instances when frames need to be dropped or repeated to maintain synchronization with the associated audio stream, with additional content derived from another source that is being shown on the display at the same time, or with variations in bandwidth over the Internet due to quality of service and available bandwidth constraints. 
+
+We believe the most effective method for removing both judder and reducing blur is motion estimation/motion compensation ("MEMC") technology. This technology is based on complex mathematical algorithms that insert additional, interpolated frames to create a new, faster sequence of frames that has smooth, continuous motion. This technique works for virtually all types of panel technology. 
+
+Video Consumption Trend 
+
+With the advent of digital video it has become possible to deliver video to consumers in an ever increasing number of ways. Traditional delivery mechanisms such as over the air broadcasts (&#8220;OTA&#8221;), cable, satellite, DVDs and Blu-ray are being supplemented with Internet streaming and download services. With these new video delivery options comes the ability to offer more services and improved quality. 
+
+According to recent studies by Cisco, video will constitute 80% of all global consumer Internet traffic by 2019. Consumer Video on Demand ("VOD") traffic will double by 2019. HD will be 70 percent of IP VOD traffic in 2019, up from 59 percent in 2014. It would take one person over 5 million years to watch the total amount of video crossing global Internet networks each month in 2019. This rapid increase in video consumption is being driven by a variety of connected digital video devices and applications that allow consumers to easily create, share and consume video. In particular, mobile video consumption is rapidly expanding. Televisions, traditionally thought of as the primary screen, are now giving way to mobile devices. The &#8220;always on&#8221; and ease of use of mobile devices are helping to make them the preferred choice as the &#8220;first screen&#8221; for many consumers. Cisco estimates that less than 15% of consumer Internet traffic will be to televisions in 2019, whereas video was 55% of all mobile data traffic in 2015 and is expected to grow to 75% by 2020. 
+
+Internet services also offer greater flexibility and the ability to adapt faster to growing trends or new technology. One example of this is the recent transition of premium televisions to Ultra high definition, also known as Ultra-HD. Two standards for Ultra-HD exist today and are commonly referred to as &#8220;4K&#8221; and &#8220;8K&#8221;. A 4K signal is comprised of 3840 pixels by 2160 lines and has four times more pixels than full high definition or Full-HD, which is 1920 pixels by 1080 lines. While new television sets capable of displaying 4K content have entered the market, widespread availability of 4K content has not been achieved. This is similar to previous technology transitions such as when standard definition, or SD, displays transitioned to Full-HD. During that change, new transmission standards for OTA and cable were developed and the Blu-ray Disc standard was established. Those standards took some time to become widely available, especially in the case of the physical media of Blu-ray. Due to the increased number of pixels, the 4K signal standard requires a new compression and decompression standard called H.265, which offers two times the compression efficiency of the existing H.264 standard which is used to compress Full-HD. Even with the H.265 standard, existing transmission mediums and physical media have difficulty accommodating 4K signals. In some cases, they cannot provide sufficient data rates to ensure the quality of 4K content and require additional technology or modifications. However, the continual improvement in Internet speeds, along with the Internet&#8217;s flexible architecture makes it easier and faster to launch new services, such as 4K, via the Internet. Additionally, the faster consumer update cycle of mobile devices and PCs versus televisions, Blu-ray players and other consumer video devices, allows new technology such as H.265 to be deployed faster. 
+
+In 2013, Sony launched the world&#8217;s first 4K Ultra-HD service allowing users to download 4K content and enjoy it in their homes on new 4K-enabled televisions. Netflix, Amazon and other streaming services have also commenced 4K services to consumers. 
+
+As more content becomes increasingly available via the Internet, consumers have more choices for how and where they can enjoy content. The increasing amount of content available through the Internet has also led to an increase in the number and type of devices that can be used to access this content. According to DisplaySearch the number of televisions, tablets, smartphones and Ultrabook TM &#32;devices being sold is expected to increase beyond 2.3 billion devices by 2018. 
+
+Mobile Market 
+
+As consumers increasingly turn to mobile devices for watching sports, television shows and movies, the need for video quality that matches that of televisions becomes more important. However, today&#8217;s mobile devices often lack the sophisticated Video Display Processing that has become standard in today&#8217;s televisions. Consequently, mobile devices suffer from video artifacts that are not present on TVs. With the display being the central feature of the user experience and interface, we believe there is a significant opportunity to offer product differentiation by adding Video Display Processing technology. 
+
+There has been continued growth in the share of online video viewed by mobile devices. The Q4 2014 Global Video Index report from Ooyala showed that 34% of all video plays in Q4 2014 were on tablets and smartphones. The share of online video viewing of smartphones and tablets combined grew two times in 2014, five times since 2012 and sixteen times since 2011. The report also lists &#8220;optimizing video playback quality to increase mobile viewer engagement&#8221; as one of the key points to monetizing mobile video. 
+
+Mobile display systems pose a number of unique challenges. Power is of primary importance, impacting form factor, cost and performance. As these systems have added more functionality, new features have had to compete for battery life, internal bandwidth and space. While the overall computational power of these systems has never been greater, the addition of more features has created significant burdens on systems' ability to process larger amounts of data. The addition of high-resolution displays has further increased the burden on these resources. 
+
+Using the same technology developed for large screen televisions is neither feasible nor desirable. The Video Display Processing pipelines used in televisions consume many watts of power and would be unsuitable for battery powered systems. In televisions, the size constraints on electronics are significantly less stringent when compared to mobile systems, making it physically impossible to fit an existing television solution into a mobile device. To furnish the mobile market with appropriate solutions, Pixelworks has taken a holistic, system-wide view and re-invented its Video Display Processing technology to fit within the mobile constraints of battery life, bandwidth, form factor and performance. This approach has enabled us to create technology that meets the power and size requirements of mobile as well as offering additional benefits such as reducing the bandwidth burden of high-resolution video and freeing up more bandwidth for the CPU and GPU. 
+
+The mobile market today is comprised of three main categories; smartphones, tablets and Ultrabook TM &#32;devices. 
+
+Smartphones : 
+
+Smartphones have become a popular choice for many consumers. CCS Insight estimates that almost 2 billion smartphones will be sold in 2019, accounting for 72% of all mobile phones sold in 2019. 
+
+The resolution of smartphone displays have been increasing and this trend is expected to continue. Full-HD has been offered by higher-end models and is becoming increasingly popular. The market is now in the process of moving to Quad-HD (2560 pixels by 1440 lines). It is expected that resolutions will continue to increase. For example, Sony has already released a smartphone featuring a 4K display. 
+
+The compact form factor of smartphones requires overcoming design limitations of power and space. Technologies that can reduce power and extend battery life are attractive as they offer more utility to the end user as well as help to reduce the size of the battery and consequently the overall size of the unit. 
+
+Given the competitive nature of the smartphone market, we believe the ability to differentiate devices by incorporating features consumers find valuable is also critical. With the display being the salient component of the smartphone and the rapidly increasing use of these devices for video consumption, we believe that the incorporation of Video Display Processing is the next logical step. 
+
+Tablets : 
+
+The line between tablets and smartphones is becoming increasingly indistinct as more tablets are offering mobile connectivity and are now available in sizes similar to those of smartphones. Tablets offer broad appeal to consumers. IDC expects an estimated 234.5 million units to ship in 2015 with over 260 million units in 2019. This growth is expected to come at the expense of other mobile PC devices, most notably notebooks. 
+
+Tablet screen resolutions are also expected to increase from the XGA (1024 pixels by 768 lines) offering of the original iPad. Today, many Full-HD tablets are available in sizes 7.0 inches and greater. There is a continuous trend to increase this resolution. For example, in 2013, Panasonic launched a 20-inch 4K tablet aimed at professional users and delivers workstation performance and incorporates Intel Core i5 processors running Windows 8.1. Samsung is also selling its 12.2 inch Galaxy Tab Pro tablet targeted at consumers, which incorporates a resolution of 2560 pixels by 1600 lines display. 
+
+While many of the tablets' electronics may be similar to those of smartphones, the larger display consumes more power. Consequently, manufacturers are continually striving to reduce power consumption to improve battery life and reduce the cost and physical bulk of the tablet. 
+
+The tablets' larger screen size makes them ideal for consuming video content. The Q4 2014 Global Video Index report from Ooyala highlighted that tablet users watched long-form video for 70% of the time they spent viewing on their device. Tablets also lead in the percentage of time spent watching content from 30-60 minutes long. 
+
+Ultrabook TM &#32; devices : 
+
+Ultrabook TM &#32;refers to a thin and light laptop that meets the Intel specification of the same name, and is a trademark of Intel Corporation in the U.S. and/or other countries. Ultrabook TM &#32;devices are designed for mobility without compromising performance and battery life. They compete with tablets but typically have more computational power, dedicated keyboards and greater connectivity options. 
+
+Display resolutions for Ultrabook TM &#32;devices have been increasing. Current offerings include high-resolution displays up to 3200 pixels by 1800 lines. 
+
+Battery life is a significant concern for Ultrabook TM &#32;devices due to the higher power consumption of the display and the main processor and graphics subsystem. As with smartphones and tablets, we believe there is a need for a solution to reduce power consumption, extend battery life and reduce bulk. 
+
+As with tablets, Ultrabook TM &#32;devices provide a convenient and popular platform to view streaming video and downloaded content. 
+
+Digital Projection Market 
+
+Increasingly affordable price points are driving continued adoption of digital projectors in business and education, as well as among consumers. Technology improvements are helping to reduce the size and weight of projection devices while increasing their performance. Projector models range from larger units designed to be permanently installed in a conference hall or other venue, to ultra-portable devices weighing fewer than two pounds for maximum portability. According to PMA Research Limited (formerly Pacific Media Associates), the worldwide front projector market shipped 8.7 million units in 2015 and is forecasted to reach 10.2 million units by 2019. 
+
+The feature set of projection systems differs from that of a typical large-screen flat panel display such as a television. This is primarily because the projector is a sharing and collaboration device while the television is designed for direct consumption of content. 
+
+The front projection market services several different areas such as business, education and home theater. Business users employ multimedia projectors to display both still and video presentation materials from PCs and other sources. Requirements for the business market include portability, compatibility with multiple software and hardware applications and features that ensure simple operation. In education environments ranging from elementary schools to university campuses, projectors help teachers integrate media-rich instruction into classrooms. Home theater projector systems can drive large-screen displays for content consumption where flat panel displays are either economically not viable or physically incompatible for use. 
+
+Consistent with the trends of other consumer products, digital projectors are increasingly incorporating networking capabilities that enable the sharing of video and other content among multiple devices. This, in turn, is enabling new use models for digital projection in both the education and business environments. For example, one teacher can present the same material simultaneously in multiple classrooms, and students in different classrooms can display and discuss their work. Such connectivity allows instant access to content and sharing of content, which promotes interaction and collaboration among dispersed groups. In the business setting, this connectivity enables teleconferencing and the seamless sharing of content for more effective meetings. 
+
+Core Technologies and Products 
+
+We have developed a portfolio of advanced video algorithms and IP to address a broad range of challenges in digital video. We believe our technologies can significantly improve video quality and will become increasingly important as the popularity of video content consumption grows, and pixel densities, screen size and image quality increase. Our products are designed with a flexible architecture that allows us to combine algorithms and functional blocks of digital and mixed signal circuitry. Accordingly, our technologies can be implemented across multiple products, in combinations within single products and can be applied to a broad range of applications including smartphones, tablets, Ultrabook TM &#32;devices, televisions, monitors and projectors. The majority of our products include one or more technologies to provide optimal high-quality Video Display Processing solutions to our customers, regardless of screen size. 
+
+Our core Video Display Processing technologies include: 
+
+&#8226; 
+
+Halo Free MEMC. &#32;Our proprietary Halo Free MEMC technology significantly improves the performance and viewing experience of any screen by addressing problems such as judder and motion blur. Unlike competitive solutions it also reduces halo effects that are a byproduct of MEMC. Halos are objectionable blurred regions that surround moving objects as the MEMC algorithms try to reconstruct missing image data caused by the concealing and revealing of objects as they pass over or behind one another. Removing halos dramatically improves image quality and is of particular importance on high-resolution displays where artifacts become more visible. 
+
+&#8226; 
+
+Advanced Scaling . &#32;As display resolutions continue to increase, there is a need to convert lower resolution content to higher resolution in order to display content properly. With the latest wave of high-resolution displays, the quality and quantity demands of scaling have increased significantly. Artifacts become more noticeable on these types of displays as they distract from the realism effect. In addition, with the availability of high resolution content lagging behind the availability of high resolution displays, high-quality scaling is required to ensure high resolution displays do not suffer when compared to Full-HD displays of the same size. Our advanced scaling is designed to ensure that up-conversion of lower resolution content is of the highest quality in maintaining the fidelity of image. 
+
+&#8226; 
+
+Mobile Video Display Processing. &#32;We have developed innovative Video Display Processing solutions, that are designed to optimize power consumption for mobile devices. Beyond MEMC and Advanced Scaling, these mobile solutions provide the kind of improvements in color, contrast, sharpness and de-blur that are currently only found in high quality televisions today. Furthermore, this technology can reduce system power consumption and extend battery life. 
+
+&#8226; 
+
+VueMagic and Networked Displays. &#32; With the advent of mobile devices being used in business, education and consumer environments, we believe there is a growing need to connect to displays wirelessly for sharing and collaboration. VueMagic uses our networking technology to enable the same video stream to be networked across multiple displays for applications such as connected video projection and digital signage. VueMagic provides interactive features for annotation and display control, and unlike other solutions, is device and operating system independent. 
+
+Our product development strategy is to leverage our expertise in Video Display Processing to address the evolving needs of the advanced flat panel display, digital projection and other markets that require superior image quality. We plan to continue to focus our development resources to maintain position in the market and provide leading edge solutions for the advanced digital projection markets and to enhance our video processing solutions for advanced flat panel displays and other emerging markets. Additionally, we plan to leverage our research and development investment into products that address high-value markets, such as mobile, where our innovative proprietary technology provides differentiation and system power saving benefits. We deliver our technology in a variety of offerings, which take the form of single-purpose chips, highly integrated SoCs that incorporate specialized software, full solutions incorporating software and other tools and IP cores that allow our technology to be incorporated into third party solutions. 
+
+Our primary video display processor product categories include the following: 
+
+&#8226; 
+
+ImageProcessor ICs . Our ImageProcessor ICs include embedded microprocessors, digital signal processing technology and software that control the operations and signal processing within high-end display systems such as projectors and high-resolution flat panels. ImageProcessor ICs were our first product offerings and continue to comprise the majority of our business. We have continued to refine the architectures for optimal performance, manufacturing our products on process technologies that align with our customers&#8217; requirements. Additionally, we provide a software development environment and operating system that enables our customers to more quickly develop and customize the "look and feel" of their products. 
+
+&#8226; 
+
+Video Co-Processor ICs . Products in this category work with an image processor to post-process video signals to enhance the performance or feature set of the overall video solution (for example, by significantly reducing judder and motion blur). Our Video Co-Processor ICs can be used with our ImageProcessor ICs or with image processing solutions from other manufacturers, and in most cases can be incorporated by a display manufacturer without assistance from the supplier of the base image processor. This flexibility enables manufacturers to augment their existing or new designs to enhance their video display products. 
+
+&#8226; 
+
+Networked Display ICs . Our Networked Display ICs allow the same video stream to be networked across multiple displays, for example to connect projectors in different classrooms or to enable networked streaming of video in digital signage applications. Our Networked Display IC combines video sharing capabilities with video image processing, wireless connectivity and Internet connection to ensure high quality, multi-source video output and enhanced value to our projection display customers. 
+
+Customers, Sales and Marketing 
+
+The key focus of our global sales and marketing strategy is to achieve design wins with industry leading branded manufacturers in our target markets and to continue building strong customer relationships. Once a design win has been achieved, sales and marketing efforts are focused on building long-term mutually beneficial business relationships with our customers by providing superior technology and reducing their costs, which complements our customers&#8217; product development objectives and meets their expectations for price-performance and time to market. Marketing efforts are focused on building market-leading brand awareness and preference for our solutions. 
+
+We utilize direct sales and marketing resources in China, Japan, Korea, Taiwan, and the U.S. as well as indirect resources in several regions. In addition to sales and marketing representatives, we have field application engineers who provide technical expertise and assistance to manufacturing customers on final product development. 
+
+Our global distribution channel is multi-tiered and involves both direct and indirect distribution channels, as described below: 
+
+&#8226; 
+
+Distributors. &#32;Distributors are resellers in local markets who provide engineering support and stock our semiconductors in direct relation to specific manufacturing customer orders. Our distributors often have valuable and established relationships with our end customers, and in certain countries it is customary to sell to distributors. While distributor payment to us is not dependent upon the distributor&#8217;s ability to resell the product or to collect from the end customer, our distributors may provide longer payment terms to end customers than those we would offer. Sales to distributors accounted for 48% , 63% &#32;and 65% &#32;of revenue in 2015, 2014 and 2013, respectively. 
+
+Our largest distributor, Tokyo Electron Device Ltd. ("TED"), is located in Japan. TED represented more than 10% of revenue in each of 2015, 2014 and 2013, and accounted for more than 10% of accounts receivable as of December 31, 2015 and 2014. Bright Creation Technologies, Ltd. ("BCT"), is a distributor located in Hong Kong. BCT represented more than 10% of revenue in 2013. No other distributor accounted for more than 10% of revenue in 2015, 2014 or 2013. 
+
+We also have distributor relationships in China, Europe, Korea, Southeast Asia, Taiwan and the U.S. 
+
+&#8226; 
+
+Direct Relationships. &#32;We have established direct relationships with companies that manufacture high-end display systems. Some of our direct relationships are supported by commission-based manufacturers&#8217; representatives, who are independent sales agents that represent us in local markets and provide engineering support but do not carry inventory. Revenue through direct relationships accounted for 52% , 37% &#32;and 35% &#32;of total revenue in 2015, 2014 and 2013, respectively. 
+
+We have direct relationships with companies falling into the following three classifications: 
+
+&#8226; 
+
+Integrators . &#32;Integrators are original equipment manufacturers who build display devices based on specifications provided by branded suppliers. 
+
+&#8226; 
+
+Branded Manufacturers . Branded manufacturers are globally recognized manufacturers who develop display device specifications, and manufacture, market and distribute display devices either directly or through resellers to end-users. 
+
+&#8226; 
+
+Branded Suppliers . Branded suppliers are globally recognized suppliers who develop display device specifications and then source them from integrators, typically in Asia, and distribute them either directly or through resellers to end-users. 
+
+Revenue attributable to our top five end customers together represented 83% , 60% &#32;and 57% &#32;of revenue in 2015, 2014 and 2013, respectively. End customers include customers who purchase directly from us as well as customers who purchase products indirectly through distributors. Sales to Hitachi Ltd. represented more than 10% of revenue in each of 2015, 2014 and 2013. Sales to Seiko Epson Corporation represented more than 10% of revenue in 2015 and 2014, and accounted for more than 10% of accounts receivable as of December 31, 2015 and 2014. Sales to NEC Corporation represented more than 10% of revenue in each of 2014 and 2013. Sales to Apple Inc. represented more than 10% of revenue in 2013. No other end customer accounted for more than 10% of revenue in 2015, 2014 or 2013. 
+
+Seasonality 
+
+Our business is subject to seasonality related to the markets we serve and the location of our customers. We have historically experienced higher revenue from the digital projector market in the third quarter of the year, and lower revenue in the first quarter of the year, as our Japanese customers reduce inventories in anticipation of their March 31 fiscal year end. 
+
+Geographic Distribution of Sales 
+
+Sales outside the U.S. accounted for approximately 100% , 94% &#32;and 83% &#32;of revenue in 2015 , 2014 &#32;and 2013 , respectively. 
+
+Financial information regarding our domestic and foreign operations is presented in "Note 9: Segment Information" in Part II, Item 8 of this Annual Report on Form 10-K. 
+
+Backlog 
+
+Our sales are made pursuant to customer purchase orders for delivery of standard products. The volume of product actually purchased by our customers, as well as shipment schedules, are subject to frequent revisions that reflect changes in both the customers&#8217; needs and product availability. Our entire order backlog is cancelable, with a portion subject to cancellation fees. In light of industry practice and our own experience, we do not believe that backlog as of any particular date is indicative of future results. 
+
+Competition 
+
+In general, the semiconductor industry is intensely competitive. The markets for higher performance display and projection devices, including the markets for large-screen flat panel displays, mobile devices, digital projectors and other applications demanding high quality video, are characterized by rapid technological change, evolving industry standards, compressed product life cycles and declining average selling prices. We believe the principal competitive factors in our markets are product performance, time to market, cost, functional versatility provided by software, customer relationships and reputation, patented innovative designs, levels of product integration, compliance with industry standards and system design cost. We believe we compete favorably with respect to these factors. 
+
+Our current products face competition from specialized display controller developers and in-house display controller ICs designed by our customers and potential customers. Additionally, new alternative display processing technologies and industry standards may emerge that compete with technologies we offer. 
+
+We also compete with specialized and diversified electronics and semiconductor companies that offer display processors or scaling components. Some of these include Actions Microelectronics Co., Ltd., i-Chips Technologies Inc., Intersil Corporation, Lattice Semiconductor Corporation, MediaTek Inc., Novatech Co., Ltd. Inc., NVIDIA Corporation, QUALCOMM Incorporated, Realtek Semiconductor Corp., Renesas Electronics America, Sigma Designs, Inc., Solomon Systech (International) Ltd., STMicroelectronics N.V., Sunplus Technology Co., Ltd., Texas Instruments Incorporated, and other companies. Potential and current competitors may include diversified semiconductor manufacturers and the semiconductor divisions or affiliates of some of our customers, including LG Electronics, Inc., Matsushita Electric Industrial Co., Ltd., Mitsubishi Digital Electronics America, Inc., NEC Corporation, Samsung Electronics Co., Ltd., ON Semiconductor Corporation, Seiko Epson Corporation, Sharp Electronics Corporation, Sony Corporation, and Toshiba America, Inc. In addition, start-up companies may seek to compete in our markets. 
+
+Research and Development 
+
+Our research and development efforts are focused on the development of our solutions for the mobile device and digital projector markets. Our development efforts are focused on pursuing higher levels of video performance, integration and new features in order to provide our customers with solutions that enable them to introduce market leading products and help lower final systems costs. 
+
+We have invested, and expect to continue to invest, significant resources in research and development activities. Our research and development expense was $24.6 million , $25.3 million &#32;and $20.7 million &#32;in 2015, 2014 and 2013, respectively. During 2013, we received reimbursements related to a co-development arrangement with a customer for costs incurred in connection with our development of an IC product. As a result of the reimbursement, our overall research and development expense was reduced by $3.5 million in 2013. There were no reductions to research and development expense related to co-development arrangements in 2015 or 2014. 
+
+Manufacturing 
+
+Within the semiconductor industry we are known as a "fabless" company, meaning that we do not manufacture the semiconductors that we design and develop, but instead contract with a limited number of foundries and assembly and test vendors to produce all of our wafers and for completion of finished products. The fabless approach allows us to concentrate our resources on product design and development where we believe we have greater competitive advantages. 
+
+See "Risk Factors" in Part I, Item 1A of this Annual Report on Form 10-K for information on risks related to our manufacturing strategy and processes. 
+
+Intellectual Property 
+
+We rely on a combination of nondisclosure agreements and patent, copyright, trademark and trade secret laws to protect the algorithms, design and architecture of our technology. As of December 31, 2015, we held 135 &#32;patents and have 33 &#32;patent applications pending, compared to 130 patents and 34 patent applications pending as of December 31, 2014. These patents relate generally to improvements in the visual display of digital image data including, but not limited to, improvements in image scaling, image correction, automatic image optimization and video signal processing for digital displays. Our U.S. and foreign patents are generally enforceable for 20 years from the date they were filed. Accordingly, our issued patents have from approximately 2 to 17 years remaining in their respective term, depending on their filing dates. We believe that the remaining term of our patents is adequate relative to the expected lives of our related products. 
+
+We intend to seek patent protection for other significant technologies that we have already developed and expect to seek patent protection for future products and technologies as necessary. Patents may not be issued as a result of any pending applications and any claims allowed under issued patents may be insufficiently broad to protect our technology. Existing or future patents may be invalidated, diluted, circumvented, challenged or licensed to others. Furthermore, the laws of certain foreign countries in which our products are or may be developed, manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as do the laws of the U.S. and, thus, make the possibility of piracy of our technology and products more likely in these countries. 
+
+The semiconductor industry is characterized by vigorous protection of intellectual property rights, which have resulted in significant and often protracted and expensive litigation. We, our customers or our foundries from time to time may be notified of claims that we may be infringing patents or other intellectual property rights owned by third parties. Litigation by or against us relating to patent infringement or other intellectual property matters could result in significant expense to us and divert the efforts of our technical and management personnel, whether or not such litigation results in a determination favorable to us. In the event of an adverse result in any such litigation, we could be required to pay substantial damages, cease the manufacture, use and sale of infringing products, expend significant resources to develop non-infringing technology, discontinue the use of certain processes or obtain licenses to the infringing technology. We may not be able to settle any alleged patent infringement claim through a cross-licensing arrangement. In the event any third party made a valid claim against us, our customers or our foundries, and a license was not made available to us on terms that are acceptable to us or at all, we would be adversely affected. 
+
+See "Risk Factors" in Part I, Item 1A, and "Note 6: Commitments and Contingencies" in Part II, Item 8 of this Annual Report on Form 10-K for information on various risks related to intellectual property. 
+
+Environmental Matters 
+
+Environmental laws and regulations are complex, change frequently and have tended to become more stringent over time. We have incurred, and may continue to incur, significant expenditures to comply with these laws and regulations and we may incur additional capital expenditures and asset impairments to ensure that our products and our vendors&#8217; products are in compliance with these regulations. We would be subject to significant penalties for failure to comply with these laws and regulations. 
+
+See "Risk Factors" in Part I, Item 1A of this Annual Report on Form 10-K for information on various environmental risks. 
+
+Employees 
+
+As of December 31, 2015, we had a total of 215 &#32;employees compared to 220 &#32;employees as of December 31, 2014. 
+
+Corporate Information 
+
+Pixelworks was founded in 1997 and is incorporated under the laws of the state of Oregon. Our stock is traded on the NASDAQ Global Market under the symbol "PXLW". 
+
+Availability of Securities and Exchange Commission Filings 
+
+We make available through our website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports and any filings filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act of 1934, free of charge as soon as reasonably practicable after we electronically file or furnish such material with the Securities and Exchange Commission ("SEC"). Our Internet address is www.pixelworks.com. &#32;The content on, or that can be accessed through our website is not incorporated by reference into this filing. Our committee charters and code of ethics are also available free of charge on our website. 
+
+The SEC maintains an Internet site at http://www.sec.gov that contains our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, if any, or other filings filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, proxy and information statements. All reports that we file with the SEC may be read and copied at the SEC&#8217;s Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC, 20549. Information about the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+

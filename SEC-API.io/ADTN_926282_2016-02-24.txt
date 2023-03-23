@@ -1,0 +1,378 @@
+ ITEM 1. BUSINESS 
+
+&#160;
+
+Overview 
+
+ADTRAN, Inc. (ADTRAN) is a leading global provider of networking and communications equipment. Our solutions enable voice, data, video and Internet communications across a variety of network infrastructures. These solutions are deployed by many of the United States&#146; and the world&#146;s largest service providers (SPs), distributed enterprises and small and medium-sized businesses, public and private enterprises, and millions of individual users worldwide. 
+
+We were incorporated under the laws of Delaware in November 1985, and commenced operations in January 1986. We are headquartered in Cummings Research Park in Huntsville, Alabama. The mailing address at our headquarters is 901 Explorer Boulevard, Huntsville, Alabama, 35806. The telephone number at this location is (256) 963-8000. 
+
+Products and Services 
+
+We maintain two operating divisions based on our product and service offerings: the Carrier Networks Division and the Enterprise Networks Division . These divisions serve distinct markets and support sales globally, operating as two reportable segments. Our Carrier Networks product sales accounted for 83.2% of our total revenue in 2015, while Enterprise Networks product sales accounted for 16.8% of total revenue. Sales to countries outside of the United States are included in these aggregate divisional figures, but, when accounted for separately, comprised 30.1% of total revenue. For more financial information about these divisions and geographic areas, see Note 11 to the Consolidated Financial Statements included in this report. 
+
+Our Carrier Networks Division offers broadband and optical infrastructure products and services used by SPs to aggregate, transport, and deliver voice, data, Internet and video services to their customers&#146; premises and mobile network cell sites. These products are typically located in central office (CO) exchanges or outside plant cabinets, infrastructure locations for business services and mobile backhaul networks, and residential and business premises. 
+
+Our Enterprise Networks Division provides cloud connectivity solutions, such as IP business gateways, access routers and switches. Our ProCloud services provide customizable, cloud-management platforms with centralized configuration and firmware management, proactive monitoring and alerts, and quick access to technical experts for 24/7 support. These enterprise communications solutions enable businesses to develop voice, data, Internet and video networks at a single customer premises or among multiple sites. Enterprise Networks products are sold through SPs in the form of bundled business services and solutions resale, as well as through value-added resellers (VARs). 
+
+Both of our divisions compete in the global communications industry, specifically, in the areas of Ethernet and Internet Protocol (IP)-based networks. As SPs and enterprises continue to transition to all IP-based networks, our access solutions enable them to cost-effectively deliver and scale higher-bandwidth video and data services. We continue to develop and improve broadband and fiber solutions in our core product areas &#150; Broadband Access, Optical, and Internetworking &#150; as SPs begin to offer wide-scale Internet services up to 1 Gigabit and higher in a cost-effective manner. 
+
+For a discussion of risks associated with our products see &#147;Risk Factors &#150; We must continue to update and improve our products and develop new products in order to compete and to keep pace with improvements in communications technology&#148;, and &#147;Risk Factors &#150; If our products do not interoperate with our customers&#146; networks, installations may be delayed or cancelled, which could harm our business&#148;, in Item 1A of this report. 
+
+Broadband Access Infrastructure for Advanced Services 
+
+SPs have historically deployed specific, independent networks to meet the needs of their residential, enterprise, and mobile backhaul customers, resulting in an overlay of disparate networks. SPs are now being challenged to deliver Gigabit-ready residential services, widely available high-bandwidth cloud connectivity services for enterprise customers, and scalable Ethernet and optical networking for mobile backhaul and data center connectivity, all requiring varying service level agreements (SLAs) and simplified service automation. It is becoming impractical to continue the proliferation of separate overlay networks to address each of these market segment needs. In response to this demand, we see SPs making a fundamental shift toward IP network convergence. Communications SPs have four fundamental network priorities: (1) high-capacity residential services, (2) enterprise services, (3) the expansion of fourth-generation mobile/Long Term Evolution (4G/LTE) and carrier-based Wi-Fi networks, and (4) data center connectivity for cloud services. 
+
+&#160;
+
+These fundamental priorities are driving communication network operators to transition their networks to a single all-fiber, cloud-controlled and software defined future state for large-scale converged service delivery. SPs plan to support the full range of residential, enterprise, and mobile backhaul requirements over a common, next-generation network capable of providing each segment&#146;s advanced service management. We believe that we are well-positioned to deliver flexible network solutions that enable network operators to meet today&#146;s service demands, while enabling the transition to fully converged, scalable, highly automated, cloud-controlled voice, data, Internet and video network of the future. 
+
+Software-Defined Networks (SDN) and Network Functions Virtualization (NFV) 
+
+SDN and NFV are two key technologies that are enabling service providers and enterprises to create more agile, programmable networks. SDN enables highly scalable network programmability to help facilitate service automation. NFV virtualizes functions typically performed in proprietary hardware and moves them into software functions that run on general purpose hardware. The combination of these two technologies enables a long-term vision of user-driven networks where subscribers can activate a wide range of sophisticated services on-demand. 
+
+We will continue to apply SDN and NFV to our product and service offerings moving forward. In particular, we will use these technologies to provide end-to-end service automation of our solutions and third party devices. This capability will enable service providers to speed up the time to market for new service introduction, while providing a platform on which they can monetize new managed service offerings enabled by technologies like the Internet of Things. 
+
+Major Product Categories 
+
+Our three major product categories are Carrier Systems, Business Networking, and Loop Access. 
+
+Carrier Systems products are used by communications SPs to provide data, voice, Internet and video services to consumers and enterprises. This category includes the following product areas and related services: 
+
+&#160;
+
+&#160; &#149; &#160; Broadband Access &#160;
+
+&#160; &#149; &#160; Total Access &#174; 5000 Series of Multi-Service Access Node (MSANs) &#160;
+
+&#160; &#149; &#160; hiX 5600 Series of MSANs &#160;
+
+&#160; &#149; &#160; Total Access 1100/1200 Series of Fiber to the Node (FTTN) products &#160;
+
+&#160; &#149; &#160; hiX 1100 Series of FTTN products &#160;
+
+&#160; &#149; &#160; VDSL2 Vectoring based Digital Subscriber Line Access Multiplexer (DSLAM) products &#160;
+
+&#160; &#149; &#160; ADTRAN 500 Series of FTTdp G.fast Distribution Point Units (DPU) &#160;
+
+&#160; &#149; &#160; Optical &#160;
+
+&#160; &#149; &#160; Optical Networking Edge (ONE) &#160;
+
+&#160; &#149; &#160; NetVanta &#174; 8000 Series of Fiber Ethernet Access Devices (EAD) &#160;
+
+&#160; &#149; &#160; NetVanta 8400 Series of 10Gig Multi-service Edge Switches &#160;
+
+&#160; &#149; &#160; OPTI-6100 &#174; and Total Access 3000 optical Multi-Service Provisioning Platforms (MSPP) &#160;
+
+&#160; &#149; &#160; Pluggable Optical Products, including Small Form Factor Pluggable (SFP), 10-Gigabit Fiber Small Form Factor Pluggable (XFP), and SFP+ &#160;
+
+&#160; &#149; &#160; Time Division Multiplexed (TDM) systems Business Networking products provide access to communication services and facilitate the delivery of cloud connectivity and enterprise communications to the small and mid-sized enterprise (SME) market. This category includes the following product areas and related services: 
+
+&#160;
+
+&#160; &#149; &#160; Internetworking products &#160;
+
+&#160; &#149; &#160; Total Access IP Business Gateways &#160;
+
+&#160; &#149; &#160; Optical Network Terminals (ONTs) &#160;
+
+&#160; &#149; &#160; Bluesocket &#174; virtual Wireless LAN (vWLAN &#174; ) &#160;
+
+&#160; &#149; &#160; NetVanta &#160;
+
+&#160; &#149; &#160; Access Routers &#160;
+
+&#160; &#149; &#160; Enterprise Session Border Controllers (eSBC) &#160;
+
+&#160; &#149; &#160; Managed Ethernet Switches &#160;
+
+&#160; &#149; &#160; IP Business Gateways &#160;
+
+&#160; &#149; &#160; Unified Communications (UC) solutions &#160;
+
+&#160; &#149; &#160; Carrier Ethernet Network Termination Equipment (NTE) &#160;
+
+&#160; &#149; &#160; Carrier Ethernet Routers and Gateways &#160;
+
+&#160; &#149; &#160; Network Management Solutions &#160;
+
+Loop Access products are used by carrier and enterprise customers for access to copper-based communications networks. This category includes the following product areas and related services: 
+
+&#160;
+
+&#160; &#149; &#160; High bit-rate Digital Subscriber Line (HDSL) products &#160;
+
+&#160; &#149; &#160; Digital Data Service (DDS) &#160;
+
+&#160; &#149; &#160; Integrated Services Digital Network (ISDN) products In addition, we identify subcategories of product revenues, which we divide into Core products and Legacy products. Our Core products consist of Broadband Access and Optical products (included in Carrier Systems) and Internetworking products (included in Business Networking). Our Legacy products include HDSL products (included in Loop Access) and other products not included in the aforementioned core products. 
+
+Carrier Networks Division 
+
+Carrier SPs are focused on accelerating the delivery of revenue-generating broadband, business and mobile services, while also streamlining and automating their networks. We develop and provide the flexible, next-generation access solutions that allow SPs to reduce network costs and expedite the delivery of their services. This enables them to connect greater numbers of customers at ever-increasing speeds and with better quality, thus allowing for new revenue generation and decreased customer churn. Our Carrier Networks Division provides the network access products, services and support that SPs require to connect customers to their core transmission and switching networks. Specifically, we deliver broadband solutions that enable high-speed digital services. Our customer base includes many of the major SPs in the United States and around the globe, including Incumbent Local Exchange Carriers (ILECs), Public Telephone and Telegraph companies (PTT), Competitive Local Exchange Carriers (CLECs), and Cable Multi-service Operators (MSOs), as well as many U.S.-based independent operating companies, utilities, municipalities and wireless SPs. We are a global solutions provider, with major customers in North America, the Europe, Middle East and Africa (EMEA) region, Latin America, Australia, and other regions of the world. 
+
+Our products and services provide a complete end-to-end solution for carriers by supporting both new fiber-based infrastructure and enabling them to reuse their existing copper infrastructure, thus lowering their overall cost to deploy advanced Ethernet services. Carrier services enabled using our Ethernet-based systems include traditional voice services, VoIP, IPTV, RF Video, high-speed Internet access, mobile broadband and data services based on Ethernet, frame relay, TDM and ATM technologies. These carrier services connect the network with user components such as switches, routers, gateways, PBXs and wireless LAN products. Our devices are deployed at business sites, making it possible for carriers to provide Ethernet services to SMEs and distributed enterprises. 
+
+Products marketed under the Total Access and hiX brands are platforms that can accommodate the demand for a variety of high-speed Internet, voice, data and video services from businesses and residential customers. Our Total Access product portfolio is focused on the American National Standards Institute (ANSI) markets for residential and business broadband applications and global markets for Carrier Ethernet and Packet Optical applications. Our hiX product portfolio is focused on the European Telecommunications Standards Institute (ETSI) markets for residential and business broadband applications and is deployed in central exchanges, outside plant cabinets or multi-tenant units. These modular, scalable and geographically distributed products offer advantages such as lower start-up costs, more flexible service deployment, greater network interface options, increased bandwidth, grow-as-you-go modularity and centralized network management. Our products connect to fiber optic and copper network backbones, making them suitable for installation in many parts of the network and enabling deployment of a wide range of data, voice, Internet and video services around the world. 
+
+In the United States, the Total Access products, as well as a variety of other ADTRAN products, are accepted by the USDA Rural Utilities Service (RUS) as suitable for use in RUS-financed communications systems. Deployed in COs, remote terminals, or multi-tenant units, the Total Access system encompasses carrier-class solutions for fiber and copper broadband multi-service access, DSL access, Carrier Ethernet access and narrowband multi-service access. 
+
+Advanced IP Services 
+
+Our broadband access products offer SPs the ability to increase bandwidth and improve the quality of services to customers. These products are used in high-density CO applications, fiber-fed remote terminals and outside plant deployments, providing support for Ethernet delivery of advanced IP services over fiber or copper, as well as legacy TDM and ATM networks. Our broadband access products are available in models that are temperature-hardened for use in harsh, outside-plant environments. 
+
+&#160;
+
+High-speed Residential Services 
+
+Designed with fiber deployment in mind, our Total Access 5000 Series provides high-capacity switching and bandwidth for Fiber-to-the-Premises (FTTP) services based on advanced optical standards. It also provides other ultra-broadband services based on advanced copper technologies used in Fiber-to-the-Node, Cabinet or distribution point (FTTN/FTTCab/FTTdp). FTTP networks are typically based on the Gigabit Passive Optical Networks (GPON) standard, which have two key network components: the Optical Line Terminal (OLT) and the customer-side Optical Network Terminal (ONT). The OLT is typically located in communications exchanges and other network COs within MSANs. The OLT provides Gigabit levels of shared or dedicated bandwidth across thousands of subscribers, enabling the delivery of advanced solutions like IPTV across an all-Ethernet architecture. On the other end of the FTTP network in every subscriber&#146;s home is a provider-owned ONT that terminates the fiber optics from the OLT and converts the optical signals to electric signals, enabling the in-home network to deliver voice, data, Internet and video services. Customer-owned connected devices, such as computers, typically utilize Ethernet, a standard networking technology, making an all-Ethernet solution preferable. Our portfolio of ONTs, including the Total Access 300 Series, and next-generation ADTRAN 400 and 500 Series ONTs provides carriers with a widely differentiated set of service delivery options for residential, business and mobile backhaul opportunities. 
+
+To accelerate the penetration of 100Mbps and Gigabit services at the lowest cost per bit deployed, both the Total Access and hiX-based platforms allow SPs to deliver ultra-broadband speeds over their existing copper infrastructure using established VDSL2 vectoring and emerging G.fast technologies. These high-speed access technologies economically provide broadband connections to customers&#146; homes, enabling the SPs&#146; delivery of advanced communications and entertainment services that are being demanded by customers. Capabilities like our VDSL2 vectoring, a cross-talk cancellation technology that expands typical 30 &#150; 50Mbps DSL rates to 100Mbps or more per pair, are actively being deployed to help SPs overcome the challenges of using existing copper facilities to compete with 100Mbps and higher service offerings without the need to invest in and/or overcome the access obstacles often associated with end-to-end FTTP networks. 
+
+To further enhance the competitiveness of operators using FTTCab and FTTdp architectures, we have more than 60 G.fast ultra-broadband trials underway with SPs in EMEA, North America, Latin America, and Asia-Pacific. The trials demonstrate that G.fast is quickly moving from a technology concept to a commercial reality supported by a portfolio of FTTdp environmentally sealed platforms. ADTRAN&#146;s G.fast solutions are enabling SPs to address the unique and varied deployment scenarios encountered where fiber-to-the-home (FTTH) is cost prohibitive, particularly in Multiple Dwelling Units (MDUs). 
+
+The Total Access 1100 and hiX 1100 Series of environmentally sealed broadband access products provide an innovative approach to the successful deployment of Fiber-to-the-Node (FTTN) architectures. Recognizing the technological and economic barriers of traditional cabinet-based DSL deployments, we designed this series of products to eliminate the need for expensive cabinet enclosures, heat exchangers and site construction, which account for a large portion of the total cost of deployment. In many cases, 1100 Series DSLAMs can deliver services for significantly less than traditional cabinet-based systems. This flexibility, combined with VDSL2 with system-level vectoring, allows carriers to economically utilize the capacity of existing copper networks over the &#147;last mile&#148;. 
+
+The hiX 5600 Series leverages the latest technology in next-generation VDSL2 vectoring as a residential MSAN in ETSI markets to deliver high-density DSL and voice technologies. hiX 5600 Series MSANs also support residential point-to-point fiber applications. Additionally, hiX platforms offer a comprehensive voice feature set for ETSI markets. 
+
+Business Ethernet Services 
+
+Business Ethernet is growing with the proliferation of packet-based infrastructure in both enterprise and carrier networks. The implementation of Ethernet throughout the communications network provides benefits in both equipment and operational savings. While Gigabit speeds are increasingly becoming available throughout the access network, they are far from being widespread. Ethernet&#146;s growing presence throughout the network is driving costs down, resulting in increasing availability to business customers. We provide Metro Ethernet Forum (MEF)-compliant products that enable the delivery of these services. 
+
+We have a complete portfolio of solutions for Business Ethernet services utilizing Fiber (EoF), Copper (EoCu) and TDM (EoTDM), enabling cost-effective business Ethernet service delivery across a variety of network infrastructures. The Total Access 5000 supports standards-based copper pair bonding of xDSL loops for direct Ethernet service delivery. Leveraging a complete end-to-end solution with NetVanta 800, NetVanta 8000 and NetVanta 8400 Series network termination equipment, the Total Access 5000 and hiX 5600 offer an innovative approach for the delivery of Ethernet services by aggregating bonded copper, bonded circuits, and fiber, while supporting multi-megabit rates for MEF-certified carrier Ethernet circuits. This combination allows carriers to offer Ethernet services across their entire network, enabling new revenue-generating services for businesses. 
+
+Packet Optical Networking, Optical Access and Optical Transport 
+
+Mobile networks that were originally built for voice communications are now being optimized for data applications, putting strain on the mobile backhaul network. With the introduction of carrier-class Ethernet technologies, operators can now take advantage of fiber facilities to achieve the highest traffic-carrying capacity utilization of their embedded investment and provide a network migration path toward an all-packet network. We have integrated EoF in the Total Access 5000 and NetVanta 8000/8400 platforms to offer a scalable solution that supports service migration as providers strive to meet the customer demand for greater bandwidth. EoF is an ideal transport method for mobile backhaul networks, enabling long-haul reach to residential and business networks as wireless needs continue to grow. 
+
+&#160;
+
+Our ONE products enables integrated optical transport solutions and high-performance packet optical services at the network edge. ONE solutions combine right-sized core packet optical networking like miniature Reconfigurable Optical Add Drop Multiplexer (mini-ROADM), Wave Division Multiplexing (WDM), Scalable Carrier Ethernet, Optical Transport Network (OTN), and SONET/SDH with high-speed access services in the Total Access 5000 Series of MSANs. ONE modules fit into the Total Access 5000 Series to deliver integrated access, aggregation and transport, allowing SPs to simplify service delivery and network operation to improve profitability. Specifically, ONE enables SPs to deliver, aggregate, and transport carrier-grade services, including multiple 10Gbps interfaces. The ONE portfolio supports agile photonics and tunable pluggable optics. These advancements provide operators with a flexible, efficient and scalable network architecture, improving their market responsiveness and speeding the transition from circuit-based to packet optical services. 
+
+The NetVanta 8400 Series 10G Multi-service Edge Switch has achieved MEF Carrier Ethernet 2.0 (CE2.0) certification. MEF CE2.0 compliance ensures support for SLA-based Carrier Ethernet services, a critical requirement for SPs looking to support Gigabit services in MDU environments. The coexistence of commercial and residential customers presents the opportunity to converge premium Gigabit services across a range of market verticals from Gigabit broadband to 1 GE and 10 GE SLA-based services for both business cloud connectivity and small-cell backhaul segments. 
+
+One of the challenges presented in the MDU environment is how to preserve a high-quality experience as Gigabit services converge for multiple vertical markets. As high-bandwidth services are delivered over the access network, the effective aggregation of those services is required. Network operators are, as a result, deploying both fiber-based access and packet-optical aggregation solutions closer to the customer edge to support both inter- and intra-building premium service delivery and aggregation. This enhanced scalability and quality assurance allows carriers to expand services to address gaps in mobile services coverage that can be found in high-rise residential and commercial buildings. These MDUs are ideal targets for small cell deployments that require 50-100 Mbps, scalable to 1 GE, of specialized backhaul access from multiple locations in a building. 
+
+All of these products enable wireless and wireline SPs to more efficiently handle network traffic by consolidating multiple circuits into a single facility, upgrading their networks to support next-generation services, and improving backhaul efficiency. These devices provide a migration path from TDM systems to Ethernet/IP networks and also support techniques for bonding multiple physical circuits into a single virtual circuit. 
+
+Service and Support 
+
+In addition to our product portfolio and standard pre-sales and post-sales technical support, our Carrier Networks Division provides customers with a full-range of network implementation, maintenance and management services. Our network implementation service offerings include engineering, site preparation, cabinet placement, installation, configuration, turn-up and test, training, project management services, and fully engineered pre-assembled, wired rack and cabinet assemblies. Our maintenance services are specifically designed to protect customers&#146; networks from unnecessary downtime through services such as managed spares, extended warranty, and remote or on-site technical support beyond our standard warranty coverage. Management services facilitate remote management and monitoring of SP networks. 
+
+Network and Services Management 
+
+As communications solutions and networks become more complex, the need for carrier-class management systems becomes vital to ensure operational efficiencies. A system-level view is necessary, and service awareness is increasingly important. We develop and support systems to centralize and automate the configuration, provisioning and management of our network access products. These systems are used to configure, monitor and control ADTRAN equipment installed in the network and ensure communication with the SP&#146;s central management system to reduce technician dispatches and operating costs. Our Advanced Operational Environment (AOE) products provide integrated, end-to-end, service-aware network management tools that enhance network planning, service activation, service assurance and decision support tools for our customers&#146; operations. 
+
+Enterprise Networks Division 
+
+Our Enterprise Networks Division delivers a full portfolio of networking and communications solutions tailored for small and medium-sized businesses, as well as distributed enterprises. Our portfolio includes Cloud Connectivity solutions, such as IP business gateways and access routers, which provide business access to SP networks, and Enterprise Communications solutions, enabling businesses to construct voice, data and video networks at a single site or among distributed sites. These products are sold through SPs in the form of bundled business services and solutions resale and through VARs. 
+
+&#160;
+
+With the increased speed, capacity and availability of broadband services to businesses and the proliferation of mobile broadband devices such as smartphones and tablets, both SPs and enterprises are rapidly migrating to cloud-based services and wireless solutions for their communications and networking needs. Businesses of all sizes are increasingly using the cloud for voice, data, video, computing, storage and applications. As business workers adopt mobile devices both inside and outside the physical office, convergence with fixed VoIP and UC solutions are emerging. Wireless networks in the enterprise are beginning to converge with wired networks. This wireless-wireline convergence, along with the merging of voice, data, and messaging from any location or device, results in increased employee efficiency and productivity. Our Enterprise Networks Division is addressing these major market shifts by focusing on solutions in two key areas: Cloud Connectivity and Enterprise Communications. 
+
+Cloud Connectivity 
+
+Our Cloud Connectivity solutions, including our Total Access and NetVanta IP Business Gateway (IPBG) and NetVanta Access Router products, empower SPs to deliver hosted and bundled service offerings that connect businesses to the public or private cloud. Service offerings that are delivered utilizing our Cloud Connectivity solutions include: Hosted Voice and UC, Hosted Wireless Local Area Networking (WLAN), Business Internet Access, MEF-compliant Carrier Ethernet, Private Network, Session Initiation Protocol (SIP) Trunking, Enterprise Session Border Control (eSBC) functionality, Managed UC, and SIP Trunking with PBX. Enterprise Network Division solutions offered as key elements of these SP business bundles include our Cloud Connectivity portfolio of IPBGs and Access Routers (used to provide connectivity to the business location), and our Enterprise Communications portfolio of vWLAN, and Ethernet Switches (used to provide the business productivity component of the SP bundled services). 
+
+Our Total Access, NetVanta IPBGs and NetVanta Access Routers are deployed by SPs at the demarcation point of the customer premises. An IPBG combines the functionality of a voice gateway, multiservice router, eSBC, SIP Proxy, and firewall into a single device. Our products offer an integrated, cost-effective platform for delivering cloud services to enterprise customers. Our multiservice routers move data between networked computers over public or private IP, Frame Relay, Multi-Protocol Label Switching (MPLS) leased-line infrastructures, and carrier-supplied Ethernet services. These devices provide features to route traffic between multiple destinations, secure the network against cyber-attacks, ensure the privacy of data as it is transported across the Internet, and restore communications in the event of equipment or network failure. Our multiservice routers provide Internet access and interconnect corporate locations. The NetVanta router portfolio, provided in modular and fixed-port configurations, offers an assortment of business-class features including: Quality of Service (QoS), Firewall, VPN, Network Performance Monitoring, Packet Capture, eSBC, SIP Proxy, Voice Quality Monitoring (VQM), and numerous MEF-compliant Carrier Ethernet features. 
+
+Enterprise Communications 
+
+Our Enterprise Communications solutions are premises-based and enable businesses to become more productive and capable through efficient communications. We provide enterprises with solutions from the network edge to the desktop that create business efficiency and capability while driving employee productivity. Our Enterprise Communications solutions simplify network support and ensure ease of scalability, all while lowering the Total Cost of Ownership (TCO). These solutions include unified communications and wireless and wireline LAN infrastructure solutions. 
+
+Our Bluesocket vWLAN solutions deliver endpoints across the enterprise by utilizing virtualized, cloud-based solutions for connectivity, communications and collaboration. With the proliferation of smart phones, tablets and wireless devices, end-users are now dictating which devices should be supported across the enterprise. This Bring Your Own Device (BYOD) trend has forced the proliferation of wireless connectivity campus wide and is no longer limited to conference rooms and building lobbies. Users now expect to be able to roam across the enterprise campus while maintaining a persistent IP session to support voice, video and other wireless applications without interruption. Bluesocket vWLAN solutions allow users to access enterprise resources anytime, anywhere, on any device and deliver a unified service experience. These solutions leverage the scalability, reliability and cost benefits of virtualization and are cloud-ready for easy deployment and management and complement our portfolio of internetworking solutions. 
+
+Our NetVanta managed Layer 2 and Layer 3 (L2/L3) Ethernet switches complement our Bluesocket vWLAN solutions, providing integrated wireless/wireline LAN deployments and connectivity from the Wide Area Network (WAN) to the end user&#146;s desktop computer and IP Phone. Our managed L2/L3 switches offer speeds up to 10 Gigabits per second and include Power over Ethernet (PoE) options for powering IP phones, wireless network access points, IP cameras and other critical business networking devices. 
+
+Common Internetworking Software 
+
+We view the continued development and evolution of our internetworking software as critical to our success in bringing feature-rich, reliable solutions to market. As such, our internetworking software is common across many of our products, optimizing our product development resources and minimizing time to market for new products and features. It also ensures common configuration practices, policies, protection schemes, and management interfaces for our carrier customers providing an advantage from a TCO perspective. 
+
+&#160;
+
+Configuration and Network Management 
+
+We develop and support network productivity tools and systems to centralize the configuration and management of our internetworking products. These tools aid in the management of networks powered by our internetworking products and include the nCommand Managed Service Provider (MSP) management platform. nCommand MSP streamlines SPs&#146; product life cycle management efforts including remote monitoring and management of NetVanta or Total Access solutions. A web-based platform, nCommand MSP simplifies new device deployment and enables MSPs, SPs and enterprise IT organizations to deliver on SLAs, improve customer service response time, reduce network downtime and proactively monitor and report network performance, all while reducing operational costs. 
+
+Service and Support 
+
+In addition to our product portfolio, we offer a variety of services and support options to ensure we are responsive to customers who deploy our networking and infrastructure solutions. We offer pre-sales and post-sales technical support and a variety of training options. We also offer a complete portfolio of professional services within our ProServices &#174; offering. We offer ProStart &#174; installation and ProCare &#174; maintenance services designed to protect customers&#146; networks from unnecessary downtime. ProCare guarantees priority access to technical support engineers and offers five different maintenance programs ranging from five days-a-week, eight hours-a-day and next business day equipment replacement to seven days-a-week, 24 hours-a-day and equipment replacement within four hours of notification. Our service and support offerings are available to all of our customers. 
+
+In 2015, we continued to add customers for both our ProCloud and ProCloud Plus cloud-based managed service offerings. ProCloud offers a managed, business-class networking infrastructure supporting wireless LAN and other networking needs. ProCloud offers a 7x24 service, providing network monitoring and management reports to reduce IT support burdens. When coupled with ProStart and ProCare, our ProCloud service offers turnkey installation, maintenance, and management. 
+
+Customers 
+
+We have a diverse customer base, which is segmented based on the markets served and typically within each of our two divisions. 
+
+Customers of our Carrier Networks Division include major SPs, independent communications operating companies, competitive service providers, cable MSOs, Internet service providers, utilities, municipalities and wireless service providers. Major SPs and many smaller providers require product approval prior to adopting a vendor&#146;s products for use in their networks. We are involved in a constant process of submitting new and succeeding generations of products for approval. Our products are widely deployed in many SP networks. 
+
+Customers of our Enterprise Networks Division include major SPs, cable MSOs, independent communications companies and competitive service providers. Additionally, SME organizations purchase our solutions through a two-tier distribution channel. The two-tier distribution channel is comprised of several large distributor partners and an extensive network of VARs as described in &#147;Distribution, Sales and Marketing&#148; below. Vertical markets where our solutions are used include retail, food service, healthcare, finance, government, education, manufacturing, military, transportation, hospitality and energy/utility. 
+
+Three customers, CenturyLink, Inc., Deutsche Telekom, AG, and Windstream Corporation, individually comprised more than 10 percent of our revenue in 2015. The revenues from these customers are reported in both the Carrier Networks and Enterprise Networks segments. 
+
+For a discussion of risks associated with customers, SPs and approval processes, see &#147;Risk Factors &#150; The lengthy sales and approval process required by major and other SPs for new products could result in fluctuations in our revenue&#148;, &#147;Risk Factors &#150; We depend heavily on sales to certain customers; the loss of any of these customers would significantly reduce our revenues and net income&#148;, and &#147;Risk Factors &#150; Consolidation and deterioration in the competitive SP market could result in a significant decrease in our revenue&#148;, in Item 1A of this report. 
+
+Distribution, Sales and Marketing 
+
+We sell our Carrier Networks Division products globally through our direct sales organization and our distribution network. Our direct sales organization supports major accounts and has offices in a number of domestic and international locations. Sales to most competitive SPs and independent telephone companies are fulfilled through a combination of direct sales and major technology distribution companies. 
+
+Prior to placing any orders, SPs typically require lengthy product qualification and standardization processes that can extend for several months or years. Once approved, product orders are typically placed under single or multi-year supply agreements that are generally not subject to minimum volume commitments. SPs generally prefer having two or more suppliers for most products, so individual orders are usually subject to competition based on some combination of total value, service, price, delivery and other terms. 
+
+&#160;
+
+Similar to Carrier Networks products, Enterprise Networks Division products are fulfilled through a combination of direct sales and major technology distribution companies. This is supported by a direct sales organization for major accounts and a channel-based sales organization to facilitate sales to our partners. VARs and system integrators may be affiliated with the company as a channel partner, or they may purchase from a distributor in an unaffiliated fashion. Affiliated partners participate with us at various program levels, based on sales volume and other factors, to receive benefits such as product discounts, market development funds, technical support and training. We maintain field offices worldwide to support direct sales, distributors, VARs and system integrators. 
+
+Outside of the United States, most Carrier Networks products are sold through our direct sales organization, and Enterprise Networks products are sold direct or through distribution arrangements customized for each region. Each region is supported by a field office that offers sales and support functions, and in some cases, warehousing and manufacturing support. 
+
+Our field sales organizations, distributors, and SP customers receive support from regional-based marketing, sales, and customer support groups. Under certain circumstances, other headquarters personnel may be involved in sales and other activities. 
+
+Research and Development 
+
+Rapidly changing technologies, evolving industry standards, changing customer requirements, and continuing developments in communications service offerings characterize the markets for our products. Our on-going ability to adapt to these changes and to develop new and enhanced products that meet or anticipate market demand is a significant factor influencing our competitive position and our prospects for growth. 
+
+During 2015, 2014, and 2013, product development expenditures totaled $129.9 million, $132.3 million, and $131.1 million, respectively. Our product development activities are an important part of our strategy. We plan to maintain an emphasis on product development each year to respond to rapidly changing technology and evolving industry standards. 
+
+We strive to deliver innovative network access solutions that lower the total cost of deploying services, increase the level of performance achievable with established infrastructures, reduce operating and capital expense for our customers, increase network bandwidth and functionality, and extend network reach. Our development process is conducted in accordance with ISO 9001, TL 9000, and ISO 14001, which are international standards for quality and environmental management systems. 
+
+While we develop most of our products internally, in some cases we license intellectual property (IP) or use Original Design Manufacturer (ODM) partners across certain products. Internal development on advanced technology products gives us more control over design and manufacturing issues, while for traditional designs, ODM and/or licensed IP gives us the ability to leverage the economies of scale of our technology partners. This balanced approach in product development ensures we provide a &#147;best in class&#148; approach to our customers. 
+
+As we continue to create more software-based IP, such as our SDN/NFV portfolio, our use of &#147;Agile Development Methodologies&#148; ensures we remain responsive and customer-focused. 
+
+Our ability to continually reduce product costs is an important part of our overall business strategy. Our product development efforts are often centered on entering a market with improved technology, allowing us to offer products at competitive prices. We then compete for market share. We continually re-engineer successive generations of the product to improve our product costs. 
+
+Product development activities focus on products to support both existing and emerging technologies in the communications industry in segments of our markets that we consider viable revenue opportunities. We are actively engaged in developing and refining technologies to support data, voice, and video transport primarily over IP/Ethernet network architectures. This includes Ethernet aggregation, fiber optic transport and access, DSL access, access routing, Ethernet switching, wireless LANs, integrated access, converged services, VoIP, network management, and professional services. 
+
+A centralized research function supports product development efforts throughout the company. This group provides guidance to our various product design and engineering teams in digital signal processing technologies, computer simulation and modeling, CAD/CAM tool sets, custom semiconductor design, optical transceiver design, industry standards, and technological forecasting. 
+
+Many communications issues, processes and technologies are governed by Standards Development Organizations (SDOs). These SDOs consist of representatives from various manufacturers, SPs and testing laboratories working to establish specifications and compliance guidelines for emerging communications technologies. We are an active participant in several SDOs and have assisted with the development of worldwide standards in many technologies. 
+
+&#160;
+
+Our SDO activities are primarily in the area of broadband access. This includes involvement with the ITU-Telecommunications sector (ITU-T), ATIS, ETSI, NICC (UK Interoperability Standards), and the Broadband Forum (BBF). We continue to be involved in the evolution of optical access technologies, participating in activities in the ITU-T, FSAN, and BBF on next-generation PON. We are also involved in standards development efforts related to maximizing the bandwidth potential of the copper pair to enable new applications. We participate in the ITU-T, and are currently involved in projects to enhance G.fast and specify a new symmetric 10 gigabit PON, XGS PON. We continue to be involved with the industry-wide interoperability, performance testing, and system-level projects related to those standards in the BBF and are leading the work in the BBF to specify the application of SDN and NFV in the access network. We are also members of ATIS, MEF, Open Compute Project, Wi-Fi Alliance (WFA) and the ETSI Network Functions Virtualization Industry Specification Group (NFV-ISG). 
+
+For a discussion of risks associated with our research and development activities, see &#147;Risk Factors &#150; We must continue to update and improve our products and develop new products in order to compete and to keep pace with improvements in communications technology&#148; and &#147;Risk Factors &#150; We engage in research and development activities to improve the application of developed technologies, and as a consequence may miss certain market opportunities enjoyed by larger companies with substantially greater research and development efforts who may focus on more leading edge development&#148;, in Item 1A of this report. 
+
+Manufacturing and Operations 
+
+The principal steps in our manufacturing process include the purchase and management of materials, assembly, testing, final inspection, packing and shipping. We purchase parts and components for the assembly of some products from a large number of suppliers through a worldwide sourcing program. In addition, we manage a process that identifies the components that are best purchased directly by contract manufacturers for use in the assembly of our products to achieve manufacturing efficiency, quality and cost objectives. Certain key components used in our products are currently available from a single source, and other key components are available from only a limited number of sources. In the past, we have experienced delays in the receipt of certain key components, which has resulted in delays in related product deliveries. We attempt to manage these risks through developing alternative sources, by staging inventories at strategic locations, through engineering efforts designed to obviate the necessity of certain components, and by maintaining close contact and building long-term relationships with our suppliers. 
+
+We rely on subcontractors for assembly and testing of certain printed circuit board assemblies, sub-assemblies, chassis, enclosures and equipment shelves, and to purchase some of the raw materials used in such assemblies. We typically manufacture our lower-volume, higher-mix product assemblies at our manufacturing site in Huntsville, Alabama. We continue to build and test new product prototypes and many of our initial production units for our products in Huntsville, and we later transfer the production of higher-volume, lower-mix assemblies to our subcontractors. Subcontract assembly operations can lengthen fulfillment cycle times, but we believe we can respond more rapidly to uncertainties in incoming order rates by selecting assembly subcontractors that have significant reserve capacity and flexibility. Our subcontractors have proven to be flexible and able to meet our quality requirements. We conduct the majority of all transactions with our foreign suppliers in United States currency. 
+
+We ship the majority of products to our U.S. customers from our facilities in Huntsville, Alabama, although we also fulfill customer orders from other locations near our customers&#146; sites. The majority of our products shipped to EMEA customers come from locations in that region. We also ship directly from suppliers to a number of customers in the U.S. and international locations. Many of our facilities are certified pursuant to the most current releases of ISO 9001, TL 9000, and ISO 14001. Our Huntsville facilities and many of our key suppliers are U.S. Customs-Trade Partnership Against Terrorism (C-TPAT) certified. Our products are also certified to certain other telephone company standards, including those relating to emission of electromagnetic energy and safety specifications. 
+
+For a discussion of risks associated with manufacturing activities, see &#147;Risk Factors &#150; Our strategy of outsourcing a portion of our manufacturing requirements to subcontractors located in various international regions may result in us not meeting our cost, quality or performance standards&#148; and &#147;Risk Factors &#150; Our dependence on a limited number of suppliers for certain raw materials and key components may prevent us from delivering our products on a timely basis, which could have a material adverse effect on customer relations and operating results&#148;, in Item 1A of this report. 
+
+Competition 
+
+We compete in markets for networking and communications equipment for SPs, businesses, government agencies and other organizations worldwide. Our products and services support the transfer of data, voice and video across SPs&#146; fiber, copper and wireless infrastructures, as well as across wide area networks, local area networks, and the Internet. 
+
+The markets for our products are intensely competitive, and numerous competitors exist in each of our product segments. These competitive conditions and recent declines in economic activity have resulted in competitor consolidations, bankruptcies and liquidations. Consumer acceptance of alternative communications technologies such as coaxial cable and cellular-based services that compete with our products has grown in recent years. Competition might further increase if new technologies emerge, new companies enter the market, or existing competitors expand their product lines. 
+
+&#160;
+
+For our Carrier Networks Division , factors influencing the markets in which we currently compete or may compete in the future include the ability to: 
+
+&#160;
+
+&#160; &#149; &#160; Help the customer solve networking problems within the confines of restrained capital budgets; &#160;
+
+&#160; &#149; &#160; Offer globally competitive solutions against a different set of competitors than in the United States; &#160;
+
+&#160; &#149; &#160; Deliver solutions that fit the distributed networking model being deployed by most SPs; &#160;
+
+&#160; &#149; &#160; Deliver solutions for SP networks as they increasingly focus on network transformation, convergence, and integration of services; &#160;
+
+&#160; &#149; &#160; Deliver solutions at attractive price points; &#160;
+
+&#160; &#149; &#160; Deliver reliability and redundancy, especially for higher bandwidth products; &#160;
+
+&#160; &#149; &#160; Adapt to new network technologies as they evolve; &#160;
+
+&#160; &#149; &#160; Compete effectively against large companies with greater resources; &#160;
+
+&#160; &#149; &#160; Deliver products when needed by the customer; &#160;
+
+&#160; &#149; &#160; Deliver responsive customer service, technical support and training; and &#160;
+
+&#160; &#149; &#160; Assist customers requiring pre-assembled, turnkey systems and professional services. Competitors of our Carrier Networks Division include large, established companies, such as Alcatel-Lucent (acquired by Nokia), ARRIS, Ciena Corporation, Fujitsu Network Communications, Huawei Technologies, and ZTE Corporation. There are also a number of smaller, specialized companies with which we compete, including Actelis Networks, Calix, Inc., Overture Networks (acquired by ADVA), and Zhone Technologies. 
+
+For our Enterprise Networks Division , factors influencing the markets in which we currently compete or may compete in the future include the ability to: 
+
+&#160;
+
+&#160; &#149; &#160; Satisfy the customer&#146;s need for a cost-efficient alternative to established internetworking suppliers; &#160;
+
+&#160; &#149; &#160; Satisfy the customer&#146;s need to utilize the most cost-effective combination of transmission technologies to connect geographically dispersed locations; &#160;
+
+&#160; &#149; &#160; Increase network performance and lower the customer&#146;s cost for communications services and equipment; &#160;
+
+&#160; &#149; &#160; Add capacity and migrate to new or different technologies without a major system upgrade; &#160;
+
+&#160; &#149; &#160; Continue to develop and support established platforms; &#160;
+
+&#160; &#149; &#160; Offer products to address new networking technologies in a timely manner; &#160;
+
+&#160; &#149; &#160; Deliver reliability and system backup, especially for higher bandwidth products; &#160;
+
+&#160; &#149; &#160; Adapt to new network technologies as they evolve; &#160;
+
+&#160; &#149; &#160; Deliver responsive customer service, technical support and training; and &#160;
+
+&#160; &#149; &#160; Assist customers requiring hands-on installation and maintenance. Competitors of our Enterprise Networks Division include: Aerohive Networks, Aruba Networks (a Hewlett Packard Enterprise company), AudioCodes, Cisco Systems, Inc., Edgewater Networks, Hewlett Packard Enterprise, Juniper Networks, Ruckus Wireless, and Ubiquiti Networks. Some of these companies compete in a single product segment, while others compete across multiple product lines. 
+
+Competitors of our services business include BlueStream and Ericsson, in addition to some of the competitors of the Carrier Networks Division, such as Fujitsu Network Communications, Alcatel-Lucent, and Calix, Inc. 
+
+&#160;
+
+For further discussion of risks associated with our competition, see &#147;Risk Factors &#150; We must continue to update and improve our products and develop new products in order to compete and to keep pace with improvements in communications technology&#148; and &#147;Risk Factors &#150; We compete in markets that have become increasingly competitive, which may result in reduced gross profit margins and market share&#148;, in Item 1A of this report. 
+
+Seasonality 
+
+We have experienced quarterly fluctuations in customer activity due to seasonal considerations. We typically experience reductions in order volume toward the beginning and end of the calendar year, which may result in lower revenues in the first and fourth quarters of our fiscal year. These seasonal effects may vary and do not always correlate to our operating results. Accordingly, they should not be considered a reliable indicator of our future revenue or operating results. 
+
+Foreign Currency 
+
+We record transactions denominated in foreign currencies on a monthly basis using exchange rates from throughout the year. Assets and liabilities denominated in foreign currencies are translated at the balance sheet dates using the closing rates of exchange between those foreign currencies and the functional currency with any transaction gains or losses reported in other income (expense). Our primary exposures to foreign currency exchange rate movements are with our Mexican subsidiary, whose functional currency is the United States dollar, German subsidiary, whose functional currency is the Euro, and our Australian subsidiary, whose functional currency is the Australian dollar. Adjustments resulting from translating financial statements of international subsidiaries are recorded as a component of accumulated other comprehensive income (loss). 
+
+Backlog and Inventory 
+
+A substantial portion of our shipments in any fiscal period relate to orders received and shipped in that fiscal period for customers under agreements containing non-binding purchase commitments. Further, a significant percentage of orders require delivery within a few days. These factors normally result in very little order backlog or order flow visibility. Additionally, backlog levels may vary because of seasonal trends, timing of customer projects and other factors that affect customer order lead times. We believe that because we fill a substantial portion of customer orders within the fiscal quarter of receipt, backlog is not a meaningful indicator of actual sales for any succeeding period. 
+
+To meet this type of demand, we have implemented supply chain management systems to manage the production process. We also maintain a substantial finished goods inventory. Our practice of maintaining sufficient inventory levels to assure prompt delivery of our products and services increases the amount of inventory that may become obsolete. The obsolescence of this inventory may require us to write down the value of the obsolete inventory, which may have an adverse effect on our operating results. 
+
+For further discussion of risks associated with managing our inventory, see &#147;Risk Factors &#150; Managing our inventory is complex and may include write-downs of excess or obsolete inventory&#148;, in Item 1A of this report. 
+
+Government Regulation 
+
+Our products must comply with various regulations and standards established by communications authorities in various countries, as well as those of certain international bodies. For instance, environmental legislation within the European Union (EU) may increase our cost of doing business as we amend our products to comply with these requirements. The EU issued directives on the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (RoHS), Waste Electrical and Electronic Equipment (WEEE), and the Registration, Evaluation, Authorization and Restriction of Chemicals (REACH). We continue to implement measures to comply with the RoHS directive, the WEEE directive and the REACH regulation as individual countries issue their implementation guidance. 
+
+For further discussion of risks associated with government regulation, see &#147;Risk Factors &#150; Our products may not continue to comply with evolving regulations governing their sale, which may harm our business&#148; and &#147;Risk Factors &#150; Regulatory and potential physical impacts of climate change and other natural events may affect our customers and our production operations, resulting in adverse effects on our operating results&#148;, in Item 1A of this report. 
+
+&#160;
+
+Employees 
+
+As of December 31, 2015, we had 1,991 full-time employees in the United States and in our international subsidiaries located in Canada, Mexico, the Asia-Pacific region, Europe and the Middle East region. The majority of ADTRAN GmbH employees, our subsidiary in Germany, are subject to collective bargaining agreements of either the Association of Metal and Electrical Industry in Berlin and Brandenburg e.V. or NORDMETALL Association of Metal and Electrical Industry e.V. A small number of our other employees are represented by a collective bargaining agreement. We have never experienced a work stoppage, and we believe that our relationship with our employees is good. 
+
+We also utilize contractors and temporary employees domestically and internationally in various manufacturing, engineering and sales capacities, as needed. 
+
+Intellectual Property 
+
+The ADTRAN corporate logo is a registered trademark of ADTRAN. The name &#147;ADTRAN&#148; is a registered trademark of ADTRAN. A number of our product identifiers and names also are registered. We claim rights to a number of unregistered trademarks as well. 
+
+We have ownership of over 540 patents worldwide related to our products and have over 160 additional patent applications pending, of which at least 12 have been approved and are in the process of being issued by various patent offices worldwide. Our patents expire at various dates between March 2016 and June 2034. We will continue to seek additional patents from time to time related to our research and development activities. We do not derive any material amount of revenue from the licensing of our patents. 
+
+We protect our intellectual property and proprietary rights in accordance with good legal and business practices. We believe, however, that our competitive success will not depend on the ownership of intellectual property, but instead will depend primarily on the innovative skills, technical competence and marketing abilities of our personnel. 
+
+The communications industry is characterized by the existence of an ever-increasing volume of patent litigation and licensing activities. From time to time we receive and may continue to receive notices of claims alleging that we are infringing upon patents or other intellectual property. We cannot predict whether we will prevail in any claims or litigation over alleged infringements, or whether we will be able to license any valid and infringed patents, or other intellectual property, on commercially reasonable terms. It is possible that litigation may result in significant legal costs and judgments. Any intellectual property infringement claims, or related litigation against or by us, could have a material adverse effect on our business and operating results. 
+
+For a discussion of risks associated with our intellectual property and proprietary rights, see &#147;Risk Factors &#150; Our failure to maintain rights to intellectual property used in our business could adversely affect the development, functionality, and commercial value of our products&#148;, in Item 1A of this report. 
+
+Available Information 
+
+A copy of this Annual Report on Form 10-K, as well as our Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports, are available free of charge on the Internet at our Web site, www.adtran.com , as soon as reasonably practicable (generally, within one day) after we electronically file these reports with, or furnish these reports to, the Securities and Exchange Commission (SEC). The reference to our Web site address does not constitute incorporation by reference of the information contained on the Web site, which information should not be considered part of this document. You may also read and copy any materials we file with the SEC at the SEC&#146;s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site (www.sec.gov) that contains our reports, proxy and information statements, and other information that we have filed electronically with the SEC. 
+
+&#160;
+

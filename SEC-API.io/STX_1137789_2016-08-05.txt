@@ -1,0 +1,246 @@
+ ITEM 1. BUSINESS 
+
+We are a leading provider of electronic data storage technology and solutions. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of electronic data storage products including solid state hybrid drives ("SSHD"), solid state drives ("SSD"), PCIe cards and SATA controllers. Our storage technology portfolio also includes storage subsystems, and high performance computing ("HPC") solutions. 
+
+Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND-based flash memory. In addition to HDDs and SSDs, SSHDs combine the features of SSDs and HDDs in the same unit, containing a large hard disk drive and an SSD cache to improve performance of frequently accessed data. 
+
+Our products are designed for mission critical and nearline applications in enterprise servers and storage systems; client compute applications, where our products are designed primarily for desktop and mobile computing; and client non-compute applications, where our products are designed for a wide variety of end user devices such as digital video recorders ("DVRs"), personal data backup systems, portable external storage systems, digital media systems and surveillance systems. 
+
+Our Cloud Systems and Solutions builds on the Seagate legacy to extend innovation from the device into the information infrastructure, onsite and in the cloud. Our approach to data management supports HPC, open source and software-defined solutions. Our portfolio includes HPC storage solutions, modular original equipment manufacturers ("OEM") storage systems and scale-out storage systems. 
+
+Industry Overview 
+
+Electronic Data Storage Industry 
+
+The electronic data storage industry is comprised of companies that manufacture components or subcomponents designed for electronic data storage devices and companies that provide storage solutions, software and services for enterprise cloud, big data and computing platforms. 
+
+Markets 
+
+The principal markets served by the electronic data storage industry are: 
+
+Enterprise Storage. We define enterprise storage as dedicated storage area networks and hyperscale cloud storage environments. Enterprise data centers run solutions which are designed for mission critical performance and nearline high capacity applications. 
+
+Mission critical applications are defined as those that are vital to the operation of large-scale enterprise work loads, requiring high performance and high reliability storage solutions. We expect the market for mission critical enterprise storage solutions to continue to be driven by enterprises utilizing dedicated storage area networks. Our storage solutions are comprised principally of high performance enterprise class disk drives with sophisticated firmware and communications technologies. 
+
+Nearline applications are defined as those which require high capacity and energy efficient storage solutions. We expect such applications, which include storage for cloud computing, content delivery and backup services, will continue to grow and drive demand for solutions designed with these attributes. With the increased requirements for storage driven by the creation and consumption of media-rich digital 
+
+content, we expect the increased exabyte demand will require further build-out of data centers by cloud service providers and other enterprises which utilize high capacity nearline devices. 
+
+Enterprise SAS SSDs are designed to deliver superior performance, reliability and enterprise features to meet the demands of I/O-intensive applications, with potential for substantial power savings. PCIe accelerator cards are designed to optimize enterprise applications with a persistent, high-performance, high-capacity memory design. Accelerated flash also targets flash and software to accelerate any server virtualized deployment and moves any big data to the realm of real time. From industry solutions perspective, PCIe cards are changing the storage architecture in many industries including the financial sector, government, telecommunications and media and entertainment. 
+
+Client Compute. We define client compute applications as solutions designed for desktop and mobile compute applications ranging from traditional laptops, tablets and convertible systems. We believe that the demand resulting from the proliferation of digital content will continue to maintain demand for the client compute market. As the storage of digital content in the cloud becomes more prominent and accessible, some client compute applications rely less on built-in storage, which is supplemented by cloud computing solutions and branded external hard drives. 
+
+Client Non-Compute. We define client non-compute applications as solutions designed for consumer electronic devices and disk drives used for external storage and network attached storage ("NAS"). Disk drives designed for consumer electronic devices are primarily used in applications such as DVRs and surveillance systems that require a higher capacity, low cost-per-gigabyte storage solution. Disk drives for external storage and NAS devices are designed for purposes such as personal data backup and portable external storage, and to augment storage capacity in the consumer's current desktop, notebook, tablet or DVR devices. We believe the proliferation and personal creation of media-rich digital content will continue to create increasing consumer demand for higher capacity storage solutions. 
+
+Cloud Systems and Solutions. We define cloud systems and solutions as applications that provide cloud based solutions to businesses for the purpose of HPC, scale-out storage solutions and modular systems. Systems can contain HDDs and SSDs and can offer file management systems, software, and even compute power. 
+
+Participants in the electronic data storage industry include: 
+
+Major subcomponent manufacturers. Companies that manufacture components or subcomponents used in electronic data storage devices or solutions include companies that supply spindle motors, heads and media, application specific integrated circuits ("ASICs"). 
+
+Hardware storage solutions manufacturers. Companies that transform components into storage products include disk drive manufacturers and semiconductor storage manufacturers which include integrating flash memory into storage products such as SSDs. 
+
+System integrators. Companies, such as OEMs, that bundle and package storage solutions into client compute, client non-compute or enterprise applications as well as enterprise storage solutions. Distributors that integrate storage hardware and software into end-user applications and Cloud Service Providers ("CSP") that provide cloud based solutions to businesses for the purpose of HPC, scale-out storage solutions and modular systems that are also included in this category. 
+
+Storage services. Companies that provide and host services and solutions, which include storage, backup, archiving, recovery and discovery of electronic data. 
+
+Hyperscale Data Centers. Increasingly, large hyperscale data center companies are designing their own storage subsystems and having those built by contract manufacturers for use inside their own data centers. This trend is reshaping the storage system and subsystem market and driving innovation in system design and changes in the competitive landscape of the large storage system vendors. 
+
+Demand for Electronic Data Storage 
+
+The continued advancement of the cloud, the proliferation of a variety of mobile devices globally, development of the Internet of Things ("IoT"), increasingly pervasive use of video surveillance, evolution of consumer electronic devices, and enterprise use of big data analytics are driving the growth of digital content. Factors contributing to this growth include: 
+
+&#149; Creation, sharing, and consumption of media-rich digital content, such as high-resolution photos, high definition video, and digital music through smart phones, tablets, digital cameras, personal video cameras, DVRs, gaming consoles or other digital devices; &#149; Creation, aggregation and distribution of digital content through services and other offerings such as Facebook&#174;, Instagram&#174;, iTunes&#174;, Netflix&#174;, Google&#174; and YouTube&#174;; &#149; New surveillance systems which feature higher resolution digital cameras and thus require larger data storage capacities; &#149; Creation and collection of data through the evolution of the IoT ecosystem, big data analytics and new technology trends such as self-driving cars and drones; &#149; Build out of large numbers of cloud data centers by cloud service providers and private companies transitioning on-site data centers into the cloud; &#149; Protection of increased digital content through redundant storage on backup devices and externally provided storage services. As a result of these factors, the nature and volume of content being created requires greater storage, which is more efficiently and economically facilitated by higher capacity storage devices in order to store, manage, distribute, analyze and backup such content. We expect this to support the growth in demand for electronic data storage solutions in developed and emerging economies well into the future. 
+
+The amount of data created as well as where and how data is stored continues to evolve with the proliferation of mobile devices, the growth of cloud computing, and the evolving IoT. In addition, the economics of storage infrastructure are also evolving with the utilization of public and private hyper-scale storage and open-source solutions reducing the total cost of ownership of storage while increasing the speed and efficiency with which customers can leverage massive computing and storage devices. Accordingly, we expect these trends will continue to create significant demand for electronic data storage solutions going forward. 
+
+Demand Trends for Disk Drives 
+
+We believe that continued growth in digital content requires increasingly higher storage capacity in order to store, aggregate, host, distribute, analyze, manage, backup and use such content. We also believe that as architectures evolve to serve the growing commercial and consumer user base throughout the world, the manner which hard drives are delivered to market and utilized by our customers will evolve as well. 
+
+We believe that in the foreseeable future the traditional enterprise and client compute markets that require high capacity storage solutions, and the data intensive client non-compute markets will continue to be best served by hard disk drives due to the industry's ability to deliver the most cost effective, reliable and energy efficient mass storage devices. Furthermore, the increased use of client non-compute devices that both consume media-rich digital content streamed from the cloud and create rich digital content that is stored in the cloud, increases the demand for high capacity hard disk drives in enterprise Nearline applications. 
+
+We also believe that as hard disk drive capacities continue to increase, unit demand does not reflect the increase in Exabytes demand. In recent years, this trend has resulted in demand for fewer units, but with higher average capacity per drive. 
+
+Industry Supply Balance 
+
+From time to time the HDD industry has experienced periods of imbalance between supply and demand. To the extent that the disk drive industry builds or maintains capacity based on expectations of demand that do not materialize, price erosion may become more pronounced. Conversely, during periods where demand exceeds supply, price erosion is generally muted. 
+
+Our Business 
+
+Disk Drive Technology 
+
+The design and manufacturing of disk drives depends on highly advanced technology and manufacturing techniques and therefore requires high levels of research and development spending and capital equipment investments. We design, fabricate and assemble a number of the most important components found in our disk drives, including read/write heads and recording media. Our design and manufacturing operations are based on technology platforms that are used to produce various disk drive products that serve multiple data storage applications and markets. Our core technology platforms are focused around the areal density of media and read/write head technologies. Using an integrated platform design and manufacturing leverage approach allows us to deliver a portfolio of disk drive products to service a wide range of electronic data storage applications and industries. 
+
+Disk drives that we manufacture are commonly differentiated by the following key characteristics: 
+
+&#149; storage capacity, commonly expressed in gigabytes ("GB") or terabytes ("TB"), which is the amount of data that can be stored on the disk drive; &#149; spindle rotation speed, commonly expressed in revolutions per minute ("RPM"), which has an effect on speed of access to data; &#149; interface transfer rate, commonly expressed in megabytes per second, which is the rate at which data moves between the disk drive and the computer controller; &#149; average seek time, commonly expressed in milliseconds, which is the time needed to position the heads over a selected track on the disk surface; &#149; data transfer rate, commonly expressed in megabytes per second, which is the rate at which data is transferred to and from the disk drive; &#149; input/output operations per second ("IOPS"), commonly expressed in megabytes per second, which is the maximum number of reads and writes to a storage location; &#149; product quality and reliability, commonly expressed in annualized return rates; and &#149; energy efficiency, commonly measured by the power output necessary to operate the disk drive. Areal density is a measure of storage capacity per square inch on the recording surface of a disk. The storage capacity of a disk drive is determined by the number of disks it contains as well as the areal density capability of these disks. We have been pursuing, and will continue to pursue, a number of technologies to increase areal densities across the entire range of our products for expanding disk drive capacities and reducing the number of disks and heads per drive to further reduce product costs. 
+
+Manufacturing 
+
+We design and produce our own read/write heads and recording media, which are critical technologies for disk drives. This integrated approach enables us to lower costs and to improve the functionality of components so that they work together efficiently. 
+
+We believe that because of our vertical design and manufacturing strategy, we are well suited to take advantage of the opportunities to leverage the close interdependence of components for disk drives. Our manufacturing efficiency and flexibility are critical elements of our integrated business strategy. We continuously seek to improve our manufacturing efficiency and reduce manufacturing cost by: 
+
+&#149; employing manufacturing automation; &#149; improving product quality and reliability; &#149; integrating our supply chain with suppliers and customers to enhance our demand visibility and reduce our working capital requirements; &#149; coordinating between our manufacturing group and our research and development organization to rapidly achieve volume manufacturing; and &#149; operating our facilities at optimal capabilities. A vertically integrated model, however, tends to have less flexibility when demand moderates as it exposes us to higher unit costs as capacity utilization is not optimized. 
+
+Components and Raw Materials 
+
+Disk drives incorporate certain components, including a head disk assembly and a printed circuit board mounted to the head disk assembly, which are sealed inside a rigid base and top cover containing the recording components in a contamination controlled environment. We maintain a highly integrated approach to our business by designing and manufacturing a significant portion of the components we view as critical to our products, such as recording heads and media. 
+
+Read/Write Heads. The function of the read/write head is to scan across the disk as it spins, magnetically recording or reading information. The tolerances of recording heads are extremely demanding and require state-of-the-art equipment and processes. Our read/write heads are manufactured with thin-film and photolithographic processes similar to those used to produce semiconductor integrated circuits, though challenges in magnetic film properties and topographical structures are unique to the disk drive industry. We perform all primary stages of design and manufacture of read/write heads at our facilities. We use a combination of internally manufactured and externally sourced read/write heads, the mix of which varies based on product mix, technology and our internal capacity levels. 
+
+Media. Information is written to the media, or disk, as it rotates at very high speeds past the read/write head. The media is made from non-magnetic material, usually aluminum alloy or glass, and is coated with thin layers of magnetic materials. We use a combination of internally manufactured and externally sourced finished media and aluminum substrates, the mix of which varies based on product mix, technology and our internal capacity levels. We purchase all of our glass substrates from third parties. 
+
+Printed Circuit Board Assemblies. The printed circuit board assemblies ("PCBAs") are comprised of standard and custom ASICs and ancillary electronic control chips. The ASICs control the movement of data to and from the read/write heads and through the internal controller and interface, which communicates with the host computer. The ASICs and control chips form electronic circuitry that delivers instructions to a head positioning mechanism called an actuator to guide the heads to the selected track of a disk where the data is recorded or retrieved. Disk drive manufacturers use one or more industry standard interfaces such as serial advanced technology architecture ("SATA"); small computer system interface 
+
+("SCSI"); serial attached SCSI ("SAS"); or Fibre Channel ("FC") to communicate to the host systems. We outsource to third parties the manufacture and assembly of the PCBAs used in our disk drives. We do not manufacture any ASICs, but we participate in their proprietary design. 
+
+Head Disk Assembly. The head disk assembly consists of one or more disks attached to a spindle assembly powered by a spindle motor that rotates the disks at a high constant speed around a hub. Read/write heads, mounted on an arm assembly, similar in concept to that of a record player, fly extremely close to each disk surface and record data on and retrieve it from concentric tracks in the magnetic layers of the rotating disks. The read/write heads are mounted vertically on an E-shaped assembly ("E-block") that is actuated by a voice-coil motor to allow the heads to move from track to track. The E-block and the recording media are mounted inside the head disk assembly. We purchase spindle motors from outside vendors and from time to time participate in the design of the motors that go into our products. We use a combination of internally manufactured and externally sourced head disk assemblies. 
+
+Disk Drive Assembly. Following the completion of the head disk assembly, it is mated to the PCBA, and the completed unit goes through extensive defect mapping and testing prior to packaging and shipment. Disk drive assembly and test operations occur primarily at facilities located in China and Thailand. We perform subassembly and component manufacturing operations at our facilities in China, Malaysia, Northern Ireland, Singapore, Thailand and in the United States. In addition, third parties manufacture and assemble components and disk drive assemblies for us in various countries worldwide. 
+
+Suppliers of Components and Industry Constraints. There are a limited number of independent suppliers of components, such as recording heads and media, available to disk drive manufacturers. Vertically integrated disk drive manufacturers, who manufacture their own components, are less dependent on external component suppliers than less vertically integrated disk drive manufacturers. 
+
+Commodity and Other Manufacturing Costs. The production of disk drives requires rare earth elements, precious metals, scarce alloys and industrial commodities, which are subject to fluctuations in prices and the supply of which has at times been constrained. In addition to increased costs of components and commodities, volatility in fuel costs may also increase our costs related to commodities, manufacturing and freight. As a result, we may increase our use of ocean shipments to help offset any increase in freight costs. 
+
+Products 
+
+We offer a broad range of storage solutions for the enterprise, data center, client compute and client non-compute applications. We offer more than one product within each product category and differentiate products on the basis of price, performance, form factor, capacity, interface, power consumption efficiency, security features, and other customer integration requirements. Our industry is characterized by continuous and significant advances in technology which contribute to rapid product life cycles. We list our main current product offerings below. 
+
+Enterprise Storage 
+
+Enterprise Performance HDDs. Our 10,000 and 15,000 RPM Enterprise Performance disk drives feature increased throughput and improved energy efficiency, targeted at high random performance server application needs. Performance 10,000 RPM HDDs ship in storage capacities ranging from 300GB to 1.8TB, and our 15,000 RPM HDDs ship in storage capacities ranging from 146GB to 600GB. 
+
+Enterprise Capacity and Archive HDDs. Our Enterprise Capacity disk drives ship in 2.5-inch and 3.5-inch form factors and in storage capacities of up to 10TB that rotate at 7,200 RPM speeds. These products are designed for bulk data storage and server environments that require high capacity, enterprise reliability, energy efficiency, integrated security, and SATA and SAS interfaces. Our Archive HDDs 
+
+provide up to 8TB of low-cost storage designed specifically for active archive storage environments in cloud data centers where very low cost and power are paramount. 
+
+Enterprise SSDs. Available in capacities up to 3.8TB, the SSD features 12GB per second SAS, and delivers the speed and consistency needed for demanding enterprise storage and server applications. We also offer our Nytro family of accelerator cards with capacities up to 4TB. 
+
+Client Compute 
+
+Desktop HDDs and SSHDs. Our 3.5-inch desktop drives ship in both traditional HDD and SSHD configurations and offer up to 8TB of capacity. Desktop drives are designed for applications such as personal computers and workstations. 
+
+Mobile HDDs and SSHDs. Our family of laptop drives ship in a variety of form factors (5mm to 9.5mm drive height), capacities (up to 4TB) and technologies (HDD and SSHD) to support mobile needs. Used in applications ranging from traditional laptops, convertible systems and external storage, our drives are built to address a range of performance needs and sizes for affordable, high capacity storage. 
+
+Client Non-Compute 
+
+Video HDDs. Our Video HDDs are used in video applications like DVR's and media centers. These disk drives are optimized for video streaming in always-on applications with capacities up to 4TB to support leading-edge digital entertainment. 
+
+Surveillance HDDs. Our surveillance drives are built to support the high-write workload of an always-on, always-recording video surveillance system. These surveillance optimized drives are built to support the growing needs of the surveillance market with support for multiple hard drive ("HD") streams and capacities up to 10TB. 
+
+NAS HDDs. Our NAS drives are built to support the performance and reliability demanded by small and medium businesses, and incorporate interface software with custom-built error recovery controls, power settings, and vibration tolerance. Our NAS HDD solutions are available in capacities up to 10TB. 
+
+Branded Solutions. Our external backup storage solutions are shipped under the Backup Plus and Expansion product lines, as well as under the Maxtor and LaCie brand names. These product lines are available in capacities up to 48TB, respectively. Our Seagate and LaCie Wireless drives provide tablet and smartphone users with additional storage for media content, with capacities up to 2TB. Our NAS and Personal Cloud solutions provide centralized network storage in capacities up to 32TB and secure, anywhere file access for users on-the-go. 
+
+Customers 
+
+We sell our products to major OEMs, distributors and retailers. 
+
+The following table summarizes our revenue by channel and by geography: 
+
+&#160; &#160; Fiscal Years Ended &#160; &#160; &#160; July 1, 2016 &#160; July 3, 2015 &#160; June 27, 2014 &#160; Revenues by Channel (%) &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; OEM &#160; &#160; 70 % &#160; 71 % &#160; 68 % Distributors &#160; &#160; 16 % &#160; 17 % &#160; 20 % Retail &#160; &#160; 14 % &#160; 12 % &#160; 12 % Revenues by Geography (%) (1) &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas &#160; &#160; 29 % &#160; 28 % &#160; 27 % EMEA &#160; &#160; 17 % &#160; 17 % &#160; 19 % Asia Pacific &#160; &#160; 54 % &#160; 55 % &#160; 54 % 
+
+(1) Revenue is attributed to countries based on the shipping location. 
+
+OEM customers typically enter into master purchase agreements with us. These agreements provide for pricing, volume discounts, order lead times, product support obligations and other terms and conditions including sales programs offered to promote selected products. Deliveries are scheduled only after receipt of purchase orders. In addition, with limited lead-time, customers may defer most purchase orders without significant penalty. Anticipated orders from many of our customers have in the past failed to materialize or OEM delivery schedules have been deferred or altered as a result of changes in their business needs. 
+
+Our distributors generally enter into non-exclusive agreements for the resale of our products. They typically furnish us with a non-binding indication of their near-term requirements and product deliveries are generally scheduled accordingly. The agreements and related sales programs typically provide the distributors with limited right of return and price protection rights. In addition, we offer sales programs to distributors on a quarterly and periodic basis to promote the sale of selected products in the sales channel. 
+
+Our retail channel consists of our branded storage products sold to retailers either by us directly or by our distributors. Retail sales made by us or our distributors typically require greater marketing support, sales incentives and price protection periods. 
+
+In fiscal years 2016, 2015 and 2014, Dell Inc. accounted for approximately 12%, 14% and 13% of consolidated revenue, respectively. In fiscal year 2015 and 2014, Hewlett-Packard Company accounted for approximately 12% and 13% of consolidated revenue, respectively. In fiscal year 2016, HP Inc., formerly known as Hewlett-Packard Company, completed its separation with Hewlett Packard Enterprise Company, and each company accounted for less than 10% of our consolidated revenue. See "Item 1A. Risk Factors-Risks Related to Our Business-We may be adversely affected by the loss of, or reduced, delayed or canceled purchases by, one or more of our larger customers." 
+
+Competition 
+
+We compete primarily with manufacturers of hard drives used in the enterprise, client compute and client non-compute applications. We are also a supplier of Enterprise SSDs, PCIe accelerator cards, cloud storage solutions, HDD test equipment, and storage subsystems through our acquisitions. The markets that we participate in are highly competitive. Disk drive manufacturers compete for a limited number of major disk drive customers but also compete with other companies in the electronic data storage industry that provide SSDs and PCIe technology. Some of the principal factors used by customers to differentiate among electronic data storage solutions manufacturers are storage capacity, product performance, product quality and reliability, price per unit and price per gigabyte, time-to-market and time-to-volume leadership, storage/retrieval access times, data transfer rates, form factor, product warranty and support capabilities, supply continuity and flexibility, power consumption, total cost of ownership, and brand. While different 
+
+markets and customers place varying levels of emphasis on these factors, we believe that our products are competitive with respect to many of these factors in the markets that we currently address. 
+
+Principal Disk Drive Competitors. There are three companies in the electronic data storage industry that manufacture disk drives: 
+
+&#149; Seagate, selling the Seagate, LaCie, Maxtor and Samsung brands; &#149; Western Digital Corporation, operating the Western Digital and Hitachi Global Storage Technologies subsidiaries; and &#149; Toshiba Corporation Other Competition. We are seeing direct competition from SSD's that is adversely impacting demand for HDD in some markets including Notebook and Enterprise Mission Critical. We expect that this trend will continue although we believe both product types will be required in the market to satisfy the growing demand for electronic data storage. 
+
+Price Erosion. Historically, our industry has been characterized by price declines for disk drive products with comparable capacity, performance and feature sets ("like-for-like products"). Price declines for like-for-like products ("price erosion") have been more pronounced during periods of: 
+
+&#149; economic contraction in which competitors may use discounted pricing to attempt to maintain or gain market share; &#149; few new product introductions when competitors have comparable or alternative product offerings; and &#149; industry supply exceeding demand. Disk drive manufacturers typically attempt to offset price erosion with an improved mix of disk drive products characterized by higher capacity, better performance and additional feature sets and product cost reductions. 
+
+We believe the HDD industry experienced benign price erosion in fiscal year 2014, whereas price erosion increased in fiscal years 2015 and 2016. 
+
+Product Life Cycles and Changing Technology. Success in our industry has been dependent to a large extent on the ability to balance the introduction and transition of new products with time-to-volume, performance, capacity and quality metrics at a competitive price, level of service and support that our customers expect. Generally, the drive manufacturer that introduces a new product first benefits from improved product mix, favorable profit margins and less pricing pressure until comparable products are introduced. Changing technology also necessitates on-going investments in research and development, which may be difficult to recover due to rapid product life cycles and economic declines. Further, there is a continued need to successfully execute product transitions and new product introductions, as factors such as quality, reliability and manufacturing yields continue to be of significant competitive importance. 
+
+Seasonality 
+
+The disk drive industry traditionally experiences seasonal variability in demand with higher levels of demand in the second half of the calendar year. This seasonality is driven by consumer spending in the back-to-school season from late summer to fall and the traditional holiday shopping season from fall to winter. We believe fiscal year 2015 reflected seasonality consistent with historical patterns, whereas in fiscal year 2014 our industry experienced more muted seasonal patterns as supply and demand were relatively in balance. In fiscal year 2016, beyond traditional seasonality, variability of sales was a reflection of more cyclical demand from CSPs based on the timing of large systems installations and the shift of the underlying technology. 
+
+Research and Development 
+
+We are committed to developing new component technologies, products and alternative storage technologies. Our research and development focus is designed to bring new products to market in high volume, with quality attributes that our customers expect, before our competitors. Part of our product development strategy is to leverage a design platform and/or subsystem within product families to serve different market needs. This platform strategy allows for more efficient resource utilization, leverages best design practices, reduces exposure to changes in demand, and allows for achievement of lower costs through purchasing economies. Our advanced technology integration effort focuses disk drive and component research on recording subsystems, including read/write heads and recording media; market-specific product technology; and technology focused towards new business opportunities. The primary purpose of our advanced technology integration effort is to ensure timely availability of mature component technologies to our product development teams as well as allowing us to leverage and coordinate those technologies in the design centers across our products in order to take advantage of opportunities in the marketplace. During fiscal years 2016, 2015 and 2014, we had product development expenses of approximately $1,237 million, $1,353 million and $1,226 million, respectively, which represented 11%, 10% and 9% of our consolidated revenue, respectively. 
+
+Patents and Licenses 
+
+As of July 1, 2016, we had approximately 5,000 U.S. patents and 1,300 patents issued in various foreign jurisdictions as well as approximately 1,500 U.S. and 1,200 foreign patent applications pending. The number of patents and patent applications will vary at any given time as part of our ongoing patent portfolio management activity. Due to the rapid technological change that characterizes the electronic data storage industry, we believe that, in addition to patent protection, the improvement of existing products, reliance upon trade secrets, protection of unpatented proprietary know-how and development of new products are also important to our business in establishing and maintaining a competitive advantage. Accordingly, we intend to continue our efforts to broadly protect our intellectual property, including obtaining patents, where available, in connection with our research and development program. 
+
+We have patent licenses with a number of companies. Additionally, as part of our normal intellectual property practices, we may be engaged in negotiations with other major electronic data storage companies and component manufacturers with respect to patent licenses. 
+
+The electronic data storage industry is characterized by significant litigation relating to patent and other intellectual property rights. Because of rapid technological development in the electronic data storage industry, some of our products have been, and in the future could be, alleged to infringe existing patents of third parties. From time to time, we receive claims that our products infringe patents of third parties. Although we have been able to resolve some of those claims or potential claims by obtaining licenses or rights under the patents in question without a material adverse affect on us, other claims have resulted in adverse decisions or settlements. In addition, other claims are pending, which if resolved unfavorably to us could have a material adverse effect on our business and results of operations. For more information on these claims, see "Item 8. Financial Statements and Supplementary Data&#151;Note 14. Legal, Environmental and Other Contingencies." The costs of engaging in intellectual property litigation in the past have been, and in the future may be, substantial, irrespective of the merits of the claim or the outcome. 
+
+Backlog 
+
+In view of industry practice, whereby customers may cancel or defer orders with little or no penalty, we believe backlog in the disk drive industry is of limited indicative value in estimating future performance and results. 
+
+Environmental Matters 
+
+Our operations are subject to U.S. and foreign laws and regulations relating to the protection of the environment, including those governing discharges of pollutants into the air and water, the management and disposal of hazardous substances and wastes and the cleanup of contaminated sites. Some of our operations require environmental permits and controls to prevent and reduce air and water pollution, and these permits are subject to modification, renewal and revocation by issuing authorities. 
+
+We have established environmental management systems and continually update environmental policies and standard operating procedures for our operations worldwide. We believe that our operations are in material compliance with applicable environmental laws, regulations and permits. We budget for operating and capital costs on an ongoing basis to comply with environmental laws. If additional or more stringent requirements are imposed on us in the future, we could incur additional operating costs and capital expenditures. 
+
+Some environmental laws, such as the Comprehensive Environmental Response Compensation and Liability Act of 1980 (as amended, the "Superfund" law) and its state equivalents, can impose liability for the cost of cleanup of contaminated sites upon any of the current or former site owners or operators or upon parties who sent waste to these sites, regardless of whether the owner or operator owned the site at the time of the release of hazardous substances or the lawfulness of the original disposal activity. We have been identified as a potentially responsible party at several sites. At each of these sites, we have an assigned portion of the financial liability based on the type and amount of hazardous substances disposed of by each party at the site and the number of financially viable parties. We have fulfilled our responsibilities at some of these sites and remain involved in only a few at this time. 
+
+While our ultimate costs in connection with these sites is difficult to predict with complete accuracy, based on current estimates of cleanup costs and our expected allocation of these costs, we do not expect costs in connection with these sites to be material. 
+
+We may be subject to various state, federal and international laws and regulations governing the environment, including those restricting the presence of certain substances in electronic products. For example, the European Union ("EU") enacted the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment, which prohibits the use of certain substances, including lead, in certain products, including disk drives, put on the market after July 1, 2006. Similar legislation has been or may be enacted in other jurisdictions, including in the United States, Canada, Mexico, Taiwan, China, Japan and others. The European Union REACH Directive (Registration, Evaluation, Authorization, and Restriction of Chemicals, EC 1907/2006) also restricts substances of very high concern ("SVHCs") in products. 
+
+Employees 
+
+At July 1, 2016, we employed approximately 45,500 employees and temporary employees worldwide, of which approximately 36,100 were located in our Asian operations. We believe that our future success will depend in part on our ability to attract and retain qualified employees at all levels. We believe that our employee relations are good. 
+
+Financial Information 
+
+Financial information for our reportable business segment and about geographic areas is set forth in "Item 8. Financial Statements and Supplementary Data-Note 13. Business Segment and Geographic Information." 
+
+Corporate Information 
+
+Seagate Technology public limited company, is a public limited company organized under the laws of Ireland. 
+
+Available Information 
+
+Availability of Reports. We are a reporting company under the Securities Exchange Act of 1934, as amended (the "1934 Exchange Act"), and we file reports, proxy statements and other information with the U.S. Securities and Exchange Commission (the "SEC"). The public may read and copy any of our filings at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Because we make filings to the SEC electronically, the public may access this information at the SEC's website: www.sec.gov. This site contains reports, proxies and information statements and other information regarding issuers that file electronically with the SEC. 
+
+Web Site Access. Our website is www.seagate.com. We make available, free of charge at the "Investors" section of our website, Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the 1934 Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Reports of beneficial ownership filed pursuant to Section 16(a) of the 1934 Exchange Act are also available on our web site. 
+
+Investors and others should note that we routinely use the Investors section of our website to announce material information to investors and the marketplace. While not all of the information that the Company posts on its corporate website is of a material nature, some information could be deemed to be material. Accordingly, the Company encourages investors, the media, and others interested in the Company to review the information that it shares on www.seagate.com. Information in, or that can be accessed through, our web site is not incorporated into this Form 10-K. 
+
+Executive Officers 
+
+The following sets forth the name, age and position of each of the persons who were serving as executive officers as of August 5, 2016. There are no family relationships among any of our executive officers. 
+
+Name 
+
+&#160; Age &#160; Positions Stephen J. Luczo &#160; &#160; 59 &#160; Chairman and Chief Executive Officer William D. Mosley &#160; &#160; 49 &#160; President and Chief Operating Officer Philip G. Brace &#160; &#160; 45 &#160; President, Cloud Systems and Electronics Solutions David H. Morton Jr. &#160; &#160; 44 &#160; Executive Vice President, Finance and Chief Financial Officer Regan J. MacPherson &#160; &#160; 53 &#160; Senior Vice President, General Counsel and Secretary Mark Re &#160; &#160; 56 &#160; Senior Vice President, Chief Technology Officer 
+
+Stephen J. Luczo. Mr. Luczo, 59, has served as our CEO since January 2009 and as Chairman of the Board since 2002. Mr. Luczo joined Seagate in October 1993 as Senior Vice President of Corporate Development. In September 1997, he was promoted to President and Chief Operating Officer of Seagate Technology (Seagate Technology plc's predecessor) and, in July 1998, he was promoted to CEO at which time he joined the Board as a director of Seagate Technology. Mr. Luczo resigned as CEO effective as of July 2004, but remained as Chairman of the Board. He served as non-employee Chairman from October 2006 to January 2009. From October 2006 until he rejoined us in January 2009, Mr. Luczo was a private investor. Mr. Luczo also served as our President from January 2009 until October 2013. Prior to joining Seagate in 1993, Mr. Luczo was Senior Managing Director of the Global Technology Group of Bear, 
+
+Stearns &#38; Co. Inc., an investment banking firm, from February 1992 to October 1993. Mr. Luczo served on the board of directors of Microsoft Corporation from May 2012 to March 2014. 
+
+William D. Mosley. Mr. Mosley, 49, was promoted to our President, Chief Operating Officer on June 27, 2016. He was previously our President, Operations and Technology from October 2013 to June 2016 and our Executive Vice President, Operations from March 2011 until October 2013. Prior to that, he served as Executive Vice President, Sales and Marketing from September 2009 through March 2011; Executive Vice President, Sales, Marketing and Product Line Management from February 2009 to September 2009; Senior Vice President, Global Disk Storage Operations from 2007 to 2009; and Vice President, Research and Development, Engineering from 2002 to 2007. 
+
+Philip G. Brace. Mr. Brace, 45, has served as our President, Cloud Systems and Electronics Solutions since July 2015. Mr. Brace joined Seagate in September 2014 as Executive Vice President and Chief Technology Officer of Silicon Solutions, and was promoted to Interim President of Cloud Systems and Electronics Solutions on April 30, 2015. He was previously employed by LSI Corporation ("LSI") from August 2005 through September 2014. At LSI, he was the Executive Vice President of the Storage Solutions Group from July 2012 to September 2014, Senior Vice President and General Manager from January 2009 to July 2012, and Senior Vice President of Corporate Planning and Marketing from August 2005 to January 2009. 
+
+David H. Morton Jr. Mr. Morton, 44, assumed the role of Executive Vice President and Chief Financial Officer on October 21, 2015. He was previously our Senior Vice President, Finance, Treasurer and Principal Accounting Officer from April 2014 to October 2015 and our Vice President, Finance, Treasurer and Principal Accounting Officer from October 2009 to April 2014; Vice President of Finance, Sales and Marketing from March 2009 to October 2009; Vice President of Sales Operations from July 2007 to March 2009; Vice President of Finance, Storage Markets from October 2006 to July 2007; Executive Director of Consumer Electronics Finance from October 2005 to October 2006; and Executive Director of Corporate FP&#38;A from June 2004 to October 2005. 
+
+Regan J. MacPherson. Ms. MacPherson, 53, has served as our Senior Vice President and General Counsel since March 2015. She was previously our Vice President and Interim General Counsel from March 2015 to August 2015 and our Deputy General Counsel from September 2013 until August 2015. Prior to that, she was Assistant General Counsel from 2010 through 2013, Associate General Counsel from 2008 to 2010 and a Senior Manager in Legal from 2005 to 2008. 
+
+Mark Re. Mr. Re, 56, has served as our Senior Vice President and Chief Technology Officer since July 2013. Prior to that, he served as our Vice President, Research, from August 2003 to August 2006. Mr. Re currently serves on the Scientific Advisory Board for the Data Storage Institute, as well as on the Advanced Storage Technology Consortium. 
+

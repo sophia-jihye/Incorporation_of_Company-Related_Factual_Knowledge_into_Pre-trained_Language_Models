@@ -1,0 +1,914 @@
+ Item 1. 
+
+Business
+
+Overview 
+
+We are a clinical-stage, oncology-focused company applying our proprietary Dynamic Tumor Targeting&#8482; Platform to develop differentiated therapies. We were incorporated under the laws of the State of Delaware on November 28, 2005 under the name Tempo Pharmaceuticals, Inc. In October 2008, we changed our name to Cerulean Pharma Inc. 
+
+Our Dynamic Tumor Targeting Platform is designed to create nanoparticle-drug conjugates, or NDCs, with the aim of providing safer and more effective therapies for patients living with cancer. NDCs consist of anti-cancer therapeutics, or payloads, covalently linked to a proprietary polymer. An important goal for all drugs is to maximize the net clinical benefit by increasing the desired therapeutic effect while reducing adverse effects. This is especially difficult with drugs used to treat cancer, where the goal is to destroy or inhibit growth of cancer cells without damaging healthy cells. We believe our NDCs concentrate their anti-cancer payloads inside tumor cells while sparing normal tissue because they are small enough to pass through the leaky pores of new blood vessels in tumors as an entry portal into tumor tissue, but are too large to pass through the pores of healthy blood vessels. Once inside tumors, we believe our NDCs are actively taken up into tumor cells where they slowly release their anti-cancer payloads, providing a durable inhibition of their targets. 
+
+We believe that the ability to combine our NDCs with other agents, either approved or experimental, is a key differentiating feature of our platform. Based on their properties and design, our NDCs have the potential to enable synergistic combination therapies that can offer better tolerability and efficacy. We believe that better tolerability can be achieved through the preferential accumulation of the NDC in the tumor cells while better efficacy can be achieved by combining drugs that have different and complementary mechanisms of action. Cancer is a multi-faceted disease that is rarely adequately addressed by one therapy. Tumor cells are genetically diverse and can rapidly resist and ultimately overcome a single-agent therapy by modulating various adaptive pathways; however, if multiple drugs simultaneously shut down multiple adaptive pathways, there is a greater chance of achieving favorable disease responses for an extended period of time. 
+
+Our platform has generated two-clinical stage NDCs. Our first platform-generated clinical candidate, CRLX101, is in Phase 2 clinical development in patients with renal cell carcinoma, or RCC, and in Phase 2 and Phase 1b clinical development in patients with ovarian cancer in combination with Avastin &#174; (bevacizumab) and paclitaxel, respectively. We refer to the ongoing Phase 2 randomized, controlled, company-sponsored trial comparing CRLX101 administered in combination with Avastin to investigator&#8217;s standard of care in patients who have received two or three prior lines of therapy as the RCC Trial. CRLX101 has been dosed in more than 350 patients and has shown activity in multiple tumor types, both as monotherapy and in combination with other cancer treatments. The United States Food and Drug Administration, or FDA, has granted CRLX101 fast track designation in combination with Avastin in metastatic RCC and orphan drug designation for the treatment of ovarian cancer. Our second platform-generated clinical candidate, CRLX301, is currently in Phase 1/2a clinical development. We intend to generate additional candidates, alone and potentially in collaboration with partners.
+
+&#160;
+
+Our lead clinical candidate, CRLX101, is an NDC with a camptothecin payload. Camptothecin is a potent topoisomerase 1 , or topo 1, inhibitor that was too toxic to develop in the clinic; however, CRLX101 reduces the toxicities associated with this hig hly potent agent, while increasing the payload concentration in tumors. In CRLX101, c amptothecin is covalently linked to a nanoparticle backbone, which is a cyclodextrin- polyethylene glycol polymer . CRLX101 is designed to concentrate in tumors and slowly release the camptothecin inside tumor cells. CRLX101 inhibits topo 1 which is involved in cellular replication, and also inhibits hypoxia-inducible factor-1&#945;, or HIF-1&#945;, which research suggests is a master regulator of cancer cell survival mechanisms, an d hypoxia-inducible factor- 2 &#945;, or HIF- 2 &#945; , which we believe may also be an important therapeutic target in RCC . Collectively, we will refer to HIF-1&#945; and HIF-2&#945; as HIF . 
+
+CRLX101 exemplifies the potential combinability features of NDCs. We are currently exploring four distinct approaches to combination therapy. We believe that we can safely deliver therapeutic levels of CRLX101 that durably inhibit topo 1 and HIF. We can combine this potential inhibition of topo 1 and HIF with additive mechanisms of cell killing using other drugs to potentiate the therapeutic effect. Opportunities for combination therapies that leverage CRLX101&#8217;s apparently favorable tolerability profile include, but are not limited to, the following four combination initiatives:
+
+&#160;
+
+1. 
+
+vascular endothelial growth factor, or VEGF, inhibitors such as Avastin;
+
+&#160;
+
+2. 
+
+chemotherapies such as weekly paclitaxel;
+
+&#160;
+
+3. 
+
+Deoxyribonucleic acid, or DNA, damage repair agents including, poly ADP ribose polymerase, or PARP, inhibitors such as Lynparza&#8482; (olaparib); and
+
+&#160;
+
+4. 
+
+potentially, in combination with immuno-oncology agents such as indoleamine-pyrrole 2,3-dioxygenase, or IDO inhibitors.
+
+Our second clinical candidate, CRLX301, is an NDC with a docetaxel payload. Docetaxel is a commercially successful oncology drug that suffers from significant toxicities. We believe that CRLX301 will be differentiated from docetaxel because it is designed to concentrate more docetaxel in tumor cells and spare healthy tissue. In preclinical studies, CRLX301 delivered up to 10 times more docetaxel into tumors, compared to an equivalent milligram dose of commercially available docetaxel and was similar to or better than docetaxel in seven of seven animal models, with a statistically significant survival benefit seen in five of those seven models. In addition, preclinical data show that CRLX301 had lower toxicity than has been reported with docetaxel in similar preclinical studies. 
+
+The lead indications for CRLX101 are relapsed RCC and relapsed ovarian cancer. In relapsed RCC, CRLX101 is being studied in a randomized company-sponsored trial in combination with Avastin. In relapsed ovarian cancer, CRLX101 is being studied in (1) a single-arm Investigator-Sponsored Trial, or IST, sponsored by Massachusetts General Hospital as monotherapy and in combination with Avastin and (2) a company-sponsored trial in combination with paclitaxel. In addition, CRLX101 is being studied in (1) locally advanced rectal cancer in a Phase 1b/2 open-label IST sponsored by the University of North Carolina in combination with chemoradiotherapy and (2) solid tumors in a company-sponsored trial using a dose-intensive schedule of CRLX101 in patients with advanced solid tumors as a monotherapy as well as a combination therapy. We expect that CRLX101 will be studied in solid tumors in a National Cancer Institute-sponsored trial in combination with Lynparza beginning in the first half of 2016. Finally, CRLX301 is currently being explored in a company-sponsored trial in patients with advanced solid tumors.
+
+Our Platform: Dynamically Tumor Targeted NDCs 
+
+Our Dynamic Tumor Targeting Platform is designed to create NDCs with the aim of providing safer and more effective therapies for patients living with cancer. While there have been significant advancements in the search for safe and effective cancer treatments, cancer still remains a difficult disease to treat. A major challenge in developing anti-cancer drugs is to engineer drugs that work at the sites of disease without adversely affecting healthy tissue. Our NDC platform is designed to create NDCs that accumulate high concentrations of active drug in tumor cells, without unwanted exposure to healthy tissue. We believe that increasing the concentration of active drug only in the tumor cells: 1) increases the likelihood of killing cancer cells; 2) reduces toxicity; and 3) enables the administration of our NDCs with other cancer drugs. The rationale for combination therapy is to use drugs that work by different mechanisms and that may have complementary effects, thereby decreasing the likelihood that resistant cancer cells will develop. When drugs with different effects are safely combined, the goal is to use each drug at an optimal dose, without intolerable side effects.
+
+Dynamic Tumor Targeting 
+
+We believe our NDCs represent a new paradigm of drug therapy. NDCs are nanoparticles conjugated to anti-cancer payloads that are designed to accumulate in high levels in tumor cells while limiting exposure to healthy tissue. 
+
+&#160;
+
+Based on our preclinical studies and multiple clinical trials with CRLX101, we believe d ynamic t umor t argeting involves a three-step process, as described and illustrated below, each of which contributes to the achievement of desirable anti-cancer payloa d exposure in tumors and the reduction of undesirable anti-cancer payload exposure in normal tissue. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+1. 
+
+Tumor targeting via leaky vasculature . After intravenous infusion, our NDCs circulate in the bloodstream. In contrast to typical small molecule drugs, once in the bloodstream, our NDCs are generally too large to be rapidly eliminated by filtration in the kidneys and to escape from the bloodstream into normal tissue. However, they are small enough to exploit the leaky vasculature found in the immature blood vessels of growing tumors as a selective entry portal into tumor tissue. As tumors grow, they stimulate the formation of new, immature blood vessels, the inner surfaces of which are less densely lined by endothelial cells as compared to mature blood vessels. As a result, immature blood vessels of growing tumors have larger pores that confer leakiness. Generally, pore sizes of normal tissue are less than ten nanometers, and pore sizes of tumor tissue are greater than 100 nanometers. Our NDCs are typically between 10 and 40 nanometers in diameter. 
+
+&#160;
+
+Our NDCs are designed to be stealthy, meaning that they are designed to survive detection by the body&#8217;s immune cells and therefore avoid stimulating an immune response. This results in slow metabolism and long systemic circulation, allowing our NDCs to penetrate from the bloodstream into tumors via the leaky vasculature. 
+
+&#160;
+
+2. 
+
+Transport into tumor cells . Once inside the tumor, tumor cells transport our NDCs into the interior of tumor cells. We believe that macropinocytosis acts as the primary mechanism of uptake. Macropinocytosis is a cellular uptake mechanism that allows small particles to be transported into cells. It is induced by the tumor&#8217;s rapid growth and ensuing demand for cellular building blocks. Macropinocytosis is up-regulated in tumor cells, and CRLX101 exploits this feature to drive uptake of the NDC and its anti-cancer payload. Following their entry into the cancer cells, we believe our NDCs are too large to be removed from cancer cells by their existing efflux pumps. Efflux is the process by which toxic substances are moved out of the cell and which can confer tumor resistance against anti-cancer agents. 
+
+&#160;
+
+3. 
+
+Sustained release of anti-cancer payload from within tumor cells . Since the anti-cancer payload is covalently linked to the polymer of the NDC, the anti-cancer payload has to be cleaved from the polymer to be active. We believe the cleavage of the linker connection between the anti-cancer payload and the NDC occurs primarily by hydrolysis and therefore is affected by pH. Typically, the pH level in tumors is lower than in the bloodstream, which further slows the cleavage of the linker and thereby prolongs the release of the anti-cancer payload within tumor cells. We believe sustained release contributes to enhanced anti-tumor activity. 
+
+&#160;
+
+As clinical evidence of selective entry of CRLX101 in tumor tissue, we obtained differential post-therapy biopsies of tumor tissue and adjacent normal tissue from nine gastric patien ts. In nine of nine patient biopsies, taken between 24 and 48 hours after a single dose of CRLX101 was administered, the presence of camptothecin associated with CRLX101 was observed in the tumor tissue. In contrast, no definitive evidence of either the n anoparticle or camptothecin contained within the nano particle was observed in neighboring normal tissue. An illustrative example from one patient is shown in the figure below (in which camptothecin is referred to as &#8220;CPT&#8221; in the image on the right). These human data support our belief that our platform achieves higher drug concentrations in tumors compared to normal tissue. Further, the data showed inhibition of topo 1 and HIF-1&#945; in post-treatment biopsies. In addition, we believe that the observed safety p rofile of our lead drug candidate, CRLX101, across more than 350 cancer patients, can be explained by the targeted delivery of the anti-cancer payload and the sparing of key organ systems from extensive drug exposure. 
+
+Clark et al. (2015). CRLX101, an investigational nanoparticle-drug conjugate, localizes in human tumors and not in adjacent healthy tissue after intravenous dosing. Mol Cancer Ther 14(12 Suppl 2):Abstract nr B33.
+
+Application of the Platform 
+
+Our platform is applicable to a range of payloads. We have created NDCs with a variety of small molecule payloads, including, but not limited, to camptothecin, docetaxel, Jevtana &#174; (cabazitaxel), gemcitabine, methotrexate, and Xeljanz &#174; (tofacitinib). We select the small molecule payload based upon several factors, including our ability to conjugate the payload to our polymer, the biological rationale for prolonging circulation and providing sustained release of the payload, a relatively high potency of the payload, as well as intellectual property, regulatory and commercial considerations. As discussed below, in preclinical testing, our NDCs generally show improved pharmacokinetics, activity and tolerability as compared to the payload alone. We intend to develop NDCs alone and potentially in collaboration with partners.
+
+Our platform has thus far generated a lead candidate, CRLX101, and a second candidate, CRLX301, and we believe it has the potential to further expand our pipeline, alone and in combination with partners.
+
+In November 2015, we entered into a collaboration with AstraZeneca AB, or AstraZeneca, and the National Cancer Institute, or the NCI, to study the clinical combination of AstraZeneca&#8217;s drug Lynparza with CRLX101. We believe our NDCs enable therapeutic combinations because they are designed to concentrate anti-cancer payloads inside tumor cells and spare healthy tissue. Preclinical data generated by AstraZeneca with the Lynparza-CRLX101 combination demonstrated a synergistic anti-tumor effect from targeting two validated pathways. While PARP-topo 1 combinations have traditionally been limited by toxicity, preclinical work done by AstraZeneca suggests that a Lynparza-CRLX101 combination therapy could be clinically relevant.
+
+Potential for Combinability 
+
+The ability to combine our NDCs with other agents, either approved or experimental, is a key differentiating feature of our Dynamic Tumor Targeting Platform. Based on their properties and design, our NDCs have the potential to enable synergistic combination therapies that can offer both better tolerability and efficacy. 
+
+&#160;
+
+Drugs in a combination therapy are expected to demonstrate efficacy, which is often based on the drugs using multiple different mechanisms of action. Tumor cells are genetically diverse and can rapidly resist and ultimately overcome a single-agent therapy by modulating various adaptive pathways; however, if multiple drugs simultaneously shut down multiple adaptive pathways, there is a greater chance of achieving disease responses for an extended period of time. We believe our NDCs can be engineered to optimize the synergistic effects of combination therapy. We believe CRLX101 has opportunities in combination with each of the following four categories of cancer treatment : VEGF inhibitors such as A vastin, chemotherapy such as paclitaxel, DNA damage repair agents such as PARP inhibitors, and , potentially, immuno-oncology agents such as IDO inhibitors. 
+
+A drug eligible for combination therapy also should demonstrate a safety profile that does not overlap with or exacerbate the safety profile of the combination agent. The highlighted graph below represents the adverse events experienced by patients in the CRLX101 arm in an open-label, randomized Phase 2 clinical trial of CRLX101 as monotherapy in patients with advanced non-small cell lung cancer, or NSCLC, who had progressed through one or two prior chemotherapy regimens. This trial, which commenced in 2011, enrolled 157 patients, 97 of whom were administered CRLX101 as monotherapy. The other graphs below show the adverse events experienced by patients in clinical trials of approved camptothecin-class therapeutics, irinotecan and topotecan. CRLX101 was generally well tolerated in the NSCLC trial and the adverse event profile observed in the NSCLC trial supports our view that CRLX101 may be combinable with other anti-cancer therapies. 
+
+&#160;
+
+** IV topotecan label categorizes non-hematological AEs as (a) grade 1-2 and (b) grade 3-4, but categorizes hematological AEs as (a) grade 1-3 and (b) grade 4, so hematological AEs are shown with diagonal stripes.
+
+&#160;
+
+Data not from comparative trial. Sources: Irinotecan (FDA label); Topotecan (FDA label), CRLX101 at 15mg/m 2 MTD (Phase 2 NSCLC Trial. 100 patients).
+
+CRLX101 is currently in clinical trials in combination with an anti-angiogenic drug, Avastin, in relapsed RCC and relapsed ovarian cancer. We have demonstrated that CRLX101 is synergistic with Avastin in an ovarian xenograft model. We believe that this synergy is at least partly caused by the ability of CRLX101 to inhibit the up-regulation of HIF-1 &#97; &#32; caused by anti-angiogenic therapy. We have further confirmed this synergy in a highly metastatic ovarian cancer orthotopic tumor model, as well as in a triple-negative breast cancer orthotopic tumor model. We have observed the synergy of CRLX101 with other VEGF inhibitors such as Votrient &#174; (pazopanib) and Zaltrap &#174; (ziv-aflibercept). 
+
+&#160;
+
+We have conducted animal tumor model studies comparing CRLX101 to certain leading anti-angiogenesis drugs and the combination of CRLX101 and these anti-angiogenesis drugs. In these studies, we treated nude mouse xenograft models in which human A2780 ovarian cancer tumor cells were implanted subcutaneously in mice and allowed to establish tumors. We administered 5 mg/kg CRLX101 weekl y by intravenous infusion alone or in combination with one of three different antiangiogenic drugs: Avastin, Zaltrap or Votrient. Avastin was dosed intravenously at 5 mg/kg twice per week. Zaltrap was dosed intraperitoneally at 25 mg/kg twice per week. Vot rient was dosed orally at 150 mg/kg daily. Vehicle-treated mice were dosed with saline. Each dose group consisted of ten animals. We administered a CRLX101 dose level that was half the maximum-tolerated dose so that we could compare the effect of the appli cable CRLX101 combination to CRLX101 as monotherapy. All other dose levels were the maximum effective dose in this model, as indicated by the literature. For the analysis of HIF-1 &#97; &#32; in tumors, mice were dosed for ten days, and three days following the final dose tumors were flash-frozen and HIF-1 &#97; &#32; protein levels were measured via western blot analysis, quantified using infrared fluorescence detection, normalized to actin levels and compared to HIF-1 &#97; &#32; protein levels from saline-treated mice. For the survival analysis, mice were dosed for three weeks, tumors were measured using calipers twice per week, and each animal was euthanized at the earlier of the time when its tumor reached a volume of 2,000 cubic millimeters or the end of the study. 
+
+In these animal tumor model studies: 
+
+&#160;
+
+&#8226; 
+
+HIF-1&#945; protein expression was significantly up-regulated in the presence of each tested anti-angiogenesis drug; 
+
+&#160;
+
+&#8226; 
+
+HIF-1&#945; protein expression was significantly down-regulated when exposed to a low dose of CRLX101; 
+
+&#160;
+
+&#8226; 
+
+when CRLX101 was combined with any of the tested anti-angiogenesis drugs, HIF-1&#945; protein expression was down-regulated compared to control, thus confirming that the CRLX101 down-regulation can counteract the HIF-1&#945; protein expression up-regulation normally produced by these anti-angiogenesis drugs alone; and 
+
+&#160;
+
+&#8226; 
+
+the combination of a low dose of CRLX101 with the anti-angiogenesis drugs was synergistic and resulted in markedly longer animal survival than either drug by itself. 
+
+These HIF-1 &#97; &#32; protein expression and survival rate results are illustrated in the graphs below. 
+
+Pham et al. (2015). Translational impact of nanoparticle-drug conjugate CRLX101 with or without bevacizumab in advanced ovarian cancer. Clin Cancer Res 21(4):808-18.
+
+&#160;
+
+Our Corporate Strategy 
+
+Our goal is to be a leader in the discovery, development and commercialization of NDCs for the treatment of patients with inadequately treated forms of cancer. Key elements of our strategy to achieve this goal are to: 
+
+&#160;
+
+&#8226; 
+
+Advance the development of our lead clinical candidate, CRLX101, in multiple tumor types. Based on confirmatory signals of activity observed in the ongoing relapsed RCC IST we initiated a randomized Phase 2 clinical trial of CRLX101 in combination with Avastin in this patient population in 2014. The trial completed enrollment in October 2015 and we expect to report top-line data from this trial in the first half of 2016. We are exploring development opportunities in additional tumor types, and we intend to explore additional development opportunities, alone and in collaboration with strategic partners, to capitalize on the various opportunities to use CRLX101 in combination with other cancer treatments. 
+
+&#160;
+
+&#8226; 
+
+Advance the development of our second clinical candidate, CRLX301, into selected indications. We have determined the maximum tolerated dose, or MTD, of CRLX301 administered once every three weeks, and continue to explore the MTD of CRLX301 on a weekly dosing schedule. These determinations will help us to determine a recommended Phase 2 dose.
+
+&#160;
+
+&#8226; 
+
+Leverage our platform to discover and develop a proprietary pipeline of highly differentiated product candidates with anti-cancer payloads . Using our platform, we have created two clinical candidates, CRLX101 and CRLX301. We have used our platform to create additional NDCs, and we intend over the longer term to develop additional product candidates from the platform. 
+
+&#160;
+
+&#8226; 
+
+Leverage our platform beyond our proprietary pipeline to enter into strategic partnerships for the development of product candidates. We believe that our platform can be used with a wide range of payloads. We plan to explore the possibility of entering into partnerships with companies that have proprietary active pharmaceutical ingredients, or APIs, that can be used as NDC payloads for use in the treatment of oncology indications. We envision selective partnerships with pharmaceutical companies, in which we would leverage the partner&#8217;s expertise, in combination with our platform, to generate novel NDCs incorporating the partner&#8217;s approved therapeutic or development candidate. 
+
+&#160;
+
+&#8226; 
+
+Build core capabilities that allow us to commercialize our products in the United States. In order to maximize the value of our product candidates, if approved, we expect to commercialize our products in the United States with a focused commercialization organization and to seek one or more strategic partners for commercialization outside the United States. 
+
+Our Product Pipeline
+
+Our current development stage pipeline consists of CRLX101 and CRLX301. As described in more detail below, we are pursuing clinical development of CRLX101 in two lead indications, and we began clinical development of CRLX301 in 2014.
+
+CRLX101 
+
+Our lead clinical candidate, CRLX101, is a dynamically tumor targeted NDC in Phase 2 clinical development and has the potential to improve outcomes for patients in combination with other cancer treatments. CRLX101 has shown activity as monotherapy and in combination with other cancer treatments, in multiple tumor types. CRLX101 is in Phase 2 clinical development and has been administered to more than 350 patients. The FDA has granted CRLX101 fast track designation in combination with Avastin in metastatic RCC and orphan drug designation for the treatment of ovarian cancer.
+
+We believe CRLX101, which contains camptothecin as its anti-cancer payload, is a potent, durable and combinable inhibitor of topo 1, a commercially validated cancer target, and HIF, a novel target of increasing interest in cancer research. Two products that have been marketed by other companies, irinotecan and topotecan, inhibit topo 1, but their clinical use is associated with severe toxicities. Recent research suggests that HIF, and in particular the HIF subunit HIF-l &#97; &#44; &#32; is a master regulator of multiple cancer cell survival pathways. 
+
+We have demonstrated in preclinical studies that CRLX101 is a potent, durable and combinable inhibitor of topo 1 and HIF. We believe that the properties of CRLX101 could translate into important benefits for patients. We are focusing the clinical development of CRLX101 on cancer indications in which we expect the durable inhibition of topo 1 and HIF, in combination with other cancer treatments, will lead to differentiated efficacy. We are exploring combinations with VEGF inhibitors such as Avastin, chemotherapy such as paclitaxel, DNA damage repair agents such as PARP inhibitors, and, potentially, combinations with immuno-oncology agents such as IDO inhibitors.
+
+&#160;
+
+Clinical Development 
+
+We are pursuing development of CRLX101 in combination with anti-cancer therapies in multiple ongoing clinical development programs that include company-sponsored trials and ISTs. Our two lead indications are RCC, or kidney cancer, and ovarian cancer: 
+
+&#160;
+
+&#8226; 
+
+Relapsed RCC: 
+
+&#160;
+
+o 
+
+Current Trial : We completed enrollment of the RCC Trial in October 2015 and we expect to announce top-line data in the first half of 2016. The primary endpoint is investigator-assessed progression free survival, or PFS, according to Response Evaluation Criteria In Solid Tumors, or RECIST, version 1.1. Secondary endpoints include, but are not limited to, overall response rate, or ORR, independent radiologic reviewed PFS, duration of response and overall survival. The trial is sized to show a 2.3 month improvement over an expected 3.5 month median PFS for standard of care with a hazard ratio of 0.6, meaning that the trial is expected to show whether CRLX101 plus Avastin provides a 66% improvement in PFS over available third- and fourth-line treatments. 
+
+&#160;
+
+o 
+
+Prior Clinical Trial : CRLX101 in combination with Avastin has been evaluated in a Phase 1b/2 single-arm IST in patients with relapsed RCC. Based on the results of this IST, we believe that the combination of CRLX101 and Avastin may provide therapeutic benefits to patients with RCC who have received two or three prior lines of therapy including a tyrosine kinase inhibitor, or TKI, and/or an inhibitor of a mammalian target of rapamycin, or an mTOR inhibitor. A total of 22 patients were evaluable for efficacy in this trial. The last patient was enrolled in December 2014, and the trial met its primary endpoint of safety and tolerability. 
+
+Data from this clinical trial was presented at the 2015 annual meetings of the American Society of Clinical Oncology and the Kidney Cancer Association Annual Meeting. The median PFS of patients in the trial was 9.9 months. Based on third-party published data, the expected PFS of the standard of care in this setting is approximately 3.6 months. In addition, the RECIST partial response rate of patients in the trial was 23%. Several recent studies in advanced RCC suggest that after treatment with a TKI, subsequent therapies, including Avastin alone, achieve RECIST partial response rates of between 2% and 4%.
+
+&#160;
+
+o 
+
+Market Opportunity : The American Cancer Society estimated that 62,000 new cases of kidney cancer would occur in the United States in 2015 and that approximately 14,000 people would die from kidney cancer in 2015. According to the most recently available data from Surveillance, Epidemiology, and End Results Program of the United States National Cancer Institute, the incidence of kidney cancer has been generally rising each year. RCC is by far the most common type of kidney cancer, accounting for nine out of every ten kidney cases. Up to 30% of patients with RCC present with metastatic disease and five-year survival among these patients is less than 10%. There is currently no cure for RCC that has metastasized beyond the lymph nodes to one or more distant organs, which we refer to as metastatic RCC. There is currently no treatment specifically approved for the treatment of RCC in patients who have progressed on two or more prior lines of therapy. This unmet need creates an opportunity for a new class of therapies in this indication. 
+
+&#160;
+
+o 
+
+Current Treatments for RCC : Systemic therapeutic options for advanced RCC include molecularly targeted therapies and chemotherapy and immunomodulatory therapies such as interferon alpha and interleukin-2. There are currently eight FDA-approved therapies commonly used for the treatment of RCC. In November 2015, the FDA approved Opdivo&#174; (nivolumab) to treat patients with metastatic RCC whose disease progressed on an anti-angiogenic therapy. Opdivo is a fully human immunoglobulin G4 PD-1 immune checkpoint inhibitor antibody that selectively blocks the interaction between PD-1, which is expressed on activated T cells, and PD-1 ligand 1, or PD-L1, and PD-1 ligand 2, or PD-L2, which are expressed on immune cells and tumor cells. 
+
+&#160;
+
+o 
+
+Rationale for Use of CRLX101 in RCC : CRLX101 appears to durably suppress topo 1 and HIF in preclinical animal studies and has demonstrated notable synergy in combination with VEGF inhibitors including Avastin. We hypothesize that CRLX101 could overcome HIF-mediated acquired resistance to Avastin, which could facilitate the translation of median PFS and response rate benefits achieved with Avastin in this setting into meaningful overall survival benefits for RCC patients. 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+Relapsed ovarian cancer: &#160;
+
+&#160;
+
+o 
+
+Current Trials : A Phase 2 single-arm IST of CRLX101 as monotherapy and in combination with Avastin in patients with relapsed ovarian cancer is being conducted at Massachusetts General Hospital and affiliated Harvard University teaching hospitals. The monotherapy arm of the trial, in which 29 patients were enrolled, met its primary endpoint. RECIST responses, as well as encouraging PFS, were observed for several patients in the monotherapy arm. The results from the monotherapy arm led to the combination arm of this trial which employs a two-stage design. The first stage enrolled 18 patients and achieved the pre-defined criterion for advancement into the second stage, which showed improved activity relative to the monotherapy arm. We are enrolling an additional 25 patients in the second stage of this trial. 
+
+We are conducting a Phase 1b single-arm company-sponsored trial of CRLX101 in combination with weekly paclitaxel in patients with relapsed ovarian cancer in collaboration with the GOG Foundation, Inc. (formerly known as the Gynecologic Oncology Group), or GOG. This Phase 1b multi-center, open-label, dose-escalation study combines CRLX101 with weekly paclitaxel in up to 24 patients with recurrent or persistent epithelial ovarian, fallopian tube or primary peritoneal cancer. The trial is designed to identify the maximum tolerated dose as well as pharmacokinetics, safety and tolerability of CRLX101 in combination with weekly paclitaxel. We will also evaluate preliminary evidence of efficacy.
+
+&#160;
+
+o 
+
+Market Opportunity : The American Cancer Society estimated that approximately 21,000 women in the United States would receive a new diagnosis of ovarian cancer in 2015 and that approximately 14,000 women in the United States would die from ovarian cancer in 2015, which would make ovarian cancer the leading cause of death among gynecologic malignancies in the United States. 
+
+&#160;
+
+o 
+
+Current Treatments for Ovarian Cancer : First-line therapy for ovarian cancer, including epithelial, tubal and peritoneal cancers, is typically inclusive of a platinum and taxane containing therapy with or without Avastin; however, Avastin was not approved for use in ovarian cancer until November 2014. Some patients will be primary refractory, meaning they will never achieve a RECIST-based response to initial therapy; the prognosis for these patients is extremely poor. The majority of patients with advanced ovarian cancer who achieve a RECIST-based response will eventually experience cancer recurrence. Therapy selected for later-line treatment of patients who achieve a RECIST-based response to frontline therapy depends on whether the patient is defined as platinum-sensitive or platinum-resistant. Platinum sensitive includes those patients who achieved initial response and whose cancer does not recur for six months or longer after completing platinum-based therapy. Resistant disease includes those who experience recurrence in less than six months. Treatment of patients with platinum-sensitive disease will typically include another platinum containing therapy, usually a doublet where the second agent is a taxane or gemcitabine. Alternatively, Doxil &#174; (liposomal doxorubicin) may be used. Treatment of patients with platinum-resistant disease is more challenging and may include one of several agents, including Doxil, topotecan, docetaxel, gemcitabine, weekly paclitaxel and etoposide, none of which have been established to prolong survival. Avastin may also be considered, although it was not FDA-approved for platinum-resistant disease until November 2014 when it was approved in combination with any one of the following three chemotherapies: pegylated liposomal doxorubicin, weekly paclitaxel, or topotecan. There remains considerable unmet medical need for patients with recurrent ovarian cancer and in particular for those who are platinum-resistant. 
+
+&#160;
+
+o 
+
+Rationale for Use of CRLX101 in Ovarian Cancer : The combination of CRLX101 with Avastin in platinum-resistant ovarian cancer capitalizes on several important aspects of this indication, specifically: ovarian cancer is a HIF overexpressing tumor type, CRLX101 has been shown to be synergistic with Avastin in preclinical ovarian cancer models, and preliminary clinical evaluation of this combination appears to be generally well tolerated thus far. We also believe that CRLX101 could provide benefit to patients with relapsed ovarian cancer in combination with other cancer treatments, including paclitaxel. Weekly dosing of paclitaxel demonstrates both cytotoxic and anti-angiogenic activity in ovarian cancer and clinical trials have demonstrated both PFS and overall survival benefits of weekly paclitaxel dosing in this setting, even among patients with prior progression through dose-dense paclitaxel. Therefore, we hypothesize that CRLX101&#8217;s potential to overcome HIF-related chemotherapy resistance is relevant to weekly paclitaxel. This combination has demonstrated greater than additive activity in pre-clinical models and is now being studied in our open-label Phase 1b clinical trial in patients with relapsed ovarian cancer in collaboration with the GOG. 
+
+&#160;
+
+CRLX301 
+
+CRLX301, our second platform-generated NDC clinical candidate, is an NDC with docetaxel as its anti-cancer payload. CRLX301 is designed to concentrate in tumors and slowly release docetaxel inside tumor cells. In preclinical studies, CRLX301 delivered up to 10 times more docetaxel into tumors, compared to an equivalent milligram dose of commercially available docetaxel and was similar to or better than docetaxel in seven of seven animal models, with a statistically significant survival benefit seen in five of those seven models. In addition, preclinical data show that CRLX301 had lower toxicity than has been reported with docetaxel in similar preclinical studies. CRLX301 is currently in Phase 1/2a clinical development.
+
+Docetaxel, a member of the taxane family, is a highly active chemotherapeutic that binds to microtubules to trigger cell death in dividing cells. Docetaxel is extensively used in clinical practice and is FDA-approved for the treatment of locally advanced or metastatic NSCLC, locally advanced squamous cell carcinoma of the head and neck, androgen-independent prostate cancer, locally advanced or metastatic breast cancer and advanced gastric cancer. Moreover, other tumor types are known to be sensitive to docetaxel. Docetaxel causes toxicities, including death attributable to toxicities, hepatotoxicity, neutropenia, hypersensitivity, severe fluid retention and peripheral neuropathy. These toxicities can lead to dose adjustments, treatment discontinuation and extensive supportive care. 
+
+Because CRLX301 is synthesized in a similar manner as CRLX101, we can utilize some common intermediates and manufacturing facilities, thereby creating manufacturing synergies across the two programs. We believe the clinical development risk of CRLX301 is somewhat mitigated because the efficacy of docetaxel in humans is extensively validated. In addition, the safety risk of the NDC platform is reduced since CRLX101, sharing the identical nanoparticle backbone, has been tested in over 350 patients without serious toxicities attributed to the component parts of the NDC. 
+
+Our target product profile for CRLX301 aims to demonstrate improved efficacy, safety and combinability over docetaxel. The potential advantages of CRLX301 would be to increase docetaxel&#8217;s proven anti-tumor activity by targeting sustained release of docetaxel from within tumor cells, thereby achieving sustained drug concentrations in tumor cells. We expect lower tissue distribution with CRLX301 compared to docetaxel, based on preclinical studies, potentially enhancing tolerability. 
+
+We believe that the potentially enhanced therapeutic benefit and favorable safety profile for CRLX301 would enable combination therapies incorporating CRLX301 with other anti-cancer therapies that may not be combinable today due to docetaxel&#8217;s toxicities. 
+
+Clinical Development 
+
+&#160;
+
+&#8226; 
+
+Dose Escalation 
+
+&#160;
+
+o 
+
+Current Trial : We are studying CRLX301 in a Phase 1/2a trial in patients with advanced solid tumor malignancies in order to evaluate the safety of the drug and establish an MTD for two dosing schedules. We explored tolerability of dose ranges when the drug candidate was administered once every three weeks. We completed the first six dosing cohorts starting at 7.5 mg/ m 2 , and then escalated to 15, 30, 60, 75, and 90 mg/ m 2 . At 90 mg/ m 2 , we observed dose limiting toxicities in two of six patients. As a result, we have determined an MTD of 75 mg/ m 2 for this dosing schedule, which is equivalent to the standard dose level and schedule for commercial docetaxel. We are exploring a weekly dosing schedule to determine the MTD for that regimen. These parallel paths will allow us to determine the recommended Phase 2 dose with the preferred dosing schedule. 
+
+&#160;
+
+o 
+
+Market Opportunity : Docetaxel is one of the most commonly used anti-cancer drugs and is approved for use in multiple indications. Although docetaxel is efficacious in these and other indications, its market opportunity is limited by its significant toxicities. We believe that CRLX301 is potentially useful in all of the tumor types where docetaxel is currently used, and might also be useful in settings where docetaxel currently is not used due to toxicity. Therefore, it is difficult to calculate an estimated number of potential patients for CRLX301 at this time. When we pick a lead indication, we may choose from among those tumor types in which docetaxel is approved and active, and in which docetaxel is not approved but where taxanes have demonstrated efficacy or in which resistance to prior taxanes has been established. Such possible tumor types include, among others, ovarian cancer, cervical cancer, breast cancer, gastric cancer, prostate cancer, melanoma and head and neck cancer. Once we have selected the recommended Phase 2 dose and schedule, then we may choose to conduct a randomized Phase 2 clinical trial in an indication of interest in order to conduct a head-to-head comparison of CRLX301 against the standard of care in this tumor type. 
+
+&#160;
+
+&#160;
+
+o 
+
+Rationale for Use of CRLX301 : We have advanced CRLX301 into clinical trials based on data from our preclinical studies, which showe d tumor levels of docetaxel from CRLX301 that were 10 times higher than tumor levels of separately dosed docetaxel . I n a mouse tumor pharmacokinetics study we measured concentrations of docetaxel following administration of a single dose of either CRLX301 or docetaxel to mice, in which certain mouse melanoma tumor cells were implanted subcutaneously and allowed to establish tumors. Approximately 10 times the amount of docetaxel released from CRLX301 was detected in tumors of the mice that were dosed with C RLX301 as compared to the mice that were dosed with the same amount of docetaxel. We also tested the anti-tumor activity of CRLX301 in animal xenograft models of prostate cancer, squamous non-small cell lung cancer, adenocarcinoma non-small cell lung canc er, ovarian cancer, multi-drug resistant ovarian cancer, triple-negative breast cancer and in a syngeneic melanoma model. In all of these models, CRLX301 was either superior or comparable to docetaxel in either delay of tumor progression and/or complete re sponse rate . CRLX301 also showed a statistically significant survival benefit in five out of seven models . &#160;
+
+Our Collaborators
+
+A key component to our strategy is to collaborate with other companies to discover and develop new NDCs. In November 2015, we entered into a collaboration with AstraZeneca and the NCI, part of the National Institutes of Health, to study AstraZeneca&#8217;s drug Lynparza in combination with CRLX101. Lynparza is an FDA-approved PARP inhibitor for the treatment of certain advanced ovarian cancers. The collaboration will explore the combination of PARP and topo 1 inhibition. Preclinical data generated by AstraZeneca with the Lynparza-CRLX101 combination demonstrated a synergistic anti-tumor effect from targeting two validated pathways. While PARP-topo 1 combinations have traditionally been limited by toxicity, we believe that with our NDC and the work AstraZeneca has done to define a clinical dose and schedule we may be able to develop an effective and tolerable Lynparza-CRLX101 combination. The NCI will conduct a combination Phase 1/2a trial.
+
+We are collaborating with Massachusetts General Hospital and the GOG on two clinical trials in relapsed ovarian cancer. The first trial is a Phase 2 single-arm IST of CRLX101 as monotherapy and in combination with Avastin in patients with relapsed ovarian cancer. This IST is being conducted at Massachusetts General Hospital and affiliated Harvard University teaching hospitals. The second trial is a company-sponsored Phase 1b open label trial that we are conducting in collaboration with the GOG testing CRLX101 in combination with weekly paclitaxel in patients with relapsed ovarian cancer. 
+
+Competition 
+
+The biopharmaceutical industry is characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary products. While we believe that our technology, knowledge, experience and scientific resources provide us with competitive advantages, we face potential competition from many different sources, including major pharmaceutical, specialty pharmaceutical and biotechnology companies, academic institutions and governmental agencies and public and private research institutions. Any product candidates that we successfully develop and commercialize will compete with existing therapies and new therapies that may become available in the future. 
+
+Many of our competitors have significantly greater financial, manufacturing, marketing, drug development, technical and human resources than we do. These competitors also compete with us in recruiting and retaining top qualified scientific and management personnel and establishing clinical trial sites and patient registration for clinical trials, as well as in acquiring technologies complementary to, or necessary for, our programs. 
+
+Due to the large unmet medical need, global demographics and relatively attractive reimbursement dynamics, the oncology market is fiercely competitive. In each indication we are pursuing, there are approved cancer therapeutics and agents under clinical development for use as monotherapy and combination therapy. Each of the top ten global pharmaceutical companies and most of the mid-size pharmaceutical companies has a strong research and development and commercial presence in oncology. Smaller companies also focus on oncology, including, without limitation, companies such as Acceleron Pharma, Inc., Agios Pharmaceuticals, Inc., AVEO Pharmaceuticals Inc., ARIAD Pharmaceuticals, Inc., Argos Therapeutics, Inc., BIND Therapeutics, Inc., Clovis Oncology, Inc., Endocyte, Inc., Epizyme, Inc., Exelixis, Inc., ImmunoGen, Inc., Incyte Corporation, Infinity Pharmaceuticals, Inc., MacroGenics, Inc., Medivation, Inc., Merrimack Pharmaceuticals, Inc., OncoMed Pharmaceuticals, Inc., Onconova Therapeutics, Inc., Pharmacyclics, Inc. (which was acquired by AbbVie Inc. on May 26, 2015), Puma Biotechnology, Inc., Seattle Genetics, Inc., TESARO, Inc. and Verastem, Inc. 
+
+&#160;
+
+Companies with marketed nanotechnology-based oncology products include Celgene Corporation (Abraxane&#174; (nab-paclitaxel) indicated for breast cancer, NSCLC and pancreatic cancer), Janssen Products, LP (Doxil indicated for ovarian cancer and, in combinat ion with Velcade &#174; ( bortezomib ) , for multiple myeloma), Merrimack Pharmaceuticals, Inc. (Onivyde TM (irinotecan liposome injection) indicated for pancreatic and colorectal cancer) and Spectrum Pharmaceuticals, Inc. (Marqibo&#174; (vincristine sulfate liposome inj ection) indicated for relapsed Philadelphia chromosome-negative acute lymphoblastic leukemia). Companies with nanotechnology-based oncology product candidates in clinical development include , without limitation, BIND Therapeutics, Inc. (BIND 014 for squamo us NSCLC, urothelial carcinoma, cholangiocarcinoma, cervical cancer and squamous cell carcinoma of the head and neck), Celator Pharmaceuticals, Inc. (CPX-351 for acute myeloid leukemia), Celsion Corporation (ThermoDox (lyso-thermosensitive liposomal doxoru bicin) for liver cancer and breast cancer), Cytimmune Sciences, Inc. (CYT-6091 for NSCLC), Cristal Delivery B.V. d/b/a Cristal Therapeutics (CriPec&#174; docetaxel for oncology), Nektar Therapeutics (NKTR102 for solid tumors), Nippon Kayku Seizo Co., Ltd. (NK10 5 in breast cancer), Starpharma Holdings Ltd. (DEP&#174; docetaxel for oncology), and Supratek Pharma Inc. (SP1049C for solid tumors). 
+
+We believe CRLX101 is the only non-nucleotide oncology product candidate in clinical development that inhibits the HIF pathway as well as topo 1. F. Hoffmann-La Roche Ltd. acquired a Locked Nucleic Acid oncology product candidate that targets HIF-1&#945; (SPC-2968, which was referred to as EZN-2968 when it was being developed by Enzon Pharmaceuticals, Inc. and Santaris Pharma A/S). Peloton Therapeutics, Inc. has developed an orally bioavailable small molecule inhibitor specific to HIF-2&#945; that is in a Phase 1 clinical development in clear cell RCC (PT2385). In addition, there are drugs and biologics in development that could compete with CRLX101 in each of its lead indications. 
+
+In relapsed RCC, the FDA-approved therapies commonly used for treatment represent several mechanistic classes&#8212; immune checkpoint inhibitors of PD-1, TKIs, including small molecules as well as the antibody to VEGF ligand, Avastin, and inhibitors of mTOR&#8212;and there are no approved cytotoxic drugs that we are aware of. Bristol-Myers Squibb Company&#8217;s PD-1 antibody Opdivo is approved in relapsed RCC following progression on one targeted therapy. There are also several drugs in development that have the potential to obtain FDA marketing approval and change the standard of care. Antibodies against PD-1/PD-L1 and CTL-A4 are in late stage development in first line RCC, both as monotherapies and in combination with other agents including Avastin and small molecule TKIs. For example, Bristol-Myers Squibb is developing Opdivo in combination with Yervoy&#8482; (ipilimumab) in first line, Merck is developing Keytruda&#174; (pembrolizumab) in combination with Votrient in first line and Roche is developing a PD-L1 inhibitor, atezolizumab, in combination with Avastin in first line. Argos Therapeutics, Inc. is developing AGS-003, a dendritic cell therapy, in first line RCC for patients with unfavorable risk. New small molecule TKIs are also in development. Exelixis Inc.&#8217;s TKI, Cometriq &#174; (cabozantinib), TRACON Pharmaceuticals, Inc.&#8217;s TRC105, and Acceleron Pharma, Inc.&#8217;s dalantercept (the latter two are in combination with Inlyta &#174; (axitinib)) are in development in second line or later stage relapsed RCC. Eisai Co., Ltd. is developing Lenvima&#174; (lenvantinib) in combination with Afinitor&#174; (everolimus) in second line. AVEO Pharmaceuticals, Inc. is developing tivozanib in third line. Regardless of the results of these trials, we believe that there will remain a place for VEGF targeted therapies, and therefore a role for CRLX101, if approved, in treating patients who progress on a VEGF targeted agent. 
+
+In relapsed ovarian cancer, there are multiple approved therapies, including most recently Avastin, in combination with chemotherapy, and Lynparza. Multiple companies are developing other therapeutic candidates, which are at various stages of development. For example, Abbvie Inc., Clovis Oncology, Inc., Medivation Inc., and TESARO Inc. all have PARP inhibitors in development in BRCA mutated ovarian cancer and breast cancer. ImmunoGen is also developing IMGN853 in folate receptor positive ovarian cancer. OncoMed Pharmaceuticals is developing demcizumab, and Genentech, Inc. is developing DMOT4039A. Although each of these agents has the potential to be used in combination with CRLX101, thereby expanding the market for CRLX101, they also have the potential to compete with CRLX101. 
+
+Several companies are developing taxane-containing nanoparticles for oncology that are competitors to CRLX301. For example, BIND Therapeutics Inc.&#8217;s BIND-014 is a docetaxel containing nanoparticle in active clinical development in squamous NSCLC as well as cervical cancer and head and neck cancer. Nippon Kayaku&#8217;s NK105 is a paclitaxel micelle nanoparticle in late stage clinical development for breast and stomach cancer. Drug-polymer conjugated nanoparticles, such as CTI BioPharma&#8217;s paclitaxel poliglumex, are in late stage clinical development as maintenance therapy for advanced ovarian cancer. 
+
+The key competitive factors affecting the success of all our therapeutic product candidates, if approved, are likely to be their efficacy, safety, dosing convenience, price, the level of generic competition and the availability of reimbursement from government and other third party payors. 
+
+Intellectual Property 
+
+We strive to protect the proprietary technologies that we believe are important to our business, including seeking and maintaining patent protection intended to protect, for example, the technology platforms used to generate our product candidate, related technologies and/or other aspects of the inventions that are important to our business. We also rely on trade secrets and careful 
+
+&#160;
+
+monitoring of our proprietary information to protect aspects of our business that are not amenable to, or that we do not consider appropriate for, patent protection. 
+
+We plan to continue to expand our intellectual property estate by filing patent applications directed to improvements of our platform as well as dosage forms, methods of treatment and additional compositions created or identified from our platform and ongoing development of our product candidates. Our success will depend significantly on our ability to obtain and maintain patent and other proprietary protection for commercially important technology, inventions and know-how related to our business; defend and enforce our patents; maintain our licenses to use intellectual property owned by third parties; preserve the confidentiality of our trade secrets; and operate without infringing the valid and enforceable patents and other proprietary rights of third parties. We also rely on know-how, continuing technological innovation and in-licensing opportunities to develop, strengthen, and maintain our proprietary positions. 
+
+Patents 
+
+Our patent portfolio includes issued patents and pending applications worldwide. These patents and applications fall into three broad categories: (1) NDCs comprising covalent linkage of specific therapeutic agents to our proprietary cyclodextrin polyethylene polymer, or CDP, including without limitation CRLX101 and CRLX301; (2) methods of use of our NDCs; and (3) our evolving platform technology relating to polymeric NDCs. 
+
+We hold issued patents in the United States, Japan, and several other countries, covering the composition of matter of CRLX101 that expire in 2023 and 2024, excluding any potential patent term extension. Due to the ability of NDCs to target the &#8220;leaky&#8221; vasculature that is present in all solid tumors and CRLX101&#8217;s apparently favorable adverse event profile observed to date, we believe CRLX101 may have significant clinical utility in several cancer indications, particularly in combination with other cancer therapies. Our development focus is on tumor types where HIF is up-regulated, topo 1 inhibition is desirable, and drug combinations with CRLX101 can be pursued.
+
+We hold issued patents in the United States, Japan, and several other countries covering the composition of matter of CRLX301 that expire in 2023 and 2024, excluding any potential patent term extension.
+
+Patent Term 
+
+The base term of a United States patent is 20 years from the filing date of the earliest-filed non-provisional patent application from which the patent claims priority. The term of a United States patent can be lengthened by patent term adjustment, which compensates the owner of the patent for administrative delays at the United States Patent and Trademark Office, or USPTO. In some cases, the term of a United States patent is shortened by terminal disclaimer that reduces its term to that of an earlier-expiring patent. 
+
+The term of a United States patent may be eligible for patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984, referred to as the Hatch-Waxman Act, to account for at least some of the time the drug is under development and regulatory review after the patent is granted. With regard to a drug for which FDA approval is the first permitted marketing of the active ingredient, the Hatch-Waxman Act allows for extension of the term of one United States patent that includes at least one claim covering the composition of matter of an FDA-approved drug, an FDA-approved method of treatment using the drug, and/or a method of manufacturing the FDA-approved drug. The extended patent term cannot exceed the shorter of five years beyond the non-extended expiration of the patent or 14 years from the date of the FDA approval of the drug. Some foreign jurisdictions, including Europe and Japan, have analogous patent term extension provisions which allow for extension of the term of a patent that covers a drug approved by the applicable foreign regulatory agency. In the future, if and when our pharmaceutical products receive FDA approval, we expect to apply for patent term extensions on patents covering those products, their methods of use, and/or methods of manufacture. 
+
+Trade Secrets 
+
+In addition to patents, we rely on trade secrets and know-how to develop and maintain our competitive position. We typically rely on trade secrets to protect aspects of our business that are not amenable to, or that we do not consider appropriate for, patent protection. For example, significant elements of the making and formulating of our products are based on trade secrets and know-how that are not publicly disclosed. We protect trade secrets and know-how by establishing confidentiality agreements and invention assignment agreements with our employees, consultants, scientific advisors, contractors and commercial partners. These agreements provide that all confidential information developed or made known during the course of an individual or entity&#8217;s relationship with us must be kept confidential during and after the relationship. These agreements also provide that all inventions resulting from work performed for us or relating to our business and conceived or completed during the period of employment or assignment, as applicable, shall be our exclusive property. In addition, we take other appropriate precautions, such as physical and technological security measures, to guard against misappropriation of our proprietary technology by third parties. 
+
+&#160;
+
+Trademarks 
+
+We also seek trademark protection in the United States and in foreign jurisdictions where available and when appropriate. The name &#8220;CERULEAN&#8221; is a registered trademark in the United States, Australia, China, the European Union, India, Israel, Japan, South Korea, Liechtenstein, Mexico, Norway, Russia, Singapore, Switzerland, Turkey, and the Ukraine and is covered by a pending application for trademark registration in Canada. The trademark is solely owned by Cerulean Pharma Inc., in the field of pharmaceutical preparations as well as in the field of diagnostic and prognostic preparations. The Cerulean logo is a registered trademark in the United States and is solely owned by Cerulean Pharma Inc. CERULEAN and the Cerulean logo is a registered trademark in Mexico and is solely owned by Cerulean Pharma Inc. The term &#8220;Leadership in Nanopharmaceuticals&#8221; is a registered trademark in the United States and is solely owned by Cerulean Pharma Inc. The symbol &#8482; indicates a common law trademark. Other service marks, trademarks and trade names appearing elsewhere in this Annual Report on Form 10-K are the property of their respective owners. 
+
+Assignments and In-License Agreements 
+
+Calando Pharmaceuticals, Inc. 
+
+In June 2009, we entered into two agreements with Calando Pharmaceuticals, Inc., or Calando, the CRLX101 Agreement and the Platform Agreement, each of which we subsequently amended. Under these agreements, Calando assigned and licensed to us certain assets. These assets include the clinical asset then known as IT-101, later renamed CRLX101, and rights to Calando&#8217;s cyclodextrin system for purposes of conjugating or complexing certain other therapeutic agents to the system. 
+
+CRLX101 Agreement: 
+
+Under the CRLX101 Agreement, we obtained certain rights to CRLX101. As noted below in the description of the Platform Agreement, Calando also assigned to us certain patents and patent applications, including, with respect to composition of matter and methods of use, for CRLX101. In addition, under the CRLX101 Agreement, Calando transferred ownership of the CRLX101 IND to Cerulean. Also, under the CRLX101 Agreement, Calando initially granted to us a worldwide, royalty bearing, exclusive (even as to Calando) license, with the right to grant sublicenses, to Calando&#8217;s interest under certain patents, patent applications, and know-how owned or controlled by Calando, to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CRLX101 formulated for intravenous, intrarterial, intrathecal and/or intraperitoneal therapy, to treat and/or prevent disease in humans. As noted below in the description of the Caltech Agreement, all of the patents, patent applications and know-how that were initially licensed to us by Calando under the CRLX101 Agreement and upon which CRLX101 is dependent are now directly licensed to us by Caltech, and we retained the license described above from Calando for patents, patent applications and know-how that are directed to other aspects of the cyclodextrin system but on which CRLX101 is not dependent. For purposes of our obligations to Calando under the CRLX101 Agreement, we treat the intellectual property licensed to us by Caltech as if it were still licensed to us by Calando. These licensed and assigned patent rights are described in more detail above under &#8220;Intellectual Property.&#8221; 
+
+Under the CRLX101 Agreement, we are obligated to use commercially reasonable efforts to develop CRLX101 throughout the world and, following the first commercial sale of CRLX101 in a particular country, to make CRLX101 commercially available in such country. 
+
+Upon entering the CRLX101 Agreement, we paid Calando approximately $1.3 million, which included the purchase of CRLX101 drug substance and drug product inventory. If we achieve certain development and sales events with CRLX101, we are obligated to pay milestone payments which could total, in the aggregate, $32.8 million. If we or one of our affiliates sells CRLX101, we are also required to pay tiered royalty payments ranging from low-to mid-single digits, depending on whether or not there is patent protection for CRLX101 at the time of sale as a percentage of worldwide net sales. Our royalty payment obligations in a particular country begin on the date of first commercial sale of CRLX101 in that country and end on the later of ten years from the date of first commercial sale of CRLX101 in that country or the expiration of all patents licensed to us by Caltech or Calando, referred to as Licensed Patent Rights, or assigned to us by Calando, referred to as the Assigned Patent Rights, which cover CRLX101 in that country. With respect to CRLX101 that is developed and sold by an unaffiliated third party to whom we grant a license or sublicense under any of the intellectual property that we purchased or licensed from Calando, we are required to pay Calando a percentage of the income we receive from the licensee or sublicensee to the extent attributable to such license or sublicense, subject to certain exceptions. The percentage of such sublicense income that we are obligated to pay Calando is in the low- to mid-double digits, and varies depending on the stage of development of CRLX101 at the time that we first provide or receive draft terms of a license arrangement with the third party that results in a license arrangement, unless the negotiations terminate, in which case the percentage depends on the development stage of CRLX101 when the negotiations restart. 
+
+&#160;
+
+We have the first right to enforce the Licensed Patent Rights and Assigned Patent Rights, other than one subset of licensed patents on which CRLX1 01 is not dependent, which Calando has the sole right to enforce. 
+
+We and Calando are required to indemnify each other for losses and expenses in connection with any third party claims arising out of the indemnifying party&#8217;s breach of the CRLX101 Agreement, the negligence or willful misconduct of the indemnifying party or its affiliates or sublicensees under the CRLX101 Agreement or any product liability arising out of CRLX101 developed, made, used or sold by or on behalf of the indemnifying party or its affiliates or sublicensees. 
+
+The CRLX101 Agreement will remain in effect until the expiration of all of our royalty obligations to Calando. We also have the right to terminate the CRLX101 Agreement for any reason on thirty days prior notice to Calando, in which case, unless we certify that the termination was due to specified safety concerns with CRLX101, we will grant Calando an exclusive (even as to Cerulean), royalty-free license, under the Assigned Patent Rights, to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CRLX101, we will assign the IND for CRLX101 to Calando and, if consistent with our business plans, we will discuss granting Calando a license under know-how that we developed that relates to CRLX101. If we fail to meet our diligence obligations under the CRLX101 Agreement after a specified cure period, the license may convert to a non-exclusive license and we will have to grant Calando a non-exclusive license under the Assigned Patent Rights to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CRLX101. If the license is converted to a non-exclusive license, the royalties payable to Calando will be reduced by a specified percentage. If we fail to meet our payment obligations under the agreement and are unable to cure such failure within specified time periods, Calando can terminate the agreement, we are obligated to grant Calando an exclusive (even as to Cerulean), royalty-free license, under the Assigned Patent Rights to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CRLX101 and to assign the IND for CRLX101 to Calando, resulting in our loss of rights to CRLX101. If we or one of our affiliates challenges the validity or enforceability of any of the licensed patents, Calando has the right to terminate the agreement. For any breach of the CRLX101 Agreement not described above, the non-breaching party&#8217;s sole remedy if such breach is not cured within a specified time period is to seek money damages from the breaching party. 
+
+Platform Agreement:
+
+Under the Platform Agreement, Calando assigned to us the Assigned Patent Rights and granted to us a worldwide, royalty bearing, exclusive (even as to Calando) license, with the right to grant sublicenses, to Calando&#8217;s interest under certain patents, patent applications, and know-how owned or controlled by Calando (a) to conduct research and development on the cyclodextrin system, including making improvements thereto, in order to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CDP-based Products and (b) to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CDP-based Products. The field of the license is the treatment and/or prevention of disease in humans. CDP-based Products are defined as products conjugated or complexed to the cyclodextrin system, other than any products containing cytolysin, tubulysin, certain second generation epothilones or a nucleic acid, which we refer to as Retained Products, and CRLX101, which is covered by the CRLX101 Agreement described above. Under the Platform Agreement, we are obligated to use commercially reasonable efforts to develop CDP-based Products throughout the world and, following the first commercial sale of CDP-based Product in a particular country, to make CDP-based Product commercially available in such country. 
+
+Upon entering the Platform Agreement, we paid to Calando approximately $1.2 million, which included the payment for assignment of the Assigned Patent Rights and cyclodextrin-containing polymers and precursor inventory. We granted Calando a worldwide, royalty-free, exclusive (even as to Cerulean), perpetual and irrevocable license, with the right to grant sublicenses, under the Assigned Patent Rights to research, develop, make, have made, use, market, offer to sell, sell and import the Retained Products. 
+
+If we achieve certain development and sales events with respect to any CDP-based Product, we are obligated to pay milestone payments which could total, in the aggregate, $18.0 million per CDP-based Product. Upon the initiation of our CRLX301 Phase 1 trial in December 2014, we made a milestone payment of $250,000 to Calando in January 2015. If we or one of our affiliates sells a CDP-based Product, we are also required to pay tiered royalty payments ranging from low-to mid-single digits, depending on whether or not there is patent protection at the time of sale, as a percentage of worldwide net sales. Our royalty payment obligations in a particular country begin on the first date of first commercial sale of the CDP-based Product in that country and end on the later of ten years from the date of first commercial sale of that CDP-based Product in that country or the expiration of all patents licensed or assigned from Calando which cover that CDP-based Product in that country. With respect to a CDP-based Product that is developed and sold by a third party to whom we grant a license or sublicense under any of the intellectual property that we licensed from Calando or that Calando assigned to us, we are required to pay Calando a percentage of the income we receive from the licensee or sublicensee to the extent attributable to such license or sublicense, subject to certain exceptions. The percentage of such sublicense income that we are obligated to pay Calando does not exceed the low-double digits. 
+
+We have the first right to enforce the licensed patent rights and the Assigned Patent Rights, other than one subset of licensed patents which Calando has the sole right to enforce. 
+
+&#160;
+
+We and Calando are required to indemnify each other for losses and expenses in connection with any third party claims arising out of the indemnifying party&#8217;s breach of the Pla tform Agreement, the negligence or willful misconduct of the indemnifying party or its affiliates or sublicensees under the Platform Agreement or any product liability arising out of a CDP-based Product developed, made, used or sold by or on behalf of the indemnifying party or its affiliates or sublicensees. Calando also indemnifies us for losses and expenses in connection with any third party claim arising out of a Retained Product developed, made, used or sold by or on behalf of Calando or its affiliates or licensees. 
+
+The Platform Agreement will remain in effect until the expiration of all of our royalty obligations to Calando. We also have the right to terminate the Platform Agreement for any reason on thirty days prior written notice to Calando, in which case we will grant Calando an exclusive (even as to Cerulean), royalty-free license, under Assigned Patent Rights, to research, develop, make, have made, use, market, offer to sell, distribute, sell and import the CDP-based Products and, if consistent with our business plans, we would discuss granting Calando a license under know-how that we developed that relates to the cyclodextrin system or CDP-based Products. If we fail to meet our diligence obligations under the agreement after a specified cure period, Calando may convert the license to a non-exclusive license and we will have to grant Calando a non-exclusive license under the Assigned Patent Rights to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CDP-based Products. If the license is converted to a non-exclusive license, the royalties payable to Calando will be reduced by a certain percentage. If we fail to meet our payment obligations under the agreement and are unable to cure such failure within specified time periods, Calando can terminate the agreement, resulting in our loss of rights to the CDP-based Products and an obligation to grant Calando an exclusive (even as to Cerulean), royalty-free license, under the Assigned Patent Rights to research, develop, make, have made, use, market, offer to sell, distribute, sell and import CDP-based Products. If we or one of our affiliates challenges the validity or enforceability of any of the licensed patents, Calando has the right to terminate the agreement. For any breach of the Platform Agreement not described above, the non-breaching party&#8217;s sole remedy if such breach is not cured within a specified time period is to seek money damages from the breaching party. 
+
+California Institute of Technology 
+
+Certain of the patents, patent applications, and know-how licensed to us under the CRLX101 Agreement and the Platform Agreement were originally licensed to Calando by the California Institute of Technology, or Caltech, pursuant to an agreement entered into between Calando and Caltech in May 2000 and subsequently amended, which we refer to as the Calando/Caltech Agreement. In August 2013, we entered into an agreement with Calando and Caltech under which Calando terminated its rights and obligations under the Calando/Caltech Agreement and Caltech agreed to directly honor the exclusive license, including the right to grant further sublicenses, granted to us by Calando under the Caltech intellectual property formerly licensed to Calando. 
+
+We are obligated to pay Caltech minimum annual royalties and the costs it incurs to prosecute and maintain the licensed patent rights. We may offset those prosecution and maintenance costs against any milestones or royalties that we owe to Calando under the CRLX101 Agreement or the Platform Agreement. 
+
+Following the earlier of our receipt of notice from Calando that it has made certain payments to third parties or the first anniversary of the first commercial sale of a product covered by the Caltech patent rights, we will directly pay to Caltech the amounts that it would have been entitled to receive from Calando with respect to our sales of the licensed products, and we will pay to Calando the remainder of the royalties we owe them under the CRLX101 Agreement and the Platform Agreement. 
+
+We have the first right to enforce the Caltech licensed patent rights. 
+
+We may terminate our rights and obligations to Caltech and Calando with respect to any of the Caltech licensed intellectual property either in its entirety or as to any jurisdiction or as to any part of the intellectual property upon a specified period of prior notice to Caltech and Calando. Caltech has the right to terminate the agreement if we fail to make a payment, or otherwise materially breach the agreement and fail to cure such breach within specified grace periods. 
+
+The Research Foundation of State University of New York on behalf of University at Buffalo 
+
+In August 2007, we entered into an exclusive license agreement with The Research Foundation of State University of New York on behalf of University at Buffalo, which we refer to as the SUNY Agreement. The SUNY Agreement has been amended four times, including to extend the time period for achieving certain diligence milestones, and the most recent amendment was entered into in September 2013. Under the SUNY Agreement, we have a worldwide, royalty bearing, exclusive license, with the right to grant sublicenses, for the treatment and/or prevention of disease in humans, under certain patent rights owned by SUNY, to research, develop, make, have made, use, offer for sale, sell, have sold, import and export certain products covered by the licensed patent rights. 
+
+&#160;
+
+We are required to diligently proceed with the research, development, manufacture, use and sale of licensed products under the agr eement, to use commercially reasonable efforts to commercialize and market licensed products as soon as practicable, and to make licensed products available on commercially reasonable terms once introduced into the marketplace. In particular, we are requir ed to fulfill specific development and regulatory milestones by particular dates and, during each calendar year prior to the first commercial sale of a licensed product, spend a specified amount on the research, development or commercialization of licensed products or precursor technologies or products, and if we fail to do so SUNY may elect to increase our license maintenance fee and, in the case of a second failure, our exclusive license will be converted to a non-exclusive license. 
+
+Under the SUNY Agreement, as of December 31, 2015, we had paid SUNY approximately $0.2 million in the aggregate, consisting of an upfront license fee, a field-of-use expansion fee, annual maintenance fees and reimbursement of patent-related fees incurred by SUNY. We are also obligated to pay SUNY an escalating annual license maintenance fee and development milestone payments which could total, in the aggregate, less than $0.1 million and royalties in the low single digits as a percentage of net sales by us, our affiliates or our sublicensees of licensed products. 
+
+SUNY retains the right to practice the licensed patent rights for educational purposes and internal research and development, including collaborations with researchers at other academic and non-profit research institutions. Any of the licensed patent rights claiming inventions that were funded by the government are subject to certain rights retained by the United States government under a law commonly called the Bayh-Dole Act. These rights include, among other things, a royalty-free, non-exclusive license for the United States government to practice these inventions. Any products used or sold in the United States and covered by these patents must be substantially manufactured in the United States, unless a waiver is obtained from the U.S. government. 
+
+SUNY controls prosecution and maintenance of the licensed patents, although we have an approval right over certain actions. We reimburse SUNY for all reasonable costs associated with filing, prosecuting and maintaining the licensed patent rights. SUNY has the first right to enforce the licensed patents against infringers in the licensed field. We have the right to enforce the licensed patents if SUNY does not institute an infringement action within a specified period of time. 
+
+We are required to indemnify SUNY for any claims and expenses resulting from the exercise or practice of the license granted to us, including liabilities arising from the production, manufacture, sale, use, lease or advertisement of the licensed products. 
+
+The SUNY Agreement will remain in effect until the expiration of all licensed patents and patent applications, unless we elect to earlier terminate the entire license, or the license with respect to certain patent families, subject to providing SUNY with a specified amount of prior written notice. SUNY has the right to terminate the SUNY Agreement if we have a bankruptcy action filed against us, have a receiver appointed for us, or if we materially breach the agreement and fail to cure such situation or breach within a specified grace period. The SUNY Agreement will automatically terminate if we cease to carry on our business, file for bankruptcy, become insolvent, make an assignment for the benefit of creditors, or challenge the validity or enforceability of any of the licensed patents. 
+
+Manufacturing 
+
+We currently contract with third parties for the manufacture of our product candidates for preclinical studies and clinical trials and intend to do so in the future. We do not own or operate manufacturing facilities for the production of clinical or commercial quantities of our product candidates. We currently have no plans to build our own clinical or commercial scale manufacturing capabilities. To meet our projected needs for commercial manufacturing, third parties with whom we currently work will need to increase their scale of production or we will need to secure alternate suppliers. Although we rely on contract manufacturers, we have personnel with manufacturing experience to oversee our relationships with contract manufacturers. 
+
+Our contract manufacturers have manufactured what we believe to be sufficient quantities of CRLX101 drug product to support clinical trials through 2016, and have begun manufacturing additional supplies to continue clinical development of CRLX101 beyond 2016. The current drug substance and drug product manufacturing processes for CRLX101 are scaled to support Phase 2/3 clinical development under current Good Manufacturing Practice, or cGMP, standards. Although we believe our drug substance and drug product manufacturing processes are capable of supporting further development and scale up for commercial demand at a reasonable cost of goods, we are exploring more scalable and cost effective modifications to the drug substance manufacturing process. While we believe that our existing supplier of drug substance is capable of producing drug substance in commercial quantities, we are in the process of identifying a new third party drug product manufacturer capable of providing commercial quantities. If we are unable to arrange for third-party manufacturing with this or other alternative vendors, or fail to do so on commercially reasonable terms, we may not be able to successfully produce and market CRLX101. 
+
+&#160;
+
+Processes for producing CRLX30 1 have been developed and used successfully to produce drug substance and drug product for good laboratory practice, or GLP , safety studies and cGMP Phase 1/2a clinical supply. Improvements to both the drug substance manufacturing process and the drug pro duct formulation are currently underway in preparation for P hase 2 development. 
+
+Both CRLX101 and CRLX301 include complicated polymer backbone structures as well as cytotoxic agents. Although these characteristics may limit alternative third party manufacturers, we believe that there are alternate sources of supply that can satisfy our clinical and commercial requirements, and we have or are pursuing back-up suppliers for certain stages of the manufacturing process. We cannot be certain, however, that identifying and establishing relationships with additional alternate sources, if necessary, would not result in significant delay or material additional costs. 
+
+Sales and Marketing 
+
+We intend to build the commercial infrastructure in the United States necessary to effectively support the commercialization of CRLX101, if approved, and future oncology products, if approved. The commercial infrastructure for specialty oncology products typically consists of a targeted, specialty sales force that calls on a limited and focused group of physicians supported by sales management, internal sales support, an internal marketing group and distribution support. Additional capabilities important to the oncology marketplace include the management of key accounts such as managed care organizations, group-purchasing organizations, specialty pharmacies, oncology group networks and government accounts. 
+
+Based on the number of physicians who treat the lead oncology indications for CRLX101 and the size of competitive sales forces, we believe that we can effectively target the relevant U.S. market with a focused sales force. If CRLX101 is approved in multiple indications, we might need to increase the number of representatives. To develop the appropriate U.S. commercial infrastructure, we will have to invest significant amounts of financial and management resources. 
+
+In the future, we may utilize one or more strategic partners to optimally commercialize CRLX101 and our other products outside of the United States. 
+
+Government Regulation
+
+Government authorities in the United States, at the federal, state and local level, and in other countries and jurisdictions, including the European Union, extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, post-approval monitoring and reporting, and import and export, of pharmaceutical products. The processes for obtaining regulatory approvals in the United States and in foreign countries and jurisdictions, along with subsequent compliance with applicable statutes and regulations and other regulatory authorities, require the expenditure of substantial time and financial resources and the successful outcome of those processes cannot be guaranteed. 
+
+Review and Approval of Drugs in the United States 
+
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act, or FDCA, and implementing regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval may subject an applicant and/or sponsor to a variety of administrative or judicial sanctions, including refusal by the FDA to approve pending applications, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters and other types of letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement of profits, or civil or criminal investigations and penalties brought by the FDA and the Department of Justice or other governmental entities. 
+
+An applicant seeking approval to market and distribute a new drug product in the United States must typically undertake the following: 
+
+&#160;
+
+&#8226; 
+
+completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA&#8217;s GLP regulations; 
+
+&#160;
+
+&#8226; 
+
+submission to the FDA of an IND, which must take effect before human clinical trials may begin; 
+
+&#160;
+
+&#8226; 
+
+approval of the clinical trial(s) by an independent institutional review board(s), or IRB(s), representing each clinical site before each clinical trial may be initiated; 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+performance of adequate and well-controlled human clinical trial(s) in accordance with good clinical practices, or GCP, to establish the safety and efficacy of the propose d drug product for each indication; &#160;
+
+&#160;
+
+&#8226; 
+
+preparation and submission to the FDA of a new drug application, or NDA summarizing available data to support the proposed approval of the new drug product for the proposed use; 
+
+&#160;
+
+&#8226; 
+
+review of the product by an FDA advisory committee, as may be requested by the FDA to assist with its review; 
+
+&#160;
+
+&#8226; 
+
+satisfactory completion of FDA inspection(s) of the manufacturing facility or facilities at which the product, or components thereof, are produced to assess compliance with current Good Manufacturing Practices, or cGMP, requirements and to assure that the facilities, methods and controls are adequate to preserve the product&#8217;s identity, strength, quality and purity; 
+
+&#160;
+
+&#8226; 
+
+satisfactory completion of FDA audits of clinical trial sites to assure compliance with GCPs and the integrity of the clinical data;
+
+&#160;
+
+&#8226; 
+
+payment of user fees (per published PDUFA guidelines for that year) and securing FDA approval of the NDA; and 
+
+&#160;
+
+&#8226; 
+
+compliance with any post-approval requirements, including Risk Evaluation and Mitigation Strategies, or REMS, and post-approval studies required by the FDA. 
+
+Nonclinical Studies 
+
+Nonclinical studies include laboratory evaluation of the purity and stability of the manufactured drug substance or active pharmaceutical ingredient and the formulated drug or drug product. They also include in vitro and animal studies to assess the safety and activity of the drug to start dose assessment for initial testing in humans and to further establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including GLP regulations. The results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical studies, among other things, are submitted to the FDA as part of an IND for clinical investigation in the United States. Some long-term preclinical testing, such as animal tests of reproductive adverse events and carcinogenicity, may continue after the IND is submitted. 
+
+Human Clinical Studies in Support of an NDA 
+
+Clinical trials involve the administration of the investigational product to human subjects under the supervision of qualified investigators in accordance with IND and GCP requirements, which include, among other things, the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under written study protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to a proposed clinical trial and places the trial on clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. 
+
+In addition, an IRB representing each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution, and the IRB must conduct continuing review and reapprove the study at least annually. The IRB must review and approve, among other things, the study protocol, major amendments and informed consent information to be provided to study subjects. An IRB must operate in compliance with FDA regulations. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health for public dissemination on their ClinicalTrials.gov website. 
+
+Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined: 
+
+Phase 1: Phase 1 includes the initial introduction of an investigational new drug into humans. Phase 1 studies are typically closely monitored and may be conducted in patients or normal volunteer subjects. These studies are designed to determine the metabolism and pharmacologic actions of the drug in humans, the toxicities associated with increasing doses, and, if possible, to gain early evidence on effectiveness. During Phase 1, sufficient information about the drug&#8217;s pharmacokinetics and pharmacological effects should be obtained to permit the design of well-controlled, scientifically valid, Phase 2 studies. The total number of subjects and patients included in Phase 1 studies varies with the drug, but are generally smaller than later stage studies. Phase 1 studies also include studies of drug metabolism, structure-activity relationships, and mechanism of action in humans, as well as studies in which investigational drugs are used as research tools to explore biological phenomena or disease processes.
+
+&#160;
+
+Phase 2: Phase 2 includes the controlled clinical studies conducted to evaluate the effectiveness of the drug for a particular indication or indication s in patients with the disease or condition under study and to determine the common short-term side effects and risks associated with the drug. Phase 2 studies are typically well controlled, closely monitored, and conducted in a relatively small number of patients, usually involving no more than several hundred subjects. 
+
+Phase 3: Phase 3 studies are expanded trials, generally at geographically dispersed clinical trial sites. They are performed after preliminary evidence suggesting effectiveness of the drug has been obtained, and are intended to gather the additional information about effectiveness and safety that is needed to evaluate the overall benefit-risk relationship of the drug and to provide an adequate basis for physician labeling. Phase 3 studies usually include from several hundred to several thousand subjects.
+
+Phase 4. Post-approval studies may be conducted after initial marketing approval. These studies are used to gain additional experience from the treatment of patients in the intended therapeutic indication.
+
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA through the IND and more frequently if serious adverse events occur. In addition, IND safety reports must be submitted to the FDA for any of the following: serious and unexpected suspected adverse reactions; findings from other studies or animal or in vitro testing that suggest a significant risk in humans exposed to the drug; and any clinically important increase in the case of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. The FDA or the sponsor or the data monitoring committee may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. The FDA will typically inspect one or more clinical sites to assure compliance with GCP and the integrity of the clinical data submitted.
+
+Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution, or an institution it represents, if the clinical trial is not being conducted in accordance with the IRB&#8217;s requirements or if the drug has been associated with unexpected serious harm to patients
+
+In order to protect the rights and welfare of human research subjects and to verify the quality and integrity of data submitted to the FDA in support of marketing applications, the FDA monitors all aspects of FDA-regulated research through a comprehensive program of on-site inspections and data audits. Under the FDA&#8217;s Bioresearch Monitoring Program, FDA field investigators and headquarters&#8217; scientists conduct site visits of research sponsors, clinical investigators, contract research organizations, IRBs, radioactive drug research committees, and non-clinical (animal) laboratories.
+
+In general, the FDA accepts foreign safety and efficacy studies that were not conducted under an IND provided that they are well designed, well conducted, performed by qualified investigators, and conducted in accordance with ethical principles acceptable to the world community. The conduct of these studies must meet at least minimum standards for assuring human subject protection. Therefore, for studies submitted in support of an NDA that were conducted outside the U.S. and not under an IND, the agency requires demonstration that such studies were conducted in accordance with Good Clinical Practices. 
+
+Expanded Access to an Investigational Drug for Treatment Use
+
+Expanded access, sometimes called &#8220;compassionate use,&#8221; is the use of investigational new drug products outside of clinical trials to treat patients with serious or immediately life-threatening diseases or conditions when there are no comparable or satisfactory alternative treatment options. The rules and regulations related to expanded access are intended to improve access to investigational drugs for patients who may benefit from investigational therapies.
+
+When considering an IND application for expanded access to an investigational product with the purpose of treating a patient or a group of patients, the sponsor and treating physicians or investigators will determine suitability when all of the following criteria apply:
+
+&#160;
+
+&#8226; 
+
+Patient(s) have a serious or immediately life-threatening disease or condition, and there is no comparable or satisfactory alternative therapy to diagnose, monitor, or treat the disease or condition;
+
+&#160;
+
+&#8226; 
+
+The potential patient benefit justifies the potential risks of the treatment and the potential risks are not unreasonable in the context of the disease or condition to be treated; and
+
+&#160;
+
+&#8226; 
+
+The expanded use of the investigational drug for the requested treatment will not interfere with the initiation, conduct, or completion of clinical investigations that could support marketing approval of the product or otherwise compromise the potential development of the product.
+
+&#160;
+
+FDA regulations allow access to investigational drugs under an IND by the company or the treating physicia n (see investigator-sponsored trials below) for treatment purposes on a case-by-case basis for: 
+
+&#160;
+
+&#8226; 
+
+individual patients (single-patient IND applications for treatment in emergency settings and non-emergency settings);
+
+&#160;
+
+&#8226; 
+
+intermediate-size patient populations (groups of patients, n &#62;1); and
+
+&#160;
+
+&#8226; 
+
+larger populations for use of the drug under a treatment protocol or Treatment IND Application.
+
+Investigator-Sponsored Trials 
+
+Investigator-sponsored trials are clinical trials where the investigator of the trial is also the &#8220;sponsor&#8221; of the trial for regulatory purposes. An &#8220;investigator&#8221; conducts clinical investigations and is the person under whose immediate direction the study drug is administered or dispensed to patients. A &#8220;sponsor&#8221; initiates and takes responsibility for a clinical investigation. A person who both initiates and conducts a clinical trial, and is responsible for all regulatory requirements, is designated as a &#8220;sponsor-investigator&#8221; by the FDA. Clinical investigators at academic medical centers who initiate clinical trials with a lawfully marketed drug to be used in a patient population or investigational (unapproved) indication often fit within this designation. In addition, as is the case with our investigator-sponsored trials, a company may provide a sponsor-investigator with supply of its unapproved product candidate and funding for the trial. Investigators who initiate and conduct such trials are responsible for obtaining an IND from the FDA and for ensuring compliance with the IND and associated regulatory requirements. As provided by the FDA&#8217;s regulations, the sponsor of a clinical trial is responsible for, among other things, selecting qualified investigators, providing them with the information they need to conduct the trial properly, ensuring proper monitoring of the trial, ensuring that the trial is conducted in accordance with the protocols contained in the IND, maintaining an effective IND with respect to the trial, and ensuring that the FDA, the company, and all participating investigators are promptly informed of significant new adverse effects or risks with respect to the drug. In contrast, in a company-sponsored trial, the pharmaceutical company whose drug will be studied is the sponsor of the trial and, as such, is responsible for ensuring compliance with all regulatory requirements, including obtaining the IND. 
+
+In connection with our ongoing investigator-sponsored trials of CRLX101, we have entered into agreements with the institutions at which the trials are being conducted. The terms of these agreements are customary and generally provide that (a) the institution is responsible for obtaining and maintaining any necessary IND for the trial, for conducting the trial in accordance with an agreed upon protocol and applicable regulatory requirements and for safety reporting to us, the IRB, and the FDA, (b) the institution grants to us a license to use the trial data for any legally permissible purpose and assigns to us all intellectual property rights relating to the trial drug developed during the course of the agreement, (c) we are responsible for supplying the trial drug and making agreed upon payments to the institution to fund the trial and (d) the term of the agreement is the duration of the applicable trial, however, the agreement can be terminated for convenience with notice, upon the request of an applicable regulatory agency, for safety reasons or following an uncured material breach by the other party. 
+
+Submission of an NDA to the FDA 
+
+Detailed information and results from preclinical and clinical studies and other requirements relating to the product&#8217;s chemistry, manufacture, controls and proposed labeling are submitted to the FDA as part of an NDA requesting approval to market the drug product for one or more indications. Under federal law, the submission of most NDAs is additionally subject to an application user fee, currently exceeding $2.3 million, and the sponsor of an approved NDA is also subject to annual product and establishment user fees, currently exceeding $114,000 per product and $585,000 per establishment for fiscal year 2016. These fees are typically increased annually. Important exceptions or waivers for user fees include:
+
+&#160;
+
+&#8226; 
+
+A small company (fewer than 500 employees, including employees of affiliates) may submit a written request for a waiver by the FDA to waive the application fee for its first human drug application. After a waiver for a first human drug application is granted, the small business is assessed appropriate user fees for all subsequent human drug applications and supplements submitted for review.
+
+&#160;
+
+&#8226; 
+
+Products with orphan drug designation for a particular indication are not subject to an application user fee provided there are no other intended uses in the NDA.
+
+The FDA conducts a preliminary review of an NDA within 60 days of its receipt and informs the sponsor by the 74th day after the FDA&#8217;s receipt of the submission to determine whether the application is sufficiently complete to permit substantive review. The FDA may request additional information rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The FDA has agreed to specified performance goals in the review process of NDAs. &#8220;Standard review&#8221;, representing most such applications is generally reviewed within ten months from the date of filing. &#8220;Priority review&#8221;, as may be designated by the FDA for a drug that treats a serious condition and, if approved, 
+
+&#160;
+
+would provide a significant improvement in safety or effectiveness, are targeted t o be reviewed within six months from the date of filing. The review process may be extended by the FDA for three additional months to consider new information or clarification provided by the applicant to address an outstanding deficiency identified by the FDA following the original submission. 
+
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is or will be manufactured. These pre-approval inspections usually cover all facilities associated with an NDA submission, including drug component manufacturing (such as Active Pharmaceutical Ingredients), finished drug product manufacturing, and control testing laboratories. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA, the FDA will typically inspect one or more clinical sites meeting specific criteria to assure compliance with GCP. The FDA may also inspect the company to evaluate, for example, processes, safety reporting procedures, training and compliance with U.S. regulations as the sponsor.
+
+In addition, as a condition of approval, the FDA may require an applicant to develop REMS. REMS use risk minimization strategies beyond the professional labeling to ensure that the benefits of the product outweigh the potential risks. To determine whether a REMS is needed, the FDA will consider the size of the population likely to use the product, seriousness of the disease, expected benefit of the product, expected duration of treatment, seriousness of known or potential adverse events and whether the product is a new molecular entity. REMS can include medication guides, physician communication plans for healthcare professionals, and elements to assure safe use, or ETASU. ETASU may include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring and the use of patient registries. The FDA may require a REMS before approval or post-approval if it becomes aware of a serious risk associated with use of the product. The requirement for a REMS can materially affect the potential market and profitability of a product. 
+
+The FDA may refer an application for a novel drug to an advisory committee or explain why such referral was not made. Typically, an advisory committee is a panel of independent experts, including clinicians and other scientific experts, that reviews, evaluates and provides a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. 
+
+Fast Track, Breakthrough Therapy and Priority Review 
+
+The FDA is authorized to designate certain products for expedited review if they are intended to address an unmet medical need in the treatment of a serious or life-threatening disease or condition. These programs are fast track designation, breakthrough therapy designation, intended to expedite drug development, and priority review designation, intended to expedite review and approval of an NDA. 
+
+Specifically, the FDA may designate a product for fast track review if it is intended, whether alone or in combination with one or more other drugs, for the treatment of a serious or life-threatening disease or condition, and it demonstrates the potential to address unmet medical needs for such a disease or condition. For fast track products, sponsors may have greater interactions with the FDA regarding drug development and the company may submit sections of a fast track product&#8217;s NDA before the application is complete. A rolling review must be communicated to and agreed upon by the FDA. The sponsor must also provide, and the FDA must approve, a schedule for the submission of the remaining information. The sponsor must pay the applicable user fee upon submission of the first module in the rolling submission. However, the FDA&#8217;s time period goal for reviewing a rolling NDA does not begin until the last module of the NDA is submitted. Notably, fast track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+
+In 2012, Congress enacted the Food and Drug Administration Safety and Improvement Act, or FDASIA. This law established a new regulatory scheme allowing for expedited review of products designated as &#8220;breakthrough therapies.&#8221; A product may be designated as a breakthrough therapy if it is intended, either alone or in combination with one or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints. The FDA may take certain actions with respect to breakthrough therapies, including holding increased meetings with the sponsor throughout the development process; providing timely advice to the product sponsor regarding development and approval; involving more senior staff in the review process; assigning a cross-disciplinary project lead for the review team; and taking other steps to design the clinical trials in an efficient manner. In oncology, new products with breakthrough therapy designation have occasionally been approved well before the PDUFA review timeline, even for priority review, has elapsed.
+
+An NDA for a drug will receive priority review designation by the FDA if it is a drug that treats a serious condition and, if approved, would provide a significant improvement in safety or effectiveness. The FDA determines, on a case-by-case basis, whether the proposed drug represents a significant improvement when compared with other available therapies. Significant improvement may be illustrated by evidence of increased effectiveness in the treatment of a condition, elimination or substantial reduction of a treatment-
+
+&#160;
+
+limiting drug reaction, documented enhancement of patient compliance that may lead to improvement in serious outcomes, and evidence of safety and effectiveness in a new subpopulation. A priority designation is intended to direct overall attent ion and resources to the evaluation of such applications, and to shorten the FDA&#8217;s goal for taking action on a marketing application from ten months to six months after the application is accepted for filing. 
+
+Accelerated Approval Pathway 
+
+The FDA may grant accelerated approval to a drug for a serious or life-threatening condition that provides meaningful therapeutic advantage to patients over existing treatments based upon a determination that the drug has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit. The FDA may also grant accelerated approval for such a condition when the product has an effect on an intermediate clinical endpoint that can be measured earlier than an effect on irreversible morbidity or mortality, or IMM, and that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. Drugs granted accelerated approval must meet the same statutory standards for safety and effectiveness as those granted traditional approval. 
+
+For the purposes of accelerated approval, a surrogate endpoint is a marker, such as a laboratory measurement, radiographic image, physical sign, or other measure that is thought to predict clinical benefit, but is not itself a measure of clinical benefit. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. An intermediate clinical endpoint is a measurement of a therapeutic effect that is considered reasonably likely to predict the clinical benefit of a drug, such as an effect on IMM. The FDA has limited experience with accelerated approvals based on intermediate clinical endpoints, but has indicated that such endpoints generally may support accelerated approval where the therapeutic effect measured by the endpoint is not itself a clinical benefit and basis for traditional approval, if there is a basis for concluding that the therapeutic effect is reasonably likely to predict the ultimate clinical benefit of a drug. 
+
+The accelerated approval pathway is most often used in settings in which the course of a disease is long and an extended period of time is required to measure the intended clinical benefit of a drug, even if the effect on the surrogate or intermediate clinical endpoint occurs rapidly. Thus, accelerated approval has been used extensively in the development and approval of drugs for treatment of a variety of cancers in which the goal of therapy is generally to improve survival or decrease morbidity and the duration of the typical disease course requires lengthy and sometimes large trials to demonstrate a clinical or survival benefit. 
+
+Accelerated approval will be subject to the requirement that the applicant study the drug further, to verify and describe its clinical benefit, where there is uncertainty as to the relation of the surrogate endpoint to clinical benefit, or of the observed clinical benefit to ultimate outcome. Post-marketing studies would usually be studies already underway. When required to be conducted, such studies must also be adequate and well-controlled. The applicant shall carry out any such studies with due diligence.
+
+Failure to conduct required post-approval studies, or confirm a clinical benefit during post-marketing studies, would allow the FDA to withdraw the drug from the market on an expedited basis. All promotional materials for drug candidates approved under accelerated regulations are subject to prior review by the FDA.
+
+The FDA&#8217;s Decision on an NDA 
+
+On the basis of the FDA&#8217;s evaluation of the NDA and accompanying information, including the results of the inspection of the manufacturing facilities, the FDA may issue an approval letter or a complete response letter. An approval letter authorizes commercial marketing of the product with specific prescribing information for specific indications. A complete response letter generally outlines the deficiencies in the submission and may require additional, sometimes substantial, testing or information in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA&#8217;s satisfaction in a resubmission of the NDA, the FDA will issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. 
+
+If the FDA approves a product, it may impose post-marketing requirements, which are studies and clinical trials that the sponsor is required to conduct under one or more statutes or regulations, or post-marketing commitments which are studies or clinical trials that the sponsor has agreed to conduct, but that are not required by a statute or regulation. The FDA may limit the approved indications for use for the product, require that contraindications, warnings and/or precautions be included in the product labeling, require that post-approval studies, including Phase 4 clinical trials, be conducted to further assess the drug&#8217;s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution restrictions or other risk management mechanisms, including REMS, which can materially affect the potential market and profitability of the product. The FDA may prevent or limit further marketing of a product based on the results of post-market studies 
+
+&#160;
+
+or surveillance programs. After approval, many types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further testin g requirements and FDA review and approval. 
+
+Post-Approval Maintenance 
+
+Drugs manufactured or distributed pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims, are subject to prior FDA review and approval. There also are continuing, annual user fee requirements for any marketed products and the establishments at which such products are manufactured, as well as new application fees for supplemental applications with or without clinical data.
+
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies, and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon the sponsor and any third-party manufacturers that the sponsor may decide to use. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance. 
+
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical trials to assess new safety risks; or imposition of distribution or other restrictions under a REMS program. Other potential consequences include, among other things: 
+
+&#160;
+
+&#8226; 
+
+restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls; 
+
+&#160;
+
+&#8226; 
+
+fines, warning letters or holds on post-approval clinical trials; 
+
+&#160;
+
+&#8226; 
+
+refusal of the FDA to approve pending NDAs or supplements to approved NDAs, or suspension or revocation of product license approvals; 
+
+&#160;
+
+&#8226; 
+
+product seizure or detention, or refusal to permit the import or export of products; or 
+
+&#160;
+
+&#8226; 
+
+injunctions or the imposition of civil or criminal penalties. 
+
+The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs may be promoted only for the approved indications and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses, and a company that is found to have improperly promoted off-label uses may be subject to significant liability. 
+
+In addition, the distribution of prescription pharmaceutical products is subject to the Prescription Drug Marketing Act, or PDMA, and its implementing regulations, as well as the Drug Supply Chain Security Act, or DSCA, which regulate the distribution and tracing of prescription drugs and prescription drug samples at the federal level, and set minimum standards for the regulation of drug distributors by the states. The PDMA, its implementing regulations and state laws limit the distribution of prescription pharmaceutical product samples, and the DSCA imposes requirements to ensure accountability in distribution and to identify and remove counterfeit and other illegitimate products from the market. 
+
+Abbreviated New Drug Applications for Generic Drugs
+
+In 1984, with passage of the Hatch-Waxman Amendments to the FDCA, Congress authorized the FDA to approve generic drugs that are the same as drugs previously approved by the FDA under the NDA provisions of the statute. To obtain approval of a generic drug, an applicant must submit an abbreviated new drug application, or ANDA, to the agency. In support of such applications, a generic manufacturer may rely on the preclinical and clinical testing previously conducted for a drug product previously approved under an NDA, known as the reference listed drug, or RLD.
+
+Specifically, in order for an ANDA to be approved, the FDA must find that the generic version is identical to the RLD with respect to the active ingredients, the route of administration, the dosage form, and the strength of the drug. At the same time, the FDA 
+
+&#160;
+
+must also determine that the generic drug is &#8220;bioequivalent&#8221; to the innovator drug. Under the statute, a generic drug is bioequivalent to a RLD if &#8220;the rate and extent of absorption of the drug do not show a significant difference from the rate and extent of absorp tion of the listed drug[.]&#8221; 
+
+Upon approval of an ANDA, the FDA indicates whether the generic product is &#8220;therapeutically equivalent&#8221; to the RLD in its publication &#8220;Approved Drug Products with Therapeutic Equivalence Evaluations,&#8221; also referred to as the &#8220;Orange Book.&#8221; Physicians and pharmacists consider a therapeutic equivalent generic drug to be fully substitutable for the RLD. In addition, by operation of certain state laws and numerous health insurance programs, the FDA&#8217;s designation of therapeutic equivalence often results in substitution of the generic drug without the knowledge or consent of either the prescribing physician or patient.
+
+Under the Hatch-Waxman Amendments, the FDA may not approve an ANDA until any applicable period of non-patent exclusivity for the RLD has expired. The FDCA provides a period of five years of non-patent data exclusivity for a new drug containing a new chemical entity. In cases where such exclusivity has been granted, an ANDA may not be filed with the FDA until the expiration of five years unless the submission is accompanied by a Paragraph IV certification, as discussed below, in which case the applicant may submit its application four years following the original product approval. The FDCA also provides for a period of three years of exclusivity if the NDA includes reports of one or more new clinical investigations, other than bioavailability or bioequivalence studies, that were conducted by or for the applicant and are essential to the approval of the application. This three-year exclusivity period often protects changes to a previously approved drug product, such as a new dosage form, route of administration, combination or indication.
+
+Hatch-Waxman Patent Certification and the 30 Month Stay
+
+Upon approval of an NDA or a supplement thereto, NDA sponsors are required to list with the FDA each patent with claims that cover the applicant&#8217;s product or an approved method of using the product. Each of the patents listed by the NDA sponsor is published in the Orange Book. When an ANDA applicant files its application with the FDA, the applicant is required to certify to the FDA concerning any patents listed for the reference product in the Orange Book, except for patents covering methods of use for which the ANDA applicant is not seeking approval. To the extent that the Section 505(b)(2) applicant is relying on studies conducted for an already approved product, the applicant is required to certify to the FDA concerning any patents listed for the approved product in the Orange Book to the same extent that an ANDA applicant would.
+
+Specifically, the applicant must certify with respect to each patent that:
+
+&#160;
+
+&#8226; 
+
+the required patent information has not been filed;
+
+&#160;
+
+&#8226; 
+
+the listed patent has expired;
+
+&#160;
+
+&#8226; 
+
+the listed patent has not expired, but will expire on a particular date and approval is sought after patent expiration; or
+
+&#160;
+
+&#8226; 
+
+the listed patent is invalid, unenforceable or will not be infringed by the new product.
+
+A certification that the new product will not infringe the already approved product&#8217;s listed patents or that such patents are invalid or unenforceable is called a Paragraph IV certification. If the applicant does not challenge the listed patents or indicates that it is not seeking approval of a patented method of use, the ANDA application will not be approved until all the listed patents claiming the referenced product have expired (other than method of use patents involving indications for which the ANDA applicant is not seeking approval).
+
+If the ANDA applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders once the ANDA has been accepted for filing by the FDA. The NDA and patent holders may then initiate a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within 45 days after the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA until the earlier of 30 months after the receipt of the Paragraph IV notice, expiration of the patent, or a decision in the infringement case that is favorable to the ANDA applicant.
+
+Pediatric Studies and Exclusivity 
+
+Under the Pediatric Research Equity Act of 2003, a NDA or supplement thereto must contain data that are adequate to assess the safety and effectiveness of the drug product for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. With enactment of FDASIA in 2012, sponsors must also submit pediatric study plans prior to the assessment data. Those plans must contain an outline of the proposed pediatric study or studies the applicant plans to conduct, including study objectives and design, any deferral or waiver requests, and other information required by regulation. The applicant, the FDA, and the FDA&#8217;s internal review committee must then review the 
+
+&#160;
+
+information submitted, consult with each other, and agree upon a final plan. The FDA or the applicant may request an amendment to the plan at any time. 
+
+The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements. Additional requirements and procedures relating to deferral requests and requests for extension of deferrals are contained in FDASIA. Unless otherwise required by regulation, the pediatric data requirements do not apply to products with orphan designation. 
+
+The Best Pharmaceuticals for Children Act is intended to improve the FDA and applicant accountability for the agreed-upon pediatric studies by creating a new mechanism for funding pediatric studies that sponsors or holders of approved applications declined to conduct voluntarily. Pediatric exclusivity, if granted, provides for the attachment of an additional six months of marketing protection to the term of any existing regulatory exclusivity, including the non-patent and orphan exclusivity, which is discussed below. This six-month exclusivity may be granted if an NDA sponsor submits pediatric data that fairly respond to a written request from the FDA for such data. The data do not need to show the product to be effective in the pediatric population studied; rather, if the clinical trial is deemed to fairly respond to the FDA&#8217;s request, the additional protection is granted. If reports of requested pediatric studies are submitted to and accepted by the FDA within the statutory time limits, whatever statutory or regulatory periods of exclusivity or patent protection that cover the product are extended by six months. This is not a patent term extension, but it effectively extends the regulatory period during which the FDA cannot approve another application. 
+
+In some oncology indications, where pediatric studies are impossible or highly impractical (because, for example, the number of pediatric patients is so small or geographically dispersed), it may be possible to request a waiver.
+
+Orphan Drug Designation and Exclusivity 
+
+Under the Orphan Drug Act, the FDA may designate a drug product as an &#8220;orphan drug&#8221; if it is intended to treat a rare disease or condition (generally meaning that it affects fewer than 200,000 individuals in the United States. A company must request orphan product designation before submitting a NDA. If the request is granted, the FDA will disclose the identity of the therapeutic agent and its potential use. Orphan product designation does not convey any advantage in or shorten the duration of the regulatory review and approval process. 
+
+If a product with orphan status receives the first FDA approval for the disease or condition for which it has such designation, the product generally will receive orphan product exclusivity. Orphan product exclusivity means that the FDA may not approve any other applications for the same product for the same indication for seven years, except in certain limited circumstances. Competitors may receive approval of different products for the indication for which the orphan product has exclusivity and may obtain approval for the same product but for a different indication. If a drug or drug product designated as an orphan product ultimately receives marketing approval for an indication broader than what was designated in its orphan product application, it may not be entitled to exclusivity. 
+
+Pharmaceutical companies developing an orphan drug to treat an uncommon disease may be eligible for the research tax credit for qualified research expenses or the orphan drug tax credit for development costs attributable to qualified clinical testing incurred in developing the drug.
+
+Unless otherwise required by regulation, the pediatric data requirements under the Pediatric Research Equity Act do not apply to products with orphan designation.
+
+Patent Term Restoration and Extension 
+
+A patent claiming a new drug product may be eligible for a limited patent term extension under the Hatch-Waxman Act, which permits a patent restoration of up to five years for patent term lost during product development and the FDA regulatory review. The restoration period granted is typically one-half the time between the effective date of an IND and the submission date of a NDA, plus the time between the submission date of a NDA and the ultimate approval date. Patent term restoration cannot be used to extend the remaining term of a patent past a total of 14 years from the product&#8217;s approval date. Only one patent applicable to an approved drug product is eligible for the extension, and the application for the extension must be submitted prior to the expiration of the patent in question. A patent that covers multiple drugs for which approval is sought can only be extended in connection with one of the approvals. The USPTO reviews and approves the application for any patent term extension or restoration in consultation with the FDA. 
+
+&#160;
+
+Review and Approval of Drug Products in the European Union 
+
+In order to market any product outside of the United States, a company must also comply with numerous and varying regulatory requirements of other countries and jurisdictions regarding quality, safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of drug products. Whether or not it obtains FDA approval for a product, the company would need to obtain the necessary approvals by the comparable foreign regulatory authorities before it can commence clinical trials or marketing of the product in those countries or jurisdictions. The approval process ultimately varies between countries and jurisdictions and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries and jurisdictions might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country or jurisdiction does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country or jurisdiction may negatively impact the regulatory process in others. 
+
+Clinical Trial Approval in the European Union (EU)
+
+Pursuant to the currently applicable Clinical Trials Directives, an applicant must obtain approval from the competent national authority of the EU member state in which the clinical trial is to be conducted. If the clinical trial is conducted in different EU member states, the competent authorities in each of these EU member states must provide their approval for the conduct of the clinical trial. Furthermore, the applicant may only start a clinical trial at a specific study site after the competent ethics committee has issued a favorable opinion. In April 2014, the EU adopted a new Clinical Trials Regulation, which is set to replace the current Clinical Trials Directive. The new Clinical Trials Regulation will be directly applicable to and binding in all 28 EU member states without the need for any national implementing legislation, and will become applicable no earlier than May 28, 2016. Under the new coordinated procedure for the approval of clinical trials, the sponsor of a clinical trial will be required to submit a single application for approval of a clinical trial to a reporting EU member state through an EU Portal. The submission procedure will be the same irrespective of whether the clinical trial is to be conducted in a single EU member state or in more than one EU member state. The Clinical Trials Regulation also aims to streamline and simplify the rules on safety reporting for clinical trials. 
+
+Marketing Authorization
+
+To obtain marketing approval of a drug under EU regulatory systems, an applicant must submit a marketing authorization application, or MAA, using the appropriate registration procedure. 
+
+The &#8220;centralized procedure&#8221; provides for the grant of a single marketing authorization by the European Commission that is valid for all European Union member states. The centralized procedure is compulsory for specific products, including for medicines produced by certain biotechnological processes, products designated as orphan medicinal products, advanced therapy products and products with a new active substance indicated for the treatment of certain diseases. The working definition includes all malignant and borderline malignant neoplasms, following the current International Classification of Diseases for Oncology, including primary or secondary malignant neoplasms, carcinoma in situ, and neoplasms classified as uncertain whether benign or malignant. Medicinal products for cancer treatment include antineoplastic agents (including modulators and enhancers of antineoplastic activity) and adjuvant treatments. For products with a new active substance indicated for the treatment of other diseases and products that are highly innovative or for which a centralized process is in the interest of patients, the centralized procedure may be optional. 
+
+The Committee for Medicinal Products for Human Use, or CHMP, is responsible for preparing EMA&#8217;s opinions on all questions concerning medicines for human use, in accordance with European regulation. In the centralized procedure, the CHMP is responsible for conducting the initial assessment of medicines for which an EU-wide marketing authorization is sought. The maximum timeframe for the evaluation of an MAA is 210 days, excluding clock stops, when additional information or written or oral explanation is to be provided by the applicant in response to questions of the CHMP. Accelerated evaluation might be granted by the CHMP in exceptional cases, when a medicinal product is of major interest from the point of view of public health and in particular from the viewpoint of therapeutic innovation. In this circumstance, the EMA ensures that the opinion of the CHMP is given within 150 days.
+
+The CHMP is also responsible for several post-authorization and maintenance activities, such as the assessment of modifications or extensions to an existing marketing authorization.
+
+&#160;
+
+Data and Market Exclusivity in the EU 
+
+In the EU, new chemical entities qualify for eight years of data exclusivity upon marketing authorization and an additional two years of market exclusivity. This data exclusivity, if granted, prevents regulatory authorities in the EU from referencing the innovator&#8217;s data to assess a generic (abbreviated) application for eight years, after which generic marketing authorization can be submitted, and the innovator&#8217;s data may be referenced, but not approved for two years. The overall ten-year period will be extended to a maximum of eleven years if, during the first eight years of those ten years, the marketing authorization holder obtains an authorization for one or more new therapeutic indications which, during the scientific evaluation prior to their authorization, are held to bring a significant clinical benefit in comparison with existing therapies. Even if a compound is considered to be a new chemical entity and the sponsor is able to gain the prescribed period of data exclusivity, another company nevertheless could also market another version of the drug if such company can complete a full MAA with a complete database of pharmaceutical test, preclinical tests and clinical trials and obtain marketing approval of its product. 
+
+Pharmaceutical Coverage, Pricing and Reimbursement 
+
+Significant uncertainty exists as to the coverage and reimbursement status of products approved by the FDA and other government authorities. Sales of products will depend, in part, on the extent to which the costs of the products will be covered by third-party payors, including government health programs in the United States such as Medicare and Medicaid, commercial health insurers and managed care organizations. The process for determining whether a payor will provide coverage for a product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the product once coverage is approved. Third-party payors may limit coverage to specific products on an approved list, or formulary, which might not include all of the approved products for a particular indication. 
+
+In order to secure coverage and reimbursement for any product that might be approved for sale, a company may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost-effectiveness of the product, in addition to the costs required to obtain FDA or other comparable regulatory approvals. A payor&#8217;s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Third-party reimbursement may not be sufficient to maintain price levels high enough to realize an appropriate return on investment in product development. 
+
+In the EU pricing and reimbursement schemes vary widely from country to country. Some countries provide that drug products may be marketed only after a reimbursement price has been agreed. Some countries may require the completion of additional studies that compare the cost-effectiveness of a particular drug candidate to currently available therapies. For example, the EU provides options for its member states to restrict the range of drug products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. EU member states may approve a specific price for a drug product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the drug product on the market. Other member states allow companies to fix their own prices for drug products, but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert competitive pressure that may reduce pricing within a country. Any country that has price controls or reimbursement limitations for drug products may not allow favorable reimbursement and pricing arrangements. 
+
+Healthcare Law and Regulation 
+
+Healthcare providers, physicians and third-party payors play a primary role in the recommendation and prescription of drug products that are granted marketing approval. Arrangements with third-party payors and customers are subject to broadly applicable fraud and abuse and other healthcare laws and regulations. Such restrictions under applicable federal and state healthcare laws and regulations, include the following: 
+
+&#160;
+
+&#8226; 
+
+the federal healthcare Anti-Kickback Statute prohibits, among other things, persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in cash or in kind, to induce or reward either the referral of an individual for, or the purchase, order or recommendation of, any good or service, for which payment may be made, in whole or in part, under a federal healthcare program such as Medicare and Medicaid; 
+
+&#160;
+
+&#8226; 
+
+the federal False Claims Act imposes civil penalties, and provides for civil whistleblower or qui tam actions, against individuals or entities for knowingly presenting, or causing to be presented, to the federal government, claims for payment that are false or fraudulent or making a false statement to avoid, decrease or conceal an obligation to pay money to the federal government; 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+the feder al Health Insurance Portability and Accountability Act of 1996, or HIPAA, imposes criminal and civil liability for executing a scheme to defraud any healthcare benefit program or making false statements relating to healthcare matters; &#160;
+
+&#160;
+
+&#8226; 
+
+HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act and its implementing regulations, also imposes obligations, including mandatory contractual terms, with respect to safeguarding the privacy, security and transmission of individually identifiable health information; 
+
+&#160;
+
+&#8226; 
+
+the federal false statements statute prohibits knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false statement in connection with the delivery of or payment for healthcare benefits, items or services; 
+
+&#160;
+
+&#8226; 
+
+the federal transparency requirements under the Health Care Reform Law will require manufacturers of drugs, devices, drugs and medical supplies to report to the Department of Health and Human Services information related to payments and other transfers of value to physicians and teaching hospitals and physician ownership and investment interests; and 
+
+&#160;
+
+&#8226; 
+
+analogous state and foreign laws and regulations, such as state anti-kickback and false claims laws, may apply to sales or marketing arrangements and claims involving healthcare items or services reimbursed by non-governmental third-party payors, including private insurers. 
+
+Some state laws require pharmaceutical companies to comply with the pharmaceutical industry&#8217;s voluntary compliance guidelines and the relevant compliance guidance promulgated by the federal government in addition to requiring drug manufacturers to report information related to payments to physicians and other health care providers or marketing expenditures. State and foreign laws also govern the privacy and security of health information in some circumstances, many of which differ from each other in significant ways and often are not preempted by HIPAA, thus complicating compliance efforts.
+
+Employees 
+
+As of February 1, 2016, we had 47 full-time employees, including a total of 17 employees with M.D. or Ph.D. degrees. Of our workforce, 22 employees are engaged in research and development. None of our employees is represented by labor unions or covered by collective bargaining agreements.
+
+Available Information
+
+We file reports and other information with the Securities and Exchange Commission, or SEC, as required by the Securities Exchange Act of 1934, as amended, which we refer to as the Exchange Act. You can find, copy and inspect information we file at the SEC&#8217;s public reference room, which is located at 100 F Street, N.E., Room 1580, Washington, DC 20549. Please call the SEC at 1-800-SEC-0330 for more information about the operation of the SEC&#8217;s public reference room. You can review our electronically filed reports and other information that we file with the SEC on the SEC&#8217;s web site at http://www.sec.gov. 
+
+Our Internet website is http://www.ceruleanrx.com. We make available free of charge through our website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act. We make these reports available through our website as soon as reasonably practicable after we electronically file such reports with, or furnish such reports to, the SEC. In addition, we regularly use our website to post information regarding our business, product development programs and governance, and we encourage investors to use our website, particularly the information in the section entitled &#8220;Investors,&#8221; as a source of information about us. 
+
+The foregoing references to our website are not intended to, nor shall they be deemed to, incorporate information on our website into this Annual Report on Form 10-K by reference.
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+

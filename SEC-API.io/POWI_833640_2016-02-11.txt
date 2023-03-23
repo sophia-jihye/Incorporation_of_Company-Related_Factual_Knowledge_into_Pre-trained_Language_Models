@@ -1,0 +1,406 @@
+ Item 1. Business. 
+
+Overview 
+
+We design, develop and market analog and mixed-signal integrated circuits (ICs) and other electronic components and circuitry used in high-voltage power conversion. Our products are used in power converters that convert electricity from a high-voltage source (typically 48 volts or higher) to the type of power required for a specified downstream use. In most cases, this conversion entails, among other functions, converting alternating current (AC) to direct current (DC) or vice versa, reducing or increasing the voltage, and regulating the output voltage and/or current according to the customer&#8217;s specifications. 
+
+A large percentage of our products are ICs used in AC-DC power supplies, which convert the high-voltage AC from a wall outlet to the low-voltage DC required by most electronic devices. Power supplies incorporating our products are used with all manner of electronic products including mobile phones, computers, entertainment and networking equipment, appliances, electronic utility meters, industrial controls and LED lights. 
+
+&#32; Since our May 2012 acquisition of CT-Concept Technologie AG (Concept), we also offer insulated-gate bipolar transistor (IGBT) drivers - circuit boards containing multiple ICs, electrical isolation components and other circuitry - used to operate arrays of high-voltage, high-power transistors known as IGBT modules. These driver/module combinations are used for power conversion in high-power applications (i.e., power levels ranging from tens of kilowatts up to one gigawatt) such as industrial motors, solar- and wind-power systems, electric vehicles and high-voltage DC transmission systems. 
+
+Our products bring a number of important benefits to the power-conversion market compared with less advanced alternatives, including reduced component count and design complexity, smaller size, higher reliability and reduced time-to-market. Our products also improve the energy efficiency of power converters, helping our customers meet the increasingly stringent efficiency standards that have been adopted around the world for many electronic products, and improving the efficacy of renewable-energy systems, electric vehicles and other high-power applications. 
+
+&#32;While the size of our addressable market fluctuates with changes in macroeconomic conditions, the market has generally exhibited only a modest growth rate over time as growth in the unit volumes of power converters has largely been offset by reductions in the average selling price of components in this market. Therefore, the growth of our business depends primarily on our penetration of the addressable market, and our success in expanding the addressable market by introducing new products that address a wider range of applications. Our growth strategy includes the following elements: 
+
+&#8226; 
+
+Increase the penetration of our ICs in the &#8220;low-power&#8221; market. &#32;The largest proportion of our revenues comes from power-supply applications requiring 500 watts of output or less. We continue to introduce more advanced products that make our IC-based solutions more attractive in this market. We have also increased the size of our sales and field-engineering staff considerably in recent years, and we continue to expand our offerings of technical documentation and design-support tools and services to help customers use our ICs. These tools and services include our PI Expert&#8482; design software, which we offer free of charge, and our transformer-sample service. 
+
+&#8226; 
+
+Increase the penetration of our products and the size of our market opportunity in &#8220;high-power&#8221; applications. By virtue of our acquisition of Concept in 2012, we are now able to bring the benefits of integration to higher-power applications (up to one gigawatt). In particular, we sell our IGBT-driver products into applications such as industrial motor drives, renewable energy systems, DC transmission systems and electric vehicles. We seek to further expand the size of our market opportunity in the future by introducing new IGBT-driver products that will enable us to serve a wider range of power levels in the &#8220;high-power&#8221; market. 
+
+&#8226; 
+
+Capitalize on the growing demand for more energy-efficient electronic products and lighting technologies, and for cleaner energy and transportation technologies. &#32;We believe that energy-efficiency is becoming an increasingly important design criterion for power supplies due largely to the emergence of standards and specifications that encourage, and in some cases mandate, the design of more energy-efficient electronic products. For example, in 2008 the U.S. Department of Energy implemented mandatory federal standards governing the efficiency of external power supplies; these standards have been tightened as of early 2016. Power supplies incorporating our ICs are 
+
+&#32;4 
+
+generally able to comply with all known efficiency specifications currently in effect, including the new U.S. federal standards mentioned above. 
+
+Additionally, technological advances combined with regulatory and legislative actions are resulting in the adoption of alternative lighting technologies such as LEDs. We believe this presents a significant opportunity for us because our ICs are used in driver (i.e., power-supply) circuitry for high-voltage LED lighting applications. Finally, the growing desire for less carbon-intensive sources of energy and modes of transportation represents an opportunity for us since our IGBT drivers are used in renewable-energy systems as well as electric trains and electric vehicles. 
+
+&#160; 
+
+Industry Background 
+
+Virtually every electronic device that plugs into a wall socket requires a power supply to convert the high-voltage alternating current provided by electric utilities into the low-voltage direct current required by most electronic devices. A power supply may be located inside a device, such as a consumer appliance or desktop computer, or it may be outside the device as in the case of a mobile-phone charger or an adapter for a cordless phone. 
+
+Until approximately 1970, AC-DC power supplies were generally in the form of line-frequency, or linear, transformers. These devices, consisting primarily of copper wire wound around an iron core, tend to be bulky and heavy, and typically waste a substantial amount of electricity. In the 1970s, the invention of high-voltage discrete semiconductors enabled the development of a new generation of power supplies known as switched-mode power supplies, or switchers. These switchers generally came to be a cost-effective alternative to linear transformers in applications requiring more than about three watts of power; in recent years the use of linear transformers has declined even further as a result of energy-efficiency standards and higher raw-material prices. 
+
+Switchers are generally smaller, lighter-weight and more energy-efficient than linear transformers. However, switchers designed with discrete components are highly complex, containing numerous components and requiring a high level of analog design expertise. Further, the complexity and high component count of discrete switchers make them relatively costly, difficult to manufacture and prone to failures. Also, some discrete switchers lack inherent safety and energy-efficiency features; adding these features may further increase the component count, cost and complexity of the power supply. 
+
+In high-power systems such as industrial motor drives, electric locomotives and renewable-energy systems, power conversion is typically performed using arrays of high-power silicon transistors known as IGBT modules; these modules are operated by electronic circuitry known as IGBT drivers, whose function is to ensure accurate, safe and reliable operation of the IGBT modules. Much like discrete power supplies, discrete IGBT drivers tend to be highly complex, requiring a large number of components and a great deal of design expertise. 
+
+Our Highly Integrated Approach 
+
+In 1994 we introduced TOPSwitch, the industry&#8217;s first cost-effective high-voltage IC for switched-mode AC-DC power supplies; we have since introduced a range of other product families such as TinySwitch, LinkSwitch, Hiper and InnoSwitch which have expanded the range of power-supply applications we can address. In May 2012 we acquired Concept, further expanding our addressable market to include IGBT drivers. 
+
+Our ICs and IGBT drivers drastically reduce the complexity and component count of power converters compared to typical discrete designs by integrating many of the functions otherwise performed by numerous discrete electronic components, and by eliminating (or reducing the size and cost of) additional components through innovative system design. As a result, our products enable power converters to have superior features and functionality at a total cost equal to or lower than that of many competing alternatives. Our products offer the following key benefits: 
+
+&#8226; 
+
+Fewer Components, Reduced Size and Higher Reliability &#32; 
+
+Our highly integrated ICs and IGBT drivers enable designs with up to 70% fewer components than comparable discrete designs. This reduction in component count enhances reliability and efficiency, reduces size, accelerates time-to-market and results in lower manufacturing costs for our customers. Power supplies that incorporate our ICs are also lighter and more portable than comparable power supplies built with copper-and-iron linear transformers, which are still used in some low-power applications. 
+
+&#8226; 
+
+Reduced Time-to-Market, Enhanced Manufacturability 
+
+&#32;5 
+
+Because our products eliminate much of the complexity associated with the design of power converters, designs can typically be completed in much less time, resulting in more efficient use of our customers' design resources and shorter time-to-market for new designs. The lower component count and reduced complexity enabled by our products also makes designs more suitable for high-volume manufacturing. We also provide extensive hands-on design support as well as online design tools, such as our PI Expert design software, that further reduce time-to-market and product development risks. 
+
+&#8226; 
+
+Energy Efficiency &#32; 
+
+Our patented EcoSmart technology, introduced in 1998, improves the energy efficiency of electronic devices during normal operation as well as standby and &#8220;no-load&#8221; conditions. This technology enables manufacturers to cost-effectively meet the growing demand for energy-efficient products, and to comply with increasingly stringent energy-efficiency requirements. Our Concept IGBT drivers also enable very high efficiency in high-power systems; in many such systems, such as renewable-energy installations, even small efficiency gains can dramatically shorten the payback period over which the cost of a system is recovered through energy savings. 
+
+&#8226; 
+
+Wide Power Range and Scalability &#32; 
+
+Products in our current IC families can address AC-DC power supplies with output power up to approximately 500 watts as well as some high-voltage DC-DC applications; our Concept IGBT drivers are used in applications with power levels as high as one gigawatt. Within each of our product families, the designer can scale up or down in power to address a wide range of designs with minimal design effort. 
+
+Energy Efficiency 
+
+Power supplies often draw significantly more electricity than the amount needed by the devices they power. As a result, billions of dollars' worth of electricity is wasted each year, and millions of tons of greenhouse gases are unnecessarily produced by power plants. Energy waste occurs during the normal operation of a device and in standby mode, when the device is plugged in but idle. For example, computers and printers waste energy while in &#8220;sleep&#8221; mode. TVs that are turned off by remote control consume energy while awaiting a remote-control signal to turn them back on. A mobile-phone charger left plugged into a wall outlet continues to draw electricity even when not connected to the phone (a condition known as &#8220;no-load&#8221;). Many common household appliances, such as microwave ovens, dishwashers and washing machines, also consume power when not in use. In fact, a 2015 study by the National Resources Defense Council found that devises that are "always-on" but inactive may be causing as much as $19 billion in annual energy waste in the U.S alone. 
+
+Lighting is another major source of energy waste. Less than 5% of the energy consumed by traditional incandescent light bulbs is converted to light, while the remainder is wasted as heat. The Alliance to Save Energy has estimated that a conversion to efficient lighting technologies such as compact fluorescent bulbs and light-emitting diodes, or LEDs, could save as much as $18 billion worth of electricity and 158 million tons of carbon dioxide emissions per year in the United States alone. 
+
+In response to concerns about the environmental impact of carbon emissions, policymakers are taking action to promote energy efficiency. For example, the ENERGY STAR&#174; program and the European Union Code of Conduct encourage manufacturers of electronic devices to comply with voluntary energy-efficiency specifications. In 2007 the California Energy Commission (CEC) implemented mandatory efficiency standards for external power supplies. The CEC standards were implemented nationwide in the United States in July 2008 as a result of the Energy Independence and Security Act of 2007, or EISA; these federal standards have been tightened in early 2016. Similar standards for external power supplies took effect in the European Union in 2010 as part of the EU&#8217;s EcoDesign Directive for Energy-Related Products. 
+
+&#32;In 2009 the CEC announced mandatory efficiency standards for televisions, which took effect in 2011, and in January 2012 the CEC announced mandatory efficiency standards for battery-charging systems, which took effect in 2013. 
+
+In 2010, the EU EcoDesign Directive implemented standards limiting standby power consumption on a wide range of electronic products; the limit was reduced by 50 percent beginning in 2013, with many products now limited to 500 milliwatts of standby usage. The EISA law also required substantial improvements in the efficiency of lighting technologies beginning in 2012; as of 2014, traditional 100-, 75-, 60- and 40-watt bulbs may no longer be manufactured or sold in the United States. Plans to 
+
+&#32;6 
+
+eliminate conventional incandescent bulbs have also been announced or enacted in other geographies such as Canada, Australia and Europe. 
+
+We believe we offer products that enable manufacturers to meet or exceed these regulations, and all other such regulations of which we are aware. Our EcoSmart technology, introduced in 1998, dramatically reduces waste in both operating and standby modes; we estimate that this technology has saved billions of dollars&#8217; worth of standby power worldwide since 1998. In 2010 we introduced our CapZero and SenZero IC families, which eliminate additional sources of standby waste in some power supplies; we have also introduced a range of product families designed specifically for LED-lighting applications. 
+
+&#160; 
+
+Products 
+
+Below is a brief description of our products: 
+
+&#8226; 
+
+AC-DC power conversion products 
+
+TOPSwitch, our first commercially successful product family, was introduced in 1994. Since that time we have introduced a wide range of products (such as our TinySwitch, LinkSwitch and Hiper families) to increase the level of integration and improve upon the functionality of the original TOPSwitch, and to broaden the range of power levels we can address. In 2010 we introduced our CapZero and SenZero families, which reduce standby-power consumption in certain applications by eliminating waste caused by so-called bleed resistors and sense resistors. Also, by virtue of our 2010 acquisition of Qspeed Semiconductor, we offer a range of high-performance, high-voltage diodes known as Qspeed diodes. 
+
+In 2014 we introduced our InnoSwitch product family, which are the first-ever power-supply ICs to combine primary, secondary and feedback circuits into a single package, utilizing a proprietary technology known as FluxLink to enable precise control without the need for optical components, which tend to add cost and diminish the reliability of power supplies. 
+
+In January 2015 we further expanded our product portfolio with the acquisition of Cambridge Semiconductor Ltd., a producer of controller ICs for low-power AC-DC applications. Since 2010 we have also introduced products designed specifically for LED-lighting applications, including our LYTSwitch family. 
+
+This portfolio of power-conversion products generally addresses power supplies ranging from less than one watt of output up to approximately 500 watts of output, a market we refer to as the &#8220;low-power&#8221; market. This market consists of an extremely broad range of applications including mobile-device chargers, consumer appliances, utility meters, LCD monitors, main and standby power supplies for desktop computers and TVs, LED lamps, and numerous other consumer and industrial applications. 
+
+&#8226; 
+
+IGBT drivers 
+
+As a result of our May 2012 acquisition of Concept, we offer a range of IGBT-driver products sold primarily under the SCALE and SCALE-2 product-family names. These products are fully assembled circuit boards incorporating multiple ICs, electrical isolation components and other circuitry. We offer both ready-to-operate &#8220;plug-and-play&#8221; drivers designed specifically for use with particular IGBT modules, as well as &#8220;driver cores,&#8221; which provide more basic driver functionality that customers can customize to their own specifications after purchase. In addition, we offer custom drivers based on our SCALE technology. 
+
+&#8226; 
+
+High-voltage DC-DC products 
+
+The DPA-Switch family of products, introduced in June 2002, was the first monolithic high-voltage DC-DC power conversion IC designed specifically for use in distributed power architectures. Applications include power-over-Ethernet powered devices such as voice-over-IP phones and security cameras, as well as network hubs, line cards, servers, digital PBX phones, DC-DC converter modules and industrial controls. &#32; 
+
+Other Product Information 
+
+TOPSwitch, TinySwitch, LinkSwitch, DPA-Switch, EcoSmart, Hiper, Qspeed, InnoSwitch, SCALE-I, SCALE-II, SCALE-III, PeakSwitch, CAPZero, SENZero, ChiPhy, FluxLink, CONCEPT, Concept a Power Integrations Company and PI Expert are trademarks of Power Integrations, Inc. 
+
+&#32;7 
+
+End Markets and Applications 
+
+Our net revenues consist primarily of sales of the products described above. When evaluating our net revenues, we categorize our sales into the following four major end-market groupings: communications, computer, consumer, and industrial. 
+
+&#160; 
+
+The table below provides the approximate mix of our net sales by end market: 
+
+&#160; 
+
+Year Ended December 31, 
+
+End Market 
+
+&#160; 
+
+&#160; 
+
+Communications 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Computer 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Consumer 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Industrial 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Our products are used in a vast range of power-conversion applications in the above-listed end-market categories. The following chart lists the most prominent applications for our products in each category. 
+
+Market Category 
+
+Primary Applications 
+
+Communications 
+
+Mobile-phone chargers, routers, cordless phones, broadband modems, voice-over-IP phones, other network and telecom gear 
+
+Computer 
+
+Desktop PCs, LCD monitors, servers, LCD projectors, adapters for notebook computers 
+
+Consumer 
+
+Major and small appliances, air conditioners, TV set-top boxes, digital cameras, TVs, video-game consoles 
+
+Industrial 
+
+LED lighting, industrial controls, utility meters, motor controls, uninterruptible power supplies, tools, industrial motor drives, renewable energy systems, electric locomotives, high-voltage DC transmission systems 
+
+Sales, Distribution and Marketing 
+
+We sell our products to original equipment manufacturers, or OEMs, and merchant power-supply manufacturers through our direct sales staff and a worldwide network of independent sales representatives and distributors. We have sales offices in the United States, Switzerland, United Kingdom, Germany, Italy, India, China, Japan, South Korea, the Philippines, Singapore and Taiwan. Direct sales to OEMs and merchant power supply manufacturers represented approximately 25% of our net product revenues for each of 2015, 2014 and 2013, while sales to and through distributors accounted for approximately 75% for each of 2015, 2014 and 2013. Most of our distributors are entitled to return privileges based on sales revenue and are protected from price reductions affecting their inventories. Our distributors are not subject to minimum purchase requirements, and sales representatives and distributors can discontinue marketing our products at any time. 
+
+Our top ten customers, including distributors that resell to OEMs and merchant power supply manufacturers, accounted for 60% of our net revenues for 2015 and 59% in each of 2014 and 2013. 
+
+The following distributors accounted for 10% &#32;or more of total net revenues in 2015, 2014 and 2013: 
+
+&#160; 
+
+Year Ended December 31, 
+
+Customer 
+
+&#160; 
+
+&#160; 
+
+Avnet 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Powertech Distribution Ltd. 
+
+% 
+
+&#160; 
+
+* 
+
+&#160; 
+
+* 
+
+_______________ 
+
+* Total customer revenue was less than 10% of net revenues 
+
+No other customers accounted for more than 10% of net revenues in these periods. 
+
+&#32;8 
+
+In 2015, 2014 and 2013 sales to customers in the United States accounted for approximately 5% of our net revenues in each of the respective years, and sales to customers outside of the United States accounted for approximately 95% of our net revenues in the same periods. See Note 6, &#8220; Significant Customers and International Sales ,&#8221; in our Notes to Consolidated Financial Statements regarding sales to customers located in foreign countries. See our consolidated financial statements regarding total revenues and profit for the last three fiscal years. 
+
+We are subject to risks stemming from the fact that most of our manufacturing and most of our customers are located in foreign jurisdictions. Risks related to our foreign operations are set forth in Item 1A of this Annual Report on Form 10-K, and include: potential weaker intellectual property rights under foreign laws, the burden of complying with foreign laws and foreign-currency exchange risk. See, in particular, the risk factor &#8220;Our international sales activities account for a substantial portion of our net revenues, which subjects us to substantial risks&#8221; in Item 1A of this Form 10-K. 
+
+Backlog 
+
+Our sales are primarily made pursuant to standard purchase orders. The quantity of products purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. Historically, our business has been characterized by short-lead-time orders and quick delivery schedules; for this reason, and because orders in backlog are subject to cancellation or postponement, backlog is not necessarily a reliable indicator of future revenues. Furthermore, except in the case of our IGBT-driver products, we do not recognize revenue on distribution sales until our distributors report that they have sold our products to their customers. As a result, our revenues in a given period can differ significantly from the value of the products we ship in the same period. We believe this further reduces the reliability of order backlog as an indicator of future revenues. 
+
+Research and Development 
+
+Our research and development efforts are focused on improving our technologies, introducing new products to expand our addressable markets, reducing the costs of existing products, and improving the cost-effectiveness and functionality of our customers' power converters. We have assembled teams of highly skilled engineers to meet our research and development goals. These engineers have expertise in high-voltage device structure and process technology, analog IC design, system architecture and packaging. 
+
+In 2015, 2014 and 2013, we incurred costs of $57.5 million , $55.0 million and $51.7 million, respectively, for research and development (R&#38;D). R&#38;D expenses increased in 2015 compared to 2014, driven primarily by the addition of employees in connection with our acquisition of Cambridge Semiconductor Limited (CamSemi) (refer to Note 11, Acquisitions , in our Notes to Consolidated Financial Statements, for details); the increase in headcount caused a corresponding increase in salary and other employee-related expenses. R&#38;D expenses increased in 2014 compared to 2013, driven primarily by increased payroll and related expenses as a result of increased headcount, due mainly to the expansion of our product-development efforts. 
+
+Intellectual Property and Other Proprietary Rights 
+
+We use a combination of patents, trademarks, copyrights, trade secrets and confidentiality procedures to protect our intellectual-property rights. As of December 31, 2015, we held 814 U.S. patents and had received foreign patent protection on these patents resulting in 462 foreign patents. The U.S. patents have expiration dates ranging from 2016 to 2035. We also hold trademarks in the U.S. and various other geographies including Taiwan, Korea, Hong Kong, China, Europe and Japan. 
+
+We regard as proprietary some equipment, processes, information and knowledge that we have developed and used in the design and manufacture of our products. Our trade secrets include a high-volume production process that produces our patented high-voltage ICs. We attempt to protect our trade secrets and other proprietary-information through non-disclosure agreements, proprietary information agreements with employees and consultants, and other security measures. 
+
+Long-lived Assets 
+
+Our long-lived assets consist of property and equipment as well as intangible assets. Our intangible assets consist of developed and in-process technology, licenses, patents, customer relationships, trade name, domain name and goodwill. Our long-lived assets, including property and equipment and intangible assets, are located in the United States and in foreign countries. Approximately 40% of our long lived assets were located in the United States in 2015, 2014 and 2013, while approximately 60% 
+
+&#32;9 
+
+were held outside of the United States. In 2015, 2014 and 2013 a significant amount of our foreign long-lived assets were located in Switzerland, which held approximately 18%, 31% and 33%, respectively, of our total long-lived assets. See Note 2, Summary of Significant Accounting Policies , in our Notes to Consolidated Financial Statements regarding total property and equipment located in foreign countries. 
+
+Manufacturing 
+
+We contract with three foundries for the manufacture of the vast majority of our silicon wafers: (1) ROHM Lapis Semiconductor Co., Ltd., or Lapis, (formerly OKI Electric Industry), (2) Seiko Epson Corporation, or Epson, (3) X-FAB Semiconductor Foundries AG, or X-FAB. These contractors manufacture wafers using our proprietary high-voltage process technologies at fabrication facilities located in Japan, Germany and the United States. 
+
+Our IC products are assembled and packaged by independent subcontractors in China, Malaysia, Thailand and the Philippines. Our ICs are tested predominantly at the facilities of our packaging subcontractors in Asia and, to a small extent, at our headquarters facility in San Jose, California. Our IGBT-driver boards are assembled by an independent subcontractor in Sri Lanka and tested at our facility in Switzerland. 
+
+Our fabless manufacturing model enables us to focus on our engineering and design strengths, minimize capital expenditures and still have access to high-volume manufacturing capacity. We utilize both proprietary and standard IC packages for assembly. Some of the materials used in our packages and aspects of assembly are specific to our products. We require our assembly manufacturers to use high-voltage molding compounds which are more difficult to process than industry standard molding compounds. We work closely with our contractors on a continuous basis to maintain and improve our manufacturing processes. 
+
+Our proprietary high-voltage processes do not require leading-edge geometries for them to be cost-effective, and can therefore use our foundries&#8217; older, low-cost facilities for wafer manufacturing. However, because of our highly sensitive high-voltage process, we must interact closely with our foundries to achieve satisfactory yields. Our wafer supply agreements with Lapis, Epson and X-FAB expire in April 2018, December 2020 and December 2020, respectively. Under the terms of the Lapis agreement, Lapis has agreed to reserve a specified amount of production capacity and to sell wafers to us at fixed prices, which are subject to periodic review jointly by Lapis and us. In addition, Lapis requires us to supply them with a rolling six-month forecast on a monthly basis. Our agreement with Lapis provides for the purchase of wafers in U.S. dollars, with mutual sharing of the impact of the fluctuations in the exchange rate between the Japanese yen and the U.S. dollar. Under the terms of the Epson agreement, Epson has agreed to reserve a specified amount of production capacity and to sell wafers to us at fixed prices, which are subject to periodic review jointly by Epson and us. The agreement with Epson also requires us to supply rolling six-month forecasts on a monthly basis, to provide for the purchase of wafers in U.S. dollars and to share the impact of the exchange rate fluctuation between the Japanese yen and the U.S. dollar. Under the terms of the X-FAB agreement, X-FAB has agreed to reserve a specified amount of production capacity and to sell wafers to us at fixed prices, which are subject to periodic review jointly by X-FAB and us. The agreement with X-FAB also requires us to supply them with rolling six-month forecasts on a monthly basis. Our purchases of wafers from X-FAB are denominated in U.S. dollars. 
+
+Although some aspects of our relationships with Lapis, Epson and X-FAB are contractual, some important aspects of these relationships are not written in binding contracts and depend on the suppliers' continued cooperation. We cannot assure that we will continue to work successfully with Lapis, Epson or X-FAB in the future, that they will continue to provide us with sufficient capacity at their foundries to meet our needs, or that any of them will not seek an early termination of their wafer supply agreement with us. Our operating results could suffer in the event of a supply disruption with one or more of our foundries if we were unable to quickly qualify alternative manufacturing sources for existing or new products or if these sources were unable to produce wafers with acceptable manufacturing yields. 
+
+We typically receive shipments from our foundries approximately four to six weeks after placing orders, and lead times for new products can be substantially longer. To provide sufficient time for assembly, testing and finishing, we typically need to receive wafers four weeks before the desired ship date to our customers. As a result of these factors and the fact that customers&#8217; orders can be placed with little advance notice, we have only a limited ability to react to fluctuations in demand for our products. We try to carry a substantial amount of wafer and finished-goods inventory to help offset these risks and to better serve our markets and meet customer demand. 
+
+&#32;10 
+
+Competition 
+
+Competing alternatives to our high-voltage ICs for the power-supply market include monolithic and hybrid ICs from companies such as Fairchild Semiconductor, STMicroelectronics, Infineon, ON Semiconductor and Sanken Electric Company, as well as PWM-controller chips paired with discrete high-voltage bipolar transistors and MOSFETs, which are produced by a large number of vendors, including those listed above as well as such companies as NXP Semiconductors, Diodes Inc., On-Bright Electronics and Dialog Semiconductor. Self-oscillating switchers, built with discrete components supplied by numerous vendors, are also commonly used. For some applications, line-frequency transformers are also a competing alternative to designs utilizing our products. Our IGBT-driver products compete with alternatives from such companies as Avago, Infineon and Semikron, as well as driver circuits made up of discrete devices. 
+
+Generally, our products enable customers to design power converters with total bill-of-materials (BOM) costs similar to those of competing alternatives. As a result, the value of our products is influenced by the prices of discrete components, which fluctuate in relation to market demand, raw-material prices and other factors, but have generally decreased over time. 
+
+While we vary the pricing of our ICs in response to fluctuations in prices of alternative solutions, we also compete based on a variety of other factors. Most importantly, the highly integrated nature of our products enables designs that utilize fewer total components than comparable discrete designs or designs using other integrated or hybrid products. This enables power converters to be designed more quickly and manufactured more efficiently and reliably than competing designs. We also compete on the basis of product functionality such as safety features and energy-efficiency features and on the basis of the technical support we provide to our customers. This support includes hands-on design assistance as well as a range of design tools and documentation such as software and reference designs. We also believe that our record of product quality and history of delivering products to our customers on a timely basis serve as additional competitive advantages. 
+
+Warranty 
+
+We generally warrant that our products will substantially conform to the published specifications for 12 months from the date of shipment. Under the terms of our purchase orders, our liability is limited generally to either a credit equal to the purchase price or replacement of the defective part. 
+
+Employees 
+
+As of December 31, 2015, we employed 595 full-time personnel, consisting of 89 in manufacturing, 203 in research and development, 251 in sales, marketing and applications support, and 52 in finance and administration. 
+
+Investor Information &#160; 
+
+We make available, free of charge, copies of our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after filing this material electronically or otherwise furnishing it to the SEC. Investors may obtain free electronic copies or request paper copies of these reports via the &#8220;For Investors&#8221; section of our website, &#32; www.power.com . Our website address is provided solely for informational purposes. We do not intend, by this reference, that our website should be deemed to be part of this Annual Report. The reports filed with the SEC are also available at www.sec.gov . 
+
+Our corporate governance guidelines, the charters of our board committees, and our code of business conduct and ethics, including ethics provisions that apply to our principal executive officer, principal financial officer, controller and senior financial officers, are also available via the investor website listed above. These items are also available in print to any stockholder who requests them by calling (408) 414-9200. 
+
+Power Integrations, Inc. was incorporated in California on March 25, 1988, and reincorporated in Delaware in December 1997. 
+
+&#32;11 
+
+Executive Officers of the Registrant 
+
+As of January 29, 2016, our executive officers, who are appointed by and serve at the discretion of the board of directors, were as follows: 
+
+Name 
+
+Position With Power Integrations 
+
+Age 
+
+Balu Balakrishnan 
+
+President, Chief Executive Officer and Director 
+
+Wolfgang Ademmer 
+
+Vice President, High-Power Products 
+
+Douglas Bailey 
+
+Vice President, Marketing 
+
+Radu Barsan 
+
+Vice President, Technology 
+
+David &#8220;Mike&#8221; Matthews 
+
+Vice President, Product Development 
+
+Sandeep Nayyar 
+
+Vice President, Finance and Chief Financial Officer 
+
+Ben Sutherland 
+
+Vice President, Worldwide Sales 
+
+Raja Petrakian 
+
+Vice President, Operations 
+
+Clifford Walker 
+
+Vice President, Corporate Development 
+
+Balu Balakrishnan &#32;has served as president and chief executive officer and as a director of Power Integrations since January 2002. He served as president and chief operating officer from April 2001 to January 2002. From January 2000 to April 2001, he was vice president of engineering and strategic marketing. From September 1997 to January 2000, he was vice president of engineering and new business development. From September 1994 to September 1997, Mr. Balakrishnan served as vice president of engineering and marketing. Prior to joining Power Integrations in 1989, Mr. Balakrishnan was employed by National Semiconductor Corporation. 
+
+Wolfgang Ademmer &#32;serves as vice president of high-power products. Mr. Ademmer joined Power Integrations in 2012 in connection with our acquisition of Concept. Mr. Ademmer served as president and CEO of Concept since 2009, where he was responsible for overseeing the operations of Concept. Prior to joining Concept, he was with Infineon Technologies AG in Germany, leading that company&#8217;s appliance and hybrid-vehicle business segment. He began his career in the power-electronics industry in 1993 at Eupec Gmbh, where he held a succession of roles, including vice president of sales and marketing, until the merger of Eupec and Infineon in 2005. 
+
+Douglas Bailey has served as our vice president of marketing since November 2004. From March 2001 to April 2004, he served as vice president of marketing at ChipX, a structured ASIC company. His earlier experience includes serving as business management and marketing consultant for Sapiential Prime, Inc., director of sales and business unit manager for 8x8, Inc., and serving in application engineering management for IIT, Inc. and design engineering roles with LSI Logic, Inmos, Ltd. and Marconi. 
+
+Radu Barsan has served as our vice president of technology since January 2013, leading our foundry engineering, technology development and quality organizations. Prior to joining Power Integrations, Mr. Barsan served as chairman and CEO at Redfern Integrated Optics, Inc., a supplier of single frequency narrow linewidth lasers, modules, and subsystems, from 2001 to 2013, where he was responsible for overseeing the operations of Redfern Integrated Optics. Previously, he served in a succession of engineering-management and technology-development roles at Phaethon Communications, Inc., a photonics technology company, Cirrus Logic, Inc., a high-precision analog and digital signal processing company, Advanced Micro Devices, a semiconductor design company, Cypress Semiconductor, Inc., a semiconductor company and Microelectronica a distributor of electronic components. Mr. Barsan has more than 30 years of commercial experience in semiconductor and optical components development, engineering and operations. 
+
+Mike Matthews &#32;has served as our vice president of product development since August 2012. Mr. Matthews joined Power Integrations in 1992, managing our European application-engineering group and then our European sales organization as managing director of Power Integrations (Europe). He has led our product-definition team since 2000, serving as director of strategic marketing prior to assuming his current role. Prior to joining Power Integrations, Mr. Matthews worked at several electric motor-drive companies and then at Siliconix, a semiconductor company, as a motor-control applications specialist. 
+
+Sandeep Nayyar has served as our vice president and chief financial officer since June 2010. Previously Mr. Nayyar served as vice president of finance at Applied Biosystems, Inc., a developer and manufacturer of life-sciences products, from 2002 to 2009. Mr. Nayyar was a member of the executive team with world-wide responsibilities for finance. From 1990 to 2001, 
+
+&#32;12 
+
+Mr. Nayyar served in a succession of financial roles including vice president of finance at Quantum Corporation, a computer storage company. Mr. Nayyar also worked for five years in the public-accounting field at Ernst &#38; Young LLP. Mr. Nayyar is a Certified Public Accountant, Chartered Accountant and has a Bachelor of Commerce from the University of Delhi, India. 
+
+Ben Sutherland has served as our vice president, worldwide sales since July 2011. Mr. Sutherland joined our company in May 2000 as a member of our sales organization in Europe. From May 2000 to July 2011, Mr. Sutherland served in various sales positions responsible primarily for our international sales, and more recently for domestic sales. From 1997 to 2000, Mr. Sutherland served in various product marketing and sales roles at Vishay Intertechnology, Inc., a manufacturer and supplier of discrete semiconductors and passive electronic components. 
+
+Raja Petrakian has served as vice president of operations since May 2015. From 1995 to 2015, Dr. Petrakian served in a succession of roles in operations and supply chain management, most recently as senior vice president of worldwide operations, at Xilinx Inc. where he was responsible for manufacturing, supply chain management (fabrication through delivery), customer service, supplier relationships, purchasing, import/export compliance, new product introduction operations, and logistics. Prior to joining Xilinx he was a research staff member at the IBM T.J. Watson Research Center. 
+
+Clifford Walker &#32;has served as our vice president, corporate development since June 1995. From September 1994 to June 1995, Mr. Walker served as vice president of Reach Software Corporation, a software company. From December 1993 to September 1994, Mr. Walker served as president of Morgan Walker International, a consulting company. 
+

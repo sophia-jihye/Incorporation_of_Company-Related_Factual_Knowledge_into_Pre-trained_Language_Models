@@ -1,0 +1,234 @@
+ ITEM 1. BUSINESS Company Overview 
+
+Headquartered in Mountain View, California, CEVA is the leading licensor of signal processing IP for a smarter, connected world. We partner with semiconductor companies and OEMs worldwide to create power-efficient, intelligent and connected devices for a range of end markets, including mobile, consumer, automotive, industrial and IoT. Our ultra-low-power IPs for vision, audio, communications and connectivity include comprehensive DSP-based platforms for LTE/LTE-A/5G baseband processing in handsets, infrastructure and machine-to-machine devices, computer vision and computational photography for any camera-enabled devices, as well as audio/voice/speech and ultra-low power always-on/sensing applications for multiple IoT markets. For connectivity, we offer the industry&#146;s most widely adopted IPs for Bluetooth (Smart and Smart Ready), Wi-Fi (802.11 b/g/n/ac up to 4x4) and serial storage (SATA and SAS). 
+
+Our technologies are licensed to leading semiconductor and OEM companies throughout the world. These companies incorporate our IP into application-specific integrated circuits (&#147;ASICs&#148;) and application-specific standard products (&#147;ASSPs&#148;) that they manufacture, market and sell into wireless, consumer, automotive, automative and IoT companies. Our state-of-the-art technology has shipped in more than 7 billion chips to date for a wide range of diverse end markets. One in three handsets sold worldwide is powered by CEVA. 
+
+Our revenue mix comprises primarily of IP licensing fees and related revenues, and royalties generated from the shipments of products deploying our IP. Related revenues include revenues from post contract support, training and sale of development systems. 
+
+We have built a strong network of licensing customers who rely on our technologies to deploy their silicon solutions. Our comprehensive customer base includes many of the world&#146;s leading semiconductors and OEMs. Actions, Atmel, Beken, Broadcom, Celeno, Dialog Semiconductor, DSP Group, FujiFilm, Fujitsu, Intel, Leadcore, LG Electronics, Mediatek, MegaChips, Novatek, NXP, Panasonic, Renesas, Rockchip, Rohm, Samsung, Sharp, Sigma, Silver Spring Networks, Sony, Spreadtrum, STMicroelectronics, Toshiba, VIA Technologies, Yamaha and ZTE all leverage CEVA&#146;s industry-leading signal processing IP. 
+
+CEVA was created through the combination of the DSP IP licensing division of DSP Group, Inc. and Parthus Technologies plc (&#147;Parthus&#148;) in November 2002. On July 4, 2014, we acquired 100% of RivieraWaves SAS, a privately-held, French company and a provider of wireless connectivity intellectual property for Wi-Fi and Bluetooth technologies. 
+
+We have over 250 employees worldwide, with research and development facilities in Israel, France, Ireland and the United Kingdom, and sales and support offices throughout Asia Pacific (APAC), Japan, Sweden, France, Israel and the United States. 
+
+CEVA is traded on the NASDAQ Global Market under the symbol &#147;CEVA&#148;. 
+
+Industry Background 
+
+DSP Cores 
+
+Digital signal processing is a key technology that is powering many of today&#146;s fastest growing electronics markets. Digital signal processors (DSPs) are specialized high-speed processors that are optimized for performing repetitive arithmetic calculations on an array of data. DSPs provide the foundation supporting a vast majority of today&#146;s electronic products that are smart and connected and offer multimedia and wireless communications capabilities (e.g. video, audio, imaging, vision and cellular). 
+
+&#160;
+
+Connectivity IPs 
+
+Wi-Fi and Bluetooth have become key connectivity technologies to form the basis for the Internet of Things (&#147;IoT&#148;), providing the connection between the billions of devices and the networks that they communicate with. 
+
+Design Gap 
+
+The demand for smarter, better connected mobile, consumer, automotive, industrial and IoT devices continues to grow. These devices require more connectivity, greater feature sets and a richer user experience. Semiconductor manufacturers face ever growing pressures to make smaller, feature-rich integrated circuits that are more reliable, less expensive and have greater performance. These two trends are occurring concurrently in the face of decreasing product lifecycles and constrained battery power. The advent of wireless and connectivity technologies like LTE-Advanced, Wi-Fi 802.11ac and Bluetooth Smart and multimedia technologies such as advanced image enhancement, computer vision, and voice and audio pre- and post-processing have further increased these pressures. While semiconductor manufacturing processes have advanced significantly to allow a substantial increase in the number of circuits placed on a single chip, resources for design capabilities have not kept pace with the advances in manufacturing processes, resulting in a growing &#147;design gap&#148; between the increasing manufacturing potential and the constrained design capabilities. 
+
+CEVA Business 
+
+CEVA addresses the requirements of the mobile, consumer, automotive, industrial and IoT markets by designing and licensing a broad range of robust, application-specific signal processing platforms which enable the rapid design of solutions for developing a wide variety of applications, including communications &#38; connectivity, audio &#38; voice, imaging &#38; vision and storage. 
+
+Given the &#147;design gap,&#148; as well as the increasing complexity and the unique skill set required to develop a system-on-chip, many semiconductor design and manufacturing companies increasingly choose to license proven intellectual property, such as processor cores (e.g. DSP, CPU and GPU), connectivity products, memory and application-specific platforms, from silicon intellectual property (SIP) companies like CEVA rather than develop those technologies in-house. In addition, with more complex designs and shorter time to market, it is no longer cost efficient and becoming progressively more difficult for most semiconductor companies to develop the signal processing platform, incorporating the DSP, subsystem and software, for their target application. For connectivity, with ever-evolving standards and a huge variety of uses, most semiconductor companies cannot develop and maintain this technology in-house. As a result, companies increasingly seek to license these IPs from CEVA or a third-party community of developers, such as CEVAnet, CEVA&#146;s third-party network. 
+
+Our IP Business Model 
+
+Our objective is for our CEVA signal processing IPs to become the de facto technologies across the mobile, consumer, automotive, industrial and IoT markets. To enable this goal, we license our technologies on a worldwide basis to semiconductor and OEM companies that design and manufacture products that combine CEVA-based solutions with their own differentiating technology. We believe our business model offers us some key advantages. By not focusing on manufacturing or selling silicon products, we are free to widely license our technology and free to focus most of our resources on research and development. By choosing to license our IP, manufacturers can achieve the advantage of creating their own differentiated solutions and develop their own unique product roadmaps. Through our licensing efforts, we have established a worldwide community developing CEVA-based solutions, and therefore we can leverage their strengths, customer relationships, proprietary technology advantages, and existing sales and marketing infrastructure. As an example, our CEVA-XCnet partner program focuses on various technology and solution providers with complimentary offerings for our CEVA-XC communication processor addressing wireless, infrastructure, smart grid and connectivity markets. In addition, as our intellectual property is widely licensed and deployed, system OEM companies can 
+
+&#160;
+
+obtain CEVA-based chipsets from a wide range of suppliers, thus reducing dependence on any one supplier and fostering price competition, both of which help to contain the cost of CEVA-based products. 
+
+We operate a licensing and royalty business model. We typically charge a license fee for access to our technology and a royalty fee for each unit of silicon which incorporates our technology. License fees are invoiced in accordance with agreed-upon contractual terms. Royalties are reported and invoiced one quarter in arrears and generally are based on a fixed unit rate or a percentage of the sale price for the CEVA-based silicon product. 
+
+Strategy 
+
+We believe there is a growing demand for high performance and low power signal processing IPs incorporating all the necessary hardware and software for target applications. Our IP portfolio is strategically aligned to allow us to exploit the most lucrative &#147;design gaps&#148; in the growing demand for smarter, connected devices. As CEVA offers expertise developing complete solutions in a number of key growth markets, including cellular baseband, wireless infrastructure, computational photography, computer vision, automotive safety, audio and voice applications, Wi-Fi, Bluetooth and storage, we believe we are well positioned to take full advantage of this growing demand. To capitalize on this industry shift, we intend to: 
+
+&#160;
+
+&#160; &#149; &#160; continue to develop and enhance our range of DSP cores with additional features, performance and capabilities; &#160;
+
+&#160; &#149; &#160; continue to develop and invest in our connectivity IPs, providing the newest standards and the most complete offerings to address our customers&#146; needs; &#160;
+
+&#160; &#149; &#160; continue to develop and enhance our range of complete and highly integrated platform solutions to deliver to our licensing partners a complete and verified system solution; &#160;
+
+&#160; &#149; &#160; continue to develop an ecosystem of third party partners developing software and solutions based on our technologies; &#160;
+
+&#160; &#149; &#160; continue to invest in strategic technologies that enable us to strengthen our presence in existing market or enter new addressable markets; &#160;
+
+&#160; &#149; &#160; capitalize on our relationships and leadership within our worldwide community of semiconductor and OEM licensees who are developing CEVA-based solutions; &#160;
+
+&#160; &#149; &#160; capitalize on our technology leadership in the development of advanced DSP technologies and connectivity IPs to create and develop new, strategic relationships with OEMs and semiconductor companies to replace their internal DSPs or incumbent DSP suppliers with CEVA-based solutions; and &#160;
+
+&#160; &#149; &#160; capitalize on our IP licensing and royalty business model which we believe is the best vehicle for a pervasive adoption of our technology and allows us to focus our resources on research and development of new licensable technologies and applications. Products 
+
+We are the leading licensor of signal processing IP for semiconductors and OEMs serving the mobile, consumer, automotive, industrial and IoT markets. Our ultra-low-power IPs for vision, audio, communications and connectivity include comprehensive DSP-based platforms for LTE/LTE-A/5G baseband processing in handsets, infrastructure and machine-to-machine devices, computer vision and computational photography for any camera-enabled device, audio/voice/speech and ultra-low power always-on/sensing applications for multiple IoT markets. For connectivity, we offer the industry&#146;s most widely adopted IPs for Bluetooth (Smart and Smart Ready), Wi-Fi (802.11 b/g/n/ac up to 4x4) and serial storage (SATA and SAS). 
+
+CEVA DSP Cores and Platforms 
+
+We market a family of synthesizable, programmable DSP cores, each delivering a different balance of performance, power dissipation and cost, thereby allowing customers to select a DSP core ideally suited for their target application. The ability to match processing power to the application is a crucial consideration when 
+
+&#160;
+
+designers select a DSP supplier. Our DSP cores are families of architectures, each largely software compatible, meaning that software from one core within the same architecture can be applied to another core, which significantly reduces investment in code development, tools and design engineer training. 
+
+We deliver our DSP cores in the form of a hardware description language definition (known as a soft core or a synthesizable core). All CEVA DSP cores can be manufactured on any process using any physical library, and all are accompanied by a complete set of tools and an integrated development environment. An extensive third-party network supports CEVA DSP cores with a wide range of complementing software and platforms. In addition, we provide development platforms, software development kits and software debug tools, which facilitate system design, debug and software development. 
+
+In order to reduce the cost, complexity, and risk in bringing products to market, CEVA has developed a suite of system platforms and solutions. These platforms and solutions combine the hardware and software elements that are essential for designers deploying CEVA&#146;s state-of-the-art DSP and IP cores. Platforms typically integrate a CEVA DSP core, hardware subsystem and application-specific (e.g. LTE, computer vision or audio) software. Our family of DSP-based platforms are targeted for baseband processing within cellular handsets, Machine to Machine (M2M) type devices and base stations, wired communications, imaging &#38; computer vision, and audio, voice &#38; sensing. 
+
+CEVA Connectivity IPs 
+
+Wi-Fi and Bluetooth Smart and Smart Ready are key technologies for any company looking to address the Internet-of-Things. Moreover, many companies wish to integrate these connectivity technologies into SoC designs rather than provide connectivity through an additional chip in the system. Through our acquisition of RivieraWaves, a leading licensor of Wi-Fi and Bluetooth connectivity IP, we are able to expand further into the Wi-Fi and Bluetooth smart connectivity markets. The advent of the Internet-of-Things has resulted in significant demand for connectivity IPs that solves a crucial void in many companies&#146; strategies to address this burgeoning market. Wi-Fi and Bluetooth standards are constantly evolving, and the many different end applications where these technologies are being deployed require further customization. By licensing rather than developing these technologies in house, companies can now get access to the latest standards and profiles from CEVA, without undertaking the expensive R&#38;D required to develop these technologies internally. We also offer platform solutions for serial storage technology, addressing both consumer and enterprise uses (SATA and SAS). 
+
+Customers 
+
+We have licensed our DSP cores, platforms and connectivity IPs platforms to leading semiconductor and OEM companies throughout the world. These companies incorporate our IP into application-specific chipsets or custom-designed chipsets that they manufacture, market and sell to consumer electronics companies. We also license our technologies to OEMs directly. Included among our licensees are the following customers: Actions, Atmel, Beken, Broadcom, Celeno, Dialog Semiconductor, DSP Group, FujiFilm, Fujitsu, Intel, Leadcore, LG Electronics, Mediatek, MegaChips, Novatek, NXP, Panasonic, Renesas, Rockchip, Rohm, Samsung, Sharp, Sigma, Silver Spring Networks, Sony, Spreadtrum, STMicroelectronics, Toshiba, VIA Technologies, Yamaha and ZTE. 
+
+We derive a significant amount of revenues from a limited number of customers. Sales to Spreadtrum represented 31%, 25% and 28% of our total revenues for 2015, 2014 and 2013, respectively. With respect to our royalty revenues, two royalty paying customers each represented 10% or more of our total royalty revenues for 2015, and collectively represented 72% of our total royalty revenues for 2015; three royalty paying customers each represented 10% or more of our total royalty revenues for 2014, and collectively represented 79% of our total royalty revenues for 2014; and four royalty paying customers each represented 10% or more of our total royalty revenues for 2013 and collectively represented 81% of our total royalty revenues for 2013. In 2015, we signed 47 new licensing deals, of which 21 were with first time new customers and 43 were for non-handset baseband applications. 
+
+&#160;
+
+International Sales and Operations 
+
+Customers based in EME (Europe and Middle East) and APAC (Asia Pacific) accounted for 84% of our total revenues for 2015, 77% for 2014 and 88% for 2013. Customers in each of China and South Korea accounted for greater than 10% of our total revenues for 2015. Customers in China accounted for greater than 10% of our total revenues for 2014. Customers in each of Germany and China accounted for greater than 10% of our total revenues for 2013. Information on the geographic breakdown of our revenues and location of our long-lived assets is contained in Note 11 to our consolidated financial statements, which appear elsewhere in this annual report. 
+
+Moreover, the majority of our expenses, mainly employee salaries, are paid in currencies other than the U.S. dollar, principally the Israeli currency, New Israeli Shekel (NIS), and the Euro, which subjects us to the risks of foreign currency fluctuations and economic pressures in those regions. As a result, an increase in the value of the currencies other than the U.S. dollar in comparison to the U.S. dollar could increase the cost of our operating expenses. To protect against the increase in value of forecasted foreign currency cash flows resulting from salaries paid in currencies other than the U.S. dollar, during the year, we follow a foreign currency cash flow hedging program. We hedge portions of the anticipated payroll for our non-US employees denominated in currencies other than the U.S. dollar for a period of one to twelve months with forward and options contracts. 
+
+Sales and Marketing 
+
+We license our technology through a direct sales force. As of December 31, 2015, we had 34 employees in sales and marketing. We have sales offices and representation in Asia Pacific (APAC) region, Sweden, Israel, France and the United States. 
+
+Maintaining close relationships with our customers and strengthening these relationships are central to our strategy. We typically launch each new DSP core and platform or connectivity products with a signed license agreement with a tier-one customer, which signifies to the market that we are focused on viable applications that meet broad industry needs. Staying close to our customers allows us to create a roadmap for the future development of existing cores and application platforms and connectivity products, and helps us to anticipate the next potential applications for the market. We seek to use our customer relationships to deliver new products in a faster time to market. 
+
+We use a variety of marketing initiatives to stimulate demand and brand awareness in our target markets. These marketing efforts include contacts with industry analysts, presenting at key industry trade shows and conferences, and posting information on our website and live technology-oriented webinars. Our marketing group runs competitive benchmark analyses to help us maintain our competitive position. 
+
+Technical Support 
+
+We offer technical support services through our offices in Israel, Ireland, Asia Pacific (APAC) region, Sweden, France and the United States. As of December 31, 2015, we had 18 employees in technical support. Our technical support services include: 
+
+&#160;
+
+&#160; &#149; &#160; assistance with implementation, responding to customer-specific inquiries, training and, when and if they become available, distributing updates and upgrades of our products; &#160;
+
+&#160; &#149; &#160; application support, consisting of providing general hardware and software design examples, ready-to-use software modules and guidelines to our licensees to assist them in using our technology; and &#160;
+
+&#160; &#149; &#160; design services, consisting of creating customer-specific implementations of our signal processing IPs and application platforms. &#160;
+
+We believe that our technical support services are a means to assist our licensees to embed our cores and platforms in their designs and products. Our technology is highly complex, combining sophisticated signal processing IP core architectures, integrated circuit designs and development tools. Effective customer support in helping our customers to implement our solutions enables them to shorten the time to market for their applications. Our support organization is made up of experienced engineers and professional support personnel. We conduct technical training for our licensees and their customers, and meet with them from time to time to track the implementation of our technology. 
+
+Research and Development 
+
+Our research and development team is focused on improving and enhancing our existing products, as well as developing new products to broaden our offerings and market opportunities. These efforts are largely driven by current and anticipated customer needs. 
+
+Our research and development team, consisting of 184 engineers as of December 31, 2015, work in six development centers located in Israel, France, Ireland and the United Kingdom. This team consists of engineers who possess significant experience in developing DSP cores, application platforms, connectivity products (Wi-Fi and Bluetooth) and serial storage technology (SATA and SAS). In addition, we engage third party contractors with specialized skills as required to support our research and development efforts. Our research and development expenses, net of related research grants, included the RivieraWaves-related expenses from July 2014, were approximately $21 million, $26 million and $28 million for 2013, 2014 and 2015, respectively. 
+
+We encourage our research and development personnel to maintain active roles in various international organizations that develop and maintain standards in the electronics and related industries. This involvement allows us to influence the development of new standards; keeps us informed as to important new developments regarding standards; and allows us to demonstrate our expertise to existing and potential customers who also participate in these standards-setting bodies. 
+
+Competition 
+
+The markets in which we operate are intensely competitive. They are subject to rapid change and are significantly affected by new product introductions. We compete with other suppliers of licensed signal processing IPs. We believe that the principal competitive elements in our field are signal processing IP performance, overall chip cost, power consumption, flexibility, reliability, communication and multimedia software and algorithms availability, design cycle time, tool chain, customer support, financial strength, name recognition and reputation. We believe that we compete effectively in each of these areas, but can offer no assurance that we will have the financial resources, technical expertise, and marketing or support capabilities to compete successfully in the future. 
+
+The markets in which we compete are dominated by large, highly competent semiconductor companies that have significant brand recognition, a large installed base and a large network of support and field application engineers. We face direct and indirect competition from: 
+
+&#160;
+
+&#160; &#149; &#160; IP vendors that offer programmable or configurable DSP cores; &#160;
+
+&#160; &#149; &#160; IP vendors that offer vision processing units for computer vision applications; &#160;
+
+&#160; &#149; &#160; IP vendors that offers Bluetooth and Wi-Fi connectivity IPs; &#160;
+
+&#160; &#149; &#160; IP vendors that offer hardware-based DSP implementation as opposed to software-based DSP, which is our specialization; and &#160;
+
+&#160; &#149; &#160; internal design groups of large chip companies or OEMs that develop proprietary signal processing IP coresor engines for their own application-specific chipsets. &#160;
+
+We face direct competition in the DSP and configurable core space mainly from Verisilicon and Cadence, which licenses DSP cores in addition to their respective semiconductor and EDA businesses. In the connectivity space, we face direct competition from Imagination Technologies which offers a combination of Wi-Fi/Bluetooth, ARM Holdings, Mindtree and STMicroelectronics (previously ST Ericsson) in standalone Bluetooth technology. 
+
+In recent years, we also have faced competition from companies that offer Central Processor Unit (CPU) intellectual property. These companies&#146; products are used for host functions in various applications, such as in mobile and home entertainment products. These applications typically also incorporate a programmable DSP accelerator that is responsible for communication and video/audio/voice-related tasks. CPU companies, such as ARM Holdings, Cadence, Imagination Technologies and Synopsys have added DSP acceleration and make use of it to provide platform solutions in the areas of baseband, video, imaging, gesture and audio. 
+
+With respect to certain large potential customers, we also compete with internal engineering teams, which may design programmable signal processing IP core products in-house. Companies such as Mediatek, Qualcomm, Samsung, Huawei and STMicroelectronics license our designs for some applications and use their own proprietary cores for other applications. These companies also may choose to license their proprietary signal processing IP cores to third parties and, as a result, become direct competitors. 
+
+Aside from the in-house research and development groups, we do not compete with any individual company across the range of our market offerings. Within particular market segments, however, we do face competition to a greater or lesser extent from other industry participants. For example, in the following specific areas we compete with the companies indicated: 
+
+&#160;
+
+&#160; &#149; &#160; in the digital photography &#38; embedded vision market&#151;Imagination Technologies, ARM Holdings, Synopsys, Cadence and Videantis, as well as GPU IP providers such as ARM Holdings, and Vivante; &#160;
+
+&#160; &#149; &#160; in the serial storage technology market&#151;Semtech&#146;s Snowbush IP Group, Silicon Image and Synopsys; and &#160;
+
+&#160; &#149; &#160; in audio and voice applications market&#151;ARM Holdings, Cadence, Synopsys and Verisilicon. Proprietary Rights 
+
+Our success and ability to compete are dependent on our ability to develop and maintain the proprietary aspects of our intellectual property and to operate without infringing the proprietary rights of others. We rely on a combination of patent, trademark, trade secret and copyright laws and contractual restrictions to protect the proprietary aspects of our technology. These legal protections afford only limited protection of our technology. We also seek to limit disclosure of our intellectual property and trade secrets by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements with us and by restricting access to our source code and other intellectual property. Due to rapid technological change, we believe that factors such as the technological and creative skills of our personnel, new product developments and enhancements to existing products are more important than specific legal protections of our technology in establishing and maintaining a technology leadership position. 
+
+We have an active program to protect our proprietary technology through the filing of patents. Our patents relate to our signal processing IP cores and application-specific platform technologies. As of December 31, 2015, we hold 51 patents in the United States, two patents in Canada, 29 patents in the EME (Europe and Middle East) region and seven patents in Asia Pacific (APAC) region, totaling 89 patents, with expiration dates between 2017 and 2034. In addition, as of December 31, 2015, we have 12 patent applications pending in the United States, 6 pending patent applications in Canada, 14 pending patent applications in the EME region and 6 pending patent applications in the APAC region, totaling 38 pending patent applications. 
+
+&#160;
+
+We actively pursue foreign patent protection in countries where we feel it is prudent to do so. Our policy is to apply for patents or for other appropriate statutory protection when we develop valuable new or improved technology. The status of patents involves complex legal and factual questions, and the breadth of claims allowed is uncertain. Accordingly, there are no assurances that any patent application filed by us will result in a patent being issued, or that our issued patents, and any patents that may be issued in the future, will afford us adequate protection against competitors with similar technology; nor can we be assured that patents issued to us will not be infringed or that others will not design around our technology. In addition, the laws of certain countries in which our products are or may be developed, manufactured or sold may not protect our products and intellectual property rights to the same extent as the laws of the United States. We can provide no assurance that our pending patent applications or any future applications will be approved or will not be challenged by third parties, that any issued patents will effectively protect our technology, or that patents held by third parties will not have an adverse effect on our ability to do business. 
+
+The semiconductor industry is characterized by frequent litigation regarding patent and other intellectual property rights. Questions of infringement in the semiconductor field involve highly technical and subjective analyses. In addition, patent infringement claims are increasingly being asserted by patent holding companies (so-called patent &#147;trolls&#148;), which do not use technology and whose sole business is to enforce patents against companies, such as us, for monetary gain. Because such patent holding companies do not provide services or use technology, the assertion of our own patents by way of counter-claim may be ineffective. Litigation may in the future be necessary to enforce our patents and other intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or invalidity. We cannot assure you that we would be able to prevail in any such litigation, or be able to devote the financial resources required to bring such litigation to a successful conclusion. 
+
+In any potential dispute involving our patents or other intellectual property, our licensees also could become the targets of litigation. We are generally bound to indemnify licensees under the terms of our license agreements. Although our indemnification obligations are generally subject to a maximum amount, these obligations could nevertheless result in substantial expenses. In addition to the time and expense required for us to indemnify our licensees, a licensee&#146;s development, marketing and sale of products embodying our solutions could be severely disrupted or shut down as a result of litigation. 
+
+We also rely on trademark, copyright and trade secret laws to protect our intellectual property. We have registered trademark in the United States for our name CEVA and the related CEVA logo, and currently market our DSP cores and other technology offerings under this trademark. 
+
+Employees 
+
+The table below presents the number of employees of CEVA as of December 31, 2015 by function and geographic location. 
+
+&#160;
+
+&#160; &#160; Number &#160; Total employees 
+
+&#160; &#160; 259 &#160; Function 
+
+&#160; Research and development
+
+&#160; &#160; 184 &#160; Sales and marketing
+
+&#160; &#160; 34 &#160; Administration
+
+&#160; &#160; 23 &#160; Technical support
+
+&#160; &#160; 18 &#160; Location 
+
+&#160; Israel
+
+&#160; &#160; 159 &#160; France
+
+&#160; &#160; 41 &#160; Ireland
+
+&#160; &#160; 14 &#160; China
+
+&#160; &#160; 12 &#160; United States
+
+&#160; &#160; 12 &#160; United Kingdom
+
+&#160; &#160; 9 &#160; Elsewhere
+
+&#160; &#160; 12 &#160; &#160;
+
+Our employees are not represented by any collective bargaining agreements, and we have never experienced a work stoppage. We believe our employee relations are good. 
+
+A number of our employees are located in Israel. Certain provisions of Israeli law and the collective bargaining agreements between the Histadrut (General Federation of Labor in Israel) and the Coordination Bureau of Economic Organizations (the Israeli federation of employers&#146; organizations) apply to our Israeli employees. 
+
+In 2004, we finalized and adopted a new Code of Business Conduct and Ethics regarding the standards of conduct of our directors, officers and employees. The code is reviewed and updated periodically by our Board or Directors and is available on our website at www.ceva-dsp.com. 
+
+Corporate History 
+
+Our company was incorporated in Delaware on November 22, 1999 under the name DSP Cores, Inc. We changed our name to ParthusCeva, Inc. in November 2002 and to CEVA, Inc. in December 2003. 
+
+Available Information 
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to reports pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available, free of charge, on our website at www.ceva-dsp.com, as soon as reasonably practicable after such reports are electronically filed with the Securities and Exchange Commission and are also available on the SEC&#146;s website at www.sec.gov . 
+
+Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K. 
+
+&#160;
+

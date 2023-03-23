@@ -1,0 +1,466 @@
+ ITEM 1.
+
+BUSINESS.
+
+&#160;
+
+Overview
+
+Since December 24, 2014, New Asia Holdings, Inc. (the "Company" or "NAHD") has been focusing on developing highly advanced, proprietary, neural trading models for the financial community.
+
+&#160;
+
+It is our belief that our state-of-the-art, trainable, algorithms in our models will emulate aspects of the human brain, providing our algorithms with a self-training ability to formalize unclassified information and thus develop an enhanced ability to make forecasts based on the historical information and other data available at their disposal. Our neural networks will not make forecasts. Instead, they will analyze price data and uncover opportunities. Using our proprietary neural network, trade decisions will be made based on thoroughly analyzed data (which is not generally possible when using traditional technical analysis methods). We anticipate offering a series of "next-generation" tools that can detect subtle non-linear interdependencies and patterns that other methods of technical analysis are unable to uncover.
+
+&#160;
+
+We will offer trading software solutions to clients on the basis of a "Software as a Service (SaaS)" licensing and delivery models with licensed users availing themselves of service-based contractual arrangements. In addition, we will utilize our in-house proprietary neural trading models to trade our own funds, thus providing added value to our shareholders.
+
+&#160;
+
+Our proprietary trading models will be developed by a team of professional engineers in communications, electronic circuitry design and financial engineering. This diverse team will be the key factor of our successful development of non-traditional and innovative trading models. Our systems will be designed to take intelligent positions as the market moves/changes and, upon development, our systems will bring a proven, rigorously tested, track-record. We anticipate that our proprietary algorithmic trading systems will generate superior, risk adjustable, returns for our clients.
+
+&#160;
+
+T he Company's products are a set of assets comprised of three Proprietary Trainable Trading Algorithms: 
+
+&#183;
+
+Series X Pound/Dollar (MQ X1)
+
+&#183;
+
+Series Y Pound/Dollar (MQ Y1)
+
+&#183;
+
+Series Z Multi-asset Currency and Gold (MQ Z1)
+
+&#160;
+
+Technical Description of Algorithm Trading
+
+&#160;
+
+The programming associated with the MQ X1 and the MQ Y1 are driven by mean reversion whereas the programming of the MQ Z1 is driven by momentum and trend following. All of the algorithms incorporate currency flows and are designed to reduce positions when trends become adverse. We consider that these algorithms are very easy to deploy and operate via the "Software as a Service" model. The combination of this business model and the composition of the algorithms render the trading of currencies and gold nearly effortless: no traders are needed, thereby eliminating the compensation related expenses. In addition to the returns and safety characteristics associated with the subject algorithms, these algorithms are favorable to account holders ("Holders") in that they neither lend themselves to high frequency trading nor to high commissions.
+
+&#160;
+
+The three primary competitive advantages associated with our proprietary trading algorithms are:
+
+&#9679;
+
+rates of return,
+
+&#9679;
+
+efficiency and
+
+&#9679;
+
+safety.
+
+&#160;
+
+&#160;
+
+The Company believes that its "Algo's" are the only ones in the market that can be "tuned" to minimize risks, such as variations in the "stop loss" (risk tolerances) per trade between 1% (least risk) to 3% (more moderate risk). The results of over 5 years of development, back-end testing and actual trading operations have demonstrated; winning percentages in the range of 60% to 80% and annual returns of over 60%. Thus our trainable, trading Algo's will achieve much higher returns with a minimum risk on capital.
+
+&#160;
+
+Algorithm Trading Explained
+
+Algorithmic trading (Algorithmic Trading) has been growing rapidly across all types of financial instruments, accounting for over 84% of U.S. equity volumes in 2014 (Reuters and Bloomberg). A number of closely related computational trading terms that are often used interchangeably has to be clarified in order to fully understand Algorithmic Trading.
+
+Algorithmic Trading relies on sophisticated computer programs and models to make automated decisions regarding the market, without human input. Such models are especially popular in strategies such as managed futures, where trend following is prevalent.
+
+Types of Algorithmic Trading
+
+&#160;
+
+&#183;
+
+Systematic trading
+
+&#160;
+
+It refers to any trading strategy that is a "rule-based" systematic/repetitive approach to execution trading behaviors. This is often achieved through utilization of an expert system that replicates previously captured actions of real traders.
+
+&#160;
+
+&#183;
+
+High-frequency trading (HFT)
+
+HFT is a more specific area, where the execution of computerized trading strategies is characterized by extremely short position-holding periods in excess of a few seconds or milliseconds.
+
+&#160;
+
+&#183;
+
+Ultra high-frequency trading
+
+Sometimes also known as low-latency trading refers to HFT execution of trades in sub-millisecond times through co-location of servers and stripped down strategies, direct market access, or individual data feeds offered by Exchanges and others to minimize network and other types of latencies.
+
+Algorithmic Trading Strategies
+
+The following are common trading strategies used in Algorithmic Trading:
+
+&#160;
+
+&#183; Trend Following Strategies: 
+
+The most common algorithmic trading strategies follow trends in moving averages, channel breakouts, price level movements and related technical indicators. These are the easiest and simplest strategies to implement through algorithmic trading because these strategies do not involve making any predictions or price forecasts. Trades are initiated based on the occurrence of desirable trends, which are easy and straightforward to implement through algorithms without getting into the complexity of predictive analysis.
+
+&#160;
+
+&#160;
+
+&#183; Arbitrage Opportunities: 
+
+Buying a dual listed stock at a lower price in one market and simultaneously selling it at a higher price in another market offers the price differential as risk-free profit or arbitrage. The same operation can be replicated for stocks versus futures instruments, as price differentials do exists from time to time. Implementing an algorithm to identify such price differentials and placing the orders allows profitable opportunities in efficient manner.
+
+&#183; Index Fund Rebalancing : 
+
+Index funds have defined periods of rebalancing to bring their holdings to par with their respective benchmark indices. This creates profitable opportunities for algorithmic traders, who capitalize on expected trades that offer 20-80 basis points profits depending upon the number of stocks in the index fund, just prior to index fund rebalancing. Such trades are initiated via algorithmic trading systems for timely execution and best prices.
+
+&#183; Mathematical Model Based Strategies: 
+
+A lot of proven mathematical models, which allow trading on combination of options and its underlying security, where trades are placed to offset positive and negative deltas so that the portfolio delta is maintained at zero.
+
+&#183; Trading Range (Mean Reversion): 
+
+Mean reversion strategy is based on the idea that the high and low prices of an asset are a temporary phenomenon that revert to their mean value periodically. Identifying and defining a price range and implementing algorithm based on that allows trades to be placed automatically when price of asset breaks in and out of its defined range.
+
+&#183; Volume Weighted Average Price (VWAP): 
+
+Volume weighted average price strategy breaks up a large order and releases dynamically determined smaller chunks of the order to the market using stock specific historical volume profiles. The aim is to execute the order close to the Volume Weighted Average Price (VWAP), thereby benefiting on average price.
+
+&#183; Time Weighted Average Price (TWAP): 
+
+Time weighted average price strategy breaks up a large order and releases dynamically determined smaller chunks of the order to the market using evenly divided time slots between a start and end time. The aim is to execute the order close to the average price between the start and end times, thereby minimizing market impact.
+
+&#183; Percentage of Volume (POV): 
+
+Until the trade order is fully filled, this algorithm continues sending partial orders, according to the defined participation ratio and according to the volume traded in the markets. The related "steps strategy" sends orders at a user-defined percentage of market volumes and increases or decreases this participation rate when the stock price reaches user-defined levels.
+
+&#183; Implementation Shortfall: 
+
+The implementation shortfall strategy aims at minimizing the execution cost of an order by trading off the real-time market, thereby saving on the cost of the order and benefiting from the opportunity cost of delayed execution. The strategy will increase the targeted participation rate when the stock price moves favorably and decrease it when the stock price moves adversely.
+
+&#183; Beyond the Usual Trading Algorithms: 
+
+There are a few special classes of algorithms that attempt to identify "happenings" on the other side. These "sniffing algorithms," used, for example, by a sell side market maker have the in-built intelligence to identify the existence of any algorithms on the buy side of a large order. Such detection through algorithms will help the market maker identify large order opportunities and enable him to benefit by filling the orders at a higher price. This is sometimes identified as high-tech front-running.
+
+&#160;
+
+NAHD's Design Philosophy
+
+Price is simply a reflection and emotional perception of the respective commodity of value. Mechanical systems have no emotions when it comes to the interpretation of prices. Nothing is actually too high or too low; Its all technically relative.
+
+NAHD uses a multitude of modern tools and technology to making trading simpler, adaptive and intelligent:
+
+Some of the tools we apply include:
+
+&#183;
+
+Principle Component Analysis (PCA)
+
+&#183;
+
+Neural Networks
+
+&#183;
+
+Removing Linear Trends From Data
+
+&#183;
+
+Detecting Anomaly Activities
+
+&#183;
+
+Market Behavioral Pattern Neural Analysis
+
+&#183;
+
+Co-relational Modeling
+
+&#183;
+
+Multi-Time Frame Signal Analysis
+
+Principal Components Analysis (PCA) is a tool in exploratory data analysis to discover the important variables (or a combination of them) that explain the cause of variance in the data and thus enhances the efficiency when there is a large volume of data to be analyzed.
+
+&#160;
+
+Factor analysis is a statistical method used to describe variability among observed, correlated variables in terms of a potentially lower number of unobserved variables called factors. Factor analysis searches for such joint variations in response to unobserved latent variables . The observed variables are modeled as linear combinations of the potential factors, plus " error " terms. The information gained about the interdependencies between observed variables can be used later to reduce the set of variables in a dataset and thus helps us to reduce complex multi-dimensional modeling data into 2 dimensional outcome for easier analysis.
+
+&#160;
+
+Factor analysis is related to principal component analysis (PCA), but the two are not identical. Latent variable models , including factor analysis, use regression modeling techniques to test hypotheses producing error terms, while PCA is a descriptive statistical technique.
+
+&#160;
+
+The artificial neural networks are one of the areas in artificial intelligence research that is based on the attempts to simulate the human nervous system in its ability to learn and adapt. It strives to allow us to build a rough simulation of the human brain in operation. When it comes to trading, it is generally a matter to buy, sell, hold and position sizing. In other words, Algorithm Trading Strategies (ATS) significantly simplify decision making than would otherwise be possible if human beings were doing the trading.
+
+&#160;
+
+The Company's strived to develop systems which are adaptive and where no two trades are the same. The reason being very simple; the market is changing all the time (every hour, minute and second). Thus, it is imperative to achieve an acceptable level of machine learning adaptability within the confines of the boundaries of trading. This enables our clients to stay in the highly challenging game of trading under most, if not all, market conditions.
+
+&#160;
+
+The NAHD Strategies refer to the precise nature of the entire spectrum of activities employed by a software system starting from pre-trade analysis, model selection, signal generation, trade execution, and post-trade handling.
+
+&#183;
+
+Momentum
+
+A trend following trading strategy that aims to capitalize on the continuance of existing trends in the market. The algorithm assumes large increases in the price of a security will be followed by additional gains and vice versa for declining values.
+
+&#160;
+
+&#183;
+
+Mean Reversion
+
+A trading strategy assuming prices and returns eventually move back toward the mean or average. A popular strategy is mean reversion (pairs trading) where two historically correlated securities that have diverged are assumed to converge in the future. Statistical Arbitrage ("stat arb") is an equity trading strategy that employs time series methods to identify relative mispricing between stocks. It bets on the convergence of the prices of similar financial instruments whose prices have diverged.
+
+&#160;
+
+Company Business Model
+
+&#160;
+
+The Company's focus is to capitalize the volatility of the 24 hours Forex markets to achieve capital appreciation over a medium to long term combined with the usage of a good wealth vehicle in order to control risk, profit from both bull or bear markets, maximize liquidity and economic resilience (recession proof).
+
+&#160;
+
+The NAHD systems have been designed to constantly adapt themselves and to take intelligent positions as the market moves/changes. The models are subjected to rigorous testing akin to the volatile trading environment of major financial events/crisis that happened in recent history. These models are also programmed to have the ability to learn and adapt new manners of trading; effectively translating the human behavioural of trading into a predictive science. The NAHD cutting edge quantitative strategies and proprietary algorithmic trading system are developed to generate superior risk adjustable returns for the Holders.
+
+&#160;
+
+NAHD's foreign exchange trading algorithms consist of the following:
+
+&#183;
+
+MQ X1 (Pound / Dollar)
+
+&#183;
+
+MQ Y1 (Pound / Dollar)
+
+&#183;
+
+MQ Z1 (Multi-Asset Currency and Gold)
+
+The three primary competitive advantages associated with the aforementioned trading algorithms are rates of return, efficiency and safety.
+
+&#160;
+
+Below is a snapshot of the performance of the three subject Forex trading algorithms which have been tested since April of 2010.
+
+&#160;
+
+The backend programming associated with the MQ X1 and the MQ Y1 are driven by mean reversion whereas the backend of the MQ Z1 is driven by momentum and trend following. All of the algorithms incorporate currency flows and are designed to reduce positions when trends become adverse.
+
+&#160;
+
+These algorithms are designed to be very easy to deploy in that they are operated via the "Software as a Service" model. The combination of this business model and the composition of the algorithms render the trading of currencies and gold nearly effortless; no traders are needed, thereby eliminating the compensation related expenses. In addition to the returns and safety characteristics associated with the subject algorithms, these algorithms are favorable to account holders in that they neither lend themselves to high frequency trading nor to high commissions.
+
+&#160;
+
+The Company's business model reflects two major activities:
+
+&#160;
+
+&#160;
+
+&#160;
+
+1.
+
+&#160;
+
+&#160;
+
+The Company has entered into a world-wide Exclusive License with New Asia Momentum Ltd (NAML). NAML, in turn, offers these proprietary, trainable, algorithm trading software solutions to broker-dealers, banks, funds and other clients on the basis of a "Software as a Service" (SaaS) licensing and delivery model, with sub-licensed users availing themselves of service-based contractual arrangements.
+
+&#160;
+
+The exclusive licensing agreement calls for NAML to pay MQL royalty fees equal to 20% of the trading profits achieved by the SaaS contract agreements that NAML executes with its clients. NAHD's market strategy revolves around it's licensee(s) sub-licensing its algorithms to asset managers that each have between $1 million and $100 million in assets under management. The targeted geographic market is Asia, with an initial emphasis on Singapore, Hong Kong, Indonesia, and Australia.
+
+2.
+
+The Company will utilize its proprietary trainable trading algorithms to trade in its own funds through a wholly-owned subsidiary that will be established at an appropriate time.
+
+The Company's strategy is based on the key features summarized below:
+
+&#160;
+
+&#183; A USD 6 trillion per day market that is categorized as the market closest to the ideal of perfect competition; a market that is unique because of the following characteristics: 
+
+&#160;
+
+o It reflects a huge trading volume, representing the largest asset class in the world leading to high liquidity; 
+
+&#160;
+
+o Its broad geographical dispersion; 
+
+&#160;
+
+o Its continuous operation: 24 hours a day except weekends, i.e., trading from 22:00 GMT on Sunday (Sydney) until 22:00 GMT Friday (New York); 
+
+&#160;
+
+o The low margins of relative profit compared with other markets of fixed income; and 
+
+&#160;
+
+o The use of leverage to enhance profit and loss margins and with respect to account size. 
+
+&#183; Risk minimization since our "Algo's" are the only ones that can be "tuned" to minimize risks 
+
+&#183; Competitive advantage as a result of the team's local operating experience 
+
+The Software as a Service (SaaS) Public Market Performance
+
+&#160;
+
+Software as a service (SaaS) &#160; is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". SaaS is typically accessed by users using a thin client via a web browser. SaaS has become a common delivery model for many business applications, including financial services, office and messaging software, payroll processing software, DBMS software, management software, CAD software, development software, gamification, virtualization, &#160; accounting, collaboration, customer relationship management (CRM), management information systems (MIS), enterprise resource planning (ERP), invoicing, human resource management (HRM), talent acquisition, content management (CM), antivirus software, and service desk management. &#160; SaaS has been incorporated into the strategy of all leading enterprise software companies.
+
+&#160;
+
+According to a Gartner Group estimate, SaaS revenue will be more than USD 20 billion in 2015. The Martin Wolfe IT Index showed that companies in the SaaS category were experiencing accelerated growth that led to a 163% premium in revenue valuation multiple based on 12 months trailing revenue, compared to traditional software companies.
+
+&#160;
+
+The Martin Wolfe Report expected that this accelerated growth in the SaaS category would continue for the foreseeable future. For example, it expected that SaaS companies generally would continue outpacing traditional software in growth and valuation multiples.
+
+&#160;
+
+&#160;
+
+The SEG Software Index Public Market Multiples:
+
+&#160;
+
+&#160;
+
+At the close of the second quarter of 2014 (2Q14), according to the SEG Software Index, the median enterprise value (EV)/Revenue multiple for public SaaS companies was 6.6x, up 16% year over year. Over 34% of the companies in the SEG SaaS Index achieved a median EV/Revenue multiple of 8x or higher in 2Q14, and public SaaS companies continued to trade at a significant premium to their on-premise peers (6.6x vs. 3.0x median EV/Revenue).
+
+&#160;
+
+Public SaaS companies have historically enjoyed trading multiples at least twice that of their on-premise peers. According to the SEG report, a premium market valuation multiple can be largely justified by comparing the relative lifetime value of a SaaS customer vs. an on-premise licensee. A SaaS company with a mission critical hosted app and strong customer retention will garner significantly greater cash over time from its average customer than will its on-premise counterpart. In the meantime, according to the SEG Software Industry report, investors are placing their bets on the next wave of SaaS category leaders that are positioned to displace incumbent on-premise providers across multiple product categories.
+
+&#160;
+
+Company (NAHD) and Business Structure
+
+&#160;
+
+The Company (NAHD) is partnered with world-class firms:
+
+&#183; GAIN Capital was founded in 1999 with a mission to provide traders with low cost access to foreign exchange markets. Since then, GAIN Capital has expanded its product offering and global reach, and now provides a diverse mix of both retail and institutional investors access to thousands of OTC and exchange-traded markets. 
+
+&#160;
+
+&#183; 
+
+Straits Financial Group ("SF Group") is headquartered in Singapore and they are the brokering division of the CWT Group, the largest publicly listed logistics company in South East Asia. Their US subsidiary, Straits Financial LLC, is a full Clearing Member of the Chicago Mercantile Exchange (CME) and the Chicago Board of Trade (CBOT). Through their Asian branches and global partnerships, they are focused on delivering a wide range of financial services and ensuring that Holders will have a positive and consistent customer experience.
+
+&#160;
+
+In particular, Straits (Singapore), a subsidiary of the SF Group, by capitalizing on SF Group's strengths and global network, Straits (Singapore) is able to offer a comprehensive and integrated spectrum of trade services including brokerage, risk management, commodities collateralization, warehousing and logistics. Straits (Singapore) is also an approved Inter-Dealer Broker (IDB) with SGX Asia clear, they provide intermediary services to empower transactions between buy and sell sides for both OTC and exchange-cleared products. They provide both standardized and bilateral agreements, with a strong focus on OTC Rubber and Iron Ore Swaps.
+
+&#160;
+
+&#183; CWT is a leading provider of integrated logistics and supply chain solutions. They serve the spectrum from small establishments to multinational corporations across multiple markets and geographies. Leveraging their strength and scale in logistics competencies, infrastructure and global network, they deliver business solutions that help customers succeed and communities thrive. CWT has built a diversified portfolio around its core logistics capabilities. They also provide commodity marketing for base metals and energy products. In addition, they are engaged in engineering services for buildings, facilities and equipment fleet; property management; brokering services for exchange listed products; and asset and trust management for Cache Logistics Trust, a logistics property REIT. CWT is committed to sustainable development and acts as a socially and ethically responsible corporate citizen. CWT is traded on the Singapore Exchange since 1993. CWT employs around 6,000 people and reported revenue of S$9.1 billion in 2013. CWT is a Singapore corporation established in 1970. 
+
+&#160;
+
+Corporate History
+
+We were incorporated on March 1, 2001 under the laws of the state of Nevada under the name Effective Sports Nutrition Corporation. At formation, the Company was authorized to issue 25,000,000 shares of $.001 par value common stock, par value $0.001 per share.
+
+&#160;
+
+On April 11, 2005, we changed our name from Effective Sports Nutrition Corporation to Midwest E.S.W.T. Corp. and increased the number of authorized shares of common stock, par value $0.001 per share, from 25,000,000 to 110,000,000.
+
+&#160;
+
+On July 18, 2005, we entered into a share exchange agreement (the "Share Exchange Agreement") with Direct Success, Inc., a California corporation. As a result of the Share Exchange Agreement, we issued shares of common stock to the shareholders of Direct Success, Inc. in exchange ("Share Exchange") for all of the issued and outstanding common stock in Director Success, Inc. On December 14, 2005, we changed our name from Midwest E.S.W.T. Corp. to DM Products, Inc. As a result of the Share Exchange, Direct Success, Inc. became our wholly owned subsidiary. At the time of the Share Exchange, Direct Success, Inc. had an accumulated loss of $6,195,881.
+
+&#160;
+
+On April 7, 2006, we increased the number of authorized shares of common stock, par value $0.001 per share, from 110,000,000 to 300,000,000 and we authorized 30,000,000 shares of preferred stock, par value $0.001 per share.
+
+&#160;
+
+&#160;
+
+On December 6, 2011, we filed with the Secretary of State of the State of Nevada a Certificate of Amendment to our Articles of Incorporation. The Amendment: (i) changed the number of authorized shares of common stock, par value $0.001 per share, from 300,000,000 to 400,000,000, and (ii) granted the board of directors' authority to prescribe and issue 30,000,000 shares of Preferred Stock, par value $0.001 per share, in one or more series. In addition, on December 6, 2011, the Company filed with the Secretary of State of the State of Nevada a Certificate of Designation of Series A Preferred Stock, designating 5,000,000 of the Company's authorized preferred stock.
+
+&#160;
+
+Prior to April 2013, we were in the business of locating inventive products and introducing these products through a Direct Response Model, a form of marketing that allows potential consumers direct access to the seller without the necessity of traditional retail. Our primary focus was on infomercials (long-form television commercials, typically five minute or longer). The Company operated the Direct Response Model through its wholly owned subsidiary Direct Success, Inc. until its dissolution on April 23, 2013. Within the five year period prior to April 2013, we had only marketed one product, a fishing lure product known as the Banjo Minnow Fishing Lure System ("Banjo Minnow"). Direct Success, Inc. owned 75% interest in a joint venture, known as Direct Success LLC #3, which held the exclusive rights to manufacture, use, distribute, sell, advertise, promote and otherwise exploit the Banjo Minnow until June 30, 2012. The exclusive rights to the Banjo Minnow were obtained through a Manufacturing, Marketing and Distribution Agreement entered into between Direct Success LLC #3 and Banjo Buddies, the inventor and owner of the intellectual property rights of the Banjo Minnow, in October, 2003. This Agreement, together with modifications made pursuant to an Arbitration settlement, required Direct Success, LLC#3 to pay Banjo Buddies a royalty in the amount 5% for the sale of all products through December 31, 2011, with DM Products maintaining an option to extend, and extended the licensing period for an additional six (6) months.
+
+&#160;
+
+The Company dissolved both Direct Success, Inc. and Direct Success LLC #3 respectively on April 23, 2013 and April 5, 2013, since it no longer received income from the Banjo Minnow and was no longer participating in infomercial projects.
+
+From April 2013 until December 2014, the Company had been considering changing its business model.
+
+On May 29, 2013, a majority of shareholders and our board of directors approved an amendment to our Articles of Incorporation for the purpose of approving a reverse split of one to one hundred eighty eight in which each shareholder was issued one common share in exchange for every one hundred eighty eight common shares of their currently issued common stock.
+
+&#160;
+
+On December 24, 2014, the board of directors authorized the Company to enter into a Stock Purchase Agreement (the "Agreement") with four accredited investors, pursuant to which the Company issued an aggregate of 58,904,964 shares of common stock, or approximately 97% of the issued and outstanding common stock of the Company, at an aggregate purchase price of $350,000 resulting in a change of control. The stock was issued as follows: 54,957,724 shares of common stock to New Asia Holdings Limited for $326,546, 1,821,803 shares of common stock to Wong Kai Fatt for $10,825, 1,518,169 shares of common stock to Earth Heat Ltd. for $9,021, and 607,268 shares of common stock to Kline Law Group PC for $3,608.
+
+&#160;
+
+Effective as of December 24, 2014, Kurt L. Cockrum and James Clark resigned from all offices of the Company while Lin Kok Peng was appointed as a member of the Board of Directors of the Company and as the President, Chief Executive Officer, Chief Financial Officer and Secretary of the Company and Allister Lim Wee Sing was appointed as a member of the Board of Directors of the Company.
+
+&#160;
+
+Since we went through a change of control on December 24, 2014, we have been focusing on developing highly advanced, proprietary, neural trading models for the financial community.
+
+&#160;
+
+&#160;
+
+On January 21, 2015, Lin Kok Peng resigned from the position of Secretary of the Company while Scott C. Kline was appointed as the Secretary, replacing Lin Kok Peng, and as General Counsel of the Company. On January 23, 2015, we filed a Certificate of Amendment with the Secretary of State of the State of Nevada effecting a name change of the Company from DM Products, Inc. to New Asia Holdings, Inc. (the "Name Change"). The Company notified the Financial Industry Regulatory Authority ("FINRA") of the Name Change and a new trading symbol, "NAHD", was assigned effective February 13, 2015 as well as a new CUSIP number (64202A109) for the Company's common stock.
+
+&#160;
+
+On August 19, 2015, the Board of Directors of the Company approved a resolution acknowledging that New Asia Holdings Ltd, the principal controlling shareholder of the Company, (i) had been advancing funds in the amount of $220,000 to the Company since December 24, 2014 to pay for operating expenses of the Company and (ii) would be required to advance an additional $80,000 to the Company to fund further operating expenses of the Company. The Board further resolved that these advances would constitute an interest-free loan to the Company to be repaid by the close of business on October 31, 2015. However, if the Company was unable to repay these advances by such date, New Asia Holdings Ltd, at its sole discretion, would have the option to extend the repayment deadline or convert all or a portion of the above advances into common stock of the Company at a conversion price of $0.02 per share. As of December 31, 2015, New Asia Holdings Ltd, had not yet acted to exercise its option to convert the Advances to shares of common stock, thus the Advances remained as an interest-free loan to the Company.
+
+&#160;
+
+On August 28, 2015, the Company completed the acquisition of Magdallen Quant Pte Ltd., a Singapore-based company, which is focused on the research, development and deployment of advanced, proprietary, state-of-the-art, trainable trading algorithms. The acquisition was accomplished through a share exchange with Mr. Anthony Ng Zi Qin of 7,422,000 new restricted shares of common stock of the Company with a fair value of $3,043,020 in exchange for the entire issued and outstanding capital of Magdallen Quant Pte Ltd., held by Mr. Anthony Ng Zi Qin, consisting of 8,000,100 shares issued at par value of SGD$1.00 per share, or USD$0.714 on the acquisition date and additional contingent consideration of $4,099,837.
+
+&#160;
+
+On September 7, 2015, Mr. Scott C. Kline ("Mr. Kline") resigned as Secretary and General Counsel of the Company. The resignation was not as a result of any disagreement with the Company on any matter relating to the Company's operations, policies or practices. On that date, Mr. Jose A. Capote ("Mr. Capote") was appointed to serve as the Company's Secretary and remained as well in his existing position as the Company's Chief Technical Officer. There is no family relationship between Mr. Capote and any of the Company's directors or officers. Mr. Capote is currently a shareholder of the Company through his 50% ownership of Earth Heat Ltd.
+
+&#160;
+
+Employees
+
+&#160;
+
+The Company currently has no employees. Management of the Company expects to use consultants, attorneys and accountants as necessary, and expects to hire full-time staff as the SaaS and Forex trading business expands. The need for employees and their availability will be addressed in connection with the expansion of the Company's core business.
+
+&#160;
+
+Smaller Reporting Company Status
+
+&#160;
+
+We qualify as a "smaller reporting company" under Rule 12b-2 of the Exchange Act, which is defined as a company with a public equity float of less than $75 million. To the extent that we remain a smaller reporting company at such time as are no longer an emerging growth company, we will still have reduced disclosure requirements for our public filings, some of which are similar to those of an emerging growth company, including not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act and the reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements.
+
+&#160;
+
+&#160;
+

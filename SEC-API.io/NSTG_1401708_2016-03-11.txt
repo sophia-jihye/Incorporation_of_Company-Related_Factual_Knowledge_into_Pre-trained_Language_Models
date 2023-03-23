@@ -1,0 +1,498 @@
+ Item 1. Business Overview 
+
+We develop, manufacture and sell robust, intuitive products that unlock scientifically valuable and clinically actionable biologic information from minute amounts of tissue. Our nCounter Analysis System directly profiles hundreds of molecules simultaneously using a novel barcoding technology that is powerful enough for use in research, yet simple enough for use in clinical laboratories worldwide. We market systems and related consumables to researchers in academic, government, and biopharmaceutical laboratories for use in understanding fundamental biology and the molecular basis of diseases, such as cancer, and to clinical laboratories and medical centers for diagnostic use. As of December 31, 2015, we have an installed base of over 350 systems, which our customers have used to publish more than 1,000 peer-reviewed papers. As researchers using our systems discover new biologic insights to improve clinical decision-making, these discoveries can be translated and validated as diagnostic tests, either using our nCounter Elements reagents or, in certain situations, by developing in vitro diagnostic assays. For example, our first molecular diagnostic product is the Prosigna Breast Cancer Assay, or Prosigna, which provides an assessment of a patient&#146;s risk of recurrence for breast cancer. In addition, we are collaborating with several biopharmaceutical companies to develop companion diagnostics, in vitro diagnostic tests, to be used to identify which patients are most likely to respond to a particular drug therapy. 
+
+Our nCounter Analysis System enables biologic analysis on a scale appropriate for pathway-based biology, the examination of networks of tens or hundreds of genes and proteins that act in concert to produce biologic functions or trigger certain diseases, by digitally quantifying the activity of up to 800 genes or proteins simultaneously in a single minute tissue sample. We offer a range of instruments to appeal to an array of potential customer types. Our nCounter SPRINT Profiler is designed to appeal to individual researchers running relatively smaller experiments. Our nCounter MAX is a higher throughput instrument with features appealing to larger core laboratories serving multiple researchers. Our nCounter Dx FLEX instrument has been FDA 510(k) cleared together with Prosigna and is targeted toward clinical laboratories. All three instruments are capable of running all of our research consumable products and provide comparable, high-quality data. This includes our revolutionary new 3D Biology products, which enable researchers to measure combinations of gene expression, protein expression and gene mutations simultaneously from a single minute tissue sample. 
+
+Our technology and products address a fundamental challenge in cancer research. With more cancers being detected earlier, tumor samples are becoming smaller and smaller, while researchers and clinicians have a much greater appetite for information regarding the activity of genes and proteins. The sensitivity and precision of our novel barcoding chemistry allows the measurement of subtle changes in genomic and proteomic activity efficiently from minute samples of tissue. Furthermore, tumor samples are often stored in a format known as formalin-fixed paraffin embedded, or FFPE, which complicates subsequent analysis of genetic material. Our chemistry is particularly compatible with FFPE, increasing its popularity among cancer researchers. The nCounter Analysis System is an easy-to-use and flexible solution that allows researchers to efficiently test hypotheses in a high throughput manner across thousands of different samples. As a result, the nCounter Analysis System is particularly useful for validating networks of genes and proteins that characterize and help predict disease states, such as cancer. Using the FLEX configuration of our nCounter Dx Analysis System, researchers also have the potential to translate their discoveries to the clinic as diagnostics on a single instrument system after receiving any necessary regulatory authorizations. 
+
+Prosigna, our first molecular diagnostic test, is based on a collection of 50 genes known as the PAM50 gene signature, which was discovered by several of our research customers. Prosigna can provide a breast cancer patient and her physician with a subtype classification based on the fundamental biology of the patient&#146;s tumor, as well as a prognostic score that predicts the probability of cancer recurrence over 10 years. Physicians use Prosigna to help guide therapeutic decisions so that patients receive a therapeutic intervention only if it is clinically 
+
+&#160;
+
+warranted. Prosigna is regulated as an in vitro diagnostic test and we distribute it as a kit for use on our nCounter Dx FLEX Analysis System in clinical laboratories. We expect that our future in vitro diagnostic products will be regulated and distributed in a similar manner. This is in contrast to most complex genomic tests, which are currently regulated as services and are usually offered only by a limited number of specialized laboratories. The current centralized laboratory model for complex genomic testing can result in complicated logistics for the treating physician, including slower test result turnaround times and limited international access to tests as compared to local testing. In addition, most clinical laboratories cannot currently share in the revenue associated with offering patients complex genomic tests. We believe that our decentralized model will transform the current paradigm of complex genomic testing by allowing physicians worldwide to provide more comprehensive personalized diagnoses, broadening patient access, and increasing the degree to which clinical laboratories can profit by providing molecular diagnostic testing services. 
+
+In 2014, we initiated our first companion diagnostic collaboration with Celgene Corporation, or Celgene, under which we are developing an in vitro diagnostic test to identify a subset of patients with diffuse large B-cell lymphoma, or DLBCL, who are believed to be the most likely to benefit from treatment with Celgene&#146;s drug REVLIMID which is FDA approved for other indications. In May 2015, we entered into a collaboration with Merck Sharp &#38; Dohme Corp., a subsidiary of Merck &#38; Co., Inc., or Merck, to develop an assay intended to optimize immune-related gene expression signatures and evaluate its potential to predict benefit to Merck&#146;s anti-PD-1 therapy, KEYTRUDA, in multiple tumor types. In January 2016, we entered into a collaboration with Medivation, Inc. and Astellas Pharma Inc. to develop an in vitro diagnostic test to identify a subset of patients with triple negative breast cancer who are most likely to benefit from treatment with XTANDI, a drug currently marketed by Medivation and Astellas as a treatment for prostate cancer. In February 2016, we expanded our collaboration with Merck to develop and commercialize a novel diagnostic test to predict response to KEYTRUDA in multiple tumor types. We believe there are many other similar opportunities to collaborate with companies developing cancer drugs and we intend to pursue more of these collaborations. 
+
+We generated revenue of $62.7 million, $47.6 million and $31.4 million in 2015, 2014 and 2013, respectively, while incurring net losses of $45.6 million, $50.0 million and $29.3 million in 2015, 2014 and 2013, respectively. 
+
+We were incorporated in Delaware in June 2003. Our principal executive offices are located at 530 Fairview Avenue, N., Seattle, Washington 98109 and our telephone number is (206) 378-6266. Our common stock trades on The NASDAQ Global Market under the symbol &#147;NSTG.&#148; 
+
+This Annual Report on Form 10-K includes our trademarks and registered trademarks, including &#147;NanoString &#174; ,&#148; &#147;NanoString Technologies &#174; ,&#148; &#147;nCounter &#174; ,&#148; &#147;Prosigna &#174; ,&#148; &#147;nCounter Elements TM ,&#148; &#147;nCounter SPRINT TM ,&#148; &#147;3D Biology TM ,&#148; and &#147;Hyb &#38; Seq TM .&#148; Each other trademark, trade name or service mark appearing in this Annual Report on Form 10-K belongs to its holder. 
+
+Our Market Opportunity 
+
+Every living organism has a genome that contains the full set of biological instructions required to build and maintain life. By analyzing the variations in genomes, genes, gene activity, and proteins in and between organisms, researchers can determine their functions and roles in health and disease. An improved understanding of the genome and its functions allows researchers to drive advancements in scientific discovery. As they make scientific discoveries, researchers have been able to translate some of these findings into clinical applications that improve patient care. 
+
+A gene is a specific set of instructions embedded in the DNA of a cell. For a gene to be &#147;turned on,&#148; or &#147;expressed,&#148; the cell must first transcribe a copy of its DNA sequence into molecules of messenger RNA. Then, the cell translates the expressed information contained in the RNA into proteins that control most biological processes. In addition to the translated RNAs, there are many types of non-coding RNAs that are involved in many cellular processes and the control of gene expression, including microRNA, or miRNA. 
+
+&#160;
+
+Biological pathways are the networks of tens or hundreds of genes that work in concert to produce a biological function. Understanding the activation state of pathways and disruptions in individual elements of these pathways provides significant insight into the fundamental basis of disease and facilitates data driven treatment decisions. Therapeutic interventions, such as drugs, can be used to treat disease by activating or inactivating biological pathways that are relevant to disease. As a result, pathway-based biology has become a widely adopted paradigm that researchers use to understand biological processes and has assisted them in the development of diagnostics and drugs to treat disease. This is particularly important in cancer research and treatment. 
+
+Over the last decade, methods of measuring genomic information have advanced substantially. However pathway-based research and the development of diagnostic tests require analysis of multiple genes and sensitivity to small changes in expression, which can be challenging for traditional genomic tools. In both life sciences research and clinical medicine, there is a growing need for improved technologies that can precisely and rapidly measure the activation state of hundreds of genes simultaneously across a large number of precious samples. Furthermore, there is an untapped opportunity for technologies capable of simultaneously profiling the activity of genes and related proteins, which ultimately dictate biological activity. 
+
+Life Sciences Research 
+
+Academic, government, and biopharmaceutical researchers engaged in gene expression or protein analysis typically focus on making biological discoveries that may lead to the development of relevant medical products and better informed treatment decisions for physicians and patients. They have traditionally performed gene expression experiments using microarrays or quantitative PCR, and protein expression experiments using flow cytometry, mass spectrometry, immunohistochemistry or enzyme-linked immunosorbent assay, or ELISA, assays. Recently, RNA sequencing, or RNA-Seq, has dramatically enhanced researchers&#146; ability to discover patterns of gene expression that have biological meaning. However, related workflows and data analysis can be cumbersome and time consuming, and simultaneous analysis of proteins is not possible. Researchers are increasingly performing analyses on a larger number of genes and samples and are seeking new methods of interrogation that would allow them to: 
+
+&#160;
+
+&#160; &#149; &#160; increase the number of molecular targets that can be analyzed simultaneously in order to understand the complete biological pathway involving multiple genes; &#160;
+
+&#160; &#149; &#160; improve the overall efficiency of their laboratories by simplifying workflow and accelerating the rate of successfully completing their research; &#160;
+
+&#160; &#149; &#160; provide more reliable, precise and reproducible data about targeted genes and biological pathways; &#160;
+
+&#160; &#149; &#160; maximize the amount of biologic information extracted from precious tissue samples; &#160;
+
+&#160; &#149; &#160; minimize the computational intensity of complex genomic and proteomic analysis; &#160;
+
+&#160; &#149; &#160; process difficult-to-work-with specimens, such as tumor biopsies stored in FFPE format; and &#160;
+
+&#160; &#149; &#160; create more systematic and reliable ways to help transition their research discoveries into future clinical products. We believe that the above items create an opportunity for technologies like ours that are optimized for pathway-based biology with the capability to analyze both genomic and proteomic information. 
+
+Molecular Diagnostics 
+
+Growth in the molecular diagnostics market is being driven by technological innovations that have enabled unprecedented biological insights that may be used to inform treatment decisions. New and improved technologies have also led to increased test sensitivity, decreased turnaround times, simplified workflow, and lowered costs when compared to previous techniques. In addition, the medical community has seen a trend in favor of decentralized diagnostic testing as a result of the convenience of local testing, hospitals and medical 
+
+&#160;
+
+centers increasingly viewing their laboratories as profit centers and a need to increase access to tests for patients outside of the United States. We believe that there is an opportunity to improve the quality of diagnosis and treatment of diseases by developing and commercializing comprehensive, simple and widely available diagnostic products based initially on gene expression analysis, and ultimately based on our 3D Biology capability. 
+
+Cancer is a disease generally caused by genetic mutations in cells. The behavior of cancer cells is extremely complex, depending on the activity of many different genes and proteins. It is often impossible for researchers to identify a single gene or protein that adequately predicts a more aggressive or less aggressive type of cancer. In some cases, researchers have been able to identify more aggressive or less aggressive types of cancer through gene expression analysis of biological pathways, enabling oncologists to determine which specific treatments are most likely to be effective for an individual patient, monitor a patient&#146;s response to those treatments, and determine the likelihood of recurrence. 
+
+Recently, researchers in the field of oncology have begun to demonstrate the potential of harnessing a patient&#146;s immune system to fight cancer. A new class of compounds, referred to generally as immuno-oncology drugs, have begun to come to market with the promise of long-term remissions, or even cures, in certain types of cancer. Unlike cancer therapeutics of the past, these compounds do not target genetic abnormalities and there are to date no reliable genetic biomarkers for determining which patients are likely to respond to treatment. The development of diagnostics to inform decisions regarding treatment with immuno-oncology drugs is likely to require analysis of both RNA and proteins. 
+
+In addition, the medical community has favored a trend toward decentralized diagnostic testing. Tests for HIV, Hepatitis C, Influenza and MRSA, which were once centralized, are now often conducted in hospital laboratories or at the point of care. We believe that this trend of decentralized testing will continue as a result of many factors, including: 
+
+&#160;
+
+&#160; &#149; &#160; Convenience . We believe that physicians would prefer that molecular diagnostic tests be performed at a local level and in the same laboratory that performs other tests that the physicians may order. Local molecular diagnostic testing could provide physicians the same rapid turnaround of test results that they have learned to expect for other types of tests. &#160;
+
+&#160; &#149; &#160; Economic Advantages . We believe that hospitals and medical centers desire to make their clinical laboratories profit centers by performing tests and billing third-party payors. As diagnostic technologies become less complicated to administer, hospitals and medical centers tend to favor in-sourcing tests. &#160;
+
+&#160; &#149; &#160; International Availability . There is a critical need to increase access to molecular diagnostic tests for patients that live outside the United States. Currently, patients living outside the United States may be challenged to gain access to tests that are provided only by specialized laboratories located within the United States. We believe advanced molecular diagnostic testing will become more available to patients throughout the world when it can be provided by their local clinical laboratories. We believe that these factors create an opportunity for technologies like ours that can facilitate the development and use of complex molecular diagnostics, potentially targeting gene mutations, gene expression and protein expression, with a high level of precision on a decentralized basis. 
+
+Our Solution 
+
+Our nCounter Analysis System is an automated, multi-application, digital detection and counting system which directly profiles hundreds of molecules simultaneously using a novel barcoding technology that is powerful enough for use in research, yet simple enough for use in clinical laboratories worldwide. Our nCounter Analysis System is based on automated instruments that prepare and analyze tissue samples using proprietary reagents, which can only be obtained from us. Our research customers purchase instruments from us and then purchase our reagents and related consumables for the specific experiment or assay they wish to conduct. Our clinical laboratory customers either purchase or lease instruments from us and also purchase our reagents and related consumables, including our Prosigna diagnostic kits, for tests that they intend to run. 
+
+&#160;
+
+Our nCounter Analysis System offers a number of compelling advantages, including: 
+
+&#160;
+
+&#160; &#149; &#160; Optimized for Pathway-Based Biology . The nCounter Analysis System can profile up to 800 molecules in a single test tube, which allows customers to analyze interactions among hundreds of genes or proteins that mediate biological pathways. &#160;
+
+&#160; &#149; &#160; Digital Precision . Our molecular barcodes hybridize directly to the target molecules in a sample allowing them to be counted. This generates digital data (1 molecule = 1 count) of excellent quality over a wide dynamic range of measurements and provides excellent reproducibility. &#160;
+
+&#160; &#149; &#160; Simple Workflow . The nCounter Analysis System&#146;s minimal sample preparation and automated workflow enable the simultaneous analysis of hundreds of genes and proteins in approximately 24 hours between the time a sample is loaded into the system and results are obtained. Our nCounter Analysis System generates data that customers can evaluate without the use of complex bioinformatics. &#160;
+
+&#160; &#149; &#160; Flexible Sample Requirements . The nCounter Analysis System is able to unlock biologic information from minute amounts of a variety of challenging tissue samples, including FFPE samples, cell lysates and single cells. &#160;
+
+&#160; &#149; &#160; Versatility . The FLEX configuration of the nCounter Dx Analysis System provides clinical laboratories a single platform with the flexibility to support both clinical testing, by running Prosigna or Laboratory Developed Tests based on nCounter Elements reagents, and research, by processing translational research experiments and multiplexed assays using our research reagents. Life Sciences Research 
+
+Our nCounter Analysis System is capable of supporting a number of research applications based upon the measurement of the concentration or amount of a target molecule. Additionally, in September 2015, we launched the first of our 3D Biology applications, which enable the simultaneous analysis of DNA, RNA and proteins in a single sample. Key applications currently supported include: 
+
+&#160;
+
+&#160; &#149; &#160; Gene Expression . Researchers use the nCounter Analysis System to measure the degree to which individual genes in pathways are turned &#147;on&#148; or &#147;off&#148; by simultaneously quantifying the amount of messenger RNA, or mRNA, associated with each of up to 800 genes. &#160;
+
+&#160; &#149; &#160; Protein Expression . Today, researchers can use the nCounter Analysis System to measure up to 30 proteins of importance in immuno-oncology. In 2016 and beyond, we expect to expand this capability to additional proteins and may have the potential to simultaneously measure hundreds of proteins, limited only by the number of antibodies that can be sourced and combined without cross-reaction. &#160;
+
+&#160; &#149; &#160; miRNA Expression . Researchers can use the nCounter Analysis System to measure the simultaneous expression levels of up to 800 different miRNAs. The nCounter Analysis System is capable of highly multiplexed, direct digital detection and counting of miRNAs in a single reaction without amplification, thereby delivering high levels of sensitivity, specificity, precision, and linearity. &#160;
+
+&#160; &#149; &#160; Copy Number Variation . Researchers can use the nCounter Analysis System to probe for structural variations that result in cells having an abnormal number of copies of one or more sections of the DNA. Researchers are able to conduct large-scale, statistically-powered studies of these copy number variations, or CNVs, by leveraging the nCounter Analysis System&#146;s multiplexing capacity to assay up to 800 DNA regions in a single tube, with as little as 300 ng of DNA. &#160;
+
+&#160; &#149; &#160; Gene Fusions . Researchers can use the nCounter Analysis System to detect gene fusion events that occur when one gene fuses to another gene. A number of design options are available for developing assays for these complex structural variants which have been shown to be important in a number of cancers. &#160;
+
+&#160; &#149; &#160; Single Cell Gene Expression . Historically, most gene-expression profiling has been performed on populations of cells where observed expression levels represent an average of the unique expression states of each cell within the population. The nCounter Analysis System is capable of measuring gene expression of 20 to 800 genes from a single cell, thereby elucidating previously hidden relationships between individual cells within a population. In 2016, as part of our suite of 3D Biology applications, we intend to introduce a new capability for the measurement of single nucleotide variants, also known as DNA or gene mutations. We expect this added capability to further distinguish our nCounter Analysis System, holding a unique distinction of having capabilities for the simultaneous measurement of gene mutations, gene expression and protein expression. 
+
+Molecular Diagnostics 
+
+We believe that the attributes that make the nCounter Analysis System attractive to researchers also make the system attractive to hospitals and clinical laboratories that desire to conduct molecular diagnostic tests. The precision, ease of use and flexibility of the nCounter Analysis System will allow medical technicians in pathology labs to conduct complex molecular diagnostic tests with minimal training. We expect these tests to encompass both Laboratory Developed Tests based on our nCounter Elements reagents and in vitro diagnostic kits, initially Prosigna. 
+
+Our Products and Technology 
+
+Instruments and Software 
+
+The nCounter Analysis System is an automated, multi-application, digital detection and counting system. In 2008, we began marketing a research use only version of the system, and since that time we have expanded our product line to include three instruments, each targeted at a distinct user segment of our target market. 
+
+&#160;
+
+&#160; &#160; nCounter SPRINT &#160; &#160; nCounter MAX &#160; &#160; nCounter FLEX &#160; Target customer
+
+&#160; &#160; Individual researchers &#160; &#160; &#160; Core research labs &#160; &#160; &#160; Clinical labs &#160; Throughput (samples per day)
+
+&#160; &#160; 24 &#160; &#160; &#160; 48 &#160; &#160; &#160; 48 &#160; Expandable with additional prep station (1) 
+
+&#160; &#160; No &#160; &#160; &#160; Yes &#160; &#160; &#160; Yes &#160; Diagnostic menu
+
+&#160; &#160; No &#160; &#160; &#160; No &#160; &#160; &#160; Yes &#160; U.S. list price
+
+&#160; $ 149,000 &#160; &#160; $ 235,000 &#160; &#160; $ 265,000 &#160; &#160;
+
+(1) &#160; nCounter MAX and FLEX throughput increased to up to 96 samples per day by adding a second prep station. The nCounter MAX and FLEX systems comprise a Prep Station and a Digital Analyzer. The Prep Station is the automated liquid handling component of the nCounter Analysis System that processes samples after they are hybridized and prepares the samples for data collection on the nCounter Digital Analyzer. The nCounter Digital Analyzer collects data from samples by taking images of the immobilized fluorescent reporters in the sample cartridge and processing the data into output files, which include the target identifier and related count numbers along with a broad set of internal controls that validate the precision of each assay. The nCounter SPRINT Profiler is a single instrument targeted to individual researchers that provides both the liquid handling steps and the digital analysis through use of a microfluidic cartridge. All of these instruments were designed and are manufactured under ISO 13485:2003, the quality standard for in vitro diagnostic platforms and medical devices. We also provide our research customers with the nSolver Analysis Software, a data analysis program that offers researchers the ability to quickly and easily quality check, normalize, and analyze their data without having to use any additional software for data analysis. The diagnostic version of our instrument, the nCounter Analysis 
+
+&#160;
+
+Dx FLEX System, was FDA 510(k) cleared and CE-marked together with Prosigna. The FLEX System can be enabled with the software that runs Prosigna to generate individualized patient reports, in addition to running any of our research applications. 
+
+The nCounter MAX and FLEX Systems employ a simple three-step workflow that takes approximately 24 hours and requires approximately 15 minutes of hands-on time by the user. When run in research mode, a user can process up to 48 samples per day by installing one Prep Station with a single Digital Analyzer. One can increase the number of samples analyzed to 96 samples per day on a single Digital Analyzer if it is coupled with two Prep Stations. This throughput can be quadrupled using sample multiplexing for experiments targeting 200 genes or fewer. For Prosigna, a clinical laboratory can process up to 30 samples per day on an nCounter Dx Analysis System. The nCounter SPRINT Profiler employs an even more streamlined two-step workflow that requires only 10 minutes of hands-on time by the user and can process up to 24 samples per day. 
+
+Life Sciences Research Consumables 
+
+Following purchase of an nCounter Analysis System, research customers purchase consumables from us to enable their research experiments. These include custom CodeSets targeted to a specific experiment, panels and nCounter Elements reagents. 
+
+Custom CodeSets 
+
+We work with our customers to design and develop custom CodeSets to enable them to evaluate specific genes that are the subject of their study. Our customers provide us a list of targets for which we subsequently build a unique CodeSet. Our design process leverages full length sequences for the DNA or RNA molecules that our customers are interested in detecting and prevents cross hybridization to non-target molecules in the sample. The custom CodeSet design process occurs in four distinct steps: (1) the customer selects the genes of interest, (2) we design probes and provide a design report to the customer, (3) the customer reviews and approves the design report, and (4) we manufacture, test and ship the CodeSet to the customer. The manufacturing process typically takes from three to five weeks, depending on the number of genes targeted and samples to be processed by the customer. 
+
+Panels 
+
+We offer more than 20 panels that are pre-manufactured CodeSets, which include all of the consumables required to perform a specific type of experiment, including the following: 
+
+&#160;
+
+&#160; &#149; &#160; Pan Cancer Pathways Gene Expression Panel. A novel set of 770 essential genes representing all known major cancer pathways, including key driver genes, selected using a data-driven approach to identifying the genes most relevant to cancer biology. &#160;
+
+&#160; &#149; &#160; PanCancer Immune Profiling Gene Expression Panel. A novel set of 770 genes designed in collaboration with cancer immunologists around the globe, combining markers for 24 different immune cell types and populations, 30 common cancer antigens and genes that represent all known categories of immune response including key checkpoint blockade genes, also available in a mouse version. &#160;
+
+&#160; &#149; &#160; PanCancer RNA: Protein Immune Profiling Panel. A panel that combines gene expression analysis of the 770 genes contained in the PanCancer Immune Profiling Gene Expression Panel with the analysis of 30 proteins of interest in measuring the immune system&#146;s response to cancer. &#160;
+
+&#160; &#149; &#160; PanCancer Progression Panel. A novel set of 770 genes addressing the key questions of what happens when cancer metastasizes, including genes for the study of angiogenesis, epithelial mesenchymal transition, extracellular matrix formation, and metastasis. &#160;
+
+&#160; &#149; &#160; PanCancer Profiles. A series of seven 192-gene expression panels each designed to interrogate a focused area of cancer biology: Adaptive Immunity, Cancer Metabolism, Intracellular Signaling, Cellular Profiling, Wnt Pathway, Innate Immunity, and DNA Damage &#38; Repair, any of which may be combined with nCounter 3D Biology protein expression modules. &#160;
+
+&#160; &#149; &#160; Other Gene Expression Panels . A series of panels that allow researchers to conduct a wide variety of gene expression analysis, including analysis of both human and mouse immunology-related genes and inflammation-related genes. &#160;
+
+&#160; &#149; &#160; miRNA Expression Panels . A family of panels that provide a cost-effective profiling solution capable of highly multiplexed, direct digital detection and counting of up to 800 miRNAs in a single reaction without amplification. Separate panels are available for use with samples from humans, mice, rats, and fruit flies. &#160;
+
+&#160; &#149; &#160; Cancer Copy Number Variation Panel . Enables copy number quantification for 87 genes commonly amplified or deleted in cancer. nCounter Elements Reagents 
+
+nCounter Elements are our digital molecular barcoding reagents that allow users to design their own customized assays using standard sets of barcodes provided by us with the laboratories&#146; choice of oligonucleotide probes that they can purchase independently from an oligonucleotide manufacturer. The highly flexible architecture of nCounter Elements enables a broad range of basic research studies where iterative design and refinement of assays are important. 
+
+Master Kits 
+
+Our nCounter Master Kit includes all of the ancillary reagents and plasticware required for our customers to be able to setup and process samples in the nCounter Prep Station and nCounter Digital Analyzer. The components of the Master Kit include the sample cartridge, strip tubes, tips, buffers, and reagent plates. 
+
+Molecular Diagnostics 
+
+Our nCounter Dx Analysis System FLEX Configuration has the ability to simultaneously quantify gene expression on tens or hundreds of genes from minimal amounts of FFPE tissue, which makes it well suited for profiling pathway activation in tumor samples. In addition, it has the precision, reproducibility, and simple workflow required of technologies used in clinical laboratories. Our clinical laboratory customers use the nCounter Dx Analysis System, nCounter Elements reagents and in vitro diagnostic kits to provide clinical diagnostic services. Currently, Prosigna is the only in vitro diagnostic kit available for use on our nCounter Dx Analysis System. Over time, we intend to develop, obtain regulatory authorization for, and sell additional in vitro diagnostic kits, each of which will enable a unique diagnostic test. 
+
+Laboratory Developed Tests 
+
+Clinical laboratories can use nCounter Elements reagents to create Laboratory Developed Tests, or LDTs, which are diagnostic tests that are developed, validated and performed by a single laboratory and include genetic tests and other tests for rare conditions. nCounter Elements reagents enable assays for gene expression, copy number variation and gene fusions. Many clinical laboratories are currently exploring the use of nCounter Elements reagents to develop assays to replace tests currently performed using fluorescence-based in situ hybridization, or FISH. The first commercial use of an nCounter Elements based LDT occurred in 2014. 
+
+&#160;
+
+Prosigna 
+
+Prosigna, our first molecular diagnostic test, is based on a collection of 50 genes known as the PAM50 gene signature, which was discovered by several of our research customers. Prosigna can provide a breast cancer patient and her physician with a subtype classification based on the fundamental biology of the patient&#146;s tumor, as well as a prognostic score that indicates the probability of cancer recurrence over 10 years. Physicians use Prosigna to help guide therapeutic decisions so that patients receive a therapeutic intervention only if clinically warranted. Prosigna is regulated as an in vitro diagnostic test and we distribute it as a kit for use on our nCounter Dx Analysis System in clinical laboratories. 
+
+Prosigna in the United States. In September 2013, we received 510(k) clearance from the FDA to market in the United States a version of Prosigna providing a prognostic indicator for distant recurrence-free survival at 10 years, which is indicated for postmenopausal women with Stage I/II lymph node-negative or Stage II lymph node-positive (one to three positive nodes) hormone receptor-positive breast cancer who have undergone surgery in conjunction with locoregional treatment consistent with standard of care. For each patient, the Prosigna report includes the Prosigna Score, which is referred to as the ROR Score in the scientific literature and outside the United States, and a risk category based on both the Prosigna Score and nodal status. Node-negative patients are classified as low, intermediate or high risk, while node-positive patients are classified as low or high risk. Prosigna is not intended for diagnosis, to predict or detect response to therapy, or to help select the optimal therapy for patients. Prosigna competes with other tests that are currently available as services from specialized central laboratories. 
+
+We sell Prosigna kits to our lab customers on a fixed dollars-per-kit basis. These customers are responsible for providing the testing service and contracting and billing payors. Accordingly, we are not directly exposed to third-party payor reimbursement risk. 
+
+Prosigna in the European Union and Other Countries that Recognize the CE Mark. In September 2012, we obtained CE mark designation for Prosigna for use as a semi-quantitative in vitro diagnostic assay using the gene expression profile of cells found in FFPE breast tumor tissue to assess the 10 year risk of distant recurrence in postmenopausal women with HR+ early stage breast cancer treated with endocrine therapy alone. This CE-marked product is indicated for use in patients with either node-negative or node-positive disease, and provides physicians and their patients with the intrinsic subtype of a patient&#146;s breast cancer tumor, ROR score, and risk category (high/intermediate/low). In early 2013, we began marketing this test in Europe and Israel. 
+
+Intellectual Property 
+
+We must develop and maintain protection on the proprietary aspects of our technologies in order to remain competitive. We rely on a combination of patents, copyrights, trademarks, trade secret and other intellectual property laws and confidentiality, material transfer agreements, licenses, invention assignment agreements and other contracts to protect our intellectual property rights. 
+
+As of December 31, 2015, we owned or exclusively licensed twelve issued U.S. patents and approximately 38 pending U.S. patent applications, including provisional and non-provisional filings. We also owned or licensed approximately 154 pending and granted counterpart applications worldwide, including 60 country-specific validations of five European patents. The issued U.S. patents that we own or exclusively license are expected to expire between July 3, 2021 and February 6, 2033. We have either sole or joint ownership positions in all of our pending U.S. patent applications. Where we jointly own cases, we have negotiated license or assignment provisions for exclusive rights. For our material nCounter Analysis System and Prosigna product rights, we are the exclusive licensee. We also generally protect our newly developed intellectual property by entering into confidentiality agreements that include intellectual property assignment clauses with our employees, consultants and collaborators. 
+
+Our patent applications relate to the following three main areas: 
+
+&#160;
+
+&#160; &#149; &#160; our nCounter Analysis System biology, chemistry, software and hardware; &#160;
+
+&#160; &#149; &#160; specific applications for our nCounter Analysis System technology; and &#160;
+
+&#160; &#149; &#160; our gene expression markers, methods and algorithms for recurrence and drug response in certain forms of cancer. We intend to file additional patent applications in the United States and abroad to strengthen our intellectual property rights; however, our patent applications may not result in issued patents, and we cannot assure investors that any patents that have issued or might issue will protect our technology. We have received notices of claims of potential infringement from third parties and may receive additional notices in the future. When appropriate, we have taken a license to the intellectual property rights from such third parties. For additional information, see the section of this report captioned &#147;Risk Factors &#151; Risks Related to Intellectual Property.&#148; 
+
+We own a number of trademarks and develop names for our new products and as appropriate secure trademark protection for them, including domain name registration, in relevant jurisdictions. 
+
+Collaborations 
+
+Celgene Corporation 
+
+In March 2014, we entered into a collaboration with Celgene Corporation, or Celgene, to develop, seek regulatory approval for, and commercialize a companion diagnostic assay using the nCounter Analysis System to identify a subset of patients with DLBCL, who are believed to be the most likely to benefit from treatment with Celgene&#146;s drug REVLIMID. Under the terms of the collaboration agreement, we will develop, seek regulatory approval for, and commercialize the diagnostic test, and we retain the flexibility to independently develop and commercialize additional indications for the test. We are eligible to receive payments totaling up to $45.0 million, of which $5.8 million was received as an upfront payment, $17.0 million is for potential success-based developmental and regulatory milestones, and the remainder is for potential commercial payments in the event sales of the test do not exceed certain pre-specified minimum annual revenues during the first three years following regulatory approval. In October 2015, the collaboration agreement was amended to include additional countries to conduct clinical trials and in return we received an upfront payment of $1.6 million in December 2015. 
+
+DLBCL is a heterogeneous group of cancers that represents the most common form of Non-Hodgkin Lymphoma. According to the National Cancer Institute, there were approximately 70,000 new cases of Non-Hodgkin Lymphoma in the United States in 2015. DLBCL is the most common type of Non-Hodgkin Lymphoma, representing approximately 1 out of every 3 cases. The subtypes of DLBCL have long been known to have varying prognoses. In January 2014, certain of our research customers published a paper in the journal Blood describing the development and validation of a biomarker assay based on a 20-gene expression DLBCL subtype classifier using our nCounter Analysis System. We have secured a license to the relevant intellectual property to enable the collaboration. 
+
+Under the collaboration agreement with Celgene, we have delivered an in vitro companion diagnostic test that will be used to subtype and screen patients who are being enrolled in a pivotal study of REVLIMID for the treatment of DLBCL. The upfront payment, a portion of the success-based milestone payments and the payment related to the 2015 amendment, totaling $13.3 million, have been received from Celgene to date, and we intend to use to cover our costs for clinical development of the test. 
+
+Merck &#38; Co., Inc. 
+
+In May 2015, we entered into a clinical research collaboration agreement with Merck, to develop an assay intended to optimize immune-related gene expression signatures and evaluate the potential to predict benefit from Merck&#146;s anti-PD-1 therapy, KEYTRUDA, in multiple tumor types. Under the terms of the collaboration 
+
+&#160;
+
+agreement, we are eligible to receive up to $4.0 million in payments, of which we received an upfront payment of $2.0 million in July 2015 and development payments totaling $1.9 million during 2015. 
+
+In February 2016, we expanded our collaboration with Merck by entering into a new development collaboration agreement to clinically develop and commercialize a novel diagnostic test, based on an optimized gene expression signature, to predict response to KEYTRUDA in multiple tumor types. In connection with the execution of the development collaboration agreement, we and Merck terminated our May 2015 clinical research collaboration and moved all remaining activities under such clinical research collaboration work plan to the new development collaboration agreement. Under the terms of the new development collaboration agreement, we will receive $12.0 million as an upfront technology access payment and are eligible to receive up to an additional $12.0 million for potential preclinical regulatory milestone payments. We are also eligible to receive additional milestone payments upon achievement of certain regulatory milestones. Merck is responsible for its own costs under the development collaboration agreement and will reimburse us for allowable development costs, including personnel related and overhead costs for our employees assigned to the project, nCounter systems and clinical study reagents, and reimbursement of other out-of-pocket costs. For the first two quarters of the development term, our personnel related and overhead costs for employees assigned to the project are estimated to be up to $1.25 million. Following completion of the first two quarters of the development term, our allowable development costs for a given calendar quarter must be agreed to in advance by a joint steering committee composed of our and Merck&#146;s representatives which will oversee and coordinate the parties&#146; activities under the development collaboration agreement. Development funding under the agreement also includes up to approximately $3.7 million related to work under an extension of our previous clinical research collaboration. 
+
+KEYTRUDA is among a class of promising immuno-oncology drugs called &#147;checkpoint inhibitors&#148; that target the interaction between the programmed cell death-1 (PD-1) immune &#147;checkpoint&#148; receptor, which inhibits the T-cell response and plays a key role in modulating T-cell function. Certain tumor cells expressing PD-1 are able to bind to the programmed cell death ligand-1 (PDL-1) expressed on the surface of certain T-cells and neutralize a patient&#146;s immune response to the cancer cells. It has been shown that by administering a checkpoint inhibitor to block this interaction, a patient&#146;s immune response can be unleashed to attack and kill the tumor cells, resulting in long-term remissions or cures in a meaningful percentage of patients treated. 
+
+Medivation, Inc. and Astellas Pharma, Inc. 
+
+In January 2016, we entered into a collaboration with Medivation, Inc. and Astellas Pharma Inc. to pursue the translation of a novel gene expression signature algorithm discovered by Medivation into a companion diagnostic assay using the nCounter Analysis System. Under the terms of the collaboration agreement, we will modify our PAM50-based Prosigna Breast Cancer Assay for potential use as a companion diagnostic test for XTANDI (enzalutamide) for triple negative breast cancer. We will be responsible for developing and validating the diagnostic test and, if the parties thereafter determine to proceed, we will also be responsible for seeking regulatory approval for and commercializing the test. We have received a $6.0 million upfront payment for technology access, and are eligible to receive up to $10.0 million in development funding, in addition to other potential downstream milestone payments. 
+
+Triple negative breast cancer is a form of breast cancer for which the three most common types of receptors known to fuel breast cancer growth&#150;estrogen, progesterone, and the HER-2/neu gene&#150; are not present in the cancer tumor. Receptor-targeting therapies have fueled tremendous recent advances in the fight against breast cancer. However, since triple negative breast tumor cells lack the necessary receptors, all such targeted therapies are ineffective. Triple negative breast cancer represents a significant unmet need, as it tends to be more aggressive, more likely to recur, and more difficult to treat due to the lack of targeted treatments. XTANDI is currently approved for the treatment of metastatic castration-resistant prostate cancer. The modified Prosigna test will be based upon data from a Phase 2 trial conducted by Medivation and Astellas that evaluated enzalutamide in patients with triple negative breast cancer. 
+
+License Agreements 
+
+We have relied, and expect to continue to rely, on strategic collaborations and licensing agreements with third parties. For example, our base molecular barcoding technology is in-licensed from the Institute for Systems Biology and the intellectual property that forms the basis of Prosigna is in-licensed from Bioclassifier, LLC. In addition to the licenses with the Institute for Systems Biology and Bioclassifier, we have licensed technology related to the DLBCL assay from the National Institutes of Health, and we rely on other license and supply arrangements for proprietary components which require us to pay royalties on the sale of our products. Other research customers are using our nCounter Analysis System to discover gene expression signatures that we believe could form the basis of future diagnostic products. In the future, we may consider these gene signatures for in-licensing. Our licensing arrangements with the Institute for Systems Biology and Bioclassifier are discussed below in greater detail. 
+
+&#160;
+
+Institute for Systems Biology 
+
+In 2004, we entered into an agreement with the Institute for Systems Biology pursuant to which the Institute granted to us an exclusive, subject to certain government rights, worldwide license, including the right to sublicense, to the digital molecular barcoding technology on which our nCounter Analysis System is based, including 13 patents and patent applications. Pursuant to the terms of the amended license agreement, we are required to pay the Institute for Systems Biology royalties on net sales of products sold by us, or our sublicensees, at a low single digit percentage rate. Through December 31, 2015, we have paid aggregate royalties of $3.5 million under the license agreement. Unless terminated earlier in accordance with the terms of the amended license agreement, the agreement will terminate upon the expiration of the last to expire patent licensed to us. The Institute for Systems Biology has the right to terminate the agreement under certain situations, including our failure to meet certain diligence requirements or our uncured material breach of the agreement. 
+
+Bioclassifier, LLC 
+
+In July 2010, we entered into an exclusive license agreement with Bioclassifier, LLC, pursuant to which Bioclassifier granted to us an exclusive, subject to certain government rights, worldwide license, with the right to sublicense, to certain intellectual property rights and technology, including eight non-provisional patent applications, related to the PAM50 gene signature in the field of research products and prognostic and/or diagnostic tests for cancer, including Prosigna. Bioclassifier has licensed these rights from the academic institutions that employed the cancer researchers that discovered or were involved in the initial development of PAM50. Pursuant to the agreement, we are required to pay Bioclassifier the greater of certain minimum royalty amounts and mid-single digit to low double digit percentage royalties on net sales of products and/or methods sold by us that are covered by patent rights or include, use or are technology licensed to us. Our obligation to pay royalties to Bioclassifier expires on a country-by-country basis upon the expiration of the last patent licensed or, if a product or method includes, uses or is technology licensed to us but is not covered by a patent licensed to us, ten years after the first commercial sale of the product or method in such country. We are also required to pay Bioclassifier low to mid double digit percentage of any income received by us from the grant of a sublicense by use to the patents or technology licensed us under the agreement. The agreement specifies that we will control and be responsible for the costs of prosecuting and enforcing the intellectual property licensed in certain major market countries. The agreement also includes customary rights of termination for Bioclassifier, including for our uncured material breach or our bankruptcy. Through December 31, 2015, we have paid Bioclassifier $468,000 of which $26,000 will be credited against future royalties owed. 
+
+Research and Development 
+
+We have committed, and expect to continue to commit, significant resources to developing new technologies and products, improving product performance and reliability and reducing costs. We have assembled experienced research and development teams at our Seattle, Washington location with the scientific, engineering, software and process talent that we believe is required to successfully grow our business. As of December 31, 2015, including clinical, medical and regulatory affairs, we had 87 employees in research and development, of which 27 hold a Ph.D. degree and 2 hold an M.D. degree. Our research and development expenses for the years ended December 31, 2015, 2014 and 2013 were $24.6 million, $21.4 million and $15.0 million, respectively. 
+
+nCounter Technology 
+
+We are continuously seeking to improve the nCounter Analysis System, including improvements to the technology and accessibility, or to extend its capabilities. As we make improvements or add new capabilities, we anticipate that we will make available new and improved generations of the nCounter Analysis System. 
+
+&#160;
+
+Our current technology development efforts are focused on: 
+
+&#160;
+
+&#160; &#149; &#160; Applications. We are developing additional application areas to enable researchers to apply the nCounter Analysis System to new experimental paradigms. For example, as part of our new suite of applications for 3D Biology, we added protein expression capability in 2015 and we plan to introduce a new capability for measurement of DNA mutations in 2016. With 3D Biology, research customers will be able to measure combinations of DNA, RNA and proteins in a single experiment. Consistent with our 3D Biology initiative, we are also continuing to update our panel product line. &#160;
+
+&#160; &#149; &#160; Instruments. In July 2015, we launched the nCounter SPRINT Profiler, a new generation of the nCounter Analysis System that increases our addressable market by appealing to individual researchers. In early 2016, we announced our intention to develop a novel DNA sequencing chemistry called Hyb &#38; Seq and a novel approach to digital, multiplexed measurement of protein expression with spatial resolution, both of which are based on our optical barcoding technology and will require development of new instruments. Companion Diagnostic Development 
+
+In 2014, we entered into our first companion diagnostic collaboration with Celgene Corporation. Pursuant to the collaboration, we have developed an in vitro diagnostic test that is being used to test DLBCL patients to determine the subtype of their cancer (the Lymphoma Subtyping Test, or LST) and whether they will be enrolled in a Phase 3 clinical trial of REVLIMID for the DLBCL indication. We will monitor the testing process during that Phase 3 study and, if the study results are positive, we will submit appropriate filings for regulatory approval of the LST. We will own the commercial rights to the test and would make it commercially available in territories in which REVLIMID is approved for the DLBCL indication and for which we have any necessary regulatory authorizations to approve the test. Celgene has paid us $13.3 million to date, and may be obligated to pay us up to $45.0 million in total over the course of the collaboration. 
+
+In May 2015, we entered into a clinical research collaboration agreement with Merck, to develop an assay intended to optimize immune-related gene expression signatures and evaluate the potential to predict benefit from Merck&#146;s anti-PD-1 therapy, KEYTRUDA, in multiple tumor types. Under the terms of the collaboration agreement, we are eligible to receive up to $4.0 million in payments, of which we received an upfront payment of $2.0 million in July 2015 and development payments totaling $1.9 million during 2015. In February 2016, we expanded our collaboration with Merck by entering into a new development collaboration agreement to clinically develop and commercialize a novel diagnostic test, based on an optimized gene expression signature, to predict response to KEYTRUDA in multiple tumor types. For additional information regarding the development collaboration agreement, see the section of this report captioned &#147;&#151;Collaborations&#151;Merck &#38; Co., Inc.&#148; 
+
+In January 2016, we entered into a collaboration with Medivation, Inc. and Astellas Pharma Inc. to pursue the translation of a novel gene expression signature algorithm discovered by Medivation into a companion diagnostic assay using the nCounter Analysis System. Under the terms of the collaboration agreement, we will modify our PAM50-based Prosigna Breast Cancer Assay for potential use as a companion diagnostic test for XTANDI for triple negative breast cancer. XTANDI is currently approved for the treatment of metastatic castration-resistant prostate cancer. We will be responsible for developing and validating the diagnostic test and, if the parties thereafter determine to proceed, we will also be responsible for seeking regulatory approval for and commercializing the test. We received $6.0 million upfront for technology access, and are eligible to receive up to $6.0 million in preclinical stage milestones and up to $10.0 million in development funding, in addition to other potential downstream milestone payments. 
+
+We believe that there are likely to be many similar opportunities to collaborate with drug developers in the future and we intend to secure additional collaborations as the primary means to expanding our menu of diagnostic tests. These collaborations may be based on Prosigna, the LST, or other tests discovered by our research customers, either in academia or within biopharmaceutical companies themselves. 
+
+&#160;
+
+Prosigna Breast Cancer Assay 
+
+We plan to conduct clinical studies of Prosigna to generate more data regarding utilization of Prosigna in the clinical setting. 
+
+Our Prosigna clinical studies to date have employed a retrospective / prospective design, which means that we use samples that were previously collected from patients and for which the treatment regimen and ultimate outcome of each patient are known. Such studies are capital efficient as they do not require recruiting new patients and running prospective trials and they can be completed much more quickly than typical prospective clinical trials. We intend to use a similar approach whenever possible for any additional clinical studies we may conduct for Prosigna. 
+
+In the future, we may participate in prospective clinical studies that require recruiting new patients. For example, we have been selected to participate in the OPTIMA trial, which is being organized and sponsored by a cooperative group in the United Kingdom. We are not financially responsible for conducting the trial; however, we intend to provide in-kind support through the sale of Prosigna in vitro diagnostic kits at a discounted price. 
+
+Future Molecular Diagnostics 
+
+We are continuously monitoring molecular signatures which have the potential to become additional diagnostic products or enable Laboratory Developed Tests based on nCounter Elements. We may in-license rights to molecular diagnostic intellectual property as part of our strategy to develop additional diagnostic products and enable Laboratory Developed Tests, with a particular focus on licensing rights from our research customers who are seeking to translate their research into clinical products or services after the necessary regulatory authorizations are secured. 
+
+Sales and Marketing 
+
+We began selling nCounter Analysis Systems to researchers in 2008 and began sales efforts in the clinical laboratory market in Europe and Israel in early 2013, and in the United States in November 2013. We sell our instruments and related products primarily through our own sales force in North America and through a combination of direct and distributor channels in Europe, the Middle East, Asia Pacific and South America. We have agreements with 22 distributors, each of which is exclusive within a certain territory. In the event the distributor does not meet minimum performance requirements, we may terminate the distribution agreement or convert from an exclusive to non-exclusive arrangement within the territory, allowing us to enter into arrangements with other distributors for the territory. None of our customers represented more than 10% of our revenue for the years ended December 31, 2015, 2014 or 2013. 
+
+Instrumentation and Research 
+
+Our sales and marketing efforts for instrumentation and in the life sciences research market are targeted at department heads, research or clinical laboratory directors, principal investigators, core facility directors, and research scientists and pathologists at leading academic institutions, biopharmaceutical companies, publicly and privately-funded research institutions and contract research organizations. We seek to increase awareness of our products among our target customers through direct sales calls, trade shows, seminars, academic conferences, web presence and other forms of internet marketing. 
+
+Our nCounter Analysis Systems are relatively new to the research and clinical laboratory market place and our instruments require a significant capital investment or commitment to a lease or reagent rental agreement. Our sales process involves numerous interactions with multiple people within an organization, and often includes 
+
+&#160;
+
+in-depth analysis by potential customers of our products, proof-of-principle studies, preparation of extensive documentation and a lengthy review process. As a result of these factors, the large capital investment required in purchasing our instruments and the budget cycles of our customers, the time from initial contact with a customer to our receipt of a purchase order can vary significantly and be up to 12 months or longer. Given the length and uncertainty of our sales cycle, we have in the past experienced, and likely will in the future experience, fluctuations in our instrument sales on a period-to-period basis. 
+
+Molecular Diagnostics 
+
+The commercialization of Prosigna kits involves a three-pronged effort. First, we seek to establish third-party reimbursement and patient access for clinical testing services that our clinical laboratory customers will provide based upon our products by educating third-party payors regarding the clinical utility and health economic value of the clinical tests enabled by our technology. Second, we seek to establish an installed base of nCounter Analysis Systems by selling or leasing instruments to select clinical laboratories, with initial sales efforts directed at laboratories, hospitals, networks or practices that test or treat a high volume of breast cancer patients. As of December 31, 2015, there were approximately 50 laboratories worldwide that had purchased or rented nCounter Analysis Systems with the intent to market and sell Prosigna testing services. In the United States, this includes national diagnostic laboratories ARUP Laboratories, Laboratory Corporation of America Holdings, Quest Diagnostics and Genoptix. Third, we intend to drive physician demand for clinical testing services enabled by our diagnostic products, and direct test orders toward those laboratories which have adopted our technology. Where appropriate, we intend to coordinate commercial efforts with the sales and marketing personnel of the clinical laboratories offering clinical testing services based on our diagnostic products. 
+
+Manufacturing and Suppliers 
+
+We use third-party contract manufacturers to produce our instruments and raw materials for our consumables, and we build the CodeSets and reagent packages at our Seattle, Washington facility. 
+
+Instruments 
+
+We outsource manufacturing of our nCounter Analysis System instruments. Precision System Science, Co., Ltd. of Chiba, Japan, or PSS, is our sole source supplier for the nCounter Prep Station. Korvis Automation Inc., or Korvis, is our sole source supplier for our nCounter Digital Analyzers at its facility in Corvallis, Oregon. Paramit Corporation, or Paramit, is our sole source supplier for our nCounter SPRINT Profiler at its facility in Morgan Hill, California. 
+
+The facilities at which our instruments are built have been certified to ISO 13485:2003 standards. Our contracts with these instrument suppliers do not commit them to carry inventory or make available any particular quantities. Under the terms of the three instrument supply agreements, we are required to place binding purchase orders for instruments that will be delivered to us by the supplier three to six months from the date of placement of the purchase order. Although qualifying alternative third-party manufacturers could be time consuming and expensive, our instruments&#146; design is similar to other instruments and we believe that alternatives would be available if necessary. However, if our instrument suppliers terminate our relationship with them or if they give other customers&#146; needs higher priority than ours, then we may not be able to obtain adequate supplies in a timely manner or on commercially reasonable terms. 
+
+Consumables 
+
+We manufacture our consumables in our Seattle, Washington facility which has been certified to ISO 13485:2003 standards. We expanded our manufacturing capacity in 2015 by relocating certain research and development functions and converting the space to incremental manufacturing labs and offices. In the future, should additional space become necessary, we believe that there will be space available near our existing facility that we believe we can secure; however, we cannot predict that this space will be available if and when it is needed. 
+
+&#160;
+
+We rely on a limited number of suppliers for certain components and materials used in the manufacture of our consumables. Some of these components are sourced from a single supplier. For example, Cidra Precision Services, LLC, of Wallingford, Connecticut, is the sole supplier of the microfluidic cartridge for our nCounter SPRINT Profiler. For some components, we have qualified second sources for several of our critical reagents, including oligonucleotides, adhesives and dyes. We believe that having dual sources for our components helps reduce the risk of a production delay caused by a disruption in the supply of a critical component. We continue to pursue qualifying additional suppliers, but cannot predict how expensive, time-consuming or successful these efforts will be. If we were to lose one or more of our suppliers, it may take significant time and effort to qualify alternative suppliers. 
+
+Competition 
+
+In the life sciences research market, we compete with companies such as Affymetrix, Agilent Technologies, Becton-Dickinson, Bio-Rad, Bio-Techne, Exiqon, Fluidigm, HTG Molecular Diagnostics, Illumina, Luminex, Merck Millipore, O-Link, Perkin Elmer, Qiagen, RainDance Technologies, Roche Applied Science, Thermo Fisher Scientific, and WaferGen Biosystems, some of which also offer diagnostic applications of their technologies. These competitors and others have products for gene and protein expression analysis that compete in certain segments of the market in which we sell our products. In addition, there are a number of new market entrants in the process of developing novel technologies for the life sciences market. 
+
+In the breast cancer diagnostics market, we compete with Genomic Health&#146;s Onco type Dx, a service for gene expression analysis performed in its central laboratory in Redwood City, California. We also face competition from companies such as Agendia, bioTheranostics, and NeoGenomics, which also offer centralized laboratories that profile gene or protein expression in breast cancer. Outside the United States, we also face regional competition from Myriad Genetics, which is marketing a product from Sividon Diagnostics called EndoPredict, a distributed test for breast cancer recurrence, and other independent laboratories. 
+
+We believe that we have multiple competitive advantages in the research market, including the automated nature of our nCounter Analysis System with its simple, rapid and efficient workflow that requires very limited human intervention or labor; the multiplexing capability of our technology to analyze significantly more target molecules in a single tube without amplification, representing multiple biological pathways; the ability to analyze combinations of DNA, RNA and proteins simultaneously in a single experiment; compatibility with many sample types, including difficult samples such as FFPE; and the ability to analyze small sample inputs, in some cases down to a single cell, from a wide variety of sample types. In the diagnostics market, we believe our competitive advantages include the compelling evidence of Prosigna&#146;s ability to inform major medical treatment decisions, including results from our studies; the quality of our nCounter Analysis System, which enables consistent and reproducible results in decentralized laboratories; and the improved convenience for physicians and patients, including more rapid test result turnaround time. 
+
+While we believe that we compete favorably based on the factors described above, many of our competitors enjoy other competitive advantages over us, including: 
+
+&#160;
+
+&#160; &#149; &#160; greater name and brand recognition, financial and human resources; &#160;
+
+&#160; &#149; &#160; broader product lines; &#160;
+
+&#160; &#149; &#160; larger sales forces and more established distributor networks; &#160;
+
+&#160; &#149; &#160; substantial intellectual property portfolios; &#160;
+
+&#160; &#149; &#160; larger and more established customer bases and relationships; and &#160;
+
+&#160; &#149; &#160; better established, larger scale and lower cost manufacturing capabilities. For additional information, see the section of this report captioned &#147;Risk Factors &#151; The life sciences research and diagnostics markets are highly competitive. If we fail to compete effectively, our business and operating results will suffer.&#148; 
+
+Government Regulation 
+
+Medical Device Regulation 
+
+United States 
+
+In the United States, medical devices, including in vitro diagnostics, are subject to extensive regulation by the U.S. Food and Drug Administration, or FDA, under the Federal Food, Drug, and Cosmetic Act, or FDC Act, and its implementing regulations, and other federal and state statutes and regulations. The laws and regulations govern, among other things, medical device development, testing, labeling, storage, premarket clearance or approval, advertising and promotion and product sales and distribution. 
+
+A medical device is an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component part or accessory which is (1) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or (2) intended to affect the structure or any function of the body of man or other animals, and which does not achieve any of its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its primary intended purposes. In vitro diagnostics are a type of medical device and are tests that can be used in the diagnosis and/or detection of diseases, conditions or infections, including, without limitation, the presence of certain chemicals, genetic or other biomarkers. Some tests are used in laboratories or other health professional settings and other tests are for consumers to use at home. 
+
+Medical devices to be commercially distributed in the United States must receive from the FDA either clearance of a premarket notification, or 510(k), or premarket approval of a premarket approval application, or PMA, pursuant to the FDC Act prior to marketing, unless subject to an exemption. Devices deemed to pose relatively low risk are placed in either Class I or II. Placement of a device into Class II generally requires the manufacturer to submit to the FDA a 510(k) seeking clearance for commercial distribution; this is known as the 510(k) clearance process. Most Class I devices are exempted from this premarket requirement. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices and some diagnostic tests, or devices deemed not substantially equivalent to a previously 510(k) cleared device or a preamendment Class III device for which PMA applications have not been called, are placed in Class III requiring PMA approval. A clinical trial is almost always required to support a PMA application and in many cases required for a 510(k) application. All clinical studies of investigational devices must be conducted in compliance with applicable FDA or Institutional Review Board, or IRB, regulations. 
+
+510(k) Clearance Pathway . To obtain 510(k) clearance, a manufacturer must submit a premarket notification demonstrating to the FDA&#146;s satisfaction that the proposed device is substantially equivalent in intended use and in technological characteristics to a previously 510(k) cleared device or a device that was in 
+
+&#160;
+
+commercial distribution before May 28, 1976, for which the FDA has not yet called for submission of PMA applications. The previously cleared device is known as a predicate. The FDA&#146;s 510(k) clearance pathway usually takes from four to 12 months, but it can last significantly longer, particularly for a novel type of product. 
+
+After a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, requires a new 510(k) clearance or could require a PMA approval. The FDA requires each manufacturer to make this determination in the first instance, but the FDA can review any such decision. If the FDA disagrees with a manufacturer&#146;s decision not to seek a new 510(k) clearance, the agency may require the manufacturer to seek 510(k) clearance or PMA approval. The FDA also can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or PMA approval is obtained. 
+
+PMA Approval Pathway . The PMA approval pathway requires reasonable scientific evidence of the safety and effectiveness of the device to the FDA&#146;s satisfaction. The PMA approval pathway is costly, lengthy and uncertain. 
+
+A PMA application must provide extensive preclinical and clinical trial data and also information about the device and its components regarding, among other things, device design, manufacturing and labeling. As part of the PMA review, the FDA will typically inspect the manufacturer&#146;s facilities for compliance with Quality System Regulation, or QSR, requirements, which impose elaborate testing, control, documentation and other quality assurance procedures. 
+
+Upon submission, the FDA determines if the PMA application is sufficiently complete to permit a substantive review, and, if so, the application is accepted for filing. The FDA then commences an in-depth review of the PMA application. The PMA approval process typically takes one to three years, but may last longer. The review time is often significantly extended as a result of the FDA asking for more information or clarification of information already provided. The FDA also may respond with a &#147;not approvable&#148; determination based on deficiencies in the application and require additional clinical studies that are often expensive and time consuming and can delay approval for months or even years. During the review period for a new type of device, an FDA advisory committee, a panel of external experts, likely will be convened to review the application and recommend to the FDA whether, or upon what conditions, the device should be approved. Although the FDA is not bound by the advisory panel decision, the panel&#146;s recommendation is important to the FDA&#146;s overall decision making process. 
+
+If the FDA&#146;s evaluation of the PMA application is favorable, the FDA typically issues an &#147;approvable letter&#148; requiring the applicant&#146;s agreement to specific conditions, such as changes in labeling, or specific additional information such as submission of final labeling, in order to secure final approval of the PMA application. Once the approvable letter is satisfied, the FDA will issue a PMA for the approved indications, which can be more limited than those originally sought by the manufacturer. The PMA can include post-approval conditions that the FDA believes necessary to ensure the safety and effectiveness of the device including, among other things, post-approval studies and restrictions on labeling, promotion, sale and distribution. Failure to comply with the conditions of approval can result in material adverse enforcement action, including the loss or withdrawal of the approval or placement of restrictions on the sale of the device until the conditions are satisfied. 
+
+Even after approval of a PMA, a new PMA or PMA supplement may be required in the event of a modification to the device, its labeling or its manufacturing process. Supplements to a PMA may require the submission of the same type of information required for an original PMA, except that the supplement is generally limited to that information needed to support the proposed change from the product covered by the original PMA. 
+
+De Novo Pathway . If no predicate can be identified, the product is automatically classified as Class III, requiring a PMA. However, the FDA can reclassify, or use &#147;de novo classification&#148; for, a device for which there was no predicate device if the device is low or moderate risk. The FDA will establish special controls that other applicants for the same device type must implement, which often includes labeling restrictions and data requirements. Subsequent applicants can rely upon the de novo product as a predicate for a 510(k) clearance. The 
+
+&#160;
+
+de novo route is less burdensome than the PMA process; it is similar in many respects to a 510(k), but generally takes much longer for clearance than the 510(k) process. A device company can ask the FDA at the outset if the de novo route is available for its particular product. The de novo route has been used for many in vitro diagnostic products. 
+
+Postmarket . After a device is placed on the market, numerous regulatory requirements apply. These include: the QSR, labeling regulations, the FDA&#146;s general prohibition against promoting products for unapproved or &#147;off label&#148; uses, registration and listing, the Medical Device Reporting, or MDR, regulation (which requires that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur), and the Reports of Corrections and Removals regulation (which requires manufacturers to report recalls and field actions to the FDA if initiated to reduce a risk to health posed by the device or to remedy a violation of the FDC Act). 
+
+The FDA enforces these requirements by inspection, market surveillance, and other means. If the FDA finds a violation, it can institute a wide variety of enforcement actions, ranging from an untitled letter or a public warning letter to more severe sanctions such as fines, injunctions, and civil penalties; recall or seizure of products; operating restrictions, partial suspension or total shutdown of production; refusing requests for 510(k) clearance or PMA approval of new products; withdrawing 510(k) clearance or PMA approvals already granted; and criminal prosecution. For additional information, see the section of this report captioned &#147; Risk Factors &#151; Risks Related to Government Regulation and Diagnostic Product Reimbursement. &#148; 
+
+Research Use Only . Research Use Only, or RUO, products belong to a separate regulatory classification under a long-standing FDA regulation. In essence, RUO products are not regulated as medical devices and are therefore not subject to the regulatory requirements discussed above. The products must bear the statement: &#147;For Research Use Only. Not for Use in Diagnostic Procedures.&#148; RUO products cannot make any claims related to safety, effectiveness or diagnostic utility, and they cannot be intended for human clinical diagnostic use. In November 2013, the FDA issued a final guidance on RUO products, which, among other things, reaffirmed that a company may not make any clinical or diagnostic claims about an RUO product. The FDA will also evaluate the totality of the evidence to determine if the product is intended for diagnostic purposes, including how a customer uses the product. We cannot assure you that the FDA will not determine, based on the totality of circumstances, that our products marketed for RUO are not medical devices that will require clearance or approval. 
+
+Dual-Use Instruments . Dual-use instruments are subject to FDA regulation since they are intended, at least in part, for use by customers performing clinical diagnostic testing. In November 2014, FDA issued a guidance that described FDA&#146;s approach to regulating molecular diagnostic instruments that combine in a single molecular instrument both approved/cleared device functions and device functions for which approval/clearance is not required. 
+
+Laboratory Developed Tests . Laboratory Developed Tests, or LDTs, are developed, validated and used within a single lab. In the past, the FDA generally exercised its enforcement discretion for LDTs and did not require clearance or approval prior to marketing. However, on October 3, 2014, FDA issued two draft guidances that propose to actively regulate LDTs using a risk-based approach. If the draft guidances go into effect in their current format, all laboratories offering LDTs, except for those offering only LDTs for forensic use and certain transplantation tests, will be subject to certain general device requirements such as MDR reporting. In addition, &#147;high&#148; and &#147;moderate&#148; risk devices not subject to an exemption will need to submit a PMA or 510(k) to FDA in a phased-in manner. The draft guidances have been the subject of considerable controversy and it is unclear whether the draft guidances will be finalized, and if so, what they will contain. Congress has also been considering legislation to regulate LDTs. It is unclear that any LDT-related legislation will be enacted. 
+
+Companion Diagnostics . In August 2014, FDA issued a companion diagnostics final guidance stating that if the device is essential to the safety or efficacy of the drug, FDA will generally require approval or clearance for the device at the time when FDA approves the drug. Most companion diagnostics will require PMA approval. 
+
+&#160;
+
+International 
+
+International sales of medical devices are subject to foreign government regulations, which vary substantially from country to country. The European Commission is the legislative body responsible for directives under which manufacturers selling medical products in the EU, and the European Economic Area, or EEA, must comply. The EU includes most of the major countries in Europe, while other countries, such as Switzerland, are part of the EEA and have voluntarily adopted laws and regulations that mirror those of the EU with respect to medical devices. The EU has adopted directives that address regulation of the design, manufacture, labeling, clinical studies and post-market vigilance for medical devices. Devices that comply with the requirements of a relevant directive will be entitled to bear the CE conformity marking, indicating that the device conforms to the essential requirements of the applicable directives and, accordingly, can be marketed throughout the EU and EEA. 
+
+In September 2012, Prosigna was CE-marked for compliance with IVDD 98/79/EC for use in conjunction with a diagnostic version of our nCounter Analysis System in the EU to assess a patients risk and or distant recurrence. 
+
+Outside of the EU, regulatory approval needs to be sought on a country-by-country basis in order to market medical devices. Although there is a trend towards harmonization of quality system standards, regulations in each country may vary substantially, which can affect timelines of introduction. 
+
+Reimbursement 
+
+Our nCounter Dx Analysis Systems are purchased or leased by clinical laboratories, which use our diagnostic products as the basis for testing patients&#146; samples. These customers can use our products to enable commercial testing services, and generate revenue for their laboratories for this service. In order to collect payment for testing services based upon our diagnostic products, our clinical laboratory customers may bill third parties, including public and private payors. The demand for our diagnostic products will depend indirectly upon the ability for our customers to successfully bill for and receive reimbursement from third-party payors for the clinical testing services based on our products. Therefore, we intend to work with third-party payors in markets where we intend to sell our diagnostic products to ensure that testing services based on our products are covered and paid. 
+
+The decision of payors to cover and pay for a specific testing service is driven by many factors, including: 
+
+&#160;
+
+&#160; &#149; &#160; strong clinical validation data; &#160;
+
+&#160; &#149; &#160; acceptance into major clinical guidelines, including the National Comprehensive Cancer Network, or NCCN, the American Society of Clinical Oncologists, or ASCO, and the St. Gallen Consensus guidelines; &#160;
+
+&#160; &#149; &#160; health economic studies that may indicate that the test improves quality-adjusted survival and leads to reduced costs; and &#160;
+
+&#160; &#149; &#160; decision impact studies that show the test leads to better treatment decisions. We are generating dossiers to be submitted to payors in support of reimbursement for testing services based upon our diagnostic products, beginning with Prosigna. The dossiers typically contain data from studies supporting the analytical and clinical validity of Prosigna, as well as health economic analyses that examine whether the clinical information supplied by Prosigna changes medical practice in a way that leads to benefit for both the patients and the payors. In some cases, these health economic analyses may be supported by the results of clinical studies of Prosigna&#146;s impact on adjuvant treatment decisions in early stage breast cancer called decision impact studies. We developed a clinical protocol for Prosigna decision impact studies in collaboration with two European cooperative groups, and based on this protocol we have completed one decision impact study to date, and have two other such studies currently underway. 
+
+&#160;
+
+United States 
+
+In the United States, clinical laboratory revenue is derived from various third-party payors, including insurance companies, health maintenance organizations, or HMOs, and government healthcare programs, such as Medicare and Medicaid. Clinical laboratory testing services are paid through various methodologies when covered by third-party payors, such as prospective payment systems and fee schedules. For any new clinical test, payment for the clinical laboratory service requires a decision by the third-party payor to cover the particular test, the establishment of a reimbursement rate for the test and the identification of one or more Current Procedural Terminology, or CPT, codes that accurately describes the test methodology and the analyte to be used in claims processing. 
+
+The American Medical Association, or AMA, has issued a new set of CPT codes for billing and reimbursement of complex genomic tests that are based on information from multiple analytes or genes. These new MAAA, or Multianalyte Assays with Algorithmic Analyses, codes are intended to capture tests such as Prosigna and are divided into two categories of unique codes. Category 1 MAAA codes are intended for tests that AMA&#146;s CPT Editorial Panel has vetted and found to meet a certain set of criteria, such as demonstrated clinical validity and utility, as well as current national utilization thresholds. MAAAs issued to complex genomic tests that have not met all Category 1 coding criteria are referred to as administrative MAAA codes. Assignment of either unique reimbursement code to a particular test may facilitate claims processing by payors; however, assignment of a unique reimbursement code alone does not guarantee favorable reimbursement decisions by payors. A genomic test with an assigned MAAA code must still be vetted and approved by individual payors for coverage and payment before reimbursement is achieved. Given the more stringent requirements for receipt of a Category 1 MAAA, including demonstrated clinical validity and utility and satisfaction of national utilization thresholds, we believe that certain payors may more readily render favorable reimbursement decisions for genomic tests with a Category 1 MAAA rather than an administrative MAAA. 
+
+In April 2014, we received an administrative MAAA code (0008M) for use in reimbursement of testing services based on Prosigna. Given the recent commercial launch of Prosigna in the United States, and the lack of utilization data, we expected the issuance of an administrative MAAA initially. We intend to reapply for a Category 1 MAAA at a later date when additional Prosigna utilization data are available. 
+
+Centers for Medicare &#38; Medicaid Services, or CMS, administers the Medicare and Medicaid programs, which provide health care to almost one in every three Americans. For any particular geographic region, Medicare claims are processed on behalf of CMS by private companies called Medicare Administrative Contractors, or MACs. New diagnostic tests typically follow one of three routes to coverage via CMS: National Coverage Determinations, or NCDs, Local Coverage Determinations, or LCDs, or simply payment of claims by a MAC. The NCD applies to Medicare beneficiaries living throughout the United States. Due to cost and CMS bandwidth limitations there are generally few NCDs. The LCD process applies to only beneficiaries in the coverage area of a single MAC, requiring multiple LCDs to cover the testing throughout the United States. Due to the cost of developing an LCD, contractors tend to develop a relatively small number and prefer to tacitly cover services by paying claims. There is also a subset of NCDs known as Coverage with Evidence Development, or CED, that allow a technology (service or procedure) to be covered while evidence is collected through a registry or a study to answer outstanding questions on outcomes. Some MACs have developed CED policies, but these are outside the statute that established CED. 
+
+We are pursuing Medicare coverage for Prosigna and where necessary working with MACs to obtain a favorable LCD. There are two distinct LCD processes for molecular diagnostic tests: the individual MAC LCD process and the Molecular Diagnostics Program, or MolDx program for Palmetto, a MAC. Pursuing a series of LCDs will require us to engage with each of the seven MACs not currently under the MolDx program for 
+
+&#160;
+
+jurisdictions in which Prosigna testing services are provided. MACs have the option of paying for Prosigna claims without an LCD, and where possible we will pursue this less burdensome option. The MolDx program is the technology assessment and medical policy review process currently employed by Palmetto for North Carolina, South Carolina, Virginia, and West Virginia and by Noridian for California, Nevada, and Hawaii (Noridian has not published a MolDx decision for the other states under their Medicare contract: Washington, Oregon, Idaho, Utah, Arizona, Montana, Wyoming, North Dakota, and South Dakota). Determination of the Medicare contractor responsible for a laboratory claim is based on the location of the laboratory (not patient location). Prosigna was successfully covered and assigned a payment amount by the MolDx program in 2015. In late 2015 Prosigna was also covered by First Coast, the Florida MAC, and priced in early January 2016. Noridian has issued a draft LCD, which is expected to become final in 2016.
+
+The MolDx program has contracted with McKesson to create unique identifiers or codes for unique lab tests. A McKesson Z-Code Identifier is a unique code associated with a specific advanced diagnostic test. Z-codes are reported to the payor along with the appropriate CPT codes, which potentially improves the efficiencies in the reimbursement process. Z-code identifiers are currently only required by the MACs associated with the MolDx program, Palmetto and Noridian. Laboratories under the MolDx program cannot submit claims for Prosigna until a Z-code is available and a Medicare LCD has been published. A Z-code Identifier was issued for Prosigna in February 2014. For Medicare, the reimbursement rates for individual tests are established under the Clinical Laboratory Fee Schedule (local fee schedules for outpatient clinical laboratory services) or the Physician Fee Schedule, depending on the amount of physician work involved in the test. Molecular diagnostic tests that require little physician work are generally paid under the Clinical Laboratory Fee Schedule. As with other tests that have MAAA CPT codes, we believe that CMS will reimburse Prosigna testing services under the Clinical Laboratory Fee Schedule. 
+
+With respect to private insurance coverage, there is significant uncertainty surrounding third-party reimbursement for the use of tests that incorporate new technology, such as Prosigna. For example, in the third quarter of 2014, the Blue Cross and Blue Shield, or BCBS, Association Technology Evaluation Center affirmed their position that Prosigna should be considered investigational. Subsequently, several BCBS entities updated their coverage policies based on this evaluation. In February 2015, Cigna decided that it would not reimburse for Prosigna. However, in August 2014, UnitedHealthcare, the largest private health insurer in the United States, agreed with Laboratory Corporation of America, one of our commercial laboratory customers, to begin paying for Prosigna testing. 
+
+Outside the United States 
+
+In Europe, governments are primarily responsible for reimbursing diagnostic testing services. A relatively small portion of the market is made up of private payors and cash-pay patients. 
+
+The primary barrier of adoption of a new in vitro diagnostic test is often reimbursement, and public reimbursement can take several years to achieve, depending on the country. Public reimbursement for genomic testing for breast cancer is available in Canada, Ireland, Greece and the United Kingdom. Selected private coverage for testing is available in the United Kingdom, Germany, Spain, France, the UAE and Hungary. The public reimbursement pathway may be more favorable in Germany and France given their willingness to accept additional costs in return for improved outcomes, their centralized review process, and the role of key opinion leaders. Reimbursement approval in some countries, such as Spain and Italy, is managed at the regional level. Israel is a market in which genomic testing for breast cancer is widely reimbursed by all four major Sick Funds, the third-party payors that cover a substantial majority of the population. 
+
+Our market preparation in Europe will be similar to that in the United States and involve data driving clinical and economic publications to support guideline inclusion. Initially, we will target the private and cash pay market in Europe. In parallel, we will seek to establish public reimbursement of Prosigna by national and regional governments in Europe. 
+
+&#160;
+
+Other Regulations 
+
+Our operations in the United States are subject to various federal and state fraud and abuse laws, including, without limitation, the federal anti-kickback statute and state and federal marketing compliance laws. These laws may impact our operations directly, or indirectly through our customers, and may impact, among other things, our proposed sales, marketing and education programs. In addition, we may be subject to patient privacy regulation by both the federal government and the states in which we conduct our business. The laws that may affect our ability to operate include the following federal laws and their counterparts at the state level: 
+
+&#160;
+
+&#160; &#149; &#160; the Federal Anti-kickback Law and state anti-kickback prohibitions; &#160;
+
+&#160; &#149; &#160; the Federal physician self-referral prohibition, commonly known as the Stark Law, and state equivalents; &#160;
+
+&#160; &#149; &#160; the Federal Health Insurance Portability and Accountability Act of 1996, as amended; &#160;
+
+&#160; &#149; &#160; the Medicare civil money penalty and exclusion requirements; &#160;
+
+&#160; &#149; &#160; the Federal False Claims Act civil and criminal penalties and state equivalents; &#160;
+
+&#160; &#149; &#160; the Foreign Corrupt Practices Act, which applies to our international activities; and &#160;
+
+&#160; &#149; &#160; the Physician Payment Sunshine Act. Employees 
+
+As of December 31, 2015, we had 307 employees, of which 87 work in manufacturing, 92 in sales, marketing and business development, 72 in research and development, 15 in clinical, medical and regulatory affairs, and 41 in general and administrative. None of our U.S. employees are represented by a labor union or is the subject of a collective bargaining agreement. As of December 31, 2015, of our 307 employees, 280 were employed in the United States and 27 were employed outside the United States. 
+
+Environmental Matters 
+
+Our operations require the use of hazardous materials (including biological materials) which subject us to a variety of federal, state and local environmental and safety laws and regulations. Some of the regulations under the current regulatory structure provide for strict liability, holding a party potentially liable without regard to fault or negligence. We could be held liable for damages and fines as a result of our, or others&#146;, business operations should contamination of the environment or individual exposure to hazardous substances occur. We cannot predict how changes in laws or development of new regulations will affect our business operations or the cost of compliance. 
+
+Where You Can Find Additional Information 
+
+We make available free of charge through our investor relations website, www.nanostring.com, our annual reports, quarterly reports, current reports, proxy statements and all amendments to those reports as soon as reasonably practicable after such material is electronically filed or furnished with the SEC. These reports may also be obtained without charge by contacting Investor Relations, NanoString Technologies, Inc., 530 Fairview Avenue, N., Seattle, Washington 98109, e-mail: investorrelations@nanostring.com. Our Internet website and the information contained therein or incorporated therein are not intended to be incorporated into this Annual Report on Form 10-K. In addition, the public may read and copy any materials we file or furnish with the SEC at the SEC&#146;s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549 or may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Moreover, the SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding reports that we file or furnish electronically with them at www.sec.gov. 
+
+&#160;
+

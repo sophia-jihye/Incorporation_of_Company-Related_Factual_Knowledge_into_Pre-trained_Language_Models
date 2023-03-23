@@ -1,0 +1,476 @@
+ Item 1. Business 
+
+&#160; 
+
+Overview 
+
+&#160; 
+
+Proto Labs, Inc. was incorporated in Minnesota in 1999. The terms &#8220;Proto Labs,&#8221; the &#8220;Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; and &#8220;our&#8221; as used herein refer to the business and operations of Proto Labs, Inc. and its subsidiaries. We are a leading online and technology-enabled, quick-turn, on-demand manufacturer of custom parts for prototyping and short-run production. We manufacture parts for product developers and engineers worldwide, who are under increasing pressure to bring their finished products to market faster than their competition. We utilize injection molding, computer numerical control (CNC) machining and 3D printing to manufacture custom parts for our customers. Our proprietary technology eliminates most of the time-consuming and expensive skilled labor conventionally required to quote and manufacture parts. Our customers conduct nearly all of their business with us over the Internet. We target our products to the millions of product developers and engineers who use three-dimensional computer-aided design (3D CAD) software to design products across a diverse range of end-markets. We have established our operations in the United States, Europe and Japan, which we believe are three of the largest geographic markets where these product developers and engineers are located. We believe our use of advanced technology enables us to offer significant advantages at competitive prices to many product developers and engineers and is the primary reason we have become a leading supplier of custom parts. 
+
+&#160; 
+
+We believe custom parts manufacturing has historically been an underserved market due to the inefficiencies inherent in the quotation, equipment set-up and non-recurring engineering processes required to produce custom parts. Our customers typically order low volumes of custom parts for a variety of reasons, including: 
+
+&#160; 
+
+&#160; &#9679; 
+
+they need a prototype to confirm the form, fit and function of one or more components of a product under development; 
+
+&#160; &#9679; 
+
+they need an initial supply of parts to support pilot production for testing of a product; 
+
+&#160; &#9679; 
+
+they need an initial supply of parts to support production while their high-volume production mold is being prepared; 
+
+&#160; &#9679; 
+
+they need on-demand manufacturing due to disruptions in their manufacturing process; 
+
+&#160; &#9679; 
+
+their product will only be released in a limited quantity; or 
+
+&#160; &#9679; 
+
+they need end-of-life production support. 
+
+&#160; 
+
+In each of these instances, we believe our solution provides product developers and engineers with an exceptional combination of speed, competitive pricing, ease of use and reliability that they typically cannot find among conventional custom parts manufacturers. Our technology enables us to ship parts as soon as the same day after receipt of a customer&#8217;s design submission. 
+
+&#160; 
+
+Our manufacturing product lines currently include injection molding (Protomold), CNC machining (Firstcut) and 3D printing (Fineline). We continually seek to expand the range of size and geometric complexity of the parts we can make with these processes, to extend the variety of materials we are able to support and to identify additional manufacturing processes to which we can apply our technology in order to better serve the evolving preferences and needs of product developers and engineers. 
+
+&#160; 
+
+We have experienced significant growth since our inception in 1999. We have grown our total revenue from $98.9 million in 2011 to $264.1 million in 2015. We have grown our income from operations from $26.9 million in 2011 to $67.1 million in 2015. 
+
+&#160; 
+
+Our increases in revenue and income from operations are due to our expansion of product lines offered. Product lines have expanded over the years by the introduction of: 
+
+&#160; 
+
+&#160; &#9679; 
+
+plastic injection molding in 1999; 
+
+&#160; &#9679; 
+
+CNC machining in 2007; 
+
+&#160; &#9679; 
+
+liquid silicon rubber (LSR) that expanded the breadth and scope of our injection molding product line in 2014; 
+
+&#160; &#9679; 
+
+3D printing, including stereolithography (SL), selective laser sintering (SLS), and direct metal laser sintering (DMLS), through our acquisition of FineLine Prototyping, Inc. (FineLine) in 2014 and expanded through our acquisition of certain assets, including shares of select subsidiaries, of Alphaform AG (Alphaform) in 2015; and 
+
+&#160; &#9679; 
+
+Lathe-turned parts that expanded the breadth and scope of our CNC product line in 2015. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Industry Overview 
+
+&#160; 
+
+Our Industry 
+
+&#160; 
+
+We serve product developers and engineers worldwide who bring new ideas to market in the form of products containing one or more custom parts. Many of these product developers and engineers use 3D CAD software to create digital models representing their custom part designs that are then used to create physical parts for concept modeling, prototyping, functional testing, market evaluation or production. Custom prototype parts play a critical role in the product development process, as they provide product developers and engineers with the ability to test and confirm their intended performance requirements and explore design alternatives. 
+
+&#160; 
+
+Early in the product development process, 3D printing processes such as stereolithography can be used to quickly produce an approximate physical representation of a part, but these representations may not meet product developers&#8217; and engineers&#8217; requirements for dimensional accuracy, cosmetics or material properties. As an alternative, 3D printing processes such as selective laser sintering and direct metal laser sintering or CNC machining can be used to produce low volumes of high-quality custom parts in either metal or plastic. For follow-on functional testing, market evaluation and production runs, parts are typically manufactured using injection molding. 
+
+&#160; 
+
+Our Solution 
+
+&#160; 
+
+We have developed proprietary software and advanced manufacturing processes that automate much of the skilled labor conventionally required in quoting, production engineering and manufacturing of custom parts. We believe our interactive web-based interface and highly automated processes address the desires of many product developers and engineers for a fast, efficient and cost-effective means to obtain custom parts and are the primary reasons we have become a leading supplier of custom parts. 
+
+&#160; 
+
+Key elements of our solution include: 
+
+&#160; 
+
+Sophisticated Technology that Reduces Turnaround Time 
+
+&#160; 
+
+Our web-based interface and proprietary software automate many of the manual and time-consuming processes typically required to obtain custom 3D-printed, CNC-machined or injection-molded parts from conventional suppliers. Our platform automates many aspects of the entire process from design submission through manufacturability analysis and feedback, quotation, order submission, mold design, tool path generation and mold or part manufacture. To utilize our platform, a prospective customer uploads a 3D CAD file of their required part through our website. Often within minutes of design submission, our software analyzes the manufacturability of the part, assesses our ability to make the part, and returns a firm price quotation with any recommendations for design modifications. In the case of CNC machining, this manufacturability analysis identifies features that may be too fragile to be machined and areas that cannot be machined at all. For injection molding, problematic features such as undercuts, thin areas, thick areas and areas requiring geometry adjustments to allow the part to be ejected from the mold are identified. Many of our customers find this analysis particularly helpful, as it diagnoses and prevents potential problems prior to manufacturing. We can also provide a flow analysis to identify parts that may be so thin and large that plastic will solidify before the mold can be completely filled. Our manufacturability analysis plays a significant role in our automated pricing algorithms. 
+
+&#160; 
+
+Our quoting system is highly interactive, enabling our prospective customers to change the material, finish, quantity or shipping schedule of orders, and to instantly receive an updated quotation. Once an order is received, our software automates much of the manual engineering and skilled labor that is normally required to manufacture parts. As a result, in many cases we are able to quote orders in minutes and ship parts as soon as the same day ordered. 
+
+&#160; 
+
+Scale to Process Large Numbers of Unique Part Designs 
+
+&#160; 
+
+Our proprietary, highly scalable quoting technology addresses the manual processes conventionally involved in submitting a design, analyzing its manufacturability, making design revision recommendations and generating price quotations. This enables us to quickly analyze high volumes of 3D CAD part design submissions and provide feedback to our prospective product developer and engineer customers. In 2015 alone, we generated quotations for over 550,000 design submissions. Our proprietary manufacturing automation technology is also highly scalable, enabling us to process large numbers of unique designs and, combined with our manufacturing processes, efficiently and effectively manufacture high volumes of parts to meet the needs of product developers and engineers. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Enhanced Customer Experience 
+
+&#160; 
+
+Our web-based customer interface provides a straightforward means of submitting 3D CAD part designs. Our proprietary manufacturability analysis then quickly analyzes whether a part design falls within our manufacturing capabilities. In many cases, our software provides suggested design modifications to enhance manufacturability, which is presented to the product developer or engineer in an interactive quotation containing a color-coded 3D representation of the part. This allows product developers and engineers to quickly determine the manufacturability of their parts, understand the cost and when they can be shipped. Our interactive quotations provide instant visibility into the impact of changing an order&#8217;s various parameters such as material, finish, quantity or shipping schedule. As a result, we provide product developers and engineers with an easy-to-use and consistent means to obtain custom parts. 
+
+&#160; 
+
+Attractive Custom Pricing 
+
+&#160; 
+
+Based on internal market research, we believe we generally have competitive pricing on custom orders. We believe this is a direct result of our technology and the efficiency of our operations, both of which were designed specifically for custom parts production. By limiting these costs, we can typically offer attractive pricing not normally possible in the custom parts market, and as a result, we can typically offer product developers and engineers competitive prices on custom manufactured parts. 
+
+&#160; 
+
+Monitoring and Control 
+
+&#160; 
+
+We have developed a proprietary, intranet-based monitoring and control system that allows us to monitor key aspects of our entire worldwide operations in real time using an easy-to-understand management dashboard. This system provides us with the ability to quickly react to new information across our organization. 
+
+&#160; 
+
+Our Product Lines 
+
+&#160; 
+
+Our 3D Printing (Fineline), CNC Machining (Firstcut) and Injection Molding (Protomold) product lines offer many product developers and engineers the ability to quickly and efficiently outsource their quick-turn custom parts manufacturing. See Item 7. &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; for the historical revenue generated by each of 3D Printing (Fineline), CNC Machining (Firstcut) and Injection Molding (Protomold). 
+
+&#160; 
+
+3D Printing (Fineline) 
+
+&#160; 
+
+Our 3D Printing (Fineline) product line includes SL, SLS and DMLS processes, which offers customers a wide-variety of high-quality, precision rapid prototyping and low volume production. These processes create parts with a high level of accuracy, detail, strength and durability. 3D Printing is well suited to produce small quantities, typically in the range of one to 50 parts. 
+
+&#160; 
+
+CNC Machining (Firstcut) 
+
+&#160; 
+
+Our CNC Machining (Firstcut) product line uses commercially available CNC machines to cut plastic or metal blocks into one or more custom parts based on the 3D CAD model uploaded by the product developer or engineer. Our efficiencies derive from the automation of the programming of these machines and a proprietary fixturing process. The CNC Machining (Firstcut) product line is well suited to produce small quantities, typically in the range of one to 200 parts. 
+
+&#160; 
+
+Injection Molding (Protomold) 
+
+&#160; 
+
+Our Injection Molding (Protomold) product line uses our 3D CAD-to-CNC machining technology for the automated design and manufacture of thermoplastic, metal or liquid silicone injection molds, which are then used to produce custom injection-molded parts on commercially available equipment. Our Injection Molding (Protomold) product line is used for prototype, on-demand and short-run production. Prototype quantities typically range from 25 to 100 parts. Because we retain possession of the molds, customers who need short-run production often come back to Proto Labs&#8217; Injection Molding product line for additional quantities typically ranging up to 10,000 parts or more. They do so to support pilot production for product testing or while their tooling for high-volume production is being prepared, because they need on-demand manufacturing due to disruptions in their manufacturing process, because their product will only be released in a limited quantity or because they need end-of-life production support. These additional part orders typically occur on approximately half of the molds that we make, typically accounting for approximately half of our total Injection Molding (Protomold) revenue. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Our Process 
+
+&#160; 
+
+The process for 3D Printing (Fineline), CNC Machining (Firstcut) and Injection Molding (Protomold) begins when the product developer or engineer uploads one or more 3D CAD models representing the desired part geometry. Our proprietary software uses complex algorithms to analyze the 3D CAD geometry, analyze its manufacturability and support the creation of an interactive, web-based quotation containing pricing and manufacturability information. A link to the quotation is then e-mailed to the product developer or engineer, who can access the quotation, change a variety of order parameters and instantly see the effect on price before finalizing the order. For 3D Printing (Fineline), the quote is reviewed and then scheduled for production. For CNC Machining (Firstcut), the tool paths are then reviewed and routed to our high-speed CNC machining centers for execution. In the case of Injection Molding (Protomold), our proprietary software supports the creation of the mold design and the tool paths required to manufacture the mold components, which are then routed to our CNC machining centers for execution. Once the mold is assembled, it is placed in one of our injection molding presses to create the required parts. For our CNC Machining (Firstcut) product line, we ship parts as soon as the same day as the order is received. For our Injection Molding (Protomold) and 3D Printing (Fineline) product lines, we ship parts in as little as one business day from design submission. We ship our parts via small parcel common carriers on standard terms and conditions. 
+
+&#160; 
+
+&#160; Our Growth Strategy 
+
+&#160; 
+
+The principal elements of our growth strategy are to: 
+
+&#160; 
+
+Expand the Customer Base 
+
+&#160; 
+
+We plan to expand our customer base to serve more product developers and engineers within the companies that have already used our product lines. Individual product developers and engineers typically make or influence the choice of vendor when sourcing custom parts. We believe a significant opportunity exists for us to leverage highly satisfied product developers and engineers to encourage others within the same organization to utilize our product lines. We have historically generated a significant number of new customers through word-of-mouth referrals from other product developers and engineers, and combine these referrals with the efforts of our marketing and sales force to identify and market our product lines to the colleagues of our existing customers. 
+
+&#160; 
+
+We also plan to use our marketing and sales capabilities to continue to pursue product developers and engineers within companies who have not yet used our products. Our presence in geographic regions that have high populations of 3D CAD users provides us with a broad universe of potential new customer companies on which to focus our marketing and sales efforts. 
+
+&#160; 
+
+We believe there may be opportunities to grow by identifying and expanding into select additional geographic markets. We currently operate in the United States, Europe and Japan, where we believe a substantial portion of the world&#8217;s product developers and engineers are located. We entered the European market in 2005 and launched operations in Japan in 2009. For 2015, revenue earned in these markets represents approximately 21% of our total revenue. While we currently do not have specific plans to expand into any particular geographic markets, we believe opportunities exist to serve the needs of product developers and engineers in select new geographic regions and we will continue to evaluate such opportunities if and when they arise. 
+
+&#160; 
+
+We plan to further enhance the functionality and ease of use of our platform and expand the capabilities of our technology in order to further increase automation and meet the evolving needs of product developers and engineers worldwide. We believe product developers and engineers have come to expect advanced web-based tools and a fully integrated Internet platform from their vendors. We will continue to use the Internet to provide product developers and engineers with a standardized interface through which they can upload their 3D CAD models and obtain firm, interactive quotations quickly and efficiently. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Add Manufacturing Processes 
+
+&#160; 
+
+We seek to identify additional manufacturing processes to which we can apply our technology and expertise to meet a greater range of product developers&#8217; and engineers&#8217; needs. Introducing new manufacturing processes can both attract new customers and provide us with a significant opportunity to cross-sell our existing product lines to our existing customer base. We regularly evaluate new manufacturing processes to offer product developers and engineers and introduce such new processes when we are confident that a sufficient market demand exists and that we can offer the same advantages our customers have come to expect from us. See Item 6. &#8220;Selected Financial Data&#8221; for disclosure of our historical research and development expenses. 
+
+&#160; 
+
+Examples of new manufacturing processes we have added include CNC Machining (Firstcut), 3D printing through the acquisitions of FineLine and Alphaform and the launch of liquid silicone rubber injection molding and lathe-turned parts. Our CNC Machining (Firstcut) product line was first introduced in the United States in 2007 and has grown to represent 28% of our total revenue in the year ended December 31, 2015. In April 2014, we added 3D-printing technologies through our acquisition of FineLine and further expanded our 3D printing capabilities in October 2015 through our acquisition of Alphaform. During 2014, we introduced liquid silicone rubber injection molding and in February 2015, we introduced lathe-turned products to further expand our product offerings. 
+
+&#160; 
+
+Broaden the Parts Envelope 
+
+&#160; 
+
+We regularly analyze the universe of customer design submissions that we are currently unable to manufacture and focus a portion of our research and development efforts to expand the range of parts that we can produce. Since we first introduced our Injection Molding (Protomold) product line in 1999, we have steadily expanded the size and geometric complexity of the injection-molded parts we are able to manufacture, and we continue to extend the diversity of materials we are able to support. Similarly, since first introducing our CNC Machining (Firstcut) product line in 2007, we have expanded the range of part sizes, design geometries and materials we can support. As we continue to expand the range of our existing process capabilities, we believe we will meet the needs of a broader set of product developers and engineers and consequently convert a higher number of quotation requests into orders. 
+
+&#160; 
+
+Marketing 
+
+&#160; 
+
+Our international marketing effort generates prospects for our sales teams and seeks to strengthen our reputation as an industry leader in rapid custom prototyping and low-volume manufacturing. Since we are an agile, technology-based company, much of our marketing activities occur online. We use marketing automation software to enhance the productivity of our marketing and sales teams and continuously track the results of every campaign to ensure our return on investment. 
+
+&#160; 
+
+We maintain top-of-mind brand awareness with product developers and engineers through regular publication of technical information including design guidelines and helpful tips, engineering white papers, educational webinars, quick videos, and a quarterly journal focused on important industry topics. We also provide complimentary physical design aids to designers and engineers &#8212; as well as teachers and students &#8212; that highlight technical aspects of injection molding to help create efficient, well-designed parts. We believe these educational materials are key aspects of our lead generation efforts. 
+
+&#160; 
+
+In our Cool Idea! Award program, we grant up to $250,000 in manufacturing services annually to entrepreneurs with innovative ideas. In addition to supporting entrepreneurs and creative product development, we feel this program generates good will, press coverage and word-of-mouth brand awareness. 
+
+&#160; 
+
+Marketing represents the face of Proto Labs, so it is our goal to actively and intelligently engage designers and engineers across multiple mediums &#8212; whether print, online, social media or in person. By doing this, we gain new customers, drive sales and build brand equity. 
+
+&#160; 
+
+Sales and Customer Service 
+
+&#160; 
+
+We maintain an internal sales team trained in the basics of part design and the capabilities of our manufacturing product lines, as well as the key advantages of our product lines over alternate methods of custom parts manufacturing. We organize our sales team into complementary roles: business development, account management and strategic account management, with the former focused on selling to new customer companies and the latter two focused on expanding sales within existing customer companies. We believe our sales staff is adept at researching customer companies and networking to find additional product developers and engineers who may have a need for our products. We also have a team of customer service engineers who can support highly technical engineering discussions with product developers and engineers as required during the sales process. Our revenue is generated from a diverse customer base, with no single customer company representing more than 2% of our total revenue in 2015. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+The market for custom parts manufacturing is fragmented, highly competitive and subject to rapid and significant technological change. Our potential competitors include: 
+
+&#160; 
+
+&#8226; 
+
+Captive in-house product manufacturing . Many larger companies undertaking product development have established additive rapid prototyping, CNC machining or injection molding capabilities internally to support prototyping or manufacturing requirements of their product developers and engineers. 
+
+&#160; 
+
+&#8226; 
+
+Other custom parts manufacturers. There are thousands of alternative manufacturing machine shops, injection molding suppliers, 3D printing service bureaus and vendors worldwide. The size and scale of these businesses range from very small specialty shops to large, high-volume production manufacturers. 
+
+&#160; 
+
+We believe that the key competitive factors in our industry include: 
+
+&#160; 
+
+&#8226; 
+
+Speed: turnaround time for quotations and parts; 
+
+&#160; &#160; &#8226; 
+
+Price: mold and part pricing; 
+
+&#160; &#160; &#8226; 
+
+Service: overall customer experience, from web interface to post-sales support; 
+
+&#160; &#160; &#8226; 
+
+Capability: range of part sizes and dimensional complexities supported, variety of manufacturing processes offered, materials supported and post-processing provided; 
+
+&#160; &#160; &#8226; 
+
+Quality: dimensional accuracy, surface finish, material properties, color and cleanliness; 
+
+&#160; &#160; &#8226; 
+
+Scale: ability to support multiple part designs in parallel; and 
+
+&#160; &#160; &#8226; 
+
+Capacity: ability to manage peaks in demand. 
+
+&#160; &#160; 
+
+We believe that we have competitive strengths that position us favorably and have enabled us to become a leader in our markets. We also believe that substantially all of our current direct competitors are relatively small in terms of size of operations, revenue, number of customers and volume of parts sold, and generally lack our technological capabilities. However, our industry is evolving rapidly and other companies, including potentially larger and more established companies with developed technological capabilities, may begin to focus on custom parts manufacturing. These companies could more directly compete with us, along with our existing competitors, and could also launch new products and product lines that we do not offer that may quickly gain market acceptance. Any of the foregoing could adversely affect our ability to attract customers. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Intellectual Property 
+
+&#160; 
+
+We regard our patents, trademarks, service marks, trade dress, trade secrets, copyrights, domain names and other intellectual property as valuable to our business and rely on patent, trademark and copyright law, trade secret protection and confidentiality and/or license agreements with our employees, customers, vendors and others to protect our proprietary rights. We register our patents, trademarks and service marks in the United States and other jurisdictions as we deem appropriate. As of December 31, 2015, we owned and had applications pending for patents relating to various aspects of our quoting and manufacturing processes as follows: 
+
+&#160; 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Jurisdiction 
+
+&#160; Issued 
+
+Patents 
+
+&#160; &#160; Applications 
+
+Pending 
+
+&#160; United States 
+
+&#160; &#160; 16 &#160; &#160; &#160; 3 &#160; United Kindgom 
+
+&#160; &#160; 2 &#160; &#160; &#160; 0 &#160; Germany 
+
+&#160; &#160; 0 &#160; &#160; &#160; 2 &#160; &#160; 
+
+Our patents have expiration dates ranging from 2022 to 2032. We also owned approximately 13 registered and 2 pending United States trademarks or service marks as of December 31, 2015, with corresponding registered protection in Europe and Japan for the most important of these marks such as PROTO LABS, PROTOMOLD, FIRSTCUT, PROTOQUOTE, FIRSTQUOTE, PROTOFLOW and FINELINE, corresponding approved protection in Canada for PROTO LABS, FIRSTCUT and FINELINE, and corresponding registered protection in Australia, Canada and Mexico for PROTOMOLD. There can be no assurance that the steps we take to protect our proprietary rights will be adequate or that third parties will not infringe or misappropriate such rights. We have been subject to claims and expect to be subject to legal proceedings and claims from time to time in the ordinary course of our business. In particular, we may face claims from third parties that we have infringed their patents, trademarks or other intellectual property rights. Such claims, even if not meritorious, could result in the expenditure of significant financial and managerial resources. Any unauthorized disclosure or use of our intellectual property could make it more expensive to do business and harm our operating results. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of December 31, 2015, we had 1,549 full-time employees. We consider our current relationship with our employees to be good. We also regularly use independent contractors and other temporary employees across the organization to augment our regular staff. We believe that our future success will depend in part on our continued ability to attract, hire and retain qualified personnel. 
+
+&#160; 
+
+Available Information 
+
+&#160; 
+
+Our principal executive offices are located at 5540 Pioneer Creek Drive, Maple Plain, Minnesota 55359 and our telephone number is (763) 479-3680. Our website address is www.protolabs.com. Information on our website does not constitute part of this Annual Report on Form 10-K or any other report we file or furnish with the SEC. We provide free access to various reports that we file with or furnish to the SEC through our website as soon as reasonably practicable after they have been filed or furnished. These reports include, but are not limited to, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports. Our SEC reports can be accessed through the investor relations section of our website or through the SEC&#8217;s website at www.sec.gov. 
+
+&#160; &#160; &#160; 
+
+Executive Officers of the Registrant 
+
+&#160; 
+
+Set forth below are the names of our current executive officers, their ages, titles, the year first appointed as an executive officer, and employment for the past five years: 
+
+&#160; &#160; 
+
+Victoria M. Holt 
+
+President, Chief Executive Officer and Director 
+
+Robert Bodor 
+
+Vice President/General Manager &#8211; Americas 
+
+John A. Way 
+
+Chief Financial Officer and Executive Vice President of Development 
+
+Donald G. Krantz 
+
+Executive Vice President and Technology Officer 
+
+Jacqueline D. Schneider 
+
+Vice President of Global Sales 
+
+John B. Tumelty 
+
+Vice President/General Manager and Managing Director &#8211; Europe, Middle East and Africa 
+
+&#160; 
+
+Executive officers of the Company are elected at the discretion of the board of directors with no fixed terms. There are no family relationships between or among any of the executive officers or directors of the Company. 
+
+&#160; 
+
+Victoria M. Holt . Ms. Holt has been our President and Chief Executive Officer since February 2014. Prior to joining Proto Labs, Ms. Holt served as President and Chief Executive Officer of Spartech Corporation, a leading producer of plastic sheet, compounds and packaging products, from September 2010 until Spartech was purchased by PolyOne Corporation in March 2013. Ms. Holt also is a member of the Board of Directors of Waste Management, Inc. 
+
+&#160; 
+
+&#160;
+
+&#160;
+
+&#160; 
+
+Robert Bodor . Dr. Bodor has served as our Vice President/General Manager - Americas since January 2015. From July 2013 to January 2015, Dr. Bodor served as our Chief Technology Officer. From December 2012 to June 2013, Dr. Bodor served as our Director of Business Development. Prior to joining Proto Labs, from January 2011 to December 2012, Dr. Bodor held several roles at Honeywell, most recently leading SaaS business offerings for Honeywell&#8217;s Life Safety Division.. 
+
+&#160; 
+
+John A. Way . Mr. Way has served as our Chief Financial Officer and Executive Vice President of Development since December 2014. From October 2013 to September 2014, Mr. Way served as Chief Financial Officer of Univita Health Inc., a privately held home healthcare service provider. From September 2012 to July 2013, Mr. Way served as Chief Financial Officer of Virtual Radiologic, a global telemedicine company. From October 2002 to November 2012, Mr. Way worked in senior financial positions at several divisions within UnitedHealth Group, including Chief Financial Officer of Optum Collaborative Care, SecureHorizons and OptumHealth. 
+
+&#160; 
+
+Donald G. Krantz . Dr. Krantz has served as our Executive Vice President and Technology Officer since January 2015. From January 2007 to January 2015, Dr. Krantz served as our Chief Operating Officer. From November 2005 to January 2007, Dr. Krantz served as our Vice President of Development. Dr. Krantz was an Engineering Fellow at Alliant Techsystems and Honeywell, Inc., and was named the 2005 Distinguished Alumnus of the Department of Computer Science and Engineering at the University of Minnesota. 
+
+&#160; 
+
+Jacqueline D. Schneider . Ms. Schneider has served as our Vice President of Global Sales since January 2015. From February 2007 to January 2015, Ms. Schneider served as our Vice President of Sales and Customer Service. 
+
+&#160; 
+
+John B. Tumelty . Mr. Tumelty has served as the Vice President/General Manager and Managing Director &#8211; Europe, Middle East and Africa since January 2015. Mr. Tumelty served as the Managing Director of Proto Labs, Limited from its inception in July 2005 to January 2015. Mr. Tumelty leads our company&#8217;s operations in Europe. 
+
+&#160; 
+

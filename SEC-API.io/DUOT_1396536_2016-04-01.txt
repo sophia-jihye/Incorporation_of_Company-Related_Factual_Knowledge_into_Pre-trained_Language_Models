@@ -1,0 +1,462 @@
+ ITEM 1. BUSINESS. 
+
+Duos Technologies Group, Inc. (&#147;Duos&#148; or the &#147;Company&#148;) is primarily engaged in the design and deployment of state-of-the-art, artificial intelligence driven intelligent technologies systems and IT Infrastructure services. Duos was incorporated in Florida on May 31, 1994 under the name Information Systems Associates, Inc. (&#147;ISA&#148;), and became a public reporting company in 2008 under the symbol OTC: IOSA. On April 1, 2015, ISA and Duos Technologies, Inc., a Florida based privately held company (&#147;duostech&#148;), merged via a reverse triangular merger pursuant to which a wholly owned subsidiary of ours merged with and into Duos Technologies, Inc., a Florida company, with Duos Technologies Inc. remaining as our wholly owned subsidiary. In anticipation of the Merger, and as required under the merger agreement, we reclassified our outstanding Class A and Class B common stock, par value $0.001 per share, onto one class of common stock, par value $0.001 per share, and increased the number of our authorized preferred stock, par value $0.001 per share. Effective April 8, 2015, we implemented a 1-for-200 reverse stock split of our issued and outstanding shares of common stock. These actions resulted in 61,246,870 shares issued and outstanding post-merger and post-reverse stock split with total authorized stock of 500,000,000 common and 10,000,000 shares of &#34;blank check&#34; preferred stock. The Company also relocated its headquarters to duostech&#146;s place of business at 6622 Southpoint Drive South, Suite 310, Jacksonville, FL, 32216.
+
+Our common stock currently trades on the OTC Markets, QB tier, under the symbol &#147;DUOT&#148;.
+
+The Company&#146;s subsidiary, Duos Technologies, Inc. (&#147;duostech&#148;), was incorporated under the laws of the State of Florida on November 30, 1990 with focus on the design, development and deployment of proprietary technology applications and turnkey engineered systems. 
+
+As part of the merger strategy, ISA effected a name change to Duos Technologies Group, Inc. and will continue to operate under the brand name &#147; duos tech &#148;. For the purpose of this description of the business, the combined entities are collectively referred to as the &#147;Company&#148;, &#147;Duos&#148; or &#147;duostech&#148;. The Company is headquartered in Jacksonville, Florida and currently employs a staff of 39.
+
+INDUSTRY BACKGROUND AND OVERVIEW 
+
+Duos Technologies, Inc., the Company&#146;s main operating entity, provides an array of sophisticated, proprietary technology applications and turnkey engineered systems. From its inception, Duos initially focused on solutions for the homeland security and critical infrastructure protection markets, and has adapted its proprietary technologies over the years to a highly diversified suite of applications.
+
+The Company made its initial mark with the development and deployment of a comprehensive homeland and border security-centric critical infrastructure applications suite. These applications are currently operated by major freight rail operators (also known as Class-1, such as Union Pacific, CSX, KCS), and by various divisions of the Department of Homeland Security (&#147;DHS&#148;). After achieving initial success in the transportation industry, the Company broadened its market reach and expanded into servicing the commercial, industrial, healthcare, utilities and government sectors. 
+
+Our current target verticals include: 
+
+&#183;
+
+Transportation (Railroads, Airports, Sea and Inland Ports)
+
+&#183;
+
+Healthcare
+
+&#183;
+
+Utilities
+
+&#183;
+
+Oil, Gas &#38; Chemical Industries
+
+&#183;
+
+Retail Industries
+
+&#183;
+
+Government
+
+Our customer base consists of predominantly Fortune-500 companies. 
+
+Technology Platform 
+
+Duos&#146; IP is built upon two core technology platforms, i.e. praes i dium &#174; and cen t raco&#153; , both distributed as licensed software suites, and natively embedded within engineered turnkey systems.
+
+praesidium&#174; Intelligent Analytics Suite 
+
+praes i dium &#174; is a modular suite of analytics applications which process and simultaneously analyze data streams from a virtually unlimited number of conventional sensors and/or data points. Our native algorithms compare analyzed data against user-defined criteria and rules in real time and automatically report any exceptions, deviations and/or anomalies. This application suite also includes a broad range of conventional operational system components and sub-systems, including an embedded feature-rich video management engine and a proprietary Alarm Management Service (&#147;AMS&#148;). This unique service provides continuous monitoring of all connected devices, processes, equipment and sub-systems, and automatically communicates to the front end-user interface, if and when an issue, event or performance anomalies are detected. 
+
+The core modules are tailored to specific industry applications and its analytics engine(s) process any type of conventional sensor outputs, thereby adding &#147;intelligence&#148; to any third party sensor technology.
+
+The processed information is instantly distributed simultaneously to an unlimited number of users in a visualized and correlated user interface using the Company&#146;s proprietary modular cen t raco&#153; command and control platform, i.e. enterprise information management suite.
+
+SAFETY Act Designation 
+
+The praes i dium &#174; video analytics technology received &#147;Safety Act&#148; designation from the US Department of Homeland Security. (For details on Homeland Security Act of 2002, Public Law 107-296. 
+
+(see:https://www.safetyact.gov/pages/homepages/SamsStaticPages.do?path=sams\pages\AboutUs.html). 
+
+Only 10 companies have received this designation for video related solutions and praes i dium &#174; is the only video analytics application with this designation.
+
+(To verify, navigate to: https://www.safetyact.gov/pages/award/samsApprovedAwards.do and enter &#147; video &#148; under &#147;Keyword&#148;.) 
+
+Over the years, our analytics suite has been expanded to meet a significant number of security objectives and environments, adaptable to a broad range of target verticals such as [ C ] Commercial, [ T ] Transportation (Rail, Air and Seaports), [ H ] Healthcare, [ UOGC ] Utilities, Oil, Gas &#38;Chemical, and [ G ] Government (critical infrastructure).
+
+Some of the most notable applications are: 
+
+Virtual Perimeter &#38; Directional Intrusion Detection 
+
+Markets: [ C ] [ T ] [ H ] [ UOGC ] [ G ] 
+
+The intrusion detection/virtual fencing system uses live video feeds to capture area scenes. The analytics model continuously monitors a virtual fence line or buffer zone defined by user input. The area of interest can be represented by one or multiple &#147;trip lines&#148; and/or by an area drawn in any geometric shape (square, triangular or polygon shapes). The target area will be classified and any motion inside or outside (as defined by rules) of such area is monitored and analyzed by the analytics model which automatically triggers an alarm if any rule is either compromised or matched as the case may be. The system can process an unlimited number of camera feeds simultaneously and presents only actionable events to (human) security stakeholders via the cen t raco &#174; user interface. The user interface (described in more detail later in this document) distributes live and archived video images and intrusion alerts over a secure network connection to authorized personnel, and provides the information needed to respond promptly to a security event. 
+
+The system includes a built-in buffering capability that is an important part of an intrusion detection system. This buffering provides pre- and post-incident alarm recording, scalable from 10 seconds to 60 minutes in either direction. When praes i dium &#174; generates an intrusion alarm, the user can examine the buffered video to review activity within the intrusion area for a time period just before and after the alarm.
+
+This model has been adapted into many different applications and is used in various forms throughout the critical infrastructure security spectrum such as at:
+
+&#183;
+
+Rail Bridges 
+
+&#183;
+
+Rail Yards 
+
+&#183;
+
+Rail Tunnels 
+
+&#183;
+
+Border Crossings 
+
+&#183;
+
+Secure Rail Corridors 
+
+&#183;
+
+Facility Parking 
+
+&#183;
+
+Diesel Fuel Storage Farms 
+
+&#183;
+
+Marine Channels 
+
+&#183;
+
+TIC Storage/Chemical Facilities 
+
+&#183;
+
+Hospital Security 
+
+Wrong Way Detection 
+
+Markets: [ C ] [ T ] [ H ] [ UOGC ] [ G ] 
+
+This module detects people or objects moving against the flow of traffic.
+
+Loitering Detection 
+
+Markets: [ C ] [ T ] [ H ] [ UOGC ] [ G ] 
+
+The system continuously monitors a user defined area for loitering behavior within a user defined time envelope. Zones can either include or exclude specific sectors within the target field of view. 
+
+Removed or Left Objects Detection 
+
+Markets: [ C ] [ T ] [ H ] [ UOGC ] [ G ] 
+
+The system continuously monitors a defined area and automatically detects objects that have either been removed or left behind. Among many other parameters settings, the user can define the duration an object has been either removed or added to the scene before it constitutes an actionable event.
+
+PTZ Camera Tracking 
+
+Markets: [ C ] [ T ] [ H ] [ UOGC ] [ G ] 
+
+An object (human or vehicle) identified by the system as a potential threat (as defined by user rules), is tracked by automatic re-positioning of the respective PTZ camera. If multiple PTZ cameras are attached to the system (as is the case under a virtual fence scenario), additional logic provides for &#147;camera handoff&#148; where the object is tracked over multi-camera fields of view. This application has been adapted to many different scenarios, including a combination of radar and camera view. Under this scenario, the coordinates of an object detected by radar as compromising an area of interest, are continuously transmitted from the radar to a separate short-, medium- or long-range camera. The system subsequently &#147;locks&#148; the correlating outputs to each other and simultaneously triggers an alarm. Security stakeholders are able to observe and evaluate the scene displaying the automatically tracked object. 
+
+We are in the process of transitioning the above video analytics-based modules (&#147;Video Analytics Suite&#148;) to a &#147;licensed&#148; distribution model. Under this new model, we plan to distribute this software globally via manufacturer reps, channel partners, and integrators. 
+
+Over time, the code base has been expanded to integrate a myriad of 3rd party sensor technologies thereby creating complete engineered solutions. These engineered solutions usually address more complex end-user requirements and are typically designed, developed, deployed and maintained by duos tech in a direct relationship with the end-user on a turnkey basis. 
+
+Representative Engineered Solutions 
+
+The combination of the two platforms ( praes i dium and cen t raco ) with its many variants has and continues to deliver comprehensive &#147;end-to-end&#148; solutions, some of which play a significant role in pro-active homeland security. Following is a sampling of a few significant rail-centric turnkey projects we have delivered in the past. 
+
+National Capital Region Railroad Pilot Program (NCRRPP) 
+
+Under a congressional $15 Million budget earmark, our company designed, developed and deployed the first &#147;virtual security fence&#148; technology which applies a combination of our video-analytics based system monitoring over 200 fixed and PTZ cameras with a myriad of other sensing technologies to remotely protect a 7-mile rail track through Washington D.C. The project was structured as a public-private partnership between the DHS, CSX Transportation (CSXT) and AMTRAK. duos tech delivered this as a turnkey design/build project to DHS using in-house developed technologies. 
+
+The NCRRPP project established a virtual security buffer on both sides of the rail tracks along the 7-mile route between the Anacostia Bridge in the north and the Long Bridge near Crystal City in the south, and includes the Virginia Avenue and the New York Avenue tunnels. Two remote portals provided early alerts of inbound train traffic from Maryland and Virginia. The system consisted of over two hundred fixed and PTZ cameras combined with the duos tech praes i dium&#174; Video Analytics Suite. (Note: following major re-routing and construction of additional tracks, the system has recently been decommissioned). 
+
+Train Rider Detection System ( tr i ds &#153; ) 
+
+The duos tech Train Rider Detection System automatically inspects trains moving at speeds of up to 70 MPH searching for illegal riders hiding in wells of passing container cars and underneath tractor trailers on flatbed cars.
+
+Border Security Rail Inspection Portal ( r i p &#153;) 
+
+The duos tech Rail Inspection Portal is the latest technological innovation and deployment for rail security and inspection at border, yards and inspection areas. Under a Union Pacific (UP) funded pilot program at the Eagle Pass, TX border crossing, duos tech designed and developed a leading edge portal to provide US Customs and Border Protection (CBP) agency a tool that would aid customs officers in the inspection of inbound and outbound rail cars. The r i p&#153; system uses multiple technologies and sub-systems to remotely scan all railcars passing through the inspection portal, then displays stitched 360-degree views of the entire rail consist. It uses sensors and analytical algorithms to pre-screen railcars and to automatically detect and report anomalies and deviations from established norms. After successfully passing rigorous testing, this systems has now been adopted into the US CBP standard concept of operation for southwestern rail border crossings and has been deployed at most southwestern border locations, with a few remaining locations currently under negotiation. 
+
+The r i p&#153; application provides the following modules for automated analysis, detection and inspection:
+
+&#183;
+
+Linear Panorama Generator
+
+&#183;
+
+Automated Detection of Open Doors
+
+&#183;
+
+Automated Detection of Open/Missing Hatches
+
+&#183;
+
+Train Rider Detection System (tr i ds &#8482; ) 
+
+&#183;
+
+Under Vehicle Inspection with Foreign Object Detection (v u e &#8482; )
+
+&#183;
+
+Gondola Car Inspection System
+
+&#183;
+
+Pantograph Inspection System (ap i s &#8482; )
+
+&#183;
+
+3D modeling using LIDAR technology (under development)
+
+Utilizing the cen t raco &#8482; command and control platform as the system interface, the user accesses a variety of features enabling remote inspection, analysis and detection from the safety of remote command centers. Images containing detailed views of areas of concern, determined to be &#147;potentially suspicious&#148;, are automatically presented to a human operator for further inspection. Users conduct a quick review of the pre-screened imagery and decide whether to refer specific areas of interest to field personnel for further (physical) inspection. 
+
+&#160;
+
+The system also resolves the particularly difficult process of inspecting rail car undercarriages by providing high resolution images of the entire undercarriage. The system is not intended to replace the human operator; rather it is designed to help streamline the physical inspection process by narrowing the number of inspection targets down to cars with &#147;potential&#148; anomalies. Consequently, the detection sensitivity is intentionally set to err on the safe side to avoid false negatives.
+
+Linear Panorama Generator 
+
+The Linear Panorama Generator (LPG) assembles images gathered from cameras on all four sides of the train and stitches all frames to create a continuous 360 degree view of the entire train. Operators can quickly inspect the entire train consist by selecting the side of interest and scrolling through the continuous panorama view. The main purpose of the linear panorama is to provide inspection personnel with geo-spatial information of detections. The system marks the approximate location of detection on the linear panorama image and displays the target car location specifying the car sequence number and the approximate distance from the locomotive and/or the AEI tag data if available. The operator can select areas to enlarge, tag, save, or print any image of interest. Panoramas are stored indefinitely and dependent only on the size of the storage drives.
+
+Automated Detection of Open Doors and Missing or Open Hatches 
+
+As the train passes, laser sensors scan the top and sides of the train to detect open/missing hatches and open doors. In the event of a potential detection, the system saves a series of images and enters the corresponding car information into a database. The detections are marked on the Panorama images and presented to the operator who will either acknowledge the suggested detection as valid (green button) or reject the detection as invalid. The operator can expand the event to view car and consist information, additional images, or can enlarge specific areas for a closer view of the detection. 
+
+Illegal Train Rider Detection System ( trids &#153; ) 
+
+The Train Rider Detection System ( tr i ds &#153; ) performs automated detection of riders hiding in railcar wells, which have been the typical hiding place on trains traveling at speed. tr i ds &#153; is designed to offer inspection personnel an expedient and efficient method of isolating and identifying anomalies of interest, particularly unauthorized train riders. Images of areas of interest are identified automatically by the software algorithms and presented to the operator for validation. The system is intentionally set to a high sensitivity to avoid false negatives. A version upgrade has just been completed which expands the detection area to the entire rail car.
+
+Vehicle Undercarriage Examiner ( v u e ) 
+
+The Vehicle Undercarriage Examiner ( v u e) is embedded between the rails and captures a dual view of the train at opposing angles in order to maximize the visual information. The images are assembled (stitched) to create a continuous panoramic view of the entire length of the rail car&#146;s undercarriage. Images are stored indefinitely depending on the size of the storage drives. By employing the v u e the undercarriage can be inspected from a remote location safely and efficiently.
+
+The system features an automated Foreign Object Detection (FOD) algorithm that compares the undercarriage images to reference images taken from the same car during an earlier scan. The v u e images are &#147;matched up&#148; for comparison by using the unique car identification code provided by the AEI tag system. The detection algorithm looks for &#147;all&#148; differences and highlights respective detections for closer inspection by an operator. Detections can be filtered through sensitivity variables. 
+
+Pantograph Inspection System ( ap i s &#153; ) 
+
+duos tech developed and deployed a system that incorporates ultra high resolution cameras, structured lighting, speed and proximity sensors, and Radio Frequency Identification (RFID) technology to assist stakeholders to inspect the condition of pantographs on passing railcars. 
+
+Railroad Bridge Security 
+
+These projects employed digital video surveillance to create a virtual perimeter at either end of selected railroad drawbridges in the U.S. These systems include motion detection and intrusion detection with alarms. A wireless Ethernet bridge connects equipment at one end of the bridge to a server at the opposite end, eliminating the need to connect wire or cable across the waterway. A group of fixed and PTZ cameras provide real time video images and intrusion alarm notifications to the railroad&#146;s centralized Command and Control facilities. 
+
+Tank Farm Surveillance 
+
+We have designed and deployed intelligent perimeter surveillance systems to secure tank farms for both fuel storage and liquefied petroleum gas (LPG) for the above listed companies. Digital video cameras and intelligent video analytics combine to create a virtual perimeter around the tank area and vital structures on the site, automatically notifying company personnel of a security breach. The use of day/night cameras and software based video enhancement delivers a system that works in all light conditions and in bad weather, with the industry&#146;s lowest rate of false alarms. 
+
+Rail Yard Security 
+
+We have designed and deployed intelligent security perimeter and anomaly detection systems for many U.S. rail yards. These systems employ our patented video analytics technology to provide secure perimeters around the facilities. 
+
+Remote Bridge Controls 
+
+We designed a system that eliminated the need for local drawbridge operators, allowing centralized and remote control of the drawbridges from a single location. This system has received U.S. Coast Guard accreditation and approval for use. It consists of a combination of PLC technology integrated with multiple sensors to provide operators complete situational awareness of the drawbridge. 
+
+Gondola Car Inspection System ( gc i s &#153; ) 
+
+The gc i s &#153; system was developed to provide Conrail with an automated method for conducting inspections of gondola cars with steel slab loads. The system provides complete visibility utilizing our rvs pro &#153; and praes i dium&#174; systems of the interior of a gondola rail car. 
+
+Virtual Fence/Secure Rail Corridor 
+
+These systems were deployed to isolate and protect trains as they move through specific high threat areas along their routes. They consist of the same virtual fence technology deployed at other facilities. 
+
+centraco&#153; Enterprise Command and Control Suite 
+
+cen t raco&#153; is a multi-layered command and control interface which functions as the central point for information consolidation, connectivity and communications. The platform is browser based and completely agnostic to the interconnected sub-systems and provides full LDAP (Active Directory) integration for seamless user credentialing. 
+
+cen t raco &#8482; performs the following major functions: 
+
+&#183;
+
+Collection : Device management independently collects data from any number of disparate devices or sub-systems
+
+&#183;
+
+Analysis : Correlates and analyzes data, events, and alarms to identify real-time situations and their priorities for response measures and end-user &#8217; s Concept of Operations ( &#8220; CONOPS &#8221; )
+
+&#183;
+
+Verification : The contextual layer represents relevant information in a quick and easily interpreted format which provides operators optimal situational awareness
+
+&#183;
+
+Resolution : Event-specific presentation of user-defined Standard Operating Procedures ( &#8220; SOPs &#8221; ), that includes a step-by-step instruction on how to resolve situation(s)
+
+&#183;
+
+Reporting : Tracking of data and events for statistical, pattern and/or forensic analysis
+
+&#183;
+
+Auditing : Device-level drill down that records each operator &#8217; s login interaction with the system and tracks manual changes including calculations of operator alertness and reaction time for each event
+
+What significantly differentiates Duos from its competitors, is that we not only develop and own the application software code for the various analytics processes, but we also design, develop and deploy turnkey engineered solutions, which integrates the Company&#146;s own proprietary applications with any third-party technology through its native cen t raco&#153; platform. Typically, competitors specialize either on analytics software, command and control software or technology integration. Our feedback from field deployments of turnkey engineered systems and our knowledge base of involvement in post-sales technical support services, uniquely positions our Company to continuously expand and advance our technology solutions, which we believe are unparalleled in today&#146;s marketplace.
+
+The cen t raco&#153; enterprise command and control platform is central to our digital products offering as it will be distributed as the &#147;aggregator&#148; of our family of proprietary applications and third-party applications. Additional services and/or products developed or acquired in the future will be integrated into the cen t raco&#153; platform and/or provided independently, thereby taking advantage of the economies of scale of the Company&#146;s marketing campaigns. 
+
+RESEARCH AND DEVELOPMENT 
+
+Duos not only develops and owns the application software source code for the various analytics processes, but also designs, develops and deploys turnkey engineered solutions, which pair our proprietary applications with any third-party technology. The feedback from actual field deployments has enabled us to develop superior artificial intelligence-based analytics applications and is one of the major contributing factors as to why Duos intelligent analytics applications register the lowest false alarm rate in the industry. 
+
+Our Engineering and R&#38;D departments continuously develop expanded capabilities to our core technologies as well as new solutions for our customer base. Both, our praes i dium &#174; and cen t raco&#153; platforms are modular and are designed for expandability. New functionalities (developed in-house or from third parties) can be added to our application suites through our proprietary API and SDK.
+
+COMPETITION 
+
+Our offerings allow us to compete in the Intelligent Technologies sector where duostech is already a leading player as well as in the IT services sector. What significantly differentiates Duos from its competitors, is that we not only develop and own the application software (source) code for the various analytics processes, but we also design, develop and deploy turnkey engineered solutions, which integrate our own proprietary applications with any third-party technology through our native cen t raco&#153; platform. Typically, competitors specialize either on analytics software, or command and control software or technology integration. The feedback from field deployments of turnkey engineered systems and the knowledge base built over many years of involvement in post-sales technical support services, uniquely positions us to continuously expand and advance our technology solutions, which we believe are unparalleled in today&#146;s marketplace.
+
+SPECIFIC AREAS OF COMPETITION 
+
+Since inception, we have implemented a strategy of diversification to mitigate the potential vulnerabilities experienced by companies with a narrow business scope. Many public companies within the Nano-Cap community are de facto &#147;one trick ponies&#148;, and their single product strategy has made most of these companies irrelevant in the market place. 
+
+&#160;
+
+During the past several years, we have made considerable investments in, and have successfully developed, our two core technology platforms, praes i dium&#174; and cent r aco&#174; . 
+
+praes i dium&#174; is an open architecture, modular engine that manages an unlimited number of &#147;back end&#148; process and analytics frameworks. In addition to driving our own proprietary sensor and data analytics, this core technology also allows for the integration of an unlimited number of third-party technologies, systems and sub-systems. Third-party Industry or task-specific processes are modularized and embedded into the praes i dium&#174; engine, thereby substantially expanding the functionality of such third-party system. While most companies tailor their products and services to a specific industry, this core platform is industry agnostic and will allow us to penetrate multiple industries in the very near future. Our past and current concentration on specific target markets (i.e. Rail, Healthcare, Utilities, Chemical, Gas &#38; Oil, and Government) has enabled us to &#147;test the markets&#148; with our innovative technology solutions. Our praes i dium&#174; platform competes currently with the following sector specific companies: 
+
+Video Analytics Market 
+
+&#160;
+
+Rail Inspection Portal *1) 
+
+&#160;
+
+&#160;
+
+&#160;
+
+Security 
+
+&#160;
+
+Mechanical 
+
+Security 
+
+Agent VI (Israel)
+
+&#160;
+
+Beena Vision (USA) 
+
+Freight rail - NONE 
+
+BRS Labs (USA, recently left the market place)
+
+&#160;
+
+LYNXRAIL (Australia - tracks, wheels and wayside only)
+
+Beena Vision (development stage, just entering the market place)
+
+IntelliVision (USA)
+
+&#160;
+
+KLDLabs (USA - tracks, wheels and wayside only)
+
+&#160;
+
+Video IQ/sold to Avigilon
+
+&#160;
+
+MERMEC (Italy - tracks, wheels and wayside only)
+
+&#160;
+
+*1) Note: We conceived the concept of a rail inspection portal used for comprehensive inspection of security threads and we do not know of any competitor in this sector. Recently, the American Association of Railroads (AAR), through its technology research subsidiary TTCI, has engaged us to adapt our security portal technology to an automated mechanical inspection system. We are in the stage 2 of 3 on this development. There are no competitors engaged in this effort and the potential competitors are currently only focusing on the inspection of wheels, bearings, breaks and track alignment. We expect that any competitor interested in expanding their inspection technologies to the ones we have developed over the past 4 years, would require at least 2-3 years of research and development before they would be able to produce similar systems for real time testing. The testing cycle will take at least an additional 1-2 years. The AAR/TTCI is currently conducting beta testing only with our systems. Likewise, the CBP (US Customs and Border Protection) and Union Pacific R/R are using our systems as their only security inspection infrastructure at the US border. 
+
+cent r aco&#174; is an open architecture &#147;fusion&#148; engine which functions as a comprehensive &#147;front end&#148; user interface. This framework combines our proprietary modules with an unlimited number of 3d party technologies. In addition to a wide range of proprietary embedded features, such as video management (vms), alarm management (ams), LDAP network access credentialing and many more, cent r aco&#174; intelligently manages unlimited types of data sources and allows control and monitoring of this wide array of sensors and data from a single unified interface. This platform includes both the traditional Physical Security Information Management (PSIM) systems as well as a full scale Enterprise Information Management System (EIS). Neither of our competitors includes both PSIM and EIMS, nor do any of the competing products allow for the integration of embedded engineered solutions. 
+
+Competitors include:
+
+PSIM 
+
+&#160;
+
+Security 
+
+Nice Situator (Israel)
+
+VidSys (USA)
+
+Proximex (USA)
+
+DICE (USA)
+
+It should be noted that the PSIM market is rapidly expanding and we expect that capability requirements will substantially increase. Companies increasingly require expanded capabilities to justify the investment in their digital infrastructure for use by multiple corporate disciplines (security, building management, IT, network access control management). 
+
+GROWTH STRATEGY 
+
+We are currently executing on our growth strategy and will tap into an expanded total available market that is expected to grow to over $2.5 billion by 2017 (Source: Homeland Security Research). We will focus on expanding our customer base both in numbers of customers and average revenue per customer as our offerings deliver greater value. In particular, our strategy is comprised of the following key components: 
+
+We are pursuing a two pronged strategy: 
+
+1.
+
+Organic growth through scaling sales of the Company&#146;s combined products and services, and
+
+2.
+
+Growth through strategic acquisitions
+
+1. Organic Growth: Subject to raising the needed capital, we intend to scale Duos&#146; core businesses by expanding Duos&#146; research &#38; development resource pool and adding business development resources. The Company has a current project portfolio and a substantial pipeline of business opportunities with many project opportunities expected to solidify in the immediate future. We will continue to expand our IP library, which is expected to broaden our market reach and increase sales. Based on a review of the existing technology and development efforts, the Company&#146;s expanded research &#38; development team is continuously evaluating all aspects of our current products and engineered solutions, as well as planned enhancements. The Company&#146;s management team will be making decisions based on this analysis and adjust the Company&#146;s strategic plans accordingly.
+
+2. Strategic Acquisitions: Planned acquisition targets include sector specific technology companies with the objective of augmenting our current capabilities with feature-rich (third-party) solutions. The decision tree includes weighing time, effort and cost it would take to develop certain technologies in-house, vs. acquiring i.e. merging with an entity that already has successfully developed technology sub-component. Additional criteria include evaluating the acquisition target&#146;s customer base, stage of technology, merger/acquisition cost as compared to market conditions.
+
+ORGANIZATION AND BUSINESS UNITS 
+
+Duos Technologies Group, Inc., which serves as the holding company, is staffed with the corporate senior management team and administration (currently CEO, CFO, CTO and CAO). Subject to size and scope, future acquisitions may either be managed as subsidiaries or incorporated into one of the existing subsidiaries. Administrative and other general services will be streamlined to avoid duplication of overhead. 
+
+We are currently operating under two main business units, i.e. Intelligent Technologies Division, and IT Infrastructure Services Division (ISA&#146;s legacy business).
+
+SALES, MARKETING AND CUSTOMER SUPPORT 
+
+The Company currently markets its products and services through a combination of direct sales for the intelligent analytics platforms and indirect through strategic partners for the IT infrastructure services. The direct sales team is comprised of a senior manager and support staff for proposal writing, project management and after sales support. Sales through strategic partners are handled by a senior level manager with implementation and professional services either handled by in-house staff or by independent contractors for delivery of professional services. It is intended to expand both teams as the business grows and funding allows. The Company also attends certain industry specific trade shows.
+
+In 2016, the Company plans to implement a combination of product and corporate marketing campaigns to boost its brand and corporate name recognition. The product marketing campaigns will include a significant refresh of its web presence, advertising in trade publications, increased presence at trade shows, with focus on the rail and homeland security sectors, increased participation at industry seminars and conventions as guest presenters, and the organization of &#147;lunch and learn&#148; sessions, hosted by national engineering firms and tear one and tear two integrators.
+
+The corporate marketing campaign will also include a coordinated series of &#147;non-deal&#148; road shows, extended presence and presentations at investor conferences, extended research coverage, implementation of regular investor and shareholder conference calls, and the quarterly publication of a CEO report with updates on the Company&#146;s R&#38;D news. The Company will continue releasing PRs of all relevant project awards, technology achievements and new technology initiatives.
+
+OUR CUSTOMERS 
+
+Duos Technologies provides a broad range of sophisticated intelligent technology solutions with an emphasis on security, inspection and operations for critical infrastructure within a variety of industries including transportation, healthcare, oil and gas and utilities sectors. Some of the current applications we have, specific to critical infrastructure include:
+
+&#183;
+
+Imaging Portals for automated security and operational inspection criteria
+
+&#183;
+
+Physical Security Information Management (PSIM) &#8211; Integrations of VMS, Access Control, Building Controls, Fire Alarm, Burglar Alarm, etc.
+
+&#183;
+
+Intelligent Video Analytics
+
+&#183;
+
+RFID Tracking Systems (people, assets, and pharmaceutical)
+
+&#183;
+
+Command and Control Centers
+
+Our goal is to provide our end users with improved situational awareness and overall efficiencies in operations by leveraging technology as a force multiplier. Our established customer base includes Class 1 Railroads (Freight), Healthcare, Retail, Oil and Gas Industries and Utilities. Duostech solutions are designed for specific industries but the underlying technologies are industry agnostic and suitable for a wide range of applications and industries.
+
+MANUFACTURING AND ASSEMBLY 
+
+Duostech&#146;s research and development team designs and develops all of its systems and applications. Duos also streamlines its manufacturing by outsourcing component manufacture to qualified fabricators. On-site installations are performed using a combination of in-house project managers/engineers and specialist sub-contractors as necessary. Duostech maintains responsibility for the system implementation, servicing and tech support for its solutions.
+
+GOVERNMENT REGULATIONS 
+
+The Company has been working with various agencies of the federal government for more than 10-years. Our offerings are DHS Safety Act and CFATS certified. duos tech's Homeland Security solutions include sophisticated remote systems that combine and synchronize a myriad of sensing technologies, wireless communications, and innovative intelligent sensor applications.
+
+INTELLECTUAL PROPERTY 
+
+We currently rely upon a combination of trade secrets, patents, copyrights and trademarks, as well as non-disclosure agreements and invention assignment agreements, from our staff, to protect our technologies and other proprietary company information. As of December 31, 2015, our intellectual property portfolio included 12 patents and 20 trademarks issued or allowed by the United States Patent and Trademark Office (USPTO) and we have 2 pending patent applications in the United States. 
+
+Our policy is to require our employees, consultants, advisors and collaborators to execute confidentiality agreements. Additionally, we require our employees and consultants to execute assignment of invention agreements upon the commencement of employment, consulting or advisory relationships. These agreements generally provide that all confidential information developed or made known to a party by us during the course of the party&#146;s association with our company is to be kept confidential and not to be disclosed to third parties except in specific circumstances. In the case of employees and consultants, the agreements also provide that all inventions conceived by the individuals in the course of their employment or consulting relationship will be our exclusive property.
+
+EMPLOYEES 
+
+We have a current staff of 39, none of which are subject to a collective bargaining agreement. 
+
+AVAILABLE INFORMATION 
+
+Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports are made available free of charge through our Internet website (http://www.duostech.com) as soon as practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission. Except as otherwise stated in these documents, the information contained on our website or available by hyperlink from our website is not incorporated by reference into this report or any other documents we file, with or furnish to, the Securities and Exchange Commission. 
+
+&#160;
+

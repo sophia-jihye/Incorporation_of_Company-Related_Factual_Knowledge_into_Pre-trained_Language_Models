@@ -1,0 +1,872 @@
+ ITEM 1. 
+
+BUSINESS 
+
+The Company 
+
+KLA-Tencor Corporation (&#8220;KLA-Tencor&#8221; or the &#8220;Company&#8221; and also referred to as &#8220;we&#8221; or &#8220;our&#8221;) is a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries. Our products are also used in a number of other high technology industries, including the light emitting diode (&#8220;LED&#8221;) and data storage industries, as well as general materials research. 
+
+Within our primary area of focus, our comprehensive portfolio of inspection and metrology products, and related service, software and other offerings, helps integrated circuit (&#8220;IC&#8221; or &#8220;chip&#8221;) manufacturers manage yield throughout the entire semiconductor fabrication process&#8212;from research and development (&#8220;R&#38;D&#8221;) to final volume production. These products and offerings are designed to provide comprehensive solutions to help our customers to accelerate their development and production ramp cycles, to achieve higher and more stable semiconductor die yields, and to improve their overall profitability. 
+
+KLA-Tencor&#8217;s products and services are used by the vast majority of bare wafer, IC, lithography reticle (&#8220;reticle&#8221; or &#8220;mask&#8221;) and disk manufacturers around the world. These customers turn to us for inline wafer and IC defect monitoring, review and classification; reticle defect inspection and metrology; packaging and interconnect inspection; critical dimension (&#8220;CD&#8221;) metrology; pattern overlay metrology; film thickness, surface topography and composition measurements; measurement of in-chamber process conditions, wafer shape and stress metrology; computational lithography tools; and overall yield and fab-wide data management and analysis systems. Our advanced products, coupled with our unique yield management services, allow us to deliver the solutions our customers need to accelerate their yield learning rates and significantly reduce their risks and costs. 
+
+Certain industry and technical terms used in this section are defined in the subsection entitled &#8220;Glossary&#8221; found at the end of this Item 1. 
+
+KLA-Tencor was formed in April 1997 through the merger of KLA Instruments Corporation and Tencor Instruments, two long-time leaders in the semiconductor equipment industry that originally began operations in 1975 and 1976, respectively. 
+
+Additional information about KLA-Tencor is available on our website at www.kla-tencor.com. Our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our website as soon as reasonably practicable after we electronically file them with or furnish them to the Securities and Exchange Commission (&#8220;SEC&#8221;). Information contained on our website is not part of this Annual Report on Form 10-K or our other filings with the SEC. Additionally, these filings may be obtained through the SEC&#8217;s website (www.sec.gov), which contains reports, proxy and information statements, and other information regarding issuers that file electronically. Documents that are not available through the SEC&#8217;s website may also be obtained by mailing a request to the U.S. Securities and Exchange Commission, Office of FOIA/PA Operations, 100 F Street, NE, Washington, DC 20549-2736, by submitting an online request to the SEC at www.sec.gov or by calling the SEC at 1-800-732-0330. 
+
+Investors and others should note that we announce material financial information to our investors using our investor relations web site ( www.ir.kla-tencor.com ), SEC filings, press releases, public conference calls and webcasts. We use these channels as well as social media to communicate with the public about our company, our products and services and other matters. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on the social media channels listed on our investor relations web site. 
+
+&#32;1 
+
+Proposed Merger with Lam Research 
+
+On October 20, 2015, the Company entered into an Agreement and Plan of Merger and Reorganization (the &#8220;Merger Agreement&#8221;) with Lam Research Corporation (&#8220;Lam Research&#8221;), under which KLA-Tencor will ultimately become a direct or indirect wholly-owned subsidiary of Lam Research through a merger with a subsidiary of Lam Research (the &#8220;Merger&#8221;). The Merger has been unanimously approved by the boards of directors of both companies. The consummation of the Merger is conditioned on the satisfaction of customary closing conditions, including domestic and foreign regulatory approvals and performance in all material respects by each party of its obligations under the Merger Agreement. On February 19, 2016, the Merger Agreement was approved by KLA-Tencor&#8217;s stockholders and Lam Research&#8217;s stockholders approved the issuance of Lam Research&#8217;s common stock in the Merger. Refer also to Note 1 &#8220;Description of Business and Summary of Significant Accounting Policies&#8221; and Item 1A, &#8220;Risk Factors.&#8221; For additional details on the transaction, refer to the copy of the Merger Agreement attached as an Exhibit to the Form 8-K filed with the U.S. Securities and Exchange Commission (&#8220;SEC&#8221;) on October 21, 2015. 
+
+Industry 
+
+General Background 
+
+KLA-Tencor&#8217;s core focus is the semiconductor industry. The semiconductor fabrication process begins with a bare silicon wafer&#8212;a round disk that is typically 150 millimeters, 200 millimeters or 300 millimeters in diameter, about as thick as a credit card and gray in color. The process of manufacturing wafers is in itself highly sophisticated, involving the creation of large ingots of silicon by pulling them out of a vat of molten silicon. The ingots are then sliced into wafers. Prime silicon wafers are then polished to a mirror finish. Other, more specialized wafers, such as epitaxial silicon (&#8220;epi&#8221;), silicon-on-insulator (&#8220;SOI&#8221;), gallium nitride (&#8220;GaN&#8221;) and silicon carbide (&#8220;SiC&#8221;), are also common in the semiconductor industry. 
+
+The manufacturing cycle of an IC is grouped into three phases: design, fabrication and testing. IC design involves the architectural layout of the circuit, as well as design verification and reticle generation. The fabrication of a chip is accomplished by depositing a series of film layers that act as conductors, semiconductors or insulators on bare wafers. The deposition of these film layers is interspersed with numerous other process steps that create circuit patterns, remove portions of the film layers, and perform other functions such as heat treatment, measurement and inspection. Most advanced chip designs require hundreds of individual steps, many of which are performed multiple times. Most chips consist of two main structures: the lower structure, typically consisting of transistors or capacitors which perform the &#8220;smart&#8221; functions of the chip; and the upper &#8220;interconnect&#8221; structure, typically consisting of circuitry which connects the components in the lower structure. When all of the layers on the wafer have been fabricated, each chip on the wafer is tested for functionality. The wafer is then cut into individual chips, and those chips that passed functional testing are packaged. Final testing is performed on all packaged chips. 
+
+Current Trends 
+
+The growth of consumer demand for mobile devices, including smartphones, tablets and wearable devices, is currently driving growth in the electronics industry and, as a result, growth in the semiconductor industry as well. Contained within each of these latest consumer devices are advanced semiconductors that are helping to enable the features consumers want in device performance, such as smaller product form factors, lower power requirements, bigger and brighter screens and speed, at a lower cost. Alongside this market growth, the industry continues to experience a high rate of change in technology, with the emergence of new techniques and architectures in production today, such as three-dimensional ( &#8220; 3D &#8221; ) transistors, advanced patterning lithography and advanced wafer-level packaging. KLA-Tencor&#8217;s inspection and measurement technologies play a key role in enabling our customers&#8217; advanced semiconductor manufacturing processes to support these trends. 
+
+&#32;2 
+
+Companies that anticipate future market demands by developing and refining new technologies and manufacturing processes are better positioned to lead in the semiconductor market. Accelerating the yield ramp and maximizing production yields of high-performance devices are key goals of modern semiconductor manufacturing. Ramping to high-volume production ahead of competitors can dramatically increase the revenue an IC manufacturer realizes for a given product. During past industry cycles, semiconductor manufacturers generally contended with a few key new technologies or market trends, such as a specific design rule shrink. In today&#8217;s market, driven by consumer demand for low-cost electronic goods, the leading semiconductor manufacturers are investing in simultaneous production integration of multiple new process technologies, some requiring new substrate and film materials, new geometries, advanced lithography and advanced packaging techniques. While many of these technologies have been adopted at the development and pilot production stages of chip manufacturing, significant challenges and risks associated with each technology have affected the adoption of these technologies into full-volume production. For example, as design rules decrease, yields become more sensitive to the size and density of defects and device performance characteristics (namely speed, capacity or power management) become more sensitive to parameters, such as line width and film thickness variation. New process materials, such as high-k dielectrics, SOI wafers and immersion lithography-capable photoresists, require extensive characterization before they can be used in the manufacturing process. Moving several of these advanced technologies into production at once only adds to the risks that chipmakers face. 
+
+The continuing evolution of semiconductor devices to smaller geometries and more complex multi-level circuitry has significantly increased the performance and cost requirements of the capital equipment used to manufacture these devices. Construction of an advanced wafer fabrication facility today can cost over $5 billion, substantially more than previous-generation facilities. In addition, chipmakers are demanding increased productivity and higher returns from their manufacturing equipment and are also seeking ways to extend the performance of their existing equipment. 
+
+By developing new process control and yield management tools that help chipmakers accelerate the adoption of these new technologies into volume production, we enable our customers to better leverage these increasingly expensive facilities and improve their return on investment (&#8220;ROI&#8221;). Once customers&#8217; production lines are operating at high volume, our tools help ensure that yields are stable and process excursions are identified for quick resolution. In addition, the move to each new generation&#8217;s smaller design rules, coupled with new materials and device innovation, has increased in-process variability, which requires an increase in inspection and metrology sampling. 
+
+KLA-Tencor systems not only analyze defectivity and metrology issues at critical points in the wafer, reticle and IC manufacturing processes, but also provide information to our customers so that they can identify and address the underlying process problems. The ability to locate the source of defects and resolve the underlying process issues enables our customers to improve control over their manufacturing processes. This helps them increase their yield of high-performance parts and deliver their products to market faster&#8212;thus maximizing their profits. With our broad portfolio of application-focused technologies and our dedicated yield technology expertise, we are in position to be a key supplier of comprehensive yield management solutions for customers&#8217; next-generation products, helping our customers respond to the challenges posed by shrinking device sizes, the transition to new production materials, new device and circuit architecture, more demanding lithography processes, and new back-end packaging techniques. 
+
+Products 
+
+KLA-Tencor is engaged primarily in the design, manufacture and marketing of process control and yield management solutions for the semiconductor and related nanoelectronics industries and provides a comprehensive portfolio of inspection and metrology products, and related service, software and other offerings. 
+
+KLA-Tencor&#8217;s inspection and metrology products and related offerings can be broadly categorized as supporting customers in the following groups: Chip Manufacturing, Wafer Manufacturing, Reticle Manufacturing, LED, Power Device and Compound Semiconductor Manufacturing, Data Storage Media/Head Manufacturing, Microelectromechanical Systems (&#8220;MEMS&#8221;) Manufacturing, and General Purpose/Lab Applications. The more significant of these products are included in the product table at the end of this &#8220;Products&#8221; section. We also provide refurbished KLA-Tencor tools as part of our K-T Certified TM &#32;program for customers manufacturing larger design-rule devices, as well as comprehensive service and support for our products. 
+
+Chip Manufacturing 
+
+KLA-Tencor&#8217;s comprehensive portfolio of inspection and metrology products, and related service, software and other offerings, helps chip manufacturers manage yield throughout the entire semiconductor fabrication process&#8212;from research and development to final volume production. These products and offerings are designed to provide comprehensive solutions to help our customers to accelerate their development and production ramp cycles, to achieve higher and more stable semiconductor die yields, and to improve their overall profitability. 
+
+&#32;3 
+
+Front-End Defect Inspection 
+
+KLA-Tencor&#8217;s front-end defect inspection tools cover a broad range of yield applications within the IC manufacturing environment, including: research and development; incoming wafer qualification; reticle qualification; and tool, process and line monitoring. Patterned and unpatterned wafer inspectors find particles, pattern defects and electrical issues on the front surface, back surface and edge of the wafer, allowing engineers to detect and monitor critical yield excursions. Fabs rely on our high sensitivity reticle inspection systems to identify defects in reticles at an early stage and to prevent reticle defects from printing on production wafers. The defect data generated by our inspectors is compiled and reduced to relevant root-cause and yield-analysis information with our suite of data management tools. By implementing our front-end defect inspection and analysis systems, chipmakers are able to take quick corrective action, resulting in faster yield improvement and better time to market. 
+
+During the fiscal year ended June 30, 2016, we launched several front-end defect inspection products that help accelerate yield for next-generation design node devices: 3900 Series, 2930 Series, Puma TM &#32;9980 Series and Surfscan &#174; &#32;SP5 XP . The 3900 Series broadband plasma patterned wafer inspection systems incorporate a new high resolution deep ultra-violet (&#8220;DUV&#8221;) wavelength range and optical inspection speed, supporting defect discovery and debug of advanced IC processes. The 2930 Series broadband plasma patterned wafer inspection systems are used to discover and monitor defects related to design or process issues, supporting advanced IC development and ramp. The Puma TM &#32;9980 laser scanning patterned wafer inspector provides enhanced defect type capture for high throughput production ramp monitoring across a wide range of IC applications. The Surfscan &#174; &#32;SP5 XP &#32;unpatterned wafer inspection system utilizes extended deep ultra-violet optical technologies for cost-effective, early detection of process and tool excursions. 
+
+The products that we launched during the fiscal year ended June 30, 2016 further strengthened our broad range of offerings that support the front-end defect inspection market. In the field of patterned wafer inspection, we offer our 3900 Series (for high resolution broadband plasma defect inspection); our 2930 Series and 2920 Series (for broadband plasma defect inspection); our Puma TM &#32;9980 Series, Puma TM &#32;9850 Series and Puma TM &#32;9650 Series (for laser scanning defect inspection); our 8 Series systems (for high productivity defect inspection); and our CIRCL TM &#32;cluster tool (for defect inspection, review and metrology of all wafer surfaces - front side, edge and back side). In the field of unpatterned wafer and surface inspection, we offer the Surfscan &#174; &#32;SP5 Series and Surfscan &#174; &#32;SP3 Series (wafer defect inspection systems for process tool qualification and monitoring using blanket films and bare wafers); and the SURFmonitor TM &#32;(integrated on the Surfscan &#174; &#32;SP5 and Surfscan &#174; &#32;SP3 Series), which enables surface quality measurements and capture of low-contrast defects. For reticle inspection, we offer our X5.2 TM , X5.3 TM &#32;and Teron TM &#32;SL650 Series products, which are photomask inspection systems that allow IC fabs to qualify incoming reticles and inspect production reticles for contaminants and other process-related changes. In addition, we offer a number of other products for the front-end defect inspection market, as reflected in the product table at the conclusion of this &#8220;Products&#8221; section. 
+
+Defect Review 
+
+KLA-Tencor&#8217;s defect review systems capture high resolution images of the defects detected by inspection tools. These images enable defect classification, helping chipmakers identify and resolve yield issues. KLA-Tencor&#8217;s suite of defect inspectors, defect review and classification tools and data management systems form a broad solution for finding, identifying and tracking yield-critical defects and process issues. During the fiscal year ended June 30, 2016, we introduced the eDR7280 TM , an electron-beam wafer defect review and classification system that utilizes improved imaging and automatic defect classification capability to identify detected defects and produce an accurate representation of the detected defect population. 
+
+Advanced Packaging Process Control 
+
+KLA-Tencor offers standalone and cluster inspection and metrology systems for various applications in the field of advanced semiconductor packaging (i.e., at the middle and back-end of the semiconductor manufacturing process). Our CIRCL-AP&#8482; all-surface inspection, metrology and review system supports advanced wafer-level packaging processes, such as 2.5D/3D IC integration using through silicon vias (&#8220;TSVs&#8221;), wafer-level chip scale packaging (&#8220;WLCSP&#8221;) and fan-out wafer-level packaging (&#8220;FOWLP&#8221;). Used for packaging applications associated with LEDs, MEMS, image sensors and flip-chip packaging, our WI-22x0 Series products focus on front side wafer inspection and provide feedback on wafer surface quality, quality of the wafer dicing, or quality of wafer bumps, pads and pillars. Our component inspector products, the ICOS &#174; &#32;T830 and ICOS &#174; &#32;T640, inspect various semiconductor components that are handled in a tray, such as microprocessors or memory chips. Component inspection capability includes 3D coplanarity inspection, measurement of the evenness of the contacts, component height and two-dimensional (&#8220;2D&#8221;) surface inspection. 
+
+&#32;4 
+
+Metrology 
+
+KLA-Tencor&#8217;s array of metrology solutions addresses IC and substrate manufacturing, as well as scientific research and other applications. Precise metrology and control of pattern dimensions, film thicknesses, layer-to-layer alignment, pattern placement, surface topography and electro-optical properties are important in many industries as critical dimensions narrow, film thicknesses shrink to countable numbers of atomic layers and devices become more complex. 
+
+KLA-Tencor offers a broad range of systems and solutions that support the metrology market. Our 5D Patterning Control Solution&#8482; addresses five elements of patterning process control--the three geometrical dimensions of device structures, time-to-results and overall equipment efficiency--and supports advanced patterning technologies through the characterization, optimization and monitoring of fab-wide processes. The Archer TM &#32;Series of overlay metrology tools enables characterization of overlay error on lithography process layers for advanced patterning technologies. The SpectraShape TM &#32;family of optical CD and shape metrology systems characterizes and monitors the critical dimensions and 3D shapes of geometrically complex features incorporated by some IC manufacturers in their latest generation devices. The SpectraFilm TM &#32;and Aleris TM &#32;families of film metrology tools provide precise measurement of film thickness, refractive index, stress and composition for a broad range of film layers. The WaferSight&#8482; PWG system measures patterned wafer geometry after a wide range of IC processes, helping identify and monitor variations that can affect patterning. Finally, K-T Analyzer &#174; &#32;offers advanced, run-time data analysis for a wide range of metrology system types. In addition, we offer a number of other products for the metrology market, as reflected in the product table at the conclusion of this &#8220;Products&#8221; section. 
+
+In-Situ Process Monitoring 
+
+KLA-Tencor&#8217;s SensArray &#174; &#32;SensorWafers are a portfolio of advanced wireless and wired temperature monitoring wafers that capture the effect of the process environment on production wafers. These SensorWafers provide insight into thermal uniformity and profile temperature under real production conditions. SensArray &#174; &#32;products are used in many semiconductor and flat panel display fabrication processes, including lithography, etch and deposition. 
+
+Lithography Software 
+
+KLA-Tencor&#8217;s PROLITH TM &#32;product line provides researchers at advanced IC manufacturers, lithography hardware suppliers, track companies and material providers with virtual lithography software to explore critical-feature designs, manufacturability and process-limited yield of proposed lithographic technologies without the time and expense of printing hundreds of test wafers using experimental materials and prototype process equipment. Our &#32; ProDATA&#8482; process window analysis software tool provides analysis of experimental data, including CD, roughness, sidewall angle, top loss and pattern collapse. 
+
+Wafer Manufacturing 
+
+KLA-Tencor&#8217;s portfolio of products focused on the demands of wafer manufacturers includes inspection, metrology and data management systems. Specialized inspection tools assess surface quality and detect, count and bin defects during the wafer manufacturing process and as a critical part of outgoing inspection. Wafer geometry tools ensure that the wafer is extremely flat and uniform in thickness, with precisely controlled surface topography. Specifications for wafer defectivity, geometry and surface quality are tightening as the dimensions of transistors become so small that the geometry of the substrate can substantially affect transistor performance. 
+
+Our wafer inspection portfolio for wafer manufacturing is anchored by the edge handling configuration of the Surfscan &#174; &#32;SP5 and the Surfscan &#174; &#32;SP5 XP , both launched during the fiscal year ended June 30, 2016. The Surfscan &#174; &#32;SP5 Series and Surfscan &#174; &#32;SP3 Series are wafer inspection systems designed to enable development and production monitoring of polished wafers, epi wafers and engineered substrates. The SURFmonitor TM &#32;module (integrated on the Surfscan &#174; &#32;SP5 Series and Surfscan &#174; &#32;SP3 Series) characterizes wafer surface quality and captures low-contrast defects. The WaferSight TM &#32;Series offers bare wafer geometry and nanotopography metrology capabilities. FabVision &#174; &#32;offers fab-wide data management and automated yield analysis for wafer manufacturers. 
+
+&#32;5 
+
+Reticle Manufacturing 
+
+Error-free reticles, or masks, are necessary to achieving high semiconductor device yields, since reticle defects can be replicated in every die on production wafers. KLA-Tencor offers high sensitivity reticle inspection and metrology systems for mask shops, designed to help them manufacture reticles that are free of pattern defects that could print on the wafers and meet pattern placement and critical dimension uniformity specifications. 
+
+Our reticle inspection portfolio includes the Teron TM &#32;600 Series for development and manufacturing of advanced optical and EUV masks, the TeraScan TM &#32;500XR system for mask shop production of reticles for the 32nm node and above and our X5.2 TM , X5.3&#8482; and Teron TM &#32;SL650 Series products for reticle quality control capability for IC fabs. These products include the capability for mapping critical dimension uniformity across the reticle. In addition, we offer the LMS IPRO line of reticle metrology systems for measuring pattern placement error, including the LMS IPRO6 which measures on-device pattern features in addition to standard registration marks. If the pattern on the reticle is displaced from its intended location, overlay error can result on the wafer, which can lead to electrical continuity issues affecting yield, performance or reliability of the IC device. 
+
+LED, Power Device and Compound Semiconductor Manufacturing 
+
+LEDs are becoming more commonly used in solid-state lighting, television and notebook backlighting, and automotive applications. As LED device makers target aggressive cost and performance targets, they place significant emphasis on improved process control and yield during the manufacturing process. 
+
+KLA-Tencor offers a portfolio of systems to help LED manufacturers reduce production costs and increase product output: Candela &#174; &#32;8720, Klarity &#174; &#32;LED, WI-2280, 8 Series, MicroXAM Series optical profilers and P-Series and HRP &#174; -Series stylus profilers. The Candela &#174; &#32;8720 substrate and epi wafer inspection system provides automated inspection and quality control of LED substrates, detecting defects that can impact device performance, yield and field reliability. Klarity &#174; &#32;LED is an automated defect data management and analysis system for LED yield enhancement. The WI-2280 system is designed specifically for defect inspection and 2D metrology for LED applications. The 8 Series provides patterned wafer defect inspection capability for LED manufacturing. The MicroXAM Series optical profilers measure step height, texture and form for LED applications. The P-Series and HRP &#174; -Series stylus profilers are metrology systems for measurement of step heights and roughness for LED substrates and pattern wafer applications. 
+
+Leading power device manufacturers are targeting faster development and ramp times, high product yields and lower device costs. To achieve these goals, they are implementing solutions for characterizing yield-limiting defects and processes. Full-surface, high sensitivity defect inspection and profiler metrology systems provide accurate process feedback, enabling improvements in SiC substrate quality and optimal epitaxial growth yields on both SiC epi and GaN-on-silicon processes. 
+
+KLA-Tencor offers inspection and metrology systems to support power device manufacturing. The Candela &#174; &#32;CS920 inspection system integrates surface defect detection and Photoluminescence technology for inspection and defect classification of a wide range of defects on SiC substrates and epi layers. The MicroXAM Series optical profilers measure step height, texture and form for power device applications. The P-Series and HRP &#174; -Series stylus profilers measure step heights and roughness for SiC substrates and pattern wafer applications. 
+
+Finally, our primary products for compound semiconductor manufacturing include Candela &#174; &#32;CS20, the MicroXAM Series optical profilers and the P-Series and HRP &#174; -Series stylus profilers, used for the inspection and metrology of substrates, epi-layers and process films. 
+
+Data Storage Media/Head Manufacturing 
+
+Advancements in data storage are being driven by a wave of innovative consumer electronics with small form factors and immense storage capacities, as well as an increasing need for high-volume storage options to back up modern methods of remote computing and networking (such as cloud computing). Our process control and yield management solutions are designed to enable customers to rapidly understand and resolve complex manufacturing problems, which can help improve time to market and product yields. In the front-end and back-end of thin-film head wafer manufacturing, we offer the same process control equipment that we serve to the semiconductor industry. In addition, we offer an extensive range of test equipment and surface profilers with particular strength in photolithography. In substrate and media manufacturing, we offer metrology and defect inspection solutions with KLA-Tencor&#8217;s optical surface analyzers. Products that we offer for the data storage media/head manufacturing market manufacturing are highlighted in the product table at the conclusion of this &#8220;Products&#8221; section. 
+
+&#32;6 
+
+MEMS Manufacturing 
+
+The increasing demand for MEMS technology is coming from diverse industries such as automotive, space and consumer electronics. MEMS have the potential to revolutionize nearly every product category by bringing together silicon-based microelectronics with micromachining technology, making possible the realization of complete systems-on-a-chip. KLA-Tencor offers tools and techniques for this emerging market, such as defect inspection and review, optical inspection and surface profiling, which were first developed for the integrated circuit industry. Products that we offer for MEMS manufacturing are highlighted in the product table at the conclusion of this &#8220;Products&#8221; section. 
+
+General Purpose/Lab Applications 
+
+A range of industries, including general scientific and materials research and optoelectronics, require measurements of surface topography to either control their processes or research new material characteristics. Typical measurement parameters that our tools address include flatness, roughness, curvature, peak-to-valley, asperity, waviness, texture, volume, sphericity, slope, density, stress, bearing ratio and distance (mainly in the micron to nanometer range). The profiler and in-situ process monitoring products that we offer for general purpose/lab applications are highlighted in the product table at the conclusion of this &#8220;Products&#8221; section. 
+
+K-T Certified 
+
+K-T Certified is our refurbished tools program that delivers fully refurbished, tested and certified KLA-Tencor tools to our customers. In addition to high-quality pre-owned 300mm and sub-200mm tools for the integrated circuit, reticle, substrate, MEMS and data storage markets, K-T Certified also offers system software and hardware performance upgrades to extend the capabilities of existing equipment. When a customer needs to move to the next manufacturing node, K-T Certified can help maximize the value of the customer&#8217;s existing assets through K-T Certified&#8217;s repurchase, trade-in and redeployment services. 
+
+K-T Services 
+
+Our K-T Services program enables our customers in all business sectors to maintain the high performance and productivity of our products through a flexible portfolio of services. Whether a manufacturing site is producing integrated circuits, wafers or reticles, K-T Services delivers yield management expertise spanning advanced technology nodes, including collaboration with customers to determine the best products and services to meet technology requirements and optimize cost of ownership. Our comprehensive services include service engineers, technical support teams and knowledge management systems; and an extensive parts network to ensure worldwide availability of parts. 
+
+&#32;7 
+
+Product Table 
+
+MARKETS 
+
+APPLICATIONS 
+
+PRODUCTS 
+
+Chip Manufacturing 
+
+&#160; 
+
+&#160; 
+
+Front-End Defect Inspection 
+
+Patterned Wafer 
+
+3900 Series, 2930 Series, 2920 Series, 
+
+Puma TM 9980 Series, Puma TM 9850 Series, Puma TM 9650 Series 
+
+High Productivity and All Surface 
+
+CIRCL TM with 8 Series, CV350i, BDR300 TM and Micro300 modules 
+
+8 Series (8800, 8820, 8900, 8920) 
+
+Unpatterned Wafer/Surface 
+
+Surfscan &#174; SP3 and Surfscan &#174; SP5 Series 
+
+SURFmonitor TM 
+
+Reticle 
+
+X5.2 TM and X5.3&#8482; 
+
+Teron TM SL650 Series 
+
+Data Management 
+
+Klarity &#174; product family 
+
+Defect Review 
+
+Electron-beam 
+
+eDR7200 TM Series 
+
+Advanced Packaging 
+
+Wafer-Level Packaging 
+
+CIRCL-AP TM 
+
+WI-22x0 Series 
+
+Component Inspection 
+
+ICOS &#174; T830 and ICOS &#174; T640 
+
+Metrology 
+
+Patterning Control 
+
+5D Patterning Control Solution&#8482; 
+
+Overlay 
+
+Archer TM &#160; Series 
+
+Optical CD and Shape 
+
+SpectraShape TM product family 
+
+Film Thickness/Index 
+
+SpectraFilm TM product family 
+
+Aleris TM &#160; product family 
+
+Wafer Geometry and Topography 
+
+WaferSight TM &#160; Series 
+
+SURFmonitor TM 
+
+Ion Implant and Anneal 
+
+Therma-Probe &#174; 
+
+Surface Metrology 
+
+HRP &#174; product family 
+
+P-Series product family 
+
+Resistivity 
+
+RS product family 
+
+Data Management 
+
+K-T Analyzer &#174; 
+
+In-Situ Process Monitoring 
+
+Lithography 
+
+SensArray &#174; product family 
+
+Plasma Etch 
+
+SensArray &#174; product family 
+
+Implant and Wet 
+
+SensArray &#174; PlasmaSuite 
+
+Lithography Software 
+
+Lithography Simulation 
+
+PROLITH TM 
+
+Process Window Analysis 
+
+ProDATA TM 
+
+&#32;8 
+
+MARKETS AND APPLICATIONS 
+
+PRODUCTS 
+
+Wafer Manufacturing 
+
+&#160; 
+
+Surface and Defect Inspection 
+
+Surfscan &#174; SP3 Series and Surfscan &#174; SP5 Series 
+
+SURFmonitor TM 
+
+Wafer Geometry and Nanotopography Metrology 
+
+WaferSight TM Series 
+
+SURFmonitor TM 
+
+Data Management 
+
+FabVision &#174; 
+
+Reticle Manufacturing 
+
+&#160; 
+
+Defect Inspection 
+
+TeraScan TM 500XR and Teron TM 600 &#160; Series 
+
+Pattern Placement Metrology 
+
+LMS IPRO Series 
+
+LED, Power Device and Compound Semiconductor Manufacturing 
+
+&#160; 
+
+Patterned Wafer Inspection 
+
+8 Series (8800, 8820, 8900, 8920) 
+
+WI product family 
+
+Defect Inspection (substrates and epi wafers) 
+
+Candela &#174; product family 
+
+Surface Metrology 
+
+P-Series product family 
+
+MicroXAM Series 
+
+HRP &#174; product family 
+
+Data Management 
+
+Klarity &#174; LED 
+
+Data Storage Media/Head Manufacturing 
+
+&#160; 
+
+Thin-Film Head Metrology and Inspection 
+
+Aleris product family 
+
+CIRCL TM with 8 Series, CV350i, BDR300 and Micro300 modules 
+
+8 Series (8800, 8820, 8900, 8920) 
+
+HRP &#174; product family 
+
+P-Series product family 
+
+Virtual Lithography 
+
+PROLITH TM 
+
+In-Situ Process Monitoring 
+
+SensArray &#174; product family 
+
+Transparent and Metal Substrate Inspection 
+
+Candela &#174; product family 
+
+Data Management 
+
+Klarity &#174; Defect 
+
+K-T Analyzer &#174; 
+
+MEMS Manufacturing 
+
+&#160; 
+
+Surface Metrology: Stylus Profiling 
+
+P-Series product family 
+
+HRP &#174; product family 
+
+Surface Metrology: Optical Profiling 
+
+MicroXAM Series 
+
+Optical Inspection 
+
+8 Series (8800, 8820, 8900, 8920) 
+
+WI product family 
+
+General Purpose/Lab Applications 
+
+&#160; 
+
+Surface Metrology: Stylus Profiling 
+
+P-Series product family 
+
+Alpha-Step &#174; product family 
+
+HRP &#174; product family 
+
+Surface Metrology: Optical Profiling 
+
+MicroXAM Series 
+
+Process Chamber Conditions 
+
+SensArray &#174; product family 
+
+The product information shown in the tables above excludes some products that were solely offered through our K-T Certified refurbished tools program. 
+
+&#32;9 
+
+Customers 
+
+To support our growing global customer base, we maintain a significant presence throughout Asia, the United States and Europe, staffed with local sales and applications engineers, customer and field service engineers and yield management consultants. We count among our largest customers the leading semiconductor manufacturers in each of these regions. 
+
+For the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 , the following customers each accounted for more than 10% of total revenues: Year ended June 30, 
+
+&#160; 
+
+&#160; 
+
+Micron Technology, Inc. 
+
+&#160; 
+
+Intel Corporation 
+
+&#160; 
+
+Intel Corporation 
+
+Taiwan Semiconductor Manufacturing Company Limited 
+
+&#160; 
+
+Samsung Electronics Co., Ltd. 
+
+&#160; 
+
+Samsung Electronics Co., Ltd. 
+
+&#160; 
+
+Taiwan Semiconductor Manufacturing Company Limited 
+
+&#160; 
+
+Taiwan Semiconductor Manufacturing Company Limited 
+
+Our business depends upon the capital expenditures of semiconductor manufacturers, which in turn is driven by the current and anticipated market demand for ICs and products utilizing ICs. We do not consider our business to be seasonal in nature, but it is cyclical with respect to the capital equipment procurement practices of semiconductor manufacturers, and it is impacted by the investment patterns of such manufacturers in different global markets. Downturns in the semiconductor industry or slowdowns in the worldwide economy as well as customer consolidation could have a material adverse effect on our future business and financial results. 
+
+Sales, Service and Marketing 
+
+Our sales, service and marketing efforts are aimed at building long-term relationships with our customers. We focus on providing a single and comprehensive resource for the full breadth of process control and yield management products and services. Our customers benefit from the simplified planning and coordination, as well as the increased equipment compatibility, which are realized as a result of dealing with a single supplier for multiple products and services. Our revenues are derived primarily from product sales, mostly through our direct sales force. 
+
+We believe that the size and location of our field sales, service and applications engineering, and marketing organizations represent a competitive advantage in our served markets. We have direct sales forces in Asia, the United States and Europe. We maintain an export compliance program that is designed to meet the requirements of the United States Departments of Commerce and State. 
+
+As of June 30, 2016 , we employed approximately 2,110 full-time sales and related personnel, service engineers and applications engineers. In addition to sales and service offices in the United States, we conduct sales, marketing and services out of wholly-owned subsidiaries or branches in other countries, including Belgium, China, Germany, Israel, Japan, Singapore, South Korea and Taiwan. International revenues accounted for approximately 82% , 71% &#32;and 76% &#32;of our total revenues in the fiscal years ended June 30, 2016 , 2015 &#32;and 2014 , respectively. Additional information regarding our revenues from foreign operations for our last three fiscal years can be found in Note 16, &#8220;Segment Reporting and Geographic Information&#8221; to the consolidated financial statements. 
+
+We believe that sales outside the United States will continue to be a significant percentage of our total revenues. Our future performance will depend, in part, on our ability to continue to compete successfully in Asia, one of the largest markets for our equipment. Our ability to compete in this area is dependent upon the continuation of favorable trading relationships between countries in the region and the United States, and our continuing ability to maintain satisfactory relationships with leading semiconductor companies in the region. 
+
+&#32;10 
+
+International sales and operations may be adversely affected by the imposition of governmental controls, restrictions on export technology, political instability, trade restrictions, changes in tariffs and the difficulties associated with staffing and managing international operations. In addition, international sales may be adversely affected by the economic conditions in each country and by fluctuations in currency exchange rates, and such fluctuations may negatively impact our ability to compete on price with local providers or the value of revenues we generate from our international business. Although we attempt to manage some of the currency risk inherent in non-U.S. dollar product sales through hedging activities, there can be no assurance that such efforts will be adequate. These factors, as well as any of the other risk factors related to our international business and operations that are described in Item 1A, &#8220;Risk Factors,&#8221; could have a material adverse effect on our future business and financial results. 
+
+Backlog 
+
+Our shipment backlog for systems and associated warranty totaled $1.21 billion and $984 million as of June 30, 2016 &#32;and 2015 , respectively, and primarily consists of sales orders where written customer requests have been received and the delivery is anticipated within the next 12 months. Orders for service contracts and unreleased products are excluded from shipment backlog. All orders are subject to cancellation or delay by the customer, often with limited or no penalties. We make adjustments for shipment backlog obtained from acquired companies, sales order cancellations, customer delivery date changes and currency adjustments. Shipment backlog is not subject to normal accounting controls for information that is either reported in or derived from our consolidated financial statements. In addition, the concept of shipment backlog is not defined in the accounting literature, making comparisons between periods and with other companies difficult and potentially misleading. 
+
+Our revenue backlog, which includes the gross value of sales orders where physical deliveries have been completed, but for which revenue has not been recognized pursuant to our policy for revenue recognition, totaled $255 million and $221 million as of June 30, 2016 &#32;and 2015 , respectively. Orders for service contracts are excluded from revenue backlog. 
+
+Because customers can potentially change delivery schedules or delay or cancel orders, and because some orders are received and shipped within the same quarter, our shipment backlog at any particular date is not necessarily indicative of business volumes or actual sales for any succeeding periods. The cyclicality of the semiconductor industry combined with the lead times from our suppliers sometimes result in timing disparities between, on the one hand, our ability to manufacture, deliver and install products and, on the other, the requirements of our customers. In our efforts to balance the requirements of our customers with the availability of resources, management of our operating model and other factors, we often must exercise discretion and judgment as to the timing and prioritization of manufacturing, deliveries and installations of products, which may impact the timing of revenue recognition with respect to such products. 
+
+Research and Development 
+
+The market for yield management and process monitoring systems is characterized by rapid technological development and product innovation. These technical innovations are inherently complex and require long development cycles and appropriate professional staffing. We believe that continued and timely development of new products and enhancements to existing products are necessary to maintain our competitive position. Accordingly, we devote a significant portion of our human and financial resources to research and development programs and seek to maintain close relationships with customers to remain responsive to their needs. In addition, we may enter into certain strategic development and engineering programs whereby certain government agencies or other third parties fund a portion of our research and development costs. As of June 30, 2016 , we employed approximately 1,430 full-time research and development personnel. 
+
+Our key research and development activities during the fiscal year ended June 30, 2016 &#32;involved the development of process control and yield management equipment aimed at addressing the challenges posed by shrinking device sizes, the transition to new production materials, new device and circuit architecture, more demanding lithography processes and new back-end packaging techniques. For information regarding our research and development expenses during the last three fiscal years, see Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in this Annual Report on Form 10-K. 
+
+&#32;11 
+
+The strength of our competitive positions in many of our existing markets is largely due to our leading technology, which is the result of our continuing significant investments in product research and development. Even during down cycles in the semiconductor industry, we have remained committed to significant engineering efforts toward both product improvement and new product development in order to enhance our competitive position. New product introductions, however, may contribute to fluctuations in operating results, since customers may defer ordering existing products, and, if new products have reliability or quality problems, those problems may result in reduced orders, higher manufacturing costs, delays in acceptance of and payment for new products, and additional service and warranty expenses. There can be no assurance that we will successfully develop and manufacture new products, or that new products introduced by us will be accepted in the marketplace. If we do not successfully introduce new products, our results of operations will be adversely affected. 
+
+Manufacturing, Raw Materials and Supplies 
+
+We perform system design, assembly and testing in-house and utilize an outsourcing strategy for the manufacture of components and major subassemblies. Our in-house manufacturing activities consist primarily of assembling and testing components and subassemblies that are acquired through third-party vendors and integrating those subassemblies into our finished products. Our principal manufacturing activities take place in the United States (Milpitas, California), Singapore, Israel, Germany and China. As of June 30, 2016 , we employed approximately 970 full-time manufacturing personnel. 
+
+Some critical parts, components and subassemblies (collectively, &#8220;parts&#8221;) that we use are designed by us and manufactured by suppliers in accordance with our specifications, while other parts are standard commercial products. We use numerous vendors to supply parts and raw materials for the manufacture and support of our products. Although we make reasonable efforts to ensure that these parts and raw materials are available from multiple suppliers, this is not always possible, and certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, identifying (but not necessarily qualifying) possible alternative suppliers of such parts and materials, and ensuring adequate inventories of key parts and raw materials are available to maintain manufacturing schedules. 
+
+Although we seek to reduce our dependence on sole and limited source suppliers, in some cases the partial or complete loss of certain of these sources, or disruptions within our suppliers&#8217; often-complex supply chains, could disrupt scheduled deliveries to customers, damage customer relationships and have a material adverse effect on our results of operations. 
+
+Competition 
+
+The worldwide market for process control and yield management systems is highly competitive. In each of our product markets, we face competition from established and potential competitors, such as Applied Materials, Inc., ASML Holding N.V., Hermes Microvision, Inc., Hitachi High-Technologies Corporation, Nanometrics, Inc. and Rudolph Technologies, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We may also face future competition from new market entrants from other overseas and domestic sources. We expect our competitors to continue to improve the design and performance of their current products and processes and to introduce new products and processes with improved price and performance characteristics. We believe that, to remain competitive, we will require significant financial resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest in product and process research and development. 
+
+We believe that, while price and delivery are important competitive factors, the customers&#8217; overriding requirement is for systems that easily and effectively incorporate automated and highly accurate inspection and metrology capabilities into their existing manufacturing processes to enhance productivity. Significant competitive factors in the market for process control and yield management systems include system performance, ease of use, reliability, interoperability with the existing installed base and technical service and support, as well as overall cost of ownership. 
+
+Management believes that we are well positioned in the market with respect to both our products and services. However, any loss of competitive position could negatively impact our prices, customer orders, revenues, gross margins and market share, any of which would negatively impact our operating results and financial condition. 
+
+&#32;12 
+
+Acquisitions and Alliances 
+
+We continuously evaluate strategic acquisitions and alliances to expand our technologies, product offerings and distribution capabilities. Acquisitions involve numerous risks, including management issues and costs in connection with integration of the operations, technologies and products of the acquired companies, and the potential loss of key employees of the acquired companies. The inability to manage these risks effectively could negatively impact our operating results and financial condition. 
+
+Patents and Other Proprietary Rights 
+
+We protect our proprietary technology through reliance on a variety of intellectual property laws, including patent, copyright and trade secret. We have filed and obtained a number of patents in the United States and abroad and intend to continue pursuing the legal protection of our technology through intellectual property laws. In addition, from time to time we acquire license rights under United States and foreign patents and other proprietary rights of third parties, and we attempt to protect our trade secrets and other proprietary information through confidentiality and other agreements with our customers, suppliers, employees and consultants and through other security measures. 
+
+Although we consider patents and other intellectual property significant to our business, due to the rapid pace of innovation within the process control and yield management systems industry, we believe that our protection through patent and other intellectual property rights is less important than factors such as our technological expertise, continuing development of new systems, market penetration, installed base and the ability to provide comprehensive support and service to customers worldwide. 
+
+No assurance can be given that patents will be issued on any of our applications, that license assignments will be made as anticipated, or that our patents, licenses or other proprietary rights will be sufficiently broad to protect our technology. No assurance can be given that any patents issued to or licensed by us will not be challenged, invalidated or circumvented or that the rights granted thereunder will provide us with a competitive advantage. In addition, there can be no assurance that we will be able to protect our technology or that competitors will not be able to independently develop similar or functionally competitive technology. 
+
+Environmental Matters 
+
+We are subject to a variety of federal, state and local governmental laws and regulations related to the protection of the environment, including without limitation the management of hazardous materials that we use in our business operations. Compliance with these environmental laws and regulations has not had, and is not expected to have, a material effect on our capital expenditures, financial condition, results of operations or competitive position. 
+
+However, any failure to comply with environmental laws and regulations may subject us to a range of consequences, including fines, suspension of certain of our business activities, limitations on our ability to sell our products, obligations to remediate environmental contamination, and criminal and civil liabilities or other sanctions. In addition, changes in environmental laws and regulations could require us to invest in potentially costly pollution control equipment, alter our manufacturing processes or use substitute materials. Our failure to comply with these laws and regulations could subject us to future liabilities. 
+
+Employees 
+
+As of June 30, 2016 , we employed approximately 5,580 full-time employees. Except for our employees in Belgium (where a trade union delegation has been recognized) and our employees in the German operations of our MIE business unit (who are represented by employee works council), none of our employees are represented by a labor union. We have not experienced work stoppages and believe that our employee relations are good. 
+
+Competition is intense in the recruiting of personnel in the semiconductor and semiconductor equipment industry. We believe that our future success will depend, in part, on our continued ability to hire and retain qualified management, marketing and technical employees. 
+
+&#32;13 
+
+Glossary 
+
+This section provides definitions for certain industry and technical terms commonly used in our business, which are used elsewhere in this Item 1: 
+
+back-end 
+
+&#160; 
+
+Process steps that make up the second half of the semiconductor manufacturing process, from contact through completion of the wafer prior to electrical test. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+broadband 
+
+&#160; 
+
+An illumination source with a wide spectral bandwidth. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+critical dimension (CD) 
+
+&#160; 
+
+The dimension of a specified geometry (such as the width of a patterned line or the distance between two lines) that must be within design tolerances in order to maintain semiconductor device performance consistency. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+design rules 
+
+&#160; 
+
+Rules that set forth the allowable dimensions of particular features used in the design and layout of integrated circuits. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+die 
+
+&#160; 
+
+The term for a single semiconductor chip on a wafer. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+electron-beam 
+
+&#160; 
+
+An illumination source comprised of a stream of electrons emitted by a single source. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+epitaxial silicon (epi) 
+
+&#160; 
+
+A substrate technology based on growing a crystalline silicon layer on top of a silicon wafer. The added layer, where the structure and orientation are matched to those of the silicon wafer, includes dopants (impurities) to imbue the substrate with special electronic properties. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+excursion 
+
+&#160; 
+
+For a manufacturing step or process, a deviation from normal operating conditions that can lead to decreased performance or yield of the final product. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+fab 
+
+&#160; 
+
+The main manufacturing facility for processing semiconductor wafers. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+front-end 
+
+&#160; 
+
+The processes that make up the first half of the semiconductor manufacturing process, from wafer start through final contact window processing. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+in-situ 
+
+&#160; 
+
+Refers to processing steps or tests that are done without moving the wafer. Latin for &#8220;in original position.&#8221; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+interconnect 
+
+&#160; 
+
+A highly conductive material, usually copper or aluminum, which carries electrical signals to different parts of a die. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+lithography 
+
+&#160; 
+
+A process in which a masked pattern is projected onto a photosensitive coating that covers a substrate. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+mask shop 
+
+&#160; 
+
+A manufacturer that produces the reticles used by semiconductor manufacturers. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+metrology 
+
+&#160; 
+
+The science of measurement to determine dimensions, quantity or capacity. In the semiconductor industry, typical measurements include critical dimension, overlay and film thickness. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+microelectromechanical systems (MEMS) 
+
+&#160; 
+
+Micron-sized mechanical devices powered by electricity, created using processes similar to those used to manufacture IC devices. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+micron 
+
+&#160; 
+
+A metric unit of linear measure that equals 1/1,000,000 meter (10 -6 m), or 10,000 angstroms (the diameter of a human hair is approximately 75 microns). 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Moore &#8217; s Law 
+
+&#160; 
+
+An observation made by Gordon Moore in 1965 and revised in 1975 that the number of transistors on a typical integrated circuit doubles approximately every two years. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+nanometer (nm) 
+
+&#160; 
+
+One billionth (10 -9 ) of a meter. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+narrowband 
+
+&#160; 
+
+An illumination source with a narrow spectral bandwidth, such as a laser. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#32;14 
+
+patterned 
+
+&#160; 
+
+For semiconductor manufacturing and industries using similar processing technologies, refers to substrates that have electronic circuits (transistors, interconnects, etc.) fabricated on the surface. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+photoresist 
+
+&#160; 
+
+A radiation-sensitive material that, when properly applied to a variety of substrates and then properly exposed and developed, masks portions of the substrate with a high degree of integrity. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+process control 
+
+&#160; 
+
+The ability to maintain specifications of products and equipment during manufacturing operations. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+reticle 
+
+&#160; 
+
+A very flat glass plate that contains the patterns to be reproduced on a wafer. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+silicon-on-insulator (SOI) 
+
+&#160; 
+
+A substrate technology comprised of a thin top silicon layer separated from the silicon substrate by a thin insulating layer of glass or silicon dioxide, used to improve performance and reduce the power consumption of IC circuits. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+substrate 
+
+&#160; 
+
+A wafer on which layers of various materials are added during the process of manufacturing semiconductor devices or circuits. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+unpatterned 
+
+&#160; 
+
+For semiconductor manufacturing and industries using similar processing technologies, refers to substrates that do not have electronic circuits (transistors, interconnects, etc.) fabricated on the surface. These can include bare silicon wafers, other bare substrates or substrates on which blanket films have been deposited. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+yield management 
+
+&#160; 
+
+The ability of a semiconductor manufacturer to oversee, manage and control its manufacturing processes so as to maximize the percentage of manufactured wafers or die that conform to pre-determined specifications. 
+
+__________________ 
+
+The definitions above are from internal sources, as well as the SEMATECH Dictionary of Semiconductor Terms. 
+
+&#32;15 
+

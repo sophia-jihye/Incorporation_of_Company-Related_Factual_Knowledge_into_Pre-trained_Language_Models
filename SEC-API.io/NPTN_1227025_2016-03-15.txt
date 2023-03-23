@@ -1,0 +1,960 @@
+ ITEM 1. BUSINES S 
+
+&#160; 
+
+FORWARD-LOOKING STATEMENTS 
+
+&#160; 
+
+You should read the following discussion in conjunction with our Consolidated Financial Statements and the related &#8220;Notes to Consolidated Financial Statements&#8221;, and &#8220;Financial Statements and Supplementary Data&#8221; included in this Annual Report on Form 10-K. This discussion contains forward-looking statements including statements concerning our possible or assumed future results of operations, business strategies, competitive position, industry environment, potential growth opportunities and the effects of competition. Such statements are based upon our management&#8217;s beliefs and assumptions and on information currently available to us. Forward-looking statements include statements that are not historical facts and can be identified by terms such as &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;could,&#8221; &#8220;seeks,&#8221; &#8220;estimates,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;may,&#8221; &#8220;plans,&#8221; &#8220;potential,&#8221; &#8220;predicts,&#8221; &#8220;projects,&#8221; &#8220;should,&#8221; &#8220;will,&#8221; &#8220;would&#8221; or similar expressions. Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These risks, uncertainties and other factors in this Annual Report on Form 10-K are discussed in greater detail under the heading &#8220;Risk Factors.&#8221; Given these uncertainties, you should not place undue reliance on these forward-looking statements. Also, forward-looking statements represent our management&#8217;s beliefs and assumptions only as of the date of this Annual Report on Form 10-K. You should read this Annual Report on Form 10-K completely and with the understanding that our actual future results may be materially different from what we expect. Except as required by law, we assume no obligation to update these forward-looking statements, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+&#160; 
+
+CONVENTIONS THAT APPLY IN THIS ANNUAL REPORT ON FORM 10-K 
+
+&#160; 
+
+Unless otherwise indicated, references in this Annual Report on Form 10-K to: 
+
+&#160; 
+
+&#183; 
+
+&#8220;3G&#8221; refers to third-generation wireless architecture; 
+
+&#160; 
+
+&#183; 
+
+&#8220;4G&#8221; refers to fourth-generation wireless architecture; 
+
+&#160; 
+
+&#183; 
+
+&#8220;10G&#8221; refers to 10 Gbps; 
+
+&#160; 
+
+&#183; 
+
+&#8220;100G products&#8221; collectively refers to all products sold by us designed for use at 100Gbps (&#8220;100G&#8221;), and in coherent transmission systems designed for use at 100Gbps or higher data rates. Some customers may use components designed for use at 100G at lower speeds. Our 100G products include both coherent transmission products and 100G network products that are not coherent; 
+
+&#160; 
+
+&#183; 
+
+&#8220;III-V compound semiconductors&#8221; refers to compound semiconductor materials made from group III and group V elements of the periodic table, such as Indium Phosphide and Gallium Arsenide; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Access&#8221; refers to the portion of the telecommunications network that connects subscribers to their carriers network; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Advanced Hybrid Photonic Integration&#8221; refers to state-of-the-art integration of multi-platform materials and devices; 
+
+&#160; 
+
+&#183; 
+
+&#8220;CDC&#8221; refers to Colorless, Directionless, and Contentionless; 
+
+&#160; 
+
+&#183; 
+
+&#8220;China&#8221; refers to the People&#8217;s Republic of China; 
+
+&#160; 
+
+&#160;
+
+&#183; 
+
+&#8220;Coherent&#8221; refers to optical transmission systems that encode information in the phase of an optical signal and decode such information through comparison with an independent laser at the receiver and digital signal processing; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Contentionless&#8221; refers to the ability to switch two or more channels of the same wavelength or color from different directions through the same switch, such as a Multi-Cast Switch (MCS); 
+
+&#160; 
+
+&#183; 
+
+&#8220;DCI&#8221; refers to Datacenter Interconnect; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Design win&#8221; refers to a confirmation by a customer that a product or group of products may be used as part of a customer&#8217;s product and we have a purchase order for such products; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Drop Modules&#8221; refers to wavelength multiplexer modules; 
+
+&#160; 
+
+&#183; 
+
+&#8220;ECL&#8221; refers to External Cavity Laser; 
+
+&#160; 
+
+&#183; 
+
+&#8220;EML&#8221; refers to Externally Modulated Laser; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Gbps&#8221; refers to gigabits per second; 
+
+&#160; 
+
+&#183; 
+
+&#8220;High Speed Products&#8221; refers to transmitter and receiver products as well as switching and other component products for 100G optical transmission applications over distances of 2 to 2,000 kilometers. Our high speed 100G and beyond products are based on our Advanced Hybrid Photonic Integration technology. These technologies support encoding 100 gigabits or more per second of information for transmitting over a single channel and decoding the information at the receiver. Through 2014, our use of this term included our products designed for use at 40Gbps (&#8220;40G&#8221;) and that comprised less than 1% of our total revenue and approximately 1% of our revenue from high speed products in the year ended December 31, 2014. From 2015 onward, High Speed Products refers exclusively to products sold by us and designed for use at 100Gbps or higher data rates; 
+
+&#160; 
+
+&#183; 
+
+&#8220;ICR&#8221; refers to Integrated Coherent Receiver; 
+
+&#160; 
+
+&#183; 
+
+&#8220;ICT&#8221; refers to Integrated Coherent Transmitter; 
+
+&#160; 
+
+&#183; 
+
+&#8220;ITLA&#8221; refers to Integrable Tunable Laser Assembly; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Long Haul&#8221; refers to fiber optic communications between central offices in different cities, where distances range from a few hundred to two thousand kilometers; 
+
+&#160; 
+
+&#183; 
+
+&#8220;LTE&#8221; refers to Long-Term Evolution wireless architecture; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Metro&#8221; refers to fiber optic communications between central offices within and around cities, with distances up to a few hundred kilometers; 
+
+&#160; 
+
+&#183; 
+
+&#8220;MCS&#8221; refers to Multi-Cast Switch; 
+
+&#160; 
+
+&#183; 
+
+&#8220;MPEG-2&#8221; refers to the Moving Picture Experts Group standard for compressed coding of moving pictures and associated audio information; 
+
+&#160; 
+
+&#183; 
+
+&#8220;Network Products and Solutions&#8221; collectively refers to all products sold by us for use in optical communications networks and a variety of other applications that are designed for use at data rates that are less than 100Gbps, including 40G, 10G and lower data rates. These products include certain passive products that do not explicitly have a data rate specification, but that are most commonly used in networks at 
+
+&#160;
+
+these data rates. From 2015 onward, Network Products and Solutions includes products sold by us and designed for use at 40G that, prior to 2015, were included with High Speed Products; 
+
+&#160; 
+
+&#183; 
+
+&#8220;NLW&#8221; refers to Narrow Line Width; 
+
+&#160; 
+
+&#183; 
+
+&#8220;PAM&#8221; or &#8220;PAM4&#8221; refers to Pulse Amplitude Modulation or PAM with four amplitude levels ; 
+
+&#160; 
+
+&#183; 
+
+&#8220;petabytes&#8221; refers to one million billion bytes; 
+
+&#160; 
+
+&#183; 
+
+&#8220;PIC&#8221; refers to Photonic Integrated Circuit; 
+
+&#160; 
+
+&#183; 
+
+&#8220;PLC&#8221; refers to Planar Lightwave Circuit; 
+
+&#160; 
+
+&#183; 
+
+&#8220;PON&#8221; refers to a Passive Optical Network; 
+
+&#160; 
+
+&#183; 
+
+&#8220;PSM&#8221; or &#8220;PSM4&#8221; refers to Parallel Single Mode or PSM with four parallel lanes or fibers; 
+
+&#160; 
+
+&#183; 
+
+&#8220;QSFP&#8221; refers to 40G and 100G Quad Small Form-factor modules that are pluggable into standard industry interfaces for switches, routers and other telecommunications equipment; 
+
+&#160; 
+
+&#183; 
+
+&#8220;ROADM&#8221; refers to Reconfigurable Optical Add Drop Multiplexer; 
+
+&#160; 
+
+&#183; 
+
+&#8220;SDN&#8221; refers to Software Defined Networks; 
+
+&#160; 
+
+&#183; 
+
+&#8220;SFP+&#8221; refers to 10G Small Form-factor modules that are pluggable into standard industry interfaces for switches, routers and other telecommunications equipment; 
+
+&#160; 
+
+&#183; 
+
+&#8220;U.S. GAAP&#8221; refers to generally accepted accounting principles in the United States; 
+
+&#160; 
+
+&#183; 
+
+&#8220;WDM&#8221; refers to Wavelength-Division Multiplexing and is a technology that combines multiple channels onto a single fiber using different wavelengths, or colors, of light; 
+
+&#160; 
+
+&#183; 
+
+&#8220;well-characterized&#8221; refers to the ability to predict the outcome of manufacturing processes based upon known statistics of various manufacturing inputs; and 
+
+&#160; 
+
+&#183; 
+
+&#8220;WSS&#8221; refers to Wavelength Selective Switch. 
+
+&#160; 
+
+Unless the context indicates otherwise, we use the terms &#8220;NeoPhotonics,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; and &#8220;the Company&#8221; in this Annual Report on Form 10-K to refer to NeoPhotonics Corporation and, where appropriate, its subsidiaries. 
+
+&#160; 
+
+BUSINESS 
+
+&#160; 
+
+Overview 
+
+&#160; 
+
+We develop, manufacture and sell optoelectronic products that transmit, receive and switch high speed digital optical signals for communications networks. We focus on growth in our 100Gbps (&#8220;100G&#8221;) and beyond products and &#160; we report our product group as &#8220;High Speed Products&#8221; and &#8220;N etwork Products and Solutions&#8221;. High Speed Products includes products designed for 100G and beyond for telecom and datacenter or content provider networks and applications. Network Products and Solutions comprises all products designed for applications below 100G, and includes 40G products . This group also includes passive optical products that do not have a specific data rate and are generally used in 10G and other low speed networks . &#160; 100G networks are among the highest growth segments of the optical communications market, supporting the rapid expansion of telecom backbone and content provider networks and 
+
+&#160;
+
+accommodating increased mobile traffic. The high speed 100G and beyond market, which requires advanced photonic integration technology, is the core focus of our strategy. 
+
+&#160; 
+
+Our Advanced Hybrid Photonic Integration technology progressively increases performance, reduces cost and reduces size of our products. This technology is an enabler to the development and manufacturing of products for 100G and beyond applications. In addition, the cost reductions and performance increases enabled by this technology are required for the growth of network capacity. 
+
+&#160; 
+
+Our 100G and beyond products require our Advanced Hybrid Photonic Integration technology. We produce photonic integrated circuits (PICs) that comprise both arrayed and individual photonic functional elements using optimized materials systems and processes from our in-house Silicon, Indium Phosphide and Gallium Arsenide wafer fabrication. These individual PICs from different materials are then combined using our hybrid integration technology to make complete products, such as our Integrated Coherent Receiver (ICR) for 100G coherent transport applications. 
+
+&#160; 
+
+According to Infonetics, the percent of WDM system revenue that is attributable to 100G network applications has grown from 12% of this market in 2012 and is forecasted to grow to 52% of this market in 2016. 
+
+&#160; 
+
+For telecom and inter-datacenter interconnections Coherent transmission is the technology of choice, providing an efficient path for transition from 100G to 400G data rates. For intra-datacenter interconnections, the release of 25G switches, itself part of a full upgrade cycle in the datacenter, is rapidly driving data lanes to 25G data rates and interconnections to use single mode fiber and single mode lasers. 
+
+&#160; 
+
+Service and content providers are demanding increasing levels of network capacity from their communications infrastructure investments in order to meet their growing network bandwidth needs. These applications utilize optical products in the switching, routing and transport systems they provide to service and content providers globally as the build, operate and expand their networks. 
+
+&#160; 
+
+Content providers increasingly design, build and operate their own datacenters, wide area networks and related optical network elements. This trend expands the potential demand for our products beyond the traditional providers of communications equipment. Our integration technologies provide methodologies for creating multiple functions in individual components, thereby reducing costs, saving space and lowering power. In addition, t he increasing use of 25G data lanes in client side telecom networks and in intra-datacenter connections is directly creating new demand for the range of 25G devices and high speed IC products we provide. 
+
+&#160; 
+
+The introduction of contentionless network architectures that incorporate &#8220;Colorless&#8221;, &#8220;Directionless&#8221; and &#8220;Contentionless&#8221; functionality is rapidly gaining momentum. The need to eliminate contention is being driven by the move to &#8220;software defined networks&#8221; or SDN, which is important to both telecom networks and content provider networks. A &#8220;contentionless&#8221; architecture in coherent networks uses both traditional &#8220;Wavelength Selective Switches&#8221; and newer &#8220;Multicast Switches&#8221;, which we supply. While it is notable that Verizon has chosen this architecture, it is also the case that a substantial amount of current demand derives from content providers and webscale customers. As one or more multicast switches are deployed initially with each ROADM node, and then additional multicast switches are deployed over time as traffic growth demands, networks are enabled to expand as needed. 
+
+&#160; 
+
+The percentage of our total revenue derived from our High Speed Products (100G and beyond) increased to 58% in the year ended December 31, 2015, up from 42% in the year ended December 31, 2014, reaching $195.8 million of revenue in the year ended December 31, 2015. Since 2011, our High Speed Product revenues have increased at a compound annual growth rate (CAGR) of 182% and since 2012 revenues from these products have increased at a CAGR of 47%. 
+
+&#160; 
+
+The 100G optical module and component market is growing rapidly, and it is steadily becoming a larger part of the total optical module and component market. At the same time , we are reducing production of certain of our product offerings for slower speeds that do not have good prospects for high growth and reasonable profitability. We continually seek to drive down our cost of goods, and are continuing to implement initiatives that are designed to reduce our infrastructure and operating expenses and to strengthen our balance sheet. 
+
+&#160;
+
+&#160; 
+
+We sell our products to the world&#8217;s leading network equipment manufacturers, including Alcatel-Lucent SA (which was acquired by Nokia Corporation in January 2016), Ciena Corporation, Cisco Systems, Inc. and Huawei Technologies Co., Ltd &#160; . These four companies are among our largest customers and together with emerging content developers and datacenter operators are the focus of our strategy due to their leading market positions. These four companies accounted for approximately 79% of our revenue in 2015 and approximately 68% of our revenue in 2014. 
+
+&#160; 
+
+We have research and development and wafer fabrication facilities in San Jose and Fremont, California and in Tokyo, Japan that coordinate with our research and development and manufacturing facilities in Dongguan, Shenzhen and Wuhan, China and Ottawa, Canada. We use proprietary design tools and design-for-manufacturing techniques to align our design process with our precision nanoscale, vertically integrated manufacturing and testing. We believe we are one of the highest volume PIC manufacturers in the world and that we can further expand our manufacturing capacity to meet market needs. 
+
+&#160; 
+
+In October 2011, we acquired Santur Corporation (Santur), a leading producer of tunable lasers and of 100G transceiver modules. Santur&#8217;s capabilities included array DFB (distributed feedback) lasers, silicon photonics and photonic integration of such active elements as lasers, modulators and photodiodes. 
+
+&#160; 
+
+In March 2013, we acquired the optical component business unit of LAPIS Semiconductor Co., Ltd., located in Japan, now known as NeoPhotonics Semiconductor, which is a leading producer of high performance communications lasers, photodiodes and optical control electronic devices. NeoPhotonics Semiconductor was built over 30 years as part of OKI Electric, and earned a reputation as a leading developer and supplier of the highest speed optoelectronic devices. This business produces high speed EML lasers and photodiodes from Indium Phosphide, and semiconductor drivers and high sensitivity amplifiers from Gallium Arsenide. 
+
+&#160; 
+
+In January 2015, we acquired certain assets and assumed certain liabilities of EMCORE Corporation&#8217;s (EMCORE) tunable laser product lines. The EMCORE ultra narrow linewidth tunable laser products are used in the industry&#8217;s highest speed applications and have strong complementary with our highest speed and most sensitive receiver products at speeds of 400G and beyond. 
+
+&#160; 
+
+We believe our technology is well positioned to serve the highest speed and most demanding applications. These three acquisitions, together with other internal developments, and acquisitions conducted prior to 2011, continue our path spanning more than ten years to develop complete Advanced Hybrid Photonic Integration capabilities. 
+
+&#160; 
+
+In November 2015, we acquired the assets of EigenLight Corporation (EigenLight) and their precision optical power monitoring technology and product lines. These optical power monitors are among the highest performance devices of their class and are used in high speed optical transmission systems together with other NeoPhotonics products. As a result , we see strong complementary with our existing product suite in applications having data rates at 40G, 100G and beyond. 
+
+&#160; 
+
+&#160; 
+
+Industry Background 
+
+&#160; 
+
+The realm of communications, having become almost entirely digital, has moved from electronic signals over copper wire to optical signals over thin glass fibers, which achieves the speed and capacity necessary for the current and future communications market. 
+
+&#160; 
+
+Increasingly, the most ubiquitous data link to users is via mobile devices through broadband wireless access. Smartphones now incorporate the most sophisticated and powerful applications which were developed at great cost over the last four decades for consumer electronics. Originally priced in the $100s, or $1,000s or $10,000s for earlier computing platforms, these applications, when migrated onto smartphones, are usually priced at cents to a few dollars per application. As cost performance has improved for applications by many orders of magnitude over the four decades since the introduction of the personal computer, so too has end user hardware advanced many orders of magnitude in cost performance, while network data rates have also increased a comparable magnitude. 
+
+&#160;
+
+&#160; 
+
+Further the deployment of networks has rapidly expanded from being the domain of telecom service providers to today&#8217;s deployment rate by enterprises and content providers. The rapid rise of internet traffic that is going through mega datacenters operated primarily by leading content companies including Amazon, Google, Microsoft, Apple and Facebook has created a large and rapidly growing new market for optical modules and components in general, but more specifically for high speed optical modules and components. 
+
+&#160; 
+
+This new era of connectedness is increasingly universal and demands that the capacity of the digital communications networks must increase exponentially. Smartphones and related wearable devices have emerged as the vehicle connecting the entire digital world, with more than one billion current smartphone users and a rapidly increasing volume of wearables. Not only are more people connected to the mobile web, they are connecting at increasingly higher data rates requiring higher bandwidths. Wireless network deployments have progressed from second generation (2G) to third generation (3G) to fourth generation (4G/LTE) and moving toward fifth generation (5G) &#160; to provide end-users ever-increasing download speeds. Fiber to the Home (FTTH) connections have also continued apace, with more than 100 million homes receiving such service, according to the FTTH Council, and with download speeds reaching as high as 1 Gbps . 
+
+&#160; 
+
+Industry Growth Dynamics 
+
+&#160; 
+
+The revolution in the power of low cost computing devices is associated with Moore&#8217;s Law. Moore&#8217;s Law refers to an observation made by Intel co-founder Gordon Moore in 1965 that the number of transistors per square inch on integrated circuits had doubled every two years since their invention and a prediction that this trend would continue. In the domain of optical communications, a similar revolution, progressing at a similar rate, is driven by the increased speed, smaller size and lower cost achieved by photonic integration. 
+
+&#160; 
+
+Bandwidth capacity of communications networks continues to expand at a rapid rate. According to Infonetics, total deployed telecom bandwidth capacity is expected to grow at a compound annual growth rate of 32% from 2013 to 2018, reaching more than 50 petabytes per second in 2018, while total deployed datacenter bandwidth capacity is expected to grow even faster, at a compound annual growth rate of 44% from 2013 to 2018 and reaching more than 900 petabytes per second in 2018. 
+
+&#160; 
+
+According to Infonetics, datacom 100G transceiver revenue is projected to grow at a 29% compound annual growth rate from 2013 to 2018, reaching $1 billion in 2018. In contrast, revenue from slower speed products such as 10G datacom transceivers is forecast to grow at only a 2% compound annual growth rate from 2013 to 2018. 
+
+&#160; 
+
+&#160; 
+
+Digital Optical Communications Market Structure 
+
+&#160; 
+
+The digital optical communications market has two main sectors, telecom (long haul, metro, access) and datacom. The telecom sector includes the global backbone of Long Haul and Metro communications. It also includes local access links to end users. Telecom, with its historical background as a public utility, is driven by reliability, telecom communications protocols and standards, and the long life of its infrastructure capital investment. The service life objective for products used in telecom infrastructure historically has been 20 years. 
+
+&#160; 
+
+The Long Haul telecom sector is the first adopter of the highest speed and most advanced communication links, which migrate over time into the Metro sector as costs are reduced such that they are economical in the shorter Metro network links, with its commensurate lower traffic densities prior to aggregation for Long Haul transport. 
+
+&#160; 
+
+The datacom market can be described primarily as an &#8220;enterprise&#8221; market, in contrast to the historical public utility nature of the telecom market. In addition to the broad enterprise market, datacom also includes data centers and infrastructure for cloud based services. Companies, including Amazon, Apple, Facebook, Google and Microsoft, are steadily increasing investments in very large datacenters as they implement cloud-based &#8220;big data&#8221; services that can be crowd-sourced and crowd-distributed, and that utilize machine-to-machine and inter-datacenter transactions to power the mobile web. Such very large datacenters are an emerging high growth market for &#8220;big pipes&#8221; using dedicated 100G and 
+
+&#160;
+
+beyond digital optical connections from datacenter to datacenter (inter-datacenter and datacenter interconnect, or DCI), datacenter to telecommunications carrier and within datacenters (intra-datacenter). 
+
+&#160; 
+
+Generations of hardware installations for datacom, such as server farms and &#8220;big data&#8221; network storage facilities, have relatively short lives, typically about five years, as computing and storage technology advances rapidly. Therefore, the datacom market for optoelectronic devices generates more rapid changes in form factors, energy efficiency and compactness than the telecom market. 
+
+&#160; 
+
+The datacom market is often the most cost sensitive sector of digital optical communications, and therefore it begins to adopt leading edge speeds after those speeds penetrate the Metro sector of the telecom market segment. 
+
+&#160; 
+
+From this market structure, it can be concluded that a technology leader must achieve a leadership position in the Long Haul telecom sector as the basis for commercializing the most advanced technology and then extending that technology to additional applications in datacenters and other datacom applications. 
+
+&#160; 
+
+Digital Optical Communications Network Equipment 
+
+&#160; 
+
+The structure of the industry that supplies the network equipment for the telecom digital optical communications network has largely concentrated down to leading vendors which include: Alcatel-Lucent (which was acquired by Nokia Corporation in January 2016), Ciena, Cisco, Coriant (including Tellabs, which was acquired by Coriant in 2013), Fujitsu Limited, Huawei, Infinera, NEC and ZTE. 
+
+&#160; 
+
+Major suppliers of network equipment to the datacom and datacenter market include Alcatel-Lucent (which was acquired by Nokia Corporation in January 2016), Brocade, Cisco, Huawei and Juniper. At the optical module and component level, Broadcom Ltd. (resulting from the acquisition of Broadcom by Avago Technologies), Finisar and Sumitomo Device Innovations are leading merchant suppliers and some larger network equipment companies like Huawei and Cisco have divisions or affiliates (such as HiSilicon in the case of Huawei) that are captive suppliers. Furthermore some of the largest investors in datacenters, for example, Google, are beginning to design and source their own optical network systems equipment from Asia-based OEMs. While the speeds for most of the datacom market today are at 10G, recent changes in switch architectures and interconnection has moved most new installations to higher 25G speeds, plus a fast growing 100G module market has emerged that provides &#8220;big pipes&#8221; connecting datacenters at 100G and even 200G data rates. 
+
+&#160; 
+
+A single optical fiber can carry nearly 100 individual wavelengths (colors), each of which can now support 100 gigabits per second of capacity. Each of these wavelengths requires a 100G transmitter and receiver, which can be tuned to any of the 100 separate channels. Thus, using 100G coherent technology and industry standard compression (MPEG-2), a single fiber can carry approximately 500,000 individual high definition full motion movies simultaneously over one fiber. 
+
+&#160; 
+
+The main photonic modules required for digital optical communications are transmitters, receivers and, where the network is branched, optical switches. Transmitters and receivers are often combined into single modules which are called transceivers. At the high end, such as Long Haul, a transmitter and receiver can be paired and combined with signal processing electronics to error correct and restore degradation which affects the signal after traveling long distances, in which case the unit is referred to as a transponder. For high speeds each of these product types requires photonic integration at the most advanced and complete level. 
+
+&#160; 
+
+Switching products, which switch different colors, or signal channels, down different branches of the network, have thus far been Reconfigurable Optical Add/Drop Multiplexers (ROADMs) consisting of Wavelength Selective Switches (WSSs). For 100G coherent networks, a new type of optical switch, the Multi-Cast Switch (MCS), has been developed and introduced to eliminate contention in 100G coherent switching. The need to eliminate contention is being driven by the move to &#8220;software defined networks&#8221; or SDN, which is important to both telecom network requirements and content provider networks. A &#8220;contentionless&#8221; architecture uses both traditional &#8220;Wavelength Selective Switches&#8221; and the new MCS, which is supplied by NeoPhotonics. One or more MCSs are deployed initially with each ROADM node, and then additional multicast switches are deployed over time as traffic growth demands, allowing networks to 
+
+&#160;
+
+efficiently expand as needed. This type of switch is Colorless, Directionless, Contentionless (CDC), and its function is optimized for 100G and beyond coherent networks. 
+
+&#160; 
+
+Digital Optical Communications Technology Background 
+
+&#160; 
+
+Advances in cost performance in photonic integration have followed a path that has been similar to electronic integrated circuits. 
+
+&#160; 
+
+The main objectives for technology advances in electronic digital integrated circuits and in integrated optical digital devices are similar, and are based on the drive towards lower cost and higher performance. In integrated optics these main objectives also include higher speed, lower power, smaller or denser form factor, and lower cost. 
+
+&#160; 
+
+In both electronics and optics these objectives require ever increasing integration and miniaturization. In optics, however, advanced hybrid integration is required for the highest performance products. Hybrid integration for digital optical devices incorporates multiple types of materials substrates, rather than just one, as in silicon, for an electronic integrated circuit. 
+
+&#160; 
+
+Complete advanced photonics integration capability requires at least three materials substrate systems: Indium Phosphide for active devices such as lasers, photodiode detectors, modulators, and amplifiers; Silicon or planar doped silicon dioxide (silica) for wave guides, filters, interferometers and other passive devices; and Gallium Arsenide or Silicon Germanium for drivers and control functions at the speeds necessary for 100G. The integration of more than one material substrate is called hybrid integration, and Advanced Hybrid Photonic Integration enables products in the 100G and beyond domain. 
+
+&#160; 
+
+Advent of Coherent Transmission 
+
+&#160; 
+
+The recent advent of coherent digital optical transmission has increased the native capacity of a fiber optic link tenfold, versus a transmission modulation of simple on/off such as in 10G WDM networks. Coherent transmission modulation encodes information via phase and polarization, and the permutations of these variables are many times greater than on/off. 
+
+&#160; 
+
+To create a detectable error-free signal in the coherent modality requires that each color (wavelength) transmitted be much purer than would be required for lower speed protocols. The primary enabler of ultra-narrow line width (NLW), that is, ultra pure color, is a new generation of the most advanced lasers. These NLW lasers must be paired with a new generation of receivers that decode phase and polarization through comparison with another NLW laser in a PIC-interferometer. Ultra-narrow line width lasers are built on Indium Phosphide substrates while the receivers utilize a Silicon or Indium Phosphide interferometer and Indium Phosphide photo detectors. 
+
+&#160; 
+
+These 100G and beyond coherent optical transmission devices require tighter tolerances of material thickness and other critical dimensions than do components operating at 10G. For 100G, a new generation of technologies, including faster Gallium Arsenide drivers, is required to suitably process transmission signals in both the laser transmitter or the detector and receiver. As transmission speeds move to 200G and 400G through higher order modulation protocols and higher symbol rates, even higher performance optical components are required. We believe we have established and characterized the full range of driver, laser and detector technologies required for implementing 100G, 200G and 400G coherent systems, a capability that we believe is held by only a few companies. 
+
+&#160; 
+
+Our Advanced Hybrid Photonic Integration Platform 
+
+&#160; 
+
+We believe we have developed or acquired all necessary capabilities required for producing high performance Advanced Hybrid Photonic Integrated optoelectronic devices for the most stringent performance requirements and operating conditions. Our multi-material platform leverages: 
+
+&#160; 
+
+Indium Phosphide (InP): Indium Phosphide is used to produce efficient lasers, sensitive photo detectors and modulators in the wavelength window typically used for telecommunications, i.e. 1.55 micron wavelengths, as it is a 
+
+&#160;
+
+direct bandgap III-V compound semiconductor material. InP is the most important material for the generation of laser signals and the detection and conversion of those signals back to electronic form. 
+
+&#160; 
+
+Silicon (Silicon Photonics or Planar Lightwave Circuits): Silicon is very inefficient in generating or detecting light in the telecom wavelength window as it is an indirect bandgap semiconductor material. Consequently, waveguides of Silicon or doped silicon dioxide (silica) exhibit very low optical loss and are ideal for switching, filtering or interferometric applications. We are now developing modulators using Silicon waveguides. 
+
+&#160; 
+
+Gallium Arsenide (GaAs): Gallium Arsenide can operate at very high speeds and is well suited to make analog integrated circuit drivers for high speed lasers and modulators due to its high electron mobility. GaAs is a direct bandgap III-V compound semiconductor material, but unlike InP, GaAs does not lase in the telecom wavelength window. 
+
+&#160; 
+
+Silicon Germanium (SiGe): Silicon Germanium is an alloy of Silicon and Germanium that is used to manufacture mixed signal and analog integrated circuits and is well suited for high speed amplifiers used in 100G systems. SiGe devices are made using standard silicon processing techniques in commercial foundries. 
+
+&#160; 
+
+We have developed design, integration and manufacturing approaches and techniques to produce advanced, high speed integrated solutions leveraging each of these in-house materials technology platforms. 
+
+&#160; 
+
+&#160; 
+
+Hybrid Photonic Integration 
+
+&#160; 
+
+&#160; 
+
+Products 
+
+&#160; 
+
+Indium Phosphide 
+
+&#160; 
+
+Silicon/Silica 
+
+&#160; 
+
+Gallium Arsenide/Silicon Germanium 
+
+Integrated Coherent Receiver 
+
+&#61537; 
+
+&#61537; 
+
+&#61537; 
+
+&#160; 
+
+100G Transceiver 
+
+&#61537; 
+
+&#61537; 
+
+&#61537; 
+
+&#160; 
+
+Multi-Cast Switch 
+
+&#61537; 
+
+&#61537; 
+
+&#61537; 
+
+&#160; 
+
+Narrow Line Width Tunable Laser 
+
+&#61537; 
+
+&#61537; 
+
+&#160; 
+
+100G EML Lasers/Photodiodes/Drivers 
+
+&#61537; 
+
+&#61537; 
+
+&#160; 
+
+Coherent Modulator/Driver 
+
+&#61537; 
+
+&#61537; 
+
+&#61537; 
+
+&#160; 
+
+Our Strategy 
+
+&#160; 
+
+&#183; 
+
+Continue innovating to develop industry-leading comprehensive technology for Advanced Hybrid Photonic Integration. Over the past three years, we have strengthened our technology platforms for comprehensive advanced photonic integration, in part from acquisitions and in part from internally funded development. We expect to continue to combine our mixed platform approach to design and produce the highest performance optical signal processing solutions. 
+
+&#160; 
+
+&#183; 
+
+Capture major customer share for the most advanced modules and components at the top suppliers of state of the art network equipment. We intend to deepen our relationships with our strategic customers by increasing design wins in their systems, including Alcatel-Lucent (which was acquired by Nokia Corporation in January 2016), Ciena and Huawei and certain others, which are market leaders in 100G coherent systems. 
+
+&#160; 
+
+&#183; 
+
+Offer complete optoelectronic solutions for 100G and beyond for leading edge telecom and datacom market segments. We expect to continue to introduce Coherent Transmitter products that are optimized for the 
+
+&#160;
+
+highest speeds and introduce Multi-Cast Switches so that our product line will include each of the major types of the most advanced products. 
+
+&#160; 
+
+&#183; 
+
+Achieve growth in integrated optical applications that leverage our core technology of advanced optoelectronic products . &#160; We intend to provide state of the art products and solutions to industry leading customers to advance our goal of achieving continuous improvement in operating performance, profitability and growth. 
+
+&#160; 
+
+&#183; 
+
+Focus on high growth segments that leverage our leadership in Advanced Hybrid Photonic Integration and that contribute to our profitable growth. We plan to continue to develop our products and solutions to capture new opportunities, such as emerging 400G connections in both carrier networks and within and between large datacenters. 
+
+&#160; 
+
+&#183; 
+
+Extend our product line into additional segments of the network that will benefit from ultra-high speed performance. We intend to penetrate the emerging market for 100G connections both within and between mega-datacenters. In this segment we are targeting major users and builders of datacenters and datacenter equipment, such as Amazon, Apple, Facebook, Google and Microsoft, as they develop some of their own network equipment. We believe our technology and product line is well positioned to penetrate this market. 
+
+&#160; 
+
+&#183; 
+
+Pursue acquisitions that extend our leadership position in advanced optoelectronic integration. We may opportunistically pursue acquisitions that we believe provide complementary technology and that can accelerate our growth and strengthen our market position. 
+
+&#160; 
+
+Our Technology 
+
+&#160; 
+
+We have developed expertise in the design, large-scale fabrication, high-volume module manufacturing and commercial deployment of our Advanced Hybrid Photonic Integration products and technologies. The process of designing and manufacturing advanced optoelectronic integrated devices in high volume with predictable, well-characterized performance and low manufacturing costs is complex and multi-faceted. We have developed the technologies, using multiple materials platforms for photonic integration, that are required to design and manufacture complex, high-performance optoelectronic components, modules and subsystems for fiber optic networks. The basic elements of our technology are as follows: 
+
+&#160; 
+
+Mixed-material platform and optoelectronic integration technology. We utilize a set of proprietary integration platforms that provide optoelectronic functionality on silicon and other integrated compound semiconductor substrates including Indium Phosphide, Gallium Arsenide and Silicon Germanium and integrated combinations of these platforms. We utilize micron and sub-micron scale structures of multiple silicon dioxide and Indium Phosphide waveguides to fabricate optoelectronic functional elements such as lasers, detectors, modulators, interferometers, integrated optical filters, switches and variable attenuators. We integrate these functional design elements into optoelectronic devices to achieve a desired functionality and specification that is incorporated into our products. Similarly, we use Gallium Arsenide and Silicon Germanium integration platforms for drivers, amplifiers and related high-speed electronic control functions for our integrated optoelectronic devices. 
+
+&#160; 
+
+Advanced Hybrid Photonic Integration. Through precise fabrication and positioning of physical features, we can integrate numerous different optoelectronic devices, which are fabricated on separate wafers from different semiconductor and related materials, matching the material to the function to create improved performance by using the highest performance elements of each type. For example, our hybrid integration allows us to integrate active devices, such as photodiodes or lasers fabricated using Indium Phosphide, with high-performance passive devices, such as interferometers, switches, routers and filters, fabricated on silicon, and to mate electronic amplifiers made with Silicon Germanium or drivers made with Gallium Arsenide directly to optical elements made with Silicon or Indium Phosphide. 
+
+&#160; 
+
+This ability to combine specific functional elements out of optimized materials not only allows for very compact and low power components, but also through the intimate coupling of different elements, makes possible completely new functions. An example of this multi-platform architecture is found in the coherent optical communications domain where 
+
+&#160;
+
+we intimately couple a passive interferometer with separate quadrature components carrying information and with photo detectors to turn a high speed optical signal into data-rich electrical signals for processing. 
+
+&#160; 
+
+Hardware and firmware integration. We also sell our products as modules and subsystems which contain electronic hardware and firmware controls that interface directly with our customers&#8217; systems. We design the electronic hardware and develop the firmware for control of our optical products and subsystems, and so that our optical products meet customer specifications. 
+
+&#160; 
+
+Devices, Components, Modules &#38; Subsystems. We are vertically integrated from the design of photonic integrated devices through manufacturing in our own wafer fabs and assembly and test in our own factories. We design and manufacture modules and subsystems that combine our key products with other elements to offer customers a complete solution. We sell products at each level of product utility and can achieve the highest performance and capture the greatest value. We utilize some contract manufacturers for assembly operations where it is cost effective. 
+
+&#160; 
+
+Fabrication and manufacturing processes. We have developed expertise in the technology domains relevant to high-volume fabrication and manufacturing of our optoelectronic integrated circuit products using wafer-scale processes and including the complex interaction of electro-optic, thermal-optic and mechanical micro-thermal features. Our complex manufacturing steps are analogous to many processes used in the semiconductor industry. Each integrated element is tested and characterized using our proprietary test equipment before incorporation into our products. 
+
+&#160; 
+
+Circuit design and design-for-manufacturing tools. We use a comprehensive set of proprietary as well as industry standard software design tools, to model relevant geometries, dimensions and thermal management for a broad range of photonic devices. With these tools, we develop products with minimal design iterations and manage precision manufacturing to a narrow range of high performance specifications. 
+
+&#160; 
+
+Our Products 
+
+&#160; 
+
+We develop and manufacture Transmitter Products, Receiver Products and Switch Products that are used in ultra-high speed digital optical communications, high speed switching and provisioning, and access connections for wireless and fiber-to-the-home communications networks. We combine our transmitter and receiver products into Transceiver modules. Our Switching Products, such as Multi-Cast Switches, are used primarily in ROADM nodes that dynamically and efficiently allocate bandwidth to adjust for fast changing traffic patterns and for provisioning software defined networks. Our products can be categorized into groups, including High Speed Products for ultra high speed 100G and beyond applications, including in coherent networks, and Network Products and Solutions, for lower speed networks including Access, 10G networks and other telecom products. 
+
+&#160; 
+
+High Speed Products : We produce transmitter and receiver products as well as switching products for 100G and beyond optical transmission applications over distances of 2 to 2,000 kilometers. In addition we combine 100G and beyond transmitter and receiver products into pluggable modules for both line side coherent and client side datacenter applications. All of our high speed 100G and beyond products are based on our Advanced Hybrid Photonic Integration technology. This technology supports encoding 100 gigabits or more per second of information for transmitting over a single channel and decoding the information at the receiver. Through 2014, our use of the term High Speed Products included products designed for use at 40G rates. From 2015 onward, High Speed Products will refer exclusively to products sold by us and designed for use at 100Gbps or higher data rates. 
+
+&#160; 
+
+For long distance transport of 100 to 2,000 kilometers, we design and manufacture optical components for coherent systems, which manipulate light to encode ten times or more the amount of information in the same wavelength channel than is possible with traditional methods. This manipulation can only be accomplished using advanced photonic integration to intimately couple functional elements together. Our Coherent Products include Narrow Linewidth Tunable transmit and local oscillator lasers (NLW-ITLA), which generate the ultra-pure wavelength, or color, necessary for coherent transmission, and Integrated Coherent Receivers (ICRs), which decode the phase and polarization encoded coherent signal. We support platforms for Narrow Lin ewidth Tunable transmission based on ECL s . 
+
+&#160; 
+
+&#160;
+
+We are introducing new generations of pluggable c oherent module s which combine our NLW-ITLA with our ICR and with a coherent modulator. Our first such product is a new CFP2-ACO module, which will be first sold in Class 3 configuration. We expect to be shipping these products in 2016. &#160; 
+
+&#160; 
+
+We also sell 100G products for the client side and datacenter applications, including our CFP2 pluggable module, as well as components, such as EMLs and high-speed drivers, which are used in 100G CFP and CFP2 pluggable modules . 
+
+&#160; 
+
+We are extending this product range with our new 100G QSFP28 modules, which are expected to ramp to volume shipments in the middle of 2016 for high-density, telecom-client and datacenter applications. Further, we are developing 400G client side modules in CFP8 configurations that will be based on our leading 28 Gbaud lasers at 50 Gbps using a PAM4 architecture. Taking this development one step further, we will also introduce an ultra-high-speed 56 Gbaud EML and driver IC set which will enable single wavelength PAM4 100G applications as well as eventually four wavelength 400G intra-datacenter transmission. 
+
+&#160; 
+
+Also, for mega-datacenter applications we have introduced a series of new high power laser diode array products designed to power short reach Silicon Photonics based 100G intra-datacenter interconnections using which use parallel single-mode architectures, or PSM4. 
+
+&#160; 
+
+We provide a proprietary switching solution for 100G coherent systems such as our Multi-Cast Switch (MCS) product line. Our 4x4 and cascadable 4x16 Multi-Cast Switch modules for CDC ROADMs efficiently allocate bandwidth and signal routing in 100G and higher data rate networks. The Multi-Cast Switch provides scalable contentionless operation to achieve the highest traffic management efficiency, optimizing traffic flows in coherent transmission systems. Our MCS uses our PLC photonic integration platform and consists of a complex array of switches, waveguides, taps, crossings and other functional elements manufactured on Silicon wafers using standard semiconductor processing equipment. 
+
+&#160; 
+
+Network Products and Solutions: We design and manufacture a broad range of products for optical communications networks and a variety of other applications, where the networks operate at speeds less than 100G. We offer a wide range of application-specific passive optical functionalities in modules or sub-system configurations. These include arrayed waveguide grating based drop modules for multiplexing and demultiplexing in conventional ROADM nodes as well as variable optical attenuators and tap power monitors for network monitoring and control. We combine several of these functions together in subsystems such as our VMUX, which combines up to 48 variable optical attenuators and an arrayed waveguide grating multiplexer in a single compact unit. In addition, many of these products provide high-bandwidth connections to base station antennas for mobile devices and to people and machines over fixed and wireless networks. As consumer connectivity speeds have increased through the transitions from 2G to 3G to 4G/LTE, the bandwidths necessary to aggregate and connect wireless traffic into the backbone network, including Mobile Backhaul, have also increased. We offer 10G EMLs, laser drivers, modulator drivers, photodiode receivers, as well as complete transceiver modules, SFP+ modules and bidirectional transceiver modules designed with the necessary bandwidth for connecting 4G/LTE wireless base station antennas. From 2015 onward, Network Products and Solutions will include products sold by us and designed for use at 40G that, prior to 2015, were included with High Speed products. 
+
+&#160; 
+
+&#160; 
+
+For applications under 100G, we also design and produce Switch Products which are manufactured using our Silicon wafer based waveguide integration platform. These products include Drop Modules used in current ROADM nodes. 
+
+&#160; 
+
+In addition to products for fiber optic communications, we also sell products for test and measurement, instrumentation, industrial and research applications. 
+
+&#160; 
+
+&#160;
+
+Our Infrastructure, Intellectual Properties and Our Employees 
+
+&#160; 
+
+We have product development and product sustaining engineering teams in Silicon Valley (San Jose and Fremont, California), Tokyo, Japan, and Shenzhen and Wuhan, China. In our Silicon Valley and Tokyo facilities we conduct research, product development and product roadmap definitions, including for our PIC products. In our Shenzhen facilities, we conduct new product development, manufacturing and process engineering, quality control, continuous improvement and cost reduction relating to product manufacturing, assembly and test. In our Wuhan, China and Ottawa, Canada facilities we conduct new product development. 
+
+&#160; 
+
+We seek to establish and maintain proprietary rights in our technology and products through the use of patents, copyrights and trade secret laws. We have filed applications for patents to protect certain of our intellectual property in the U.S. and in other countries, including Australia, Canada, Japan, Korea, Hong Kong, China, Russia, India, Taiwan and several European Union countries. As of December 31, 2015, we had over 650 issued patents, expiring between 2016 and 2033 covering various aspects of our technologies. 
+
+&#160; 
+
+We have manufacturing operations in the U.S., Japan, China and Russia. Our wafer fabrication operations are located in our San Jose and Fremont, California facilities, as well as in our Japan facilities, and include chip design, clean room fabrication, integration and related facilities for PICs. Our manufacturing, assembly and test operations are located in our Shenzhen and Dongguan, China facilities, and in Silicon Valley, California. In addition we have establish ed manufacturing capability in Russia. 
+
+&#160; 
+
+As of December 31, 2 015, we had 2, 304 employees and non-employee contractors, of which 2 67 were based in the U.S., 1,8 89 in China, 1 09 in Japan, 30 in Russia and Europe and 9 in Canada. 
+
+None of our U.S. employees are represented by a labor union. Chinese law allows that all employees be members of a union that is overseen by the Chinese government. The majority of the employees in our Japanese subsidiaries are also members of a union. We have never experienced employment-related work stoppages and we consider our employee relations to be good. 
+
+&#160; 
+
+Our Customers 
+
+&#160; 
+
+In 2015, 2014 and 2013, our ten largest customers accounted for 91%, 88% and 86% of our total revenue, respectively. In 2015, Huawei, together with its affiliate HiSilicon Technologies Co. Ltd. (collectively &#8220;Huawei&#8221;), and Ciena Corporation accounted for 44% and 21% of our total revenue, respectively. In 2014, Huawei, Ciena Corporation, and Alcatel-Lucent SA accounted for 38%, 15% and 10% of our total revenue, respectively. In 2013, Huawei, Ciena Corporation, and Alcatel-Lucent SA accounted for 27%, 16% and 14% of our total revenue, respectively. 
+
+&#160; 
+
+Our Sales and Marketing 
+
+&#160; 
+
+We operate a sales model that focuses on alignment with our customers through coordination of our sales, product application engineering and manufacturing teams. Our sales cycles typically require a significant amount of time and a substantial expenditure of resources before we can realize revenue from the sale of products. The length of our sales cycle, from initial request to design win, is typically 6 to 12 months for an existing product and 12 to 18 months or longer for a new product. 
+
+&#160; 
+
+We use a global direct sales force based in North America, Europe, Russia and Asia, including China and Japan. These individuals work with our product application engineers, and product marketing and sales operations teams, in an integrated approach to address our customers&#8217; current and future needs. We believe that these collaborative engineering activities provide us insight into our customers&#8217; broader and longer term needs. We expect to continue to add sales and related support personnel as we grow our business. 
+
+&#160; 
+
+Our marketing team focuses on product strategy, product development, roadmap development, new product introduction processes, program management, product demand stimulation and assessment, and competitive analysis. Our marketing team also seeks to educate the market about our products by communicating the value proposition and 
+
+&#160;
+
+product differentiation in direct customer interactions and presentations and at industry tradeshows and at technical conferences. 
+
+&#160; 
+
+Our Research and Development 
+
+&#160; 
+
+We have invested and expect to continue to invest significant time and capital into our research and development operations. Research and development expenses were $44.5 million, $46.0 million and $45.9 million in 2015, 2014 and 2013, respectively. 
+
+&#160; 
+
+Our Suppliers 
+
+&#160; 
+
+We use suppliers from the U.S., China, Japan and other locations. Although there are multiple sources for most of the component parts of our products, some components are sourced from single or, in some cases, limited sources. We typically do not have written agreements with the majority of these component manufacturers to guarantee the supply of the key components used in our products. We also use contract manufacturers in Japan, China and other Asia locations for the backend manufacturing of certain of our products. 
+
+&#160; 
+
+Our Backlog 
+
+&#160; 
+
+Sales of our products generally are made pursuant to purchase orders, often with short lead times. These purchase orders are typically made without deposits and may be subject to revision or cancellation. The quantities actually purchased by our customers, as well as the shipment schedules, are frequently revised to reflect changes in our customers&#8217; needs and in our supply of products. 
+
+&#160; 
+
+Certain of our customers use vendor managed inventory (VMI) arrangements under which we manufacture at a customer&#8217;s request, then ship to its facility or a designated contract manufacturer for the customer, to be held until it is used by the customer. We maintain title to vendor managed inventory until the customer uses the inventory. At that time the customer takes title to the products, it reports the consumption to us and we recognize the revenue for the product sale. The increased use of VMI by our customers may increase the possibility of changes to our backlog since customers may consume VMI more quickly or more slowly than we had planned. 
+
+&#160; 
+
+Because of the possibility of changes in delivery or acceptance schedules, cancellations, modifications or price reductions with limited or no penalties and the increasing use by customers of VMI, we do not believe that backlog is a firm or reliable indicator of our future revenue and do not rely on backlog to manage our business or evaluate our performance. Changes in the amount of our backlog do not necessarily reflect a corresponding change in the level of actual or potential sales. 
+
+&#160; 
+
+Seasonality 
+
+&#160; 
+
+Historically, our first quarter revenue is generally seasonally lower than the rest of the year primarily due to lower capacity utilization during the holidays in China and the impact of typical price negotiations during this period. This historical pattern should not be considered a reliable indicator of our future revenue or financial performance. 
+
+&#160; 
+
+Financial Information by Geographic Region 
+
+&#160; 
+
+For information regarding our revenue and long-lived assets by geographic region, see Note 16 to the Consolidated Financial Statements. For risks relating to our operations see &#8220;Item 1A. Risk Factors&#8221; and particularly the risks under the caption &#8220;Risks related to our operations in China&#8221; and the risk factors &#8220;Our future results of operations may be subject to volatility as a result of exposure to fluctuations in foreign exchange rates, primarily the Chinese Renminbi (RMB) and Japanese Yen (JPY) exchange rates&#8221;, &#8220;We face a variety of risks associated with international sales and operations, which if not adequately managed could adversely affect our business and financial results&#8221; and &#8220;We are subject to governmental export and import controls that could subject us to liability or impair our ability to compete in international markets&#8221;. 
+
+&#160; 
+
+&#160;
+
+Competition 
+
+&#160; 
+
+The market for optical communications systems is highly competitive. While no single company competes against us in all of our product areas, our competitors range from large international companies offering a wide range of products to smaller companies specializing in narrow markets. We believe the principal competitive factors in this market are: 
+
+&#160; 
+
+&#183; 
+
+ability to provide leading edge technologies for high speed communications; 
+
+&#160; 
+
+&#183; 
+
+ability to design and manufacture high quality, reliable products, including customized solutions; 
+
+&#160; 
+
+&#183; 
+
+breadth of product solutions; 
+
+&#160; 
+
+&#183; 
+
+price to performance characteristics; 
+
+&#160; 
+
+&#183; 
+
+financial stability; 
+
+&#160; 
+
+&#183; 
+
+ability to quickly and consistently produce in high volume and high quality; 
+
+&#160; 
+
+&#183; 
+
+ability to meet customers&#8217; specific requirements; 
+
+&#160; 
+
+&#183; 
+
+ability to meet customer lead time demands; and 
+
+&#160; 
+
+&#183; 
+
+depth of relationships with and proximity to key customers globally. 
+
+&#160; 
+
+We believe we compete favorably with respect to these factors. We believe our principal competitors include Accelink Technologies Co., Ltd., Broadcom Limited (formerly Avago Technologies Limited), Finisar Corporation, Innolight Technology Corporation, Lumentum Holdings, Inc. (formerly JDS Uniphase Corporation), NTT Electronics Corporation, Source Photonics, Inc., Oclaro, Inc., Sumitomo Electric Device Innovations, Inc., and others. 
+
+&#160; 
+
+Our competitors may have substantially greater name recognition and technical, financial and marketing resources than we do. Many of our competitors have greater resources to develop products or pursue acquisitions, and more experience in developing or acquiring new products and technologies and in creating market awareness for these products and technologies than we do. In addition, a number of our competitors have the financial resources to offer competitive products at below market pricing levels that could prevent us from competing effectively and which could adversely affect our financial performance. 
+
+&#160; 
+
+We also face competition from some of our customers, including Huawei Technologies and its affiliate, HiSilicon Technologies Co., Ltd., who evaluate our capabilities against the merits of manufacturing products internally. These customers may have the ability to manufacture competitive products at a lower cost than we would charge as a result of their higher levels of integration. As a result, these customers may purchase less of our products and there would be additional pressure to lower our selling prices which, accordingly, would negatively impact our revenue and gross margin. 
+
+&#160; 
+
+Environmental, Health and Safety Matters 
+
+&#160; 
+
+Our research and development and manufacturing operations and our products are subject to a variety of environmental, health and safety laws and regulations in the jurisdictions in which we operate. These regulations govern, among other things, the discharge of pollutants to air, water, and soil; the remediation of soil and groundwater contamination; the use, handling and disposal of hazardous materials; employee health and safety; and the hazardous material content and recycling of our products. We use, store and dispose of hazardous materials in our manufacturing operations and as components in our products. We incur costs to comply with existing environmental, health and safety requirements, and any failure to comply, or the identification of contamination for which we are found liable, could cause us to incur additional costs, including cleanup costs, monetary fines, or civil or criminal penalties, or result in the curtailment of our operations. In addition, environmental, health and safety requirements have become more stringent 
+
+&#160;
+
+over time, and changes to existing requirements could restrict our ability to expand our facilities, require us to acquire costly pollution control equipment, or cause us to incur other significant expenses or to modify our manufacturing processes or the contents of our products. Some jurisdictions in which we operate or sell our products have enacted requirements regarding the recycling of waste electronic equipment, and/or the packaging and hazardous material content of certain products. For example, jurisdictions including China and the European Union, among a growing number of jurisdictions, have placed restrictions on the use of lead, among other chemicals, in electronic products, which affects the composition and packaging of our products. The passage of such requirements in additional jurisdictions, or the tightening of standards or elimination of certain exemptions in jurisdictions where our products are already subject to such requirements, could cause us to incur significant expenditures to make our products compliant with new requirements, or could limit the markets into which we may sell our products. 
+
+&#160; 
+
+Additionally, increasing efforts to control emissions of greenhouse gases, or GHG, may also impact us. For example, our semiconductor manufacturing operations in California use perfluorocarbons, which are classified as a high global warming potential greenhouse gas. Under California&#8217;s Global Warming Solutions Act, we designed and installed additional pollution control equipment at our San Jose, California, manufacturing plant to reduce our perfluorocarbon emissions beginning in 2012. As of December 31, 2012 and continuing through December 31, 2015, our San Jose and Fremont, California, manufacturing facilities have maintained compliance with the Global Warming Solutions Act through the monitoring and reviewing of our Greenhouse Gas Emissions including permits issued locally by the Bay Area Air Quality Management District (BAAQMD), and we have submitted reports annually to verify such compliance . In the U.S., the Environmental Protection Agency has announced a finding relating to GHG emissions that may result in promulgation of federal GHG air quality standards. The U.S. Congress has considered various options, including a cap and trade system which would impose a limit and a price on GHG emissions and establish a market for trading GHG credits. China has agreed to join the Copenhagen Climate Accord, a voluntary (and non-binding) GHG agreement. Globally, negotiations for a treaty to succeed the 1997 Kyoto Protocol Treaty are ongoing, and it is not yet known whether (or on what terms) agreement will be reached on a successor treaty. Additional restrictions, limits, taxes, or other controls on GHG emissions could significantly increase our operating costs and, while it is not possible to estimate the specific impact any final GHG regulations will have on our operations, there can be no assurance that these measures will not have significant additional impact on us. In addition, some of our operations might be affected by the physical impacts of climate change. For example, some of our facilities are located in coastal areas that might be vulnerable to changes in sea level. 
+
+&#160; 
+
+Available Information 
+
+&#160; 
+
+We were incorporated in the State of Delaware in October 1996 as NanoGram Corporation, and we changed our name to NeoPhotonics Corporation in 2002. Our principal offices are located at 2911 Zanker Road, San Jose, CA 95134, USA and our telephone number is +1 (408) 232-9200. Our website address is www.neophotonics.com. Information found on, or accessible through, our website is not a part of, and is not incorporated into, this Annual Report on Form 10-K. 
+
+&#160; 
+
+We file electronically with the U.S. Securities and Exchange Commission, or SEC, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended. We make available on our website at www.neophotonics.com , free of charge, copies of these reports as soon as reasonably practicable after filing these reports with, or furnishing them to, the SEC. 
+
+&#160; 
+
+&#160;
+
