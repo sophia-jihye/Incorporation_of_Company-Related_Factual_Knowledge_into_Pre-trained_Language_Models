@@ -45,7 +45,7 @@ pip install transformers scikit-learn pandas tqdm matplotlib seaborn ipython nlt
 ## Dataset for post-training (Form 10-Ks)
 
 ### Python packages
-You can download the 3,990 item 1 sections used in the experiment <a href="https://drive.google.com/drive/folders/1wDletufalrRncQEQxRgCQlqyoMWGg8x3?usp=sharing">here</a>.
+You can download the Item 1 sections used in the experiment [here](https://github.com/sophia-jihye/Incorporation_of_Company-related_Factual_Knowledge_into_Pretrained_Language_Models/tree/main/SEC-API.io).
 - The dataset contains the Item 1 section of the 10-K filings published in 2016. No other years are included.
 - We used <a href="https://sec-api.io">SEC-API.io</a> to scrape Form 10-Ks and extract item 1 sections.
 
