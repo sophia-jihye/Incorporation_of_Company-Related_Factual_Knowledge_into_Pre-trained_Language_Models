@@ -20,7 +20,8 @@ def load_tokenizer_and_model(model_name_or_path, num_classes=None, mode='classif
         
     return tokenizer, model
 
-class FeatureExtractor:
+# Classification 문제를 풀도록 Fine-tuning 된 model의 cls embedding 값을 구할 때 사용
+class FeatureExtractor_cls_embedding:
     def __init__(self, model_name_or_dir, device):
         self.tokenizer, self.model = load_tokenizer_and_model(model_name_or_dir)
         self.device = device
