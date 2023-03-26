@@ -5,6 +5,9 @@
 In preparation
 ```
 
+### Pseudocode
+![pseudocode](./assets/pseudocode.jpg)
+
 ## Environment 
 ### `conda` environment
 ```bash
