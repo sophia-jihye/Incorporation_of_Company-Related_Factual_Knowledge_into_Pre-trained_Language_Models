@@ -1,4 +1,4 @@
-# Incorporation of Company-Related Factual Knowledge into Pretrained Language Models for Stock-Related Spam Tweet Filtering
+# Incorporation of Company-Related Factual Knowledge into Pre-trained Language Models for Stock-Related Spam Tweet Filtering
 
 ## Citation
 ```
