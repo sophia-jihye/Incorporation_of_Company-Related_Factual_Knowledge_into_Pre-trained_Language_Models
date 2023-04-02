@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import torch, os
 
-def train(model, train_dataset, val_dataset, save_dir, num_train_epochs=3):
+def train(model, train_dataset, val_dataset, save_dir, num_train_epochs=7):
     training_args = TrainingArguments(
         output_dir=save_dir,
         num_train_epochs=num_train_epochs,
