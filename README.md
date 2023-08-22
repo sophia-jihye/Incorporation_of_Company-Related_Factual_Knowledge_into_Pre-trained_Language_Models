@@ -2,7 +2,14 @@
 
 ## Citation
 ```
-In preparation
+@article{park2023incorporation,
+  title={Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering},
+  author={Park, Jihye and Cho, Sungzoon},
+  journal={Expert Systems with Applications},
+  pages={121021},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
 
 ### Pseudocode
