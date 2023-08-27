@@ -12,7 +12,17 @@
 }
 ```
 
-### Pseudocode
+## Huggingface 
+### We uploaded the best model, `SEC-BERT post-trained using company name masking on Form 10-K filings`, on Huggingface. 
+```python
+from transformers import AutoTokenizer, AutoModel
+  
+tokenizer = AutoTokenizer.from_pretrained("sophia-jihye/Incorporation_of_Company-Related_Factual_Knowledge_into_Pre-trained_Language_Models")
+model = AutoModel.from_pretrained("sophia-jihye/Incorporation_of_Company-Related_Factual_Knowledge_into_Pre-trained_Language_Models")
+
+```
+
+## Pseudocode
 ![pseudocode](./assets/pseudocode.jpg)
 
 ## Environment 
